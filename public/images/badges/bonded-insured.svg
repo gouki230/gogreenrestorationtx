@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" stroke="#b8860b" stroke-width="3" fill="#fdf8ed"/>
+  <circle cx="60" cy="60" r="48" stroke="#b8860b" stroke-width="1.5" fill="white"/>
+  <!-- Shield -->
+  <path d="M60 24 L78 34 L78 56 C78 72 60 84 60 84 C60 84 42 72 42 56 L42 34 Z" fill="#fdf8ed" stroke="#b8860b" stroke-width="1.5"/>
+  <path d="M52 52 L58 58 L70 44" stroke="#b8860b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="60" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="#b8860b">BONDED &amp;</text>
+  <text x="60" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="#b8860b">INSURED</text>
+</svg>

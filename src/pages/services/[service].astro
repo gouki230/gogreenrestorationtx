@@ -1,0 +1,228 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import services from '../../data/services.json';
+import dallasCities from '../../data/cities-dallas-county.json';
+import tarrantCities from '../../data/cities-tarrant-county.json';
+import { fillTemplate } from '../../utils/content';
+
+export function getStaticPaths() {
+  return services.map((service) => ({
+    params: { service: service.slug },
+    props: { service },
+  }));
+}
+
+const { service } = Astro.props;
+const allCities = [...dallasCities, ...tarrantCities];
+const dallasCitiesList = dallasCities.sort((a, b) => a.name.localeCompare(b.name));
+const tarrantCitiesList = tarrantCities.filter(c => c.countySlug === 'tarrant-county').sort((a, b) => a.name.localeCompare(b.name));
+
+const title = `${service.name} Services | Go Green Restoration Inc`;
+const description = `Professional ${service.name.toLowerCase()} services throughout Dallas-Fort Worth Metroplex. Licensed #TODO. 24/7 emergency response. Free estimates.`;
+
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: 'Services', url: '/services/' },
+  { name: service.name, url: `/services/${service.slug}/` },
+];
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": service.name,
+  "description": description,
+  "provider": {
+    "@type": "Organization",
+    "name": "Go Green Restoration Inc",
+    "url": "https://gogreenrestorationtx.com"
+  },
+  "areaServed": [
+    { "@type": "AdministrativeArea", "name": "Dallas County, Texas" },
+    { "@type": "AdministrativeArea", "name": "Tarrant County, Texas" }
+  ],
+  "serviceType": service.name,
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": `https://gogreenrestorationtx.com/services/${service.slug}/`,
+    "servicePhone": "+1-469-727-3217"
+  },
+  "hoursAvailable": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+    "opens": "00:00",
+    "closes": "23:59"
+  }
+};
+
+const otherServices = services.filter(s => s.slug !== service.slug);
+const serviceIcons: Record<string, string> = {
+  droplet: '💧', flame: '🔥', shield: '🛡️', 'alert-triangle': '⚠️', hammer: '🔨',
+};
+const serviceImages: Record<string, { src: string; alt: string }[]> = {
+  'water-damage-restoration': [
+    { src: '/images/site/go-green-technician-water-damage-repair.jpg', alt: 'Go Green technician performing water damage restoration' },
+    { src: '/images/site/go-green-water-damage-equipment.jpg', alt: 'Professional water damage extraction equipment' },
+    { src: '/images/site/go-green-water-damage-drying.jpg', alt: 'Structural drying equipment in use' },
+  ],
+  'fire-smoke-damage-restoration': [
+    { src: '/images/site/go-green-fire-damage-cleanup.jpg', alt: 'Go Green team performing fire damage cleanup' },
+    { src: '/images/site/go-green-smoke-damage-restoration.jpg', alt: 'Smoke damage restoration in progress' },
+    { src: '/images/site/go-green-team-restoration-work.jpg', alt: 'Restoration team cleaning smoke damage from walls' },
+  ],
+  'mold-remediation': [
+    { src: '/images/site/go-green-mold-remediation-ceiling.jpg', alt: 'Go Green mold remediation specialist working on ceiling' },
+    { src: '/images/site/go-green-mold-removal-process.jpg', alt: 'Professional mold removal process' },
+    { src: '/images/site/go-green-mold-containment.jpg', alt: 'Mold containment setup during remediation' },
+  ],
+  'sewage-backup-cleanup': [
+    { src: '/images/site/go-green-team-packout-warehouse.jpg', alt: 'Go Green team handling sewage damage cleanup' },
+    { src: '/images/site/go-green-technician-water-damage-repair.jpg', alt: 'Technician in protective gear during cleanup' },
+  ],
+  'construction-remodeling': [
+    { src: '/images/site/go-green-commercial-restoration.jpg', alt: 'Go Green commercial restoration project' },
+    { src: '/images/site/go-green-team-restoration-work.jpg', alt: 'Restoration and reconstruction team at work' },
+  ],
+};
+const images = serviceImages[service.slug] || [];
+---
+
+<BaseLayout title={title} description={description} schema={[serviceSchema]}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <!-- Hero -->
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-16 lg:py-20">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
+        <div>
+          <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">{service.name}</h1>
+          <p class="text-lg text-brand-warm-200 max-w-3xl mb-6">
+            24/7 emergency {service.shortName.toLowerCase()} services throughout Dallas-Fort Worth metroplex. Licensed (#TODO), bonded, and insured.
+          </p>
+          <a href="tel:+14697273217" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">
+            Call Now: (469) 727-3217
+          </a>
+        </div>
+        {service.image && (
+          <div class="rounded-2xl overflow-hidden shadow-2xl border-4 border-white/20 aspect-[4/3]">
+            <img src={service.image} alt={service.name} class="w-full h-full object-cover" width="900" height="675" fetchpriority="high" />
+          </div>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
+    <!-- Overview with Images -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
+      <div>
+        <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">About Our {service.name} Services</h2>
+        <p class="text-brand-gray-600 leading-relaxed mb-4">
+          {service.introTemplates[0].replace(/\{city\}/g, 'Southern Texas').replace(/\{county\}/g, 'the region')}
+        </p>
+      </div>
+      {images.length > 0 && (
+        <div class="grid grid-cols-2 gap-3">
+          {images.slice(0, 2).map((img) => (
+            <img src={img.src} alt={img.alt} class="rounded-xl w-full h-48 object-cover shadow-lg" loading="lazy" />
+          ))}
+        </div>
+      )}
+    </div>
+
+    <!-- Process Steps -->
+    <div class="mb-16">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-8">Our {service.shortName} Process</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {service.processSteps.map((step, index) => (
+          <div class="bg-brand-gray-50 rounded-xl p-6">
+            <div class="w-10 h-10 bg-brand-brown rounded-full flex items-center justify-center text-white font-bold mb-4">{index + 1}</div>
+            <h3 class="font-heading font-bold text-lg mb-2">{step.title}</h3>
+            <p class="text-brand-gray-600 text-sm">{step.description.replace(/\{city\}/g, 'your').replace(/\{county\}/g, 'your')}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Types of Damage -->
+    <div class="mb-16">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Types of Damage We Handle</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+        {service.damageTypes.map((type) => (
+          <div class="flex items-center gap-2 bg-brand-warm-100 px-4 py-3 rounded-lg">
+            <span class="text-brand-green">&#10003;</span>
+            <span class="text-sm text-brand-gray-800">{type}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Service Areas -->
+    <div class="mb-16">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">{service.name} Service Areas</h2>
+
+      <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">Dallas County</h3>
+      <div class="flex flex-wrap gap-2 mb-8">
+        {dallasCitiesList.map((city) => (
+          <a href={`/${service.slug}/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 hover:text-brand-brown rounded-full border border-brand-gray-200 hover:border-brand-green-200 transition-colors">
+            {city.name}
+          </a>
+        ))}
+      </div>
+
+      <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">Tarrant County</h3>
+      <div class="flex flex-wrap gap-2 mb-8">
+        {tarrantCitiesList.map((city) => (
+          <a href={`/${service.slug}/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 hover:text-brand-brown rounded-full border border-brand-gray-200 hover:border-brand-green-200 transition-colors">
+            {city.name}
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <!-- FAQ -->
+    <div class="mb-16">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Frequently Asked Questions</h2>
+      <div class="space-y-4 max-w-3xl">
+        {service.faqTemplates.map((faq) => (
+          <details class="bg-brand-gray-50 rounded-xl p-6 group">
+            <summary class="font-heading font-bold cursor-pointer list-none flex justify-between items-center">
+              <span>{faq.question.replace(/\{city\}/g, 'my area').replace(/\{county\}/g, 'the area')}</span>
+              <svg class="w-5 h-5 text-brand-gray-600 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
+            </summary>
+            <p class="mt-4 text-brand-gray-600">{faq.answer.replace(/\{city\}/g, 'your area').replace(/\{county\}/g, 'the area')}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+
+    <!-- Other Services -->
+    <div class="mb-16">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Other Restoration Services</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        {otherServices.map((s) => (
+          <a href={`/services/${s.slug}/`} class="group bg-white hover:bg-brand-gray-50 rounded-xl overflow-hidden transition-all border border-brand-gray-200 hover:border-brand-green-200 shadow-sm">
+            {s.image && (
+              <div class="aspect-[4/3] overflow-hidden bg-brand-gray-100">
+                <img src={s.image} alt={s.name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" width="900" height="675" />
+              </div>
+            )}
+            <div class="p-4">
+              <h3 class="font-heading font-bold text-brand-gray-900 group-hover:text-brand-brown text-sm">{s.name}</h3>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="bg-brand-brown text-white rounded-2xl p-8 lg:p-12 text-center">
+      <h2 class="font-heading text-2xl lg:text-3xl font-bold mb-4">Need {service.shortName} Help?</h2>
+      <p class="text-brand-warm-200 mb-6 max-w-2xl mx-auto">Contact us 24/7 for emergency {service.shortName.toLowerCase()} services. Free estimates, insurance claims assistance, and eco-friendly methods.</p>
+      <div class="flex flex-col sm:flex-row justify-center gap-4">
+        <a href="tel:+14697273217" class="bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">Call (469) 727-3217</a>
+        <a href="/contact/" class="bg-white/10 hover:bg-white/20 font-bold px-8 py-4 rounded-lg transition-colors border border-white/30">Get Free Estimate</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

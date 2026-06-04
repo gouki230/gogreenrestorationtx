@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import services from '../../data/services.json';
+
+const title = 'Restoration Services | Go Green Restoration Inc';
+const description = 'Complete restoration services in Dallas-Fort Worth Metroplex: water damage, fire & smoke damage, mold remediation, sewage cleanup, and construction. Licensed #TODO.';
+
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: 'Services', url: '/services/' },
+];
+
+const serviceIcons: Record<string, string> = {
+  droplet: '💧', flame: '🔥', shield: '🛡️', 'alert-triangle': '⚠️', hammer: '🔨',
+};
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="max-w-7xl mx-auto px-4 py-12">
+    <h1 class="font-heading text-4xl lg:text-5xl font-extrabold text-brand-gray-900 mb-6">Our Restoration Services</h1>
+    <p class="text-lg text-brand-gray-600 max-w-3xl mb-12">
+      Go Green Restoration Inc provides comprehensive property restoration services throughout Dallas-Fort Worth metroplex. From emergency water extraction to complete reconstruction, our licensed team (#TODO) handles every phase with eco-friendly methods.
+    </p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      {services.map((service) => (
+        <a href={`/services/${service.slug}/`} class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-8 transition-all hover:shadow-lg border border-transparent hover:border-brand-green-200">
+          <div class="text-4xl mb-4">{serviceIcons[service.icon]}</div>
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900 group-hover:text-brand-brown mb-3">{service.name}</h2>
+          <p class="text-brand-gray-600 mb-4">{service.introTemplates[0].replace(/\{city\}/g, 'your').replace(/\{county\}/g, 'your').slice(0, 200)}...</p>
+          <ul class="text-sm text-brand-gray-600 space-y-1 mb-4">
+            {service.damageTypes.slice(0, 4).map((type) => (
+              <li>&#10003; {type}</li>
+            ))}
+          </ul>
+          <span class="text-brand-brown font-medium group-hover:underline">Learn more &rarr;</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

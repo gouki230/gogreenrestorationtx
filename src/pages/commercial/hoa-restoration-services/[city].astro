@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import services from '../../../data/services.json';
+import dallasCities from '../../../data/cities-dallas-county.json';
+import tarrantCities from '../../../data/cities-tarrant-county.json';
+import { getNearbyCities } from '../../../utils/content';
+
+export function getStaticPaths() {
+  const allCities = [...dallasCities, ...tarrantCities];
+  return allCities.map((city) => ({
+    params: { city: city.slug },
+    props: { city },
+  }));
+}
+
+const { city } = Astro.props;
+const allCities = [...dallasCities, ...tarrantCities];
+const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 5);
+
+const title = `HOA Restoration Services in ${city.name}, TX | Go Green Restoration`;
+const description = `Specialized HOA restoration services in ${city.name}, ${city.county}. Multi-unit damage response, CC&R compliance, board communication. License #TODO.`;
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: 'Commercial', url: '/commercial/' },
+  { name: 'HOA Restoration', url: '/commercial/hoa-restoration-services/' },
+  { name: city.name, url: `/commercial/hoa-restoration-services/${city.slug}/` },
+];
+
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": `Go Green Restoration - HOA Services ${city.name}`,
+  "url": `https://gogreenrestorationtx.com/commercial/hoa-restoration-services/${city.slug}/`,
+  "telephone": "+1-469-727-3217",
+  "address": { "@type": "PostalAddress", "addressLocality": city.name, "addressRegion": "TX", "addressCountry": "US" },
+  "areaServed": { "@type": "City", "name": city.name },
+  "aggregateRating": { "@type": "AggregateRating", "ratingValue": "5.0", "reviewCount": "45", "bestRating": "5", "worstRating": "1" }
+};
+
+const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', shield: '🛡️', 'alert-triangle': '⚠️', hammer: '🔨' };
+---
+
+<BaseLayout title={title} description={description} schema={[localBusinessSchema]}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
+      <h1 class="font-heading text-3xl lg:text-4xl xl:text-5xl font-black mb-4">HOA Restoration Services in {city.name}, CA</h1>
+      <p class="text-lg text-brand-warm-200 mb-6">Multi-Unit Specialists | CC&R Compliance | Preferred Vendor Programs</p>
+      <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">Schedule a Property Assessment</a>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+      <div class="lg:col-span-2">
+        <div class="mb-12">
+          <p class="text-lg text-brand-gray-600 leading-relaxed mb-4">Go Green Restoration provides specialized HOA restoration services throughout {city.name}, {city.county}. We understand the unique needs of homeowners associations, from coordinating multi-unit restoration projects to ensuring compliance with your community's CC&Rs.</p>
+          <p class="text-brand-gray-600 leading-relaxed">Our dedicated HOA team offers a single point of contact for board members, detailed documentation for association records, and preferred vendor programs with priority response times for {city.name} communities.</p>
+        </div>
+
+        {city.commonIssues && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">HOA Considerations in {city.name}</h2>
+            <p class="text-brand-gray-600 leading-relaxed">{city.commonIssues} For HOAs and condominium associations in {city.name}, these risks are amplified by shared infrastructure and common areas that can affect multiple units simultaneously.</p>
+          </section>
+        )}
+
+        <section class="mb-12">
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">HOA Restoration Services in {city.name}</h2>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {services.map((s) => (
+              <a href={`/${s.slug}/${city.slug}/`} class="group flex items-center gap-3 bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-5 transition-all border border-transparent hover:border-brand-green-200">
+                <span class="text-2xl">{serviceIcons[s.icon]}</span>
+                <div>
+                  <h3 class="font-heading font-bold text-brand-gray-900 group-hover:text-brand-brown">{s.name}</h3>
+                  <span class="text-brand-orange text-sm">in {city.name} &rarr;</span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+
+        <section class="mb-12">
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Why {city.name} HOAs Choose Go Green</h2>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Board Communication</h3><p class="text-sm text-brand-gray-600">Detailed reports and dedicated contact for your HOA board.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">CC&R Compliance</h3><p class="text-sm text-brand-gray-600">All work meets your community's standards and specifications.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Multi-Unit Coordination</h3><p class="text-sm text-brand-gray-600">Expert coordination across affected units and common areas.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Preferred Vendor Programs</h3><p class="text-sm text-brand-gray-600">Priority response and preferred pricing for partner HOAs.</p></div>
+          </div>
+        </section>
+      </div>
+
+      <div class="lg:col-span-1">
+        <div class="sticky top-24 space-y-6">
+          <div class="bg-brand-brown text-white rounded-xl p-6">
+            <h3 class="font-heading font-bold text-lg mb-2">HOA Emergency?</h3>
+            <p class="text-brand-warm-200 text-sm mb-4">24/7 multi-unit emergency response in {city.name}</p>
+            <a href="tel:+14697273217" class="block bg-brand-green hover:bg-brand-green-light text-white font-bold text-center py-3 rounded-lg transition-colors mb-3">(469) 727-3217</a>
+            <a href="/contact/" class="block bg-white/10 hover:bg-white/20 text-white font-bold text-center py-3 rounded-lg transition-colors border border-white/30">Property Assessment</a>
+          </div>
+          <div class="bg-brand-gray-50 rounded-xl p-6">
+            <h3 class="font-heading font-bold text-lg mb-4">Also in {city.name}</h3>
+            <a href={`/commercial/property-management-restoration/${city.slug}/`} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1 mb-2">Property Management Restoration &rarr;</a>
+            <a href={`/locations/${city.countySlug}/${city.slug}/`} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1">All {city.name} Services &rarr;</a>
+          </div>
+          {nearbyCities.length > 0 && (
+            <div class="bg-brand-gray-50 rounded-xl p-6">
+              <h3 class="font-heading font-bold text-lg mb-4">HOA Services Nearby</h3>
+              <div class="space-y-2">
+                {nearbyCities.map((n) => (
+                  <a href={`/commercial/hoa-restoration-services/${n.slug}/`} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1">HOA Services in {n.name}</a>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

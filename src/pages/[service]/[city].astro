@@ -1,0 +1,327 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import CityMap from '../../components/CityMap.astro';
+import services from '../../data/services.json';
+import dallasCities from '../../data/cities-dallas-county.json';
+import tarrantCities from '../../data/cities-tarrant-county.json';
+import { selectTemplate, fillTemplate, getConditionalContent, getNearbyCities } from '../../utils/content';
+
+export function getStaticPaths() {
+  const allCities = [...dallasCities, ...tarrantCities];
+  const paths = [];
+  for (const service of services) {
+    for (const city of allCities) {
+      paths.push({
+        params: { service: service.slug, city: city.slug },
+        props: { service, city },
+      });
+    }
+  }
+  return paths;
+}
+
+const { service, city } = Astro.props;
+const allCities = [...dallasCities, ...tarrantCities];
+const otherServices = services.filter(s => s.slug !== service.slug);
+
+// Template selection
+const intro = fillTemplate(selectTemplate(service.introTemplates, city.slug), city.name, city.county);
+const processSteps = service.processSteps.map(s => ({
+  ...s,
+  description: fillTemplate(s.description, city.name, city.county),
+}));
+const faqs = service.faqTemplates.map(f => ({
+  question: fillTemplate(f.question, city.name, city.county),
+  answer: fillTemplate(f.answer, city.name, city.county),
+}));
+
+// Conditional content
+const conditionalSections = getConditionalContent(city.characteristics || []);
+
+// Nearby cities
+const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 5);
+
+// Meta — enhanced with city-specific details
+const title = fillTemplate(service.metaTitleTemplate, city.name, city.county);
+const neighborhoodSnippet = city.neighborhoods?.length > 0 ? ` Serving ${city.neighborhoods.slice(0, 2).join(', ')} & more.` : '';
+const characteristicSnippet = city.characteristics?.includes('wildfire-zone') ? ' Wildfire & storm damage specialists.' : city.characteristics?.includes('coastal') ? ' Coastal property specialists.' : city.characteristics?.includes('older-buildings') ? ' Aging infrastructure experts.' : '';
+const description = fillTemplate(service.metaDescriptionTemplate, city.name, city.county).replace(/\.$/, '') + characteristicSnippet + neighborhoodSnippet;
+const h1 = fillTemplate(service.h1Template, city.name, city.county);
+
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: 'Services', url: '/services/' },
+  { name: service.name, url: `/services/${service.slug}/` },
+  { name: city.name, url: `/${service.slug}/${city.slug}/` },
+];
+
+// Schema
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": `Go Green Restoration - ${service.name} ${city.name}`,
+  "url": `https://gogreenrestorationtx.com/${service.slug}/${city.slug}/`,
+  "telephone": "+1-469-727-3217",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": city.name,
+    "addressRegion": "TX",
+    "postalCode": city.zips?.[0] || '',
+    "addressCountry": "US"
+  },
+  ...(city.lat && city.lng ? {
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": city.lat,
+      "longitude": city.lng
+    }
+  } : {}),
+  "areaServed": { "@type": "City", "name": city.name },
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Go Green Restoration Inc",
+    "url": "https://gogreenrestorationtx.com"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "45",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": f.answer
+    }
+  }))
+};
+
+const serviceIcons: Record<string, string> = {
+  droplet: '💧', flame: '🔥', shield: '🛡️', 'alert-triangle': '⚠️', hammer: '🔨',
+};
+const serviceImage: Record<string, { src: string; alt: string }> = {
+  'water-damage-restoration': { src: '/images/site/go-green-technician-water-damage-repair.jpg', alt: `Water damage restoration technician working in ${city.name}` },
+  'fire-smoke-damage-restoration': { src: '/images/site/go-green-fire-damage-cleanup.jpg', alt: `Fire damage restoration team in ${city.name}` },
+  'mold-remediation': { src: '/images/site/go-green-mold-remediation-ceiling.jpg', alt: `Mold remediation specialist in ${city.name}` },
+  'sewage-backup-cleanup': { src: '/images/site/go-green-team-packout-warehouse.jpg', alt: `Sewage cleanup team in ${city.name}` },
+  'construction-remodeling': { src: '/images/site/go-green-commercial-restoration.jpg', alt: `Restoration construction project in ${city.name}` },
+};
+// Prefer the new service photo (from services.json) for the intro; fall back to the old per-service photo if missing
+const heroImage = service.image
+  ? { src: service.image, alt: `${service.name} in ${city.name}, CA` }
+  : serviceImage[service.slug];
+---
+
+<BaseLayout title={title} description={description} schema={[localBusinessSchema, faqSchema]}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <!-- Hero -->
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
+      <h1 class="font-heading text-3xl lg:text-4xl xl:text-5xl font-black mb-4">{h1}</h1>
+      <p class="text-lg text-brand-warm-200 mb-6">24/7 Emergency | License #TODO | Eco-Friendly Methods</p>
+      <a href="tel:+14697273217" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">
+        Call Now: (469) 727-3217
+      </a>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+      <!-- Main Content -->
+      <div class="lg:col-span-2">
+
+        <!-- Intro with Image -->
+        <div class="mb-12">
+          <p class="text-lg text-brand-gray-600 leading-relaxed mb-6">{intro}</p>
+          {heroImage && (
+            <img src={heroImage.src} alt={heroImage.alt} class="w-full h-64 lg:h-80 object-cover rounded-xl shadow-lg" loading="lazy" width="800" height="400" />
+          )}
+        </div>
+
+        <!-- City-Specific Risk Section -->
+        {city.commonIssues && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Why {city.name} Properties Are Vulnerable</h2>
+            <p class="text-brand-gray-600 leading-relaxed">{city.commonIssues}</p>
+          </section>
+        )}
+
+        <!-- Conditional Content Sections -->
+        {conditionalSections.length > 0 && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Local Considerations in {city.name}</h2>
+            {conditionalSections.map((section) => (
+              <p class="text-brand-gray-600 leading-relaxed mb-4">{section}</p>
+            ))}
+          </section>
+        )}
+
+        <!-- Process Steps -->
+        <section class="mb-12">
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Our {service.shortName} Process in {city.name}</h2>
+          <div class="space-y-4">
+            {processSteps.map((step, index) => (
+              <div class="flex gap-4 bg-brand-gray-50 rounded-xl p-6">
+                <div class="w-10 h-10 bg-brand-brown rounded-full flex items-center justify-center text-white font-bold shrink-0">{index + 1}</div>
+                <div>
+                  <h3 class="font-heading font-bold text-lg mb-1">{step.title}</h3>
+                  <p class="text-brand-gray-600 text-sm">{step.description}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <!-- Types of Damage -->
+        <section class="mb-12">
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Types of Damage We Handle in {city.name}</h2>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+            {service.damageTypes.map((type) => (
+              <div class="flex items-center gap-2 px-3 py-2">
+                <span class="text-brand-green">&#10003;</span>
+                <span class="text-brand-gray-600 text-sm">{type}</span>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <!-- Neighborhoods & Zip Codes -->
+        {(city.neighborhoods?.length > 0 || city.zips?.length > 0) && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">{city.name} Areas We Serve</h2>
+            {city.neighborhoods?.length > 0 && (
+              <div class="mb-4">
+                <h3 class="font-heading font-bold text-lg mb-2">Neighborhoods</h3>
+                <div class="flex flex-wrap gap-2">
+                  {city.neighborhoods.map((n: string) => (
+                    <span class="bg-brand-gray-50 px-3 py-1.5 rounded-full text-sm text-brand-gray-800">{n}</span>
+                  ))}
+                </div>
+              </div>
+            )}
+            {city.zips?.length > 0 && (
+              <div>
+                <h3 class="font-heading font-bold text-lg mb-2">ZIP Codes</h3>
+                <div class="flex flex-wrap gap-2">
+                  {city.zips.map((z: string) => (
+                    <span class="bg-brand-gray-50 px-3 py-1.5 rounded-full text-sm text-brand-gray-800">{z}</span>
+                  ))}
+                </div>
+              </div>
+            )}
+          </section>
+        )}
+
+        <!-- Insurance Section -->
+        <section class="mb-12 bg-brand-warm-100 rounded-xl p-8">
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">{service.shortName} Insurance Claims in {city.name}</h2>
+          <p class="text-brand-gray-600 leading-relaxed">
+            We work directly with all major insurance companies to handle your {service.shortName.toLowerCase()} claim in {city.name}. Our team documents damage, communicates with adjusters, and ensures you receive fair compensation. We handle the paperwork so you can focus on your family and property.
+          </p>
+        </section>
+
+        <!-- FAQ Section -->
+        <section class="mb-12">
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">{service.shortName} FAQ - {city.name}</h2>
+          <div class="space-y-4">
+            {faqs.map((faq) => (
+              <details class="bg-brand-gray-50 rounded-xl p-6 group">
+                <summary class="font-heading font-bold cursor-pointer list-none flex justify-between items-center">
+                  <span>{faq.question}</span>
+                  <svg class="w-5 h-5 text-brand-gray-600 group-open:rotate-180 transition-transform shrink-0 ml-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
+                </summary>
+                <p class="mt-4 text-brand-gray-600">{faq.answer}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      </div>
+
+      <!-- Sidebar -->
+      <div class="lg:col-span-1">
+        <div class="sticky top-24 space-y-6">
+          <!-- Quick Contact -->
+          <div class="bg-brand-brown text-white rounded-xl p-6">
+            <h3 class="font-heading font-bold text-lg mb-2">Need Help Now?</h3>
+            <p class="text-brand-warm-200 text-sm mb-4">24/7 emergency response in {city.name}</p>
+            <a href="tel:+14697273217" class="block bg-brand-green hover:bg-brand-green-light text-white font-bold text-center py-3 rounded-lg transition-colors mb-3">
+              (469) 727-3217
+            </a>
+            <a href="/contact/" class="block bg-white/10 hover:bg-white/20 text-white font-bold text-center py-3 rounded-lg transition-colors border border-white/30">
+              Free Estimate
+            </a>
+          </div>
+
+          <!-- Other Services in City -->
+          <div class="bg-brand-gray-50 rounded-xl p-6">
+            <h3 class="font-heading font-bold text-lg mb-4">Other Services in {city.name}</h3>
+            <div class="space-y-2">
+              {otherServices.map((s) => (
+                <a href={`/${s.slug}/${city.slug}/`} class="flex items-center gap-3 text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1 group">
+                  {s.image ? (
+                    <img src={s.image} alt="" class="w-9 h-9 rounded-md object-cover flex-shrink-0 border border-brand-gray-200" loading="lazy" width="36" height="36" />
+                  ) : (
+                    <span class="w-9 h-9 rounded-md bg-brand-green-50 flex items-center justify-center flex-shrink-0">{serviceIcons[s.icon]}</span>
+                  )}
+                  <span>{s.name}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+
+          <!-- Nearby Cities -->
+          {nearbyCities.length > 0 && (
+            <div class="bg-brand-gray-50 rounded-xl p-6">
+              <h3 class="font-heading font-bold text-lg mb-4">{service.shortName} Near {city.name}</h3>
+              <div class="space-y-2">
+                {nearbyCities.map((nearby) => (
+                  <a href={`/${service.slug}/${nearby.slug}/`} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1">
+                    {service.name} in {nearby.name}
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- Map -->
+          {city.lat && city.lng && (
+            <div>
+              <h3 class="font-heading font-bold text-lg mb-3">Service Area</h3>
+              <CityMap lat={city.lat} lng={city.lng} cityName={city.name} />
+            </div>
+          )}
+
+          <!-- Trust Badges -->
+          <div class="bg-brand-gray-50 rounded-xl p-6">
+            <h3 class="font-heading font-bold text-lg mb-4">Why Go Green?</h3>
+            <div class="space-y-3 text-sm">
+              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Licensed #TODO</div>
+              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Bonded & Insured</div>
+              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> IICRC Certified</div>
+              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Eco-Friendly Methods</div>
+              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> 100% Guarantee</div>
+              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Insurance Claims Help</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

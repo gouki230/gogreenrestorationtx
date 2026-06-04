@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import services from '../../../data/services.json';
+import dallasCities from '../../../data/cities-dallas-county.json';
+import tarrantCities from '../../../data/cities-tarrant-county.json';
+import { getNearbyCities } from '../../../utils/content';
+
+export function getStaticPaths() {
+  const allCities = [...dallasCities, ...tarrantCities];
+  return allCities.map((city) => ({
+    params: { city: city.slug },
+    props: { city },
+  }));
+}
+
+const { city } = Astro.props;
+const allCities = [...dallasCities, ...tarrantCities];
+const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 5);
+
+const title = `Property Management Restoration in ${city.name}, TX | Go Green Restoration`;
+const description = `Property management restoration services in ${city.name}, ${city.county}. Tenant coordination, multi-unit response, portfolio pricing. License #TODO.`;
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: 'Commercial', url: '/commercial/' },
+  { name: 'Property Management', url: '/commercial/property-management-restoration/' },
+  { name: city.name, url: `/commercial/property-management-restoration/${city.slug}/` },
+];
+
+const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', shield: '🛡️', 'alert-triangle': '⚠️', hammer: '🔨' };
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
+      <h1 class="font-heading text-3xl lg:text-4xl xl:text-5xl font-black mb-4">Property Management Restoration in {city.name}, CA</h1>
+      <p class="text-lg text-brand-warm-200 mb-6">Tenant Coordination | Portfolio Pricing | 24/7 Emergency</p>
+      <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">Schedule a Property Assessment</a>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+      <div class="lg:col-span-2">
+        <div class="mb-12">
+          <p class="text-lg text-brand-gray-600 leading-relaxed mb-4">Go Green Restoration provides specialized restoration services for property managers and apartment building owners in {city.name}, {city.county}. We understand the urgency and complexity of managing restoration in tenant-occupied properties.</p>
+          <p class="text-brand-gray-600 leading-relaxed">Our team handles tenant communication, coordinates access across multiple units, and provides detailed damage reports for your property records and insurance files.</p>
+        </div>
+
+        {city.commonIssues && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Property Management Considerations in {city.name}</h2>
+            <p class="text-brand-gray-600 leading-relaxed">{city.commonIssues} For property managers in {city.name}, these risks require proactive maintenance programs and reliable emergency restoration partnerships.</p>
+          </section>
+        )}
+
+        <section class="mb-12">
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Restoration Services for {city.name} Properties</h2>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {services.map((s) => (
+              <a href={`/${s.slug}/${city.slug}/`} class="group flex items-center gap-3 bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-5 transition-all border border-transparent hover:border-brand-green-200">
+                <span class="text-2xl">{serviceIcons[s.icon]}</span>
+                <div>
+                  <h3 class="font-heading font-bold text-brand-gray-900 group-hover:text-brand-brown">{s.name}</h3>
+                  <span class="text-brand-orange text-sm">in {city.name} &rarr;</span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+
+        <section class="mb-12">
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Property Manager Benefits</h2>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Tenant Communication</h3><p class="text-sm text-brand-gray-600">Direct coordination with affected tenants.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Portfolio Pricing</h3><p class="text-sm text-brand-gray-600">Multi-property pricing agreements.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Detailed Reporting</h3><p class="text-sm text-brand-gray-600">Comprehensive documentation for records.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Priority Response</h3><p class="text-sm text-brand-gray-600">Dedicated emergency line for PMs.</p></div>
+          </div>
+        </section>
+      </div>
+
+      <div class="lg:col-span-1">
+        <div class="sticky top-24 space-y-6">
+          <div class="bg-brand-brown text-white rounded-xl p-6">
+            <h3 class="font-heading font-bold text-lg mb-2">Property Emergency?</h3>
+            <p class="text-brand-warm-200 text-sm mb-4">24/7 response for managed properties in {city.name}</p>
+            <a href="tel:+14697273217" class="block bg-brand-green hover:bg-brand-green-light text-white font-bold text-center py-3 rounded-lg transition-colors mb-3">(469) 727-3217</a>
+            <a href="/contact/" class="block bg-white/10 hover:bg-white/20 text-white font-bold text-center py-3 rounded-lg transition-colors border border-white/30">Property Assessment</a>
+          </div>
+          <div class="bg-brand-gray-50 rounded-xl p-6">
+            <h3 class="font-heading font-bold text-lg mb-4">Also in {city.name}</h3>
+            <a href={`/commercial/hoa-restoration-services/${city.slug}/`} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1 mb-2">HOA Restoration Services &rarr;</a>
+            <a href={`/locations/${city.countySlug}/${city.slug}/`} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1">All {city.name} Services &rarr;</a>
+          </div>
+          {nearbyCities.length > 0 && (
+            <div class="bg-brand-gray-50 rounded-xl p-6">
+              <h3 class="font-heading font-bold text-lg mb-4">PM Services Nearby</h3>
+              <div class="space-y-2">
+                {nearbyCities.map((n) => (
+                  <a href={`/commercial/property-management-restoration/${n.slug}/`} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1">PM Services in {n.name}</a>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

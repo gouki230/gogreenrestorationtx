@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const title = 'Customer Reviews | Go Green Restoration Inc';
+const description = 'Read reviews from Go Green Restoration customers in Dallas-Fort Worth Counties. See why homeowners, HOAs, and property managers trust us for restoration services.';
+const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Reviews', url: '/reviews/' }];
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-16">
+      <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">Customer Reviews</h1>
+      <p class="text-lg text-brand-warm-200 max-w-3xl">See what our clients throughout Dallas-Fort Worth metroplex say about their experience with Go Green Restoration.</p>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <!-- Video Reviews -->
+    <div class="mb-16">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-8">Video Testimonials</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class="rounded-xl overflow-hidden shadow-lg aspect-video"><iframe src="https://www.youtube.com/embed/G-KfCmJHxTI?rel=0" title="Go Green Restoration Review" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy" class="w-full h-full"></iframe></div>
+        <div class="rounded-xl overflow-hidden shadow-lg aspect-video"><iframe src="https://www.youtube.com/embed/16zVA1TXfEg?rel=0" title="Customer Testimonial" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy" class="w-full h-full"></iframe></div>
+        <div class="rounded-xl overflow-hidden shadow-lg aspect-video"><iframe src="https://www.youtube.com/embed/lsyrkOaf0JI?rel=0" title="Customer Testimonial" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy" class="w-full h-full"></iframe></div>
+      </div>
+    </div>
+
+    <!-- Written Reviews -->
+    <div class="mb-16">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-8">Customer Testimonials</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class="bg-brand-gray-50 rounded-xl p-8"><div class="flex mb-4"><span class="text-brand-orange text-xl">&#9733;&#9733;&#9733;&#9733;&#9733;</span></div><p class="text-brand-gray-600 mb-6 italic">"Go Green Restoration was incredible. They responded within the hour after our pipe burst and had everything dried out and repaired faster than we expected. Professional, courteous, and they worked directly with our insurance. Highly recommend!"</p><div class="flex items-center gap-3"><div class="w-10 h-10 bg-brand-brown rounded-full flex items-center justify-center text-white font-bold">L</div><div><p class="font-bold">Logan L.</p><p class="text-sm text-brand-gray-600">Water Damage - Dallas</p></div></div></div>
+        <div class="bg-brand-gray-50 rounded-xl p-8"><div class="flex mb-4"><span class="text-brand-orange text-xl">&#9733;&#9733;&#9733;&#9733;&#9733;</span></div><p class="text-brand-gray-600 mb-6 italic">"After finding mold in our bathroom, we called Go Green and they were out the next day. They explained everything clearly, contained the area properly, and removed all the mold. Our air quality test came back clean. Great experience from start to finish."</p><div class="flex items-center gap-3"><div class="w-10 h-10 bg-brand-brown rounded-full flex items-center justify-center text-white font-bold">S</div><div><p class="font-bold">Sabrina K.</p><p class="text-sm text-brand-gray-600">Mold Remediation - Glendale</p></div></div></div>
+        <div class="bg-brand-gray-50 rounded-xl p-8"><div class="flex mb-4"><span class="text-brand-orange text-xl">&#9733;&#9733;&#9733;&#9733;&#9733;</span></div><p class="text-brand-gray-600 mb-6 italic">"We had fire damage in our kitchen and Go Green handled everything - from boarding up the same night to the complete rebuild. They made the insurance process painless and our kitchen looks even better than before. Couldn't be happier."</p><div class="flex items-center gap-3"><div class="w-10 h-10 bg-brand-brown rounded-full flex items-center justify-center text-white font-bold">R</div><div><p class="font-bold">Reynaldo A.</p><p class="text-sm text-brand-gray-600">Fire Damage - Burbank</p></div></div></div>
+      </div>
+    </div>
+
+    <div class="bg-brand-brown text-white rounded-2xl p-8 lg:p-12 text-center">
+      <h2 class="font-heading text-2xl lg:text-3xl font-bold mb-4">Experience the Go Green Difference</h2>
+      <p class="text-brand-warm-200 mb-6">Join hundreds of satisfied customers throughout Dallas and Fort Worth Counties.</p>
+      <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">Get Your Free Estimate</a>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" stroke="#003366" stroke-width="3" fill="#f0f4f8"/>
+  <circle cx="60" cy="60" r="48" stroke="#003366" stroke-width="1.5" fill="white"/>
+  <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#003366">IICRC</text>
+  <text x="60" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#003366">CERTIFIED</text>
+  <line x1="35" y1="57" x2="85" y2="57" stroke="#003366" stroke-width="0.5"/>
+  <text x="60" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="6" fill="#555">INSPECTION</text>
+  <text x="60" y="79" text-anchor="middle" font-family="Arial, sans-serif" font-size="6" fill="#555">CLEANING &amp;</text>
+  <text x="60" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="6" fill="#555">RESTORATION</text>
+  <polygon points="60,16 63,24 72,24 65,29 68,37 60,33 52,37 55,29 48,24 57,24" fill="#003366"/>
+</svg>

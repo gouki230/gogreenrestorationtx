@@ -1,0 +1,213 @@
+[
+  {
+    "name": "Water Damage Restoration",
+    "slug": "water-damage-restoration",
+    "shortName": "Water Damage",
+    "icon": "droplet",
+    "image": "/images/services/water-damage.jpg",
+    "cardDescription": "Fast water extraction, drying, and dehumidification to prevent further damage and mold growth.",
+    "priority": 1,
+    "metaTitleTemplate": "Water Damage Restoration in {city}, TX | Go Green Restoration",
+    "metaDescriptionTemplate": "24/7 water damage restoration in {city}, {county}. Licensed (#TODO), bonded & insured. Emergency water extraction, drying & repair. Call now for a free estimate.",
+    "h1Template": "Water Damage Restoration in {city}, CA",
+    "introTemplates": [
+      "When water damage strikes your {city} home or business, every minute counts. Go Green Restoration Inc provides rapid-response water damage restoration services throughout {city} and surrounding {county} communities. Our IICRC-certified technicians arrive equipped with commercial-grade extraction and drying equipment to minimize damage and restore your property efficiently.",
+      "Water damage can devastate your {city} property if not addressed immediately. Go Green Restoration Inc offers comprehensive water damage restoration in {city}, {county}, with response times designed for emergencies. From burst pipes to storm flooding, our licensed team (#TODO) handles every aspect of water damage cleanup, structural drying, and complete restoration.",
+      "Go Green Restoration Inc is your trusted partner for water damage restoration in {city}, Texas. Serving the {county} area with 24/7 emergency response, our eco-friendly restoration approach protects both your property and the environment. We work directly with your insurance company to streamline the claims process and get your {city} property back to normal."
+    ],
+    "processSteps": [
+      { "title": "Emergency Contact", "description": "Call our 24/7 hotline. Our {city} dispatch team responds immediately, gathering details about your water damage situation to prepare the right equipment and crew." },
+      { "title": "Inspection & Assessment", "description": "Our certified technicians arrive at your {city} property to perform a thorough water damage inspection using moisture detection equipment to map the full extent of damage." },
+      { "title": "Water Extraction", "description": "Using commercial-grade pumps and extraction units, we remove standing water from your {city} property quickly to prevent further damage to floors, walls, and belongings." },
+      { "title": "Drying & Dehumidification", "description": "We deploy industrial air movers and dehumidifiers throughout your {city} home or business, monitoring moisture levels daily until the structure reaches acceptable drying standards." },
+      { "title": "Cleaning & Sanitizing", "description": "All affected areas of your {city} property are cleaned, sanitized, and treated with antimicrobial solutions to prevent mold growth and eliminate odors." },
+      { "title": "Restoration & Repair", "description": "From minor drywall repairs to major reconstruction, we restore your {city} property to its pre-damage condition, coordinating directly with your insurance adjuster." }
+    ],
+    "damageTypes": [
+      "Burst and frozen pipes",
+      "Appliance leaks and overflows",
+      "Roof leaks and storm damage",
+      "Sewage backups",
+      "Flooding from heavy rain",
+      "Water heater failures",
+      "HVAC condensation issues",
+      "Foundation and basement seepage"
+    ],
+    "faqTemplates": [
+      { "question": "How quickly can you respond to water damage in {city}?", "answer": "We offer 24/7 emergency response throughout {city} and {county}. Our technicians typically arrive within 60 minutes of your call, equipped and ready to begin water extraction immediately." },
+      { "question": "Does insurance cover water damage restoration in {city}?", "answer": "Most homeowner's insurance policies in {city} cover sudden and accidental water damage, such as burst pipes or appliance failures. We work directly with your insurance company and help with the entire claims process." },
+      { "question": "How long does water damage restoration take in {city}?", "answer": "The timeline depends on the severity of damage. Minor water damage in a {city} home may be resolved in 3-5 days, while extensive flooding can take 1-2 weeks. We provide a detailed timeline during our initial assessment." },
+      { "question": "Can water damage cause mold in my {city} home?", "answer": "Yes, mold can begin growing within 24-48 hours of water exposure in {city}'s climate. That's why rapid response is critical. Our restoration process includes antimicrobial treatment to prevent mold growth." },
+      { "question": "What should I do while waiting for water damage help in {city}?", "answer": "Turn off the water source if possible, move valuables to a dry area, avoid electrical outlets near water, and do not use household vacuums on standing water. Our team will handle everything else upon arrival." }
+    ],
+    "relatedResources": ["water-damage"]
+  },
+  {
+    "name": "Fire & Smoke Damage Restoration",
+    "slug": "fire-smoke-damage-restoration",
+    "shortName": "Fire Damage",
+    "icon": "flame",
+    "image": "/images/services/fire-damage.jpg",
+    "cardDescription": "Complete cleanup, deodorization, and restoration after fire and smoke damage.",
+    "priority": 2,
+    "metaTitleTemplate": "Fire & Smoke Damage Restoration in {city}, TX | Go Green Restoration",
+    "metaDescriptionTemplate": "Expert fire and smoke damage restoration in {city}, {county}. 24/7 emergency board-up, smoke odor removal & full reconstruction. Licensed #TODO. Free estimates.",
+    "h1Template": "Fire & Smoke Damage Restoration in {city}, CA",
+    "introTemplates": [
+      "After a fire, the damage doesn't stop when the flames go out. Smoke, soot, and water from firefighting efforts continue to harm your {city} property. Go Green Restoration Inc provides complete fire and smoke damage restoration in {city}, {county}, from emergency board-up to full reconstruction.",
+      "Fire damage to your {city} property requires immediate professional attention. Go Green Restoration Inc delivers comprehensive fire and smoke damage restoration throughout {city} and {county}. Our licensed team (#TODO) handles everything from initial damage assessment and debris removal to smoke odor elimination and structural rebuilding.",
+      "Go Green Restoration Inc understands the devastation fire brings to {city} families and businesses. Our fire damage restoration team serves all of {city}, {county}, with 24/7 emergency response. We use eco-friendly cleaning methods and advanced techniques to restore fire and smoke damaged properties while protecting the environment."
+    ],
+    "processSteps": [
+      { "title": "Emergency Board-Up & Tarping", "description": "We secure your {city} property immediately with professional board-up services and roof tarping to prevent further damage from weather, vandalism, or animals." },
+      { "title": "Damage Assessment", "description": "Our certified technicians perform a detailed inspection of your {city} property, documenting all fire, smoke, and water damage for insurance purposes." },
+      { "title": "Soot & Smoke Removal", "description": "Using specialized equipment and techniques, we remove soot and smoke residue from all surfaces in your {city} property, including walls, ceilings, and HVAC systems." },
+      { "title": "Odor Elimination", "description": "We deploy thermal fogging, ozone treatment, and hydroxyl generators to completely eliminate smoke odors from your {city} home or business." },
+      { "title": "Cleaning & Content Restoration", "description": "Salvageable belongings are carefully cleaned and restored. We inventory all items and work with your insurance company on replacement of unsalvageable contents." },
+      { "title": "Structural Reconstruction", "description": "Our construction team rebuilds damaged areas of your {city} property to pre-fire condition, handling all permits and inspections required by local building codes." }
+    ],
+    "damageTypes": [
+      "Kitchen fires",
+      "Electrical fires",
+      "Wildfire and brush fire damage",
+      "Smoke and soot damage",
+      "Water damage from firefighting",
+      "HVAC smoke contamination",
+      "Commercial fire damage",
+      "Garage and workshop fires"
+    ],
+    "faqTemplates": [
+      { "question": "How soon should I call after a fire at my {city} property?", "answer": "Call immediately. Soot and smoke residue become harder to remove over time and can cause permanent damage within hours. Our 24/7 team can begin securing your {city} property right away." },
+      { "question": "Does homeowner's insurance cover fire damage in {city}?", "answer": "Most standard homeowner's policies in {city} cover fire damage, including structural repairs, content replacement, and additional living expenses. We work directly with your insurer throughout the process." },
+      { "question": "Can you remove smoke smell from my {city} home?", "answer": "Yes. We use professional-grade thermal fogging, ozone treatment, and hydroxyl generators to completely eliminate smoke odors. Our technicians also clean HVAC systems to prevent recirculation of smoke particles." },
+      { "question": "How long does fire damage restoration take in {city}?", "answer": "Minor smoke damage may be resolved in 1-2 weeks. Significant structural fire damage in a {city} property can take 2-6 months including reconstruction. We provide a detailed timeline after our initial assessment." }
+    ],
+    "relatedResources": ["fire-damage"]
+  },
+  {
+    "name": "Mold Remediation",
+    "slug": "mold-remediation",
+    "shortName": "Mold Removal",
+    "icon": "mold",
+    "image": "/images/services/mold-remediation.jpg",
+    "cardDescription": "Identify, contain, and remove mold while improving indoor air quality and safety.",
+    "priority": 3,
+    "metaTitleTemplate": "Mold Remediation in {city}, TX | Go Green Restoration",
+    "metaDescriptionTemplate": "Professional mold remediation in {city}, {county}. Licensed mold removal (#TODO), testing & prevention. Eco-friendly methods. Free mold inspection.",
+    "h1Template": "Mold Remediation in {city}, CA",
+    "introTemplates": [
+      "Mold in your {city} home or business is more than an eyesore — it's a health hazard. Go Green Restoration Inc provides professional mold remediation throughout {city} and {county}. Our licensed technicians (#TODO) use eco-friendly methods to safely remove mold, treat affected areas, and prevent future growth.",
+      "If you suspect mold in your {city} property, don't wait. Go Green Restoration Inc offers comprehensive mold remediation services in {city}, {county}, from initial testing and inspection to complete removal and prevention. Our team follows strict industry protocols to protect your health and property.",
+      "Go Green Restoration Inc is the trusted choice for mold remediation in {city}, Texas. Serving {county} with certified mold specialists, we identify the source of moisture, safely remove all mold growth, and implement prevention strategies. Our eco-friendly approach is safe for your family, pets, and the environment."
+    ],
+    "processSteps": [
+      { "title": "Mold Inspection & Testing", "description": "We perform a thorough mold inspection of your {city} property, including air quality testing and surface sampling to identify mold species and the extent of contamination." },
+      { "title": "Containment", "description": "Affected areas of your {city} property are sealed with professional containment barriers and negative air pressure to prevent mold spores from spreading during remediation." },
+      { "title": "Air Filtration", "description": "HEPA air scrubbers and filtration systems capture airborne mold spores throughout your {city} property, improving indoor air quality during the remediation process." },
+      { "title": "Mold Removal", "description": "Our technicians remove mold-infested materials and treat all affected surfaces in your {city} home using EPA-registered antimicrobial solutions and eco-friendly products." },
+      { "title": "Moisture Control", "description": "We identify and address the moisture source that caused mold growth in your {city} property, implementing solutions to prevent recurrence." },
+      { "title": "Clearance Testing & Restoration", "description": "Post-remediation air quality testing confirms your {city} property is safe. We then restore any removed materials, including drywall, flooring, and trim." }
+    ],
+    "damageTypes": [
+      "Black mold (Stachybotrys)",
+      "Bathroom and kitchen mold",
+      "Attic and crawl space mold",
+      "HVAC system mold",
+      "Post-water damage mold",
+      "Basement and foundation mold",
+      "Hidden mold behind walls",
+      "Commercial building mold"
+    ],
+    "faqTemplates": [
+      { "question": "How do I know if I have mold in my {city} home?", "answer": "Common signs include musty odors, visible discoloration on walls or ceilings, water stains, and unexplained allergic symptoms. We offer free mold inspections for {city} properties to determine if remediation is needed." },
+      { "question": "Is mold remediation covered by insurance in {city}?", "answer": "Insurance coverage depends on the cause. Mold from sudden events like burst pipes is typically covered. Mold from long-term neglect or maintenance issues may not be. We help {city} homeowners navigate the claims process." },
+      { "question": "How long does mold remediation take in {city}?", "answer": "Most mold remediation projects in {city} take 3-7 days depending on the size of the affected area. Larger commercial projects may take longer. We provide a detailed timeline during our initial inspection." },
+      { "question": "Is mold dangerous to my health?", "answer": "Yes, certain mold species can cause respiratory issues, allergic reactions, and other health problems. Children, elderly, and immunocompromised individuals are especially vulnerable. Professional remediation in {city} ensures complete and safe removal." }
+    ],
+    "relatedResources": ["mold"]
+  },
+  {
+    "name": "Sewage Backup & Cleanup",
+    "slug": "sewage-backup-cleanup",
+    "shortName": "Sewage Cleanup",
+    "icon": "pipe",
+    "image": "/images/services/sewage-cleanup.jpg",
+    "cardDescription": "Safe removal and disinfection of sewage and biohazard contamination.",
+    "priority": 4,
+    "metaTitleTemplate": "Sewage Backup Cleanup in {city}, TX | Go Green Restoration",
+    "metaDescriptionTemplate": "Emergency sewage backup cleanup in {city}, {county}. 24/7 biohazard cleanup, sanitization & repair. Licensed #TODO. Fast response, eco-friendly methods.",
+    "h1Template": "Sewage Backup & Cleanup in {city}, CA",
+    "introTemplates": [
+      "A sewage backup is one of the most hazardous situations a {city} property owner can face. Go Green Restoration Inc provides 24/7 emergency sewage cleanup throughout {city} and {county}. Our licensed team (#TODO) follows strict biohazard protocols to safely clean, sanitize, and restore your property.",
+      "Sewage backups in {city} homes and businesses require immediate professional intervention. Go Green Restoration Inc delivers expert sewage cleanup services in {city}, {county}, using eco-friendly sanitization methods that eliminate health hazards while protecting the environment. Don't risk your health — call our emergency line now.",
+      "When sewage invades your {city} property, you need fast, professional help. Go Green Restoration Inc is {county}'s trusted sewage cleanup specialist, providing rapid response to {city} residents and businesses. We handle everything from initial extraction to complete sanitization and structural repair."
+    ],
+    "processSteps": [
+      { "title": "Emergency Response", "description": "Our hazmat-trained crew responds to your {city} property immediately, assessing the situation and implementing safety protocols to protect occupants and workers." },
+      { "title": "Sewage Extraction", "description": "Using specialized pumps and extraction equipment, we remove all sewage and contaminated water from your {city} property as quickly as possible." },
+      { "title": "Contaminated Material Removal", "description": "Porous materials contaminated by sewage in your {city} property — including carpet, padding, drywall, and insulation — are safely removed and disposed of according to regulations." },
+      { "title": "Sanitization & Disinfection", "description": "All surfaces in your {city} property are thoroughly cleaned and disinfected with EPA-registered antimicrobial agents to eliminate bacteria, viruses, and other pathogens." },
+      { "title": "Structural Drying", "description": "Industrial dehumidifiers and air movers dry the affected areas of your {city} property, with daily moisture monitoring to ensure complete drying." },
+      { "title": "Restoration & Repair", "description": "We rebuild and restore all damaged areas of your {city} property, returning it to a safe, clean, pre-loss condition." }
+    ],
+    "damageTypes": [
+      "Sewer line backups",
+      "Toilet overflows",
+      "Septic system failures",
+      "Storm drain backups",
+      "Washing machine overflows",
+      "Commercial sewage incidents",
+      "Grease trap overflows",
+      "Drain field failures"
+    ],
+    "faqTemplates": [
+      { "question": "Is sewage backup dangerous in my {city} home?", "answer": "Yes, sewage contains harmful bacteria, viruses, and parasites that pose serious health risks. Do not attempt to clean sewage yourself. Our {city} team uses proper protective equipment and biohazard protocols." },
+      { "question": "How fast can you respond to a sewage backup in {city}?", "answer": "We provide 24/7 emergency response throughout {city} and {county}. Our crews are typically on-site within 60 minutes, equipped with all necessary biohazard cleanup equipment." },
+      { "question": "Does insurance cover sewage cleanup in {city}?", "answer": "Many homeowner's policies in {city} cover sewage backup damage, especially if you have a sewer backup endorsement. We work with all major insurance carriers and assist with the claims process." },
+      { "question": "What causes sewage backups in {city}?", "answer": "Common causes in {city} include tree root intrusion into sewer lines, aging pipe infrastructure, heavy rainfall overwhelming storm systems, and grease buildup in drains." }
+    ],
+    "relatedResources": ["sewage-plumbing"]
+  },
+  {
+    "name": "Reconstruction & Remodeling",
+    "slug": "construction-remodeling",
+    "shortName": "Reconstruction",
+    "icon": "house",
+    "image": "/images/services/construction.jpg",
+    "cardDescription": "Full-service reconstruction and remodeling to restore your property better than before.",
+    "priority": 5,
+    "metaTitleTemplate": "Restoration Construction & Remodeling in {city}, TX | Go Green Restoration",
+    "metaDescriptionTemplate": "Licensed restoration construction and remodeling in {city}, {county}. From damage repair to full remodels. License #TODO. Free estimates.",
+    "h1Template": "Construction & Remodeling in {city}, CA",
+    "introTemplates": [
+      "After disaster strikes, your {city} property needs more than cleanup — it needs expert reconstruction. Go Green Restoration Inc provides licensed construction and remodeling services throughout {city} and {county}. From structural repairs after water or fire damage to complete room remodels, our team (#TODO) delivers quality craftsmanship.",
+      "Go Green Restoration Inc combines restoration expertise with construction excellence in {city}, Texas. Whether you need structural rebuilding after a disaster or want to upgrade your {city} property during the restoration process, our licensed contractors handle every phase from permits to final inspection.",
+      "When your {city} property needs rebuilding after damage, Go Green Restoration Inc is your single-source solution. Our construction and remodeling team serves all of {city}, {county}, providing seamless transitions from damage restoration to property improvement. We handle all permits, inspections, and coordination with your insurance company."
+    ],
+    "processSteps": [
+      { "title": "Project Assessment", "description": "We evaluate your {city} property to determine the full scope of construction needed, whether it's damage restoration, remodeling, or both." },
+      { "title": "Design & Planning", "description": "Our team works with you to design the reconstruction or remodel of your {city} property, preparing detailed plans and obtaining all required local building permits." },
+      { "title": "Structural Repairs", "description": "We address all structural damage to your {city} property, including framing, foundation, roofing, and load-bearing elements to ensure safety and code compliance." },
+      { "title": "Systems Restoration", "description": "Electrical, plumbing, and HVAC systems in your {city} property are repaired or upgraded as needed, with all work performed by licensed specialists." },
+      { "title": "Interior Finishing", "description": "Drywall, flooring, painting, cabinetry, and trim work bring your {city} property back to life with quality materials and expert craftsmanship." },
+      { "title": "Final Inspection & Walkthrough", "description": "We schedule all required {city} building inspections and perform a detailed walkthrough with you to ensure every aspect of the construction meets your standards." }
+    ],
+    "damageTypes": [
+      "Post-fire reconstruction",
+      "Post-water damage rebuilding",
+      "Structural repair and reinforcement",
+      "Kitchen and bathroom remodeling",
+      "Room additions",
+      "Drywall and painting",
+      "Flooring installation",
+      "Roof repair and replacement"
+    ],
+    "faqTemplates": [
+      { "question": "Can you remodel my {city} home during restoration?", "answer": "Absolutely. Many {city} homeowners choose to upgrade their property during the restoration process. We can incorporate remodeling improvements into the reconstruction plan, often with insurance covering the restoration portion." },
+      { "question": "Do you handle building permits in {city}?", "answer": "Yes, our team handles all permit applications and inspections required by {city} and {county} building departments. We ensure all work meets current building codes and standards." },
+      { "question": "How long does reconstruction take after damage in {city}?", "answer": "Timeline varies by project scope. Minor repairs may take 1-2 weeks, while extensive reconstruction of a {city} property can take 2-4 months. We provide a detailed project timeline during the planning phase." },
+      { "question": "Are you a licensed contractor in Texas?", "answer": "Yes, Go Green Restoration Inc holds Texas Restoration License #TODO. We are fully licensed, bonded, and insured for both restoration and general construction work in {city} and throughout the state." }
+    ],
+    "relatedResources": ["home-restoration"]
+  }
+]

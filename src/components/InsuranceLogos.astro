@@ -1,0 +1,22 @@
+---
+/**
+ * Insurance partner logos section.
+ * Shows logos of major insurance companies Go Green works with.
+ */
+const insurers = [
+  'State Farm', 'Allstate', 'USAA', 'Liberty Mutual',
+  'Farmers', 'Nationwide', 'Progressive', 'Travelers',
+  'Hartford', 'American Family', 'GEICO', 'MetLife'
+];
+---
+
+<div>
+  <p class="text-center text-sm text-brand-gray-600 mb-4 font-medium">We work with all major insurance companies</p>
+  <div class="flex flex-wrap justify-center gap-4">
+    {insurers.map((name) => (
+      <span class="bg-brand-gray-50 border border-brand-warm-200 px-4 py-2 rounded-lg text-xs text-brand-gray-600 font-medium">
+        {name}
+      </span>
+    ))}
+  </div>
+</div>

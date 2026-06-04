@@ -1,0 +1,54 @@
+name: Weekly SEO Content Generation
+
+on:
+  schedule:
+    # Every Monday at 10:00 AM UTC (3:00 AM Pacific)
+    - cron: '0 10 * * 1'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120 # 2 hours max
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest Google reviews
+        run: node scripts/fetch-reviews.mjs
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+
+      - name: Generate weekly articles
+        run: node scripts/seo-pipeline.mjs --no-build --no-deploy
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Build site to verify
+        run: npx astro build
+
+      - name: Commit and push new content
+        run: |
+          git config user.name "SEO Bot"
+          git config user.email "seo-bot@gogreenrestorationinc.com"
+          git add -A
+          ARTICLE_COUNT=$(git diff --cached --numstat | wc -l)
+          if [ "$ARTICLE_COUNT" -gt "0" ]; then
+            git commit -m "content: weekly SEO article generation [automated]"
+            git push
+            echo "Pushed $ARTICLE_COUNT changed files"
+          else
+            echo "No new content to commit"
+          fi

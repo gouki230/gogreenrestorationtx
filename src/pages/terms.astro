@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const title = 'Terms of Service | Go Green Restoration Inc';
+const description = 'Terms of service for Go Green Restoration Inc. Read our terms and conditions for using our website and restoration services.';
+const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Terms of Service', url: '/terms/' }];
+const lastUpdated = 'April 6, 2026';
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <h1 class="font-heading text-3xl lg:text-4xl font-black text-brand-gray-900 mb-2">Terms of Service</h1>
+    <p class="text-sm text-brand-gray-600 mb-8">Last updated: {lastUpdated}</p>
+
+    <div class="prose max-w-none space-y-6 text-brand-gray-600 leading-relaxed">
+      <p>Welcome to Go Green Restoration Inc. By accessing or using our website (gogreenrestorationtx.com) and services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our website or services.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Company Information</h2>
+      <p>Go Green Restoration Inc is a licensed, bonded, and insured property restoration company operating under Texas Restoration License #TODO. We provide water damage restoration, fire and smoke damage restoration, mold remediation, sewage backup cleanup, and construction and remodeling services throughout Dallas County and Tarrant County, Texas.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Use of Website</h2>
+      <p>You may use our website for lawful purposes only. You agree not to:</p>
+      <ul class="list-disc pl-6 space-y-1">
+        <li>Use the site in any way that violates applicable laws or regulations</li>
+        <li>Attempt to gain unauthorized access to any part of the website</li>
+        <li>Use the site to transmit malicious code or interfere with its operation</li>
+        <li>Reproduce, duplicate, or copy material from the website for commercial purposes without our consent</li>
+        <li>Use automated systems or software to extract data from the website</li>
+      </ul>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Services and Estimates</h2>
+      <p>Information provided on our website about our services is for general informational purposes. Actual service scope, pricing, and timelines are determined through on-site inspections and are documented in written service agreements.</p>
+      <p>Free estimates provided through our website or phone are preliminary assessments. Final pricing may vary based on the actual scope of work discovered during inspection. All work is performed under separate written service agreements that outline specific terms, scope, and pricing.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Insurance Claims</h2>
+      <p>While we assist with insurance claim coordination as a courtesy, we do not guarantee specific insurance outcomes. Coverage decisions are made solely by your insurance company. We are not an insurance company, adjuster, or legal representative. Our assistance with documentation and communication does not constitute legal or insurance advice.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Licensing and Certifications</h2>
+      <p>Go Green Restoration Inc holds Texas Restoration License #TODO issued by the Contractors State License Board. Our technicians hold certifications from the Institute of Inspection, Cleaning and Restoration Certification (IICRC). We maintain appropriate general liability insurance and workers' compensation coverage as required by Texas law.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Intellectual Property</h2>
+      <p>All content on this website, including text, graphics, logos, images, and software, is the property of Go Green Restoration Inc or its content suppliers and is protected by United States and international copyright laws. The Go Green Restoration name, logo, and related marks are trademarks of Go Green Restoration Inc.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Website Content and Accuracy</h2>
+      <p>We strive to provide accurate and up-to-date information on our website. However, we do not warrant that the content is error-free, complete, or current. Information about restoration processes, timelines, costs, and insurance coverage is provided for general guidance and may not reflect your specific situation.</p>
+      <p>Blog articles and resource guides are provided for educational purposes and should not be considered professional advice for your specific property damage situation. Always consult with a licensed professional for damage assessment and restoration recommendations.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Limitation of Liability</h2>
+      <p>To the fullest extent permitted by Texas law, Go Green Restoration Inc shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the website. Our total liability for any claims arising from use of the website shall not exceed the amount you paid us for services, if any.</p>
+      <p>This limitation does not apply to liability arising from our performance of restoration services, which is governed by separate service agreements.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Indemnification</h2>
+      <p>You agree to indemnify and hold harmless Go Green Restoration Inc, its officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from your use of the website or violation of these terms.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Third-Party Links</h2>
+      <p>Our website may contain links to third-party websites or services. We do not control and are not responsible for the content, privacy policies, or practices of third-party sites. Your interaction with third-party sites is governed by their own terms and policies.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Governing Law</h2>
+      <p>These Terms of Service are governed by and construed in accordance with the laws of the State of Texas, without regard to conflict of law principles. Any disputes arising from these terms shall be resolved in the courts of Dallas County, Texas.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Severability</h2>
+      <p>If any provision of these terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that the remaining provisions remain in full force and effect.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Changes to Terms</h2>
+      <p>We reserve the right to modify these Terms of Service at any time. Changes become effective immediately upon posting to the website. Your continued use of the website after changes are posted constitutes acceptance of the modified terms. We encourage you to review these terms periodically.</p>
+
+      <h2 class="font-heading text-xl font-bold text-brand-gray-900 mt-8">Contact Us</h2>
+      <p>If you have questions about these Terms of Service, contact us at:</p>
+      <div class="bg-brand-gray-50 rounded-xl p-6 mt-4">
+        <p><strong>Go Green Restoration Inc</strong></p>
+        <p>Texas Restoration License #TODO</p>
+        <p>Phone: <a href="tel:+14697273217" class="text-brand-green hover:underline">(469) 727-3217</a></p>
+        <p>Website: <a href="/contact/" class="text-brand-green hover:underline">gogreenrestorationtx.com/contact</a></p>
+      </div>
+    </div>
+  </article>
+</BaseLayout>

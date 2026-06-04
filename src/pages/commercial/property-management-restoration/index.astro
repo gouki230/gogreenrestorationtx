@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import services from '../../../data/services.json';
+import dallasCities from '../../../data/cities-dallas-county.json';
+import tarrantCities from '../../../data/cities-tarrant-county.json';
+
+const title = 'Property Management Restoration Services | Go Green Restoration Inc';
+const description = 'Restoration services for property managers and apartment buildings in Dallas-Fort Worth Counties. Tenant coordination, portfolio pricing, 24/7 emergency response.';
+const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Commercial', url: '/commercial/' }, { name: 'Property Management', url: '/commercial/property-management-restoration/' }];
+
+const dallasCitiesList = dallasCities.sort((a, b) => a.name.localeCompare(b.name));
+const tarrantCitiesList = tarrantCities.filter(c => c.countySlug === 'tarrant-county').sort((a, b) => a.name.localeCompare(b.name));
+const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', shield: '🛡️', 'alert-triangle': '⚠️', hammer: '🔨' };
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-16 lg:py-20">
+      <h1 class="font-heading text-4xl lg:text-5xl font-extrabold mb-4">Property Management Restoration</h1>
+      <p class="text-lg text-brand-warm-200 max-w-3xl mb-6">Comprehensive restoration services for property managers and apartment building owners. Tenant coordination, portfolio pricing, and 24/7 emergency response across Dallas and Fort Worth Counties.</p>
+      <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">Schedule a Property Assessment</a>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <div class="max-w-3xl mb-12">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Restoration Designed for Property Managers</h2>
+      <p class="text-brand-gray-600 leading-relaxed mb-4">Property managers need a restoration partner who understands the complexity of multi-tenant operations. Go Green Restoration provides streamlined communication, tenant coordination, detailed damage reporting, and portfolio-level pricing that simplifies restoration across your managed properties.</p>
+      <p class="text-brand-gray-600 leading-relaxed">From emergency water extraction in a single unit to full-building restoration after a fire, our team handles every detail while keeping you informed with clear, actionable updates.</p>
+    </div>
+
+    <div class="mb-12">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Services for Property Managers</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {services.map((s) => (
+          <div class="bg-brand-gray-50 rounded-xl p-6">
+            <span class="text-2xl">{serviceIcons[s.icon]}</span>
+            <h3 class="font-heading font-bold text-lg mt-2 mb-2">{s.name}</h3>
+            <p class="text-brand-gray-600 text-sm">Multi-tenant {s.shortName.toLowerCase()} response with tenant coordination and detailed reporting for your records.</p>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <div class="mb-12">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Why Property Managers Choose Go Green</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="bg-brand-warm-100 rounded-xl p-6"><h3 class="font-heading font-bold text-lg mb-2">Tenant Communication</h3><p class="text-brand-gray-600 text-sm">We coordinate directly with affected tenants, providing clear timelines and minimizing disruption to their daily lives.</p></div>
+        <div class="bg-brand-warm-100 rounded-xl p-6"><h3 class="font-heading font-bold text-lg mb-2">Portfolio Pricing</h3><p class="text-brand-gray-600 text-sm">Competitive pricing for property management companies with multiple properties. One agreement covers your entire portfolio.</p></div>
+        <div class="bg-brand-warm-100 rounded-xl p-6"><h3 class="font-heading font-bold text-lg mb-2">Detailed Reporting</h3><p class="text-brand-gray-600 text-sm">Comprehensive damage reports, progress updates, and final documentation for your property records and insurance files.</p></div>
+        <div class="bg-brand-warm-100 rounded-xl p-6"><h3 class="font-heading font-bold text-lg mb-2">24/7 Emergency Line</h3><p class="text-brand-gray-600 text-sm">Dedicated emergency response number for property managers with priority dispatch to your managed properties.</p></div>
+      </div>
+    </div>
+
+    <div class="mb-12">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Service Areas</h2>
+      <h3 class="font-heading font-bold text-lg mb-4">Dallas County</h3>
+      <div class="flex flex-wrap gap-2 mb-8">
+        {dallasCitiesList.map((city) => (
+          <a href={`/commercial/property-management-restoration/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 rounded-full border border-brand-gray-200 transition-colors">{city.name}</a>
+        ))}
+      </div>
+      <h3 class="font-heading font-bold text-lg mb-4">Tarrant County</h3>
+      <div class="flex flex-wrap gap-2">
+        {tarrantCitiesList.map((city) => (
+          <a href={`/commercial/property-management-restoration/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 rounded-full border border-brand-gray-200 transition-colors">{city.name}</a>
+        ))}
+      </div>
+    </div>
+
+    <div class="bg-brand-brown text-white rounded-2xl p-8 lg:p-12 text-center">
+      <h2 class="font-heading text-2xl lg:text-3xl font-bold mb-4">Ready to Simplify Restoration?</h2>
+      <p class="text-brand-warm-200 mb-6 max-w-2xl mx-auto">Ask about portfolio pricing and dedicated property manager support for your managed properties.</p>
+      <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">Schedule a Property Assessment</a>
+    </div>
+  </div>
+</BaseLayout>

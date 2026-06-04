@@ -1,0 +1,193 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-green: #2d6a2e;
+  --color-brand-green-light: #4a8f4b;
+  --color-brand-green-dark: #1a4d1b;
+  --color-brand-green-50: #f0f7f0;
+  --color-brand-green-100: #d4ead4;
+  --color-brand-green-200: #a8d5a9;
+  --color-brand-green-600: #2d6a2e;
+  --color-brand-green-700: #1a4d1b;
+  --color-brand-green-800: #123614;
+  --color-brand-orange: #e87e24;
+  --color-brand-orange-light: #f5a623;
+  /* Neutral/surface tokens (formerly "warm" cream — now clean white/gray) */
+  --color-brand-warm: #f9fafb;
+  --color-brand-warm-50: #ffffff;
+  --color-brand-warm-100: #ecfdf5;
+  --color-brand-warm-200: #d1fae5;
+  /* Primary brand tokens (formerly "brown" — now mapped to green for token-driven reskin) */
+  --color-brand-brown: #2d6a2e;
+  --color-brand-brown-light: #3a8a3c;
+  --color-brand-brown-dark: #1f4a1f;
+  --color-brand-blue: #1e3a5f;
+  --color-brand-gray-50: #f8f9fa;
+  --color-brand-gray-100: #f0f1f3;
+  --color-brand-gray-200: #d9dce0;
+  --color-brand-gray-600: #6b7280;
+  --color-brand-gray-800: #1f2937;
+  --color-brand-gray-900: #111827;
+  --font-heading: 'Inter', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
+
+/* Heading polish — flat, clean (no 3D shadow). Class kept as no-op so existing markup still compiles. */
+.heading-3d {
+  /* intentionally minimal */
+}
+
+/* Decorative dot pattern */
+.dot-pattern {
+  position: relative;
+}
+.dot-pattern::before,
+.dot-pattern::after {
+  content: '';
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  background-image: radial-gradient(circle, rgba(255, 255, 255, 0.25) 1.5px, transparent 1.5px);
+  background-size: 12px 12px;
+  pointer-events: none;
+  z-index: 1;
+}
+.dot-pattern::before {
+  top: 16px;
+  right: 16px;
+}
+.dot-pattern::after {
+  bottom: 16px;
+  left: 16px;
+}
+
+/* Overlapping card stack for photos */
+.card-stack {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 2rem;
+}
+.card-stack > * {
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+  border: 4px solid white;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.card-stack > *:nth-child(1) {
+  transform: rotate(-4deg) translateX(10%);
+  z-index: 1;
+}
+.card-stack > *:nth-child(2) {
+  transform: rotate(0deg) scale(1.05);
+  z-index: 3;
+  margin-left: -2rem;
+  margin-right: -2rem;
+}
+.card-stack > *:nth-child(3) {
+  transform: rotate(4deg) translateX(-10%);
+  z-index: 2;
+}
+.card-stack > *:hover {
+  z-index: 10;
+  transform: rotate(0deg) scale(1.08);
+  box-shadow: 0 16px 50px rgba(0, 0, 0, 0.2);
+}
+
+/* Warm gradient background */
+.bg-warm-gradient {
+  background: linear-gradient(135deg, var(--color-brand-warm-50) 0%, var(--color-brand-warm) 50%, var(--color-brand-warm-100) 100%);
+}
+
+/* Scroll reveal animations */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.reveal-left {
+  opacity: 0;
+  transform: translateX(-40px);
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+}
+.reveal-left.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+.reveal-right {
+  opacity: 0;
+  transform: translateX(40px);
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+}
+.reveal-right.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+.reveal-scale {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+.reveal-scale.visible {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Stagger children animations */
+.stagger-children > * {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+.stagger-children.visible > *:nth-child(1) { transition-delay: 0ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(2) { transition-delay: 100ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(3) { transition-delay: 200ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(4) { transition-delay: 300ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(5) { transition-delay: 400ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(6) { transition-delay: 500ms; opacity: 1; transform: translateY(0); }
+
+/* Card hover lift effect */
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* Soft green glow hover for cards */
+.card-glow {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  position: relative;
+}
+.card-glow:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px rgba(45, 106, 46, 0.12);
+  border-color: var(--color-brand-green-200);
+}
+
+/* Smooth image zoom on hover */
+.img-zoom {
+  overflow: hidden;
+}
+.img-zoom img {
+  transition: transform 0.5s ease;
+}
+.img-zoom:hover img {
+  transform: scale(1.05);
+}
+
+/* Pulse animation for CTA buttons */
+@keyframes gentle-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(232, 126, 36, 0.4); }
+  50% { box-shadow: 0 0 0 8px rgba(232, 126, 36, 0); }
+}
+.btn-pulse {
+  animation: gentle-pulse 3s ease-in-out infinite;
+}

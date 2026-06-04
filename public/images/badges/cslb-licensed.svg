@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" stroke="#1a4d1b" stroke-width="3" fill="#f0f7f0"/>
+  <circle cx="60" cy="60" r="48" stroke="#2d6a2e" stroke-width="1.5" fill="white"/>
+  <text x="60" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#1a4d1b">CALIFORNIA</text>
+  <text x="60" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2d6a2e">CSLB</text>
+  <text x="60" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#1a4d1b">LICENSED</text>
+  <text x="60" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#1a4d1b">CONTRACTOR</text>
+  <text x="60" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#2d6a2e">#1005708</text>
+  <path d="M40 42 L60 22 L80 42" stroke="#2d6a2e" stroke-width="1" fill="none"/>
+</svg>

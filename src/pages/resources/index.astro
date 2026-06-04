@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import articles from '../../data/blog-articles.json';
+
+const title = 'Restoration Resources & Guides | Go Green Restoration Inc';
+const description = 'Expert guides on water damage, fire damage, mold remediation, sewage cleanup, and property restoration. Tips for homeowners, HOAs, and property managers.';
+const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Resources', url: '/resources/' }];
+
+const clusters = [
+  { name: 'Water Damage', slug: 'water-damage', icon: '💧', description: 'Prevention tips, insurance guidance, and what to do when water damage strikes your property.' },
+  { name: 'Fire & Smoke Damage', slug: 'fire-damage', icon: '🔥', description: 'Recovery steps after a fire, smoke damage cleanup, and wildfire preparedness for Southern Texas.' },
+  { name: 'Mold', slug: 'mold', icon: '🛡️', description: 'Identification, health risks, prevention, and when to call a professional for mold remediation.' },
+  { name: 'Sewage & Plumbing', slug: 'sewage-plumbing', icon: '⚠️', description: 'Sewage backup causes, emergency response, and prevention strategies for your property.' },
+  { name: 'Home Restoration', slug: 'home-restoration', icon: '🔨', description: 'Choosing contractors, understanding the restoration process, and eco-friendly rebuilding.' },
+  { name: 'HOA & Property Management', slug: 'hoa-property-management', icon: '🏢', description: 'Guides for HOA board members and property managers on restoration planning and response.' },
+].map(c => ({ ...c, count: articles.filter(a => a.cluster === c.slug).length }));
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="max-w-7xl mx-auto px-4 py-12">
+    <h1 class="font-heading text-4xl lg:text-5xl font-extrabold text-brand-gray-900 mb-6">Restoration Resources & Guides</h1>
+    <p class="text-lg text-brand-gray-600 max-w-3xl mb-12">Expert advice from Go Green Restoration's certified technicians. Learn about damage prevention, emergency response, insurance claims, and when to call a professional.</p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {clusters.map((cluster) => (
+        <a href={`/resources/${cluster.slug}/`} class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-8 transition-all hover:shadow-lg border border-transparent hover:border-brand-warm-200-200">
+          <div class="text-4xl mb-4">{cluster.icon}</div>
+          <h2 class="font-heading text-xl font-bold text-brand-gray-900 group-hover:text-brand-brown mb-3">{cluster.name}</h2>
+          <p class="text-brand-gray-600 text-sm mb-4">{cluster.description}</p>
+          <span class="text-brand-brown font-medium text-sm group-hover:underline">{cluster.count} articles &rarr;</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" stroke="#2d6a2e" stroke-width="3" fill="#f0f7f0"/>
+  <circle cx="60" cy="60" r="48" stroke="#2d6a2e" stroke-width="1.5" fill="white"/>
+  <!-- Leaf -->
+  <path d="M60 30 C75 35 82 50 78 65 C74 80 60 82 60 82 C60 82 46 80 42 65 C38 50 45 35 60 30Z" fill="#e8f5e9" stroke="#2d6a2e" stroke-width="1.5"/>
+  <path d="M60 82 C60 82 55 65 60 50" stroke="#2d6a2e" stroke-width="1" fill="none"/>
+  <path d="M55 60 C55 60 58 55 60 55" stroke="#2d6a2e" stroke-width="0.8" fill="none"/>
+  <path d="M65 52 C65 52 62 48 60 48" stroke="#2d6a2e" stroke-width="0.8" fill="none"/>
+  <text x="60" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="#2d6a2e">ECO-FRIENDLY</text>
+  <text x="60" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="6" fill="#2d6a2e">GREEN METHODS</text>
+</svg>

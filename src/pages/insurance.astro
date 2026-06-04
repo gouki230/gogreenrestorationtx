@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const title = 'Insurance Claims Assistance | Go Green Restoration Inc';
+const description = 'We work directly with your insurance company on water, fire, mold, and sewage damage claims. Free documentation, adjuster coordination, and claims support.';
+const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Insurance Claims', url: '/insurance/' }];
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-16">
+      <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">Insurance Claims Assistance</h1>
+      <p class="text-lg text-brand-warm-200 max-w-3xl">We handle the paperwork so you can focus on recovery. Go Green Restoration works directly with all major insurance companies to ensure you receive fair compensation.</p>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <div class="max-w-3xl mb-12">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">We Make Insurance Claims Easy</h2>
+      <p class="text-brand-gray-600 leading-relaxed mb-4">Filing a property damage insurance claim is stressful enough without the confusion of paperwork, adjuster meetings, and coverage questions. Go Green Restoration has worked with every major insurance company and understands exactly what documentation, processes, and communication leads to fair claim settlements.</p>
+      <p class="text-brand-gray-600 leading-relaxed">Our team handles damage documentation, estimate preparation, adjuster coordination, and supplemental claims — at no additional cost to you. We bill your insurance company directly, so you only pay your deductible.</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
+      <div class="bg-brand-gray-50 rounded-xl p-8"><h3 class="font-heading font-bold text-lg mb-3">Damage Documentation</h3><p class="text-brand-gray-600 text-sm">We photograph, video, and document all damage to insurance industry standards, creating a comprehensive record that supports your claim.</p></div>
+      <div class="bg-brand-gray-50 rounded-xl p-8"><h3 class="font-heading font-bold text-lg mb-3">Estimate Preparation</h3><p class="text-brand-gray-600 text-sm">Our estimates use industry-standard pricing software (Xactimate) that insurance companies recognize and accept.</p></div>
+      <div class="bg-brand-gray-50 rounded-xl p-8"><h3 class="font-heading font-bold text-lg mb-3">Adjuster Coordination</h3><p class="text-brand-gray-600 text-sm">We meet with your insurance adjuster, walk them through the damage, and provide all documentation they need for claim processing.</p></div>
+      <div class="bg-brand-gray-50 rounded-xl p-8"><h3 class="font-heading font-bold text-lg mb-3">Direct Billing</h3><p class="text-brand-gray-600 text-sm">We bill your insurance company directly. You only pay your deductible — we handle the rest of the financial coordination.</p></div>
+      <div class="bg-brand-gray-50 rounded-xl p-8"><h3 class="font-heading font-bold text-lg mb-3">Supplemental Claims</h3><p class="text-brand-gray-600 text-sm">If additional damage is discovered during restoration, we file supplemental claims with full documentation to ensure complete coverage.</p></div>
+      <div class="bg-brand-gray-50 rounded-xl p-8"><h3 class="font-heading font-bold text-lg mb-3">Claims Advocacy</h3><p class="text-brand-gray-600 text-sm">If your claim is underpaid or denied, we provide additional documentation and technical support to help you receive fair compensation.</p></div>
+    </div>
+
+    <div class="bg-brand-brown text-white rounded-2xl p-8 lg:p-12 text-center">
+      <h2 class="font-heading text-2xl lg:text-3xl font-bold mb-4">Need Help With an Insurance Claim?</h2>
+      <p class="text-brand-warm-200 mb-6 max-w-2xl mx-auto">Contact us for a free consultation about your property damage insurance claim. We'll review your situation and explain your options.</p>
+      <div class="flex flex-col sm:flex-row justify-center gap-4">
+        <a href="tel:+14697273217" class="bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">Call (469) 727-3217</a>
+        <a href="/contact/" class="bg-white/10 hover:bg-white/20 font-bold px-8 py-4 rounded-lg transition-colors border border-white/30">Get Free Consultation</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

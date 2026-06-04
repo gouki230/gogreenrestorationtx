@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'Page Not Found | Go Green Restoration Inc';
+const description = 'The page you are looking for could not be found. Browse our restoration services or call us for immediate help.';
+---
+
+<BaseLayout title={title} description={description}>
+  <section class="max-w-4xl mx-auto px-4 py-24 text-center">
+    <h1 class="font-heading text-6xl lg:text-8xl font-black text-brand-green mb-4">404</h1>
+    <h2 class="font-heading text-2xl lg:text-3xl font-bold text-brand-gray-900 mb-4">Page Not Found</h2>
+    <p class="text-lg text-brand-gray-600 mb-8 max-w-lg mx-auto">The page you're looking for doesn't exist or has been moved. Let us help you find what you need.</p>
+
+    <div class="bg-brand-orange text-white rounded-xl p-6 mb-8 max-w-md mx-auto">
+      <p class="font-bold text-lg mb-2">Need Emergency Help?</p>
+      <a href="tel:+14697273217" class="text-2xl font-bold hover:text-white/90 transition-colors">(469) 727-3217</a>
+      <p class="text-white/80 text-sm mt-1">24/7 Emergency Response</p>
+    </div>
+
+    <div class="mb-12">
+      <h3 class="font-heading font-bold text-lg text-brand-gray-900 mb-4">Our Services</h3>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/services/water-damage-restoration/" class="bg-brand-gray-50 hover:bg-brand-warm-100 px-4 py-2 rounded-full text-sm border border-brand-gray-200 hover:border-brand-green-200 transition-colors">Water Damage Restoration</a>
+        <a href="/services/fire-smoke-damage-restoration/" class="bg-brand-gray-50 hover:bg-brand-warm-100 px-4 py-2 rounded-full text-sm border border-brand-gray-200 hover:border-brand-green-200 transition-colors">Fire & Smoke Damage</a>
+        <a href="/services/mold-remediation/" class="bg-brand-gray-50 hover:bg-brand-warm-100 px-4 py-2 rounded-full text-sm border border-brand-gray-200 hover:border-brand-green-200 transition-colors">Mold Remediation</a>
+        <a href="/services/sewage-backup-cleanup/" class="bg-brand-gray-50 hover:bg-brand-warm-100 px-4 py-2 rounded-full text-sm border border-brand-gray-200 hover:border-brand-green-200 transition-colors">Sewage Cleanup</a>
+        <a href="/services/construction-remodeling/" class="bg-brand-gray-50 hover:bg-brand-warm-100 px-4 py-2 rounded-full text-sm border border-brand-gray-200 hover:border-brand-green-200 transition-colors">Construction & Remodeling</a>
+      </div>
+    </div>
+
+    <div class="flex flex-wrap justify-center gap-4">
+      <a href="/" class="bg-brand-green hover:bg-brand-green-light text-white font-bold px-6 py-3 rounded-lg transition-colors">Go to Homepage</a>
+      <a href="/locations/" class="bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 font-bold px-6 py-3 rounded-lg transition-colors border border-brand-gray-200">Browse Locations</a>
+      <a href="/contact/" class="bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 font-bold px-6 py-3 rounded-lg transition-colors border border-brand-gray-200">Contact Us</a>
+    </div>
+  </section>
+</BaseLayout>

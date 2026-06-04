@@ -1,0 +1,48 @@
+# Go Green Restoration Inc
+
+> Licensed, bonded, and insured restoration company serving Dallas County and Tarrant County, Texas. 24/7 emergency water damage, fire damage, mold remediation, sewage cleanup, and construction services. Texas Restoration License #TODO. IICRC Certified. Eco-friendly methods.
+
+- **Phone**: (469) 727-3217
+- **Website**: https://gogreenrestorationtx.com
+- **Dallas Office**: 19168 Delano St, Dallas, TX 91335
+- **Dallas Office**: 149 N Commonwealth Ave, Dallas, TX 90004
+- **Service Area**: 150+ cities across Dallas County and Tarrant County
+- **Hours**: 24/7 emergency services, Office Mon-Fri 8am-6pm
+- **Google Rating**: 5.0 stars
+- **License**: Texas CSLB #TODO
+- **Certifications**: IICRC Certified Technicians
+
+## Services
+
+- [Water Damage Restoration](https://gogreenrestorationtx.com/services/water-damage-restoration/): 24/7 emergency water extraction, structural drying, and complete water damage repair for homes and businesses
+- [Fire & Smoke Damage Restoration](https://gogreenrestorationtx.com/services/fire-smoke-damage-restoration/): Emergency board-up, soot and smoke removal, odor elimination, and full reconstruction after fire damage
+- [Mold Remediation](https://gogreenrestorationtx.com/services/mold-remediation/): Professional mold inspection, testing, containment, removal, and prevention with clearance testing
+- [Sewage Backup & Cleanup](https://gogreenrestorationtx.com/services/sewage-backup-cleanup/): Biohazard-safe sewage extraction, sanitization, disinfection, and structural restoration
+- [Construction & Remodeling](https://gogreenrestorationtx.com/services/construction-remodeling/): Post-disaster reconstruction, remodeling, structural repairs, and permit handling
+
+## Commercial
+
+- [HOA Restoration Services](https://gogreenrestorationtx.com/commercial/hoa-restoration-services/): Multi-unit damage response, common area restoration, HOA board communication, and preferred vendor programs
+- [Property Management Restoration](https://gogreenrestorationtx.com/commercial/property-management-restoration/): Tenant displacement management, recurring maintenance contracts, and portfolio pricing
+
+## Locations
+
+- [Dallas County](https://gogreenrestorationtx.com/locations/dallas-county/): 88 cities and 40+ communities served
+- [Tarrant County](https://gogreenrestorationtx.com/locations/tarrant-county/): 10 cities and 15+ communities served
+
+## Company
+
+- [About Us](https://gogreenrestorationtx.com/about/): Company history, mission, and eco-friendly approach
+- [Contact](https://gogreenrestorationtx.com/contact/): Free estimates, 24/7 emergency line, contact form
+- [Reviews](https://gogreenrestorationtx.com/reviews/): Customer testimonials and Google reviews
+- [Insurance Claims](https://gogreenrestorationtx.com/insurance/): Direct insurance billing and claims assistance
+- [Emergency Services](https://gogreenrestorationtx.com/emergency/): 60-minute response time, 24/7/365
+- [Photo Gallery](https://gogreenrestorationtx.com/gallery/): Before and after restoration project photos
+- [Resources & Blog](https://gogreenrestorationtx.com/resources/): Expert guides on water damage, fire damage, mold, and restoration
+
+## Optional
+
+- [Water Damage Restoration in Dallas](https://gogreenrestorationtx.com/water-damage-restoration/los-angeles/): City-specific water damage services
+- [Fire Damage Restoration in Malibu](https://gogreenrestorationtx.com/fire-smoke-damage-restoration/malibu/): Wildfire and fire damage services in Malibu
+- [Mold Remediation in Burbank](https://gogreenrestorationtx.com/mold-remediation/burbank/): Mold removal services in Burbank
+- [Full LLMs Context](https://gogreenrestorationtx.com/llms-full.txt): Comprehensive site content in Markdown format

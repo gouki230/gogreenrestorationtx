@@ -1,0 +1,229 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SchemaMarkup from '../components/SchemaMarkup.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  ogImage?: string;
+  schema?: Record<string, any>[];
+  breadcrumbs?: { name: string; url: string }[];
+}
+
+const {
+  title,
+  description,
+  canonical,
+  ogImage = '/og-default.jpg',
+  schema = [],
+  breadcrumbs = [],
+} = Astro.props;
+
+const siteUrl = 'https://gogreenrestorationtx.com';
+const canonicalUrl = canonical || new URL(Astro.url.pathname, siteUrl).href;
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Go Green Restoration Inc",
+  "url": siteUrl,
+  "logo": `${siteUrl}/logo.png`,
+  "telephone": "+1-469-727-3217",
+  "description": "Licensed, bonded and insured restoration company serving Dallas-Fort Worth metroplex. 24/7 water, fire, mold, and sewage damage restoration.",
+  "sameAs": [
+    "#"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "TODO: Texas street address",
+    "addressLocality": "Dallas",
+    "addressRegion": "TX",
+    "postalCode": "TODO",
+    "addressCountry": "US"
+  },
+  "location": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Go Green Restoration TX - Dallas",
+      "image": `${siteUrl}/logo.png`,
+      "telephone": "+1-469-727-3217",
+      "url": siteUrl,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "TODO: Texas street address",
+        "addressLocality": "Dallas",
+        "addressRegion": "TX",
+        "postalCode": "TODO",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 32.7767,
+        "longitude": -96.7970
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    }
+  ],
+  "areaServed": [
+    { "@type": "AdministrativeArea", "name": "Dallas County, Texas" },
+    { "@type": "AdministrativeArea", "name": "Tarrant County, Texas" }
+  ],
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "Texas Restoration License",
+    "recognizedBy": { "@type": "Organization", "name": "Texas Contractors State License Board" },
+    "name": "License #TODO"
+  }
+};
+
+const allSchemas = [organizationSchema, ...schema];
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- TODO: Google Tag Manager (Texas-specific GTM container — replace GTM-XXXXXXX)
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-XXXXXXX');</script>
+  -->
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl} />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:image" content={new URL(ogImage, siteUrl).href} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Go Green Restoration Inc" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={new URL(ogImage, siteUrl).href} />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+  <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
+
+  <!-- DNS Prefetch & Preconnect -->
+  <link rel="dns-prefetch" href="https://www.youtube.com" />
+  <link rel="dns-prefetch" href="https://maps.google.com" />
+  <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" as="style" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+
+  <!-- Schema Markup -->
+  {allSchemas.map((s) => (
+    <script type="application/ld+json" set:html={JSON.stringify(s)} />
+  ))}
+
+  <!-- TODO: LeadConnector Chat Widget (Texas-specific widget ID — paste the script tag from your TX GoHighLevel account here) -->
+</head>
+<body class="font-body text-brand-gray-900 bg-brand-warm-50 antialiased pb-16 lg:pb-0">
+  <!-- TODO: Google Tag Manager noscript fallback (uncomment and update GTM-XXXXXXX when ready)
+  <noscript><iframe src={"https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"} height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  -->
+  <Header />
+  <main>
+    <slot />
+  </main>
+  <Footer />
+
+  <!-- Sticky Mobile CTA Bar -->
+  <div class="fixed bottom-0 left-0 right-0 z-50 lg:hidden bg-brand-brown border-t border-brand-brown-dark shadow-[0_-4px_12px_rgba(0,0,0,0.15)]">
+    <div class="flex">
+      <a href="tel:+14697273217" class="flex-1 flex items-center justify-center gap-2 py-3.5 text-white font-bold text-sm bg-brand-green hover:bg-brand-green-light transition-colors">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+        Call Now
+      </a>
+      <a href="/contact/" class="flex-1 flex items-center justify-center gap-2 py-3.5 text-white font-bold text-sm hover:bg-brand-brown-light transition-colors">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>
+        Free Estimate
+      </a>
+      <a href="/emergency/" class="flex-1 flex items-center justify-center gap-2 py-3.5 text-white font-bold text-sm bg-red-600 hover:bg-red-700 transition-colors">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4.5c-.77-.833-2.694-.833-3.464 0L3.34 16.5C2.57 17.333 3.532 19 5.072 19z"/></svg>
+        Emergency
+      </a>
+    </div>
+  </div>
+
+  <!-- Scroll Reveal & Counter Animations -->
+  <script>
+    // Intersection Observer for scroll reveal animations
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          // Don't unobserve - let it stay visible
+        }
+      });
+    }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+
+    document.querySelectorAll('.reveal, .reveal-left, .reveal-right, .reveal-scale, .stagger-children').forEach(el => {
+      observer.observe(el);
+    });
+
+    // Animated counter
+    document.querySelectorAll('[data-counter]').forEach(el => {
+      const target = parseInt(el.getAttribute('data-counter') || '0');
+      const suffix = el.getAttribute('data-suffix') || '';
+      const prefix = el.getAttribute('data-prefix') || '';
+      const duration = 2000;
+      let counted = false;
+
+      const counterObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting && !counted) {
+            counted = true;
+            const start = performance.now();
+            const step = (now) => {
+              const progress = Math.min((now - start) / duration, 1);
+              const eased = 1 - Math.pow(1 - progress, 3); // ease-out cubic
+              el.textContent = prefix + Math.floor(eased * target) + suffix;
+              if (progress < 1) requestAnimationFrame(step);
+            };
+            requestAnimationFrame(step);
+          }
+        });
+      }, { threshold: 0.5 });
+      counterObserver.observe(el);
+    });
+  </script>
+
+  <!-- Google Analytics (GA4) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D00HT24X3E"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-D00HT24X3E');
+  </script>
+</body>
+</html>

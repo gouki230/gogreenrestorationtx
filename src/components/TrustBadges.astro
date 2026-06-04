@@ -1,0 +1,32 @@
+---
+interface Props {
+  variant?: 'light' | 'dark';
+}
+const { variant = 'light' } = Astro.props;
+const bgClass = variant === 'dark' ? 'bg-white/10 border-white/20 text-white' : 'bg-white border-brand-warm-200 text-brand-gray-800';
+const subClass = variant === 'dark' ? 'text-white/70' : 'text-brand-gray-600';
+
+const badges = [
+  { src: '/images/badges/cslb-logo.png', label: 'TX License #TODO', sub: 'Licensed Contractor', alt: 'Texas CSLB Licensed Contractor', tall: false },
+  { src: '/images/badges/iicrc-logo.jpg', label: 'IICRC Certified', sub: 'Certified Technicians', alt: 'IICRC Certified Restoration Technicians', tall: false },
+  { src: '/images/badges/shield-check.png', label: 'Bonded & Insured', sub: 'Full Coverage', alt: 'Fully Bonded and Insured', tall: true },
+  { src: '/images/badges/clock-24-7.png', label: '24/7 Emergency', sub: '60-Min Response', alt: '24/7 Emergency Response Available', tall: true },
+  { src: '/images/badges/eco-leaf.png', label: 'Eco-Friendly', sub: 'Green Methods', alt: 'Eco-Friendly Restoration Methods', tall: true },
+  { src: '/images/badges/google-logo.png', label: '5.0 Stars', sub: '28+ Reviews', alt: '5-Star Google Rating', tall: false },
+];
+---
+
+<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+  {badges.map((badge) => (
+    <div class={`flex flex-col items-center text-center p-4 rounded-xl border shadow-sm hover:shadow-md transition-shadow ${bgClass}`}>
+      <img
+        src={badge.src}
+        alt={badge.alt}
+        class={`mb-2 object-contain ${badge.tall ? 'h-14 w-14' : 'h-10 w-auto max-w-[120px]'}`}
+        loading="lazy"
+      />
+      <span class="font-bold text-xs mt-1">{badge.label}</span>
+      <span class={`text-xs ${subClass}`}>{badge.sub}</span>
+    </div>
+  ))}
+</div>

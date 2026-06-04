@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import articles from '../../../data/blog-articles.json';
+
+export function getStaticPaths() {
+  const clusters = [
+    { slug: 'water-damage', name: 'Water Damage', icon: '💧', description: 'Expert guides on water damage prevention, insurance claims, emergency response, and the restoration process.', serviceSlug: 'water-damage-restoration' },
+    { slug: 'fire-damage', name: 'Fire & Smoke Damage', icon: '🔥', description: 'Recovery guides after fire and smoke damage, wildfire preparedness, insurance claims, and odor removal.', serviceSlug: 'fire-smoke-damage-restoration' },
+    { slug: 'mold', name: 'Mold', icon: '🛡️', description: 'Mold identification, health risks, prevention strategies, and when to call a professional for remediation.', serviceSlug: 'mold-remediation' },
+    { slug: 'sewage-plumbing', name: 'Sewage & Plumbing', icon: '⚠️', description: 'Sewage backup causes, health hazards, emergency cleanup, and prevention strategies.', serviceSlug: 'sewage-backup-cleanup' },
+    { slug: 'home-restoration', name: 'Home Restoration', icon: '🔨', description: 'Choosing contractors, understanding the restoration process, licensing, and eco-friendly methods.', serviceSlug: 'construction-remodeling' },
+    { slug: 'hoa-property-management', name: 'HOA & Property Management', icon: '🏢', description: 'Guides for HOA board members and property managers on restoration planning, communication, and vendor management.', serviceSlug: null },
+  ];
+  return clusters.map((cluster) => ({
+    params: { cluster: cluster.slug },
+    props: { cluster },
+  }));
+}
+
+const { cluster } = Astro.props;
+const clusterArticles = articles.filter(a => a.cluster === cluster.slug);
+
+const title = `${cluster.name} Resources & Guides | Go Green Restoration`;
+const description = cluster.description;
+const breadcrumbs = [
+  { name: 'Home', url: '/' },
+  { name: 'Resources', url: '/resources/' },
+  { name: cluster.name, url: `/resources/${cluster.slug}/` },
+];
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="max-w-7xl mx-auto px-4 py-12">
+    <div class="flex items-center gap-3 mb-4">
+      <span class="text-4xl">{cluster.icon}</span>
+      <h1 class="font-heading text-4xl lg:text-5xl font-extrabold text-brand-gray-900">{cluster.name} Resources</h1>
+    </div>
+    <p class="text-lg text-brand-gray-600 max-w-3xl mb-12">{cluster.description}</p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+      {clusterArticles.map((article) => (
+        <a href={`/resources/${cluster.slug}/${article.slug}/`} class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-8 transition-all hover:shadow-lg border border-transparent hover:border-brand-warm-200-200">
+          <h2 class="font-heading text-xl font-bold text-brand-gray-900 group-hover:text-brand-brown mb-3">{article.title}</h2>
+          <p class="text-brand-gray-600 text-sm mb-4">{article.description}</p>
+          <span class="text-brand-brown font-medium text-sm group-hover:underline">Read article &rarr;</span>
+        </a>
+      ))}
+    </div>
+
+    {cluster.serviceSlug && (
+      <div class="bg-brand-brown text-white rounded-2xl p-8 text-center">
+        <h2 class="font-heading text-2xl font-bold mb-4">Need Professional {cluster.name} Help?</h2>
+        <p class="text-brand-brown-100 mb-6">Our licensed team provides 24/7 emergency services throughout Dallas-Fort Worth metroplex.</p>
+        <a href={`/services/${cluster.serviceSlug}/`} class="inline-block bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">View {cluster.name} Services &rarr;</a>
+      </div>
+    )}
+  </section>
+</BaseLayout>

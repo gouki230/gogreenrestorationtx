@@ -1,0 +1,99 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const title = 'Restoration Gallery | Before & After Photos | Go Green Restoration';
+const description = 'See real before and after photos from Go Green Restoration projects across Dallas-Fort Worth Counties. Water damage, fire damage, mold remediation, and more.';
+const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Gallery', url: '/gallery/' }];
+
+// Use images from the downloaded bank, organized by category
+const categories = [
+  {
+    name: 'Water Damage Restoration',
+    slug: 'water-damage',
+    serviceUrl: '/services/water-damage-restoration/',
+    images: [
+      { src: '/images/blog/originals/water-damage/Copy-of-e179b21e-7e3b-4b4a-8c7c-999e2844e94a.jpg', alt: 'Water damage restoration - water extraction from residential property' },
+      { src: '/images/blog/originals/water-damage/Copy-of-img_2026.jpg', alt: 'Water damage restoration - drying equipment setup in home' },
+      { src: '/images/blog/originals/water-damage/Copy-of-img_2027.jpg', alt: 'Water damage restoration - structural drying in progress' },
+      { src: '/images/blog/originals/water-damage/Copy-of-6f4ad475-607f-4fc3-83fa-32221efe08b3.jpg', alt: 'Water damage restoration - commercial water extraction' },
+      { src: '/images/blog/originals/water-damage/Copy-of-872f2970-6373-423c-9a3f-87dbb6738501.jpg', alt: 'Water damage restoration - residential property drying' },
+    ],
+  },
+  {
+    name: 'Fire & Smoke Damage Restoration',
+    slug: 'fire-damage',
+    serviceUrl: '/services/fire-smoke-damage-restoration/',
+    images: [
+      { src: '/images/blog/originals/fire-damage/0d06b6d9-0152-4eba-bb26-7fb5059f82d3.jpg', alt: 'Fire damage restoration - smoke damage assessment' },
+      { src: '/images/blog/originals/fire-damage/5e3c3335-66b5-4396-b09f-f9f4a2fc61d0.jpg', alt: 'Fire damage restoration - soot removal in progress' },
+      { src: '/images/blog/originals/fire-damage/7af579bf-4e58-429f-bcc9-c000581f95b7.jpg', alt: 'Fire damage restoration - structural repairs after fire' },
+      { src: '/images/blog/originals/fire-damage/9e03c8ca-7c9e-4dcc-a410-36b193802cab.jpg', alt: 'Fire damage restoration - fire-damaged interior' },
+      { src: '/images/blog/originals/fire-damage/69dc2853-ab4d-4ca2-8888-edaa7d132d64.jpg', alt: 'Fire damage restoration - cleanup and rebuilding' },
+      { src: '/images/blog/originals/fire-damage/76a84dfa-2b47-4ab9-96d8-6ecb91abacfb.jpg', alt: 'Fire damage restoration - commercial fire damage' },
+    ],
+  },
+  {
+    name: 'Mold Remediation',
+    slug: 'mold',
+    serviceUrl: '/services/mold-remediation/',
+    images: [
+      { src: '/images/blog/originals/mold/Copy-of-Mobile-upload---2023-07-28T171410.878.jpg', alt: 'Mold remediation - mold inspection and testing' },
+      { src: '/images/blog/originals/mold/Copy-of-Mobile-upload---2023-07-28T171426.397.jpg', alt: 'Mold remediation - containment setup' },
+      { src: '/images/blog/originals/mold/Copy-of-Mobile-upload---2023-07-28T171432.206.jpg', alt: 'Mold remediation - mold removal in progress' },
+      { src: '/images/blog/originals/mold/Copy-of-Mobile-upload---2023-07-28T171435.735.jpg', alt: 'Mold remediation - wall mold treatment' },
+      { src: '/images/blog/originals/mold/Copy-of-Mobile-upload---2023-07-28T171449.198.jpg', alt: 'Mold remediation - professional mold cleanup' },
+    ],
+  },
+];
+
+const gallerySchema = {
+  "@context": "https://schema.org",
+  "@type": "ImageGallery",
+  "name": "Go Green Restoration Project Gallery",
+  "description": description,
+  "url": "https://gogreenrestorationtx.com/gallery/",
+  "publisher": { "@type": "Organization", "name": "Go Green Restoration Inc" }
+};
+---
+
+<BaseLayout title={title} description={description} schema={[gallerySchema]}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-16">
+      <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">Our Restoration Work</h1>
+      <p class="text-lg text-brand-warm-200 max-w-3xl">Real photos from Go Green Restoration projects across Dallas-Fort Worth metroplex. See the quality of our water damage, fire damage, and mold remediation work.</p>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    {categories.map((category) => (
+      <div class="mb-16">
+        <div class="flex items-center justify-between mb-6">
+          <h2 class="font-heading text-2xl font-bold text-brand-gray-900">{category.name}</h2>
+          <a href={category.serviceUrl} class="text-brand-brown font-medium text-sm hover:underline">View service &rarr;</a>
+        </div>
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          {category.images.map((img) => (
+            <div class="rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow bg-brand-gray-50">
+              <img src={img.src} alt={img.alt} loading="lazy" class="w-full h-48 object-cover" width="400" height="300" />
+              <div class="p-3">
+                <p class="text-xs text-brand-gray-600">{img.alt}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    ))}
+
+    <div class="bg-brand-brown text-white rounded-2xl p-8 lg:p-12 text-center">
+      <h2 class="font-heading text-2xl lg:text-3xl font-bold mb-4">Need Restoration Services?</h2>
+      <p class="text-brand-warm-200 mb-6 max-w-2xl mx-auto">Our licensed team provides the same quality of work shown here, 24/7, throughout Dallas-Fort Worth metroplex.</p>
+      <div class="flex flex-col sm:flex-row justify-center gap-4">
+        <a href="tel:+14697273217" class="bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">Call (469) 727-3217</a>
+        <a href="/contact/" class="bg-white/10 hover:bg-white/20 font-bold px-8 py-4 rounded-lg transition-colors border border-white/30">Get Free Estimate</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

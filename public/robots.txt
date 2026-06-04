@@ -1,0 +1,49 @@
+# Go Green Restoration Inc
+# https://gogreenrestorationtx.com
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_astro/
+Disallow: /search
+
+# Sitemaps
+Sitemap: https://gogreenrestorationtx.com/sitemap-index.xml
+
+# LLMs.txt — AI-readable site summary
+LLMs-Txt: https://gogreenrestorationtx.com/llms.txt
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+# AI crawlers — allowed for AI search indexing and training
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /

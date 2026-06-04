@@ -1,0 +1,26 @@
+---
+interface Props {
+  lat: number;
+  lng: number;
+  cityName: string;
+}
+
+const { lat, lng, cityName } = Astro.props;
+
+// Use Maps Embed API "place" mode with the GBP Place ID
+// This shows the business pin on the map — clicking "View larger map" opens the full GBP listing
+const GBP_PLACE_ID = 'ChIJkXmiK2mZwoARAXGAlukG2Yc';
+const mapSrc = `https://www.google.com/maps/embed/v1/place?key=AIzaSyBoiFNxxlbruQyVApxjOSw2hz7l1L2LW9s&q=place_id:${GBP_PLACE_ID}&center=${lat},${lng}&zoom=12`;
+---
+
+<div class="rounded-xl overflow-hidden shadow-sm border border-brand-warm-200">
+  <iframe
+    src={mapSrc}
+    loading="lazy"
+    class="w-full h-72"
+    title={`Go Green Restoration serving ${cityName}, CA`}
+    referrerpolicy="no-referrer-when-downgrade"
+    style="border:0;"
+    allowfullscreen
+  ></iframe>
+</div>

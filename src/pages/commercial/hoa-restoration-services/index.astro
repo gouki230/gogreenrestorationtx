@@ -1,0 +1,99 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import services from '../../../data/services.json';
+import dallasCities from '../../../data/cities-dallas-county.json';
+import tarrantCities from '../../../data/cities-tarrant-county.json';
+
+const title = 'HOA Restoration Services | Go Green Restoration Inc';
+const description = 'Specialized restoration services for HOAs and condominium associations in Dallas-Fort Worth Counties. Multi-unit damage response, CC&R compliance, preferred vendor programs.';
+const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Commercial', url: '/commercial/' }, { name: 'HOA Restoration Services', url: '/commercial/hoa-restoration-services/' }];
+
+const allCities = [...dallasCities, ...tarrantCities].sort((a, b) => a.name.localeCompare(b.name));
+const dallasCitiesList = dallasCities.sort((a, b) => a.name.localeCompare(b.name));
+const tarrantCitiesList = tarrantCities.filter(c => c.countySlug === 'tarrant-county').sort((a, b) => a.name.localeCompare(b.name));
+
+const serviceIcons: Record<string, string> = {
+  droplet: '💧', flame: '🔥', shield: '🛡️', 'alert-triangle': '⚠️', hammer: '🔨',
+};
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-16 lg:py-20">
+      <h1 class="font-heading text-4xl lg:text-5xl font-extrabold mb-4">HOA Restoration Services</h1>
+      <p class="text-lg text-brand-warm-200 max-w-3xl mb-6">Comprehensive restoration services designed specifically for homeowners associations, condominium complexes, and multi-unit communities throughout Dallas-Fort Worth metroplex.</p>
+      <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">Schedule a Property Assessment</a>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <div class="max-w-3xl mb-12">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Restoration Built for HOA Needs</h2>
+      <p class="text-brand-gray-600 leading-relaxed mb-4">Managing restoration in a multi-unit community requires a different approach than a single-family home. Go Green Restoration understands the unique challenges HOAs face: coordinating access across multiple units, communicating with boards and homeowners, ensuring CC&R compliance, and managing insurance claims for common areas versus individual units.</p>
+      <p class="text-brand-gray-600 leading-relaxed">Our dedicated HOA restoration team provides a single point of contact for board members and property managers, detailed documentation for association records, and transparent communication throughout the restoration process.</p>
+    </div>
+
+    <!-- Services for HOAs -->
+    <div class="mb-12">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Restoration Services for HOAs</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {services.map((s) => (
+          <div class="bg-brand-gray-50 rounded-xl p-6">
+            <span class="text-2xl">{serviceIcons[s.icon]}</span>
+            <h3 class="font-heading font-bold text-lg mt-2 mb-2">{s.name}</h3>
+            <p class="text-brand-gray-600 text-sm">Multi-unit {s.shortName.toLowerCase()} response with coordination across affected units, common areas, and shared infrastructure.</p>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- HOA-Specific Features -->
+    <div class="mb-12">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Why HOAs Choose Go Green</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="bg-brand-warm-100 rounded-xl p-6">
+          <h3 class="font-heading font-bold text-lg mb-2">Board Communication</h3>
+          <p class="text-brand-gray-600 text-sm">Detailed progress reports, documentation for board meetings, and a dedicated contact for HOA leadership throughout the restoration process.</p>
+        </div>
+        <div class="bg-brand-warm-100 rounded-xl p-6">
+          <h3 class="font-heading font-bold text-lg mb-2">CC&R Compliance</h3>
+          <p class="text-brand-gray-600 text-sm">We review your association's CC&Rs and ensure all restoration work meets community standards for materials, colors, and specifications.</p>
+        </div>
+        <div class="bg-brand-warm-100 rounded-xl p-6">
+          <h3 class="font-heading font-bold text-lg mb-2">Multi-Unit Coordination</h3>
+          <p class="text-brand-gray-600 text-sm">Expert coordination across multiple affected units, minimizing disruption to residents while ensuring thorough restoration of all affected areas.</p>
+        </div>
+        <div class="bg-brand-warm-100 rounded-xl p-6">
+          <h3 class="font-heading font-bold text-lg mb-2">Preferred Vendor Programs</h3>
+          <p class="text-brand-gray-600 text-sm">Priority response, preferred pricing, and pre-approved vendor status for HOAs that partner with Go Green for ongoing restoration needs.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Service Areas -->
+    <div class="mb-12">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">HOA Restoration Service Areas</h2>
+      <h3 class="font-heading font-bold text-lg mb-4">Dallas County</h3>
+      <div class="flex flex-wrap gap-2 mb-8">
+        {dallasCitiesList.map((city) => (
+          <a href={`/commercial/hoa-restoration-services/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 hover:text-brand-brown rounded-full border border-brand-gray-200 transition-colors">{city.name}</a>
+        ))}
+      </div>
+      <h3 class="font-heading font-bold text-lg mb-4">Tarrant County</h3>
+      <div class="flex flex-wrap gap-2">
+        {tarrantCitiesList.map((city) => (
+          <a href={`/commercial/hoa-restoration-services/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 hover:text-brand-brown rounded-full border border-brand-gray-200 transition-colors">{city.name}</a>
+        ))}
+      </div>
+    </div>
+
+    <div class="bg-brand-brown text-white rounded-2xl p-8 lg:p-12 text-center">
+      <h2 class="font-heading text-2xl lg:text-3xl font-bold mb-4">Partner With Go Green for Your HOA</h2>
+      <p class="text-brand-warm-200 mb-6 max-w-2xl mx-auto">Ask about preferred vendor programs, priority response agreements, and portfolio pricing for your association.</p>
+      <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">Schedule a Property Assessment</a>
+    </div>
+  </div>
+</BaseLayout>

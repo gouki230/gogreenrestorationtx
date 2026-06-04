@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const title = 'About Go Green Restoration Inc | Licensed Eco-Friendly Restoration';
+const description = 'Learn about Go Green Restoration Inc — a licensed (#TODO), bonded, and insured restoration company serving Dallas-Fort Worth Counties with eco-friendly 24/7 services.';
+const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'About', url: '/about/' }];
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
+    <div class="max-w-7xl mx-auto px-4 py-16">
+      <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">About Go Green Restoration Inc</h1>
+      <p class="text-lg text-brand-warm-200 max-w-3xl">Licensed, bonded, and insured restoration professionals committed to eco-friendly methods and exceptional service throughout Dallas-Fort Worth metroplex.</p>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16">
+      <div>
+        <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Our Mission</h2>
+        <p class="text-brand-gray-600 leading-relaxed mb-4">Go Green Restoration Inc was founded with a simple mission: provide the highest quality property restoration services while protecting the environment. We believe that effective restoration and eco-friendly practices are not mutually exclusive.</p>
+        <p class="text-brand-gray-600 leading-relaxed mb-4">Every day, our team responds to water damage, fire damage, mold contamination, and sewage emergencies throughout Dallas-Fort Worth metroplex. We treat every property as if it were our own, delivering fast, thorough, and environmentally responsible restoration.</p>
+        <p class="text-brand-gray-600 leading-relaxed">Our eco-friendly approach uses low-VOC products, sustainable materials, and energy-efficient equipment — protecting your family's health and the environment without compromising the quality of our work.</p>
+      </div>
+      <div class="rounded-2xl overflow-hidden shadow-lg aspect-video">
+        <iframe src="https://www.youtube.com/embed/G-KfCmJHxTI?rel=0" title="About Go Green Restoration Inc" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy" class="w-full h-full"></iframe>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
+      <div class="text-center bg-brand-warm-100 rounded-xl p-8">
+        <div class="text-3xl font-bold text-brand-green mb-2">24/7</div>
+        <p class="font-heading font-bold">Emergency Response</p>
+        <p class="text-sm text-brand-gray-600 mt-1">Round-the-clock availability</p>
+      </div>
+      <div class="text-center bg-brand-warm-100 rounded-xl p-8">
+        <div class="text-3xl font-bold text-brand-green mb-2">#TODO</div>
+        <p class="font-heading font-bold">CA License</p>
+        <p class="text-sm text-brand-gray-600 mt-1">Fully licensed contractor</p>
+      </div>
+      <div class="text-center bg-brand-warm-100 rounded-xl p-8">
+        <div class="text-3xl font-bold text-brand-green mb-2">150+</div>
+        <p class="font-heading font-bold">Cities Served</p>
+        <p class="text-sm text-brand-gray-600 mt-1">Dallas-Fort Worth Counties</p>
+      </div>
+      <div class="text-center bg-brand-warm-100 rounded-xl p-8">
+        <div class="text-3xl font-bold text-brand-green mb-2">100%</div>
+        <p class="font-heading font-bold">Satisfaction</p>
+        <p class="text-sm text-brand-gray-600 mt-1">Guaranteed results</p>
+      </div>
+    </div>
+
+    <div class="mb-16">
+      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Our Credentials</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="bg-brand-gray-50 rounded-xl p-6"><h3 class="font-bold mb-2">Licensed & Insured</h3><p class="text-sm text-brand-gray-600">Texas Restoration License #TODO. Fully bonded and insured for your protection.</p></div>
+        <div class="bg-brand-gray-50 rounded-xl p-6"><h3 class="font-bold mb-2">IICRC Certified</h3><p class="text-sm text-brand-gray-600">Our technicians hold IICRC certifications in water damage restoration, fire restoration, mold remediation, and applied structural drying.</p></div>
+        <div class="bg-brand-gray-50 rounded-xl p-6"><h3 class="font-bold mb-2">Eco-Friendly Methods</h3><p class="text-sm text-brand-gray-600">We use EPA-approved, low-VOC products and sustainable materials that are safe for your family and the environment.</p></div>
+        <div class="bg-brand-gray-50 rounded-xl p-6"><h3 class="font-bold mb-2">Insurance Specialists</h3><p class="text-sm text-brand-gray-600">We work directly with all major insurance companies, handling documentation and claims coordination to maximize your coverage.</p></div>
+      </div>
+    </div>
+
+    <div class="bg-brand-brown text-white rounded-2xl p-8 lg:p-12 text-center">
+      <h2 class="font-heading text-2xl lg:text-3xl font-bold mb-4">Ready to Experience the Go Green Difference?</h2>
+      <p class="text-brand-warm-200 mb-6 max-w-2xl mx-auto">Contact us for a free estimate or 24/7 emergency service throughout Dallas-Fort Worth metroplex.</p>
+      <div class="flex flex-col sm:flex-row justify-center gap-4">
+        <a href="tel:+14697273217" class="bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">Call (469) 727-3217</a>
+        <a href="/contact/" class="bg-white/10 hover:bg-white/20 font-bold px-8 py-4 rounded-lg transition-colors border border-white/30">Get Free Estimate</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" stroke="#cc3300" stroke-width="3" fill="#fff5f2"/>
+  <circle cx="60" cy="60" r="48" stroke="#cc3300" stroke-width="1.5" fill="white"/>
+  <text x="60" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#cc3300">24/7</text>
+  <line x1="35" y1="52" x2="85" y2="52" stroke="#cc3300" stroke-width="0.5"/>
+  <text x="60" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#cc3300">EMERGENCY</text>
+  <text x="60" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#cc3300">RESPONSE</text>
+  <!-- Clock icon -->
+  <circle cx="60" cy="94" r="8" stroke="#cc3300" stroke-width="1" fill="none"/>
+  <line x1="60" y1="94" x2="60" y2="89" stroke="#cc3300" stroke-width="1"/>
+  <line x1="60" y1="94" x2="64" y2="94" stroke="#cc3300" stroke-width="1"/>
+</svg>

@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import services from '../data/services.json';
+import dallasCities from '../data/cities-dallas-county.json';
+import tarrantCities from '../data/cities-tarrant-county.json';
+import articles from '../data/blog-articles.json';
+
+const title = 'Sitemap | Go Green Restoration Inc';
+const description = 'Complete sitemap of Go Green Restoration Inc. Browse all services, locations, and resources.';
+const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Sitemap', url: '/sitemap/' }];
+
+const laSorted = dallasCities.sort((a, b) => a.name.localeCompare(b.name));
+const venturaSorted = tarrantCities.filter(c => c.countySlug === 'tarrant-county').sort((a, b) => a.name.localeCompare(b.name));
+
+const clusters = [
+  { slug: 'water-damage', name: 'Water Damage' },
+  { slug: 'fire-damage', name: 'Fire & Smoke Damage' },
+  { slug: 'mold', name: 'Mold' },
+  { slug: 'sewage-plumbing', name: 'Sewage & Plumbing' },
+  { slug: 'home-restoration', name: 'Home Restoration' },
+  { slug: 'hoa-property-management', name: 'HOA & Property Management' },
+];
+---
+
+<BaseLayout title={title} description={description}>
+  <Breadcrumbs items={breadcrumbs} />
+
+  <section class="max-w-7xl mx-auto px-4 py-12">
+    <h1 class="font-heading text-4xl font-black text-brand-gray-900 mb-8">Sitemap</h1>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <!-- Main Pages -->
+      <div>
+        <h2 class="font-heading font-bold text-lg text-brand-gray-900 mb-3 border-b border-brand-gray-200 pb-2">Main Pages</h2>
+        <ul class="space-y-1 text-sm">
+          <li><a href="/" class="text-brand-gray-600 hover:text-brand-brown">Home</a></li>
+          <li><a href="/about/" class="text-brand-gray-600 hover:text-brand-brown">About Us</a></li>
+          <li><a href="/contact/" class="text-brand-gray-600 hover:text-brand-brown">Contact</a></li>
+          <li><a href="/emergency/" class="text-brand-gray-600 hover:text-brand-brown">Emergency Services</a></li>
+          <li><a href="/reviews/" class="text-brand-gray-600 hover:text-brand-brown">Reviews</a></li>
+          <li><a href="/insurance/" class="text-brand-gray-600 hover:text-brand-brown">Insurance Claims</a></li>
+          <li><a href="/gallery/" class="text-brand-gray-600 hover:text-brand-brown">Gallery</a></li>
+        </ul>
+      </div>
+
+      <!-- Services -->
+      <div>
+        <h2 class="font-heading font-bold text-lg text-brand-gray-900 mb-3 border-b border-brand-gray-200 pb-2">Services</h2>
+        <ul class="space-y-1 text-sm">
+          <li><a href="/services/" class="text-brand-gray-600 hover:text-brand-brown">All Services</a></li>
+          {services.map((s) => (
+            <li><a href={`/services/${s.slug}/`} class="text-brand-gray-600 hover:text-brand-brown">{s.name}</a></li>
+          ))}
+        </ul>
+        <h3 class="font-bold text-sm mt-4 mb-2">Commercial</h3>
+        <ul class="space-y-1 text-sm">
+          <li><a href="/commercial/" class="text-brand-gray-600 hover:text-brand-brown">Commercial Services</a></li>
+          <li><a href="/commercial/hoa-restoration-services/" class="text-brand-gray-600 hover:text-brand-brown">HOA Restoration</a></li>
+          <li><a href="/commercial/property-management-restoration/" class="text-brand-gray-600 hover:text-brand-brown">Property Management</a></li>
+        </ul>
+      </div>
+
+      <!-- Resources -->
+      <div>
+        <h2 class="font-heading font-bold text-lg text-brand-gray-900 mb-3 border-b border-brand-gray-200 pb-2">Resources</h2>
+        <ul class="space-y-1 text-sm">
+          <li><a href="/resources/" class="text-brand-gray-600 hover:text-brand-brown">All Resources</a></li>
+          {clusters.map((c) => (
+            <li><a href={`/resources/${c.slug}/`} class="text-brand-gray-600 hover:text-brand-brown font-medium">{c.name}</a>
+              <ul class="pl-3 mt-1 space-y-0.5">
+                {articles.filter(a => a.cluster === c.slug).slice(0, 10).map((a) => (
+                  <li><a href={`/resources/${a.cluster}/${a.slug}/`} class="text-brand-gray-600 hover:text-brand-brown text-xs">{a.title}</a></li>
+                ))}
+              </ul>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Locations -->
+    <div class="mt-12">
+      <h2 class="font-heading font-bold text-xl text-brand-gray-900 mb-4 border-b border-brand-gray-200 pb-2">Dallas County</h2>
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-1">
+        {laSorted.map((city) => (
+          <a href={`/locations/dallas-county/${city.slug}/`} class="text-xs text-brand-gray-600 hover:text-brand-brown py-0.5">{city.name}</a>
+        ))}
+      </div>
+    </div>
+
+    <div class="mt-8">
+      <h2 class="font-heading font-bold text-xl text-brand-gray-900 mb-4 border-b border-brand-gray-200 pb-2">Tarrant County</h2>
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-1">
+        {venturaSorted.map((city) => (
+          <a href={`/locations/tarrant-county/${city.slug}/`} class="text-xs text-brand-gray-600 hover:text-brand-brown py-0.5">{city.name}</a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
