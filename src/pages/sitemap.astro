@@ -2,16 +2,15 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import services from '../data/services.json';
-import dallasCities from '../data/cities-dallas-county.json';
-import tarrantCities from '../data/cities-tarrant-county.json';
+import dfwCities from '../data/cities-dfw-metro.json';
 import articles from '../data/blog-articles.json';
 
 const title = 'Sitemap | Go Green Restoration Inc';
 const description = 'Complete sitemap of Go Green Restoration Inc. Browse all services, locations, and resources.';
 const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Sitemap', url: '/sitemap/' }];
 
-const laSorted = dallasCities.sort((a, b) => a.name.localeCompare(b.name));
-const venturaSorted = tarrantCities.filter(c => c.countySlug === 'tarrant-county').sort((a, b) => a.name.localeCompare(b.name));
+const laSorted = dfwCities.sort((a, b) => a.name.localeCompare(b.name));
+const venturaSorted = dfwCities.slice().sort((a, b) => a.name.localeCompare(b.name));
 
 const clusters = [
   { slug: 'water-damage', name: 'Water Damage' },
@@ -81,19 +80,19 @@ const clusters = [
 
     <!-- Locations -->
     <div class="mt-12">
-      <h2 class="font-heading font-bold text-xl text-brand-gray-900 mb-4 border-b border-brand-gray-200 pb-2">Dallas County</h2>
+      <h2 class="font-heading font-bold text-xl text-brand-gray-900 mb-4 border-b border-brand-gray-200 pb-2">DFW Metro Area</h2>
       <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-1">
         {laSorted.map((city) => (
-          <a href={`/locations/dallas-county/${city.slug}/`} class="text-xs text-brand-gray-600 hover:text-brand-brown py-0.5">{city.name}</a>
+          <a href={`/locations/dfw-metro/${city.slug}/`} class="text-xs text-brand-gray-600 hover:text-brand-brown py-0.5">{city.name}</a>
         ))}
       </div>
     </div>
 
     <div class="mt-8">
-      <h2 class="font-heading font-bold text-xl text-brand-gray-900 mb-4 border-b border-brand-gray-200 pb-2">Tarrant County</h2>
+      <h2 class="font-heading font-bold text-xl text-brand-gray-900 mb-4 border-b border-brand-gray-200 pb-2">DFW Metro Area</h2>
       <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-1">
         {venturaSorted.map((city) => (
-          <a href={`/locations/tarrant-county/${city.slug}/`} class="text-xs text-brand-gray-600 hover:text-brand-brown py-0.5">{city.name}</a>
+          <a href={`/locations/dfw-metro/${city.slug}/`} class="text-xs text-brand-gray-600 hover:text-brand-brown py-0.5">{city.name}</a>
         ))}
       </div>
     </div>

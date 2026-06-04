@@ -2,16 +2,14 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import services from '../../../data/services.json';
-import dallasCities from '../../../data/cities-dallas-county.json';
-import tarrantCities from '../../../data/cities-tarrant-county.json';
+import dfwCities from '../../../data/cities-dfw-metro.json';
 
 const title = 'HOA Restoration Services | Go Green Restoration Inc';
 const description = 'Specialized restoration services for HOAs and condominium associations in Dallas-Fort Worth Counties. Multi-unit damage response, CC&R compliance, preferred vendor programs.';
 const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Commercial', url: '/commercial/' }, { name: 'HOA Restoration Services', url: '/commercial/hoa-restoration-services/' }];
 
-const allCities = [...dallasCities, ...tarrantCities].sort((a, b) => a.name.localeCompare(b.name));
-const dallasCitiesList = dallasCities.sort((a, b) => a.name.localeCompare(b.name));
-const tarrantCitiesList = tarrantCities.filter(c => c.countySlug === 'tarrant-county').sort((a, b) => a.name.localeCompare(b.name));
+const allCities = dfwCities.sort((a, b) => a.name.localeCompare(b.name));
+const dfwCitiesList = dfwCities.sort((a, b) => a.name.localeCompare(b.name));
 
 const serviceIcons: Record<string, string> = {
   droplet: '💧', flame: '🔥', shield: '🛡️', 'alert-triangle': '⚠️', hammer: '🔨',
@@ -76,15 +74,15 @@ const serviceIcons: Record<string, string> = {
     <!-- Service Areas -->
     <div class="mb-12">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">HOA Restoration Service Areas</h2>
-      <h3 class="font-heading font-bold text-lg mb-4">Dallas County</h3>
+      <h3 class="font-heading font-bold text-lg mb-4">DFW Metro Area</h3>
       <div class="flex flex-wrap gap-2 mb-8">
-        {dallasCitiesList.map((city) => (
+        {dfwCitiesList.map((city) => (
           <a href={`/commercial/hoa-restoration-services/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 hover:text-brand-brown rounded-full border border-brand-gray-200 transition-colors">{city.name}</a>
         ))}
       </div>
-      <h3 class="font-heading font-bold text-lg mb-4">Tarrant County</h3>
+      <h3 class="font-heading font-bold text-lg mb-4">DFW Metro Area</h3>
       <div class="flex flex-wrap gap-2">
-        {tarrantCitiesList.map((city) => (
+        {dfwCitiesList.map((city) => (
           <a href={`/commercial/hoa-restoration-services/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 hover:text-brand-brown rounded-full border border-brand-gray-200 transition-colors">{city.name}</a>
         ))}
       </div>

@@ -4,8 +4,8 @@ import CountyMap from '../components/CountyMap.astro';
 import services from '../data/services.json';
 import googleReviews from '../data/google-reviews.json';
 
-const title = 'Go Green Restoration Inc | 24/7 Water, Fire & Mold Damage Restoration in LA & Tarrant County';
-const description = 'Licensed (#TODO) eco-friendly restoration company serving Dallas-Fort Worth Metroplex. 24/7 emergency water damage, fire damage, mold remediation, sewage cleanup & construction. Free estimates.';
+const title = 'Go Green Restoration TX | 24/7 Water, Fire & Mold Damage Restoration in DFW Metro';
+const description = 'Licensed (#TODO) eco-friendly restoration company serving the Dallas-Fort Worth Metroplex. 24/7 emergency water damage, fire damage, mold remediation, sewage cleanup & construction. Free estimates.';
 
 const websiteSchema = {
   "@context": "https://schema.org",
@@ -50,16 +50,16 @@ const serviceIcons: Record<string, string> = {
 };
 
 const featuredCities = [
-  { name: 'Dallas', slug: 'los-angeles', county: 'dallas-county' },
-  { name: 'Burbank', slug: 'burbank', county: 'dallas-county' },
-  { name: 'Glendale', slug: 'glendale', county: 'dallas-county' },
-  { name: 'Pasadena', slug: 'pasadena', county: 'dallas-county' },
-  { name: 'Long Beach', slug: 'long-beach', county: 'dallas-county' },
-  { name: 'Santa Monica', slug: 'santa-monica', county: 'dallas-county' },
-  { name: 'Thousand Oaks', slug: 'thousand-oaks', county: 'tarrant-county' },
-  { name: 'Simi Valley', slug: 'simi-valley', county: 'tarrant-county' },
-  { name: 'Fort Worth', slug: 'ventura', county: 'tarrant-county' },
-  { name: 'Oxnard', slug: 'oxnard', county: 'tarrant-county' },
+  { name: 'Dallas', slug: 'dallas', county: 'dfw-metro' },
+  { name: 'Fort Worth', slug: 'fort-worth', county: 'dfw-metro' },
+  { name: 'Plano', slug: 'plano', county: 'dfw-metro' },
+  { name: 'Arlington', slug: 'arlington', county: 'dfw-metro' },
+  { name: 'Frisco', slug: 'frisco', county: 'dfw-metro' },
+  { name: 'McKinney', slug: 'mckinney', county: 'dfw-metro' },
+  { name: 'Irving', slug: 'irving', county: 'dfw-metro' },
+  { name: 'Garland', slug: 'garland', county: 'dfw-metro' },
+  { name: 'Grapevine', slug: 'grapevine', county: 'dfw-metro' },
+  { name: 'Southlake', slug: 'southlake', county: 'dfw-metro' },
 ];
 ---
 
@@ -579,22 +579,22 @@ const featuredCities = [
 
       <!-- 2 County Cards -->
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12 stagger-children">
-        <a href="/locations/dallas-county/" class="bg-white rounded-2xl p-6 lg:p-8 shadow-md border border-brand-gray-100 hover:shadow-xl hover:-translate-y-0.5 transition-all group flex items-center gap-5">
+        <a href="/locations/dfw-metro/" class="bg-white rounded-2xl p-6 lg:p-8 shadow-md border border-brand-gray-100 hover:shadow-xl hover:-translate-y-0.5 transition-all group flex items-center gap-5">
           <div class="w-16 h-16 rounded-full bg-brand-green-50 flex items-center justify-center flex-shrink-0">
             <svg class="w-8 h-8 text-brand-green" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/></svg>
           </div>
           <div class="flex-1">
-            <h3 class="font-heading text-xl lg:text-2xl font-bold text-brand-gray-900 group-hover:text-brand-green transition-colors mb-1">Dallas County</h3>
+            <h3 class="font-heading text-xl lg:text-2xl font-bold text-brand-gray-900 group-hover:text-brand-green transition-colors mb-1">DFW Metro Area</h3>
             <p class="text-sm text-brand-gray-600 mb-2">88 cities and 40+ communities served</p>
             <span class="inline-flex items-center text-brand-green font-bold text-sm">View all locations <svg class="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg></span>
           </div>
         </a>
-        <a href="/locations/tarrant-county/" class="bg-white rounded-2xl p-6 lg:p-8 shadow-md border border-brand-gray-100 hover:shadow-xl hover:-translate-y-0.5 transition-all group flex items-center gap-5">
+        <a href="/locations/dfw-metro/" class="bg-white rounded-2xl p-6 lg:p-8 shadow-md border border-brand-gray-100 hover:shadow-xl hover:-translate-y-0.5 transition-all group flex items-center gap-5">
           <div class="w-16 h-16 rounded-full bg-brand-green-50 flex items-center justify-center flex-shrink-0">
             <svg class="w-8 h-8 text-brand-green" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>
           </div>
           <div class="flex-1">
-            <h3 class="font-heading text-xl lg:text-2xl font-bold text-brand-gray-900 group-hover:text-brand-green transition-colors mb-1">Tarrant County</h3>
+            <h3 class="font-heading text-xl lg:text-2xl font-bold text-brand-gray-900 group-hover:text-brand-green transition-colors mb-1">DFW Metro Area</h3>
             <p class="text-sm text-brand-gray-600 mb-2">10 cities and 15+ communities served</p>
             <span class="inline-flex items-center text-brand-green font-bold text-sm">View all locations <svg class="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg></span>
           </div>

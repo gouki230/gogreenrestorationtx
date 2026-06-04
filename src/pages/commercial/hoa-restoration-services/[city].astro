@@ -2,12 +2,11 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import services from '../../../data/services.json';
-import dallasCities from '../../../data/cities-dallas-county.json';
-import tarrantCities from '../../../data/cities-tarrant-county.json';
+import dfwCities from '../../../data/cities-dfw-metro.json';
 import { getNearbyCities } from '../../../utils/content';
 
 export function getStaticPaths() {
-  const allCities = [...dallasCities, ...tarrantCities];
+  const allCities = dfwCities;
   return allCities.map((city) => ({
     params: { city: city.slug },
     props: { city },
@@ -15,7 +14,7 @@ export function getStaticPaths() {
 }
 
 const { city } = Astro.props;
-const allCities = [...dallasCities, ...tarrantCities];
+const allCities = dfwCities;
 const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 5);
 
 const title = `HOA Restoration Services in ${city.name}, TX | Go Green Restoration`;

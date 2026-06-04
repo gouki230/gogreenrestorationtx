@@ -1,0 +1,1147 @@
+[
+  {
+    "name": "Dallas",
+    "slug": "dallas",
+    "county": "Dallas County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 1304379,
+    "zips": [
+      "75201",
+      "75202",
+      "75203",
+      "75204",
+      "75205",
+      "75206",
+      "75207",
+      "75208",
+      "75209",
+      "75214",
+      "75215",
+      "75218",
+      "75219",
+      "75220",
+      "75225",
+      "75230",
+      "75231",
+      "75240",
+      "75243",
+      "75244",
+      "75248",
+      "75252",
+      "75254"
+    ],
+    "lat": 32.7767,
+    "lng": -96.797,
+    "neighborhoods": [
+      "Downtown Dallas",
+      "Uptown",
+      "Deep Ellum",
+      "Bishop Arts",
+      "Lakewood",
+      "Oak Cliff",
+      "Preston Hollow",
+      "Lake Highlands"
+    ],
+    "landmarks": [
+      "Reunion Tower",
+      "Klyde Warren Park",
+      "White Rock Lake",
+      "Dallas Arboretum"
+    ],
+    "nearbyCities": [
+      "irving",
+      "garland",
+      "mesquite",
+      "richardson",
+      "highland-park",
+      "university-park"
+    ],
+    "characteristics": [
+      "urban",
+      "humid-climate",
+      "storm-zone"
+    ],
+    "commonIssues": "Dallas properties face frequent thunderstorms, hail, and flash flooding that drive water damage emergencies. The North Texas climate combines high humidity with hot summers, creating ideal conditions for mold growth in attics and crawlspaces. Aging infrastructure in older neighborhoods often leads to sewer backups and pipe failures."
+  },
+  {
+    "name": "Fort Worth",
+    "slug": "fort-worth",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 956709,
+    "zips": [
+      "76101",
+      "76102",
+      "76103",
+      "76104",
+      "76105",
+      "76106",
+      "76107",
+      "76108",
+      "76109",
+      "76110",
+      "76111",
+      "76112",
+      "76114",
+      "76116",
+      "76119",
+      "76123",
+      "76126",
+      "76129",
+      "76130",
+      "76131",
+      "76132",
+      "76133",
+      "76134",
+      "76135",
+      "76137",
+      "76140",
+      "76148",
+      "76164",
+      "76177",
+      "76179",
+      "76180",
+      "76244"
+    ],
+    "lat": 32.7555,
+    "lng": -97.3308,
+    "neighborhoods": [
+      "Downtown Fort Worth",
+      "Sundance Square",
+      "Cultural District",
+      "TCU/Bluebonnet Hills",
+      "Near Southside",
+      "Stockyards"
+    ],
+    "landmarks": [
+      "Fort Worth Stockyards",
+      "Sundance Square",
+      "Kimbell Art Museum",
+      "Botanic Garden"
+    ],
+    "nearbyCities": [
+      "arlington",
+      "north-richland-hills",
+      "haltom-city",
+      "benbrook",
+      "white-settlement"
+    ],
+    "characteristics": [
+      "urban",
+      "humid-climate",
+      "storm-zone"
+    ],
+    "commonIssues": "Fort Worth's mix of historic downtown buildings and sprawling suburbs creates varied restoration needs. Trinity River flooding, severe spring thunderstorms with hail, and aging plumbing in older neighborhoods drive most water and mold emergencies."
+  },
+  {
+    "name": "Arlington",
+    "slug": "arlington",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 394266,
+    "zips": [
+      "76001",
+      "76002",
+      "76006",
+      "76010",
+      "76011",
+      "76012",
+      "76013",
+      "76014",
+      "76015",
+      "76016",
+      "76017",
+      "76018"
+    ],
+    "lat": 32.7357,
+    "lng": -97.1081,
+    "neighborhoods": [
+      "Entertainment District",
+      "North Arlington",
+      "South Arlington"
+    ],
+    "landmarks": [
+      "AT&T Stadium",
+      "Globe Life Field",
+      "Six Flags Over Texas"
+    ],
+    "nearbyCities": [
+      "fort-worth",
+      "grand-prairie",
+      "mansfield",
+      "pantego"
+    ],
+    "characteristics": [
+      "urban",
+      "humid-climate",
+      "storm-zone"
+    ],
+    "commonIssues": "Arlington's Entertainment District and stadium-area properties need rapid restoration to minimize event-day disruption. Older neighborhoods near downtown have aging clay pipe sewers prone to backups. Spring hail storms damage roofs across the city."
+  },
+  {
+    "name": "Plano",
+    "slug": "plano",
+    "county": "Collin County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 285494,
+    "zips": [
+      "75023",
+      "75024",
+      "75025",
+      "75074",
+      "75075",
+      "75093",
+      "75094"
+    ],
+    "lat": 33.0198,
+    "lng": -96.6989,
+    "neighborhoods": [
+      "Legacy West",
+      "Downtown Plano",
+      "Willow Bend",
+      "Shoal Creek"
+    ],
+    "landmarks": [
+      "Legacy West",
+      "Arbor Hills Nature Preserve"
+    ],
+    "nearbyCities": [
+      "frisco",
+      "richardson",
+      "allen",
+      "mckinney",
+      "carrollton"
+    ],
+    "characteristics": [
+      "suburban",
+      "newer-construction",
+      "storm-zone"
+    ],
+    "commonIssues": "Plano's rapid growth means many homes are 20-40 years old with original plumbing nearing end-of-life. Severe spring storms bring hail and wind damage to roofs, leading to water intrusion. North Texas humidity drives bathroom and laundry-room mold issues."
+  },
+  {
+    "name": "Irving",
+    "slug": "irving",
+    "county": "Dallas County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 256684,
+    "zips": [
+      "75038",
+      "75039",
+      "75060",
+      "75061",
+      "75062",
+      "75063"
+    ],
+    "lat": 32.814,
+    "lng": -96.9489,
+    "neighborhoods": [
+      "Las Colinas",
+      "Valley Ranch",
+      "Hackberry Creek"
+    ],
+    "landmarks": [
+      "Las Colinas Mustangs",
+      "Toyota Music Factory",
+      "Mandalay Canal"
+    ],
+    "nearbyCities": [
+      "dallas",
+      "grand-prairie",
+      "carrollton",
+      "coppell",
+      "euless"
+    ],
+    "characteristics": [
+      "urban",
+      "humid-climate",
+      "storm-zone"
+    ],
+    "commonIssues": "Irving's mix of older neighborhoods and Las Colinas high-rises creates varied restoration needs. The Trinity River corridor brings flood risk, and DFW Airport-area commercial buildings need rapid response to minimize business disruption."
+  },
+  {
+    "name": "Garland",
+    "slug": "garland",
+    "county": "Dallas County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 246918,
+    "zips": [
+      "75040",
+      "75041",
+      "75042",
+      "75043",
+      "75044"
+    ],
+    "lat": 32.9126,
+    "lng": -96.6389,
+    "neighborhoods": [
+      "Downtown Garland",
+      "Firewheel",
+      "South Garland"
+    ],
+    "landmarks": [
+      "Firewheel Town Center",
+      "Lake Ray Hubbard"
+    ],
+    "nearbyCities": [
+      "dallas",
+      "richardson",
+      "rowlett",
+      "mesquite",
+      "sachse"
+    ],
+    "characteristics": [
+      "suburban",
+      "older-buildings",
+      "storm-zone"
+    ],
+    "commonIssues": "Many Garland homes built in the 1960s-80s have cast iron sewer lines that have corroded, leading to sewage backups. Lake Ray Hubbard area properties face occasional flood damage during heavy rains."
+  },
+  {
+    "name": "Frisco",
+    "slug": "frisco",
+    "county": "Collin County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 218000,
+    "zips": [
+      "75033",
+      "75034",
+      "75035",
+      "75036"
+    ],
+    "lat": 33.1507,
+    "lng": -96.8236,
+    "neighborhoods": [
+      "The Star District",
+      "Frisco Square",
+      "Stonebriar"
+    ],
+    "landmarks": [
+      "The Star",
+      "Toyota Stadium",
+      "Stonebriar Centre"
+    ],
+    "nearbyCities": [
+      "plano",
+      "mckinney",
+      "allen",
+      "the-colony",
+      "prosper"
+    ],
+    "characteristics": [
+      "suburban",
+      "newer-construction",
+      "storm-zone"
+    ],
+    "commonIssues": "Many Frisco homes were built in the 2000s with builder-grade materials. Hail and wind damage from spring thunderstorms is a constant concern. Foundation movement from expansive clay soil often causes plumbing leaks behind walls."
+  },
+  {
+    "name": "McKinney",
+    "slug": "mckinney",
+    "county": "Collin County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 207130,
+    "zips": [
+      "75069",
+      "75070",
+      "75071",
+      "75072"
+    ],
+    "lat": 33.1972,
+    "lng": -96.6398,
+    "neighborhoods": [
+      "Historic Downtown McKinney",
+      "Stonebridge Ranch",
+      "Tucker Hill"
+    ],
+    "landmarks": [
+      "Historic Downtown Square",
+      "Adriatica Village"
+    ],
+    "nearbyCities": [
+      "frisco",
+      "allen",
+      "plano",
+      "prosper",
+      "princeton"
+    ],
+    "characteristics": [
+      "suburban",
+      "historic-district",
+      "storm-zone"
+    ],
+    "commonIssues": "Historic Downtown McKinney has many century-old buildings with original wiring and plumbing requiring careful restoration. Newer subdivisions face hail damage and foundation-related plumbing leaks from clay soil shifts."
+  },
+  {
+    "name": "Mesquite",
+    "slug": "mesquite",
+    "county": "Dallas County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 150108,
+    "zips": [
+      "75149",
+      "75150",
+      "75180",
+      "75181",
+      "75182"
+    ],
+    "lat": 32.7668,
+    "lng": -96.5992,
+    "neighborhoods": [
+      "Downtown Mesquite",
+      "Town East"
+    ],
+    "landmarks": [
+      "Mesquite Championship Rodeo",
+      "Town East Mall"
+    ],
+    "nearbyCities": [
+      "dallas",
+      "garland",
+      "balch-springs",
+      "sunnyvale"
+    ],
+    "characteristics": [
+      "suburban",
+      "older-buildings",
+      "storm-zone"
+    ],
+    "commonIssues": "Mesquite's older housing stock means aging plumbing, original HVAC systems, and outdated electrical that contribute to water and fire damage emergencies. Severe weather brings hail and wind damage seasonally."
+  },
+  {
+    "name": "Carrollton",
+    "slug": "carrollton",
+    "county": "Dallas County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 133168,
+    "zips": [
+      "75006",
+      "75007",
+      "75010"
+    ],
+    "lat": 32.9756,
+    "lng": -96.89,
+    "neighborhoods": [
+      "Downtown Carrollton",
+      "Castle Hills"
+    ],
+    "landmarks": [
+      "Downtown Carrollton Square",
+      "Old Downtown"
+    ],
+    "nearbyCities": [
+      "plano",
+      "irving",
+      "addison",
+      "farmers-branch",
+      "the-colony"
+    ],
+    "characteristics": [
+      "suburban",
+      "storm-zone"
+    ],
+    "commonIssues": "Carrollton properties experience the typical North Texas hail and wind damage from spring storms. Older homes in the original Carrollton area have aging foundations and plumbing prone to leaks."
+  },
+  {
+    "name": "Richardson",
+    "slug": "richardson",
+    "county": "Dallas County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 119469,
+    "zips": [
+      "75080",
+      "75081",
+      "75082",
+      "75083"
+    ],
+    "lat": 32.9483,
+    "lng": -96.7299,
+    "neighborhoods": [
+      "Telecom Corridor",
+      "Cottonwood Heights",
+      "Buckingham"
+    ],
+    "landmarks": [
+      "Eisemann Center",
+      "CityLine"
+    ],
+    "nearbyCities": [
+      "dallas",
+      "plano",
+      "garland"
+    ],
+    "characteristics": [
+      "suburban",
+      "older-buildings",
+      "storm-zone"
+    ],
+    "commonIssues": "Richardson's mid-century homes have original galvanized plumbing prone to failure. The Telecom Corridor's commercial buildings need fast restoration response to keep tenants operational. Hail damage is frequent during spring storm season."
+  },
+  {
+    "name": "Allen",
+    "slug": "allen",
+    "county": "Collin County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 110510,
+    "zips": [
+      "75002",
+      "75013"
+    ],
+    "lat": 33.1032,
+    "lng": -96.6705,
+    "neighborhoods": [
+      "Watters Creek",
+      "Twin Creeks",
+      "Allen Heights"
+    ],
+    "landmarks": [
+      "Allen Premium Outlets",
+      "Watters Creek at Montgomery Farm"
+    ],
+    "nearbyCities": [
+      "plano",
+      "mckinney",
+      "frisco",
+      "fairview"
+    ],
+    "characteristics": [
+      "suburban",
+      "newer-construction",
+      "storm-zone"
+    ],
+    "commonIssues": "Allen experiences frequent hail storms that damage roofs and trigger interior water damage. Many homes from the 1990s-2000s have aging water heaters and HVAC condensate lines that fail and cause leaks."
+  },
+  {
+    "name": "Lewisville",
+    "slug": "lewisville",
+    "county": "Denton County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 116020,
+    "zips": [
+      "75056",
+      "75057",
+      "75067",
+      "75077"
+    ],
+    "lat": 33.0462,
+    "lng": -96.9942,
+    "neighborhoods": [
+      "Old Town Lewisville",
+      "Castle Hills"
+    ],
+    "landmarks": [
+      "Lake Lewisville",
+      "Music City Mall"
+    ],
+    "nearbyCities": [
+      "flower-mound",
+      "carrollton",
+      "the-colony",
+      "highland-village",
+      "coppell"
+    ],
+    "characteristics": [
+      "suburban",
+      "lakefront",
+      "storm-zone"
+    ],
+    "commonIssues": "Lewisville's proximity to Lake Lewisville means waterfront homes face flood and humidity-related restoration. Aging mid-century neighborhoods have original plumbing systems. Hail damage is a recurring spring issue."
+  },
+  {
+    "name": "Denton",
+    "slug": "denton",
+    "county": "Denton County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 148146,
+    "zips": [
+      "76201",
+      "76205",
+      "76207",
+      "76208",
+      "76209",
+      "76210"
+    ],
+    "lat": 33.2148,
+    "lng": -97.1331,
+    "neighborhoods": [
+      "Downtown Denton",
+      "Robson Ranch",
+      "University area"
+    ],
+    "landmarks": [
+      "University of North Texas",
+      "Denton County Courthouse"
+    ],
+    "nearbyCities": [
+      "lewisville",
+      "argyle",
+      "flower-mound",
+      "corinth"
+    ],
+    "characteristics": [
+      "suburban",
+      "historic-district",
+      "storm-zone"
+    ],
+    "commonIssues": "Denton's historic downtown has aging Victorian-era buildings requiring preservation-grade restoration. University-area rental properties see frequent water damage from student occupancy. Spring tornado-alley storms bring wind and hail damage."
+  },
+  {
+    "name": "Flower Mound",
+    "slug": "flower-mound",
+    "county": "Denton County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 78854,
+    "zips": [
+      "75022",
+      "75028"
+    ],
+    "lat": 33.0146,
+    "lng": -97.0969,
+    "neighborhoods": [
+      "Bridlewood",
+      "Wellington",
+      "Bridges of Flower Mound"
+    ],
+    "landmarks": [
+      "The Flower Mound (historic landmark)",
+      "Twin Coves Park"
+    ],
+    "nearbyCities": [
+      "lewisville",
+      "highland-village",
+      "argyle",
+      "grapevine",
+      "southlake"
+    ],
+    "characteristics": [
+      "suburban",
+      "luxury-homes",
+      "storm-zone"
+    ],
+    "commonIssues": "Flower Mound's larger luxury homes have complex plumbing and HVAC systems that increase failure points. Hail storms damage high-end roofing materials. Foundation issues from clay soil cause slab leaks."
+  },
+  {
+    "name": "Grand Prairie",
+    "slug": "grand-prairie",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 196100,
+    "zips": [
+      "75050",
+      "75051",
+      "75052",
+      "75054"
+    ],
+    "lat": 32.7459,
+    "lng": -96.9978,
+    "neighborhoods": [
+      "Mountain Creek",
+      "Westchester"
+    ],
+    "landmarks": [
+      "Lone Star Park",
+      "Verizon Theatre"
+    ],
+    "nearbyCities": [
+      "arlington",
+      "irving",
+      "duncanville",
+      "cedar-hill"
+    ],
+    "characteristics": [
+      "suburban",
+      "storm-zone"
+    ],
+    "commonIssues": "Grand Prairie spans Dallas and Tarrant counties with varied property ages. Older neighborhoods have aging plumbing; newer subdivisions face hail and foundation issues from expansive clay soil."
+  },
+  {
+    "name": "Mansfield",
+    "slug": "mansfield",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 76247,
+    "zips": [
+      "76063"
+    ],
+    "lat": 32.5632,
+    "lng": -97.1417,
+    "neighborhoods": [
+      "Historic Downtown Mansfield",
+      "Walnut Creek"
+    ],
+    "landmarks": [
+      "Historic Downtown Square",
+      "Mansfield National Golf Club"
+    ],
+    "nearbyCities": [
+      "arlington",
+      "burleson",
+      "midlothian"
+    ],
+    "characteristics": [
+      "suburban",
+      "newer-construction",
+      "storm-zone"
+    ],
+    "commonIssues": "Mansfield's rapid growth has built many homes in the last 15-20 years. Builder-grade roofing and windows are vulnerable to hail damage during spring storms. Foundation issues from expansive clay soil often cause hidden plumbing leaks."
+  },
+  {
+    "name": "Grapevine",
+    "slug": "grapevine",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 50643,
+    "zips": [
+      "76051",
+      "76092",
+      "76099"
+    ],
+    "lat": 32.9343,
+    "lng": -97.078,
+    "neighborhoods": [
+      "Historic Downtown Grapevine",
+      "Glade Crossing"
+    ],
+    "landmarks": [
+      "Grapevine Mills",
+      "Main Street Historic District",
+      "Lake Grapevine"
+    ],
+    "nearbyCities": [
+      "southlake",
+      "colleyville",
+      "euless",
+      "coppell",
+      "flower-mound"
+    ],
+    "characteristics": [
+      "suburban",
+      "historic-district",
+      "storm-zone"
+    ],
+    "commonIssues": "Grapevine's historic Main Street district requires preservation-grade restoration techniques. Lake Grapevine waterfront properties face occasional flood damage. The DFW Airport-adjacent area sees hotel and commercial restoration needs."
+  },
+  {
+    "name": "Southlake",
+    "slug": "southlake",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 31265,
+    "zips": [
+      "76092"
+    ],
+    "lat": 32.9412,
+    "lng": -97.1342,
+    "neighborhoods": [
+      "Southlake Town Square area",
+      "Carillon",
+      "Timarron"
+    ],
+    "landmarks": [
+      "Southlake Town Square",
+      "Bicentennial Park"
+    ],
+    "nearbyCities": [
+      "grapevine",
+      "colleyville",
+      "keller",
+      "westlake",
+      "trophy-club"
+    ],
+    "characteristics": [
+      "suburban",
+      "luxury-homes",
+      "storm-zone"
+    ],
+    "commonIssues": "Southlake's luxury homes have high-end finishes that require specialty restoration after water damage. Spring hail storms cause expensive roof and skylight damage. Custom HVAC systems and complex plumbing in larger homes mean more potential failure points."
+  },
+  {
+    "name": "Keller",
+    "slug": "keller",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 45776,
+    "zips": [
+      "76244",
+      "76248"
+    ],
+    "lat": 32.9343,
+    "lng": -97.2517,
+    "neighborhoods": [
+      "Old Town Keller",
+      "Hidden Lakes"
+    ],
+    "landmarks": [
+      "Keller Town Hall",
+      "Bear Creek Park"
+    ],
+    "nearbyCities": [
+      "southlake",
+      "north-richland-hills",
+      "watauga",
+      "colleyville"
+    ],
+    "characteristics": [
+      "suburban",
+      "newer-construction",
+      "storm-zone"
+    ],
+    "commonIssues": "Keller's newer homes face hail and wind damage from severe weather. The community's emphasis on family neighborhoods means insurance-friendly, family-considerate restoration is essential."
+  },
+  {
+    "name": "Colleyville",
+    "slug": "colleyville",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 26766,
+    "zips": [
+      "76034"
+    ],
+    "lat": 32.8807,
+    "lng": -97.1551,
+    "neighborhoods": [
+      "Colleyville Heritage",
+      "Whittier Heights"
+    ],
+    "landmarks": [
+      "Colleyville Center",
+      "Bransford Park"
+    ],
+    "nearbyCities": [
+      "southlake",
+      "grapevine",
+      "keller",
+      "bedford"
+    ],
+    "characteristics": [
+      "suburban",
+      "luxury-homes",
+      "storm-zone"
+    ],
+    "commonIssues": "Colleyville's larger custom homes have premium finishes that need careful restoration. Storm season brings hail and wind damage to tile and slate roofs. Foundation issues from clay soil cause slab leaks."
+  },
+  {
+    "name": "Bedford",
+    "slug": "bedford",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 49928,
+    "zips": [
+      "76021",
+      "76022"
+    ],
+    "lat": 32.844,
+    "lng": -97.1431,
+    "neighborhoods": [
+      "Old Bedford",
+      "Central Bedford"
+    ],
+    "landmarks": [
+      "Boys Ranch Park",
+      "Bedford Splash Park"
+    ],
+    "nearbyCities": [
+      "euless",
+      "hurst",
+      "north-richland-hills",
+      "colleyville"
+    ],
+    "characteristics": [
+      "suburban",
+      "older-buildings",
+      "storm-zone"
+    ],
+    "commonIssues": "Bedford's housing stock from the 1970s-90s often has aging plumbing and original water heaters. Mid-cities location means heavy spring storm exposure and frequent hail damage claims."
+  },
+  {
+    "name": "Euless",
+    "slug": "euless",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 61032,
+    "zips": [
+      "76039",
+      "76040"
+    ],
+    "lat": 32.8371,
+    "lng": -97.082,
+    "neighborhoods": [
+      "North Euless",
+      "South Euless"
+    ],
+    "landmarks": [
+      "Texas Star Golf Course",
+      "Bear Creek Park"
+    ],
+    "nearbyCities": [
+      "hurst",
+      "bedford",
+      "grapevine",
+      "irving"
+    ],
+    "characteristics": [
+      "suburban",
+      "older-buildings",
+      "storm-zone"
+    ],
+    "commonIssues": "Euless's proximity to DFW Airport brings constant noise that can mask early water leak signs. Older homes have aging cast iron sewer lines that fail and back up. Spring weather brings predictable hail and wind damage."
+  },
+  {
+    "name": "Hurst",
+    "slug": "hurst",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 40413,
+    "zips": [
+      "76053",
+      "76054"
+    ],
+    "lat": 32.8235,
+    "lng": -97.1706,
+    "neighborhoods": [
+      "North Hurst",
+      "South Hurst"
+    ],
+    "landmarks": [
+      "NRH2O Family Water Park (border)",
+      "Chisholm Park"
+    ],
+    "nearbyCities": [
+      "euless",
+      "bedford",
+      "north-richland-hills",
+      "richland-hills"
+    ],
+    "characteristics": [
+      "suburban",
+      "older-buildings",
+      "storm-zone"
+    ],
+    "commonIssues": "Hurst's 1960s-80s housing stock often has cast iron and galvanized plumbing past its expected lifespan. Aging HVAC systems and water heaters lead to leaks and mold issues."
+  },
+  {
+    "name": "North Richland Hills",
+    "slug": "north-richland-hills",
+    "county": "Tarrant County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 69204,
+    "zips": [
+      "76180",
+      "76182"
+    ],
+    "lat": 32.8343,
+    "lng": -97.2289,
+    "neighborhoods": [
+      "Smithfield",
+      "Iron Horse"
+    ],
+    "landmarks": [
+      "NRH2O Family Water Park",
+      "Iron Horse Golf Course"
+    ],
+    "nearbyCities": [
+      "watauga",
+      "keller",
+      "hurst",
+      "richland-hills"
+    ],
+    "characteristics": [
+      "suburban",
+      "older-buildings",
+      "storm-zone"
+    ],
+    "commonIssues": "North Richland Hills has many homes from the 1960s-90s with aging plumbing and HVAC systems. Spring storms bring hail damage to roofs. Foundation movement from North Texas clay soil often triggers slab leaks."
+  },
+  {
+    "name": "Rockwall",
+    "slug": "rockwall",
+    "county": "Rockwall County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 47251,
+    "zips": [
+      "75032",
+      "75087"
+    ],
+    "lat": 32.9312,
+    "lng": -96.4597,
+    "neighborhoods": [
+      "Historic Downtown Rockwall",
+      "Harbor District"
+    ],
+    "landmarks": [
+      "Lake Ray Hubbard",
+      "The Harbor"
+    ],
+    "nearbyCities": [
+      "heath",
+      "rowlett",
+      "garland",
+      "wylie"
+    ],
+    "characteristics": [
+      "suburban",
+      "lakefront",
+      "storm-zone"
+    ],
+    "commonIssues": "Rockwall's lakefront properties on Lake Ray Hubbard face flood damage and high humidity-related mold issues. Lakefront docks and boathouses need specialty water damage restoration. Spring storms bring hail across the area."
+  },
+  {
+    "name": "Coppell",
+    "slug": "coppell",
+    "county": "Dallas County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 41015,
+    "zips": [
+      "75019"
+    ],
+    "lat": 32.9546,
+    "lng": -96.99,
+    "neighborhoods": [
+      "Old Coppell",
+      "Lakes of Coppell"
+    ],
+    "landmarks": [
+      "Old Town Coppell",
+      "Andy Brown Park"
+    ],
+    "nearbyCities": [
+      "irving",
+      "grapevine",
+      "lewisville",
+      "carrollton"
+    ],
+    "characteristics": [
+      "suburban",
+      "luxury-homes",
+      "storm-zone"
+    ],
+    "commonIssues": "Coppell's affluent neighborhoods have premium-grade homes with high replacement values. DFW Airport proximity means commercial restoration is also in demand. Spring hail storms regularly damage roofs and skylights."
+  },
+  {
+    "name": "Prosper",
+    "slug": "prosper",
+    "county": "Collin County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 35949,
+    "zips": [
+      "75078"
+    ],
+    "lat": 33.2362,
+    "lng": -96.8011,
+    "neighborhoods": [
+      "Windsong Ranch",
+      "Lakes at Prosper Trail"
+    ],
+    "landmarks": [
+      "Prosper Town Hall",
+      "Frontier Park"
+    ],
+    "nearbyCities": [
+      "celina",
+      "frisco",
+      "mckinney",
+      "little-elm"
+    ],
+    "characteristics": [
+      "suburban",
+      "newer-construction",
+      "luxury-homes",
+      "storm-zone"
+    ],
+    "commonIssues": "Prosper's explosive growth means most homes are under 10 years old, but builder-grade materials are still vulnerable to hail. Larger homes have complex plumbing with more potential failure points. Clay soil causes foundation movement that triggers slab leaks."
+  },
+  {
+    "name": "Wylie",
+    "slug": "wylie",
+    "county": "Collin County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 57526,
+    "zips": [
+      "75098"
+    ],
+    "lat": 33.0151,
+    "lng": -96.5388,
+    "neighborhoods": [
+      "Historic Downtown Wylie",
+      "Bozman Farm"
+    ],
+    "landmarks": [
+      "Lake Lavon",
+      "Historic Downtown Wylie"
+    ],
+    "nearbyCities": [
+      "murphy",
+      "sachse",
+      "rockwall",
+      "lavon"
+    ],
+    "characteristics": [
+      "suburban",
+      "lakefront",
+      "storm-zone"
+    ],
+    "commonIssues": "Wylie's Lake Lavon proximity brings flood risk to lakefront properties. Older downtown homes need careful restoration to preserve historic character. Newer subdivisions face hail and foundation issues."
+  },
+  {
+    "name": "The Colony",
+    "slug": "the-colony",
+    "county": "Denton County",
+    "countySlug": "dfw-metro",
+    "type": "incorporated",
+    "population": 46856,
+    "zips": [
+      "75056"
+    ],
+    "lat": 33.0807,
+    "lng": -96.8867,
+    "neighborhoods": [
+      "Tribute",
+      "The Colony Castle Hills"
+    ],
+    "landmarks": [
+      "Lake Lewisville",
+      "Grandscape"
+    ],
+    "nearbyCities": [
+      "lewisville",
+      "carrollton",
+      "frisco",
+      "little-elm"
+    ],
+    "characteristics": [
+      "suburban",
+      "lakefront",
+      "storm-zone"
+    ],
+    "commonIssues": "The Colony's lakefront properties on Lake Lewisville face flood and humidity-related restoration issues. Newer Grandscape-area mixed-use buildings need commercial restoration. Hail damage from spring storms is constant."
+  }
+]

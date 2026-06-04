@@ -2,8 +2,7 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import services from '../../../data/services.json';
-import dallasCities from '../../../data/cities-dallas-county.json';
-import tarrantCities from '../../../data/cities-tarrant-county.json';
+import dfwCities from '../../../data/cities-dfw-metro.json';
 
 const title = 'Commercial Property Restoration | Go Green Restoration Inc';
 const description = 'Restoration services for commercial buildings, offices, retail, and mixed-use properties in Dallas-Fort Worth Counties. Fast response, minimal disruption, insurance coordination.';
@@ -13,8 +12,7 @@ const breadcrumbs = [
   { name: 'Commercial Properties', url: '/commercial/commercial-properties/' },
 ];
 
-const dallasCitiesList = dallasCities.sort((a, b) => a.name.localeCompare(b.name));
-const tarrantCitiesList = tarrantCities.filter(c => c.countySlug === 'tarrant-county').sort((a, b) => a.name.localeCompare(b.name));
+const dfwCitiesList = dfwCities.sort((a, b) => a.name.localeCompare(b.name));
 
 const serviceIconSvg: Record<string, string> = {
   droplet: '<path d="M12 2.5c0 0-6.5 7-6.5 12.5a6.5 6.5 0 1013 0c0-5.5-6.5-12.5-6.5-12.5z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" fill="none"/>',
@@ -31,8 +29,8 @@ const schema = [
     "name": "Commercial Property Restoration",
     "provider": { "@type": "Organization", "name": "Go Green Restoration Inc", "url": "https://gogreenrestorationtx.com" },
     "areaServed": [
-      { "@type": "AdministrativeArea", "name": "Dallas County, Texas" },
-      { "@type": "AdministrativeArea", "name": "Tarrant County, Texas" },
+      { "@type": "AdministrativeArea", "name": "DFW Metro Area" },
+      { "@type": "AdministrativeArea", "name": "DFW Metro Area" },
     ],
     "serviceType": "Commercial Property Restoration",
     "description": description,
@@ -143,15 +141,15 @@ const schema = [
     <!-- Service Areas -->
     <div class="mb-12">
       <h2 class="font-heading text-2xl lg:text-3xl font-black text-brand-gray-900 mb-6">Commercial Restoration Service Areas</h2>
-      <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">Dallas County</h3>
+      <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
       <div class="flex flex-wrap gap-2 mb-8">
-        {dallasCitiesList.slice(0, 60).map((city) => (
+        {dfwCitiesList.slice(0, 60).map((city) => (
           <span class="text-sm px-3 py-1.5 bg-brand-gray-50 text-brand-gray-800 rounded-full border border-brand-gray-200">{city.name}</span>
         ))}
       </div>
-      <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">Tarrant County</h3>
+      <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
       <div class="flex flex-wrap gap-2">
-        {tarrantCitiesList.map((city) => (
+        {dfwCitiesList.map((city) => (
           <span class="text-sm px-3 py-1.5 bg-brand-gray-50 text-brand-gray-800 rounded-full border border-brand-gray-200">{city.name}</span>
         ))}
       </div>
