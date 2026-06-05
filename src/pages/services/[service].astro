@@ -17,7 +17,7 @@ const allCities = dfwCities;
 const dfwCitiesList = dfwCities.sort((a, b) => a.name.localeCompare(b.name));
 
 const title = `${service.name} Services | Go Green Restoration Inc`;
-const description = `Professional ${service.name.toLowerCase()} services throughout Dallas-Fort Worth Metroplex. Licensed #TODO. 24/7 emergency response. Free estimates.`;
+const description = `Professional ${service.name.toLowerCase()} services throughout Dallas-Fort Worth Metroplex. Bonded & insured. 24/7 emergency response. Free estimates.`;
 
 const breadcrumbs = [
   { name: 'Home', url: '/' },
@@ -36,7 +36,6 @@ const serviceSchema = {
     "url": "https://gogreenrestorationtx.com"
   },
   "areaServed": [
-    { "@type": "AdministrativeArea", "name": "DFW Metro Area" },
     { "@type": "AdministrativeArea", "name": "DFW Metro Area" }
   ],
   "serviceType": service.name,
@@ -95,7 +94,7 @@ const images = serviceImages[service.slug] || [];
         <div>
           <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">{service.name}</h1>
           <p class="text-lg text-brand-warm-200 max-w-3xl mb-6">
-            24/7 emergency {service.shortName.toLowerCase()} services throughout Dallas-Fort Worth metroplex. Licensed (#TODO), bonded, and insured.
+            24/7 emergency {service.shortName.toLowerCase()} services throughout Dallas-Fort Worth metroplex. Bonded and insured.
           </p>
           <a href="tel:+14697273217" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">
             Call Now: (469) 727-3217
@@ -158,15 +157,6 @@ const images = serviceImages[service.slug] || [];
     <!-- Service Areas -->
     <div class="mb-16">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">{service.name} Service Areas</h2>
-
-      <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
-      <div class="flex flex-wrap gap-2 mb-8">
-        {dfwCitiesList.map((city) => (
-          <a href={`/${service.slug}/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 hover:text-brand-brown rounded-full border border-brand-gray-200 hover:border-brand-green-200 transition-colors">
-            {city.name}
-          </a>
-        ))}
-      </div>
 
       <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
       <div class="flex flex-wrap gap-2 mb-8">

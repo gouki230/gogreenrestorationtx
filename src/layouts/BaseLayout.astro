@@ -32,37 +32,37 @@ const organizationSchema = {
   "url": siteUrl,
   "logo": `${siteUrl}/logo.png`,
   "telephone": "+1-469-727-3217",
-  "description": "Licensed, bonded and insured restoration company serving Dallas-Fort Worth metroplex. 24/7 water, fire, mold, and sewage damage restoration.",
+  "description": "Bonded and insured restoration company serving Dallas-Fort Worth metroplex. 24/7 water, fire, mold, and sewage damage restoration.",
   "sameAs": [
     "#"
   ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "TODO: Texas street address",
-    "addressLocality": "Dallas",
+    "streetAddress": "1902 Parker Rd",
+    "addressLocality": "Wylie",
     "addressRegion": "TX",
-    "postalCode": "TODO",
+    "postalCode": "75098",
     "addressCountry": "US"
   },
   "location": [
     {
       "@type": "LocalBusiness",
-      "name": "Go Green Restoration TX - Dallas",
+      "name": "Go Green Restoration TX - Dallas-Fort Worth",
       "image": `${siteUrl}/logo.png`,
       "telephone": "+1-469-727-3217",
       "url": siteUrl,
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "TODO: Texas street address",
-        "addressLocality": "Dallas",
+        "streetAddress": "1902 Parker Rd",
+        "addressLocality": "Wylie",
         "addressRegion": "TX",
-        "postalCode": "TODO",
+        "postalCode": "75098",
         "addressCountry": "US"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 32.7767,
-        "longitude": -96.7970
+        "latitude": 33.0151,
+        "longitude": -96.5389
       },
       "openingHoursSpecification": {
         "@type": "OpeningHoursSpecification",
@@ -79,13 +79,7 @@ const organizationSchema = {
     { "@type": "AdministrativeArea", "name": "Collin County, Texas" },
     { "@type": "AdministrativeArea", "name": "Denton County, Texas" },
     { "@type": "AdministrativeArea", "name": "Rockwall County, Texas" }
-  ],
-  "hasCredential": {
-    "@type": "EducationalOccupationalCredential",
-    "credentialCategory": "Texas Restoration License",
-    "recognizedBy": { "@type": "Organization", "name": "Texas Contractors State License Board" },
-    "name": "License #TODO"
-  }
+  ]
 };
 
 const allSchemas = [organizationSchema, ...schema];

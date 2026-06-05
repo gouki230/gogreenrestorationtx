@@ -3,27 +3,21 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import dfwCities from '../../data/cities-dfw-metro.json';
 
-const title = 'Service Areas | Go Green Restoration Inc - LA & DFW Metro Area';
+const title = 'Service Areas | Go Green Restoration Inc - DFW Metro Area';
 const description = 'Go Green Restoration serves all cities in the DFW Metroplex. Find restoration services in your area. 24/7 emergency response.';
 const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Locations', url: '/locations/' }];
-const laCount = dfwCities.length;
-const venturaCount = dfwCities.length;
+const dfwCount = dfwCities.length;
 ---
 
 <BaseLayout title={title} description={description}>
   <Breadcrumbs items={breadcrumbs} />
   <section class="max-w-7xl mx-auto px-4 py-12">
     <h1 class="font-heading text-4xl lg:text-5xl font-extrabold text-brand-gray-900 mb-6">Our Service Areas</h1>
-    <p class="text-lg text-brand-gray-600 max-w-3xl mb-12">Go Green Restoration Inc provides 24/7 restoration services throughout {laCount + venturaCount}+ cities and communities in Dallas-Fort Worth metroplex.</p>
+    <p class="text-lg text-brand-gray-600 max-w-3xl mb-12">Go Green Restoration Inc provides 24/7 restoration services throughout {dfwCount}+ cities and communities in Dallas-Fort Worth metroplex.</p>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
       <a href="/locations/dfw-metro/" class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-8 transition-all hover:shadow-lg border border-transparent hover:border-brand-green-200">
         <h2 class="font-heading text-2xl font-bold text-brand-gray-900 group-hover:text-brand-brown mb-2">DFW Metro Area</h2>
-        <p class="text-brand-gray-600 mb-4">{laCount} cities and communities served</p>
-        <span class="text-brand-brown font-medium group-hover:underline">View all locations &rarr;</span>
-      </a>
-      <a href="/locations/dfw-metro/" class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-8 transition-all hover:shadow-lg border border-transparent hover:border-brand-green-200">
-        <h2 class="font-heading text-2xl font-bold text-brand-gray-900 group-hover:text-brand-brown mb-2">DFW Metro Area</h2>
-        <p class="text-brand-gray-600 mb-4">{venturaCount} cities and communities served</p>
+        <p class="text-brand-gray-600 mb-4">{dfwCount} cities and communities served</p>
         <span class="text-brand-brown font-medium group-hover:underline">View all locations &rarr;</span>
       </a>
     </div>

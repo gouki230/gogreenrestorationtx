@@ -18,7 +18,7 @@ const allCities = dfwCities;
 const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 5);
 
 const title = `Property Management Restoration in ${city.name}, TX | Go Green Restoration`;
-const description = `Property management restoration services in ${city.name}, ${city.county}. Tenant coordination, multi-unit response, portfolio pricing. License #TODO.`;
+const description = `Property management restoration services in ${city.name}, ${city.county}. Tenant coordination, multi-unit response, portfolio pricing. Bonded & insured.`;
 const breadcrumbs = [
   { name: 'Home', url: '/' },
   { name: 'Commercial', url: '/commercial/' },
@@ -34,7 +34,7 @@ const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', s
 
   <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
     <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
-      <h1 class="font-heading text-3xl lg:text-4xl xl:text-5xl font-black mb-4">Property Management Restoration in {city.name}, CA</h1>
+      <h1 class="font-heading text-3xl lg:text-4xl xl:text-5xl font-black mb-4">Property Management Restoration in {city.name}, TX</h1>
       <p class="text-lg text-brand-warm-200 mb-6">Tenant Coordination | Portfolio Pricing | 24/7 Emergency</p>
       <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">Schedule a Property Assessment</a>
     </div>

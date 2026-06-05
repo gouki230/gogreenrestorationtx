@@ -123,7 +123,7 @@ const serviceImage: Record<string, { src: string; alt: string }> = {
 };
 // Prefer the new service photo (from services.json) for the intro; fall back to the old per-service photo if missing
 const heroImage = service.image
-  ? { src: service.image, alt: `${service.name} in ${city.name}, CA` }
+  ? { src: service.image, alt: `${service.name} in ${city.name}, TX` }
   : serviceImage[service.slug];
 ---
 
@@ -134,7 +134,7 @@ const heroImage = service.image
   <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
     <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
       <h1 class="font-heading text-3xl lg:text-4xl xl:text-5xl font-black mb-4">{h1}</h1>
-      <p class="text-lg text-brand-warm-200 mb-6">24/7 Emergency | License #TODO | Eco-Friendly Methods</p>
+      <p class="text-lg text-brand-warm-200 mb-6">24/7 Emergency | Bonded & Insured | Eco-Friendly Methods</p>
       <a href="tel:+14697273217" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">
         Call Now: (469) 727-3217
       </a>
@@ -311,7 +311,6 @@ const heroImage = service.image
           <div class="bg-brand-gray-50 rounded-xl p-6">
             <h3 class="font-heading font-bold text-lg mb-4">Why Go Green?</h3>
             <div class="space-y-3 text-sm">
-              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Licensed #TODO</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Bonded & Insured</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> IICRC Certified</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Eco-Friendly Methods</div>

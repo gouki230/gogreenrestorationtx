@@ -8,11 +8,11 @@
     "cardDescription": "Fast water extraction, drying, and dehumidification to prevent further damage and mold growth.",
     "priority": 1,
     "metaTitleTemplate": "Water Damage Restoration in {city}, TX | Go Green Restoration",
-    "metaDescriptionTemplate": "24/7 water damage restoration in {city}, {county}. Licensed (#TODO), bonded & insured. Emergency water extraction, drying & repair. Call now for a free estimate.",
-    "h1Template": "Water Damage Restoration in {city}, CA",
+    "metaDescriptionTemplate": "24/7 water damage restoration in {city}, {county}. Bonded & insured. Emergency water extraction, drying & repair. Call now for a free estimate.",
+    "h1Template": "Water Damage Restoration in {city}, TX",
     "introTemplates": [
       "When water damage strikes your {city} home or business, every minute counts. Go Green Restoration Inc provides rapid-response water damage restoration services throughout {city} and surrounding {county} communities. Our IICRC-certified technicians arrive equipped with commercial-grade extraction and drying equipment to minimize damage and restore your property efficiently.",
-      "Water damage can devastate your {city} property if not addressed immediately. Go Green Restoration Inc offers comprehensive water damage restoration in {city}, {county}, with response times designed for emergencies. From burst pipes to storm flooding, our licensed team (#TODO) handles every aspect of water damage cleanup, structural drying, and complete restoration.",
+      "Water damage can devastate your {city} property if not addressed immediately. Go Green Restoration Inc offers comprehensive water damage restoration in {city}, {county}, with response times designed for emergencies. From burst pipes to storm flooding, our team handles every aspect of water damage cleanup, structural drying, and complete restoration.",
       "Go Green Restoration Inc is your trusted partner for water damage restoration in {city}, Texas. Serving the {county} area with 24/7 emergency response, our eco-friendly restoration approach protects both your property and the environment. We work directly with your insurance company to streamline the claims process and get your {city} property back to normal."
     ],
     "processSteps": [
@@ -51,11 +51,11 @@
     "cardDescription": "Complete cleanup, deodorization, and restoration after fire and smoke damage.",
     "priority": 2,
     "metaTitleTemplate": "Fire & Smoke Damage Restoration in {city}, TX | Go Green Restoration",
-    "metaDescriptionTemplate": "Expert fire and smoke damage restoration in {city}, {county}. 24/7 emergency board-up, smoke odor removal & full reconstruction. Licensed #TODO. Free estimates.",
-    "h1Template": "Fire & Smoke Damage Restoration in {city}, CA",
+    "metaDescriptionTemplate": "Expert fire and smoke damage restoration in {city}, {county}. 24/7 emergency board-up, smoke odor removal & full reconstruction. Bonded & insured. Free estimates.",
+    "h1Template": "Fire & Smoke Damage Restoration in {city}, TX",
     "introTemplates": [
       "After a fire, the damage doesn't stop when the flames go out. Smoke, soot, and water from firefighting efforts continue to harm your {city} property. Go Green Restoration Inc provides complete fire and smoke damage restoration in {city}, {county}, from emergency board-up to full reconstruction.",
-      "Fire damage to your {city} property requires immediate professional attention. Go Green Restoration Inc delivers comprehensive fire and smoke damage restoration throughout {city} and {county}. Our licensed team (#TODO) handles everything from initial damage assessment and debris removal to smoke odor elimination and structural rebuilding.",
+      "Fire damage to your {city} property requires immediate professional attention. Go Green Restoration Inc delivers comprehensive fire and smoke damage restoration throughout {city} and {county}. Our team handles everything from initial damage assessment and debris removal to smoke odor elimination and structural rebuilding.",
       "Go Green Restoration Inc understands the devastation fire brings to {city} families and businesses. Our fire damage restoration team serves all of {city}, {county}, with 24/7 emergency response. We use eco-friendly cleaning methods and advanced techniques to restore fire and smoke damaged properties while protecting the environment."
     ],
     "processSteps": [
@@ -93,10 +93,10 @@
     "cardDescription": "Identify, contain, and remove mold while improving indoor air quality and safety.",
     "priority": 3,
     "metaTitleTemplate": "Mold Remediation in {city}, TX | Go Green Restoration",
-    "metaDescriptionTemplate": "Professional mold remediation in {city}, {county}. Licensed mold removal (#TODO), testing & prevention. Eco-friendly methods. Free mold inspection.",
-    "h1Template": "Mold Remediation in {city}, CA",
+    "metaDescriptionTemplate": "Professional mold remediation in {city}, {county}. Mold removal, testing & prevention. Eco-friendly methods. Free mold inspection.",
+    "h1Template": "Mold Remediation in {city}, TX",
     "introTemplates": [
-      "Mold in your {city} home or business is more than an eyesore — it's a health hazard. Go Green Restoration Inc provides professional mold remediation throughout {city} and {county}. Our licensed technicians (#TODO) use eco-friendly methods to safely remove mold, treat affected areas, and prevent future growth.",
+      "Mold in your {city} home or business is more than an eyesore — it's a health hazard. Go Green Restoration Inc provides professional mold remediation throughout {city} and {county}. Our technicians use eco-friendly methods to safely remove mold, treat affected areas, and prevent future growth.",
       "If you suspect mold in your {city} property, don't wait. Go Green Restoration Inc offers comprehensive mold remediation services in {city}, {county}, from initial testing and inspection to complete removal and prevention. Our team follows strict industry protocols to protect your health and property.",
       "Go Green Restoration Inc is the trusted choice for mold remediation in {city}, Texas. Serving {county} with certified mold specialists, we identify the source of moisture, safely remove all mold growth, and implement prevention strategies. Our eco-friendly approach is safe for your family, pets, and the environment."
     ],
@@ -135,10 +135,10 @@
     "cardDescription": "Safe removal and disinfection of sewage and biohazard contamination.",
     "priority": 4,
     "metaTitleTemplate": "Sewage Backup Cleanup in {city}, TX | Go Green Restoration",
-    "metaDescriptionTemplate": "Emergency sewage backup cleanup in {city}, {county}. 24/7 biohazard cleanup, sanitization & repair. Licensed #TODO. Fast response, eco-friendly methods.",
-    "h1Template": "Sewage Backup & Cleanup in {city}, CA",
+    "metaDescriptionTemplate": "Emergency sewage backup cleanup in {city}, {county}. 24/7 biohazard cleanup, sanitization & repair. Bonded & insured. Fast response, eco-friendly methods.",
+    "h1Template": "Sewage Backup & Cleanup in {city}, TX",
     "introTemplates": [
-      "A sewage backup is one of the most hazardous situations a {city} property owner can face. Go Green Restoration Inc provides 24/7 emergency sewage cleanup throughout {city} and {county}. Our licensed team (#TODO) follows strict biohazard protocols to safely clean, sanitize, and restore your property.",
+      "A sewage backup is one of the most hazardous situations a {city} property owner can face. Go Green Restoration Inc provides 24/7 emergency sewage cleanup throughout {city} and {county}. Our team follows strict biohazard protocols to safely clean, sanitize, and restore your property.",
       "Sewage backups in {city} homes and businesses require immediate professional intervention. Go Green Restoration Inc delivers expert sewage cleanup services in {city}, {county}, using eco-friendly sanitization methods that eliminate health hazards while protecting the environment. Don't risk your health — call our emergency line now.",
       "When sewage invades your {city} property, you need fast, professional help. Go Green Restoration Inc is {county}'s trusted sewage cleanup specialist, providing rapid response to {city} residents and businesses. We handle everything from initial extraction to complete sanitization and structural repair."
     ],
@@ -177,11 +177,11 @@
     "cardDescription": "Full-service reconstruction and remodeling to restore your property better than before.",
     "priority": 5,
     "metaTitleTemplate": "Restoration Construction & Remodeling in {city}, TX | Go Green Restoration",
-    "metaDescriptionTemplate": "Licensed restoration construction and remodeling in {city}, {county}. From damage repair to full remodels. License #TODO. Free estimates.",
-    "h1Template": "Construction & Remodeling in {city}, CA",
+    "metaDescriptionTemplate": "Restoration construction and remodeling in {city}, {county}. From damage repair to full remodels. Bonded & insured. Free estimates.",
+    "h1Template": "Construction & Remodeling in {city}, TX",
     "introTemplates": [
-      "After disaster strikes, your {city} property needs more than cleanup — it needs expert reconstruction. Go Green Restoration Inc provides licensed construction and remodeling services throughout {city} and {county}. From structural repairs after water or fire damage to complete room remodels, our team (#TODO) delivers quality craftsmanship.",
-      "Go Green Restoration Inc combines restoration expertise with construction excellence in {city}, Texas. Whether you need structural rebuilding after a disaster or want to upgrade your {city} property during the restoration process, our licensed contractors handle every phase from permits to final inspection.",
+      "After disaster strikes, your {city} property needs more than cleanup — it needs expert reconstruction. Go Green Restoration Inc provides construction and remodeling services throughout {city} and {county}. From structural repairs after water or fire damage to complete room remodels, our team delivers quality craftsmanship.",
+      "Go Green Restoration Inc combines restoration expertise with construction excellence in {city}, Texas. Whether you need structural rebuilding after a disaster or want to upgrade your {city} property during the restoration process, our experienced contractors handle every phase from permits to final inspection.",
       "When your {city} property needs rebuilding after damage, Go Green Restoration Inc is your single-source solution. Our construction and remodeling team serves all of {city}, {county}, providing seamless transitions from damage restoration to property improvement. We handle all permits, inspections, and coordination with your insurance company."
     ],
     "processSteps": [
@@ -206,7 +206,7 @@
       { "question": "Can you remodel my {city} home during restoration?", "answer": "Absolutely. Many {city} homeowners choose to upgrade their property during the restoration process. We can incorporate remodeling improvements into the reconstruction plan, often with insurance covering the restoration portion." },
       { "question": "Do you handle building permits in {city}?", "answer": "Yes, our team handles all permit applications and inspections required by {city} and {county} building departments. We ensure all work meets current building codes and standards." },
       { "question": "How long does reconstruction take after damage in {city}?", "answer": "Timeline varies by project scope. Minor repairs may take 1-2 weeks, while extensive reconstruction of a {city} property can take 2-4 months. We provide a detailed project timeline during the planning phase." },
-      { "question": "Are you a licensed contractor in Texas?", "answer": "Yes, Go Green Restoration Inc holds Texas Restoration License #TODO. We are fully licensed, bonded, and insured for both restoration and general construction work in {city} and throughout the state." }
+      { "question": "Are you bonded and insured in Texas?", "answer": "Yes, Go Green Restoration Inc is fully bonded and insured for both restoration and general construction work in {city} and throughout the state." }
     ],
     "relatedResources": ["home-restoration"]
   }
