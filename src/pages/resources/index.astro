@@ -9,12 +9,12 @@ const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Resources', url: '/res
 
 const clusters = [
   { name: 'Water Damage', slug: 'water-damage', icon: '💧', description: 'Prevention tips, insurance guidance, and what to do when water damage strikes your property.' },
-  { name: 'Fire & Smoke Damage', slug: 'fire-damage', icon: '🔥', description: 'Recovery steps after a fire, smoke damage cleanup, and wildfire preparedness for Southern Texas.' },
+  { name: 'Fire & Smoke Damage', slug: 'fire-damage', icon: '🔥', description: 'Recovery steps after a fire, smoke damage cleanup, and fire preparedness for North Texas homes.' },
   { name: 'Mold', slug: 'mold', icon: '🛡️', description: 'Identification, health risks, prevention, and when to call a professional for mold remediation.' },
   { name: 'Sewage & Plumbing', slug: 'sewage-plumbing', icon: '⚠️', description: 'Sewage backup causes, emergency response, and prevention strategies for your property.' },
   { name: 'Home Restoration', slug: 'home-restoration', icon: '🔨', description: 'Choosing contractors, understanding the restoration process, and eco-friendly rebuilding.' },
   { name: 'HOA & Property Management', slug: 'hoa-property-management', icon: '🏢', description: 'Guides for HOA board members and property managers on restoration planning and response.' },
-].map(c => ({ ...c, count: articles.filter(a => a.cluster === c.slug).length }));
+].map(c => ({ ...c, count: articles.filter(a => a.cluster === c.slug).length })).filter(c => c.count > 0);
 ---
 
 <BaseLayout title={title} description={description}>

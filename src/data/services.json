@@ -8,11 +8,11 @@
     "cardDescription": "Fast water extraction, drying, and dehumidification to prevent further damage and mold growth.",
     "priority": 1,
     "metaTitleTemplate": "Water Damage Restoration in {city}, TX | Go Green Restoration",
-    "metaDescriptionTemplate": "24/7 water damage restoration in {city}, {county}. Bonded & insured. Emergency water extraction, drying & repair. Call now for a free estimate.",
+    "metaDescriptionTemplate": "24/7 water damage restoration in {city}, {county}. Bonded, insured & IICRC-certified. Emergency water extraction, drying & repair. Call now for a free estimate.",
     "h1Template": "Water Damage Restoration in {city}, TX",
     "introTemplates": [
       "When water damage strikes your {city} home or business, every minute counts. Go Green Restoration Inc provides rapid-response water damage restoration services throughout {city} and surrounding {county} communities. Our IICRC-certified technicians arrive equipped with commercial-grade extraction and drying equipment to minimize damage and restore your property efficiently.",
-      "Water damage can devastate your {city} property if not addressed immediately. Go Green Restoration Inc offers comprehensive water damage restoration in {city}, {county}, with response times designed for emergencies. From burst pipes to storm flooding, our team handles every aspect of water damage cleanup, structural drying, and complete restoration.",
+      "Water damage can devastate your {city} property if not addressed immediately. Go Green Restoration Inc offers comprehensive water damage restoration in {city}, {county}, with response times designed for emergencies. From burst pipes to storm flooding, our IICRC-certified team handles every aspect of water damage cleanup, structural drying, and complete restoration.",
       "Go Green Restoration Inc is your trusted partner for water damage restoration in {city}, Texas. Serving the {county} area with 24/7 emergency response, our eco-friendly restoration approach protects both your property and the environment. We work directly with your insurance company to streamline the claims process and get your {city} property back to normal."
     ],
     "processSteps": [
@@ -55,7 +55,7 @@
     "h1Template": "Fire & Smoke Damage Restoration in {city}, TX",
     "introTemplates": [
       "After a fire, the damage doesn't stop when the flames go out. Smoke, soot, and water from firefighting efforts continue to harm your {city} property. Go Green Restoration Inc provides complete fire and smoke damage restoration in {city}, {county}, from emergency board-up to full reconstruction.",
-      "Fire damage to your {city} property requires immediate professional attention. Go Green Restoration Inc delivers comprehensive fire and smoke damage restoration throughout {city} and {county}. Our team handles everything from initial damage assessment and debris removal to smoke odor elimination and structural rebuilding.",
+      "Fire damage to your {city} property requires immediate professional attention. Go Green Restoration Inc delivers comprehensive fire and smoke damage restoration throughout {city} and {county}. Our IICRC-certified team handles everything from initial damage assessment and debris removal to smoke odor elimination and structural rebuilding.",
       "Go Green Restoration Inc understands the devastation fire brings to {city} families and businesses. Our fire damage restoration team serves all of {city}, {county}, with 24/7 emergency response. We use eco-friendly cleaning methods and advanced techniques to restore fire and smoke damaged properties while protecting the environment."
     ],
     "processSteps": [
@@ -90,39 +90,39 @@
     "shortName": "Mold Removal",
     "icon": "mold",
     "image": "/images/services/mold-remediation.jpg",
-    "cardDescription": "Identify, contain, and remove mold while improving indoor air quality and safety.",
+    "cardDescription": "Clean up small-area mold (under 25 sq ft), control the moisture source, and improve indoor air quality.",
     "priority": 3,
-    "metaTitleTemplate": "Mold Remediation in {city}, TX | Go Green Restoration",
-    "metaDescriptionTemplate": "Professional mold remediation in {city}, {county}. Mold removal, testing & prevention. Eco-friendly methods. Free mold inspection.",
-    "h1Template": "Mold Remediation in {city}, TX",
+    "metaTitleTemplate": "Mold Cleanup in {city}, TX | Go Green Restoration",
+    "metaDescriptionTemplate": "EPA Lead-Safe certified mold cleanup in {city}, {county}. Small-area mold removal (under 25 sq ft), moisture control & air-quality testing. Free inspection. Larger jobs referred to a licensed remediator.",
+    "h1Template": "Mold Cleanup in {city}, TX",
     "introTemplates": [
-      "Mold in your {city} home or business is more than an eyesore — it's a health hazard. Go Green Restoration Inc provides professional mold remediation throughout {city} and {county}. Our technicians use eco-friendly methods to safely remove mold, treat affected areas, and prevent future growth.",
-      "If you suspect mold in your {city} property, don't wait. Go Green Restoration Inc offers comprehensive mold remediation services in {city}, {county}, from initial testing and inspection to complete removal and prevention. Our team follows strict industry protocols to protect your health and property.",
-      "Go Green Restoration Inc is the trusted choice for mold remediation in {city}, Texas. Serving {county} with certified mold specialists, we identify the source of moisture, safely remove all mold growth, and implement prevention strategies. Our eco-friendly approach is safe for your family, pets, and the environment."
+      "Mold in your {city} home or business is more than an eyesore — it's a health hazard. Go Green Restoration provides EPA Lead-Safe certified mold cleanup for small-area mold problems (less than 25 contiguous square feet) throughout {city} and {county}. We use eco-friendly methods to safely clean affected surfaces, control the moisture source, and help prevent regrowth. Texas requires a TDLR-licensed remediator for larger mold jobs, and we're glad to refer you to one.",
+      "If you spot a small patch of mold in your {city} property, don't wait for it to spread. Go Green Restoration offers EPA Lead-Safe certified mold cleanup in {city}, {county}, for affected areas under 25 contiguous square feet — the threshold Texas allows non-licensed contractors to handle. We trace the moisture source, clean and treat the area, and help keep it from coming back.",
+      "Go Green Restoration is a trusted choice for small-area mold cleanup in {city}, Texas. Serving {county} with EPA Lead-Safe certified technicians, we treat mold problems under 25 contiguous square feet, address the underlying moisture, and improve indoor air quality with eco-friendly products. By Texas law, mold covering a larger area must be handled by a TDLR-licensed remediator — we'll connect you with a qualified one."
     ],
     "processSteps": [
-      { "title": "Mold Inspection & Testing", "description": "We perform a thorough mold inspection of your {city} property, including air quality testing and surface sampling to identify mold species and the extent of contamination." },
-      { "title": "Containment", "description": "Affected areas of your {city} property are sealed with professional containment barriers and negative air pressure to prevent mold spores from spreading during remediation." },
-      { "title": "Air Filtration", "description": "HEPA air scrubbers and filtration systems capture airborne mold spores throughout your {city} property, improving indoor air quality during the remediation process." },
-      { "title": "Mold Removal", "description": "Our technicians remove mold-infested materials and treat all affected surfaces in your {city} home using EPA-registered antimicrobial solutions and eco-friendly products." },
-      { "title": "Moisture Control", "description": "We identify and address the moisture source that caused mold growth in your {city} property, implementing solutions to prevent recurrence." },
-      { "title": "Clearance Testing & Restoration", "description": "Post-remediation air quality testing confirms your {city} property is safe. We then restore any removed materials, including drywall, flooring, and trim." }
+      { "title": "Inspection & Moisture Check", "description": "We inspect your {city} property to confirm the affected area is under 25 contiguous square feet and trace the mold to its moisture source. If the area is larger, we'll let you know it requires a TDLR-licensed remediator and help you find one." },
+      { "title": "Containment", "description": "We isolate the small work area in your {city} property to keep spores from spreading to clean spaces while we clean." },
+      { "title": "Air Filtration", "description": "HEPA air scrubbers capture airborne spores in the work area to protect your {city} property's air quality during cleanup." },
+      { "title": "Mold Cleanup & Treatment", "description": "Our EPA Lead-Safe certified technicians remove affected surface materials and treat the area with EPA-registered antimicrobial products." },
+      { "title": "Moisture Control", "description": "We identify and address the moisture source behind the mold in your {city} property to help prevent it from returning." },
+      { "title": "Cleanup & Prevention Tips", "description": "We clean the area, confirm it's dry, and share practical tips to help your {city} property stay mold-free." }
     ],
     "damageTypes": [
-      "Black mold (Stachybotrys)",
-      "Bathroom and kitchen mold",
-      "Attic and crawl space mold",
-      "HVAC system mold",
-      "Post-water damage mold",
-      "Basement and foundation mold",
-      "Hidden mold behind walls",
-      "Commercial building mold"
+      "Bathroom and kitchen surface mold",
+      "Closet and wall-corner mold",
+      "Window sill and frame mold",
+      "Under-sink and cabinet mold",
+      "Small post-leak mold spots",
+      "HVAC vent surface mold",
+      "Mildew on tile and grout",
+      "Small attic or crawl-space mold patches"
     ],
     "faqTemplates": [
-      { "question": "How do I know if I have mold in my {city} home?", "answer": "Common signs include musty odors, visible discoloration on walls or ceilings, water stains, and unexplained allergic symptoms. We offer free mold inspections for {city} properties to determine if remediation is needed." },
-      { "question": "Is mold remediation covered by insurance in {city}?", "answer": "Insurance coverage depends on the cause. Mold from sudden events like burst pipes is typically covered. Mold from long-term neglect or maintenance issues may not be. We help {city} homeowners navigate the claims process." },
-      { "question": "How long does mold remediation take in {city}?", "answer": "Most mold remediation projects in {city} take 3-7 days depending on the size of the affected area. Larger commercial projects may take longer. We provide a detailed timeline during our initial inspection." },
-      { "question": "Is mold dangerous to my health?", "answer": "Yes, certain mold species can cause respiratory issues, allergic reactions, and other health problems. Children, elderly, and immunocompromised individuals are especially vulnerable. Professional remediation in {city} ensures complete and safe removal." }
+      { "question": "Do I need a licensed mold remediation company in {city}?", "answer": "It depends on the size. Texas (TDLR) allows companies like ours to clean up mold affecting less than 25 contiguous square feet without a mold remediation license. For anything larger, state law requires a TDLR-licensed mold assessor and remediator — and we'll refer you to one. Either way, our technicians are EPA Lead-Safe certified." },
+      { "question": "How do I know if I have mold in my {city} home?", "answer": "Common signs include musty odors, visible discoloration on walls or ceilings, water stains, and unexplained allergic symptoms. We offer free inspections for {city} properties to determine the size of the problem and the right next step." },
+      { "question": "Is mold cleanup covered by insurance in {city}?", "answer": "Coverage depends on the cause. Mold from a sudden event like a burst pipe is often covered, while mold from long-term moisture or neglect may not be. We help {city} homeowners document the loss for their claim." },
+      { "question": "Is mold dangerous to my health?", "answer": "Certain mold species can cause respiratory issues and allergic reactions, and children, the elderly, and immunocompromised individuals are especially vulnerable. Prompt, proper cleanup helps protect your {city} household." }
     ],
     "relatedResources": ["mold"]
   },
@@ -138,7 +138,7 @@
     "metaDescriptionTemplate": "Emergency sewage backup cleanup in {city}, {county}. 24/7 biohazard cleanup, sanitization & repair. Bonded & insured. Fast response, eco-friendly methods.",
     "h1Template": "Sewage Backup & Cleanup in {city}, TX",
     "introTemplates": [
-      "A sewage backup is one of the most hazardous situations a {city} property owner can face. Go Green Restoration Inc provides 24/7 emergency sewage cleanup throughout {city} and {county}. Our team follows strict biohazard protocols to safely clean, sanitize, and restore your property.",
+      "A sewage backup is one of the most hazardous situations a {city} property owner can face. Go Green Restoration Inc provides 24/7 emergency sewage cleanup throughout {city} and {county}. Our trained team follows strict biohazard protocols to safely clean, sanitize, and restore your property.",
       "Sewage backups in {city} homes and businesses require immediate professional intervention. Go Green Restoration Inc delivers expert sewage cleanup services in {city}, {county}, using eco-friendly sanitization methods that eliminate health hazards while protecting the environment. Don't risk your health — call our emergency line now.",
       "When sewage invades your {city} property, you need fast, professional help. Go Green Restoration Inc is {county}'s trusted sewage cleanup specialist, providing rapid response to {city} residents and businesses. We handle everything from initial extraction to complete sanitization and structural repair."
     ],
@@ -181,7 +181,7 @@
     "h1Template": "Construction & Remodeling in {city}, TX",
     "introTemplates": [
       "After disaster strikes, your {city} property needs more than cleanup — it needs expert reconstruction. Go Green Restoration Inc provides construction and remodeling services throughout {city} and {county}. From structural repairs after water or fire damage to complete room remodels, our team delivers quality craftsmanship.",
-      "Go Green Restoration Inc combines restoration expertise with construction excellence in {city}, Texas. Whether you need structural rebuilding after a disaster or want to upgrade your {city} property during the restoration process, our experienced contractors handle every phase from permits to final inspection.",
+      "Go Green Restoration Inc combines restoration expertise with construction excellence in {city}, Texas. Whether you need structural rebuilding after a disaster or want to upgrade your {city} property during the restoration process, our team handles every phase from permits to final inspection.",
       "When your {city} property needs rebuilding after damage, Go Green Restoration Inc is your single-source solution. Our construction and remodeling team serves all of {city}, {county}, providing seamless transitions from damage restoration to property improvement. We handle all permits, inspections, and coordination with your insurance company."
     ],
     "processSteps": [
@@ -206,7 +206,7 @@
       { "question": "Can you remodel my {city} home during restoration?", "answer": "Absolutely. Many {city} homeowners choose to upgrade their property during the restoration process. We can incorporate remodeling improvements into the reconstruction plan, often with insurance covering the restoration portion." },
       { "question": "Do you handle building permits in {city}?", "answer": "Yes, our team handles all permit applications and inspections required by {city} and {county} building departments. We ensure all work meets current building codes and standards." },
       { "question": "How long does reconstruction take after damage in {city}?", "answer": "Timeline varies by project scope. Minor repairs may take 1-2 weeks, while extensive reconstruction of a {city} property can take 2-4 months. We provide a detailed project timeline during the planning phase." },
-      { "question": "Are you bonded and insured in Texas?", "answer": "Yes, Go Green Restoration Inc is fully bonded and insured for both restoration and general construction work in {city} and throughout the state." }
+      { "question": "Do you need a contractor's license in Texas?", "answer": "Texas does not issue a statewide license for general restoration or construction contractors, so there is no state license number to look up. Go Green Restoration Inc is fully bonded and insured, our technicians are IICRC- and EPA Lead-Safe certified, and any specialty trade work (electrical, plumbing, HVAC) is performed by appropriately licensed subcontractors. Local building permits are pulled for work that requires them in {city}." }
     ],
     "relatedResources": ["home-restoration"]
   }

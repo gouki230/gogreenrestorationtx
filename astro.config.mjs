@@ -7,7 +7,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://gogreenrestorationinc.com',
+  site: 'https://gogreenrestorationtx.com',
   vite: {
     plugins: [tailwindcss()]
   },
@@ -17,7 +17,7 @@ export default defineConfig({
     priority: 0.7,
     serialize(item) {
       // Homepage — highest priority
-      if (item.url === 'https://gogreenrestorationinc.com/') {
+      if (item.url === 'https://gogreenrestorationtx.com/') {
         item.priority = 1.0;
         item.changefreq = 'daily';
       }
@@ -32,7 +32,7 @@ export default defineConfig({
         item.changefreq = 'weekly';
       }
       // City landing pages
-      else if (item.url.match(/\/locations\/(los-angeles|ventura)-county\/[^/]+\/$/)) {
+      else if (item.url.match(/\/locations\/dfw-metro\/[^/]+\/$/)) {
         item.priority = 0.7;
         item.changefreq = 'weekly';
       }
