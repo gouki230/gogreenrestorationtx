@@ -69,45 +69,42 @@ const breadcrumbs = [
 ];
 
 // Schema
-const localBusinessSchema = {
+const serviceSchema = {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": `Go Green Restoration - ${service.name} ${city.name}`,
+  "@type": "Service",
+  "name": `${service.name} in ${city.name}, TX`,
   "url": `https://gogreenrestorationtx.com/${service.slug}/${city.slug}/`,
-  "telephone": "+1-469-727-3217",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": city.name,
-    "addressRegion": "TX",
-    "postalCode": city.zips?.[0] || '',
-    "addressCountry": "US"
+  "serviceType": service.name,
+  "description": description,
+  // areaServed is how you say "we work here" without claiming an office here.
+  "areaServed": {
+    "@type": "City",
+    "name": city.name,
+    "containedInPlace": { "@type": "AdministrativeArea", "name": "Dallas-Fort Worth Metroplex" },
+    ...(city.lat && city.lng ? { "geo": { "@type": "GeoCoordinates", "latitude": city.lat, "longitude": city.lng } } : {}),
   },
-  ...(city.lat && city.lng ? {
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": city.lat,
-      "longitude": city.lng
-    }
-  } : {}),
-  "areaServed": { "@type": "City", "name": city.name },
-  "parentOrganization": {
-    "@type": "Organization",
+  // The only real premises we have.
+  "provider": {
+    "@type": "LocalBusiness",
     "name": "Go Green Restoration Inc",
-    "url": "https://gogreenrestorationtx.com"
-  },
-  "openingHoursSpecification": {
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-    "opens": "00:00",
-    "closes": "23:59"
-  },
-  "priceRange": "$$",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "45",
-    "bestRating": "5",
-    "worstRating": "1"
+    "url": "https://gogreenrestorationtx.com",
+    "telephone": "+1-469-727-3217",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1902 Parker Rd",
+      "addressLocality": "Wylie",
+      "addressRegion": "TX",
+      "postalCode": "75098",
+      "addressCountry": "US"
+    },
+    "geo": { "@type": "GeoCoordinates", "latitude": 33.0151, "longitude": -96.5388 },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "priceRange": "$$"
   }
 };
 
@@ -140,7 +137,7 @@ const heroImage = service.image
   : serviceImage[service.slug];
 ---
 
-<BaseLayout title={title} description={description} keywords={metaKeywords} schema={[localBusinessSchema, faqSchema]}>
+<BaseLayout title={title} description={description} keywords={metaKeywords} schema={[serviceSchema, faqSchema]}>
   <Breadcrumbs items={breadcrumbs} />
 
   <!-- Hero -->

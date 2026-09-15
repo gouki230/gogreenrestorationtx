@@ -34,8 +34,7 @@ const localBusinessSchema = {
   "telephone": "+1-469-727-3217",
   "address": { "@type": "PostalAddress", "addressLocality": city.name, "addressRegion": "TX", "postalCode": city.zips?.[0] || '', "addressCountry": "US" },
   "areaServed": { "@type": "City", "name": city.name },
-  "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"], "opens": "00:00", "closes": "23:59" },
-  "aggregateRating": { "@type": "AggregateRating", "ratingValue": "5.0", "reviewCount": "45", "bestRating": "5", "worstRating": "1" }
+  "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"], "opens": "00:00", "closes": "23:59" }
 };
 
 const serviceIcons: Record<string, string> = {
