@@ -5,7 +5,7 @@ import services from '../data/services.json';
 import googleReviews from '../data/google-reviews.json';
 
 const title = 'Go Green Restoration TX | 24/7 Water, Fire & Mold Damage Restoration in DFW Metro';
-const description = 'Bonded & insured, EPA Lead-Safe certified eco-friendly restoration company serving the Dallas–Fort Worth Metroplex. 24/7 emergency water damage, fire damage, mold cleanup, sewage cleanup & construction. Free estimates.';
+const description = 'Bonded & insured, IICRC-certified water damage restoration and mitigation across the Dallas–Fort Worth Metroplex. 24/7 emergency water damage repair, storm damage, fire damage, mold cleanup & sewage cleanup. Free estimates.';
 
 const websiteSchema = {
   "@context": "https://schema.org",
@@ -49,6 +49,13 @@ const serviceIcons: Record<string, string> = {
   droplet: '💧', flame: '🔥', shield: '🛡️', mold: '🦠', 'alert-triangle': '⚠️', pipe: '🚽', hammer: '🔨', house: '🏠',
 };
 
+const metaKeywords = [
+  'water damage restoration DFW', 'water damage Dallas', 'water damage mitigation',
+  'storm damage restoration DFW', 'fire damage restoration Dallas', 'mold cleanup DFW',
+  'sewage cleanup Dallas', 'emergency water extraction DFW', 'restoration services Dallas Fort Worth',
+  'flood damage cleanup DFW', 'structural drying Dallas', '24/7 restoration company DFW',
+];
+
 const featuredCities = [
   { name: 'Dallas', slug: 'dallas', county: 'dfw-metro' },
   { name: 'Fort Worth', slug: 'fort-worth', county: 'dfw-metro' },
@@ -63,7 +70,7 @@ const featuredCities = [
 ];
 ---
 
-<BaseLayout title={title} description={description} schema={[websiteSchema, reviewSchema]}>
+<BaseLayout title={title} description={description} keywords={metaKeywords} schema={[websiteSchema, reviewSchema]}>
 
   <!-- Hero Section with Background Video -->
   <section class="relative overflow-hidden text-white min-h-[600px] lg:min-h-[680px] flex flex-col" id="hero-section">
@@ -251,7 +258,7 @@ const featuredCities = [
     <div class="max-w-7xl mx-auto px-4">
       <div class="text-center mb-14 reveal">
         <p class="text-sm font-bold uppercase tracking-widest text-brand-green mb-3">Our Services</p>
-        <h2 class="font-heading text-3xl lg:text-5xl font-black text-brand-gray-900 mb-4">Complete Restoration. Start to Finish.</h2>
+        <h2 class="font-heading text-3xl lg:text-5xl font-black text-brand-gray-900 mb-4">Water Damage, Fire, and Mold Restoration. Start to Finish.</h2>
         <p class="text-base lg:text-lg text-brand-gray-600 max-w-2xl mx-auto">From emergency cleanup to full reconstruction, we handle every step so you can focus on moving forward.</p>
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 stagger-children">
@@ -403,6 +410,37 @@ const featuredCities = [
           <img src="/images/services/hoa-restoration.jpg" alt="Commercial building exterior — Go Green Restoration serves HOAs, property managers, and commercial properties" class="w-full h-auto rounded-2xl shadow-xl object-cover aspect-[5/4]" loading="lazy" width="900" height="720" />
         </div>
       </div>
+    </div>
+  </section>
+
+  <!-- What drives DFW restoration emergencies -->
+  <section class="py-16 lg:py-20 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="font-heading text-3xl lg:text-4xl font-black text-brand-gray-900 mb-4">What Causes Water Damage in DFW Homes</h2>
+      <p class="text-brand-gray-600 leading-relaxed mb-8">
+        North Texas produces a specific set of restoration emergencies, and they are not the ones you would see in Houston or Phoenix. Knowing which one you are dealing with changes how fast you need to move and how your insurance claim is likely to be treated.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-x-10 gap-y-8">
+        <div>
+          <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Hail and storm damage</h4>
+          <p class="text-brand-gray-600 text-sm leading-relaxed">Spring storms open roofs and window seals across the metroplex, and the water damage usually appears days later as a stained ceiling or damp attic framing. Storm damage claims turn on documenting the entry point, not just the interior mess.</p>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Slab leaks and foundation movement</h4>
+          <p class="text-brand-gray-600 text-sm leading-relaxed">Expansive clay soil swells and shrinks through the year, stressing supply lines beneath the slab. The first sign is often a warm spot on the floor or an unexplained water bill rather than visible water, which is why these run for weeks before anyone calls.</p>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Burst pipes after a hard freeze</h4>
+          <p class="text-brand-gray-600 text-sm leading-relaxed">Texas freeze events hit plumbing that was never built for sustained cold, particularly in attics and exterior walls. Damage is frequently discovered at the thaw, when several properties on a street fail at once and response time decides the outcome.</p>
+        </div>
+        <div>
+          <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Humidity, condensation and mold</h4>
+          <p class="text-brand-gray-600 text-sm leading-relaxed">Summer dew points in the 70s mean damp air condensing inside wall cavities and around cold supply ducts. Mold needs only about 48 hours of sustained moisture, which is why water damage mitigation and mold prevention are really the same job.</p>
+        </div>
+      </div>
+      <p class="text-brand-gray-600 leading-relaxed mt-8">
+        Our technicians are <a href="https://iicrc.org/" target="_blank" rel="noopener" class="text-brand-green underline font-medium">IICRC-certified</a> and EPA Lead-Safe certified, and we are bonded and insured. Texas issues no statewide restoration or general contractor license, so those credentials — along with our <a href="https://www.bbb.org/" target="_blank" rel="noopener" class="text-brand-green underline font-medium">BBB</a> standing — are what you should be checking when you compare restoration companies here.
+      </p>
     </div>
   </section>
 
@@ -568,7 +606,7 @@ const featuredCities = [
     <div class="max-w-7xl mx-auto px-4">
       <div class="text-center mb-12 reveal">
         <p class="text-sm font-bold uppercase tracking-widest text-brand-green mb-3">Service Areas</p>
-        <h2 class="font-heading text-3xl lg:text-5xl font-black text-brand-gray-900 mb-4 leading-tight">Proudly Serving <span class="text-brand-green">Dallas &amp; Fort Worth Counties</span></h2>
+        <h2 class="font-heading text-3xl lg:text-5xl font-black text-brand-gray-900 mb-4 leading-tight">Proudly Serving <span class="text-brand-green">the Dallas–Fort Worth Metroplex</span></h2>
         <p class="text-base lg:text-lg text-brand-gray-600 max-w-2xl mx-auto">We provide fast, reliable restoration services to homes and businesses across Southern Texas.</p>
       </div>
 
@@ -577,7 +615,7 @@ const featuredCities = [
         <CountyMap />
       </div>
 
-      <!-- 2 County Cards -->
+      <!-- Service area cards -->
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12 stagger-children">
         <a href="/locations/dfw-metro/" class="bg-white rounded-2xl p-6 lg:p-8 shadow-md border border-brand-gray-100 hover:shadow-xl hover:-translate-y-0.5 transition-all group flex items-center gap-5">
           <div class="w-16 h-16 rounded-full bg-brand-green-50 flex items-center justify-center flex-shrink-0">
@@ -585,18 +623,18 @@ const featuredCities = [
           </div>
           <div class="flex-1">
             <h3 class="font-heading text-xl lg:text-2xl font-bold text-brand-gray-900 group-hover:text-brand-green transition-colors mb-1">DFW Metro Area</h3>
-            <p class="text-sm text-brand-gray-600 mb-2">88 cities and 40+ communities served</p>
+            <p class="text-sm text-brand-gray-600 mb-2">30 cities across Dallas, Tarrant, Collin, Denton &amp; Rockwall counties</p>
             <span class="inline-flex items-center text-brand-green font-bold text-sm">View all locations <svg class="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg></span>
           </div>
         </a>
-        <a href="/locations/dfw-metro/" class="bg-white rounded-2xl p-6 lg:p-8 shadow-md border border-brand-gray-100 hover:shadow-xl hover:-translate-y-0.5 transition-all group flex items-center gap-5">
+        <a href="/commercial/" class="bg-white rounded-2xl p-6 lg:p-8 shadow-md border border-brand-gray-100 hover:shadow-xl hover:-translate-y-0.5 transition-all group flex items-center gap-5">
           <div class="w-16 h-16 rounded-full bg-brand-green-50 flex items-center justify-center flex-shrink-0">
             <svg class="w-8 h-8 text-brand-green" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>
           </div>
           <div class="flex-1">
-            <h3 class="font-heading text-xl lg:text-2xl font-bold text-brand-gray-900 group-hover:text-brand-green transition-colors mb-1">DFW Metro Area</h3>
-            <p class="text-sm text-brand-gray-600 mb-2">10 cities and 15+ communities served</p>
-            <span class="inline-flex items-center text-brand-green font-bold text-sm">View all locations <svg class="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg></span>
+            <h3 class="font-heading text-xl lg:text-2xl font-bold text-brand-gray-900 group-hover:text-brand-green transition-colors mb-1">Commercial, HOA &amp; Property Management</h3>
+            <p class="text-sm text-brand-gray-600 mb-2">Multi-unit, retail and managed properties across DFW</p>
+            <span class="inline-flex items-center text-brand-green font-bold text-sm">View commercial services <svg class="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg></span>
           </div>
         </a>
       </div>

@@ -185,6 +185,32 @@ const heroImage = service.image
           </section>
         )}
 
+        <!-- Mitigation vs restoration (water damage pages only) -->
+        {service.slug === 'water-damage-restoration' && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Water Damage Mitigation vs Restoration in {city.name}</h2>
+            <p class="text-brand-gray-600 leading-relaxed mb-4">
+              Insurers and contractors use these two words to mean different stages of the same job, and knowing which one you are being quoted for matters when the estimate arrives. Mitigation is the emergency work that stops the loss getting worse. Restoration is putting the property back afterward. Most {city.name} claims involve both, billed separately.
+            </p>
+            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Emergency mitigation: the first 24 to 48 hours</h4>
+            <p class="text-brand-gray-600 leading-relaxed mb-4">
+              This is water extraction, stopping the source, and getting air movers and dehumidifiers in place. The window matters because mold needs roughly 48 hours of sustained moisture to start, so mitigation that begins on day three is a different and more expensive job than one that begins on day one. Insurers expect reasonable steps to limit the damage, and delay is one of the more common reasons a water claim gets reduced.
+            </p>
+            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Structural drying and water damage assessment</h4>
+            <p class="text-brand-gray-600 leading-relaxed mb-4">
+              Surfaces dry long before the assembly behind them does. We meter the framing, subfloor, and wall cavities rather than judging by touch, and we document those readings daily so there is a defensible record of what was wet, how wet, and for how long. That documentation is what an adjuster works from, and in {city.name} it is frequently the difference between a covered claim and a denied one.
+            </p>
+            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Storm and hail damage in North Texas</h4>
+            <p class="text-brand-gray-600 leading-relaxed mb-4">
+              Spring storms drive water in through roof and window damage that is easy to miss from the ground, and the interior water damage often shows up days later as a stained ceiling or a damp attic rafter. We trace storm-driven moisture back to the entry point so the repair addresses the cause rather than the symptom, and so the claim documents both.
+            </p>
+            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Restoration and repair</h4>
+            <p class="text-brand-gray-600 leading-relaxed">
+              Once the structure is genuinely dry, restoration puts it back: drywall, flooring, trim, cabinetry, and paint. Because we handle both stages, nothing falls through the gap between a mitigation company and a separate rebuild contractor, which is where most of the delay in a {city.name} water claim tends to accumulate. Our technicians are <a href="https://iicrc.org/" target="_blank" rel="noopener" class="text-brand-green-700 underline font-medium">IICRC-certified</a>, the standards body for water damage restoration.
+            </p>
+          </section>
+        )}
+
         <!-- Mold scope & Texas rules (mold pages only) -->
         {service.slug === 'mold-remediation' && (
           <section class="mb-12">
