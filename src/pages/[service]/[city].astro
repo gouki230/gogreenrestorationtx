@@ -4,6 +4,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import CityMap from '../../components/CityMap.astro';
 import services from '../../data/services.json';
 import dfwCities from '../../data/cities-dfw-metro.json';
+import articles from '../../data/blog-articles.json';
 import { selectTemplate, fillTemplate, getConditionalContent, getNearbyCities } from '../../utils/content';
 
 export function getStaticPaths() {
@@ -40,6 +41,17 @@ const conditionalSections = getConditionalContent(city.characteristics || []);
 
 // Nearby cities
 const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 5);
+
+// Every other city, for the full service-area grid (nearbyCities is only a handful)
+const otherCities = allCities.filter((c: { slug: string }) => c.slug !== city.slug);
+
+// Resource articles written for this city and this service's cluster.
+// Article slugs are suffixed with the city slug, which is how they map back.
+const clusterSlug = service.relatedResources?.[0] ?? null;
+const cityArticles = clusterSlug
+  ? articles.filter((a: { cluster: string; slug: string }) =>
+      a.cluster === clusterSlug && a.slug.endsWith(`-${city.slug}`))
+  : [];
 
 // Meta — enhanced with city-specific details
 const title = fillTemplate(service.metaTitleTemplate, city.name, city.county);
@@ -224,6 +236,27 @@ const heroImage = service.image
           </div>
         </section>
 
+        <!-- Related local guides -->
+        {cityArticles.length > 0 && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">{service.shortName} Guides for {city.name}</h2>
+            <p class="text-brand-gray-600 leading-relaxed mb-4">
+              We have written these guides specifically for {city.name} property owners dealing with {service.shortName.toLowerCase()}, covering the local conditions, the decisions you will face, and the point where professional help becomes the right call.
+            </p>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {cityArticles.map((a: { cluster: string; slug: string; title: string; description: string }) => (
+                <a href={`/resources/${a.cluster}/${a.slug}/`} class="block bg-brand-gray-50 rounded-xl p-4 hover:bg-brand-warm-100 transition-colors">
+                  <span class="font-heading font-bold text-sm text-brand-gray-900 block mb-1">{a.title}</span>
+                  <span class="text-brand-gray-600 text-xs leading-relaxed">{a.description}</span>
+                </a>
+              ))}
+            </div>
+            <a href={`/resources/${clusterSlug}/`} class="inline-block mt-4 text-sm font-medium text-brand-green-700 underline">
+              All {service.shortName.toLowerCase()} guides &rarr;
+            </a>
+          </section>
+        )}
+
         <!-- Neighborhoods & Zip Codes -->
         {(city.neighborhoods?.length > 0 || city.zips?.length > 0) && (
           <section class="mb-12">
@@ -316,6 +349,20 @@ const heroImage = service.image
                 {nearbyCities.map((nearby) => (
                   <a href={`/${service.slug}/${nearby.slug}/`} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1">
                     {service.name} in {nearby.name}
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- Full DFW service grid -->
+          {otherCities.length > 0 && (
+            <div class="bg-brand-gray-50 rounded-xl p-6">
+              <h3 class="font-heading font-bold text-lg mb-4">{service.shortName} Across DFW</h3>
+              <div class="flex flex-wrap gap-x-3 gap-y-2">
+                {otherCities.map((c: { slug: string; name: string }) => (
+                  <a href={`/${service.slug}/${c.slug}/`} class="text-sm text-brand-gray-800 hover:text-brand-brown transition-colors">
+                    {c.name}
                   </a>
                 ))}
               </div>
