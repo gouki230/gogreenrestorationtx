@@ -5,7 +5,7 @@ import CityMap from '../../components/CityMap.astro';
 import services from '../../data/services.json';
 import dfwCities from '../../data/cities-dfw-metro.json';
 import articles from '../../data/blog-articles.json';
-import { selectTemplate, fillTemplate, getConditionalContent, getNearbyCities } from '../../utils/content';
+import { selectTemplate, fillTemplate, getConditionalContent, getNearbyCities, getLocalContext, getStepContext, getCityFaqs } from '../../utils/content';
 
 export function getStaticPaths() {
   const allCities = dfwCities;
@@ -27,17 +27,25 @@ const otherServices = services.filter(s => s.slug !== service.slug);
 
 // Template selection
 const intro = fillTemplate(selectTemplate(service.introTemplates, city.slug), city.name, city.county);
-const processSteps = service.processSteps.map(s => ({
+const processSteps = service.processSteps.map((s, i) => ({
   ...s,
-  description: fillTemplate(s.description, city.name, city.county),
+  description: `${fillTemplate(s.description, city.name, city.county)} ${getStepContext(city, i, service.shortName)}`,
 }));
-const faqs = service.faqTemplates.map(f => ({
-  question: fillTemplate(f.question, city.name, city.county),
-  answer: fillTemplate(f.answer, city.name, city.county),
-}));
+const faqs = [
+  ...service.faqTemplates.map(f => ({
+    question: fillTemplate(f.question, city.name, city.county),
+    answer: fillTemplate(f.answer, city.name, city.county),
+  })),
+  ...getCityFaqs(city, service.name, service.shortName, allCities.map((c: { slug: string }) => c.slug)),
+];
 
 // Conditional content
 const conditionalSections = getConditionalContent(city.characteristics || []);
+
+// City-specific prose woven from this city's own data, to keep the 150 templated
+// service+city pages from reading as the same page with the name swapped.
+const servedSlugs = allCities.map((c: { slug: string }) => c.slug);
+const localContext = getLocalContext(city, service.name, service.shortName, servedSlugs);
 
 // Nearby cities
 const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 5);
@@ -169,6 +177,9 @@ const heroImage = service.image
           <section class="mb-12">
             <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Why {city.name} Properties Are Vulnerable</h2>
             <p class="text-brand-gray-600 leading-relaxed">{city.commonIssues}</p>
+            {localContext.map((para) => (
+              <p class="text-brand-gray-600 leading-relaxed mt-4">{para}</p>
+            ))}
           </section>
         )}
 
