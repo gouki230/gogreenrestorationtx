@@ -44,8 +44,8 @@ const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 5);
 // Meta — enhanced with city-specific details
 const title = fillTemplate(service.metaTitleTemplate, city.name, city.county);
 const neighborhoodSnippet = city.neighborhoods?.length > 0 ? ` Serving ${city.neighborhoods.slice(0, 2).join(', ')} & more.` : '';
-const characteristicSnippet = city.characteristics?.includes('wildfire-zone') ? ' Wildfire & storm damage specialists.' : city.characteristics?.includes('coastal') ? ' Coastal property specialists.' : city.characteristics?.includes('older-buildings') ? ' Aging infrastructure experts.' : '';
-const description = fillTemplate(service.metaDescriptionTemplate, city.name, city.county).replace(/\.$/, '') + characteristicSnippet + neighborhoodSnippet;
+const characteristicSnippet = city.characteristics?.includes('storm-zone') ? ' Hail & storm damage specialists.' : city.characteristics?.includes('lakefront') ? ' Lakefront property specialists.' : city.characteristics?.includes('older-buildings') ? ' Aging infrastructure experts.' : '';
+const description = fillTemplate(service.metaDescriptionTemplate, city.name, city.county) + characteristicSnippet + neighborhoodSnippet;
 const h1 = fillTemplate(service.h1Template, city.name, city.county);
 
 const breadcrumbs = [
@@ -169,6 +169,28 @@ const heroImage = service.image
             {conditionalSections.map((section) => (
               <p class="text-brand-gray-600 leading-relaxed mb-4">{section}</p>
             ))}
+          </section>
+        )}
+
+        <!-- Mold scope & Texas rules (mold pages only) -->
+        {service.slug === 'mold-remediation' && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">What Mold Removal in {city.name} Legally Covers</h2>
+            <p class="text-brand-gray-600 leading-relaxed mb-4">
+              Texas regulates mold work by the size of the affected area, not by the type of building. The Texas Department of Licensing and Regulation sets the threshold, and it is worth understanding before you hire anyone in {city.name} — it determines who is allowed to do the work and what paperwork you should expect at the end of it.
+            </p>
+            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Under 25 contiguous square feet</h4>
+            <p class="text-brand-gray-600 leading-relaxed mb-4">
+              This is the work we do. A company does not need a mold license to clean up an area this size, which covers the large majority of household mold: surface growth in a bathroom, mold under a sink or behind a toilet, a patch on a closet wall, mildew on tile grout, or spotting that follows a small supply-line leak. We clean it up, find the moisture source that caused it, and correct that source so it does not simply return.
+            </p>
+            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Over 25 contiguous square feet</h4>
+            <p class="text-brand-gray-600 leading-relaxed mb-4">
+              At this size Texas requires a TDLR-licensed mold assessment consultant and a licensed mold remediation contractor, working as separate parties. We are not licensed for this scope and we will tell you so directly rather than quietly taking the job. If your {city.name} property turns out to be over the threshold, we refer you to a licensed remediator — and you can verify any company's license yourself through the <a href="https://www.tdlr.texas.gov/LicenseSearch/" target="_blank" rel="noopener" class="text-brand-green-700 underline font-medium">TDLR license search</a>.
+            </p>
+            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">How we tell the difference</h4>
+            <p class="text-brand-gray-600 leading-relaxed">
+              We measure the affected area during the free inspection, before any work begins or any money changes hands. Contiguous means connected, so a single 5-by-5-foot patch counts differently than several small separate spots in different rooms. If measuring puts you over the line, the inspection still tells you what you are dealing with and what the next step should be.
+            </p>
           </section>
         )}
 
