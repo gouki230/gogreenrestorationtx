@@ -11,7 +11,7 @@ function getClient() {
   return client;
 }
 
-const SYSTEM_PROMPT = `You are a content writer for Go Green Restoration Inc, a licensed (CA #1005708) eco-friendly restoration company serving Los Angeles and Ventura Counties. Write unique, informative blog articles that are genuinely useful to homeowners in the specified city.
+const SYSTEM_PROMPT = `You are a content writer for Go Green Restoration Texas, a bonded and insured, IICRC- and EPA Lead-Safe certified eco-friendly restoration company serving the Dallas-Fort Worth metroplex. Write unique, informative blog articles that are genuinely useful to homeowners in the specified city.
 
 RULES:
 - Every paragraph must contain city-specific information — no generic filler
@@ -23,6 +23,9 @@ RULES:
 - Do NOT use the word "crucial" or "comprehensive"
 - Format: plain text with ## headings (no # h1). Use 4-6 ## sections.
 - Length: 800-1200 words
+- Texas has NO statewide restoration or general contractor license. Never claim or imply one, never reference CSLB or California licensing law, and never invent a license number.
+- Mold: Texas (TDLR) only permits non-licensed cleanup under 25 contiguous sq ft. Scope all mold copy to small-area cleanup and refer larger jobs to a TDLR-licensed remediator.
+- Use North Texas conditions (spring hail, wind, tornado-alley storms, expansive clay soil and slab leaks, summer heat), not California ones.
 - Return valid JSON only`;
 
 export async function generateArticle(city, service, angleIndex, dryRun = false) {
@@ -41,7 +44,7 @@ export async function generateArticle(city, service, angleIndex, dryRun = false)
       cluster: clusterInfo.cluster,
       clusterName: clusterInfo.clusterName,
       description: `[DRY RUN] Article about ${service.name} in ${city.name}`,
-      content: `## Dry Run Article\n\nThis is a placeholder for: ${title}\n\n## Local Context\n\n${city.commonIssues || 'No specific issues documented.'}\n\n## Our Process\n\nGo Green Restoration provides [${service.name.toLowerCase()} in ${city.name}](${moneyPageUrl}) with 24/7 emergency response.\n\n## Prevention Tips\n\nRegular maintenance is key for ${city.name} properties.\n\n## When to Call a Professional\n\nIf you notice damage, contact a licensed professional immediately.`,
+      content: `## Dry Run Article\n\nThis is a placeholder for: ${title}\n\n## Local Context\n\n${city.commonIssues || 'No specific issues documented.'}\n\n## Our Process\n\nGo Green Restoration provides [${service.name.toLowerCase()} in ${city.name}](${moneyPageUrl}) with 24/7 emergency response.\n\n## Prevention Tips\n\nRegular maintenance is key for ${city.name} properties.\n\n## When to Call a Professional\n\nIf you notice damage, contact a qualified restoration professional immediately.`,
       city: city.slug,
       cityName: city.name,
       service: service.slug,

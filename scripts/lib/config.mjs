@@ -8,8 +8,7 @@ const ROOT = join(__dirname, '..', '..');
 export const PATHS = {
   root: ROOT,
   blogArticles: join(ROOT, 'src', 'data', 'blog-articles.json'),
-  citiesLA: join(ROOT, 'src', 'data', 'cities-la-county.json'),
-  citiesVentura: join(ROOT, 'src', 'data', 'cities-ventura-county.json'),
+  citiesDFW: join(ROOT, 'src', 'data', 'cities-dfw-metro.json'),
   services: join(ROOT, 'src', 'data', 'services.json'),
   generationState: join(ROOT, 'scripts', 'data', 'generation-state.json'),
   imageCatalog: join(ROOT, 'scripts', 'data', 'image-catalog.json'),

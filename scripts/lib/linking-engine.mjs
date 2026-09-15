@@ -26,7 +26,7 @@ export function injectLinks(article, existingArticles) {
     const firstBreak = content.indexOf('\n\n');
     if (firstBreak > -1) {
       const serviceName = getServiceName(serviceSlug);
-      const linkText = `If you need professional [${serviceName.toLowerCase()} in ${cityName}](${moneyPageUrl}), our licensed team is available 24/7.`;
+      const linkText = `If you need professional [${serviceName.toLowerCase()} in ${cityName}](${moneyPageUrl}), our team is available 24/7.`;
       content = content.slice(0, firstBreak) + '\n\n' + linkText + content.slice(firstBreak);
     }
   }
@@ -108,8 +108,8 @@ export function updateCrossLinks(allArticles) {
 }
 
 function getCityCountySlug(article) {
-  // Determine county slug from city data - default to los-angeles-county
-  return 'los-angeles-county'; // Will be overridden by actual data in pipeline
+  // TX site groups every city under a single /locations/dfw-metro/ hub.
+  return article.countySlug || 'dfw-metro';
 }
 
 function getServiceName(serviceSlug) {

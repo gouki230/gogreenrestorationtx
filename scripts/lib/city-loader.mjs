@@ -5,9 +5,7 @@ let cachedCities = null;
 
 export function loadAllCities() {
   if (cachedCities) return cachedCities;
-  const la = JSON.parse(readFileSync(PATHS.citiesLA, 'utf-8'));
-  const ventura = JSON.parse(readFileSync(PATHS.citiesVentura, 'utf-8'));
-  cachedCities = [...la, ...ventura];
+  cachedCities = JSON.parse(readFileSync(PATHS.citiesDFW, 'utf-8'));
   return cachedCities;
 }
 
