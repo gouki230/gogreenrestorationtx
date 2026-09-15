@@ -17,6 +17,7 @@ interface Props {
   ogImage?: string;
   schema?: Record<string, any>[];
   breadcrumbs?: { name: string; url: string }[];
+  keywords?: string[];
 }
 
 const {
@@ -26,6 +27,7 @@ const {
   ogImage = '/og-default.jpg',
   schema = [],
   breadcrumbs = [],
+  keywords = [],
 } = Astro.props;
 
 const siteUrl = 'https://gogreenrestorationtx.com';
@@ -120,6 +122,7 @@ const allSchemas = [organizationSchema, ...schema];
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <meta name="description" content={description} />
+  {keywords.length > 0 && <meta name="keywords" content={keywords.join(', ')} />}
   <link rel="canonical" href={canonicalUrl} />
 
   <!-- Open Graph -->
