@@ -365,7 +365,7 @@ const heroImage = service.image
               {otherServices.map((s) => (
                 <a href={`/${s.slug}/${city.slug}/`} class="flex items-center gap-3 text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1 group">
                   {s.image ? (
-                    <img src={s.image} alt="" class="w-9 h-9 rounded-md object-cover flex-shrink-0 border border-brand-gray-200" loading="lazy" width="36" height="36" />
+                    <img src={s.image} alt={`${s.name} in ${city.name}, TX`} class="w-9 h-9 rounded-md object-cover flex-shrink-0 border border-brand-gray-200" loading="lazy" width="36" height="36" />
                   ) : (
                     <span class="w-9 h-9 rounded-md bg-brand-green-50 flex items-center justify-center flex-shrink-0">{serviceIcons[s.icon]}</span>
                   )}
