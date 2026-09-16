@@ -4,3 +4,6 @@ dist
 .env
 .DS_Store
 *.log
+
+# raw photo intake — originals keep their EXIF, never commit
+photo-intake
