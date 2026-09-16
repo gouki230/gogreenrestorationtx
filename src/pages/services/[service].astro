@@ -36,8 +36,7 @@ const serviceSchema = {
     "url": "https://gogreenrestorationtx.com"
   },
   "areaServed": [
-    { "@type": "AdministrativeArea", "name": "DFW Metro Area" },
-    { "@type": "AdministrativeArea", "name": "DFW Metro Area" }
+    { "@type": "AdministrativeArea", "name": "Dallas-Fort Worth Metroplex" }
   ],
   "serviceType": service.name,
   "availableChannel": {
@@ -158,15 +157,6 @@ const images = serviceImages[service.slug] || [];
     <!-- Service Areas -->
     <div class="mb-16">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">{service.name} Service Areas</h2>
-
-      <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
-      <div class="flex flex-wrap gap-2 mb-8">
-        {dfwCitiesList.map((city) => (
-          <a href={`/${service.slug}/${city.slug}/`} class="text-sm px-3 py-1.5 bg-brand-gray-50 hover:bg-brand-warm-100 text-brand-gray-800 hover:text-brand-brown rounded-full border border-brand-gray-200 hover:border-brand-green-200 transition-colors">
-            {city.name}
-          </a>
-        ))}
-      </div>
 
       <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
       <div class="flex flex-wrap gap-2 mb-8">

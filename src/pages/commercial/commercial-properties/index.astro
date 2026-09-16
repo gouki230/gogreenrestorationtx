@@ -29,8 +29,7 @@ const schema = [
     "name": "Commercial Property Restoration",
     "provider": { "@type": "Organization", "name": "Go Green Restoration Inc", "url": "https://gogreenrestorationtx.com" },
     "areaServed": [
-      { "@type": "AdministrativeArea", "name": "DFW Metro Area" },
-      { "@type": "AdministrativeArea", "name": "DFW Metro Area" },
+      { "@type": "AdministrativeArea", "name": "Dallas-Fort Worth Metroplex" },
     ],
     "serviceType": "Commercial Property Restoration",
     "description": description,
@@ -141,12 +140,6 @@ const schema = [
     <!-- Service Areas -->
     <div class="mb-12">
       <h2 class="font-heading text-2xl lg:text-3xl font-black text-brand-gray-900 mb-6">Commercial Restoration Service Areas</h2>
-      <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
-      <div class="flex flex-wrap gap-2 mb-8">
-        {dfwCitiesList.slice(0, 60).map((city) => (
-          <span class="text-sm px-3 py-1.5 bg-brand-gray-50 text-brand-gray-800 rounded-full border border-brand-gray-200">{city.name}</span>
-        ))}
-      </div>
       <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
       <div class="flex flex-wrap gap-2">
         {dfwCitiesList.map((city) => (
