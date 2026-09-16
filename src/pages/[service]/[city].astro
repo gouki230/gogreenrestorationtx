@@ -278,10 +278,15 @@ const heroImage = service.image
               We have written these guides specifically for {city.name} property owners dealing with {service.shortName.toLowerCase()}, covering the local conditions, the decisions you will face, and the point where professional help becomes the right call.
             </p>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-              {cityArticles.map((a: { cluster: string; slug: string; title: string; description: string }) => (
-                <a href={`/resources/${a.cluster}/${a.slug}/`} class="block bg-brand-gray-50 rounded-xl p-4 hover:bg-brand-warm-100 transition-colors">
-                  <span class="font-heading font-bold text-sm text-brand-gray-900 block mb-1">{a.title}</span>
-                  <span class="text-brand-gray-600 text-xs leading-relaxed">{a.description}</span>
+              {cityArticles.map((a: { cluster: string; slug: string; title: string; description: string; image?: string; imageAlt?: string }) => (
+                <a href={`/resources/${a.cluster}/${a.slug}/`} class="block bg-brand-gray-50 rounded-xl overflow-hidden hover:bg-brand-warm-100 transition-colors">
+                  {a.image && (
+                    <img src={a.image} alt={a.imageAlt || a.title} class="w-full h-32 object-cover" loading="lazy" width="1200" height="630" />
+                  )}
+                  <span class="block p-4">
+                    <span class="font-heading font-bold text-sm text-brand-gray-900 block mb-1">{a.title}</span>
+                    <span class="text-brand-gray-600 text-xs leading-relaxed">{a.description}</span>
+                  </span>
                 </a>
               ))}
             </div>

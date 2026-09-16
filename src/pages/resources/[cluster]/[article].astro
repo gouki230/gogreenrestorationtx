@@ -37,6 +37,7 @@ const articleSchema = {
   "@type": "Article",
   "headline": article.title,
   "description": article.description,
+  ...(article.image ? { "image": `https://gogreenrestorationtx.com${article.image}` } : {}),
   "publisher": {
     "@type": "Organization",
     "name": "Go Green Restoration Inc",
@@ -80,7 +81,7 @@ function renderContent(content: string): string {
 }
 ---
 
-<BaseLayout title={title} description={description} schema={[articleSchema]}>
+<BaseLayout title={title} description={description} ogImage={article.image} schema={[articleSchema]}>
   <Breadcrumbs items={breadcrumbs} />
 
   <article class="max-w-7xl mx-auto px-4 py-12">
