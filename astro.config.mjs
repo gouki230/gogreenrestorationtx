@@ -12,6 +12,7 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   integrations: [preact(), sitemap({
+    filter: (page) => new URL(page).pathname.replace(/\/$/, '') !== '/thank-you',
     changefreq: 'weekly',
     lastmod: new Date(),
     priority: 0.7,
