@@ -6,11 +6,6 @@ const title = 'Contact Go Green Restoration Inc | Free Estimates & 24/7 Emergenc
 const description = 'Contact Go Green Restoration for free estimates and 24/7 emergency restoration services across the Dallas–Fort Worth metroplex. Call (469) 727-3217 or fill out our form.';
 const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Contact', url: '/contact/' }];
 
-// Lead-form submission endpoint. Paste your form endpoint URL here to make the
-// "Request a Free Estimate" form live (e.g. a GHL inbound webhook, Formspree
-// https://formspree.io/f/XXXX, or Web3Forms https://api.web3forms.com/submit).
-// While empty, the form shows a "call us" notice instead of submitting.
-const FORM_ENDPOINT = '';
 ---
 
 <BaseLayout title={title} description={description}>
@@ -29,47 +24,19 @@ const FORM_ENDPOINT = '';
       <div>
         <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Request a Free Estimate</h2>
 
-        <form id="lead-form" action={FORM_ENDPOINT || undefined} method="POST" class="bg-white rounded-xl p-6 sm:p-8 border border-brand-warm-200 shadow-sm mb-8">
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <div>
-              <label for="lf-name" class="block text-sm font-medium text-brand-gray-700 mb-1">Full Name *</label>
-              <input id="lf-name" name="name" type="text" required autocomplete="name" class="w-full rounded-lg border border-brand-gray-300 px-3 py-2.5 text-brand-gray-900 focus:border-brand-green focus:ring-2 focus:ring-brand-green/30 outline-none transition" />
-            </div>
-            <div>
-              <label for="lf-phone" class="block text-sm font-medium text-brand-gray-700 mb-1">Phone *</label>
-              <input id="lf-phone" name="phone" type="tel" required autocomplete="tel" class="w-full rounded-lg border border-brand-gray-300 px-3 py-2.5 text-brand-gray-900 focus:border-brand-green focus:ring-2 focus:ring-brand-green/30 outline-none transition" />
-            </div>
-            <div>
-              <label for="lf-email" class="block text-sm font-medium text-brand-gray-700 mb-1">Email *</label>
-              <input id="lf-email" name="email" type="email" required autocomplete="email" class="w-full rounded-lg border border-brand-gray-300 px-3 py-2.5 text-brand-gray-900 focus:border-brand-green focus:ring-2 focus:ring-brand-green/30 outline-none transition" />
-            </div>
-            <div>
-              <label for="lf-service" class="block text-sm font-medium text-brand-gray-700 mb-1">Service Needed</label>
-              <select id="lf-service" name="service" class="w-full rounded-lg border border-brand-gray-300 px-3 py-2.5 text-brand-gray-900 bg-white focus:border-brand-green focus:ring-2 focus:ring-brand-green/30 outline-none transition">
-                <option value="">Select a service</option>
-                <option>Water Damage Restoration</option>
-                <option>Fire &amp; Smoke Damage</option>
-                <option>Mold Cleanup</option>
-                <option>Sewage Backup Cleanup</option>
-                <option>Construction &amp; Remodeling</option>
-                <option>Other / Not sure</option>
-              </select>
-            </div>
-            <div class="sm:col-span-2">
-              <label for="lf-city" class="block text-sm font-medium text-brand-gray-700 mb-1">Property City</label>
-              <input id="lf-city" name="city" type="text" autocomplete="address-level2" placeholder="e.g. Plano, TX" class="w-full rounded-lg border border-brand-gray-300 px-3 py-2.5 text-brand-gray-900 focus:border-brand-green focus:ring-2 focus:ring-brand-green/30 outline-none transition" />
-            </div>
-            <div class="sm:col-span-2">
-              <label for="lf-message" class="block text-sm font-medium text-brand-gray-700 mb-1">How can we help? *</label>
-              <textarea id="lf-message" name="message" rows="4" required class="w-full rounded-lg border border-brand-gray-300 px-3 py-2.5 text-brand-gray-900 focus:border-brand-green focus:ring-2 focus:ring-brand-green/30 outline-none transition"></textarea>
-            </div>
-          </div>
-          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="hidden" aria-hidden="true" />
-          <input type="hidden" name="_subject" value="New estimate request — gogreenrestorationtx.com" />
-          <button type="submit" id="lf-submit" class="mt-5 w-full bg-brand-green hover:bg-brand-green-light text-white font-bold uppercase tracking-wide text-sm px-6 py-3.5 rounded-lg transition-colors shadow-lg shadow-brand-green/30">Request Free Estimate</button>
-          <p id="lf-status" class="mt-3 text-sm text-center" role="status" aria-live="polite"></p>
-          <p class="mt-2 text-xs text-brand-gray-500 text-center">By submitting, you agree to be contacted about your request. We respond within one hour.</p>
-        </form>
+        <div class="bg-white rounded-xl p-4 sm:p-6 border border-brand-warm-200 shadow-sm mb-8">
+          <script
+            is:inline
+            src="https://app.workiz.com/_assets/js/saj_webform_embed.js"
+            data-src="https://st.sendajob.com/MY/servicerequest/62a406d741e484b8ef7a200fa0d1cc8d2041c43f_f.html"
+            data-height="619"
+          ></script>
+          <p class="mt-4 text-sm text-brand-gray-600 text-center">
+            Having trouble with the form?
+            <a href="https://st.sendajob.com/MY/servicerequest/62a406d741e484b8ef7a200fa0d1cc8d2041c43f_f.html" target="_blank" rel="noopener noreferrer" class="font-bold text-brand-brown underline underline-offset-4">Open it in a new tab</a>
+            or call <a href="tel:+14697273217" class="font-bold text-brand-brown underline underline-offset-4">(469) 727-3217</a>.
+          </p>
+        </div>
 
         <h3 class="font-heading text-lg font-bold text-brand-gray-900 mb-4">Prefer to reach us directly?</h3>
         <div class="bg-brand-warm rounded-xl p-8 border border-brand-warm-200">
@@ -162,35 +129,5 @@ const FORM_ENDPOINT = '';
     </div>
   </div>
 
-  <script>
-    const form = document.getElementById('lead-form');
-    const statusEl = document.getElementById('lf-status');
-    const btn = document.getElementById('lf-submit');
-    form?.addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const honey = form.querySelector('[name="_gotcha"]');
-      if (honey && honey.value) return;
-      const action = form.getAttribute('action');
-      if (!action) {
-        statusEl.textContent = 'Our online form is being set up — please call us at (469) 727-3217.';
-        statusEl.className = 'mt-3 text-sm text-center text-brand-brown font-medium';
-        return;
-      }
-      const original = btn.textContent;
-      btn.disabled = true; btn.textContent = 'Sending…';
-      statusEl.textContent = ''; statusEl.className = 'mt-3 text-sm text-center';
-      try {
-        const res = await fetch(action, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' } });
-        if (!res.ok) throw new Error('Request failed');
-        form.reset();
-        statusEl.textContent = 'Thanks! Your request was sent — we’ll reach out within the hour.';
-        statusEl.className = 'mt-3 text-sm text-center text-brand-green font-medium';
-      } catch (err) {
-        statusEl.textContent = 'Something went wrong. Please call us at (469) 727-3217.';
-        statusEl.className = 'mt-3 text-sm text-center text-red-600 font-medium';
-      } finally {
-        btn.disabled = false; btn.textContent = original;
-      }
-    });
-  </script>
+
 </BaseLayout>
