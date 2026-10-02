@@ -38,6 +38,7 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, siteUrl).href;
 const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": "https://gogreenrestorationtx.com/#organization",
   "name": "Go Green Restoration Inc",
   "url": siteUrl,
   "logo": `${siteUrl}/logo.png`,
@@ -56,6 +57,7 @@ const organizationSchema = {
   "location": [
     {
       "@type": "LocalBusiness",
+      "@id": "https://gogreenrestorationtx.com/#wylie",
       "name": "Go Green Restoration TX - Wylie",
       "image": `${siteUrl}/logo.png`,
       "telephone": "+1-469-727-3217",

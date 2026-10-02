@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import services from '../../data/services.json';
 import dfwCities from '../../data/cities-dfw-metro.json';
+import ProjectPhotos from '../../components/ProjectPhotos.astro';
+import MoldServiceDetails from '../../components/MoldServiceDetails.astro';
 import { fillTemplate } from '../../utils/content';
 
 export function getStaticPaths() {
@@ -16,8 +18,9 @@ const { service } = Astro.props;
 const allCities = dfwCities;
 const dfwCitiesList = dfwCities.sort((a, b) => a.name.localeCompare(b.name));
 
-const title = `${service.name} Services | Go Green Restoration Inc`;
-const description = `Professional ${service.name.toLowerCase()} services throughout the Dallas–Fort Worth Metroplex. Bonded & insured, EPA Lead-Safe certified. 24/7 emergency response. Free estimates.`;
+const isMold = service.slug === 'mold-remediation';
+const title = isMold ? 'Mold Removal in Dallas & Collin County | Small-Area Cleanup' : `${service.name} Services | Go Green Restoration Inc`;
+const description = isMold ? 'Small-area mold cleanup in Dallas, Collin County and DFW. Serving you from Wylie; larger projects referred to a TDLR-licensed remediator. Request an estimate.' : `Professional ${service.name.toLowerCase()} services throughout the Dallas–Fort Worth Metroplex. Bonded & insured, EPA Lead-Safe certified. 24/7 emergency response. Free estimates.`;
 
 const breadcrumbs = [
   { name: 'Home', url: '/' },
@@ -31,7 +34,8 @@ const serviceSchema = {
   "name": service.name,
   "description": description,
   "provider": {
-    "@type": "Organization",
+    "@type": "LocalBusiness",
+    "@id": "https://gogreenrestorationtx.com/#wylie",
     "name": "Go Green Restoration Inc",
     "url": "https://gogreenrestorationtx.com"
   },
@@ -81,7 +85,7 @@ const serviceImages: Record<string, { src: string; alt: string }[]> = {
     { src: '/images/site/go-green-team-restoration-work.jpg', alt: 'Restoration and reconstruction team at work' },
   ],
 };
-const images = serviceImages[service.slug] || [];
+const images = isMold ? [] : serviceImages[service.slug] || [];
 ---
 
 <BaseLayout title={title} description={description} schema={[serviceSchema]}>
@@ -92,7 +96,7 @@ const images = serviceImages[service.slug] || [];
     <div class="max-w-7xl mx-auto px-4 py-16 lg:py-20">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
         <div>
-          <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">{service.name}</h1>
+          <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">{isMold ? 'Small-area mold removal in Dallas and Collin County' : service.name}</h1>
           <p class="text-lg text-brand-warm-200 max-w-3xl mb-6">
             24/7 emergency {service.shortName.toLowerCase()} services throughout the Dallas–Fort Worth metroplex. Bonded, insured, and EPA Lead-Safe certified.
           </p>
@@ -115,7 +119,7 @@ const images = serviceImages[service.slug] || [];
       <div>
         <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">About Our {service.name} Services</h2>
         <p class="text-brand-gray-600 leading-relaxed mb-4">
-          {service.introTemplates[0].replace(/\{city\}/g, 'Southern Texas').replace(/\{county\}/g, 'the region')}
+          {service.introTemplates[0].replace(/\{city\}/g, 'Dallas–Fort Worth').replace(/\{county\}/g, 'the surrounding DFW communities')}
         </p>
       </div>
       {images.length > 0 && (
@@ -127,6 +131,9 @@ const images = serviceImages[service.slug] || [];
       )}
     </div>
 
+    {isMold && <MoldServiceDetails />}
+    {isMold && <ProjectPhotos />}
+
     <!-- Process Steps -->
     <div class="mb-16">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-8">Our {service.shortName} Process</h2>
@@ -135,7 +142,7 @@ const images = serviceImages[service.slug] || [];
           <div class="bg-brand-gray-50 rounded-xl p-6">
             <div class="w-10 h-10 bg-brand-brown rounded-full flex items-center justify-center text-white font-bold mb-4">{index + 1}</div>
             <h3 class="font-heading font-bold text-lg mb-2">{step.title}</h3>
-            <p class="text-brand-gray-600 text-sm">{step.description.replace(/\{city\}/g, 'your').replace(/\{county\}/g, 'your')}</p>
+            <p class="text-brand-gray-600 text-sm">{step.description.replace(/\{city\}/g, 'Dallas–Fort Worth').replace(/\{county\}/g, 'Dallas–Fort Worth')}</p>
           </div>
         ))}
       </div>
@@ -175,10 +182,10 @@ const images = serviceImages[service.slug] || [];
         {service.faqTemplates.map((faq) => (
           <details class="bg-brand-gray-50 rounded-xl p-6 group">
             <summary class="font-heading font-bold cursor-pointer list-none flex justify-between items-center">
-              <span>{faq.question.replace(/\{city\}/g, 'my area').replace(/\{county\}/g, 'the area')}</span>
+              <span>{faq.question.replace(/\{city\}/g, 'Dallas–Fort Worth').replace(/\{county\}/g, 'the area')}</span>
               <svg class="w-5 h-5 text-brand-gray-600 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
             </summary>
-            <p class="mt-4 text-brand-gray-600">{faq.answer.replace(/\{city\}/g, 'your area').replace(/\{county\}/g, 'the area')}</p>
+            <p class="mt-4 text-brand-gray-600">{faq.answer.replace(/\{city\}/g, 'Dallas–Fort Worth').replace(/\{county\}/g, 'the area')}</p>
           </details>
         ))}
       </div>

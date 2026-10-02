@@ -1,0 +1,66 @@
+[
+  {
+    "city": "Arlington",
+    "slug": "arlington",
+    "title": "Bathroom mold remediation project in Arlington",
+    "description": "Photos from Go Green Restoration's bathroom mold remediation project in Arlington, Texas.",
+    "images": [
+      {
+        "src": "/images/projects/arlington-bathroom-containment-1280.webp",
+        "smallSrc": "/images/projects/arlington-bathroom-containment-640.webp",
+        "width": 1280,
+        "height": 1707,
+        "alt": "Plastic containment barrier across the bathroom doorway in Arlington.",
+        "caption": "Plastic containment barrier across the bathroom doorway in Arlington."
+      },
+      {
+        "src": "/images/projects/arlington-bathroom-equipment-1280.webp",
+        "smallSrc": "/images/projects/arlington-bathroom-equipment-640.webp",
+        "width": 1280,
+        "height": 1707,
+        "alt": "Portable restoration equipment beside an opened bathroom wall in Arlington.",
+        "caption": "Portable restoration equipment beside an opened bathroom wall in Arlington."
+      },
+      {
+        "src": "/images/projects/arlington-bathroom-wall-opening-1280.webp",
+        "smallSrc": "/images/projects/arlington-bathroom-wall-opening-640.webp",
+        "width": 1280,
+        "height": 1707,
+        "alt": "Bathroom wall opening exposing framing and plumbing in Arlington.",
+        "caption": "Bathroom wall opening exposing framing and plumbing in Arlington."
+      }
+    ]
+  },
+  {
+    "city": "Dallas",
+    "slug": "dallas",
+    "title": "Kitchen mold remediation project in Dallas",
+    "description": "Photos from Go Green Restoration's kitchen mold remediation project in Dallas, Texas.",
+    "images": [
+      {
+        "src": "/images/projects/dallas-kitchen-containment-1280.webp",
+        "smallSrc": "/images/projects/dallas-kitchen-containment-640.webp",
+        "width": 1280,
+        "height": 1707,
+        "alt": "Plastic containment barrier at the kitchen work area in Dallas.",
+        "caption": "Plastic containment barrier at the kitchen work area in Dallas."
+      },
+      {
+        "src": "/images/projects/dallas-kitchen-wall-opening-1280.webp",
+        "smallSrc": "/images/projects/dallas-kitchen-wall-opening-640.webp",
+        "width": 1280,
+        "height": 960,
+        "alt": "Opened kitchen wall and doorway containment in Dallas.",
+        "caption": "Opened kitchen wall and doorway containment in Dallas."
+      },
+      {
+        "src": "/images/projects/dallas-kitchen-equipment-1280.webp",
+        "smallSrc": "/images/projects/dallas-kitchen-equipment-640.webp",
+        "width": 1280,
+        "height": 960,
+        "alt": "Kitchen work area with opened walls and portable restoration equipment in Dallas.",
+        "caption": "Kitchen work area with opened walls and portable restoration equipment in Dallas."
+      }
+    ]
+  }
+]

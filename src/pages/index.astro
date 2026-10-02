@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import CountyMap from '../components/CountyMap.astro';
 import services from '../data/services.json';
-import googleReviews from '../data/google-reviews.json';
+import ReviewSources from '../components/ReviewSources.astro';
 
 const title = 'Go Green Restoration TX | 24/7 Water, Fire & Mold Damage Restoration in DFW Metro';
 const description = 'Bonded & insured, IICRC-certified water damage restoration and mitigation across the Dallas–Fort Worth Metroplex. 24/7 emergency water damage repair, storm damage, fire damage, mold cleanup & sewage cleanup. Free estimates.';
@@ -17,23 +17,6 @@ const websiteSchema = {
     "target": "https://gogreenrestorationtx.com/search?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
-};
-
-const reviewSchema = {
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "Go Green Restoration Inc",
-  "url": "https://gogreenrestorationtx.com",
-  "telephone": "+1-469-727-3217",
-  "address": [
-    { "@type": "PostalAddress", "streetAddress": "611 S State Hwy 78 Suite 133B", "addressLocality": "Wylie", "addressRegion": "TX", "postalCode": "75098", "addressCountry": "US" }
-  ],
-  "aggregateRating": { "@type": "AggregateRating", "ratingValue": "5.0", "reviewCount": "1", "bestRating": "5", "worstRating": "1" },
-  "review": [
-    { "@type": "Review", "author": { "@type": "Person", "name": "Logan L." }, "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }, "reviewBody": "Go Green Restoration was incredible. They responded within the hour after our pipe burst and had everything dried out and repaired faster than we expected. Professional, courteous, and they worked directly with our insurance." },
-    { "@type": "Review", "author": { "@type": "Person", "name": "Sabrina K." }, "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }, "reviewBody": "After finding mold in our bathroom, we called Go Green and they were out the next day. They explained everything clearly, contained the area properly, and removed all the mold. Our air quality test came back clean." },
-    { "@type": "Review", "author": { "@type": "Person", "name": "Reynaldo A." }, "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }, "reviewBody": "We had fire damage in our kitchen and Go Green handled everything - from boarding up the same night to the complete rebuild. They made the insurance process painless and our kitchen looks even better than before." }
-  ]
 };
 
 // SVG paths for each service icon (used in the floating badge on each card)
@@ -70,7 +53,7 @@ const featuredCities = [
 ];
 ---
 
-<BaseLayout title={title} description={description} keywords={metaKeywords} schema={[websiteSchema, reviewSchema]}>
+<BaseLayout title={title} description={description} keywords={metaKeywords} schema={[websiteSchema]}>
 
   <!-- Hero Section with Background Video -->
   <section class="relative overflow-hidden text-white min-h-[600px] lg:min-h-[680px] flex flex-col" id="hero-section">
@@ -186,7 +169,7 @@ const featuredCities = [
             </span>
             <span class="inline-flex items-center gap-1.5 bg-white/10 backdrop-blur-sm border border-white/15 text-white text-xs font-medium px-3 py-1.5 rounded-full">
               <svg class="w-3.5 h-3.5 text-brand-green" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
-              Licensed &amp; Insured
+              Bonded &amp; Insured
             </span>
           </div>
         </div>
@@ -230,8 +213,8 @@ const featuredCities = [
           <div class="flex items-center gap-3 px-2 sm:px-4 py-2 sm:py-0">
             <svg class="w-7 h-7 flex-shrink-0" viewBox="0 0 48 48"><path fill="#4285F4" d="M45.12 24.5c0-1.56-.14-3.06-.4-4.5H24v8.51h11.84c-.51 2.75-2.06 5.08-4.39 6.64v5.52h7.11c4.16-3.83 6.56-9.47 6.56-16.17z"/><path fill="#34A853" d="M24 46c5.94 0 10.92-1.97 14.56-5.33l-7.11-5.52c-1.97 1.32-4.49 2.1-7.45 2.1-5.73 0-10.58-3.87-12.31-9.07H4.34v5.7C7.96 41.07 15.4 46 24 46z"/><path fill="#FBBC05" d="M11.69 28.18C11.25 26.86 11 25.45 11 24s.25-2.86.69-4.18v-5.7H4.34C2.85 17.09 2 20.45 2 24c0 3.55.85 6.91 2.34 9.88l7.35-5.7z"/><path fill="#EA4335" d="M24 10.75c3.23 0 6.13 1.11 8.41 3.29l6.31-6.31C34.91 4.18 29.93 2 24 2 15.4 2 7.96 6.93 4.34 14.12l7.35 5.7c1.73-5.2 6.58-9.07 12.31-9.07z"/></svg>
             <div class="leading-tight">
-              <p class="text-sm font-bold text-brand-gray-900">4.9 <span class="text-yellow-500">&#9733;&#9733;&#9733;&#9733;&#9733;</span></p>
-              <p class="text-xs text-brand-gray-600">(500+ Reviews)</p>
+              <p class="text-sm font-bold text-brand-gray-900"><a href="/reviews/" class="hover:underline">Customer Reviews</a></p>
+              <p class="text-xs text-brand-gray-600">Read on Google</p>
             </div>
           </div>
           <div class="flex items-center gap-3 px-2 sm:px-4 py-2 sm:py-0">
@@ -577,19 +560,19 @@ const featuredCities = [
         <!-- Stats row -->
         <div class="grid grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-0 pt-8 border-t border-brand-gray-100">
           <div class="text-center lg:border-r border-brand-gray-100 px-4">
-            <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-2">15+</p>
+            <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-2">DFW</p>
             <div class="w-10 h-0.5 bg-brand-green mx-auto mb-3"></div>
-            <p class="text-sm text-brand-gray-600">Years of<br/>Experience</p>
+            <p class="text-sm text-brand-gray-600">Service<br/>Coverage</p>
           </div>
           <div class="text-center lg:border-r border-brand-gray-100 px-4">
-            <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-2">8,500+</p>
+            <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-2">Wylie</p>
             <div class="w-10 h-0.5 bg-brand-green mx-auto mb-3"></div>
-            <p class="text-sm text-brand-gray-600">Projects<br/>Completed</p>
+            <p class="text-sm text-brand-gray-600">Texas<br/>Location</p>
           </div>
           <div class="text-center lg:border-r border-brand-gray-100 px-4">
-            <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-1">4.9</p>
-            <p class="text-yellow-500 text-lg mb-1">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
-            <p class="text-sm text-brand-gray-600">Google Rating<br/>(600+ Reviews)</p>
+            <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-1">Our Work</p>
+
+            <p class="text-sm text-brand-gray-600"><a href="/gallery/" class="underline">View Texas projects</a></p>
           </div>
           <div class="text-center px-4">
             <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-2">24/7</p>
@@ -607,7 +590,7 @@ const featuredCities = [
       <div class="text-center mb-12 reveal">
         <p class="text-sm font-bold uppercase tracking-widest text-brand-green mb-3">Service Areas</p>
         <h2 class="font-heading text-3xl lg:text-5xl font-black text-brand-gray-900 mb-4 leading-tight">Proudly Serving <span class="text-brand-green">the Dallas–Fort Worth Metroplex</span></h2>
-        <p class="text-base lg:text-lg text-brand-gray-600 max-w-2xl mx-auto">We provide fast, reliable restoration services to homes and businesses across Southern Texas.</p>
+        <p class="text-base lg:text-lg text-brand-gray-600 max-w-2xl mx-auto">We provide fast, reliable restoration services to homes and businesses across the Dallas–Fort Worth metroplex.</p>
       </div>
 
       <!-- Map -->
@@ -653,67 +636,10 @@ const featuredCities = [
     </div>
   </section>
 
-  <!-- Testimonials Section -->
   <section class="py-16 lg:py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4">
-      <div class="text-center mb-12">
-        <h2 class="font-heading text-3xl lg:text-4xl font-bold text-brand-gray-900 mb-4 reveal">Our Happy Customers</h2>
-        <p class="text-lg text-brand-gray-600 max-w-2xl mx-auto">See what our clients say about their experience with Go Green Restoration.</p>
-      </div>
-
-      <!-- Video Testimonials -->
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto mb-12 reveal">
-        <div class="rounded-xl overflow-hidden shadow-lg aspect-video">
-          <iframe
-            src="https://www.youtube.com/embed/16zVA1TXfEg?rel=0"
-            title="Go Green Restoration Customer Experience"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-            loading="lazy"
-            class="w-full h-full"
-          ></iframe>
-        </div>
-        <div class="rounded-xl overflow-hidden shadow-lg aspect-video">
-          <iframe
-            src="https://www.youtube.com/embed/lsyrkOaf0JI?rel=0"
-            title="Go Green Restoration Service Review"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-            loading="lazy"
-            class="w-full h-full"
-          ></iframe>
-        </div>
-      </div>
-
-      <!-- Google Reviews (fetched at build time via Places API) -->
-      <div class="flex items-center justify-center gap-3 mb-8">
-        <img src="https://www.google.com/favicon.ico" alt="Google" width="24" height="24" class="w-6 h-6" />
-        <span class="font-heading font-bold text-lg text-brand-gray-900">{googleReviews.rating} stars</span>
-        <span class="text-yellow-500 text-xl">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-        <span class="text-brand-gray-600">based on {googleReviews.totalReviews} Google reviews</span>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 stagger-children">
-        {googleReviews.reviews.slice(0, 6).map((review) => (
-          <div class="bg-brand-warm rounded-xl p-6 border border-brand-warm-200">
-            <div class="flex items-center gap-2 mb-3">
-              <img src="https://www.google.com/favicon.ico" alt="Google Review" width="16" height="16" class="w-4 h-4" />
-              <div class="flex">
-                {Array.from({ length: review.rating }).map(() => (
-                  <span class="text-yellow-500 text-sm">&#9733;</span>
-                ))}
-              </div>
-              <span class="text-xs text-brand-gray-600 ml-auto">{review.relativeTime}</span>
-            </div>
-            <p class="text-brand-gray-600 text-sm mb-4 line-clamp-4">{review.text}</p>
-            <div class="flex items-center gap-2">
-              {review.authorPhoto && (
-                <img src={review.authorPhoto} alt={review.author} width="32" height="32" class="w-8 h-8 rounded-full" loading="lazy" referrerpolicy="no-referrer" />
-              )}
-              <span class="font-medium text-sm text-brand-gray-900">{review.author}</span>
-            </div>
-          </div>
-        ))}
-      </div>
+      <h2 class="font-heading text-3xl lg:text-4xl font-bold text-brand-gray-900 mb-6">What Go Green Restoration customers say</h2>
+      <ReviewSources />
     </div>
   </section>
 

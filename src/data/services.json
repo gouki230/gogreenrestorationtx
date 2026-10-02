@@ -179,37 +179,37 @@
     "cardDescription": "Clean up small-area mold (under 25 sq ft), control the moisture source, and improve indoor air quality.",
     "priority": 3,
     "metaTitleTemplate": "Mold Removal in {city}, TX | Small-Area Mold Cleanup",
-    "metaDescriptionTemplate": "Need mold removal in {city}? Go Green Restoration handles small-area mold cleanup under 25 sq ft — moisture control, air-quality testing, free inspection. Larger jobs referred to a TDLR-licensed remediator.",
+    "metaDescriptionTemplate": "Small-area mold removal in {city}, TX, for less than 25 contiguous sq ft. Moisture control and cleanup; larger jobs referred to a TDLR-licensed remediator.",
     "h1Template": "Mold Removal in {city}, TX",
     "introTemplates": [
-      "Mold in your {city} home or business is more than an eyesore, because it is a genuine health hazard that spreads quietly behind baseboards, under cabinets, and inside wall cavities while you go about your week. Go Green Restoration provides EPA Lead-Safe certified mold cleanup for small-area mold problems measuring less than 25 contiguous square feet throughout {city} and {county}. We use eco-friendly methods to clean the affected surfaces and control the moisture source that created the problem in the first place, which is what prevents the regrowth that so often follows a surface-only cleanup. Texas requires a TDLR-licensed remediator for mold jobs larger than that threshold, and we are glad to refer you to one rather than leave you searching on your own.",
-      "If you have spotted a small patch of mold somewhere in your {city} property, the worst thing you can do is wait for it to spread, because mold needs only sustained moisture and roughly 48 hours to establish itself. Go Green Restoration offers EPA Lead-Safe certified mold cleanup in {city}, {county}, for affected areas under 25 contiguous square feet — precisely the threshold Texas allows non-licensed contractors to handle. Our process begins by tracing the moisture back to its source rather than simply wiping down what you can see. We then clean and treat the affected area, confirm the assembly behind it is genuinely dry, and give you the practical guidance that keeps it from coming back a season later.",
-      "Go Green Restoration is a trusted choice for small-area mold cleanup in {city}, Texas. Serving {county} with EPA Lead-Safe certified technicians, we treat mold problems under 25 contiguous square feet, address the underlying moisture that allowed the growth to start, and improve indoor air quality using eco-friendly, EPA-registered products rather than the harsh chemistry that leaves a home unusable for days. Texas law is explicit that mold covering a larger area must be handled by a TDLR-licensed remediator working alongside a licensed assessment consultant. We measure the affected area during a free inspection and tell you plainly which side of that line your property falls on, before any work begins or any money changes hands."
+      "Go Green Restoration serves {city} and {county} with small-area mold cleanup for affected areas of less than 25 contiguous square feet. We discuss the visible growth and moisture problem, explain our scope, and refer larger projects to a TDLR-licensed remediator. Contact our Wylie-based team to discuss your property.",
+      "For small mold problems in your {city} home or business, Go Green Restoration offers cleanup for areas of less than 25 contiguous square feet. Addressing the moisture source is part of planning the work. We serve {county} from Wylie and refer projects outside our current mold cleanup scope to a TDLR-licensed remediator.",
+      "Need help with a small mold problem in {city}? Our Wylie-based team serves {county} with cleanup limited to less than 25 contiguous square feet. We explain the proposed work before starting and refer larger mold remediation projects to a TDLR-licensed remediator."
     ],
     "processSteps": [
       {
-        "title": "Inspection & Moisture Check",
-        "description": "We begin by inspecting your {city} property to confirm whether the affected area falls under 25 contiguous square feet, measuring it properly rather than estimating by eye. At the same time we trace the mold back to the moisture source feeding it — a supply line, a roof penetration, a failed wax ring, a condensate drain, or humidity condensing inside a wall cavity. Identifying that source is the difference between a cleanup that holds and one that fails by the next season. If the measurement puts the area over the state threshold, we tell you immediately that it requires a TDLR-licensed remediator and help you find one."
+        "title": "Scope & Moisture Check",
+        "description": "We discuss the affected area in your {city} property and check the visible growth and moisture concerns. Our current cleanup scope is less than 25 contiguous square feet. If the work exceeds that scope, we refer you to a TDLR-licensed remediator."
       },
       {
         "title": "Containment",
-        "description": "Before any cleaning begins we isolate the work area inside your {city} property using sheeting and negative air pressure. That way the spores disturbed during cleanup travel into our containment rather than into the hallway, the return vents, or the bedrooms beyond. That matters a great deal in occupied homes where the household is still living around the work, and it is the single step most often skipped by the cheapest quotes you will receive."
+        "description": "We plan containment for the work area to limit the spread of dust and debris during cleanup. The setup depends on access, affected materials, and the agreed scope."
       },
       {
         "title": "Air Filtration",
-        "description": "HEPA air scrubbers run throughout the cleanup to capture the airborne spores that any disturbance of mold inevitably releases. They protect the indoor air quality of your {city} property while the work is underway and keep running afterward, so that the air in the affected space is measurably cleaner when we leave than it was when we arrived, rather than simply looking cleaner."
+        "description": "We use HEPA filtration as appropriate for the cleanup. Equipment and work-area arrangements are discussed as part of the project plan."
       },
       {
-        "title": "Mold Cleanup & Treatment",
-        "description": "Our EPA Lead-Safe certified technicians remove the affected surface materials that cannot be salvaged and clean the materials that can. We treat the area with EPA-registered antimicrobial products chosen to be effective against mold without leaving residues that make the room unpleasant to occupy afterward. Throughout this stage we work within the 25 contiguous square foot scope that Texas permits us to handle, documenting what was removed and what was treated so you have a clear record for your insurer."
+        "title": "Mold Cleanup",
+        "description": "We clean affected surfaces and discuss materials that may need removal within the agreed scope. The estimate should explain the work included and any repair needs."
       },
       {
         "title": "Moisture Control",
-        "description": "We address the moisture source identified during the inspection, because cleaning mold without correcting the water that fed it simply schedules the same problem for a later date. In North Texas that correction often means more than a repair — it can mean improving ventilation in a bathroom that vents into the attic, adjusting humidity control, redirecting a condensate line, or sealing a penetration that spring storms have been driving water through for longer than anyone realized."
+        "description": "We identify moisture concerns so the source can be addressed. Depending on the cause, this may require a separate plumbing, roofing, or ventilation repair."
       },
       {
-        "title": "Cleanup & Prevention Tips",
-        "description": "We clean the work area and confirm with moisture meters that the assembly behind the finish is genuinely dry, not merely dry to the touch. We then remove our containment and walk you through the practical steps that keep your {city} property mold-free — the humidity range to hold, the bathroom habits that matter, the seasonal checks worth making after hail season. The aim is for the last visit we make to your property to be the last one you need."
+        "title": "Review & Next Steps",
+        "description": "We review the completed cleanup and explain follow-up maintenance or repairs. Independent assessment or clearance testing, where needed, must be arranged with an appropriately licensed professional."
       }
     ],
     "damageTypes": [
@@ -224,20 +224,24 @@
     ],
     "faqTemplates": [
       {
-        "question": "Do I need a licensed mold remediation company in {city}?",
-        "answer": "It depends entirely on the size of the affected area, because Texas draws the line at 25 contiguous square feet. Below that threshold the Texas Department of Licensing and Regulation allows companies like ours to clean up mold without holding a mold remediation license. That covers the large majority of household mold problems: bathroom surface growth, mold under a sink, a patch in a closet, or spotting that follows a small leak. Anything larger requires a TDLR-licensed mold assessment consultant and a separately licensed mold remediation contractor working as independent parties. In that case we will tell you so directly and refer you rather than take the job. Either way, our technicians are EPA Lead-Safe certified."
+        "question": "What mold cleanup do you offer in {city}?",
+        "answer": "Our current service is limited to small-area mold cleanup of less than 25 contiguous square feet. We refer larger areas or other work outside our scope to a TDLR-licensed remediator. EPA Lead-Safe certification is separate from mold remediation licensing."
       },
       {
-        "question": "How do I know if I have mold in my {city} home?",
-        "answer": "The common signs are a persistent musty odor that returns after you air the room out, and visible discoloration on walls, ceilings, grout, or trim. Water stains and bubbling paint indicate moisture has been present for a while, and unexplained allergic symptoms that improve when you leave the house and return when you come back are another signal. The difficulty is that mold frequently establishes itself out of sight inside wall cavities, under flooring, and in HVAC systems long before any of those signs appear. That is why we offer free inspections for {city} properties, to determine both the true size of the problem and the right next step."
+        "question": "Do you offer mold testing in {city}?",
+        "answer": "Our service estimate and moisture check are not independent mold assessment or clearance testing. If you need those services, consult an appropriately licensed mold assessment professional. Tell us what documentation you have when requesting an estimate."
       },
       {
-        "question": "Is mold cleanup covered by insurance in {city}?",
-        "answer": "Coverage depends almost entirely on the cause rather than the mold itself. Mold resulting from a sudden and accidental event such as a burst supply line, a failed water heater, or storm-driven water intrusion is often covered under a standard Texas homeowners policy. Mold that developed from long-term seepage, deferred maintenance, or ongoing humidity is commonly excluded as a maintenance issue, which makes documentation of the triggering event genuinely decisive. We photograph the affected area, record moisture readings, and help {city} homeowners assemble the loss documentation their adjuster will ask for, before the evidence gets cleaned away."
+        "question": "What affects mold cleanup cost in {city}?",
+        "answer": "The affected materials, size of the area, access, moisture source, and any required repairs affect the estimate. Ask for a written scope that explains what cleanup, drying, and repair tasks are included."
       },
       {
-        "question": "Is mold dangerous to my health?",
-        "answer": "Certain mold species can cause respiratory irritation, persistent coughing, headaches, and allergic reactions. The risk is meaningfully higher for children, older adults, anyone with asthma or a compromised immune system, and households where someone already has a respiratory condition. That is why prompt, properly contained cleanup matters more than a fast cosmetic fix that disturbs the growth without capturing what it releases, and why our process combines containment and HEPA filtration rather than simply cleaning the visible surface of the problem in your {city} property."
+        "question": "Will insurance cover mold cleanup in {city}?",
+        "answer": "Coverage depends on your policy and the circumstances of the damage. Ask your insurer about coverage, exclusions, limits, and required documentation before assuming cleanup will be covered."
+      },
+      {
+        "question": "How quickly can you arrive in {city}?",
+        "answer": "For emergencies, we aim to arrive at the property within one hour. Call to confirm crew availability and the estimated arrival time for your address."
       }
     ],
     "relatedResources": [

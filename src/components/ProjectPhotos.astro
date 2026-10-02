@@ -1,0 +1,24 @@
+---
+import projects from '../data/texas-projects.json';
+interface Props { city?: string; }
+const { city } = Astro.props;
+const selected = city ? projects.filter(project => project.slug === city) : projects;
+---
+
+{selected.map(project => (
+  <section class="my-12">
+    <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-3">{project.title}</h2>
+    <p class="text-brand-gray-600 mb-6">{project.description}</p>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+      {project.images.map(photo => (
+        <figure class="rounded-xl overflow-hidden border border-brand-warm-200 bg-white">
+          <a href={photo.src} aria-label={`View full photo: ${photo.alt}`}>
+            <img src={photo.src} srcset={`${photo.smallSrc} 640w, ${photo.src} 1280w`} sizes="(min-width: 640px) 33vw, 100vw" width={photo.width} height={photo.height} alt={photo.alt} loading="lazy" class="w-full h-64 object-contain bg-brand-gray-50" />
+          </a>
+          <figcaption class="p-4 text-sm text-brand-gray-600">{photo.caption}</figcaption>
+        </figure>
+      ))}
+    </div>
+    {!city && <a href={`/mold-remediation/${project.slug}/`} class="inline-block mt-4 font-bold text-brand-brown underline underline-offset-4">Mold cleanup services in {project.city}</a>}
+  </section>
+))}

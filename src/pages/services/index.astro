@@ -30,7 +30,7 @@ const serviceIcons: Record<string, string> = {
         <a href={`/services/${service.slug}/`} class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-8 transition-all hover:shadow-lg border border-transparent hover:border-brand-green-200">
           <div class="text-4xl mb-4">{serviceIcons[service.icon]}</div>
           <h2 class="font-heading text-2xl font-bold text-brand-gray-900 group-hover:text-brand-brown mb-3">{service.name}</h2>
-          <p class="text-brand-gray-600 mb-4">{service.introTemplates[0].replace(/\{city\}/g, 'your').replace(/\{county\}/g, 'your').slice(0, 200)}...</p>
+          <p class="text-brand-gray-600 mb-4">{service.cardDescription}</p>
           <ul class="text-sm text-brand-gray-600 space-y-1 mb-4">
             {service.damageTypes.slice(0, 4).map((type) => (
               <li>&#10003; {type}</li>

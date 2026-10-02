@@ -1,4 +1,6 @@
 ---
+import ProjectPhotos from '../../components/ProjectPhotos.astro';
+import MoldServiceDetails from '../../components/MoldServiceDetails.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import CityMap from '../../components/CityMap.astro';
@@ -29,14 +31,14 @@ const otherServices = services.filter(s => s.slug !== service.slug);
 const intro = fillTemplate(selectTemplate(service.introTemplates, city.slug), city.name, city.county);
 const processSteps = service.processSteps.map((s, i) => ({
   ...s,
-  description: `${fillTemplate(s.description, city.name, city.county)} ${getStepContext(city, i, service.shortName)}`,
+  description: `${fillTemplate(s.description, city.name, city.county)} ${service.slug === 'mold-remediation' ? '' : getStepContext(city, i, service.shortName)}`,
 }));
 const faqs = [
   ...service.faqTemplates.map(f => ({
     question: fillTemplate(f.question, city.name, city.county),
     answer: fillTemplate(f.answer, city.name, city.county),
   })),
-  ...getCityFaqs(city, service.name, service.shortName, allCities.map((c: { slug: string }) => c.slug)),
+  ...(service.slug === 'mold-remediation' ? [] : getCityFaqs(city, service.name, service.shortName, allCities.map((c: { slug: string }) => c.slug))),
 ];
 
 // Conditional content
@@ -65,7 +67,7 @@ const cityArticles = clusterSlug
 const title = fillTemplate(service.metaTitleTemplate, city.name, city.county);
 const neighborhoodSnippet = city.neighborhoods?.length > 0 ? ` Serving ${city.neighborhoods.slice(0, 2).join(', ')} & more.` : '';
 const characteristicSnippet = city.characteristics?.includes('storm-zone') ? ' Hail & storm damage specialists.' : city.characteristics?.includes('lakefront') ? ' Lakefront property specialists.' : city.characteristics?.includes('older-buildings') ? ' Aging infrastructure experts.' : '';
-const description = fillTemplate(service.metaDescriptionTemplate, city.name, city.county) + characteristicSnippet + neighborhoodSnippet;
+const description = fillTemplate(service.metaDescriptionTemplate, city.name, city.county) + (service.slug === 'mold-remediation' ? '' : characteristicSnippet) + neighborhoodSnippet;
 const h1 = fillTemplate(service.h1Template, city.name, city.county);
 const metaKeywords = (service.metaKeywords || []).map((k: string) => fillTemplate(k, city.name, city.county));
 
@@ -94,6 +96,7 @@ const serviceSchema = {
   // The only real premises we have.
   "provider": {
     "@type": "LocalBusiness",
+    "@id": "https://gogreenrestorationtx.com/#wylie",
     "name": "Go Green Restoration Inc",
     "url": "https://gogreenrestorationtx.com",
     "telephone": "+1-469-727-3217",
@@ -167,13 +170,13 @@ const heroImage = service.image
         <!-- Intro with Image -->
         <div class="mb-12">
           <p class="text-lg text-brand-gray-600 leading-relaxed mb-6">{intro}</p>
-          {heroImage && (
+          {heroImage && service.slug !== 'mold-remediation' && (
             <img src={heroImage.src} alt={heroImage.alt} class="w-full h-64 lg:h-80 object-cover rounded-xl shadow-lg" loading="lazy" width="800" height="400" />
           )}
         </div>
 
         <!-- City-Specific Risk Section -->
-        {city.commonIssues && (
+        {city.commonIssues && service.slug !== 'mold-remediation' && (
           <section class="mb-12">
             <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Why {city.name} Properties Are Vulnerable</h2>
             <p class="text-brand-gray-600 leading-relaxed">{city.commonIssues}</p>
@@ -184,7 +187,7 @@ const heroImage = service.image
         )}
 
         <!-- Conditional Content Sections -->
-        {conditionalSections.length > 0 && (
+        {conditionalSections.length > 0 && service.slug !== 'mold-remediation' && (
           <section class="mb-12">
             <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Local Considerations in {city.name}</h2>
             {conditionalSections.map((section) => (
@@ -220,26 +223,10 @@ const heroImage = service.image
         )}
 
         <!-- Mold scope & Texas rules (mold pages only) -->
-        {service.slug === 'mold-remediation' && (
-          <section class="mb-12">
-            <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">What Mold Removal in {city.name} Legally Covers</h2>
-            <p class="text-brand-gray-600 leading-relaxed mb-4">
-              Texas regulates mold work by the size of the affected area rather than by the type of building, which surprises most homeowners who assume a house and a warehouse are governed differently. The Texas Department of Licensing and Regulation sets that threshold in plain terms, and it is worth understanding before you hire anyone in {city.name}. The number determines who is legally allowed to perform the work, what documentation you should expect at the end of it, and whether the company quoting you is permitted to take the job at all.
-            </p>
-            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Under 25 contiguous square feet</h4>
-            <p class="text-brand-gray-600 leading-relaxed mb-4">
-              This is the work we do, because a company does not need a mold license to clean up an area of this size. That threshold covers the large majority of household mold problems: surface growth in a bathroom, mold under a sink or behind a toilet, a patch on a closet wall, mildew across tile grout, and the spotting that so often follows a small supply-line leak. We clean all of it up while tracing the moisture source that caused the growth. Correcting that source is what stops the problem returning in a few months looking exactly as it did before.
-            </p>
-            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Over 25 contiguous square feet</h4>
-            <p class="text-brand-gray-600 leading-relaxed mb-4">
-              At this size Texas requires both a TDLR-licensed mold assessment consultant and a licensed mold remediation contractor, working as genuinely separate parties. The point is that the company diagnosing the problem is not the same company profiting from the scope of the fix. We are not licensed for this scope, and we tell you directly rather than quietly taking the job and hoping nobody measures. If your {city.name} property sits over the threshold we refer you to a licensed remediator, and we encourage you to verify any company's license yourself — including anyone we recommend — through the <a href="https://www.tdlr.texas.gov/LicenseSearch/" target="_blank" rel="noopener" class="text-brand-green-700 underline font-medium">TDLR license search</a>.
-            </p>
-            <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">How we tell the difference</h4>
-            <p class="text-brand-gray-600 leading-relaxed">
-              We measure the affected area during the free inspection, before any work begins or any money changes hands. The word contiguous is doing real work there, because it means connected. A single five-by-five-foot patch is treated very differently from several small separate spots scattered across different rooms, even when the total square footage is similar. If measuring puts your property over the line, the inspection is still worth having: it tells you exactly what you are dealing with, how far it extends, and what the correct next step is before you start calling licensed remediators.
-            </p>
-          </section>
-        )}
+
+
+        {service.slug === 'mold-remediation' && <MoldServiceDetails city={city.name} />}
+        {service.slug === 'mold-remediation' && <ProjectPhotos city={city.slug} />}
 
         <!-- Process Steps -->
         <section class="mb-12">
@@ -327,7 +314,7 @@ const heroImage = service.image
         <section class="mb-12 bg-brand-warm-100 rounded-xl p-8">
           <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">{service.shortName} Insurance Claims in {city.name}</h2>
           <p class="text-brand-gray-600 leading-relaxed">
-            We work directly with all major insurance companies to handle your {service.shortName.toLowerCase()} claim in {city.name}. Our team documents damage, communicates with adjusters, and ensures you receive fair compensation. We handle the paperwork so you can focus on your family and property.
+            Ask us about documentation for your {service.shortName.toLowerCase()} work in {city.name}. Your insurer determines coverage under your policy. Confirm coverage, deductibles, and any documentation requirements with your insurer before authorizing work.
           </p>
         </section>
 
@@ -424,7 +411,7 @@ const heroImage = service.image
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Bonded & Insured</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> IICRC Certified</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Eco-Friendly Methods</div>
-              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> 100% Guarantee</div>
+              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> DFW Service Coverage</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Insurance Claims Help</div>
             </div>
           </div>

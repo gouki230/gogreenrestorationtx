@@ -28,13 +28,11 @@ const breadcrumbs = [
 
 const localBusinessSchema = {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": `Go Green Restoration - ${city.name}`,
+  "@type": "Service",
+  "name": `Restoration services in ${city.name}, TX`,
   "url": `https://gogreenrestorationtx.com/locations/dfw-metro/${city.slug}/`,
-  "telephone": "+1-469-727-3217",
-  "address": { "@type": "PostalAddress", "addressLocality": city.name, "addressRegion": "TX", "postalCode": city.zips?.[0] || '', "addressCountry": "US" },
-  "areaServed": { "@type": "City", "name": city.name },
-  "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"], "opens": "00:00", "closes": "23:59" }
+  "provider": { "@id": "https://gogreenrestorationtx.com/#wylie" },
+  "areaServed": { "@type": "City", "name": city.name }
 };
 
 const serviceIcons: Record<string, string> = {
@@ -58,6 +56,7 @@ const serviceIcons: Record<string, string> = {
     <div class="mb-12 max-w-3xl">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Go Green Restoration in {city.name}</h2>
       <p class="text-brand-gray-600 leading-relaxed">Go Green Restoration Inc provides comprehensive property restoration services to {city.name} and the surrounding DFW metroplex. With 24/7 emergency response, eco-friendly methods, and a commitment to quality, we're the trusted choice for residential and commercial restoration in {city.name}.</p>
+      <p class="text-brand-gray-600 mt-4">We serve {city.name} from our Wylie location. <a href={`/mold-remediation/${city.slug}/`} class="text-brand-brown underline">Explore small-area mold cleanup in {city.name}</a> and contact us to discuss your property.</p>
       {city.commonIssues && <p class="text-brand-gray-600 leading-relaxed mt-4">{city.commonIssues}</p>}
     </div>
 

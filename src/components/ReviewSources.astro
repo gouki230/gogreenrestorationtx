@@ -1,0 +1,13 @@
+---
+const profiles = [
+  { label: 'Google profile 1', url: 'https://share.google/OsKMTrVF4uN7x1nXu' },
+  { label: 'Google profile 2', url: 'https://share.google/ZcsTnNpGL9HHc2Tvu' },
+  { label: 'Google profile 3', url: 'https://share.google/eTddVuQB3a0WKNHAg' },
+];
+---
+<div class="rounded-2xl bg-brand-warm p-6 sm:p-10">
+  <p class="text-lg text-brand-gray-700 mb-6">Explore customer feedback on Go Green Restoration's Google profiles. Each profile shows its own reviews and business details.</p>
+  <div class="flex flex-wrap gap-4">
+    {profiles.map(profile => <a href={profile.url} target="_blank" rel="noopener noreferrer" class="inline-block bg-white border border-brand-warm-200 text-brand-brown font-bold px-5 py-3 rounded-lg hover:underline">{profile.label} <span aria-hidden="true">↗</span></a>)}
+  </div>
+</div>
