@@ -4,7 +4,6 @@
 User-agent: *
 Allow: /
 Disallow: /api/
-Disallow: /_astro/
 Disallow: /search
 
 # Sitemaps

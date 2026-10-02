@@ -1,0 +1,98 @@
+{
+  "hoa-restoration-services": {
+    "name": "HOA Property Restoration Services in DFW",
+    "title": "HOA Property Restoration Services in DFW | Go Green",
+    "description": "Restoration planning for DFW HOAs and condo associations: affected-unit access, common areas, board approvals, cleanup and repair estimates. Serving from Wylie.",
+    "intro": "When damage affects a community, the board needs a clear work scope and someone authorized to approve it. Go Green Restoration serves DFW homeowners associations and condominium communities from Wylie. Contact us to discuss water, fire, sewage cleanup, repairs, or small-area mold cleanup within our current scope.",
+    "sections": [
+      [
+        "Start with the affected property and approval contact",
+        "Tell us the community address, affected buildings or units, when the damage was noticed, and whether the source is still active. Identify the board representative or manager who can authorize access and approve an estimate. If a plumber, roofer, or other provider is already involved, share what has been checked and which repairs remain open."
+      ],
+      [
+        "Common areas and individual units",
+        "A shared hallway, a clubhouse, and the inside of an individual unit may involve different decision makers. List each affected space in the proposed scope rather than treating the whole community as a single job. The association should confirm responsibilities under its governing documents with its manager, insurer, or adviser; a restoration estimate does not decide who is responsible for a loss."
+      ],
+      [
+        "Access and communication before work begins",
+        "Agree on access windows, keys or entry arrangements, resident notices, parking, and equipment locations. Identify who should receive updates and how changes will be approved. For occupied buildings, discuss which work areas need separation and which routes or rooms must remain accessible. Avoid committing residents to a reopening date before the work scope is established."
+      ],
+      [
+        "From cleanup to repair",
+        "Emergency cleanup, drying, and rebuilding have different milestones. Ask which materials are being evaluated, what removal is proposed, and what must happen before repair work starts. Discuss any community requirements for finishes and replacement materials during planning. Changes to finishes or added improvements should be recorded separately from the original damage repair."
+      ],
+      [
+        "Documentation for association records",
+        "Ask what photographs, estimates, invoices, and progress records will be provided. Keep records organized by building, unit, and common area where practical. Share your insurer\u2019s documentation requirements before work begins. The insurer determines coverage; neither a contractor estimate nor a photo guarantees payment."
+      ],
+      [
+        "Preparing a community restoration request",
+        "Have a site contact, property address, description of affected spaces, access instructions, and existing reports ready. Discuss vendor onboarding requirements during the call. Pricing, dispatch availability, and reporting arrangements are confirmed for the project; they are not assumed benefits of a standing vendor agreement."
+      ]
+    ],
+    "other": "property-management-restoration",
+    "otherLabel": "Restoration planning for property managers",
+    "faqs": [
+      {
+        "question": "What affects the estimate?",
+        "answer": "The affected materials, access, equipment, removal and disposal, and later repairs influence the scope. Ask for mitigation and reconstruction to be itemized separately, with a written process for approving additional work. Coverage and payment responsibilities should be confirmed with your insurer and the people authorized to approve work."
+      },
+      {
+        "question": "How quickly can you arrive?",
+        "answer": "For emergencies, we aim to arrive at the property within one hour. Call to confirm current crew availability and the arrival estimate for your address. Repair schedules are separate from emergency arrival and depend on the agreed scope."
+      },
+      {
+        "question": "What mold work is available?",
+        "answer": "Our current mold cleanup scope is less than 25 contiguous square feet. Larger areas and work outside that scope are referred to a TDLR-licensed remediator. A service estimate is not independent mold assessment or clearance testing."
+      }
+    ]
+  },
+  "property-management-restoration": {
+    "name": "Restoration Services for DFW Property Managers",
+    "title": "Property Manager Restoration Services in DFW | Go Green",
+    "description": "Restoration for DFW property managers: access planning, tenant coordination, documented scope, cleanup and repairs. Discuss your property with our Wylie team.",
+    "intro": "A property manager needs to coordinate the owner, occupants, and the work itself. Go Green Restoration serves managed properties throughout DFW from Wylie. Tell us the property type, affected spaces, and approval requirements so we can discuss cleanup and repairs with a clear point of contact.",
+    "sections": [
+      [
+        "Information for the first call",
+        "Share the property address, affected unit or common area, when the damage was noticed, and whether water or another source is still active. Identify the person authorized to approve work and the contact who can arrange access. Existing inspection findings and repair records can help explain what has already been addressed."
+      ],
+      [
+        "Tenant access and occupied spaces",
+        "Before scheduling work, agree on entry arrangements, notice requirements, access windows, and the manager\u2019s communication process. Explain any accessibility needs or restrictions that affect the work area. Discuss equipment placement, work-area separation, and which spaces may be unavailable; occupancy decisions may require input from the relevant professionals or authorities."
+      ],
+      [
+        "Keep source repair and restoration coordinated",
+        "A plumbing or roof repair and the resulting property cleanup can require separate providers and scopes. Establish who is handling each task. Ask how moisture concerns, material removal, cleaning, drying review, and reconstruction fit together so new finishes are not scheduled before preceding work is ready."
+      ],
+      [
+        "Document changes and owner approvals",
+        "Request an itemized estimate, exclusions, and a change-approval process. Identify any spending limits or required owner approval before work begins. If additional damage is found, agree on the revised scope rather than assuming it is covered by the original authorization. Your insurer determines policy coverage."
+      ],
+      [
+        "Plan repairs and optional upgrades separately",
+        "Replacing damaged materials and changing finishes are different budget decisions. Clarify material allowances, selections, and any inspections or specialty trades involved. Procurement and approvals can affect the repair schedule, so a target emergency arrival time should not be treated as a completion promise."
+      ],
+      [
+        "Organize records for the next person",
+        "Keep estimates, approved changes, photographs, invoices, and available completion records together for the property. Discuss reporting needs during intake, including how records should identify units or common areas. For multiple properties, confirm scope and commercial terms for each request; do not assume a portfolio discount or priority dispatch arrangement."
+      ]
+    ],
+    "other": "hoa-restoration-services",
+    "otherLabel": "HOA property restoration and board coordination",
+    "faqs": [
+      {
+        "question": "What affects the estimate?",
+        "answer": "The affected materials, access, equipment, removal and disposal, and later repairs influence the scope. Ask for mitigation and reconstruction to be itemized separately, with a written process for approving additional work. Coverage and payment responsibilities should be confirmed with your insurer and the people authorized to approve work."
+      },
+      {
+        "question": "How quickly can you arrive?",
+        "answer": "For emergencies, we aim to arrive at the property within one hour. Call to confirm current crew availability and the arrival estimate for your address. Repair schedules are separate from emergency arrival and depend on the agreed scope."
+      },
+      {
+        "question": "What mold work is available?",
+        "answer": "Our current mold cleanup scope is less than 25 contiguous square feet. Larger areas and work outside that scope are referred to a TDLR-licensed remediator. A service estimate is not independent mold assessment or clearance testing."
+      }
+    ]
+  }
+}

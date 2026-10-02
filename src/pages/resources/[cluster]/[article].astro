@@ -2,6 +2,7 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import articles from '../../../data/blog-articles.json';
+import cities from '../../../data/cities-dfw-metro.json';
 
 const clusterData: Record<string, { name: string; serviceSlug: string | null; serviceName: string | null }> = {
   'water-damage': { name: 'Water Damage', serviceSlug: 'water-damage-restoration', serviceName: 'Water Damage Restoration' },
@@ -21,6 +22,7 @@ export function getStaticPaths() {
 
 const { article } = Astro.props;
 const cluster = { slug: article.cluster, ...clusterData[article.cluster] };
+const articleCity = [...cities].sort((a,b)=>b.slug.length-a.slug.length).find(c=>article.slug.endsWith(`-${c.slug}`));
 const relatedArticles = articles.filter(a => a.cluster === article.cluster && a.slug !== article.slug).slice(0, 3);
 
 const title = `${article.title} | Go Green Restoration`;
@@ -97,6 +99,11 @@ function renderContent(content: string): string {
         )}
         <p class="text-lg text-brand-gray-600 mb-8 border-b border-brand-gray-200 pb-8">{article.description}</p>
 
+        {articleCity && cluster.serviceSlug && <aside class="bg-brand-warm rounded-xl p-5 mb-8">
+          <p>{cluster.slug === 'mold' ? 'Need help with visible mold? Our current cleanup scope is less than 25 contiguous square feet; independent assessment and larger remediation are separate services.' : `Need help at a ${articleCity.name} property? Review the service scope and contact our Wylie-based team to discuss access and availability.`}</p>
+          <a href={`/${cluster.serviceSlug}/${articleCity.slug}/`} class="inline-block mt-3 text-brand-brown underline">{cluster.slug === 'mold' ? 'Small-area mold cleanup' : cluster.serviceName} in {articleCity.name}</a>
+        </aside>}
+        {cluster.slug === 'hoa-property-management' && <p class="mb-8"><a href="/commercial/hoa-restoration-services/" class="text-brand-brown underline">HOA property restoration planning</a> · <a href="/commercial/property-management-restoration/" class="text-brand-brown underline">Restoration for property managers</a></p>}
         <div class="prose max-w-none" set:html={renderContent(article.content)} />
 
         <!-- CTA -->
@@ -133,7 +140,7 @@ function renderContent(content: string): string {
           {cluster.serviceSlug && (
             <div class="bg-brand-brown text-white rounded-xl p-6">
               <h3 class="font-heading font-bold text-lg mb-2">{cluster.serviceName}</h3>
-              <p class="text-brand-warm-200 text-sm mb-4">Professional services throughout Dallas-Fort Worth Counties.</p>
+              <p class="text-brand-warm-200 text-sm mb-4">Serving Dallas, Collin County, and wider DFW from Wylie.</p>
               <a href={`/services/${cluster.serviceSlug}/`} class="block bg-brand-green hover:bg-brand-green-light text-white font-bold text-center py-3 rounded-lg transition-colors">Learn More</a>
             </div>
           )}

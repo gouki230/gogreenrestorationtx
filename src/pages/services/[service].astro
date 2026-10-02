@@ -4,8 +4,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import services from '../../data/services.json';
 import dfwCities from '../../data/cities-dfw-metro.json';
 import ProjectPhotos from '../../components/ProjectPhotos.astro';
-import MoldServiceDetails from '../../components/MoldServiceDetails.astro';
-import { fillTemplate } from '../../utils/content';
+import pillarContent from '../../data/service-pillars.json';
 
 export function getStaticPaths() {
   return services.map((service) => ({
@@ -15,8 +14,8 @@ export function getStaticPaths() {
 }
 
 const { service } = Astro.props;
-const allCities = dfwCities;
-const dfwCitiesList = dfwCities.sort((a, b) => a.name.localeCompare(b.name));
+const pillar = pillarContent[service.slug as keyof typeof pillarContent];
+const dfwCitiesList = [...dfwCities].sort((a, b) => a.name.localeCompare(b.name));
 
 const isMold = service.slug === 'mold-remediation';
 const title = isMold ? 'Mold Removal in Dallas & Collin County | Small-Area Cleanup' : `${service.name} Services | Go Green Restoration Inc`;
@@ -98,7 +97,7 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
         <div>
           <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">{isMold ? 'Small-area mold removal in Dallas and Collin County' : service.name}</h1>
           <p class="text-lg text-brand-warm-200 max-w-3xl mb-6">
-            24/7 emergency {service.shortName.toLowerCase()} services throughout the Dallas–Fort Worth metroplex. Bonded, insured, and EPA Lead-Safe certified.
+            {isMold ? 'Small-area cleanup for less than 25 contiguous square feet, with larger work referred to a TDLR-licensed remediator. Serving DFW from Wylie.' : 'Discuss your property, the work needed, and the next step with our Wylie-based team serving Dallas–Fort Worth.'}
           </p>
           <a href="tel:+14697273217" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">
             Call Now: (469) 727-3217
@@ -115,11 +114,11 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
 
   <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
     <!-- Overview with Images -->
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
+    <div class:list={["grid grid-cols-1 gap-12 items-center mb-16", {"lg:grid-cols-2": images.length > 0}]}>
       <div>
         <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">About Our {service.name} Services</h2>
         <p class="text-brand-gray-600 leading-relaxed mb-4">
-          {service.introTemplates[0].replace(/\{city\}/g, 'Dallas–Fort Worth').replace(/\{county\}/g, 'the surrounding DFW communities')}
+          {pillar.intro}
         </p>
       </div>
       {images.length > 0 && (
@@ -131,11 +130,33 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
       )}
     </div>
 
-    {isMold && <MoldServiceDetails />}
+    <nav aria-label="On this page" class="bg-brand-gray-50 rounded-xl p-6 mb-12">
+      <p class="font-heading font-bold mb-3">On this page</p>
+      <ul class="flex flex-wrap gap-x-6 gap-y-3">
+        {pillar.sections.map(section => <li><a class="text-brand-brown underline" href={`#${section.id}`}>{section.title}</a></li>)}
+        <li><a class="text-brand-brown underline" href="#process">Our process</a></li>
+        <li><a class="text-brand-brown underline" href="#service-areas">Service areas</a></li>
+        <li><a class="text-brand-brown underline" href="#questions">FAQs</a></li>
+      </ul>
+    </nav>
+    <div class="max-w-4xl space-y-10 mb-16">
+      {pillar.sections.map(section => (
+        <section id={section.id} class="scroll-mt-32">
+          <h2 class="font-heading text-2xl font-bold mb-4">{section.title}</h2>
+          {section.paragraphs.map(paragraph => <p class="text-brand-gray-600 leading-relaxed mb-4">{paragraph}</p>)}
+          {'source' in section && section.source && <a href={section.source.url} class="text-brand-brown underline">{section.source.label}</a>}
+        </section>
+      ))}
+    </div>
+    {isMold && <aside class="bg-brand-warm rounded-xl p-6 mb-12">
+      <h2 class="font-heading text-2xl font-bold mb-3">Discuss your Dallas or Collin County property</h2>
+      <p class="text-brand-gray-700 mb-4">Call with your city, the affected room, and any known leak history. For emergencies, we aim to arrive within one hour; we confirm current availability and arrival time for your address.</p>
+      <a href="/contact/" class="text-brand-brown underline font-bold">Request a small-area mold cleanup estimate</a>
+    </aside>}
     {isMold && <ProjectPhotos />}
 
     <!-- Process Steps -->
-    <div class="mb-16">
+    <div id="process" class="mb-16 scroll-mt-32">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-8">Our {service.shortName} Process</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {service.processSteps.map((step, index) => (
@@ -162,9 +183,10 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
     </div>
 
     <!-- Service Areas -->
-    <div class="mb-16">
+    <div id="service-areas" class="mb-16 scroll-mt-32">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">{service.name} Service Areas</h2>
 
+      <p class="text-brand-gray-600 mb-4">We serve Dallas, Collin County, and the wider DFW metroplex from our Wylie location. Select your city for service information and call to confirm scheduling for your address.</p>
       <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
       <div class="flex flex-wrap gap-2 mb-8">
         {dfwCitiesList.map((city) => (
@@ -176,7 +198,7 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
     </div>
 
     <!-- FAQ -->
-    <div class="mb-16">
+    <div id="questions" class="mb-16 scroll-mt-32">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Frequently Asked Questions</h2>
       <div class="space-y-4 max-w-3xl">
         {service.faqTemplates.map((faq) => (

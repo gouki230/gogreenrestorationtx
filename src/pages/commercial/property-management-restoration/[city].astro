@@ -18,7 +18,7 @@ const allCities = dfwCities;
 const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 5);
 
 const title = `Property Management Restoration in ${city.name}, TX | Go Green Restoration`;
-const description = `Property management restoration services in ${city.name}, ${city.county}. Tenant coordination, multi-unit response, portfolio pricing. Bonded & insured, EPA Lead-Safe certified.`;
+const description = `Property management restoration services in ${city.name}, ${city.county}. Tenant coordination, multi-unit response, project estimates. Bonded & insured, EPA Lead-Safe certified.`;
 const breadcrumbs = [
   { name: 'Home', url: '/' },
   { name: 'Commercial', url: '/commercial/' },
@@ -35,7 +35,7 @@ const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', s
   <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
     <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
       <h1 class="font-heading text-3xl lg:text-4xl xl:text-5xl font-black mb-4">Property Management Restoration in {city.name}, TX</h1>
-      <p class="text-lg text-brand-warm-200 mb-6">Tenant Coordination | Portfolio Pricing | 24/7 Emergency</p>
+      <p class="text-lg text-brand-warm-200 mb-6">Tenant Coordination | Project Estimates | 24/7 Emergency</p>
       <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">Schedule a Property Assessment</a>
     </div>
   </section>
@@ -43,13 +43,15 @@ const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', s
   <div class="max-w-7xl mx-auto px-4 py-12">
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
       <div class="lg:col-span-2">
+        <p class="mb-6 text-brand-gray-600">Serving {city.name} from our Wylie office. <a href="/commercial/property-management-restoration/" class="text-brand-brown underline">Read our DFW restoration planning guide</a> for access, documentation, estimates, and approval details.</p>
         <div class="mb-12">
           <p class="text-lg text-brand-gray-600 leading-relaxed mb-4">Go Green Restoration provides specialized restoration services for property managers and apartment building owners in {city.name}, {city.county}. We understand the urgency and complexity of managing restoration in tenant-occupied properties.</p>
           <p class="text-brand-gray-600 leading-relaxed">Our team handles tenant communication, coordinates access across multiple units, and provides detailed damage reports for your property records and insurance files.</p>
         </div>
 
         {city.commonIssues && (
-          <section class="mb-12">
+          <p class="mb-6 text-brand-gray-600">Mold cleanup is limited to less than 25 contiguous square feet. We refer larger work to a TDLR-licensed remediator; an estimate is not independent mold assessment.</p>
+        <section class="mb-12">
             <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Property Management Considerations in {city.name}</h2>
             <p class="text-brand-gray-600 leading-relaxed">{city.commonIssues} For property managers in {city.name}, these risks require proactive maintenance programs and reliable emergency restoration partnerships.</p>
           </section>
@@ -74,9 +76,9 @@ const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', s
           <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Property Manager Benefits</h2>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Tenant Communication</h3><p class="text-sm text-brand-gray-600">Direct coordination with affected tenants.</p></div>
-            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Portfolio Pricing</h3><p class="text-sm text-brand-gray-600">Multi-property pricing agreements.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Project Estimates</h3><p class="text-sm text-brand-gray-600">Confirm scope and pricing for each property.</p></div>
             <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Detailed Reporting</h3><p class="text-sm text-brand-gray-600">Comprehensive documentation for records.</p></div>
-            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Priority Response</h3><p class="text-sm text-brand-gray-600">Dedicated emergency line for PMs.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Emergency Availability</h3><p class="text-sm text-brand-gray-600">Call to confirm crew availability and arrival time.</p></div>
           </div>
         </section>
       </div>

@@ -45,7 +45,7 @@ const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', s
   <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
     <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
       <h1 class="font-heading text-3xl lg:text-4xl xl:text-5xl font-black mb-4">HOA Restoration Services in {city.name}, TX</h1>
-      <p class="text-lg text-brand-warm-200 mb-6">Multi-Unit Specialists | CC&R Compliance | Preferred Vendor Programs</p>
+      <p class="text-lg text-brand-warm-200 mb-6">Multi-Unit Specialists | CC&R Compliance | Vendor Requirements</p>
       <a href="/contact/" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">Schedule a Property Assessment</a>
     </div>
   </section>
@@ -53,13 +53,15 @@ const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', s
   <div class="max-w-7xl mx-auto px-4 py-12">
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
       <div class="lg:col-span-2">
+        <p class="mb-6 text-brand-gray-600">Serving {city.name} from our Wylie office. <a href="/commercial/hoa-restoration-services/" class="text-brand-brown underline">Read our DFW restoration planning guide</a> for access, documentation, estimates, and approval details.</p>
         <div class="mb-12">
           <p class="text-lg text-brand-gray-600 leading-relaxed mb-4">Go Green Restoration provides specialized HOA restoration services throughout {city.name}, {city.county}. We understand the unique needs of homeowners associations, from coordinating multi-unit restoration projects to ensuring compliance with your community's CC&Rs.</p>
-          <p class="text-brand-gray-600 leading-relaxed">Our dedicated HOA team offers a single point of contact for board members, detailed documentation for association records, and preferred vendor programs with priority response times for {city.name} communities.</p>
+          <p class="text-brand-gray-600 leading-relaxed">Before work begins, discuss the approval contact, access arrangements, and documentation needed for your {city.name} community. Confirm crew availability and the proposed scope when requesting an estimate.</p>
         </div>
 
         {city.commonIssues && (
-          <section class="mb-12">
+          <p class="mb-6 text-brand-gray-600">Mold cleanup is limited to less than 25 contiguous square feet. We refer larger work to a TDLR-licensed remediator; an estimate is not independent mold assessment.</p>
+        <section class="mb-12">
             <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">HOA Considerations in {city.name}</h2>
             <p class="text-brand-gray-600 leading-relaxed">{city.commonIssues} For HOAs and condominium associations in {city.name}, these risks are amplified by shared infrastructure and common areas that can affect multiple units simultaneously.</p>
           </section>
@@ -83,10 +85,10 @@ const serviceIcons: Record<string, string> = { droplet: '💧', flame: '🔥', s
         <section class="mb-12">
           <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Why {city.name} HOAs Choose Go Green</h2>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Board Communication</h3><p class="text-sm text-brand-gray-600">Detailed reports and dedicated contact for your HOA board.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Board Communication</h3><p class="text-sm text-brand-gray-600">Agree on the board contact and reporting needs.</p></div>
             <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">CC&R Compliance</h3><p class="text-sm text-brand-gray-600">All work meets your community's standards and specifications.</p></div>
             <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Multi-Unit Coordination</h3><p class="text-sm text-brand-gray-600">Expert coordination across affected units and common areas.</p></div>
-            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Preferred Vendor Programs</h3><p class="text-sm text-brand-gray-600">Priority response and preferred pricing for partner HOAs.</p></div>
+            <div class="bg-brand-warm-100 rounded-xl p-5"><h3 class="font-bold mb-1">Vendor Requirements</h3><p class="text-sm text-brand-gray-600">Confirm onboarding, access, and approval requirements.</p></div>
           </div>
         </section>
       </div>

@@ -226,6 +226,12 @@ const heroImage = service.image
 
 
         {service.slug === 'mold-remediation' && <MoldServiceDetails city={city.name} />}
+        {service.slug === 'water-damage-restoration' && city.slug === 'lewisville' && <section class="my-12 bg-brand-warm rounded-xl p-6">
+          <h2 class="font-heading text-2xl font-bold mb-4">Water extraction and drying in Lewisville</h2>
+          <p class="mb-4">Describe where the water entered, when it was noticed, and which rooms or floors are affected. Removing standing water and drying affected materials are separate parts of the proposed work. Ask how flooring, cabinets, and wall cavities will be evaluated and how drying progress will be recorded.</p>
+          <p class="mb-4">An estimate should distinguish extraction, equipment, monitoring, removal and disposal, and later repairs. Tell us whether a plumber or roofer has addressed the source. We aim for one-hour emergency arrival; call to confirm availability for your address.</p>
+          <a class="text-brand-brown underline" href="/resources/water-damage/structural-drying-and-mold-prevention-lewisville/">Read about structural drying after water extraction</a>
+        </section>}
         {service.slug === 'mold-remediation' && <ProjectPhotos city={city.slug} />}
 
         <!-- Process Steps -->
