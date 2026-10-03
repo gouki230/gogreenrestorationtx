@@ -7,6 +7,9 @@ import cities from '../data/cities-dfw-metro.json';
 interface Props { slug: keyof typeof content; }
 const { slug } = Astro.props;
 const page = content[slug];
+const isHoa = slug === 'hoa-restoration-services';
+const estimateUrl = isHoa ? '/contact/#hoa-estimate' : '/contact/';
+const estimateLabel = isHoa ? 'Request an HOA restoration estimate' : 'Request an estimate';
 const path = `/commercial/${slug}/`;
 const schema = { '@context':'https://schema.org', '@type':'Service', name:page.name, url:`https://gogreenrestorationtx.com${path}`, provider:{'@id':'https://gogreenrestorationtx.com/#wylie'}, areaServed:{'@type':'AdministrativeArea',name:'Dallas–Fort Worth Metroplex'} };
 ---
@@ -16,10 +19,10 @@ const schema = { '@context':'https://schema.org', '@type':'Service', name:page.n
     <div class="max-w-7xl mx-auto px-4 py-16">
       <h1 class="font-heading text-3xl lg:text-5xl font-black mb-6">{page.name}</h1>
       <p class="max-w-3xl text-lg leading-relaxed mb-6">{page.intro}</p>
-      <a href="/contact/" class="inline-block bg-brand-green rounded-lg px-6 py-3 font-bold">Discuss your restoration project</a>
+      <a href={estimateUrl} class="inline-block bg-white text-brand-brown border border-white rounded-lg px-6 py-3 font-bold">{isHoa ? estimateLabel : 'Discuss your restoration project'}</a>
     </div>
   </section>
-  <main class="max-w-7xl mx-auto px-4 py-12">
+  <div class="max-w-7xl mx-auto px-4 py-12">
     <nav aria-label="On this page" class="bg-brand-gray-50 rounded-xl p-6 mb-10">
       <ul class="flex flex-wrap gap-4">{page.sections.map(([heading],i)=><li><a class="text-brand-brown underline" href={`#planning-${i}`}>{heading}</a></li>)}</ul>
     </nav>
@@ -32,7 +35,12 @@ const schema = { '@context':'https://schema.org', '@type':'Service', name:page.n
     </section>
     <section class="max-w-4xl mb-12"><h2 class="font-heading text-2xl font-bold mb-6">Questions before approving work</h2>{page.faqs.map(f=><details class="bg-brand-gray-50 rounded-xl p-6 mb-3"><summary class="font-bold cursor-pointer">{f.question}</summary><p class="mt-4 leading-relaxed">{f.answer}</p></details>)}</section>
     <section class="mb-12"><h2 class="font-heading text-2xl font-bold mb-4">Serving Dallas, Collin County, and wider DFW</h2><p class="mb-5">Our office is in Wylie. Select a city for local service information and call to confirm availability for your property.</p><div class="flex flex-wrap gap-3">{[...cities].sort((a,b)=>a.name.localeCompare(b.name)).map(c=><a href={`${path}${c.slug}/`} class="text-brand-brown underline">{c.name}</a>)}</div></section>
+    {isHoa && <section class="max-w-4xl mb-12">
+      <h2 class="font-heading text-2xl font-bold mb-4">Planning the next stage</h2>
+      <p class="mb-4 leading-relaxed">For a community repair project, our <a href="/resources/home-restoration/reconstruction-after-major-damage-dallas/" class="text-brand-brown underline">guide to reconstruction after major damage</a> explains the transition from cleanup to rebuilding. Keep the association’s approvals and finish selections alongside the proposed repair scope.</p>
+      <p class="leading-relaxed">Managing rentals for an owner? See our <a href="/commercial/property-management-restoration/" class="text-brand-brown underline">property manager restoration guide</a> for tenant access and owner approvals. For business premises, start with <a href="/commercial/commercial-properties/" class="text-brand-brown underline">commercial property restoration</a>.</p>
+    </section>}
     <p class="mb-10"><a href={`/commercial/${page.other}/`} class="text-brand-brown underline">{page.otherLabel}</a></p>
-    <aside class="bg-brand-brown text-white rounded-xl p-8"><h2 class="font-heading text-2xl font-bold mb-4">Request an estimate for your property</h2><p class="mb-5">Share your address, affected spaces, and access or approval requirements.</p><a class="inline-block bg-brand-green rounded-lg px-6 py-3 font-bold mr-4" href="/contact/">Request an estimate</a><a class="inline-block underline py-3" href="tel:+14697273217">Call (469) 727-3217</a></aside>
-  </main>
+    <aside class="bg-brand-brown text-white rounded-xl p-8"><h2 class="font-heading text-2xl font-bold mb-4">{isHoa ? 'Request an HOA restoration estimate' : 'Request an estimate for your property'}</h2><p class="mb-5">Share your address, affected spaces, and access or approval requirements.</p><a class="inline-block bg-white text-brand-brown border border-white rounded-lg px-6 py-3 font-bold mr-4" href={estimateUrl}>{estimateLabel}</a><a class="inline-block underline py-3" href="tel:+14697273217">Call (469) 727-3217</a></aside>
+  </div>
 </BaseLayout>
