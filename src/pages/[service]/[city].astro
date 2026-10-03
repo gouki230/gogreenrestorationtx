@@ -1,4 +1,5 @@
 ---
+import moldAnswers from '../../data/mold-customer-answers.json';
 import PriorityMoldCity from '../../components/PriorityMoldCity.astro';
 import ProjectPhotos from '../../components/ProjectPhotos.astro';
 import MoldServiceDetails from '../../components/MoldServiceDetails.astro';
@@ -35,7 +36,7 @@ const processSteps = service.processSteps.map((s, i) => ({
   description: `${fillTemplate(s.description, city.name, city.county)} ${service.slug === 'mold-remediation' ? '' : getStepContext(city, i, service.shortName)}`,
 }));
 const faqs = [
-  ...service.faqTemplates.map(f => ({
+  ...service.faqTemplates.filter(f => service.slug !== 'mold-remediation' || (!f.question.startsWith('Do you offer mold testing') && !f.question.startsWith('What affects mold cleanup cost'))).map(f => ({
     question: fillTemplate(f.question, city.name, city.county),
     answer: fillTemplate(f.answer, city.name, city.county),
   })),
@@ -123,7 +124,7 @@ const serviceSchema = {
 const faqSchema = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": faqs.map(f => ({
+  "mainEntity": [...faqs, ...(service.slug === 'mold-remediation' ? moldAnswers.map(item => ({ question: item.question, answer: `${item.answer} ${item.detail}` })) : [])].map(f => ({
     "@type": "Question",
     "name": f.question,
     "acceptedAnswer": {

@@ -1,19 +1,20 @@
 ---
+import answers from '../data/mold-customer-answers.json';
 interface Props { city?: string; }
 const { city } = Astro.props;
 const cities = ['Dallas', 'Plano', 'McKinney', 'Frisco', 'Allen', 'Prosper', 'Wylie'];
 ---
-<section class="my-12 rounded-xl bg-brand-warm p-6 sm:p-8">
+<section id="mold-cleanup-questions" class="scroll-mt-32 my-12 rounded-xl bg-brand-warm p-6 sm:p-8">
   <h2 class="font-heading text-2xl font-bold mb-4">Planning mold cleanup{city ? ` in ${city}` : ' in Dallas and Collin County'}</h2>
   <p class="text-brand-gray-700 mb-4">Contact us about your mold problem, whether you know the size of the affected area or are unsure how far it extends. We handle cleanup within our current scope of less than 25 contiguous square feet and route larger areas or work outside that scope to a TDLR-licensed remediator. EPA Lead-Safe certification is a separate credential, not a mold remediation license.</p>
-  <h3 class="font-heading text-lg font-bold mb-2">What to tell us when you call</h3>
-  <p class="text-brand-gray-700 mb-4">Tell us your city, where you see the growth, whether there has been a leak, and whether water is still entering the property. We will discuss access and the next step. A service estimate is not independent mold assessment or clearance testing.</p>
-  <h3 class="font-heading text-lg font-bold mb-2">Before approving small-area cleanup</h3>
-  <p class="text-brand-gray-700 mb-4">Ask which surfaces are included, whether materials may need removal, and who will handle repairs to the moisture source. Containment, filtration where appropriate, cleanup, disposal, and later rebuilding should be clear in the estimate. If additional affected material is discovered, the scope must be reviewed before more work is agreed.</p>
-  <h3 class="font-heading text-lg font-bold mb-2">Access and documentation</h3>
-  <p class="text-brand-gray-700 mb-4">Share the affected room, access instructions, and any existing assessment report. For a managed property, identify the person who can approve work. A photograph helps explain visible conditions but cannot establish the full extent of hidden growth or provide clearance.</p>
-  <h3 class="font-heading text-lg font-bold mb-2">What affects the estimate and schedule?</h3>
-  <p class="text-brand-gray-700 mb-4">The affected materials, access to the area, moisture source, and any repairs affect the work required. Ask which cleanup, drying, and repair tasks are included in your written estimate. We confirm scope and scheduling before work begins.</p>
+  <div class="space-y-8 my-8">
+    {answers.map(item => <section>
+      <h3 class="font-heading text-xl font-bold mb-3">{item.question}</h3>
+      <p class="text-brand-gray-900 font-semibold leading-relaxed mb-3">{item.answer}</p>
+      <p class="text-brand-gray-700 leading-relaxed">{item.detail}</p>
+    </section>)}
+  </div>
+  <p class="text-sm text-brand-gray-700 mb-5">For Texas assessment and remediation guidance, see the <a href="https://www.tdlr.texas.gov/mld/mldfaq.htm" class="text-brand-brown underline">TDLR mold FAQs</a>.</p>
   <p class="text-brand-gray-700 mb-4">We serve DFW from our Wylie location. For emergencies, we aim to arrive at the property within one hour; call to confirm current availability and arrival time.</p>
   <a href="/contact/" class="inline-block bg-brand-green text-white font-bold px-5 py-3 rounded-lg hover:bg-brand-green-light">Discuss your mold problem</a>
   {city ? <p class="mt-5"><a href="/services/mold-remediation/" class="text-brand-brown underline">Read about our DFW mold cleanup service</a></p> : <div class="mt-6"><h3 class="font-heading text-lg font-bold mb-3">Dallas and Collin County service areas</h3><div class="flex flex-wrap gap-3">{cities.map(name => <a href={`/mold-remediation/${name.toLowerCase()}/`} class="text-brand-brown underline">Mold cleanup in {name}</a>)}</div></div>}
