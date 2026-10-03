@@ -7,17 +7,13 @@ const bgClass = variant === 'dark' ? 'bg-white/10 border-white/20 text-white' : 
 const subClass = variant === 'dark' ? 'text-white/70' : 'text-brand-gray-600';
 
 const badges = [
-  // TODO: swap src for the official EPA Lead-Safe Certified Firm logo
-  { src: '/images/badges/shield-check.png', label: 'EPA Lead-Safe', sub: 'Certified Firm', alt: 'EPA Lead-Safe Certified Firm', tall: false },
-  { src: '/images/badges/iicrc-logo.jpg', label: 'IICRC Certified', sub: 'Certified Technicians', alt: 'IICRC Certified Restoration Technicians', tall: false },
-  { src: '/images/badges/shield-check.png', label: 'Bonded & Insured', sub: 'Full Coverage', alt: 'Fully Bonded and Insured', tall: true },
-  { src: '/images/badges/clock-24-7.png', label: '24/7 Emergency', sub: '60-Min Response', alt: '24/7 Emergency Response Available', tall: true },
-  { src: '/images/badges/eco-leaf.png', label: 'Eco-Friendly', sub: 'Green Methods', alt: 'Eco-Friendly Restoration Methods', tall: true },
-  { src: '/images/badges/google-logo.png', label: '5.0 Stars', sub: '28+ Reviews', alt: '5-Star Google Rating', tall: false },
+  { src: '/images/badges/shield-check.png', label: 'Wylie Based', sub: 'Serving DFW', alt: '', tall: true },
+  { src: '/images/badges/clock-24-7.png', label: '24/7 Emergency', sub: 'Call for Availability', alt: '', tall: true },
+  { src: '/images/badges/google-logo.png', label: 'Customer Reviews', sub: 'See Our Review Sources', alt: '', tall: false },
 ];
 ---
 
-<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+<div class="grid grid-cols-2 md:grid-cols-3 gap-4">
   {badges.map((badge) => (
     <div class={`flex flex-col items-center text-center p-4 rounded-xl border shadow-sm hover:shadow-md transition-shadow ${bgClass}`}>
       <img

@@ -2,7 +2,7 @@
   {
     "city": "Arlington",
     "slug": "arlington",
-    "title": "Bathroom mold remediation project in Arlington",
+    "title": "Arlington bathroom mold remediation",
     "description": "Photos from Go Green Restoration's bathroom mold remediation project in Arlington, Texas.",
     "images": [
       {
@@ -29,12 +29,29 @@
         "alt": "Bathroom wall opening exposing framing and plumbing in Arlington.",
         "caption": "Bathroom wall opening exposing framing and plumbing in Arlington."
       }
+    ],
+    "caseSlug": "arlington-bathroom-mold-remediation",
+    "completed": "August 2026",
+    "cause": "The water-supply line serving the sink was the source of the leak. This project involved the bathroom wall, so the work went beyond cleaning a spot on a visible surface.",
+    "work": "We contained the bathroom before demolishing the affected wall and removing mold-affected material. We then cleaned the work area using remediation procedures and equipment. The photos show the doorway containment, equipment and the opened wall around the plumbing.",
+    "outcome": "Our team reports that the mold had been removed and the bathroom was ready for reconstruction when the cleanup was finished. Reconstruction was the next step, rather than part of the completed work shown here. No independent clearance result is included in this account.",
+    "resultLabel": "Ready for reconstruction",
+    "intro": "A leak in the bathroom sink’s water-supply line led to mold at this Arlington property. Our team contained the bathroom, removed affected wall material and cleaned the work area. The project was completed in August 2026, leaving the bathroom ready for reconstruction.",
+    "causeHeading": "A leak at the bathroom sink",
+    "workHeading": "Opening the wall and cleaning the work area",
+    "outcomeHeading": "Ready for the next stage",
+    "relatedGuides": [
+      {
+        "slug": "bathroom-and-shower-mold-cleanup-arlington",
+        "label": "Bathroom mold: checking for leaks and moisture",
+        "context": "Understand why a plumbing leak and everyday shower moisture call for different questions."
+      }
     ]
   },
   {
     "city": "Dallas",
     "slug": "dallas",
-    "title": "Kitchen mold remediation project in Dallas",
+    "title": "Dallas kitchen and laundry mold remediation",
     "description": "Photos from Go Green Restoration's kitchen mold remediation project in Dallas, Texas.",
     "images": [
       {
@@ -60,6 +77,28 @@
         "height": 960,
         "alt": "Kitchen work area with opened walls and portable restoration equipment in Dallas.",
         "caption": "Kitchen work area with opened walls and portable restoration equipment in Dallas."
+      }
+    ],
+    "caseSlug": "dallas-kitchen-laundry-mold-remediation",
+    "completed": "September 2026",
+    "cause": "In the kitchen, the leak came from the P-trap, the curved section of drainpipe below the sink. In the laundry area, water was leaking at the supply connections. Both areas were part of the remediation project.",
+    "work": "We contained the affected space before proceeding with demolition and mold removal. The work included removing mold-affected materials and using remediation equipment during cleanup. The kitchen photos below show the containment, opened walls and equipment in the work area.",
+    "outcome": "Our team reports that the mold was removed and that the project passed testing by an independent mold consultant and laboratory. The testing reports are not included in this project account.",
+    "resultLabel": "Independent testing reported",
+    "intro": "This Dallas project involved mold in two parts of the home: the kitchen and the laundry area. A leaking P-trap under the kitchen sink and leaking laundry water connections were the sources of the problem. Our team completed the remediation work in September 2026.",
+    "causeHeading": "Two leaks, two affected areas",
+    "workHeading": "Containing the space and removing affected material",
+    "outcomeHeading": "The result after cleanup",
+    "relatedGuides": [
+      {
+        "slug": "preventing-mold-after-a-water-leak-dallas",
+        "label": "What to do after a water leak",
+        "context": "If you have just found a leak, start with the steps to take before the damage spreads."
+      },
+      {
+        "slug": "spotting-small-mold-problems-early-dallas",
+        "label": "Signs of a possible mold problem",
+        "context": "Learn what to notice around sink cabinets, walls and other damp areas."
       }
     ]
   }

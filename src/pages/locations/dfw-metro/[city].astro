@@ -4,6 +4,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import CityMap from '../../../components/CityMap.astro';
 import services from '../../../data/services.json';
 import dfwCities from '../../../data/cities-dfw-metro.json';
+import { getCityGuides } from '../../../utils/internal-links';
 import { getNearbyCities } from '../../../utils/content';
 
 export function getStaticPaths() {
@@ -14,6 +15,7 @@ export function getStaticPaths() {
 }
 
 const { city } = Astro.props;
+const cityGuides = getCityGuides(city.slug);
 const allCities = dfwCities;
 const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 6);
 
@@ -55,8 +57,8 @@ const serviceIcons: Record<string, string> = {
     <!-- City Overview -->
     <div class="mb-12 max-w-3xl">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Go Green Restoration in {city.name}</h2>
-      <p class="text-brand-gray-600 leading-relaxed">Go Green Restoration Inc provides comprehensive property restoration services to {city.name} and the surrounding DFW metroplex. With 24/7 emergency response, eco-friendly methods, and a commitment to quality, we're the trusted choice for residential and commercial restoration in {city.name}.</p>
-      <p class="text-brand-gray-600 mt-4">We serve {city.name} from our Wylie location. <a href={`/mold-remediation/${city.slug}/`} class="text-brand-brown underline">Explore small-area mold cleanup in {city.name}</a> and contact us to discuss your property.</p>
+      <p class="text-brand-gray-600 leading-relaxed">Go Green Restoration TX Inc provides comprehensive property restoration services to {city.name} and the surrounding DFW metroplex. With 24/7 emergency response, eco-friendly methods, and a commitment to quality, we're the trusted choice for residential and commercial restoration in {city.name}.</p>
+      <p class="text-brand-gray-600 mt-4">We serve {city.name} from our Wylie location. <a href={`/mold-remediation/${city.slug}/`} class="text-brand-brown underline">Explore mold removal and remediation help in {city.name}</a> and contact us to discuss your property.</p>
       {city.commonIssues && <p class="text-brand-gray-600 leading-relaxed mt-4">{city.commonIssues}</p>}
     </div>
 
@@ -75,6 +77,12 @@ const serviceIcons: Record<string, string> = {
         ))}
       </div>
     </div>
+
+    <section class="mb-12" aria-labelledby="city-guides">
+      <h2 id="city-guides" class="scroll-mt-40 font-heading text-2xl font-bold mb-4">Restoration guides for {city.name} property owners</h2>
+      <p class="text-brand-gray-600 mb-5">Start with the question closest to your situation. For more articles on a particular service, follow that service’s city page above.</p>
+      <ul class="grid sm:grid-cols-2 gap-4">{cityGuides.map(guide => <li class="bg-brand-gray-50 rounded-xl p-5"><p class="text-sm text-brand-gray-600 mb-2">{guide.serviceName}</p><a class="font-bold text-brand-brown underline" href={`/resources/${guide.cluster}/${guide.slug}/`}>{guide.title}</a></li>)}</ul>
+    </section>
 
     <!-- Commercial Services -->
     <div class="mb-12">

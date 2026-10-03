@@ -1,12 +1,13 @@
 ---
+import projects from '../data/texas-projects.json';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import services from '../data/services.json';
 import dfwCities from '../data/cities-dfw-metro.json';
 import articles from '../data/blog-articles.json';
 
-const title = 'Sitemap | Go Green Restoration Inc';
-const description = 'Complete sitemap of Go Green Restoration Inc. Browse all services, locations, and resources.';
+const title = 'Sitemap | Go Green Restoration TX Inc';
+const description = 'Complete sitemap of Go Green Restoration TX Inc. Browse all services, locations, and resources.';
 const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'Sitemap', url: '/sitemap/' }];
 
 const sortedCities = dfwCities.slice().sort((a, b) => a.name.localeCompare(b.name));
@@ -40,6 +41,11 @@ const clusters = [
           <li><a href="/insurance/" class="text-brand-gray-600 hover:text-brand-brown">Insurance Claims</a></li>
           <li><a href="/gallery/" class="text-brand-gray-600 hover:text-brand-brown">Gallery</a></li>
         </ul>
+      </div>
+
+      <div>
+        <h2 class="font-heading font-bold text-lg mb-3">Texas Project Stories</h2>
+        <ul class="space-y-2 text-sm">{projects.map(project => <li><a class="text-brand-gray-600 hover:text-brand-brown" href={`/projects/${project.caseSlug}/`}>{project.title}</a></li>)}</ul>
       </div>
 
       <!-- Services -->

@@ -4,6 +4,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import services from '../../data/services.json';
 import dfwCities from '../../data/cities-dfw-metro.json';
 import ProjectPhotos from '../../components/ProjectPhotos.astro';
+import { getPillarGuides } from '../../utils/internal-links';
 import pillarContent from '../../data/service-pillars.json';
 
 export function getStaticPaths() {
@@ -14,12 +15,13 @@ export function getStaticPaths() {
 }
 
 const { service } = Astro.props;
+const featuredGuides = getPillarGuides(service.slug);
 const pillar = pillarContent[service.slug as keyof typeof pillarContent];
 const dfwCitiesList = [...dfwCities].sort((a, b) => a.name.localeCompare(b.name));
 
 const isMold = service.slug === 'mold-remediation';
-const title = isMold ? 'Mold Removal in Dallas & Collin County | Small-Area Cleanup' : `${service.name} Services | Go Green Restoration Inc`;
-const description = isMold ? 'Small-area mold cleanup in Dallas, Collin County and DFW. Serving you from Wylie; larger projects referred to a TDLR-licensed remediator. Request an estimate.' : `Professional ${service.name.toLowerCase()} services throughout the Dallas–Fort Worth Metroplex. Bonded & insured, EPA Lead-Safe certified. 24/7 emergency response. Free estimates.`;
+const title = isMold ? 'DFW Mold Removal & Remediation Help | Go Green TX' : `${service.name} Services | Go Green Restoration TX Inc`;
+const description = isMold ? 'Discuss mold removal and remediation in Dallas, Collin County and DFW. Cleanup within our scope, with larger projects routed to a licensed remediator.' : `Professional ${service.name.toLowerCase()} services throughout the Dallas–Fort Worth Metroplex. Bonded & insured, EPA Lead-Safe certified. 24/7 emergency response. Free estimates.`;
 
 const breadcrumbs = [
   { name: 'Home', url: '/' },
@@ -35,7 +37,7 @@ const serviceSchema = {
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://gogreenrestorationtx.com/#wylie",
-    "name": "Go Green Restoration Inc",
+    "name": "Go Green Restoration TX Inc",
     "url": "https://gogreenrestorationtx.com"
   },
   "areaServed": [
@@ -95,9 +97,9 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
     <div class="max-w-7xl mx-auto px-4 py-16 lg:py-20">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
         <div>
-          <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">{isMold ? 'Small-area mold removal in Dallas and Collin County' : service.name}</h1>
+          <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">{isMold ? 'Mold removal and remediation help in Dallas–Fort Worth' : service.name}</h1>
           <p class="text-lg text-brand-warm-200 max-w-3xl mb-6">
-            {isMold ? 'Small-area cleanup for less than 25 contiguous square feet, with larger work referred to a TDLR-licensed remediator. Serving DFW from Wylie.' : 'Discuss your property, the work needed, and the next step with our Wylie-based team serving Dallas–Fort Worth.'}
+            {isMold ? 'Tell us about mold in your property. We handle cleanup within our current scope of less than 25 contiguous square feet and route larger projects to a TDLR-licensed remediator. Serving Dallas, Collin County and wider DFW from Wylie.' : 'Discuss your property, the work needed, and the next step with our Wylie-based team serving Dallas–Fort Worth.'}
           </p>
           <a href="tel:+14697273217" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">
             Call Now: (469) 727-3217
@@ -151,7 +153,7 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
     {isMold && <aside class="bg-brand-warm rounded-xl p-6 mb-12">
       <h2 class="font-heading text-2xl font-bold mb-3">Discuss your Dallas or Collin County property</h2>
       <p class="text-brand-gray-700 mb-4">Call with your city, the affected room, and any known leak history. For emergencies, we aim to arrive within one hour; we confirm current availability and arrival time for your address.</p>
-      <a href="/contact/" class="text-brand-brown underline font-bold">Request a small-area mold cleanup estimate</a>
+      <a href="/contact/" class="text-brand-brown underline font-bold">Discuss your mold problem</a>
     </aside>}
     {isMold && <ProjectPhotos />}
 
@@ -196,6 +198,12 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
         ))}
       </div>
     </div>
+
+    <section class="mb-16" aria-labelledby="planning-guides">
+      <h2 id="planning-guides" class="scroll-mt-40 font-heading text-2xl font-bold mb-4">Guides to help you plan your next step</h2>
+      <p class="text-brand-gray-600 mb-5">Explore common questions before you arrange {service.shortName.toLowerCase()}. Each guide identifies the city it covers.</p>
+      <ul class="grid sm:grid-cols-3 gap-4">{featuredGuides.map(guide => <li class="rounded-xl bg-brand-gray-50 p-5"><a class="font-bold text-brand-brown underline" href={`/resources/${guide.cluster}/${guide.slug}/`}>{guide.title}</a></li>)}</ul>
+    </section>
 
     <!-- FAQ -->
     <div id="questions" class="mb-16 scroll-mt-32">

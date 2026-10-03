@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import ProjectPhotos from '../../components/ProjectPhotos.astro';
+import projects from '../../data/texas-projects.json';
+export function getStaticPaths() {
+  return projects.map(project => ({ params: { project: project.caseSlug }, props: { project } }));
+}
+const { project } = Astro.props;
+const title = `${project.title} | Go Green Restoration TX Inc`;
+const description = `${project.title}, completed ${project.completed}. See what caused the leak, how the cleanup was handled and the project outcome.`;
+const breadcrumbs = [{name:'Home',url:'/'},{name:'Project photos',url:'/gallery/'},{name:project.title,url:`/projects/${project.caseSlug}/`}];
+const schema = {'@context':'https://schema.org','@type':'Article',headline:project.title,description,image:project.images.map(p=>`https://gogreenrestorationtx.com${p.src}`),publisher:{'@id':'https://gogreenrestorationtx.com/#organization'},mainEntityOfPage:`https://gogreenrestorationtx.com/projects/${project.caseSlug}/`};
+---
+<BaseLayout title={title} description={description} schema={[schema]}>
+  <Breadcrumbs items={breadcrumbs}/>
+  <article class="max-w-5xl mx-auto px-4 py-12">
+    <p class="text-brand-brown font-bold mb-3">Texas project · Completed {project.completed}</p>
+    <h1 class="font-heading text-3xl sm:text-5xl font-black mb-6">{project.title}</h1>
+    <p class="text-lg text-brand-gray-700 mb-8">{project.intro}</p>
+    <section class="mb-8"><h2 class="text-2xl font-bold mb-3">{project.causeHeading}</h2><p>{project.cause}</p></section>
+    <section class="mb-8"><h2 class="text-2xl font-bold mb-3">{project.workHeading}</h2><p>{project.work}</p></section>
+    <section class="mb-8"><h2 class="text-2xl font-bold mb-3">{project.outcomeHeading}</h2><p>{project.outcome}</p></section>
+    <ProjectPhotos city={project.slug} showCaseLink={false}/>
+    <p class="text-sm text-brand-gray-600 mb-8">Project details and outcomes supplied by Go Green Restoration TX Inc. Photos shared with permission show work in progress.</p>
+    <section class="mb-10"><h2 class="text-2xl font-bold mb-4">If you are dealing with a similar problem</h2><div class="space-y-4">{project.relatedGuides.map(guide => <p><a class="underline font-bold text-brand-brown" href={`/resources/mold/${guide.slug}/`}>{guide.label}</a><span class="block mt-1">{guide.context}</span></p>)}</div><p class="mt-5">For the steps from your first call through cleanup and the handoff for repairs, see our <a class="underline text-brand-brown" href="/services/mold-remediation/">mold remediation process guide</a>.</p></section>
+    <section class="rounded-xl bg-brand-warm p-6"><h2 class="text-2xl font-bold mb-3">Have a mold concern in {project.city}?</h2><p class="mb-4">Tell us about the affected room and any known leaks. We handle cleanup within our current scope of less than 25 contiguous square feet and route larger projects to a TDLR-licensed remediator.</p><div class="flex flex-wrap gap-4"><a href={`/mold-remediation/${project.slug}/`} class="underline font-bold">Mold removal help in {project.city}</a><a href="/contact/" class="underline font-bold">Discuss your project</a><a href="tel:+14697273217" class="underline font-bold">Call (469) 727-3217</a></div></section>
+  </article>
+</BaseLayout>

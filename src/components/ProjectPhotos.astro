@@ -1,14 +1,16 @@
 ---
 import projects from '../data/texas-projects.json';
-interface Props { city?: string; }
-const { city } = Astro.props;
+interface Props { city?: string; showCaseLink?: boolean; }
+const { city, showCaseLink = true } = Astro.props;
 const selected = city ? projects.filter(project => project.slug === city) : projects;
 ---
 
 {selected.map(project => (
   <section class="my-12">
-    <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-3">{project.title}</h2>
-    <p class="text-brand-gray-600 mb-6">{project.description}</p>
+    <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-3">{showCaseLink ? project.title : 'Photos from the job'}</h2>
+    <p class="text-brand-gray-600 mb-3">{project.description}</p>
+    <p class="text-sm text-brand-gray-600 mb-4">Completed {project.completed} · {project.resultLabel}</p>
+    {showCaseLink && <a href={`/projects/${project.caseSlug}/`} class="inline-block mb-6 font-bold text-brand-brown underline">Read the {project.city} project case study</a>}
     <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
       {project.images.map(photo => (
         <figure class="rounded-xl overflow-hidden border border-brand-warm-200 bg-white">

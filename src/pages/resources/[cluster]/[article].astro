@@ -23,7 +23,7 @@ export function getStaticPaths() {
 const { article } = Astro.props;
 const cluster = { slug: article.cluster, ...clusterData[article.cluster] };
 const articleCity = [...cities].sort((a,b)=>b.slug.length-a.slug.length).find(c=>article.slug.endsWith(`-${c.slug}`));
-const relatedArticles = articles.filter(a => a.cluster === article.cluster && a.slug !== article.slug).slice(0, 3);
+const relatedArticles = articles.filter(a => a.cluster === article.cluster && a.slug !== article.slug).sort((a,b) => Number(Boolean(articleCity && b.slug.endsWith(`-${articleCity.slug}`))) - Number(Boolean(articleCity && a.slug.endsWith(`-${articleCity.slug}`)))).slice(0, 3);
 
 const title = `${article.title} | Go Green Restoration`;
 const description = article.description;
@@ -42,7 +42,7 @@ const articleSchema = {
   ...(article.image ? { "image": `https://gogreenrestorationtx.com${article.image}` } : {}),
   "publisher": {
     "@type": "Organization",
-    "name": "Go Green Restoration Inc",
+    "name": "Go Green Restoration TX Inc",
     "url": "https://gogreenrestorationtx.com",
     "logo": "https://gogreenrestorationtx.com/logo.png"
   },
@@ -100,16 +100,18 @@ function renderContent(content: string): string {
         <p class="text-lg text-brand-gray-600 mb-8 border-b border-brand-gray-200 pb-8">{article.description}</p>
 
         {articleCity && cluster.serviceSlug && <aside class="bg-brand-warm rounded-xl p-5 mb-8">
-          <p>{cluster.slug === 'mold' ? 'Need help with visible mold? Our current cleanup scope is less than 25 contiguous square feet; independent assessment and larger remediation are separate services.' : `Need help at a ${articleCity.name} property? Review the service scope and contact our Wylie-based team to discuss access and availability.`}</p>
-          <a href={`/${cluster.serviceSlug}/${articleCity.slug}/`} class="inline-block mt-3 text-brand-brown underline">{cluster.slug === 'mold' ? 'Small-area mold cleanup' : cluster.serviceName} in {articleCity.name}</a>
+          <p>{cluster.slug === 'mold' ? 'Have a mold concern? Contact us for cleanup within our current scope of less than 25 contiguous square feet or help routing larger projects and independent assessment to the appropriate licensed provider.' : `Need help at a ${articleCity.name} property? Review the service scope and contact our Wylie-based team to discuss access and availability.`}</p>
+          <a href={`/${cluster.serviceSlug}/${articleCity.slug}/`} class="inline-block mt-3 text-brand-brown underline">{cluster.slug === 'mold' ? 'Mold removal and remediation help' : cluster.serviceName} in {articleCity.name}</a>
         </aside>}
         {cluster.slug === 'hoa-property-management' && <p class="mb-8"><a href="/commercial/hoa-restoration-services/" class="text-brand-brown underline">HOA property restoration planning</a> · <a href="/commercial/property-management-restoration/" class="text-brand-brown underline">Restoration for property managers</a></p>}
         <div class="prose max-w-none" set:html={renderContent(article.content)} />
 
+        {articleCity && <p class="mt-8 text-brand-gray-600">For help with other damage at the same property, explore <a class="text-brand-brown underline" href={`/locations/dfw-metro/${articleCity.slug}/`}>restoration services in {articleCity.name}</a>.</p>}
+
         <!-- CTA -->
         <div class="mt-12 bg-brand-warm-100 rounded-xl p-8">
           <h2 class="font-heading text-xl font-bold text-brand-gray-900 mb-3">Need Professional Help?</h2>
-          <p class="text-brand-gray-600 mb-4">Go Green Restoration provides 24/7 emergency services throughout the Dallas–Fort Worth metroplex. Bonded, insured, and EPA Lead-Safe certified.</p>
+          <p class="text-brand-gray-600 mb-4">Go Green Restoration TX Inc serves Dallas–Fort Worth from Wylie. Contact us to discuss your property and the appropriate service scope.</p>
           <div class="flex flex-col sm:flex-row gap-4">
             <a href="tel:+14697273217" class="bg-brand-green hover:bg-brand-green-light text-white font-bold px-6 py-3 rounded-lg text-center transition-colors">Call (469) 727-3217</a>
             {cluster.serviceSlug && (
@@ -149,7 +151,7 @@ function renderContent(content: string): string {
           <div class="bg-brand-gray-50 rounded-xl p-6">
             <h3 class="font-heading font-bold text-lg mb-2">24/7 Emergency</h3>
             <a href="tel:+14697273217" class="text-2xl font-bold text-brand-orange hover:text-brand-orange-light transition-colors">(469) 727-3217</a>
-            <p class="text-sm text-brand-gray-600 mt-2">EPA Lead-Safe Certified | Free Estimates</p>
+            <p class="text-sm text-brand-gray-600 mt-2">Wylie-based team | Free Estimates</p>
           </div>
         </div>
       </div>

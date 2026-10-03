@@ -1,4 +1,5 @@
 ---
+import PriorityMoldCity from '../../components/PriorityMoldCity.astro';
 import ProjectPhotos from '../../components/ProjectPhotos.astro';
 import MoldServiceDetails from '../../components/MoldServiceDetails.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
@@ -97,7 +98,7 @@ const serviceSchema = {
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://gogreenrestorationtx.com/#wylie",
-    "name": "Go Green Restoration Inc",
+    "name": "Go Green Restoration TX Inc",
     "url": "https://gogreenrestorationtx.com",
     "telephone": "+1-469-727-3217",
     "address": {
@@ -155,7 +156,7 @@ const heroImage = service.image
   <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
     <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
       <h1 class="font-heading text-3xl lg:text-4xl xl:text-5xl font-black mb-4">{h1}</h1>
-      <p class="text-lg text-brand-warm-200 mb-6">24/7 Emergency | EPA Lead-Safe Certified | Eco-Friendly Methods</p>
+      <p class="text-lg text-brand-warm-200 mb-6">24/7 Emergency | Wylie-Based Team | Eco-Friendly Methods</p>
       <a href="tel:+14697273217" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">
         Call Now: (469) 727-3217
       </a>
@@ -225,6 +226,7 @@ const heroImage = service.image
         <!-- Mold scope & Texas rules (mold pages only) -->
 
 
+        {service.slug === 'mold-remediation' && <PriorityMoldCity city={city.slug} />}
         {service.slug === 'mold-remediation' && <MoldServiceDetails city={city.name} />}
         {service.slug === 'water-damage-restoration' && city.slug === 'lewisville' && <section class="my-12 bg-brand-warm rounded-xl p-6">
           <h2 class="font-heading text-2xl font-bold mb-4">Water extraction and drying in Lewisville</h2>
@@ -263,12 +265,14 @@ const heroImage = service.image
           </div>
         </section>
 
+        <p class="mb-8 text-brand-gray-600">Need help with another part of the property? See all <a class="text-brand-brown underline" href={`/locations/dfw-metro/${city.slug}/`}>restoration services in {city.name}</a>, or review the <a class="text-brand-brown underline" href={`/services/${service.slug}/`}>{service.shortName.toLowerCase()} service overview</a> for DFW.</p>
+
         <!-- Related local guides -->
         {cityArticles.length > 0 && (
           <section class="mb-12">
             <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">{service.shortName} Guides for {city.name}</h2>
             <p class="text-brand-gray-600 leading-relaxed mb-4">
-              We have written these guides specifically for {city.name} property owners dealing with {service.shortName.toLowerCase()}, covering the local conditions, the decisions you will face, and the point where professional help becomes the right call.
+              These guides cover questions about {service.shortName.toLowerCase()} for {city.name} property owners. Choose a topic to explore what to ask before arranging work.
             </p>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
               {cityArticles.map((a: { cluster: string; slug: string; title: string; description: string; image?: string; imageAlt?: string }) => (
@@ -413,9 +417,9 @@ const heroImage = service.image
           <div class="bg-brand-gray-50 rounded-xl p-6">
             <h3 class="font-heading font-bold text-lg mb-4">Why Go Green?</h3>
             <div class="space-y-3 text-sm">
-              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> EPA Lead-Safe Certified</div>
+              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Wylie-Based Team</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Bonded & Insured</div>
-              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> IICRC Certified</div>
+              <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Experienced Restoration Team</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Eco-Friendly Methods</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> DFW Service Coverage</div>
               <div class="flex items-center gap-2"><span class="text-brand-green">&#10003;</span> Insurance Claims Help</div>

@@ -4,19 +4,14 @@ import CountyMap from '../components/CountyMap.astro';
 import services from '../data/services.json';
 import ReviewSources from '../components/ReviewSources.astro';
 
-const title = 'Go Green Restoration TX | 24/7 Water, Fire & Mold Damage Restoration in DFW Metro';
-const description = 'Bonded & insured, IICRC-certified water damage restoration and mitigation across the Dallas–Fort Worth Metroplex. 24/7 emergency water damage repair, storm damage, fire damage, mold cleanup & sewage cleanup. Free estimates.';
+const title = 'DFW Mold & Water Restoration | Go Green Restoration TX Inc';
+const description = 'Mold cleanup, water and fire restoration help across Dallas–Fort Worth from Wylie. Discuss your property, cleanup scope and emergency availability. Call 469-727-3217.';
 
 const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "Go Green Restoration Inc",
-  "url": "https://gogreenrestorationtx.com",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://gogreenrestorationtx.com/search?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
+  "name": "Go Green Restoration TX Inc",
+  "url": "https://gogreenrestorationtx.com"
 };
 
 // SVG paths for each service icon (used in the floating badge on each card)
@@ -60,7 +55,10 @@ const featuredCities = [
     <!-- Poster Image (loads instantly) -->
     <div class="absolute inset-0 z-0">
       <img
-        src="/hero-poster.jpg"
+        src="/hero-poster-1280.webp"
+        srcset="/hero-poster-640.webp 640w, /hero-poster-1280.webp 1280w"
+        sizes="100vw"
+        width="1280" height="720"
         alt=""
         class="w-full h-full object-cover"
         fetchpriority="high"
@@ -98,6 +96,9 @@ const featuredCities = [
       }
 
       function loadVideo() {
+        // Keep the poster on phones and when visitors request less motion or data.
+        const connection = (navigator as Navigator & { connection?: { saveData?: boolean } }).connection;
+        if (window.matchMedia("(max-width: 767px), (prefers-reduced-motion: reduce)").matches || connection?.saveData) return;
         const wrap = document.getElementById('hero-video-wrap');
         const container = document.getElementById('hero-video-container');
         if (!wrap || !container) return;
@@ -132,11 +133,11 @@ const featuredCities = [
           </div>
 
           <h1 class="font-heading text-4xl lg:text-5xl xl:text-6xl font-black leading-[1.05] mb-5 drop-shadow-lg">
-            Restoring Property.<br />
-            Rebuilding <span class="text-brand-green">Peace of Mind.</span>
+            Mold &amp; Water Restoration<br />
+            Across <span class="text-brand-green">Dallas–Fort Worth.</span>
           </h1>
           <p class="text-base lg:text-lg text-white/85 mb-7 drop-shadow max-w-xl leading-relaxed">
-            Water. Fire. Mold. Sewage. We restore what matters most with speed, care, and eco-friendly solutions.
+            Tell our Wylie-based team about your property. We help with mold concerns, water, fire and sewage damage, with cleanup within our scope and referrals when a project needs a specialist.
           </p>
 
           <div class="flex flex-col sm:flex-row gap-3 mb-7">
@@ -157,7 +158,7 @@ const featuredCities = [
             </span>
             <span class="inline-flex items-center gap-1.5 bg-white/10 backdrop-blur-sm border border-white/15 text-white text-xs font-medium px-3 py-1.5 rounded-full">
               <svg class="w-3.5 h-3.5 text-brand-green" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
-              IICRC Certified Technicians
+              Experienced Restoration Team
             </span>
             <span class="inline-flex items-center gap-1.5 bg-white/10 backdrop-blur-sm border border-white/15 text-white text-xs font-medium px-3 py-1.5 rounded-full">
               <svg class="w-3.5 h-3.5 text-brand-green" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
@@ -199,15 +200,15 @@ const featuredCities = [
           <div class="flex items-center gap-3 px-2 sm:px-4 py-2 sm:py-0">
             <svg class="w-7 h-7 text-brand-green flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.8"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"/></svg>
             <div class="leading-tight">
-              <p class="text-sm font-bold text-brand-gray-900">EPA Lead-Safe</p>
-              <p class="text-xs text-brand-gray-600">Certified Firm</p>
+              <p class="text-sm font-bold text-brand-gray-900">Wylie Based</p>
+              <p class="text-xs text-brand-gray-600">Serving DFW</p>
             </div>
           </div>
           <div class="flex items-center gap-3 px-2 sm:px-4 py-2 sm:py-0">
             <svg class="w-7 h-7 text-brand-green flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.8"><path stroke-linecap="round" stroke-linejoin="round" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
             <div class="leading-tight">
-              <p class="text-sm font-bold text-brand-gray-900">IICRC Certified</p>
-              <p class="text-xs text-brand-gray-600">Firm</p>
+              <p class="text-sm font-bold text-brand-gray-900">15+ Years</p>
+              <p class="text-xs text-brand-gray-600">Team Experience</p>
             </div>
           </div>
           <div class="flex items-center gap-3 px-2 sm:px-4 py-2 sm:py-0">
@@ -227,14 +228,26 @@ const featuredCities = [
           <div class="flex items-center gap-3 px-2 sm:px-4 py-2 sm:py-0 col-span-2 sm:col-span-3 lg:col-span-1">
             <svg class="w-7 h-7 text-brand-green flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.8"><path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/></svg>
             <div class="leading-tight">
-              <p class="text-sm font-bold text-brand-gray-900">Preferred by Major</p>
-              <p class="text-xs text-brand-gray-600">Insurance Companies</p>
+              <p class="text-sm font-bold text-brand-gray-900">Help With</p>
+              <p class="text-xs text-brand-gray-600">Claim Documentation</p>
             </div>
           </div>
         </div>
       </div>
     </div>
   </section>
+  <section class="max-w-6xl mx-auto px-4 py-10">
+    <h2 class="font-heading text-3xl font-bold mb-4">Mold removal help in Dallas and Collin County</h2>
+    <p class="text-brand-gray-600 mb-5">Describe the leak, affected room and visible damage. We welcome inquiries of any size, handle cleanup within our current scope of less than 25 contiguous square feet and route larger projects to a TDLR-licensed remediator. Explore the <a href="/services/mold-remediation/" class="underline">mold remediation process</a> and the right next step for your property.</p>
+    <nav aria-label="Priority mold service areas" class="flex flex-wrap gap-4 mb-6">
+      {['Dallas', 'Plano', 'Frisco', 'McKinney'].map(city => <a class="underline font-bold text-brand-brown" href={`/mold-remediation/${city.toLowerCase()}/`}>Mold help in {city}</a>)}
+    </nav>
+    <div class="grid sm:grid-cols-2 gap-6">
+      <a class="rounded-xl border border-brand-warm-200 p-6 hover:bg-brand-gray-50" href="/projects/dallas-kitchen-laundry-mold-remediation/"><h3 class="font-bold text-lg mb-2">Dallas kitchen and laundry project</h3><p>September 2026 · Leak sources, containment, removal and the reported testing outcome.</p><span class="inline-block mt-3 underline">Read the project story</span></a>
+      <a class="rounded-xl border border-brand-warm-200 p-6 hover:bg-brand-gray-50" href="/projects/arlington-bathroom-mold-remediation/"><h3 class="font-bold text-lg mb-2">Arlington bathroom project</h3><p>August 2026 · Sink supply leak, wall removal and preparation for reconstruction.</p><span class="inline-block mt-3 underline">Read the project story</span></a>
+    </div>
+  </section>
+
 
   <!-- Services Section -->
   <section class="py-16 lg:py-24 bg-white">
@@ -422,7 +435,7 @@ const featuredCities = [
         </div>
       </div>
       <p class="text-brand-gray-600 leading-relaxed mt-8">
-        Our technicians are <a href="https://iicrc.org/" target="_blank" rel="noopener" class="text-brand-green underline font-medium">IICRC-certified</a> and EPA Lead-Safe certified, and we are bonded and insured. Texas issues no statewide restoration or general contractor license, so those credentials — along with our <a href="https://www.bbb.org/" target="_blank" rel="noopener" class="text-brand-green underline font-medium">BBB</a> standing — are what you should be checking when you compare restoration companies here.
+        Get to know <a href="/about/" class="text-brand-green underline font-medium">Rey Aquije and Yani Abohazira</a>, each with more than 15 years of mold remediation and water restoration experience. Ask us about the proposed scope and the credentials needed for your project before work begins.
       </p>
     </div>
   </section>
@@ -433,7 +446,7 @@ const featuredCities = [
       <div class="text-center mb-14 reveal">
         <p class="text-sm font-bold uppercase tracking-widest text-brand-green mb-3">Insurance Claims Assistance</p>
         <h2 class="font-heading text-3xl lg:text-5xl font-black text-brand-gray-900 mb-4">We Make the <span class="text-brand-green">Claims Process</span> Easy</h2>
-        <p class="text-base lg:text-lg text-brand-gray-600 max-w-2xl mx-auto">Our team works directly with your insurance company to simplify the process and maximize your coverage.</p>
+        <p class="text-base lg:text-lg text-brand-gray-600 max-w-2xl mx-auto">Our team can provide photos, a work scope and project documentation to support your claim. Your insurer determines coverage.</p>
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-4 max-w-6xl mx-auto stagger-children">
         <!-- We Work for You -->
@@ -446,7 +459,7 @@ const featuredCities = [
             </svg>
           </div>
           <h3 class="font-heading text-lg font-bold text-brand-gray-900 mb-3">We Work for You</h3>
-          <p class="text-sm text-brand-gray-600 leading-relaxed">We advocate on your behalf to ensure a smooth claims experience from start to finish.</p>
+          <p class="text-sm text-brand-gray-600 leading-relaxed">We explain our proposed work and keep you informed as the restoration progresses.</p>
         </div>
         <!-- Divider (desktop only) -->
         <!-- Direct Insurance Billing -->
@@ -475,7 +488,7 @@ const featuredCities = [
           <h3 class="font-heading text-lg font-bold text-brand-gray-900 mb-3">Detailed Documentation</h3>
           <p class="text-sm text-brand-gray-600 leading-relaxed">We provide accurate reports, photos, and scope of work to support your claim.</p>
         </div>
-        <!-- Faster Payouts -->
+        <!-- Clear Project Records -->
         <div class="text-center px-4 lg:border-l border-brand-gray-100">
           <div class="w-20 h-20 mx-auto rounded-full bg-brand-gray-50 flex items-center justify-center mb-6">
             <svg class="w-10 h-10 text-brand-green" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2">
@@ -483,8 +496,8 @@ const featuredCities = [
               <path d="M16 24l6 6 12-12" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
-          <h3 class="font-heading text-lg font-bold text-brand-gray-900 mb-3">Faster Payouts</h3>
-          <p class="text-sm text-brand-gray-600 leading-relaxed">Our process helps reduce delays and get you back on track sooner.</p>
+          <h3 class="font-heading text-lg font-bold text-brand-gray-900 mb-3">Clear Project Records</h3>
+          <p class="text-sm text-brand-gray-600 leading-relaxed">Organized work records help you and your adjuster review the restoration scope.</p>
         </div>
       </div>
 
@@ -523,7 +536,7 @@ const featuredCities = [
                 <span class="w-7 h-7 rounded-full bg-brand-green flex items-center justify-center flex-shrink-0">
                   <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
                 </span>
-                <span class="text-brand-gray-800 font-medium">IICRC Certified Technicians</span>
+                <span class="text-brand-gray-800 font-medium">Experienced Restoration Team</span>
               </li>
               <li class="flex items-center gap-3">
                 <span class="w-7 h-7 rounded-full bg-brand-green flex items-center justify-center flex-shrink-0">

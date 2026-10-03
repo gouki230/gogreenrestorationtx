@@ -39,7 +39,7 @@ const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "@id": "https://gogreenrestorationtx.com/#organization",
-  "name": "Go Green Restoration Inc",
+  "name": "Go Green Restoration TX Inc",
   "url": siteUrl,
   "logo": `${siteUrl}/logo.png`,
   "telephone": "+1-469-727-3217",
@@ -58,7 +58,7 @@ const organizationSchema = {
     {
       "@type": "LocalBusiness",
       "@id": "https://gogreenrestorationtx.com/#wylie",
-      "name": "Go Green Restoration TX - Wylie",
+      "name": "Go Green Restoration TX Inc",
       "image": `${siteUrl}/logo.png`,
       "telephone": "+1-469-727-3217",
       "url": siteUrl,
@@ -74,13 +74,8 @@ const organizationSchema = {
         "@type": "GeoCoordinates",
         "latitude": 33.0151,
         "longitude": -96.5388
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-        "opens": "00:00",
-        "closes": "23:59"
       }
+
     }
   ],
   "areaServed": [
@@ -90,20 +85,6 @@ const organizationSchema = {
     { "@type": "AdministrativeArea", "name": "Collin County, Texas" },
     { "@type": "AdministrativeArea", "name": "Denton County, Texas" },
     { "@type": "AdministrativeArea", "name": "Rockwall County, Texas" }
-  ],
-  "hasCredential": [
-    {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "certification",
-      "recognizedBy": { "@type": "Organization", "name": "U.S. Environmental Protection Agency" },
-      "name": "EPA Lead-Safe Certified Firm"
-    },
-    {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "certification",
-      "recognizedBy": { "@type": "Organization", "name": "Institute of Inspection, Cleaning and Restoration Certification (IICRC)" },
-      "name": "IICRC Certified"
-    }
   ]
 };
 
@@ -137,7 +118,7 @@ const allSchemas = [organizationSchema, ...schema];
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="Go Green Restoration Inc" />
+  <meta property="og:site_name" content="Go Green Restoration TX Inc" />
   <meta property="og:locale" content="en_US" />
 
   <!-- Twitter Card -->

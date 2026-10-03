@@ -191,3 +191,22 @@
 .btn-pulse {
   animation: gentle-pulse 3s ease-in-out infinite;
 }
+
+/* Keep decorative photo cards and reveal motion within narrow viewports. */
+@media (max-width: 767px) {
+  .reveal-left, .reveal-right { transform: translateY(20px); }
+  .card-stack { padding: 1rem 0; gap: .5rem; }
+  .card-stack > *:nth-child(n) {
+    width: calc((100% - 1rem) / 3);
+    height: 11rem;
+    margin: 0;
+    transform: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .reveal-left, .reveal-right, .reveal-scale, .stagger-children > * {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}

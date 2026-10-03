@@ -1,0 +1,12 @@
+---
+interface Props { city: string; }
+const { city } = Astro.props;
+const content = {
+ dallas: {heading:'Kitchen and laundry mold concerns in Dallas',text:'Leaks at a sink trap and washing-machine supply connections can affect more than one room. Tell us which connections leaked, whether the water is still running and whether cabinets or walls have already been opened. Our September 2026 Dallas project involved both kitchen and laundry leaks, containment and removal of affected materials.',link:'/projects/dallas-kitchen-laundry-mold-remediation/',label:'Read the Dallas kitchen and laundry case study'},
+ plano: {heading:'Planning mold cleanup for a Plano property',text:'For a sink-cabinet or bathroom concern, describe the visible surfaces separately from anything suspected behind the wall. Ask for the estimate to identify containment, material removal, disposal and the handoff for repairs. If a plumber has worked on the leak, share that information so remaining moisture-source repairs can be discussed.',link:'/services/mold-remediation/',label:'Compare cleanup scope and estimate questions'},
+ frisco: {heading:'Coordinating access for mold work in Frisco',text:'For a managed or occupied property, identify who can approve work, how the crew can enter and whether an existing assessment protocol must be followed. Let us know which rooms must remain in use. These details help us discuss containment and scheduling before cleanup or referral is arranged.',link:'/commercial/property-management-restoration/',label:'Restoration coordination for property managers'},
+ mckinney: {heading:'From a mold inquiry to repairs in McKinney',text:'Before replacing drywall or cabinetry, clarify the cleanup scope, the status of the original leak and whether independent assessment or clearance documentation is needed. Tell us if your project involves a tenant, adjuster or separate rebuilding contractor so responsibilities and approvals are clear.',link:'/services/construction-remodeling/',label:'Plan the reconstruction stage'}
+};
+const item = content[city as keyof typeof content];
+---
+{item && <section class="my-10 rounded-xl bg-brand-gray-50 p-6"><h2 class="text-2xl font-bold mb-4">{item.heading}</h2><p class="mb-4">{item.text}</p><p class="mb-4">Go Green Restoration TX Inc serves this area from Wylie. Call to confirm availability and the appropriate scope for your address.</p><a href={item.link} class="underline font-bold text-brand-brown">{item.label}</a></section>}

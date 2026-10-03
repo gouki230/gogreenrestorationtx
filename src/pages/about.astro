@@ -1,75 +1,24 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
-
-const title = 'About Go Green Restoration Inc | Eco-Friendly Restoration';
-const description = 'Learn about Go Green Restoration Inc — a bonded and insured, IICRC- and EPA Lead-Safe certified restoration company serving the Dallas–Fort Worth metroplex with eco-friendly 24/7 services.';
+const title = 'About Go Green Restoration TX Inc | Our DFW Team';
+const description = 'Meet Rey Aquije and Yani Abohazira, each with over 15 years of mold remediation and water restoration experience. Serving Dallas–Fort Worth from Wylie.';
 const breadcrumbs = [{ name: 'Home', url: '/' }, { name: 'About', url: '/about/' }];
 ---
-
 <BaseLayout title={title} description={description}>
   <Breadcrumbs items={breadcrumbs} />
-
-  <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
-    <div class="max-w-7xl mx-auto px-4 py-16">
-      <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">About Go Green Restoration Inc</h1>
-      <p class="text-lg text-brand-warm-200 max-w-3xl">Bonded and insured restoration professionals committed to eco-friendly methods and exceptional service throughout the Dallas–Fort Worth metroplex.</p>
-    </div>
-  </section>
-
-  <div class="max-w-7xl mx-auto px-4 py-12">
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16">
-      <div>
-        <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Our Mission</h2>
-        <p class="text-brand-gray-600 leading-relaxed mb-4">Go Green Restoration Inc was founded with a simple mission: provide the highest quality property restoration services while protecting the environment. We believe that effective restoration and eco-friendly practices are not mutually exclusive.</p>
-        <p class="text-brand-gray-600 leading-relaxed mb-4">Every day, our team responds to water damage, fire damage, mold contamination, and sewage emergencies throughout Dallas-Fort Worth metroplex. We treat every property as if it were our own, delivering fast, thorough, and environmentally responsible restoration.</p>
-        <p class="text-brand-gray-600 leading-relaxed">Our eco-friendly approach uses low-VOC products, sustainable materials, and energy-efficient equipment — protecting your family's health and the environment without compromising the quality of our work.</p>
+  <section class="bg-brand-brown text-white"><div class="max-w-5xl mx-auto px-4 py-16">
+    <h1 class="font-heading text-4xl lg:text-5xl font-black mb-5">About Go Green Restoration TX Inc</h1>
+    <p class="text-lg max-w-3xl">Mold cleanup and property restoration support for Dallas, Collin County and the wider Dallas–Fort Worth area, from our Wylie location.</p>
+  </div></section>
+  <div class="max-w-5xl mx-auto px-4 py-12 space-y-12">
+    <section><h2 class="text-3xl font-bold mb-6">Meet our team</h2>
+      <div class="grid md:grid-cols-2 gap-6">
+        {['Rey Aquije', 'Yani Abohazira'].map(name => <div class="bg-brand-gray-50 rounded-xl p-6"><h3 class="text-xl font-bold mb-3">{name}</h3><p>{name} brings more than 15 years of experience in mold remediation and water damage restoration. That experience informs how our team discusses affected materials, containment, cleanup and the next steps for a property.</p></div>)}
       </div>
-      <div class="rounded-2xl overflow-hidden shadow-lg aspect-video">
-        <iframe src="https://www.youtube.com/embed/G-KfCmJHxTI?rel=0" title="About Go Green Restoration Inc" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy" class="w-full h-full"></iframe>
-      </div>
-    </div>
-
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
-      <div class="text-center bg-brand-warm-100 rounded-xl p-8">
-        <div class="text-3xl font-bold text-brand-green mb-2">24/7</div>
-        <p class="font-heading font-bold">Emergency Response</p>
-        <p class="text-sm text-brand-gray-600 mt-1">Round-the-clock availability</p>
-      </div>
-      <div class="text-center bg-brand-warm-100 rounded-xl p-8">
-        <div class="text-3xl font-bold text-brand-green mb-2">EPA</div>
-        <p class="font-heading font-bold">Lead-Safe Certified</p>
-        <p class="text-sm text-brand-gray-600 mt-1">EPA-certified firm</p>
-      </div>
-      <div class="text-center bg-brand-warm-100 rounded-xl p-8">
-        <div class="text-3xl font-bold text-brand-green mb-2">150+</div>
-        <p class="font-heading font-bold">Cities Served</p>
-        <p class="text-sm text-brand-gray-600 mt-1">Dallas–Fort Worth metroplex</p>
-      </div>
-      <div class="text-center bg-brand-warm-100 rounded-xl p-8">
-        <div class="text-3xl font-bold text-brand-green mb-2">100%</div>
-        <p class="font-heading font-bold">Satisfaction</p>
-        <p class="text-sm text-brand-gray-600 mt-1">Guaranteed results</p>
-      </div>
-    </div>
-
-    <div class="mb-16">
-      <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Our Credentials</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        <div class="bg-brand-gray-50 rounded-xl p-6"><h3 class="font-bold mb-2">Bonded & Insured</h3><p class="text-sm text-brand-gray-600">Fully bonded and insured for your protection. IICRC- and EPA Lead-Safe certified technicians. (Texas does not issue a statewide restoration contractor license.)</p></div>
-        <div class="bg-brand-gray-50 rounded-xl p-6"><h3 class="font-bold mb-2">IICRC Certified</h3><p class="text-sm text-brand-gray-600">Our technicians hold IICRC certifications in water damage restoration, fire restoration, mold remediation, and applied structural drying.</p></div>
-        <div class="bg-brand-gray-50 rounded-xl p-6"><h3 class="font-bold mb-2">Eco-Friendly Methods</h3><p class="text-sm text-brand-gray-600">We use EPA-approved, low-VOC products and sustainable materials that are safe for your family and the environment.</p></div>
-        <div class="bg-brand-gray-50 rounded-xl p-6"><h3 class="font-bold mb-2">Insurance Specialists</h3><p class="text-sm text-brand-gray-600">We work directly with all major insurance companies, handling documentation and claims coordination to maximize your coverage.</p></div>
-      </div>
-    </div>
-
-    <div class="bg-brand-brown text-white rounded-2xl p-8 lg:p-12 text-center">
-      <h2 class="font-heading text-2xl lg:text-3xl font-bold mb-4">Ready to Experience the Go Green Difference?</h2>
-      <p class="text-brand-warm-200 mb-6 max-w-2xl mx-auto">Contact us for a free estimate or 24/7 emergency service throughout Dallas-Fort Worth metroplex.</p>
-      <div class="flex flex-col sm:flex-row justify-center gap-4">
-        <a href="tel:+14697273217" class="bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">Call (469) 727-3217</a>
-        <a href="/contact/" class="bg-white/10 hover:bg-white/20 font-bold px-8 py-4 rounded-lg transition-colors border border-white/30">Get Free Estimate</a>
-      </div>
-    </div>
+    </section>
+    <section><h2 class="text-2xl font-bold mb-4">How we help</h2><p class="mb-4">Start by telling us what happened, which rooms are affected and whether the water source has been repaired. We discuss the work required, access to the property and who needs to approve the next step. For insurance claims, we can help with project documentation; coverage decisions remain with your insurer.</p><p>We welcome mold inquiries of any size. Our current cleanup scope is less than 25 contiguous square feet. When a project needs a larger remediation scope or independent mold assessment, we help route the request to the appropriate licensed provider. Team experience does not replace the credentials required for a particular project.</p><a href="/services/mold-remediation/" class="inline-block mt-4 underline font-bold text-brand-brown">Explore our mold removal and remediation process</a></section>
+    <section><h2 class="text-2xl font-bold mb-4">See our Texas project work</h2><p class="mb-4">These accounts explain the leak sources, work performed and outcomes reported by our team, alongside photographs shared with permission.</p><ul class="list-disc pl-6 space-y-3"><li><a class="underline" href="/projects/dallas-kitchen-laundry-mold-remediation/">Dallas kitchen and laundry mold project — September 2026</a></li><li><a class="underline" href="/projects/arlington-bathroom-mold-remediation/">Arlington bathroom mold project — August 2026</a></li></ul></section>
+    <section><h2 class="text-2xl font-bold mb-4">Based in Wylie, serving DFW</h2><p class="mb-3">611 S State Hwy 78, Suite 133B, Wylie, TX 75098</p><p class="mb-4">Our service areas include Dallas, Plano, Frisco and McKinney. We travel to properties across DFW from Wylie. Emergency calls are accepted 24/7; call to confirm arrival availability for your address.</p><p><a class="underline" href="tel:+14697273217">(469) 727-3217</a> · <a class="underline break-words" href="mailto:info@gogreenrestorationtx.com">info@gogreenrestorationtx.com</a></p><a href="/contact/" class="inline-block mt-6 bg-brand-green text-white rounded-lg px-6 py-3 font-bold">Discuss your property</a></section>
   </div>
 </BaseLayout>
