@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import copy from '../data/indexing-service-editorial.json';
+import images from '../data/compact-service-images.json';
+import topics from '../data/compact-services.json';
+import articles from '../data/blog-articles.json';
+import { compactServiceUrl } from '../utils/compact-city-pages';
+const { service, city } = Astro.props;
+const key = `${service.slug}/${city.slug}` as keyof typeof copy;
+const content = copy[key];
+const image = images[content.image as keyof typeof images];
+const heading = `${service.name} in ${city.name}`;
+const path = `/${key}/`;
+const related = topics.filter(t => t.parent === service.slug);
+const guides = articles.filter(a => a.cluster === service.relatedResources?.[0] && a.slug.endsWith(`-${city.slug}`)).slice(0,3);
+const description = content.intro.split('. ').slice(0,2).join('. ') + '.';
+---
+<BaseLayout title={`${heading} | Request an Estimate | Go Green Restoration TX Inc`} description={description} ogImage={image.src} omitOfficeCopy={true} schema={[{'@context':'https://schema.org','@type':'Service',name:heading,url:`https://gogreenrestorationtx.com${path}`,description,areaServed:{'@type':'City',name:city.name},provider:{'@id':'https://gogreenrestorationtx.com/#wylie'}}]}>
+  <Breadcrumbs items={[{name:'Home',url:'/'},{name:'Services',url:'/services/'},{name:service.name,url:`/services/${service.slug}/`},{name:city.name,url:path}]} />
+  <article class="indexing-service max-w-5xl mx-auto px-4 py-12">
+    <h1 class="font-heading text-4xl lg:text-5xl font-black mb-6">{heading}</h1>
+    <p class="text-lg mb-6">{content.intro}</p>
+    <div class="flex flex-col sm:flex-row gap-3 mb-8"><a class="bg-brand-green text-white font-bold rounded-lg px-6 py-4 text-center" href="tel:+14697273217">Call (469) 727-3217</a><a class="bg-brand-brown text-white font-bold rounded-lg px-6 py-4 text-center" href="/contact/">Request an estimate</a></div>
+    <figure class="mb-10"><img src={image.src} srcset={`${image.smallSrc} 640w, ${image.src} 1280w`} sizes="(max-width:640px) 100vw, 960px" width={image.width} height={image.height} alt={`${heading}: generated service illustration`} fetchpriority="high" class="w-full rounded-xl"/><figcaption class="text-sm mt-2 text-brand-gray-600">Higgsfield-generated illustration of the service; not a photograph of a completed project.</figcaption></figure>
+    <section><h2>{heading}: planning the first visit</h2><p>Call with the property address and a description of the problem. We will confirm availability and an arrival estimate, explain what the visit will cover, and identify the information needed to prepare:</p><ul>{content.checklist.map(item=><li>{item}</li>)}</ul></section>
+    {content.sections.map(section=><section><h2>{section.title}</h2><p>{section.text}</p></section>)}
+    {service.slug === 'mold-remediation' && <aside class="text-sm bg-brand-gray-50 rounded-xl p-5 mb-8">Go Green Restoration TX Inc welcomes mold projects of any size. While our Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and scope are identified before work begins. Independent assessment and clearance are separate services.</aside>}
+    <section><h2>Help for the affected space</h2><ul>{related.map(topic=><li><a href={compactServiceUrl(topic.slug,city.slug)}>{topic.name}</a></li>)}</ul>{related.length===0 && <p>For work preceding reconstruction, review <a href={`/water-damage-restoration/${city.slug}/`}>water damage restoration</a> and <a href={`/mold-remediation/${city.slug}/`}>mold remediation in {city.name}</a>.</p>}</section>
+    {guides.length>0 && <section><h2>Related planning guides</h2><ul>{guides.map(guide=><li><a href={`/resources/${guide.cluster}/${guide.slug}/`}>{guide.title}</a></li>)}</ul></section>}
+    <section><h2>Discuss the next step</h2><p>Tell us what happened and what work has already been completed. We will explain the proposed scope and the approvals needed to move forward. <a href="/contact/">Send a service request</a> or call <a href="tel:+14697273217">(469) 727-3217</a>.</p><p>Explore the <a href={`/services/${service.slug}/`}>{service.name.toLowerCase()} service overview</a> or <a href={`/locations/dfw-metro/${city.slug}/`}>all restoration services in {city.name}</a>.</p></section>
+  </article>
+</BaseLayout>
+<style>.indexing-service section{margin-bottom:2rem}.indexing-service h2{font-size:1.5rem;font-weight:700;margin-bottom:1rem}.indexing-service p,.indexing-service li{line-height:1.8;color:#4b5563}.indexing-service p{margin-bottom:1rem}.indexing-service ul{list-style:disc;padding-left:1.4rem}.indexing-service section a{color:#775130;text-decoration:underline}.indexing-service li{margin-bottom:.5rem}</style>

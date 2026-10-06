@@ -1,0 +1,574 @@
+{
+  "emergency-water-extraction/briaroaks": {
+    "intro": "Emergency water extraction in Briaroaks helps when water has filled a room containing items you cannot identify or sort during the first response. Removal still needs a clear handling plan. We will establish access, collect accessible water, and distinguish temporary movement from later contents and building-restoration decisions.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Briaroaks before a complete contents inventory",
+        "text": "We will identify the route and the items preventing access to wet surfaces. The first handling decision can preserve an item for review without deciding its final disposition. A general request to remove water will not be treated as permission to discard belongings whose status remains unclear."
+      },
+      {
+        "title": "Reviewing what collection reveals",
+        "text": "Floor layers, wall edges, and built-ins may become accessible as water and obstructions are addressed. We will explain findings and any proposed drying, opening, or removal. A visible dry area should not establish the condition of a concealed section the response has not reached."
+      },
+      {
+        "title": "Organizing the follow-up account",
+        "text": "We will record work completed, unresolved item decisions, and remaining source or material needs. Suspected growth requires an appropriate scope if discovered. The next repair provider should receive a clear handoff before closure, while contents remain distinguishable from the building work around them."
+      }
+    ],
+    "estimate": "Water condition, construction, access, handling, and follow-up influence pricing. We will separate extraction from continued drying, contents evaluation, removal, and rebuilding. Additional tasks will be explained from findings before authorization.",
+    "checklist": [
+      "Identify the contact approving item and work decisions.",
+      "Tell us which routes are blocked.",
+      "Keep clear of wet electrical areas and unstable overhead material."
+    ]
+  },
+  "burst-pipe-cleanup/briaroaks": {
+    "intro": "Burst pipe cleanup in Briaroaks helps when a repaired break leaves water damage around a built-in feature the owner hopes to keep. The access route and retention choice need to be evaluated together. We will review source work, inspect accessible layers, and explain restoration before the feature is repaired or reinstalled.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Briaroaks around a retained built-in",
+        "text": "We will identify what can be reached around the component and what remains hidden. Preserving its visible face does not establish the condition of the assembly behind it. Any disassembly will have a defined purpose, with practical limits explained before the owner commits to retention."
+      },
+      {
+        "title": "Coordinating the opening and source tasks",
+        "text": "We will review the plumbing repair and any access it still requires. The existing hole may not reach all affected construction. Newly exposed findings will be documented and connected to a proposed drying, removal, or appropriate remediation task before the scope expands."
+      },
+      {
+        "title": "Giving the repair provider a useful boundary",
+        "text": "We will record completed restoration and remaining moisture, source, or verification needs. Retained pieces will have an agreed status. Carpentry and finish matching remain separate decisions, so the handoff does not promise effortless reinstatement if the repaired assembly changes."
+      }
+    ],
+    "estimate": "Construction, retained components, access, handling, and material condition affect pricing. We will distinguish plumbing, restoration, and rebuilding and state concealed limits in the initial proposal. Changes will be reviewed before additional work.",
+    "checklist": [
+      "Identify the built-in and pieces you hope to keep.",
+      "Share pipe-repair notes and photographs.",
+      "Tell us which provider will handle reinstatement."
+    ]
+  },
+  "appliance-leak-cleanup/briaroaks": {
+    "intro": "Appliance leak cleanup in Briaroaks helps when an appliance has been removed but the replacement installer will not proceed until the surrounding material is addressed. The remaining task should be clearly defined. We will inspect accessible findings, explain restoration and source dependencies, and provide the material handoff for reinstallation.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Briaroaks after an installer pauses",
+        "text": "We will review the installer\u2019s observations and identify what was exposed by removing the unit. The footprint may reveal floor or wall layers that were previously hidden. The scope will distinguish current findings from assumptions and explain any further access needed."
+      },
+      {
+        "title": "Separating connection and material responsibilities",
+        "text": "The appliance or plumbing provider should resolve its source and connection tasks. We will coordinate around that access while explaining drying, removal, or appropriate remediation for the building. A replacement unit does not establish that concealed material beside it is ready to cover."
+      },
+      {
+        "title": "Defining the restart point",
+        "text": "We will document completed restoration and remaining moisture, repair, or verification needs. The installer retains responsibility for its own service and installation requirements. Delivery timing should follow the handoff rather than become the reason an unresolved surface is covered again."
+      }
+    ],
+    "estimate": "Affected layers, access, source status, handling, and construction shape pricing. We will separate appliance service, restoration, and finish repair. New findings will be reviewed with their proposed task before further authorization.",
+    "checklist": [
+      "Share the installer\u2019s notes and photos.",
+      "Provide source-repair information.",
+      "Identify any reinstallation or connection visits already planned."
+    ]
+  },
+  "storm-water-damage-cleanup/briaroaks": {
+    "intro": "Storm water damage cleanup in Briaroaks helps when you need to keep an unaffected part of the home usable while a storm-damaged room is restored. The practical question is how people, belongings, and repair providers will move around the work. We will establish the affected area, explain the working arrangement, and give you a room-specific sequence for cleanup and repair.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Briaroaks while nearby rooms remain in use",
+        "text": "We will review the rooms you need to reach and the route our work requires. Where an area has a wet electrical component, unstable overhead material, or another unresolved concern, its access will need appropriate evaluation. The household will receive a clear explanation of restricted areas and useful routes, rather than have to infer them from equipment placement."
+      },
+      {
+        "title": "Choosing a temporary home for moved belongings",
+        "text": "A dry bedroom may be available for storage, but first the condition of the moved items needs to be understood. We will separate simple access handling from belongings requiring their own evaluation. The agreed placement will keep walkways and future repair access available, reducing repeated moves between active work areas."
+      },
+      {
+        "title": "Scheduling the interruption around real tasks",
+        "text": "We will explain when removal, inspection, drying visits, and finish work need entry. A roofer or exterior provider may have a separate source-correction task that affects the sequence. If a concealed finding changes the plan, the update will identify the room, the reason, and the next decision instead of leave the family with a vague new completion date."
+      },
+      {
+        "title": "Putting the room back into use",
+        "text": "The handoff will describe material work completed and what remains before finishes or furnishings return. Any appropriate mold-remediation need discovered during opening will be treated as a specific task. Belongings ready to return will stay distinguishable from items still awaiting review."
+      }
+    ],
+    "estimate": "Pricing will reflect the affected construction and the handling needed for this arrangement. We will identify temporary contents moves, building restoration, source repairs, and reinstatement separately so you can see which interruptions belong to which part of the project.",
+    "checklist": [
+      "Identify rooms and routes the household needs during work.",
+      "Tell us which space could hold moved items temporarily.",
+      "Share source-repair appointments so entry can be coordinated."
+    ]
+  },
+  "structural-drying-services/briaroaks": {
+    "intro": "Structural drying services in Briaroaks help when a repair provider needs clarity about a retained material that could not be inspected during the first response. The next step should address that access gap directly. We will review current conditions, explain the drying or material decision, and document what the selected approach can establish.",
+    "sections": [
+      {
+        "title": "Structural drying services in Briaroaks for previously blocked material",
+        "text": "We will identify why the area was inaccessible and what has changed. Newly available access may reveal a different construction or condition from the visible room. The scope will describe those findings rather than assume the original setup evaluated every hidden layer."
+      },
+      {
+        "title": "Choosing a useful approach",
+        "text": "We will explain whether accessible observations support drying in place, improved access, or another material decision. Changes will have a defined purpose and approval. Suspected growth requires appropriate remediation rather than ordinary drying being treated as a complete answer to every finding."
+      },
+      {
+        "title": "Providing the repair-focused record",
+        "text": "We will document material addressed and remaining source, access, moisture, or verification needs. The next provider should know what was reached and what remains limited. Equipment pickup should not substitute for that account when deciding whether to close the assembly."
+      }
+    ],
+    "estimate": "Construction, retained layers, access, monitoring, and material response influence the scope. We will separate drying from removal and rebuilding and explain changes against findings. No fixed duration will stand in for evaluating the relevant condition.",
+    "checklist": [
+      "Identify the area missed or blocked during the first response.",
+      "Share prior drying and source-repair records.",
+      "Tell us which repair depends on its evaluation."
+    ]
+  },
+  "floor-water-damage-cleanup/briaroaks": {
+    "intro": "Floor water damage cleanup in Briaroaks helps when an installer finds damage beneath an old finish and the owner needs to distinguish water restoration from the replacement project. The exposed layer deserves a specific decision. We will review accessible findings, explain treatment or removal, and coordinate the handoff before new flooring is installed.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Briaroaks after finish removal",
+        "text": "We will identify the material exposed and the connected areas still covered. The flooring order should not automatically define the restoration boundary. Current findings and access limits will guide the proposal rather than a blanket assumption about every section scheduled for replacement."
+      },
+      {
+        "title": "Reviewing the source and supporting layers",
+        "text": "We will use leak-repair information to identify known correction and unresolved questions. Underlayment, adhesive, or base material may need different handling. Suspected growth or damaged components require an appropriate scope rather than being concealed because the installer is ready to proceed."
+      },
+      {
+        "title": "Restarting installation from a clear record",
+        "text": "We will document completed restoration and remaining moisture, access, or verification needs. The flooring provider retains responsibility for its product and installation requirements. Optional finish changes remain separate from tasks supported by the water findings."
+      }
+    ],
+    "estimate": "Construction layers, source status, access, removal, and handling affect pricing. We will distinguish restoration from planned flooring work and identify overlap clearly. Additional findings will be explained before authorization.",
+    "checklist": [
+      "Provide discovery photographs and the flooring proposal.",
+      "Share known leak and repair information.",
+      "Identify layers still covered or inaccessible."
+    ]
+  },
+  "ceiling-water-damage-cleanup/briaroaks": {
+    "intro": "Ceiling water damage cleanup in Briaroaks helps when a source repair requires the ceiling to stay open but the surrounding material also needs restoration. The shared opening should serve both tasks without creating confusion. We will review accessible findings, explain protection and material decisions, and coordinate the handoff before closure.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Briaroaks with continuing repair access",
+        "text": "We will identify the provider\u2019s remaining task and which parts of the assembly can currently be evaluated. A service opening may be adequate for one connection without reaching all affected layers. The scope will state those limits and explain further access rather than assume the whole cavity is addressed."
+      },
+      {
+        "title": "Planning the overhead work",
+        "text": "Contents below, fixtures, and unstable material can affect the sequence. We will explain relevant protection and handling before removal. Insulation, framing, or other findings revealed by access will receive a defined next decision, with suspected growth assigned an appropriate remediation scope."
+      },
+      {
+        "title": "Closing only after the responsibilities are clear",
+        "text": "We will record restoration completed and remaining source, moisture, repair, or verification needs. The finish provider should know whether another visit still requires the opening. Decorative matching may involve a wider area, but remains separate from evidence of the material extent."
+      }
+    ],
+    "estimate": "Height, construction, access, protection, and coordination affect pricing. We will distinguish restoration from source service and final decoration. New findings and additional tasks will be reviewed before authorization.",
+    "checklist": [
+      "Share the service provider\u2019s remaining access needs.",
+      "Identify belongings under the opening.",
+      "Avoid unstable overhead material and wet fixtures."
+    ]
+  },
+  "bathroom-mold-removal/briaroaks": {
+    "intro": "Bathroom mold removal in Briaroaks helps when a bathroom cabinet has been partly dismantled and the owner needs to know which remaining surfaces require treatment before rebuilding. Partial removal creates access but not a complete material decision. We will review accessible findings, define appropriate remediation, and coordinate source and repair responsibilities.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Briaroaks after partial cabinet removal",
+        "text": "We will identify which components are gone and what the opening reveals about walls, floor edges, and retained pieces. The demolition boundary should not automatically become the treatment boundary. Further access will be explained from findings rather than assumed necessary across the entire room."
+      },
+      {
+        "title": "Separating source correction and retained components",
+        "text": "We will review the reported plumbing work and unresolved moisture questions. Components selected for reuse will have a clear status, with access limitations stated. Keeping a visible finish does not establish that every joined or hidden layer can remain or be treated without opening."
+      },
+      {
+        "title": "Preparing the rebuilding handoff",
+        "text": "We will record remediation performed and remaining moisture, repair, or applicable verification needs. The carpenter should receive the final material boundary before reinstalling pieces. Optional storage or finish changes will remain separately authorized rather than described as contamination-required work."
+      }
+    ],
+    "estimate": "Existing access, retained construction, affected extent, controls, and disposal determine pricing. We will distinguish remediation, source repair, and carpentry. Additional findings will be explained with their proposed task before approval.",
+    "checklist": [
+      "Provide photos from before and after dismantling.",
+      "Share leak-repair details.",
+      "Identify components you hope to reuse."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/briaroaks": {
+    "intro": "Kitchen cabinet mold removal in Briaroaks helps when a cabinet base is affected but the sink and counter support make access more complicated than replacing a panel. The treatment and carpentry sequence should be clear. We will assess accessible construction, explain controlled material work, and identify responsibilities before the assembly changes.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Briaroaks beneath connected fixtures",
+        "text": "We will identify the base, supports, and adjoining surfaces accessible from the cabinet. Removing a panel may affect more than its appearance. Any task involving fixture connections or support will be coordinated with the appropriate provider rather than implied by a general cleanup allowance."
+      },
+      {
+        "title": "Defining the material boundary",
+        "text": "We will review source-repair information and accessible findings without assuming the visible base describes every hidden edge. Further opening will have a stated purpose. New findings will be documented before treatment or removal extends, and retention preferences will not override the need to reach affected material."
+      },
+      {
+        "title": "Giving carpentry a useful starting condition",
+        "text": "We will record surfaces addressed, components removed, and remaining moisture or verification requirements. The repair provider should understand the changed assembly before reinstatement. Matching finishes or elective cabinet changes are separate choices from the work supported by the remediation findings."
+      }
+    ],
+    "estimate": "Cabinet construction, support and connection access, controls, handling, and removal influence pricing. Plumbing, remediation, and carpentry will be separately assigned. Initial concealed limits will remain explicit until access supports a decision.",
+    "checklist": [
+      "Show the base and connected fixture arrangement.",
+      "Provide source-repair records.",
+      "Identify the provider coordinating support or fixture work."
+    ]
+  },
+  "mold-remediation-after-water-damage/briaroaks": {
+    "intro": "Mold remediation after water damage in Briaroaks helps when a retained wall or floor layer shows concern after the room has already been cleared for rebuilding in the schedule. The material condition needs review before that schedule proceeds. We will evaluate accessible findings, explain appropriate remediation, and provide a current handoff for the repair team.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Briaroaks after a new finding",
+        "text": "We will identify what was observed and what earlier work documented about the assembly. A planned repair date does not establish the current condition. The scope will distinguish present findings from assumptions about areas that remained concealed during the first response."
+      },
+      {
+        "title": "Defining the task that changes the plan",
+        "text": "We will explain controlled treatment, removal, or further access supported by the material. Source questions will keep an appropriate repair responsibility. Any additional finding will be tied to a proposed action before authorization rather than become an undefined expansion of the rebuilding project."
+      },
+      {
+        "title": "Updating the reconstruction handoff",
+        "text": "We will document completed remediation and remaining moisture, access, repair, or applicable verification requirements. The next provider should use that account before closure. Optional finish choices remain separate so the reason for each restoration task stays understandable."
+      }
+    ],
+    "estimate": "Access, affected layers, controls, handling, removal, and documentation influence pricing. We will distinguish prior work, current remediation, and reconstruction. The initial estimate will state uncertainties that require further access.",
+    "checklist": [
+      "Share the new finding and earlier cleanup records.",
+      "Provide source-correction details.",
+      "Identify installation tasks affected by the pause."
+    ]
+  },
+  "mold-removal-behind-drywall/briaroaks": {
+    "intro": "Mold removal behind drywall in Briaroaks helps when an opening is partly blocked by a fixture or mounted component and the concern continues beyond the visible edge. The work needs a practical access decision. We will review the assembly, explain controlled removal, and coordinate the component responsibilities before treatment and closure.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Briaroaks beside an attached component",
+        "text": "We will identify what the existing opening reveals and which surface remains obscured. Removing or moving the component may require another provider. The scope will explain that dependency rather than claim treatment of a hidden section that the selected route cannot reach."
+      },
+      {
+        "title": "Reviewing material as it becomes accessible",
+        "text": "Drywall, insulation, framing, and utilities may require different decisions. We will document findings and identify treatment, removal, or specialist tasks. Additional opening will have a purpose and approval instead of automatically spreading across the wall because one area is already disturbed."
+      },
+      {
+        "title": "Preparing reinstatement from the final record",
+        "text": "We will identify remediation completed and remaining source, moisture, repair, or verification needs. The provider restoring the attached component should receive the relevant handoff. Paint or texture work should follow the assembly\u2019s condition rather than conceal an unresolved access question."
+      }
+    ],
+    "estimate": "Construction, component access, affected extent, controls, and disposal shape pricing. We will separate remediation from specialist service and decorative repair. Initial limitations will remain stated until further access permits evaluation.",
+    "checklist": [
+      "Show the opening and attached component.",
+      "Share the leak history and repair status.",
+      "Identify the provider responsible for moving or reinstalling the component."
+    ]
+  },
+  "kitchen-fire-cleanup/briaroaks": {
+    "intro": "Kitchen fire cleanup in Briaroaks helps when the owner needs to decide whether emptying and cleaning cabinet interiors is enough before stored items return. The cabinet surfaces and the belongings have separate treatment questions. We will assess accessible residue and damage, explain material limits, and coordinate the next phase with both statuses in view.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Briaroaks before cabinet restocking",
+        "text": "We will identify the interiors, edges, and connected surfaces included in the scope. Clearing shelves improves access without establishing that every retained material can be restored by the same method. Appropriate evaluation will guide the cleaning or removal decision."
+      },
+      {
+        "title": "Keeping contents and equipment decisions distinct",
+        "text": "Stored belongings may have been moved without treatment, and operational equipment may require specialist review. We will identify those responsibilities. A clean cabinet or appliance exterior should not be used as evidence that every item or internal component is ready for use."
+      },
+      {
+        "title": "Providing the return-to-storage handoff",
+        "text": "We will document building work and remaining residue, moisture, access, or repair needs. New panels or finishes should not hide an unresolved condition. Items still awaiting decisions should remain identifiable rather than return automatically because shelving is available again."
+      }
+    ],
+    "estimate": "Materials, residue, damage, access, evaluation, and handling affect pricing. We will distinguish cabinet treatment, contents work, specialist service, and rebuilding. Newly exposed findings will be reviewed before additional authorization.",
+    "checklist": [
+      "Identify contents waiting to return.",
+      "Share earlier cleaning or removal records.",
+      "List cabinets and finishes you want evaluated for retention."
+    ]
+  },
+  "smoke-damage-cleanup/briaroaks": {
+    "intro": "Smoke damage cleanup in Briaroaks helps when cleaning and painting proposals overlap but neither clearly describes the retained surfaces between them. The next task should have a defined purpose. We will assess accessible residue and materials, explain treatment limits, and identify the finish decisions that remain after cleanup.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Briaroaks between cleaning and painting",
+        "text": "We will identify the surfaces each proposal addresses and the areas still inaccessible. A painting allowance should not be assumed to include residue treatment, and a cleaning scope should not promise refinishing automatically. The work boundary will follow accessible findings rather than a broad room label."
+      },
+      {
+        "title": "Reviewing material response before a larger commitment",
+        "text": "Coatings, wood, textured details, and other finishes can require different approaches. We will explain an appropriate limited evaluation where useful and its uncertainty. A result on one surface will not be generalized to every material or used to promise removal of all visible changes."
+      },
+      {
+        "title": "Giving the next provider a useful record",
+        "text": "We will document treatment completed and remaining contents, access, or specialist questions. Further cleaning or refinishing should connect to a specific unresolved condition. Belongings should retain their own status rather than be treated as addressed because the room is ready for decoration."
+      }
+    ],
+    "estimate": "Material variety, residue, access, evaluation, and handling influence pricing. We will separate cleaning, contents work, specialist service, and refinishing. Any scope change will be explained before further authorization.",
+    "checklist": [
+      "Share cleaning and painting proposals together.",
+      "Identify retained finishes and blocked areas.",
+      "Describe prior products or methods used if known."
+    ]
+  },
+  "toilet-overflow-cleanup/briaroaks": {
+    "intro": "Toilet overflow cleanup in Briaroaks helps when a release reaches a bathroom\u2019s storage area and the owner needs to decide what happens to both the built-in material and stored items. Clearing the shelves does not complete either task. We will review accessible spread, explain handling and cleanup, and coordinate the plumbing and repair sequence.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Briaroaks around bathroom storage",
+        "text": "We will identify accessible cabinet bases, wall edges, and floor layers and state what remains hidden. The storage outline should not automatically define the cleanup boundary. Any opening will have a purpose tied to the findings rather than a blanket replacement recommendation."
+      },
+      {
+        "title": "Keeping item handling reviewable",
+        "text": "Supplies or belongings may need separate evaluation or disposal decisions. We will distinguish those from temporary movement for building access. Relocation into another room should preserve item status rather than imply treatment or introduce an unresolved handling problem elsewhere."
+      },
+      {
+        "title": "Preparing the reinstatement handoff",
+        "text": "We will document removal, cleaning, moisture work, and remaining access or verification needs. The plumbing source correction retains its own responsibility. Replacement storage or finishes should follow the material account rather than a functioning fixture being treated as completion of the surrounding room."
+      }
+    ],
+    "estimate": "Exposure, construction, stored volume, access, controls, and disposal affect pricing. We will separate plumbing, building cleanup, contents work, and rebuilding. Additional findings will be reviewed before expansion.",
+    "checklist": [
+      "Restrict access for people and pets.",
+      "Identify stored items needing decisions.",
+      "Share the source correction and initial photos."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/briaroaks": {
+    "intro": "AC leak water damage cleanup in Briaroaks helps when a repaired equipment leak has left more than one stained surface and the owner needs to understand which areas share a restoration task. The visible marks may have different access and material conditions. We will review service information, inspect accessible findings, and explain the next step for each area.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Briaroaks across connected surfaces",
+        "text": "We will identify where water was observed and the accessible wall, ceiling, or floor layers involved. The largest stain should not define every material decision. Concealed sections will remain stated limits rather than be assumed addressed through a nearby exposed surface."
+      },
+      {
+        "title": "Coordinating source and material work",
+        "text": "We will review the HVAC correction and any return visit needed. Equipment operation does not establish construction readiness. Proposed opening, drying, removal, or appropriate remediation will be tied to the findings, with responsibilities for service components kept separate."
+      },
+      {
+        "title": "Providing an area-by-area handoff",
+        "text": "We will record restoration completed and remaining source, access, moisture, or verification needs. The repair provider should know which surfaces can proceed and which remain limited. Cosmetic matching may involve a wider visual area without proving uniform water damage throughout it."
+      }
+    ],
+    "estimate": "Construction, spread, access, handling, and mechanical coordination shape pricing. We will distinguish HVAC service, restoration, and decoration and state initial uncertainties. New findings will be reviewed before additional work.",
+    "checklist": [
+      "Share the service report and photos of each affected area.",
+      "Identify any remaining service access.",
+      "Provide the planned finish-repair sequence."
+    ]
+  },
+  "crawl-space-water-removal/briaroaks": {
+    "intro": "Crawl space water removal in Briaroaks helps when you are deciding whether the next visit should be pumping, a source investigation, or both. A report of standing water does not define those responsibilities. We will review the available observations, explain a limited removal phase, and identify what information the returning repair provider will need.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Briaroaks as a defined first phase",
+        "text": "We will establish the intended result of the visit: which accessible accumulation will be collected and which area needs to be made available for inspection. That gives the owner a concrete task to authorize. A full below-floor restoration proposal may require observations that are not available until that first phase is completed."
+      },
+      {
+        "title": "Separating an active source from water already present",
+        "text": "The source provider needs to establish whether a release or entry condition continues. We will record the status reported to us and coordinate around its work. Collection can address water currently accessible, while a continuing source may change the timing or require another visit; those possibilities belong in the proposal instead of being hidden behind one pumping price."
+      },
+      {
+        "title": "Turning the improved view into the next decision",
+        "text": "After collection, there may be insulation, covering, stored material, or connected areas needing individual review. We will identify those observations and the places still out of reach. Suspected contamination or mold will lead to an appropriate treatment decision, while structural or utility evaluation remains with the relevant provider."
+      },
+      {
+        "title": "Defining the handoff rather than a broad completion claim",
+        "text": "The account will state the purpose achieved, the sections reached, and the unresolved questions. The next visit can then be scheduled for a specific investigation or restoration task. This keeps the first authorization useful even when the owner is not yet ready to commit to a larger repair project."
+      }
+    ],
+    "estimate": "We will price the agreed removal phase and identify any separate access clearing, material handling, or return work. Broader cleanup, drying, and source repairs will be explained as their own decisions after the available evidence supports them.",
+    "checklist": [
+      "Share what the inspection was trying to establish.",
+      "Identify the provider investigating the source.",
+      "Tell us who will approve the next phase after the removal record is available."
+    ]
+  },
+  "attic-mold-remediation/briaroaks": {
+    "intro": "Attic mold remediation in Briaroaks helps when the owner wants a defined treatment record before approving insulation or other attic work. The next provider needs to know what was addressed, not just that a visit occurred. We will evaluate accessible material, explain the remediation boundary, and document remaining source or access questions.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Briaroaks before another attic project",
+        "text": "We will review the planned work and identify surfaces relevant to the current concern. The renovation footprint does not automatically establish contamination extent. Accessible findings and limits will guide treatment rather than a broad assumption that every attic surface needs the same process."
+      },
+      {
+        "title": "Coordinating access and moisture correction",
+        "text": "Insulation, framing, equipment, or storage may restrict the first view. We will explain handling needed and identify source questions for the appropriate provider. Remediation should not be presented as a roof or mechanical correction or as approval of components outside the scope."
+      },
+      {
+        "title": "Providing a record before coverage changes",
+        "text": "We will identify surfaces treated, removals, and remaining access or verification needs. New findings will be reviewed before the boundary expands. The next provider should receive that handoff before insulation or repairs make the area harder to inspect again."
+      }
+    ],
+    "estimate": "Access, extent, materials, controls, handling, and coordination determine pricing. We will separate remediation from source repair and reinstatement. Initial limitations will remain explicit until evaluation supports a decision.",
+    "checklist": [
+      "Share the next attic-work proposal.",
+      "Provide inspection photos and moisture history.",
+      "Identify the contact coordinating work order and access."
+    ]
+  },
+  "crawl-space-mold-remediation/briaroaks": {
+    "intro": "Crawl space mold remediation in Briaroaks helps when a reported concern sits behind stored or loose material that must be handled before the assembly can be evaluated. Clearing access and treatment are separate tasks. We will define authorized handling, review accessible findings, and explain remediation before the area is covered or restocked.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Briaroaks behind obstructions",
+        "text": "We will identify the target area and what prevents a useful view. Material moved for access should have a clear destination and status. Clearing a route does not establish that every item or attached surface encountered along it has been evaluated or treated."
+      },
+      {
+        "title": "Reviewing the newly accessible assembly",
+        "text": "Insulation, framing, and other retained material may require different decisions. We will document findings and explain proposed treatment or removal. Source and specialist questions remain with the appropriate providers rather than surface remediation being represented as their evaluation."
+      },
+      {
+        "title": "Completing a defined handoff",
+        "text": "We will record areas addressed and remaining moisture, access, repair, or verification needs. Additional findings will be discussed before expansion. Replacement material or storage should follow that account rather than make an unresolved section difficult to reach again."
+      }
+    ],
+    "estimate": "Obstructions, clearance, affected extent, controls, handling, and disposal influence pricing. We will distinguish access clearing, remediation, source repair, and reinstatement. The initial estimate will state what cannot yet be established.",
+    "checklist": [
+      "Share the inspection location and access photos.",
+      "Identify items or material that must be retained.",
+      "Provide known moisture and repair history."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/briaroaks": {
+    "intro": "Mold contaminated contents cleaning in Briaroaks helps when belongings were placed together after a moisture event but some have a known exposure and others do not. The collection needs a useful sorting decision before treatment. We will review available history, evaluate agreed items, and document the limits and choices for each group.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Briaroaks with mixed exposure records",
+        "text": "We will use labels, photographs, and owner information without turning missing history into certainty. Items stored together can still have different materials and conditions. The original room or box label should not establish a blanket salvage or disposal decision."
+      },
+      {
+        "title": "Explaining appropriate evaluation",
+        "text": "Visible surfaces and hidden construction may have different treatment prospects. We will explain options and specialist needs before approval. A limited treatment attempt should have a defined purpose and uncertainty rather than a promise that sentimental or hard-to-replace items will restore successfully."
+      },
+      {
+        "title": "Preserving status through handling",
+        "text": "We will distinguish completed work, pending decisions, referrals, and approved disposal as applicable. Repacking should not make unresolved contents appear treated. Return will also account for the receiving space and any remaining building moisture or remediation work."
+      }
+    ],
+    "estimate": "Quantity, materials, condition, sorting, evaluation, and handling affect pricing. We will identify storage, transport, specialist work, and treatment attempts separately where relevant. The proposal will state which groups and tasks are authorized.",
+    "checklist": [
+      "Keep existing labels and packing photographs.",
+      "List priority items and known exposure.",
+      "Identify the intended receiving area and its condition."
+    ]
+  },
+  "fire-damaged-debris-removal/briaroaks": {
+    "intro": "Fire damaged debris removal in Briaroaks helps when the owner wants a limited clearing phase before deciding how much of a damaged room to rebuild. The removal needs to create a useful view while preserving undecided components. We will define the initial clearing objective, record approved disposal, and explain what the exposed room still needs.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Briaroaks before a rebuilding choice",
+        "text": "We will identify the areas the owner or repair provider needs to see and the loose material authorized for removal. That first phase can be narrower than full demolition. Its endpoint will be described by the access created, so a limited disposal task is not mistaken for a decision about every attached wall, cabinet, or fixture."
+      },
+      {
+        "title": "Maintaining an undecided-material list",
+        "text": "Some components may stay while the owner compares retention and replacement. We will identify them before work and agree on any movement needed to reach the approved debris. Their presence in the cleared room will mean they are awaiting a decision, not that they have been found undamaged or ready for reuse."
+      },
+      {
+        "title": "Using the exposed view productively",
+        "text": "Once the agreed clearing is complete, the next provider can review surfaces and connections that were previously blocked. We will record observed residue or other conditions needing attention. Attached construction involving utilities or support questions will remain separately evaluated before any further removal is authorized."
+      },
+      {
+        "title": "Choosing the next scope from the findings",
+        "text": "The owner will receive an account of what left the property, what was deliberately retained, and what tasks remain. Cleaning, specialist evaluation, and reconstruction can then be considered as concrete proposals. This avoids allowing the first clearing visit to determine the entire rebuilding plan by default."
+      }
+    ],
+    "estimate": "The estimate will identify the limited clearing boundary, route protection, disposal, and handling of retained items. Any later demolition or treatment will have a separate purpose and approval tied to the exposed condition.",
+    "checklist": [
+      "Identify the room areas needed for the next inspection.",
+      "List components you have not yet decided to retain or replace.",
+      "Name the contact who can approve a change to the limited clearing phase."
+    ]
+  },
+  "fire-damaged-contents-cleaning/briaroaks": {
+    "intro": "Fire damaged contents cleaning in Briaroaks helps when belongings have been evaluated but the owner still needs to choose which treatment attempts to authorize. The options should be specific and understandable. We will review the item findings, explain material and specialist limits, and document the selected work before handling or return.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Briaroaks after an initial evaluation",
+        "text": "We will distinguish completed assessment from treatment not yet approved. Item construction, condition, and intended use can lead to different decisions. A room-wide category should not imply that every object has the same restoration prospects or requires the same process."
+      },
+      {
+        "title": "Making the treatment choice informed",
+        "text": "We will explain the purpose and uncertainty of an appropriate attempt and identify specialist responsibilities. A surface result should not establish internal or operating condition. Importance or replacement difficulty can guide priorities without becoming a guarantee of a successful outcome."
+      },
+      {
+        "title": "Keeping approvals visible through delivery",
+        "text": "We will record treated, pending, referred, and disposal-approved items as applicable. Storage and transport should preserve those identities. Return should account for the receiving room\u2019s restoration status rather than a moving date converting undecided items into assumed completions."
+      }
+    ],
+    "estimate": "Materials, quantity, condition, treatment selected, and handling affect pricing. We will identify storage, transport, specialist service, and staged return separately where relevant. The proposal will make clear which evaluation findings lead to which authorized tasks.",
+    "checklist": [
+      "Share the existing item evaluation or inventory.",
+      "Identify priorities and disposition decisions already made.",
+      "Provide the intended return locations and repair status."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/briaroaks": {
+    "intro": "Fire extinguisher residue cleanup in Briaroaks helps when a discharge has reached paperwork, boxed records, and the surfaces around a desk. Clearing the room quickly can mix items that need different decisions. We will organize the agreed item handling, review the discharged agent, and define the building cleanup while records or equipment receive the appropriate separate evaluation.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Briaroaks around records and paperwork",
+        "text": "We will identify which documents or containers the owner needs preserved for review. Sensitive or irreplaceable material should have an agreed handling destination rather than be swept into ordinary debris. Inventory or relocation is a separate task from treatment, and the status of each held group will remain clear."
+      },
+      {
+        "title": "Separating the desk area into practical tasks",
+        "text": "Desktop surfaces, drawers, shelving, and objects stored within them may have different access. We will describe what can be reached during the proposed cleaning and which contents need individual review. The extinguisher label will inform the agent discussion; appearance alone will not determine the method for every material."
+      },
+      {
+        "title": "Keeping operational and specialist decisions assigned",
+        "text": "A printer, computer, or other device may need a qualified service provider\u2019s evaluation. We will identify that boundary rather than equate exterior residue removal with internal recovery. Paper or delicate items requiring specialist attention will similarly remain distinct from cleaning the fixed surfaces around them."
+      },
+      {
+        "title": "Returning an organized workspace",
+        "text": "The handoff will identify fixed surfaces addressed and items that are treated, held, referred, or otherwise awaiting an owner decision. Restocking will follow those statuses. A clean desk should not make an unresolved box appear complete merely because it is placed back beside the equipment."
+      }
+    ],
+    "estimate": "Pricing will separate room-surface cleanup, sorting or temporary handling, individual contents work, and any specialist referral. The owner can prioritize essential groups without authorizing one undefined process for everything in the workspace.",
+    "checklist": [
+      "Identify records that must be preserved for review.",
+      "Keep the extinguisher label information if safely available.",
+      "List equipment that needs a separate operational evaluation."
+    ]
+  },
+  "emergency-board-up-after-fire/briaroaks": {
+    "intro": "Emergency board up after fire in Briaroaks can require extra coordination when the property owner cannot attend the visit. We will confirm the authorized openings and provide an understandable record of what was temporarily protected.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Briaroaks for an off-site owner",
+        "text": "Photographs supplied before arrival can help identify the request, but conditions at the property will determine what can be installed. We will confirm the work area and the person authorized to approve changes. If the observed opening differs from the description, you will receive an explanation before the scope changes."
+      },
+      {
+        "title": "Make the completion record easy to match to the property",
+        "text": "Several damaged openings can look similar in close-up photographs. We will identify the locations addressed so you can distinguish the front room window, rear door or other authorized area without being onsite. Any opening left incomplete will have a stated reason rather than disappear from the update."
+      },
+      {
+        "title": "Arrange later access through a named contact",
+        "text": "An inspector or repair provider may need to reach an opening after it has been covered. We will explain any return work included and identify how a later request should be coordinated. Temporary protection does not give visitors unrestricted entry or establish that the building is ready for occupancy."
+      }
+    ],
+    "estimate": "The proposal will specify the openings and initial installation work. If later access requires adjustment, that visit will be distinguished from the original work, with an authorized contact available to confirm the change.",
+    "checklist": [
+      "Provide a contact who can approve changes during the visit.",
+      "Label photographs by room or side of the building.",
+      "Share scheduled inspection or replacement visits."
+    ]
+  },
+  "crawl-space-sewage-cleanup/briaroaks": {
+    "intro": "Crawl space sewage cleanup in Briaroaks helps when the owner is coordinating work remotely and needs more than a message saying the underside was cleaned. The important decisions concern location, material, and remaining access. We will define the accessible cleanup scope, record the work in understandable sections, and explain the next tasks before replacement materials are installed.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Briaroaks for an owner off site",
+        "text": "We will confirm the local access contact and the person approving work. Initial photographs or reports may describe only part of the space. The proposed scope will identify those limits so remote authorization is based on a concrete task rather than an assumed whole-building view."
+      },
+      {
+        "title": "Giving progress updates a location and purpose",
+        "text": "An update will explain which section was reached, what material was handled, and which task is proposed next. Liquid collection, removal of affected material, retained-surface work, and drying are different milestones. Keeping those descriptions separate allows an absent owner to understand progress without interpreting equipment removal as full completion."
+      },
+      {
+        "title": "Coordinating decisions with the repair providers",
+        "text": "We will review the reported source correction and any plumber\u2019s return visit. Newly accessible findings may require another appropriate scope, including suspected mold or a component needing specialist review. Those decisions will be explained before authorization rather than buried inside a general cleanup summary."
+      },
+      {
+        "title": "Handing the record to the replacement installer",
+        "text": "We will identify completed areas and remaining moisture, access, repair, or verification needs. The installer should receive the relevant account before covering the assembly. Any section not reached will remain visible in the handoff so later work can be planned around the actual limits."
+      }
+    ],
+    "estimate": "Pricing will reflect the accessible contamination, material handling, disposal, moisture work, and agreed follow-up. We will distinguish cleanup, plumbing, and reconstruction and explain changes directly to the authorized contact before additional tasks proceed.",
+    "checklist": [
+      "Identify the local access person and remote decision-maker.",
+      "Share all inspection photos and source-repair records.",
+      "Tell us which provider will receive the final work account."
+    ]
+  }
+}

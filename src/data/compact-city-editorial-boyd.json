@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/boyd": {
+    "intro": "Emergency water extraction in Boyd helps when standing water needs immediate attention and you also need a clear record of the work for the people coordinating repairs. The first response should identify its scope without pretending every concealed layer is already known. We will collect accessible water, document findings, and explain the next material decisions.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Boyd with a useful first-visit record",
+        "text": "We will identify accessible rooms, observed water, and areas blocked by belongings or construction. The record will distinguish current observations from owner-reported history. It can support coordination, but will not be presented as a claim decision or proof of conditions in sections the visit could not reach."
+      },
+      {
+        "title": "Connecting removal to the exposed materials",
+        "text": "Collection may reveal floor edges, wall bases, or built-ins needing drying or further access. We will explain each proposed next task from the findings. Items moved out of the way keep their own evaluation status rather than be treated as restored because the building beneath them is accessible."
+      },
+      {
+        "title": "Making the follow-up plan concrete",
+        "text": "We will record removal completed and unresolved source, access, or material needs. Appropriate remediation may be required if suspected growth is discovered. Reconstruction should follow the relevant handoff instead of a general completion label based on the disappearance of standing water."
+      }
+    ],
+    "estimate": "Water condition, spread, construction, access, handling, and follow-up determine the scope. We will separate extraction, continued drying, contents work, and rebuilding. New findings and tasks will be reviewed before authorization.",
+    "checklist": [
+      "Identify the source and whether it has stopped.",
+      "Share photographs from before initial handling.",
+      "Name the contact who receives updates and approves changes."
+    ]
+  },
+  "burst-pipe-cleanup/boyd": {
+    "intro": "Burst pipe cleanup in Boyd helps when a pipe repair and several material-repair proposals leave you unsure which tasks need to happen first. The source correction, drying, and new finishes are connected but separate phases. We will review accessible damage, explain the restoration work, and provide a handoff that makes the sequence understandable.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Boyd between service and reconstruction",
+        "text": "We will identify the repaired connection and access the plumber still needs. Its completed task does not establish the condition of every floor or wall layer reached by the release. The restoration scope will describe its own findings and limits rather than assume the rebuilding proposal covers those questions."
+      },
+      {
+        "title": "Explaining proposed material work",
+        "text": "Retained finishes and concealed construction can require different decisions. We will connect opening, removal, or drying to the condition actually encountered. Additional findings will be documented before the scope expands, while optional design or finish changes remain separately authorized choices."
+      },
+      {
+        "title": "Giving the next provider a clear starting point",
+        "text": "We will record restoration completed and outstanding moisture, source, access, or verification needs. Suspected growth requires an appropriate remediation scope if found. The finish provider should know what can proceed and what remains unresolved, rather than treat its installation date as evidence of readiness."
+      }
+    ],
+    "estimate": "Construction, water spread, access, material handling, and source status affect pricing. Plumbing, restoration, and decorative work will be separately described. The initial estimate will state concealed limits and explain approval for further findings.",
+    "checklist": [
+      "Share the plumbing and rebuilding proposals.",
+      "Identify current openings and retained finishes.",
+      "Provide photographs showing the release route."
+    ]
+  },
+  "appliance-leak-cleanup/boyd": {
+    "intro": "Appliance leak cleanup in Boyd helps when water has affected a recently installed floor near a dishwasher, washer, or refrigerator. Protecting the new appearance matters, but the layers beneath it still need evaluation. We will review accessible findings, explain retention and access choices, and coordinate the source service before repair or reinstallation.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Boyd beside a new floor",
+        "text": "Product or installation information can help identify the assembly without establishing its current condition. We will review accessible edges and explain what remains concealed. The floor\u2019s age should not be used to promise retention or recommend replacement without the findings needed for that decision."
+      },
+      {
+        "title": "Keeping appliance and material responsibilities separate",
+        "text": "We will review the reported service correction and any connection work still pending. Moving the unit may require the appropriate provider. A functioning appliance does not establish that the supporting layers are ready to cover, and newly exposed material may need drying, removal, or appropriate remediation."
+      },
+      {
+        "title": "Planning the reinstatement handoff",
+        "text": "We will record completed restoration and remaining source, moisture, access, or verification needs. The flooring provider remains responsible for its own installation requirements. Matching or replacing a wider visual area can be a separate choice rather than evidence that all those surfaces sustained the same exposure."
+      }
+    ],
+    "estimate": "Floor construction, appliance access, affected depth, handling, and source status influence pricing. We will distinguish service, restoration, and finish repair and identify initial visibility limits. Additional work will be explained before authorization.",
+    "checklist": [
+      "Provide floor product or installation details if available.",
+      "Share appliance and plumbing service notes.",
+      "Photograph affected edges before removal."
+    ]
+  },
+  "storm-water-damage-cleanup/boyd": {
+    "intro": "Storm water damage cleanup in Boyd helps when another rain event occurs while interior repairs from an earlier leak are still underway. The new observations need to be distinguished from unfinished restoration. We will review the sequence, inspect accessible materials, and explain the source and cleanup decisions before the repair plan continues.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Boyd during an interrupted repair",
+        "text": "We will record what was open, dried, removed, or installed before the later event. That history provides context without proving the cause of every new mark. The current scope will follow accessible findings and identify what remains uncertain rather than automatically attribute all changes to one repair or release."
+      },
+      {
+        "title": "Coordinating the entry-point response",
+        "text": "The appropriate exterior provider should evaluate source correction and any temporary protection. We will review its reported status and explain dependencies for interior work. Drying material should not be presented as permanent repair of an unresolved entry path."
+      },
+      {
+        "title": "Updating the material handoff",
+        "text": "We will document the current removal or drying tasks and any remaining access, moisture, or verification needs. Suspected growth or another revealed condition needs an appropriate scope. Reconstruction should use the updated account rather than an earlier schedule that no longer reflects the assembly."
+      }
+    ],
+    "estimate": "Construction stage, exposure, access, handling, and source coordination affect pricing. We will distinguish new restoration tasks from work already completed and planned decoration. Changes will be tied to findings and reviewed before approval.",
+    "checklist": [
+      "Keep dated photos from both events.",
+      "Share the earlier restoration and exterior repair records.",
+      "Identify finishes installed or openings closed between releases."
+    ]
+  },
+  "structural-drying-services/boyd": {
+    "intro": "Structural drying services in Boyd help when equipment or access has been interrupted and you need to understand how that affects the material plan. The next step should follow current observations, not a guess about elapsed time. We will review the interruption, evaluate accessible progress, and explain any change before repairs proceed.",
+    "sections": [
+      {
+        "title": "Structural drying services in Boyd after a setup interruption",
+        "text": "We will identify what changed, when it was noticed, and which areas remain accessible. That information helps review the plan without assuming a fixed delay or outcome. The condition of retained materials should guide the decision rather than equipment runtime being treated as proof on its own."
+      },
+      {
+        "title": "Connecting adjustments to a specific purpose",
+        "text": "We will explain whether the current setup, improved access, or another material decision is appropriate to the findings. Opening or removal will have a defined reason and approval. Suspected growth requires appropriate remediation rather than extended drying being used as a blanket answer."
+      },
+      {
+        "title": "Recording the revised repair handoff",
+        "text": "We will document the materials addressed and remaining source, moisture, access, or verification needs. The repair provider should receive the current account before closure. A previously planned installation date should be coordinated with that information rather than determine when the assembly is described as complete."
+      }
+    ],
+    "estimate": "Construction, retained layers, monitoring, access, and material response shape the scope. We will separate drying from removal and reconstruction and explain changes before additional work. No fixed duration will substitute for evaluating the relevant conditions.",
+    "checklist": [
+      "Report equipment or access changes promptly.",
+      "Describe any new moisture observed.",
+      "Share the repairs waiting on the material handoff."
+    ]
+  },
+  "floor-water-damage-cleanup/boyd": {
+    "intro": "Floor water damage cleanup in Boyd helps when you are deciding between a limited repair and replacing a larger continuous floor area after a leak. Material condition and visual consistency are different questions. We will evaluate accessible layers, explain restoration-required work, and keep optional finish choices clear in the repair plan.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Boyd before a wider replacement choice",
+        "text": "We will identify the accessible affected area and the layers that cannot yet be evaluated. A continuous finish can extend farther than the water findings support. The scope should distinguish the restoration boundary from a preference to replace more material for matching or design reasons."
+      },
+      {
+        "title": "Reviewing access and retained layers",
+        "text": "Underlayment, base material, and perimeter details may need decisions after opening. We will explain why removal or drying is proposed and document new findings before expansion. Suspected growth or damaged components require appropriate treatment rather than being hidden by a larger new finish."
+      },
+      {
+        "title": "Preparing the installer\u2019s next step",
+        "text": "We will record work completed and remaining moisture, source, access, or verification requirements. The flooring provider retains its own installation and product responsibilities. The handoff should explain the actual assembly condition so a design choice does not become the evidence used to declare restoration finished."
+      }
+    ],
+    "estimate": "Construction, water condition, accessible depth, handling, and removal affect pricing. We will separate cleanup and drying from cosmetic replacement and optional changes. Initial concealed limits will remain stated until evaluation supports a decision.",
+    "checklist": [
+      "Share the flooring proposals you are considering.",
+      "Identify observed water spread and retained finishes.",
+      "Provide source-repair and earlier removal records."
+    ]
+  },
+  "ceiling-water-damage-cleanup/boyd": {
+    "intro": "Ceiling water damage cleanup in Boyd helps when a ceiling repair proposal covers the visible stain but does not explain the cavity above it. You need the material work defined before the cosmetic phase. We will review source information, inspect accessible construction, and explain removal or drying decisions before the ceiling is closed.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Boyd before a cosmetic repair",
+        "text": "We will identify what the current view establishes and what remains concealed. A stain can guide inspection without defining the full water route or depth. The restoration scope will explain any proposed opening and its purpose rather than assume the painting boundary also describes the affected assembly."
+      },
+      {
+        "title": "Planning the room below the work",
+        "text": "Furniture, stored items, fixtures, and access routes may need protection or handling. We will define those tasks before removal. Wet electrical components or unstable overhead material require appropriate restrictions, and any specialist dependency will remain separate from ordinary ceiling cleanup."
+      },
+      {
+        "title": "Giving the finish provider a material account",
+        "text": "We will document completed removal or drying and remaining source, moisture, or verification needs. Suspected growth requires appropriate remediation if discovered. Texture and paint matching may extend beyond the opening, but that cosmetic choice should not be confused with evidence of damage throughout the larger area."
+      }
+    ],
+    "estimate": "Height, construction, affected layers, protection, and access influence pricing. We will distinguish restoration, source repair, specialist service, and decoration. Newly exposed findings will be explained before additional authorization.",
+    "checklist": [
+      "Share the ceiling-repair proposal and source correction.",
+      "Identify contents below the affected area.",
+      "Avoid sagging material and wet fixtures."
+    ]
+  },
+  "bathroom-mold-removal/boyd": {
+    "intro": "Bathroom mold removal in Boyd helps when a replacement vanity is ready but the exposed wall or floor still has a suspect condition. Installing the new unit would make that area difficult to inspect again. We will review accessible findings, explain appropriate remediation, and coordinate source and repair tasks before installation.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Boyd before vanity installation",
+        "text": "We will identify what the removed cabinet exposed and the connected layers still hidden. The replacement footprint should not automatically define the treatment extent. The scope will explain any further access needed, with retained finishes considered without promising treatment of surfaces the selected approach cannot reach."
+      },
+      {
+        "title": "Reviewing the source and material decisions",
+        "text": "We will establish the reported plumbing correction and any remaining connection work. A new vanity does not resolve an unanswered moisture question. Removal, treatment, or another appropriate evaluation will be tied to findings rather than folded into an undefined installation allowance."
+      },
+      {
+        "title": "Preparing the installer\u2019s handoff",
+        "text": "We will record completed remediation and outstanding moisture, repair, or applicable verification needs. The installer should know which surfaces were addressed and whether another provider still needs access. Delivery timing should follow that sequence rather than determine when unresolved material is covered."
+      }
+    ],
+    "estimate": "Access, construction, affected layers, controls, handling, and disposal shape the estimate. We will distinguish remediation from plumbing, cabinet installation, and cosmetic work. Additional findings will be reviewed before the scope expands.",
+    "checklist": [
+      "Photograph the exposed wall and floor.",
+      "Share plumbing repair details.",
+      "Provide the installation plan and any components intended for reuse."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/boyd": {
+    "intro": "Kitchen cabinet mold removal in Boyd helps when an under-sink repair has exposed concern at the back of the cabinet but its sides and base remain difficult to evaluate. Replacing the back panel alone may leave a gap in the scope. We will inspect accessible construction, explain treatment access, and define the handoff before rebuilding.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Boyd behind a removed back panel",
+        "text": "We will identify which wall and cabinet surfaces the opening reaches and what remains concealed at joined edges. The panel size is not automatically the full treatment boundary. Further access will have a defined purpose rather than become uncontrolled disassembly of the whole cabinet run."
+      },
+      {
+        "title": "Coordinating the connection repair",
+        "text": "We will review the plumbing work completed and any return service still needed. That task remains separate from the condition of adjoining materials. New findings during remediation will be documented and explained before additional treatment or removal is authorized."
+      },
+      {
+        "title": "Returning the cabinet to a defined repair stage",
+        "text": "We will record surfaces addressed, components removed, and remaining moisture or verification requirements. Reusable pieces will keep their agreed status. The carpenter should understand what was reached before a new panel hides the area, with finish matching and elective upgrades separately described."
+      }
+    ],
+    "estimate": "Cabinet construction, access, affected extent, controls, removal, and handling influence pricing. The scope will distinguish remediation from plumbing and carpentry and state initial concealed limits. A new panel will not be treated as evidence that every underlying condition was resolved.",
+    "checklist": [
+      "Provide photographs of the open cabinet and joined edges.",
+      "Share the plumbing repair notes.",
+      "Identify components you hope to retain."
+    ]
+  },
+  "mold-remediation-after-water-damage/boyd": {
+    "intro": "Mold remediation after water damage in Boyd helps when retained material needs evaluation before you approve a second round of demolition after a leak. The reason for additional removal should be clear. We will review current findings and earlier work, define appropriate remediation, and explain which tasks address the condition rather than repeat a broad cleanup label.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Boyd before more demolition",
+        "text": "We will identify the material already removed and the evidence supporting the proposed next opening. Earlier records can provide context without establishing every current concealed condition. The scope will distinguish observed findings, access limitations, and tasks that still require evaluation."
+      },
+      {
+        "title": "Explaining retention and removal choices",
+        "text": "We will describe what treatment can reach and where another approach is needed. Retaining a finish is a preference to consider, not proof that the assembly can be addressed without access. Additional findings will be connected to a proposed task before the approved boundary expands."
+      },
+      {
+        "title": "Keeping reconstruction responsibilities clear",
+        "text": "We will document completed remediation and remaining source, moisture, repair, or applicable verification needs. The next provider should receive the actual material handoff rather than infer readiness from an empty room. Optional changes for appearance or layout remain separate from the remediation-supported work."
+      }
+    ],
+    "estimate": "Affected extent, existing access, retained layers, controls, disposal, and documentation affect pricing. We will distinguish prior tasks, current remediation, and rebuilding. Any uncertainty in the first view will be stated before broader authorization.",
+    "checklist": [
+      "Share the first cleanup record and new demolition proposal.",
+      "Provide source-correction details.",
+      "Identify materials or finishes you want evaluated for retention."
+    ]
+  },
+  "mold-removal-behind-drywall/boyd": {
+    "intro": "Mold removal behind drywall in Boyd helps when a wall is open at a corner and the adjoining section remains concealed behind a different finish. The treatment route needs to account for both surfaces. We will review accessible findings, explain controlled access, and document the work before either side is repaired.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Boyd around an inside corner",
+        "text": "We will identify what the existing opening reveals and which connected layers remain hidden. A corner can be a construction transition without being a verified treatment boundary. Any proposed additional opening will be tied to inspection or remediation needs rather than automatically extend across every adjoining wall."
+      },
+      {
+        "title": "Considering retained finishes honestly",
+        "text": "Tile, cabinetry, or another finish may affect access from one side. We will explain practical limitations and the purpose of the selected route. The scope will not claim treatment of an inaccessible surface simply because keeping the finish is important to the owner."
+      },
+      {
+        "title": "Preparing closure from the final findings",
+        "text": "We will record removed material, treated surfaces, and remaining source, moisture, or verification requirements. Utilities or damaged components needing specialist work will retain that responsibility. The repair provider should receive the final boundary instead of rely on the dimensions of the first inspection opening."
+      }
+    ],
+    "estimate": "Wall layers, corner construction, access, controls, handling, and disposal shape pricing. We will separate remediation from source repair and decoration. Additional findings will be explained with their proposed task before authorization.",
+    "checklist": [
+      "Show the open corner and adjoining finishes.",
+      "Share leak and repair information.",
+      "Identify retained components that restrict access."
+    ]
+  },
+  "kitchen-fire-cleanup/boyd": {
+    "intro": "Kitchen fire cleanup in Boyd helps when a repair provider plans to retain some cabinets and replace others after a fire. The retained surfaces still need a defined treatment decision. We will review accessible damage and residue, explain evaluation and limits, and coordinate cleanup with the reconstruction boundary.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Boyd with partial cabinet replacement",
+        "text": "We will distinguish components selected for removal from surfaces staying in place. The replacement plan may create useful access but does not establish that retained interiors or edges have been treated. Each material decision will follow findings rather than a blanket promise that everything outside the demolition area is unaffected."
+      },
+      {
+        "title": "Reviewing treatment and specialist needs",
+        "text": "Finishes can respond differently to cleaning, and an appropriate limited evaluation may help clarify a retention choice. Appliances or operational components may need separate specialist review. A surface result should not establish internal condition or authorize reconnection after exposure."
+      },
+      {
+        "title": "Handing the assembly to the installer",
+        "text": "We will document treatment, removal, and unresolved residue, moisture, access, or repair needs. New cabinets should not conceal a condition still awaiting work. Optional design changes will remain distinct from the tasks supported by fire damage and cleaning findings."
+      }
+    ],
+    "estimate": "Materials, residue, damage, access, handling, and the evaluations selected affect pricing. We will separate building cleanup, contents treatment, specialist work, and rebuilding. Newly exposed findings will be reviewed before the scope changes.",
+    "checklist": [
+      "Share the partial-replacement proposal.",
+      "Identify retained finishes and equipment.",
+      "Provide photos taken before earlier removal or cleaning."
+    ]
+  },
+  "smoke-damage-cleanup/boyd": {
+    "intro": "Smoke damage cleanup in Boyd helps when the owner wants to repaint but retained woodwork or fabric nearby still has an unresolved residue concern. Decorating one surface does not address the whole room. We will evaluate accessible materials, explain cleaning limits, and coordinate the remaining decisions before finishes and belongings return.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Boyd before repainting around retained items",
+        "text": "We will identify building surfaces within the scope and any item requiring separate treatment. The painting area should not automatically define the cleaning boundary. Access blocked by furniture or attachments will remain a stated limitation rather than be implied complete through a room-wide label."
+      },
+      {
+        "title": "Reviewing material response",
+        "text": "Wood, coatings, fabric, and other finishes can need different approaches. We will explain appropriate evaluation and what remains uncertain before broader treatment. A result on one surface will not be treated as proof that every material can restore uniformly or that another visible change is removable residue."
+      },
+      {
+        "title": "Giving decoration a useful handoff",
+        "text": "We will record completed cleaning and unresolved access, contents, or specialist needs. Further work should have a purpose tied to the remaining condition. Painting or returning furniture should follow that account instead of become the evidence used to describe the room as fully restored."
+      }
+    ],
+    "estimate": "Material variety, residue, access, prior work, and handling affect pricing. We will distinguish cleaning from refinishing, contents treatment, and specialist service. Changes will be explained before additional authorization.",
+    "checklist": [
+      "Share the painting plan and retained finishes.",
+      "Identify contents still awaiting treatment decisions.",
+      "Describe earlier cleaning methods or products if known."
+    ]
+  },
+  "toilet-overflow-cleanup/boyd": {
+    "intro": "Toilet overflow cleanup in Boyd helps when a release has reached cabinet or trim edges and you are comparing surface cleaning with removal of affected material. The decision should follow the assembly, not just the visible puddle. We will review accessible findings, explain the work boundary, and coordinate cleanup with the source correction.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Boyd beside fixed finishes",
+        "text": "We will identify accessible cabinet bases, floor edges, and adjoining wall material. Fixed components can conceal layers that surface mopping does not evaluate. The scope will explain where opening is proposed and why, without automatically recommending replacement of every nearby finish."
+      },
+      {
+        "title": "Separating the plumbing milestone",
+        "text": "We will review what stopped the release and any follow-up needed from the appropriate provider. A working fixture does not establish the condition of surrounding material. Contents or supplies moved during the response will also retain their own treatment or disposal decisions."
+      },
+      {
+        "title": "Defining the repair-ready account",
+        "text": "We will document removal, cleaning, moisture work, and remaining access or verification needs. New findings after opening will be discussed before scope expansion. The repair provider should receive the actual boundary and limitations before installing replacement trim, flooring, or cabinetry."
+      }
+    ],
+    "estimate": "Water condition, spread, construction, access, controls, and disposal influence pricing. Plumbing, cleanup, contents work, and rebuilding will be separately described. Initial concealed limits will remain explicit until evaluation supports a material decision.",
+    "checklist": [
+      "Keep people and pets away from the affected area.",
+      "Share source-repair details and initial photographs.",
+      "Identify fixed components and belongings reached by water."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/boyd": {
+    "intro": "AC leak water damage cleanup in Boyd helps when a mechanical repair has stopped dripping but the owner is unsure whether stained material needs drying, opening, or only a finish repair. The answer depends on the assembly\u2019s accessible condition. We will review service information, evaluate the affected area, and explain the next restoration task.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Boyd after the dripping stops",
+        "text": "We will identify what the HVAC provider corrected and where water was observed. The service result is useful source information, not a complete building-material assessment. A dry-looking face or old stain should not by itself establish the condition of insulation, backing, or another concealed layer."
+      },
+      {
+        "title": "Explaining access and material choices",
+        "text": "We will connect any proposed opening, removal, or drying to the findings. Equipment or utility work requiring another provider will retain that responsibility. Suspected growth revealed during access needs appropriate remediation rather than a cosmetic repair being assumed to cover every condition."
+      },
+      {
+        "title": "Coordinating the final repair",
+        "text": "We will record restoration completed and remaining source, moisture, access, or verification needs. The finish provider should know whether another service visit still needs the opening. Paint matching can involve a wider visual area, but that choice remains distinct from the material extent supported by the release."
+      }
+    ],
+    "estimate": "Location, construction depth, access, handling, and mechanical coordination shape pricing. We will distinguish HVAC service, restoration, and decoration. Newly exposed findings will be explained before further work is authorized.",
+    "checklist": [
+      "Provide the service report and leak timing.",
+      "Share photos of stains and adjoining surfaces.",
+      "Identify finish repairs already scheduled."
+    ]
+  },
+  "crawl-space-water-removal/boyd": {
+    "intro": "Crawl space water removal in Boyd helps when water blocks access to a reported leak and the plumber needs a clearer route before finishing the repair. Removal and source correction have to be sequenced. We will review accessible accumulation, define collection and handling, and explain what remains for the returning service provider.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Boyd for continued plumbing access",
+        "text": "We will identify the target area and the current route limitations. The scope will describe what removal can reach rather than imply the entire underside has been inspected. Improved access is not certification of structural, electrical, or utility conditions requiring the appropriate provider\u2019s review."
+      },
+      {
+        "title": "Keeping the ongoing source visible in the plan",
+        "text": "We will review what has been isolated or repaired and what remains uncertain. Pumping is not permanent correction of a continuing release. Material exposed after collection, including insulation or suspected contamination, may need an appropriate separate restoration decision."
+      },
+      {
+        "title": "Providing the next-visit record",
+        "text": "We will document sections reached, work completed, and remaining access or material questions. The plumber should receive that account before returning. Further cleaning or drying will be explained from findings rather than assumed complete because visible water has been reduced."
+      }
+    ],
+    "estimate": "Water distribution, clearance, source status, obstructions, and handling affect pricing. We will separate collection from plumbing, cleaning, drying, and repairs. A changed approach will be discussed before additional authorization.",
+    "checklist": [
+      "Share the plumber\u2019s target location and remaining work.",
+      "Identify isolation or repair already completed.",
+      "Do not enter the flooded or uncertain area yourself."
+    ]
+  },
+  "attic-mold-remediation/boyd": {
+    "intro": "Attic mold remediation in Boyd helps when roofing and insulation proposals leave the owner unsure who addresses suspect retained wood between those tasks. The material work needs its own scope. We will review accessible findings, explain treatment and removal decisions, and coordinate source repair and reinstatement around a clear handoff.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Boyd between roofing and insulation work",
+        "text": "We will identify what each provider proposes and the surfaces remaining accessible for evaluation. Removing or replacing one layer does not establish treatment of adjacent retained material. The scope will state observed findings and limits rather than assume another contract includes every concealed responsibility."
+      },
+      {
+        "title": "Planning the remediation access",
+        "text": "Framing, equipment, and remaining insulation can restrict the view. We will explain handling needed to reach relevant surfaces and document new findings before expanding the boundary. Source questions stay assigned to the appropriate provider rather than surface treatment being presented as a roof or mechanical correction."
+      },
+      {
+        "title": "Giving the next installer a material record",
+        "text": "We will identify treated areas, removal, and remaining access or verification requirements. Replacement insulation should follow that account instead of conceal an unresolved task. The record describes the work actually reached, not a certification of inaccessible attic sections or unrelated systems."
+      }
+    ],
+    "estimate": "Access, surface extent, material condition, controls, handling, and coordination determine pricing. We will distinguish remediation from roofing and insulation installation. Further tasks will be tied to findings and approval.",
+    "checklist": [
+      "Share both repair proposals and inspection photos.",
+      "Identify retained surfaces and known moisture causes.",
+      "Name the contact coordinating the work sequence."
+    ]
+  },
+  "crawl-space-mold-remediation/boyd": {
+    "intro": "Crawl space mold remediation in Boyd helps when a floor-repair quote assumes the underside is ready but an inspection identifies suspect retained material below it. Closing the floor should follow the appropriate treatment decision. We will review accessible findings, define remediation and access, and coordinate the handoff before reconstruction.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Boyd before a floor repair",
+        "text": "We will distinguish the flooring provider\u2019s installation scope from the condition of framing, insulation, or other material beneath it. The planned replacement area is not automatically the remediation boundary. Accessible findings and limitations will guide the proposal rather than a drawing alone."
+      },
+      {
+        "title": "Coordinating source and specialist work",
+        "text": "We will review known moisture corrections and identify unresolved source or component questions. Remediation does not establish structural adequacy or replace another provider\u2019s evaluation. Further access or material removal will have a defined purpose and approval before proceeding."
+      },
+      {
+        "title": "Recording the underside before closure",
+        "text": "We will document surfaces addressed, removal, and remaining moisture, access, or verification needs. The repair provider should receive that handoff before new layers reduce visibility. Additional findings will be explained as specific next decisions rather than hidden within a broad treatment label."
+      }
+    ],
+    "estimate": "Clearance, access, affected material, controls, removal, and coordination influence pricing. We will separate remediation from source repair and flooring construction. The estimate will identify what cannot be established until access improves.",
+    "checklist": [
+      "Provide the floor-repair proposal and inspection report.",
+      "Share known leak and moisture history.",
+      "Identify the planned closure date and responsible provider."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/boyd": {
+    "intro": "Mold contaminated contents cleaning in Boyd helps when the owner needs to decide whether selected furniture can return to a repaired room while other items remain unresolved. The room and item milestones are different. We will evaluate the agreed belongings, explain treatment limits, and organize return around documented decisions.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Boyd for a partial return",
+        "text": "We will identify priority items and distinguish them from the rest of the collection. Material construction and accessible condition guide evaluation, not the intended delivery date. A treated hard surface does not establish the status of hidden fabric, backing, or internal components within the same item."
+      },
+      {
+        "title": "Explaining the treatment choice",
+        "text": "We will describe appropriate options and specialist needs before approval. A limited evaluation may help clarify prospects for suitable belongings. Sentimental importance or replacement difficulty can guide priorities without becoming a guarantee that the material can recover its previous condition."
+      },
+      {
+        "title": "Preserving status during handling",
+        "text": "We will record completed treatment, pending decisions, referrals, and approved disposal as applicable. Moving or repacking items should retain those distinctions. The receiving room\u2019s moisture or remediation needs should also be addressed so a partial return does not conceal an unfinished building or contents decision."
+      }
+    ],
+    "estimate": "Item count, construction, condition, evaluation, treatment, and staged handling affect pricing. We will identify transport, storage, specialist services, and return visits separately where relevant. The scope will state which items are included now.",
+    "checklist": [
+      "List items requested for early return.",
+      "Share exposure and storage history.",
+      "Identify the receiving space and its repair status."
+    ]
+  },
+  "fire-damaged-debris-removal/boyd": {
+    "intro": "Fire damaged debris removal in Boyd helps when a damaged room must be cleared before another provider can measure for repairs. The access objective and the disposal boundary should be specific. We will identify approved material, explain handling and holds, and document the exposed conditions for the next visit.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Boyd before repair measurements",
+        "text": "We will identify the area the provider needs to reach and the material authorized for removal. Clearing access does not establish that attached components can be dismantled without evaluation. Utilities, supports, or other concerns will retain the appropriate provider\u2019s responsibility."
+      },
+      {
+        "title": "Keeping retained material identifiable",
+        "text": "Belongings and fixtures awaiting inspection or possible restoration should have clear holds. We will explain temporary handling if they block the route. Relocation does not establish reuse suitability, and a general request to prepare for measurement should not become disposal approval for every item encountered."
+      },
+      {
+        "title": "Preparing the measurement visit",
+        "text": "We will record removal completed and remaining access, residue, moisture, or assessment needs. The next provider should know what changed and what remains unresolved. A cleared room supports inspection without being presented as a fully restored space ready for every finish."
+      }
+    ],
+    "estimate": "Volume, attached work, route, protection, holds, and disposal affect pricing. We will separate removal from contents treatment, specialist evaluation, and rebuilding. Changes to the boundary will be explained before additional authorization.",
+    "checklist": [
+      "Share the repair provider\u2019s access needs.",
+      "Identify inspection or retention holds.",
+      "Confirm the contact approving removal and changes."
+    ]
+  },
+  "fire-damaged-contents-cleaning/boyd": {
+    "intro": "Fire damaged contents cleaning in Boyd helps when you have already approved replacement for some belongings but still want selected items evaluated for retention. The two groups need separate handling. We will identify the approved scope, explain treatment and specialist limits, and document each decision before items move or disposal proceeds.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Boyd for selected belongings",
+        "text": "We will distinguish items held for evaluation from those already approved for disposal. Similar appearance or storage location should not override that status. The selected collection will be reviewed by material and accessible condition rather than assigned one room-wide restoration promise."
+      },
+      {
+        "title": "Making restoration attempts informed",
+        "text": "We will explain appropriate evaluation, uncertainty, and any specialist need before treatment. A surface result should not establish operational condition or hidden-layer recovery. Importance and replacement availability can guide priorities without being treated as evidence that an item will restore successfully."
+      },
+      {
+        "title": "Coordinating the final disposition",
+        "text": "We will record completed work, pending review, referrals, and disposal approvals as applicable. Transport and storage should preserve item identity. Return should also account for the receiving room\u2019s remaining restoration work rather than a moving schedule turning unresolved decisions into assumed completions."
+      }
+    ],
+    "estimate": "Materials, quantity, condition, evaluation, treatment, and handling determine pricing. We will identify storage, transport, specialist service, and staged return separately where relevant. The proposal will make clear which selected items and tasks are included.",
+    "checklist": [
+      "Separate the retention list from approved disposal.",
+      "Provide available item photos or details.",
+      "Identify the intended receiving locations and repair status."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/boyd": {
+    "intro": "Fire extinguisher residue cleanup in Boyd helps when the owner is unsure whether visible marks are remaining powder, smoke residue, or finish damage after a discharge. Those conditions can need different next steps. We will review the agent and event information, assess accessible surfaces, and explain the treatment boundary before broader repairs.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Boyd with mixed surface changes",
+        "text": "We will identify what the accessible evaluation supports and where uncertainty remains. The powder\u2019s disappearance does not establish that every mark can be cleaned away. Heat effects, coatings, or another condition may require a separate finish decision rather than repeated treatment without a defined purpose."
+      },
+      {
+        "title": "Choosing an approach from the available information",
+        "text": "The extinguisher label helps clarify the agent, while material construction affects handling. We will review those details rather than guess from appearance alone. Equipment or delicate items needing specialist evaluation will keep that responsibility apart from general room cleaning."
+      },
+      {
+        "title": "Documenting what remains afterward",
+        "text": "We will record accessible treatment and unresolved material, contents, or access needs. Items moved for cleaning should not be assumed evaluated. Any further fire-restoration or refinishing task will be connected to the remaining finding instead of a broad promise that discharge cleanup restores the entire room."
+      }
+    ],
+    "estimate": "Agent information, residue, materials, access, evaluation, and handling influence pricing. We will distinguish building surfaces, individual contents, specialist work, and other fire restoration. Additional tasks will be explained before approval.",
+    "checklist": [
+      "Keep extinguisher label details if safely available.",
+      "Describe prior cleaning products or attempts.",
+      "Identify marks, finishes, or equipment still concerning you."
+    ]
+  },
+  "emergency-board-up-after-fire/boyd": {
+    "intro": "Emergency board up after fire in Boyd helps when a repair estimate is pending but a damaged opening needs a defined temporary arrangement now. The coverage and later visits should have clear responsibilities. We will review authorized access, explain attachment and protection limits, and document what the permanent provider still needs to evaluate.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Boyd while estimates are pending",
+        "text": "We will identify the opening and accessible surrounding condition. The temporary scope does not establish the design or suitability of the permanent replacement. Structural or component questions requiring another provider remain separate from installing coverage over the agreed opening."
+      },
+      {
+        "title": "Planning access for competing repair visits",
+        "text": "Providers may need to inspect or measure at different times. We will clarify the authorized contact and any adjustment, removal, or refitting included in our work. Making an opening accessible for a visit does not override safety restrictions or establish occupancy permission."
+      },
+      {
+        "title": "Keeping protection responsibilities visible",
+        "text": "We will record openings addressed and incomplete areas. Permanent replacement should be coordinated with temporary removal, including responsibility if an installation is delayed. The arrangement will not be represented as a guarantee against every entry or weather route throughout the property."
+      }
+    ],
+    "estimate": "Opening dimensions, height, attachment, access, and return requirements affect pricing. We will separate initial installation, later changes, removal, and permanent repair. New limitations will be discussed before the work expands.",
+    "checklist": [
+      "Confirm release status and current entry restrictions.",
+      "Identify the contact coordinating estimate visits.",
+      "Share expected inspection and replacement timing."
+    ]
+  },
+  "crawl-space-sewage-cleanup/boyd": {
+    "intro": "Crawl space sewage cleanup in Boyd helps when the first removal proposal covers pumping but the owner needs to understand the affected material left below the floor. Collection and full cleanup are different tasks. We will review accessible contamination, explain handling and treatment, and coordinate source correction and reinstatement.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Boyd beyond liquid collection",
+        "text": "We will identify accessible insulation, ground covering, debris, and retained surfaces relevant to the release. A lower water level does not establish their condition. The scope will describe proposed material decisions and sections limited by clearance or obstructions rather than use pumping completion as a whole-space result."
+      },
+      {
+        "title": "Keeping the source repair separate",
+        "text": "We will review the reported plumbing correction and remaining service access. A repaired line does not address released contamination by itself. Suspected mold or another damaged component discovered during access needs an appropriate decision rather than being assumed resolved by one general cleanup label."
+      },
+      {
+        "title": "Preparing the next repair phase",
+        "text": "We will document removal, cleaning, moisture work, and remaining access or verification needs. New insulation or closure should follow that account. Additional findings will be reviewed with their proposed action before authorization, preserving a clear boundary between pumping, restoration, and rebuilding."
+      }
+    ],
+    "estimate": "Contamination extent, access, materials, handling, disposal, and drying affect pricing. We will identify the tasks included after collection and separate plumbing and reconstruction responsibilities. Initial limitations will remain explicit.",
+    "checklist": [
+      "Share the pumping proposal and inspection photos.",
+      "Provide line-repair details and follow-up needs.",
+      "Keep occupants and pets away from the affected access area."
+    ]
+  }
+}

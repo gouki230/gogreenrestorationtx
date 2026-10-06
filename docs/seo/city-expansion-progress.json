@@ -1,0 +1,2335 @@
+{
+  "updated": "2026-10-04",
+  "status": "creation_paused_verified_subset_release_in_progress",
+  "automationId": "complete-go-green-dfw-city-expansion",
+  "scope": {
+    "cities": 206,
+    "cityHubs": 206,
+    "mainServiceCityPages": 1030,
+    "compactCityPages": 4944
+  },
+  "verifiedCompactPassed": 2328,
+  "verifiedCompactRemaining": 2616,
+  "qualityRule": "At least60% normalized rendered five-word phrase uniqueness, plus separate editorial usefulness review. No city swapping, spinning, invented evidence or metric exclusions to force passing.",
+  "publication": "October 6 user supersedes all-or-nothing restriction: publish verified subset now after integrated release checks. Preserve unverified drafts for October 13 resumption.",
+  "activeAssignments": [],
+  "nextSteps": [
+    "Independently review Royse City six-record first draft before continuing its cohort.",
+    "Continue remaining general compact and core editorial content under exclusive assignments.",
+    "Final integrated review and publication only after both expansions and pending approved changes are complete."
+  ],
+  "cities": [
+    {
+      "city": "Dallas",
+      "slug": "dallas",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Fort Worth",
+      "slug": "fort-worth",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Arlington",
+      "slug": "arlington",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Plano",
+      "slug": "plano",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Irving",
+      "slug": "irving",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Garland",
+      "slug": "garland",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Frisco",
+      "slug": "frisco",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "McKinney",
+      "slug": "mckinney",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Mesquite",
+      "slug": "mesquite",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Carrollton",
+      "slug": "carrollton",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Richardson",
+      "slug": "richardson",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Allen",
+      "slug": "allen",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lewisville",
+      "slug": "lewisville",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Denton",
+      "slug": "denton",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Flower Mound",
+      "slug": "flower-mound",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Grand Prairie",
+      "slug": "grand-prairie",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Mansfield",
+      "slug": "mansfield",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Grapevine",
+      "slug": "grapevine",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Southlake",
+      "slug": "southlake",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Keller",
+      "slug": "keller",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Colleyville",
+      "slug": "colleyville",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Bedford",
+      "slug": "bedford",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Euless",
+      "slug": "euless",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Hurst",
+      "slug": "hurst",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "North Richland Hills",
+      "slug": "north-richland-hills",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Rockwall",
+      "slug": "rockwall",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Coppell",
+      "slug": "coppell",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Prosper",
+      "slug": "prosper",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Wylie",
+      "slug": "wylie",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "The Colony",
+      "slug": "the-colony",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Addison",
+      "slug": "addison",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Aledo",
+      "slug": "aledo",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Alma",
+      "slug": "alma",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Alvarado",
+      "slug": "alvarado",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Alvord",
+      "slug": "alvord",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Anna",
+      "slug": "anna",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Annetta",
+      "slug": "annetta",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Annetta North",
+      "slug": "annetta-north",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Annetta South",
+      "slug": "annetta-south",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Argyle",
+      "slug": "argyle",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Aubrey",
+      "slug": "aubrey",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Aurora",
+      "slug": "aurora",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Azle",
+      "slug": "azle",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Balch Springs",
+      "slug": "balch-springs",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Bardwell",
+      "slug": "bardwell",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Bartonville",
+      "slug": "bartonville",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Benbrook",
+      "slug": "benbrook",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Blue Mound",
+      "slug": "blue-mound",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Blue Ridge",
+      "slug": "blue-ridge",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Boyd",
+      "slug": "boyd",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Briaroaks",
+      "slug": "briaroaks",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Bridgeport",
+      "slug": "bridgeport",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Burleson",
+      "slug": "burleson",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Caddo Mills",
+      "slug": "caddo-mills",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Campbell",
+      "slug": "campbell",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Cedar Hill",
+      "slug": "cedar-hill",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Celeste",
+      "slug": "celeste",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Celina",
+      "slug": "celina",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Chico",
+      "slug": "chico",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Cleburne",
+      "slug": "cleburne",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Cockrell Hill",
+      "slug": "cockrell-hill",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Combine",
+      "slug": "combine",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Commerce",
+      "slug": "commerce",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Cool",
+      "slug": "cool",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Copper Canyon",
+      "slug": "copper-canyon",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Corinth",
+      "slug": "corinth",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Corral City",
+      "slug": "corral-city",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Cottonwood",
+      "slug": "cottonwood",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Coyote Flats",
+      "slug": "coyote-flats",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Crandall",
+      "slug": "crandall",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Cresson",
+      "slug": "cresson",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Cross Roads",
+      "slug": "cross-roads",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Cross Timber",
+      "slug": "cross-timber",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Crowley",
+      "slug": "crowley",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Dalworthington Gardens",
+      "slug": "dalworthington-gardens",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Decatur",
+      "slug": "decatur",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Dennis",
+      "slug": "dennis",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "DeSoto",
+      "slug": "desoto",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "DISH",
+      "slug": "dish",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Double Oak",
+      "slug": "double-oak",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Duncanville",
+      "slug": "duncanville",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Edgecliff Village",
+      "slug": "edgecliff-village",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Ennis",
+      "slug": "ennis",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Everman",
+      "slug": "everman",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Fairview",
+      "slug": "fairview",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Farmers Branch",
+      "slug": "farmers-branch",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Farmersville",
+      "slug": "farmersville",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Fate",
+      "slug": "fate",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Ferris",
+      "slug": "ferris",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Forest Hill",
+      "slug": "forest-hill",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Forney",
+      "slug": "forney",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Garrett",
+      "slug": "garrett",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Glenn Heights",
+      "slug": "glenn-heights",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Godley",
+      "slug": "godley",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Grandview",
+      "slug": "grandview",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Grays Prairie",
+      "slug": "grays-prairie",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Greenville",
+      "slug": "greenville",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 24,
+      "compactTotal": 24
+    },
+    {
+      "city": "Hackberry",
+      "slug": "hackberry",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Haltom City",
+      "slug": "haltom-city",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Haslet",
+      "slug": "haslet",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Hawk Cove",
+      "slug": "hawk-cove",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Heath",
+      "slug": "heath",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Hebron",
+      "slug": "hebron",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Hickory Creek",
+      "slug": "hickory-creek",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Highland Park",
+      "slug": "highland-park",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Highland Village",
+      "slug": "highland-village",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Hudson Oaks",
+      "slug": "hudson-oaks",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Hutchins",
+      "slug": "hutchins",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Italy",
+      "slug": "italy",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Josephine",
+      "slug": "josephine",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Joshua",
+      "slug": "joshua",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Justin",
+      "slug": "justin",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Kaufman",
+      "slug": "kaufman",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Keene",
+      "slug": "keene",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Kemp",
+      "slug": "kemp",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Kennedale",
+      "slug": "kennedale",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Krugerville",
+      "slug": "krugerville",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Krum",
+      "slug": "krum",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lake Bridgeport",
+      "slug": "lake-bridgeport",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lake Dallas",
+      "slug": "lake-dallas",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lake Worth",
+      "slug": "lake-worth",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lakeside",
+      "slug": "lakeside",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lakewood Village",
+      "slug": "lakewood-village",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lancaster",
+      "slug": "lancaster",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lavon",
+      "slug": "lavon",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Little Elm",
+      "slug": "little-elm",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lone Oak",
+      "slug": "lone-oak",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lowry Crossing",
+      "slug": "lowry-crossing",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Lucas",
+      "slug": "lucas",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Mabank",
+      "slug": "mabank",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Maypearl",
+      "slug": "maypearl",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "McLendon-Chisholm",
+      "slug": "mclendon-chisholm",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Melissa",
+      "slug": "melissa",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Midlothian",
+      "slug": "midlothian",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Milford",
+      "slug": "milford",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Millsap",
+      "slug": "millsap",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Mineral Wells",
+      "slug": "mineral-wells",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Mobile City",
+      "slug": "mobile-city",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Murphy",
+      "slug": "murphy",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Nevada",
+      "slug": "nevada",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "New Fairview",
+      "slug": "new-fairview",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "New Hope",
+      "slug": "new-hope",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Newark",
+      "slug": "newark",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Neylandville",
+      "slug": "neylandville",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Northlake",
+      "slug": "northlake",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Oak Grove",
+      "slug": "oak-grove",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Oak Leaf",
+      "slug": "oak-leaf",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Oak Point",
+      "slug": "oak-point",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Oak Ridge",
+      "slug": "oak-ridge",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Ovilla",
+      "slug": "ovilla",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Palmer",
+      "slug": "palmer",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Pantego",
+      "slug": "pantego",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Paradise",
+      "slug": "paradise",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Parker",
+      "slug": "parker",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Peaster",
+      "slug": "peaster",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Pecan Hill",
+      "slug": "pecan-hill",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Pelican Bay",
+      "slug": "pelican-bay",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Pilot Point",
+      "slug": "pilot-point",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Poetry",
+      "slug": "poetry",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Ponder",
+      "slug": "ponder",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Post Oak Bend",
+      "slug": "post-oak-bend",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Princeton",
+      "slug": "princeton",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Providence Village",
+      "slug": "providence-village",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Quinlan",
+      "slug": "quinlan",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Red Oak",
+      "slug": "red-oak",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Reno",
+      "slug": "reno",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Rhome",
+      "slug": "rhome",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Richland Hills",
+      "slug": "richland-hills",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Rio Vista",
+      "slug": "rio-vista",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "River Oaks",
+      "slug": "river-oaks",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Roanoke",
+      "slug": "roanoke",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Rosser",
+      "slug": "rosser",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Rowlett",
+      "slug": "rowlett",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Royse City",
+      "slug": "royse-city",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Runaway Bay",
+      "slug": "runaway-bay",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Sachse",
+      "slug": "sachse",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Saginaw",
+      "slug": "saginaw",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Sanctuary",
+      "slug": "sanctuary",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Sanger",
+      "slug": "sanger",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Sansom Park",
+      "slug": "sansom-park",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Scurry",
+      "slug": "scurry",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Seagoville",
+      "slug": "seagoville",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Seven Points",
+      "slug": "seven-points",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Shady Shores",
+      "slug": "shady-shores",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Springtown",
+      "slug": "springtown",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "St. Paul",
+      "slug": "st-paul",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Sunnyvale",
+      "slug": "sunnyvale",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Talty",
+      "slug": "talty",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Terrell",
+      "slug": "terrell",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Trophy Club",
+      "slug": "trophy-club",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Union Valley",
+      "slug": "union-valley",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "University Park",
+      "slug": "university-park",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Van Alstyne",
+      "slug": "van-alstyne",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Venus",
+      "slug": "venus",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Watauga",
+      "slug": "watauga",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Waxahachie",
+      "slug": "waxahachie",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Weatherford",
+      "slug": "weatherford",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "West Tawakoni",
+      "slug": "west-tawakoni",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Westlake",
+      "slug": "westlake",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Weston",
+      "slug": "weston",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Westover Hills",
+      "slug": "westover-hills",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Westworth Village",
+      "slug": "westworth-village",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "White Settlement",
+      "slug": "white-settlement",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Willow Park",
+      "slug": "willow-park",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Wilmer",
+      "slug": "wilmer",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    },
+    {
+      "city": "Wolfe City",
+      "slug": "wolfe-city",
+      "hub": "needs_editorial_review",
+      "mainServices": "needs_editorial_review",
+      "compactPassed": 0,
+      "compactTotal": 24
+    }
+  ],
+  "completedAwaitingRenderedAudit": {
+    "paths": [],
+    "note": "Rosser six independently accepted and rendered verified."
+  },
+  "realEstateKeywordOwners": {
+    "paths": [
+      "/real-estate/",
+      "/services/mold-remediation-before-closing/",
+      "/services/water-damage-repair-before-closing/",
+      "/services/pre-listing-mold-removal/"
+    ],
+    "instruction": "Preserve these transaction-intent owners. Add contextual links where relevant; do not create duplicate closing/realtor city routes within the existing general-city task."
+  },
+  "executionMode": "Back-to-back editorial batches with overlapping verification;15-minute recovery schedule, no deliberate hourly wait",
+  "throughputMeasurementStartedUTC": "2026-10-05T04:20:52.549456+00:00",
+  "throughputNote": "Measure verified pages over completed batches; no finish-date estimate established.",
+  "lastVerification": "Rosser six independently accepted; full core rendered phrase 1044/1236, technical 1044 with zero errors, production isolation 1044 with zero errors. Compact remains 2328. No publication.",
+  "finalDeploymentAuthorization": {
+    "date": "2026-10-04",
+    "instruction": "User authorized final revision and publication when everything is finished. Root parent task owns final integrated review and deployment. Do not publish partial batches.",
+    "gates": [
+      "Both general and commercial scopes complete, including city hubs/main services and all requested city variants",
+      "Final substantive content, factual claims, licensing and communication review",
+      "Images, alt, responsive layout, links, canonical, robots, sitemap and production build verification",
+      "Promote only completed reviewed draft routes; remove preview-only banners/noindex where appropriate; exclude preview directories",
+      "Deploy using repository documented production workflow and verify live pages, assets, contact links and sitemap",
+      "Report deployment evidence and remaining limitations honestly"
+    ]
+  },
+  "batchTimings": [
+    {
+      "cities": [
+        "arlington",
+        "irving"
+      ],
+      "draftPages": 48,
+      "minutes": 12.55,
+      "renderedVerifiedPages": 48
+    },
+    {
+      "cities": [
+        "richardson",
+        "garland"
+      ],
+      "draftPages": 48,
+      "minutes": 12.4,
+      "renderedVerifiedPages": 48
+    },
+    {
+      "cities": [
+        "lewisville",
+        "carrollton"
+      ],
+      "draftPages": 48,
+      "minutes": 12.6,
+      "renderedVerifiedPages": 48
+    },
+    {
+      "cities": [
+        "mesquite"
+      ],
+      "draftPages": 24,
+      "minutes": 6.37,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "southlake"
+      ],
+      "draftPages": 24,
+      "minutes": 6.2,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "grand-prairie"
+      ],
+      "draftPages": 24,
+      "minutes": 6.77,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "denton"
+      ],
+      "draftPages": 24,
+      "minutes": 6.52,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "mansfield"
+      ],
+      "draftPages": 24,
+      "minutes": 6.95,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "keller"
+      ],
+      "draftPages": 24,
+      "minutes": 6.2,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "flower-mound"
+      ],
+      "draftPages": 24,
+      "minutes": 6.35,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "colleyville"
+      ],
+      "draftPages": 24,
+      "minutes": 6.1,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "plano",
+        "fort-worth",
+        "arlington"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 18,
+      "renderedVerifiedPages": 18,
+      "minutes": 12.12,
+      "measurement": "Root elapsed from heartbeat04:50:27 to verified05:02:34; includes writing, integration, preview audits and production isolation. Not a forecast."
+    },
+    {
+      "cities": [
+        "grapevine"
+      ],
+      "draftPages": 24,
+      "minutes": 9.02,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "wylie"
+      ],
+      "draftPages": 24,
+      "minutes": 6.3,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "bedford"
+      ],
+      "draftPages": 24,
+      "minutes": 6.33,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "north-richland-hills"
+      ],
+      "draftPages": 24,
+      "minutes": 7.77,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "euless"
+      ],
+      "draftPages": 24,
+      "minutes": 6.58,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "the-colony"
+      ],
+      "draftPages": 24,
+      "minutes": 6.7,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "prosper",
+        "irving"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 12,
+      "renderedVerifiedPages": 12,
+      "minutes": 6.7,
+      "measurement": "Heartbeat05:05:27 to final verification05:12:09; includes integration and audits; not a forecast."
+    },
+    {
+      "cities": [
+        "rockwall"
+      ],
+      "draftPages": 24,
+      "minutes": 6.62,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "coppell"
+      ],
+      "draftPages": 24,
+      "minutes": 6.53,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "aledo"
+      ],
+      "draftPages": 24,
+      "minutes": 8.22,
+      "renderedVerifiedPages": 24,
+      "note": "Includes substantive refinement before rendered pass."
+    },
+    {
+      "cities": [
+        "addison"
+      ],
+      "draftPages": 24,
+      "minutes": 6.7,
+      "renderedVerifiedPages": 24
+    },
+    {
+      "cities": [
+        "alvord"
+      ],
+      "draftPages": 24,
+      "minutes": 6.5,
+      "renderedVerifiedPages": 18
+    },
+    {
+      "cities": [
+        "frisco",
+        "mckinney",
+        "allen",
+        "lewisville",
+        "carrollton"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 30,
+      "minutes": 12.7,
+      "renderedVerifiedPages": 30,
+      "note": "Worker durations2.7+2.3+3+2.4+2.3; includes9paragraph customer-language repair."
+    },
+    {
+      "cities": [
+        "garland",
+        "richardson"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 12,
+      "renderedVerifiedPages": 12,
+      "minutes": 7.67,
+      "note": "Rootelapsedheartbeat05:20:27 to05:28:07; includesreview/integration."
+    },
+    {
+      "cities": [
+        "addison",
+        "aledo"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 12,
+      "renderedVerifiedPages": 12,
+      "minutes": 7.23,
+      "note": "Root 05:35:27\u201305:42:41 UTC, including integration, audits and Addison mobile review."
+    },
+    {
+      "cities": [
+        "alma"
+      ],
+      "draftPages": 24,
+      "minutes": 7.88,
+      "renderedVerifiedPages": 0,
+      "note": "Worker-reported elapsed authoring; rendered count from current snapshot."
+    },
+    {
+      "cities": [
+        "alvarado"
+      ],
+      "draftPages": 24,
+      "minutes": 6.25,
+      "renderedVerifiedPages": 0,
+      "note": "Worker-reported elapsed authoring; rendered count from current snapshot."
+    },
+    {
+      "cities": [
+        "anna"
+      ],
+      "draftPages": 24,
+      "minutes": 6.42,
+      "renderedVerifiedPages": 0,
+      "note": "Worker-reported elapsed authoring; rendered count from current snapshot."
+    },
+    {
+      "cities": [
+        "annetta"
+      ],
+      "draftPages": 24,
+      "minutes": 6.58,
+      "renderedVerifiedPages": 0,
+      "note": "Worker-reported elapsed authoring; rendered count from current snapshot."
+    },
+    {
+      "cities": [
+        "annetta-north"
+      ],
+      "draftPages": 24,
+      "minutes": 6.28,
+      "renderedVerifiedPages": 0,
+      "note": "Worker-reported elapsed authoring; rendered count from current snapshot."
+    },
+    {
+      "cities": [
+        "alma",
+        "alvarado"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 12,
+      "renderedVerifiedPages": 12,
+      "minutes": 6.3,
+      "note": "Root 05:50:27\u201305:56:45 UTC, including image slug correction and two rendered verification rounds."
+    },
+    {
+      "cities": [
+        "annetta-south"
+      ],
+      "draftPages": 24,
+      "minutes": 6.2,
+      "renderedVerifiedPages": 0,
+      "note": "Worker elapsed; rendered count reflects current stable snapshot."
+    },
+    {
+      "cities": [
+        "argyle"
+      ],
+      "draftPages": 24,
+      "minutes": 6,
+      "renderedVerifiedPages": 0,
+      "note": "Worker elapsed; rendered count reflects current stable snapshot."
+    },
+    {
+      "cities": [
+        "aubrey"
+      ],
+      "draftPages": 24,
+      "minutes": 6.92,
+      "renderedVerifiedPages": 0,
+      "note": "Worker elapsed; rendered count reflects current stable snapshot."
+    },
+    {
+      "cities": [
+        "aurora"
+      ],
+      "draftPages": 24,
+      "minutes": 6.37,
+      "renderedVerifiedPages": 0,
+      "note": "Worker elapsed; rendered count reflects current stable snapshot."
+    },
+    {
+      "cities": [
+        "balch-springs",
+        "bardwell"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 12,
+      "renderedVerifiedPages": 12,
+      "minutes": 5.14,
+      "note": "Root authoring plus two integration and verification rounds; final broad editorial review remains."
+    },
+    {
+      "cities": [
+        "caddo-mills"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 6,
+      "renderedVerifiedPages": 6,
+      "minutes": 3.28,
+      "note": "Includes writing, integration and audit; growing-corpus failures assigned separately."
+    },
+    {
+      "cities": [
+        "campbell"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 6,
+      "renderedVerifiedPages": 6,
+      "minutes": 3.45,
+      "note": "Includes writing, builds, audit and regression reassignment."
+    },
+    {
+      "cities": [
+        "cresson"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 6,
+      "renderedVerifiedPages": 6,
+      "minutes": 3.64,
+      "note": "Authoring, integration, full audit and regression handoff."
+    },
+    {
+      "cities": [
+        "cross-roads"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 6,
+      "renderedVerifiedPages": 6,
+      "minutes": 5.47,
+      "note": "Includes authoring, verification and repair assignment."
+    },
+    {
+      "cities": [
+        "ennis"
+      ],
+      "scope": "corehub+5main",
+      "draftPages": 6,
+      "renderedVerifiedPages": 6,
+      "minutes": 3.93,
+      "note": "Writing, verification, source integration and regression handoff."
+    },
+    {
+      "startedAt": "2026-10-06T02:53:02Z",
+      "verifiedAt": "2026-10-06T02:55:04.522085+00:00",
+      "scope": "Rendered integration of agent batches and repairs",
+      "netAdditionalVerifiedCompact": 68,
+      "netAdditionalVerifiedCore": 42,
+      "elapsedSeconds": 123,
+      "note": "Integration timing only; overlapping agent authoring duration excluded. Not a full completion ETA."
+    },
+    {
+      "startedAt": "2026-10-06T03:08:02Z",
+      "verifiedAt": "2026-10-06T03:09:56.982999+00:00",
+      "netAdditionalVerifiedCompact": 136,
+      "netAdditionalVerifiedCore": 90,
+      "elapsedSeconds": 115,
+      "note": "Larger backlog integration; excludes concurrent authoring time. Not a completion ETA."
+    },
+    {
+      "verifiedAt": "2026-10-06T03:54:59.441305+00:00",
+      "scope": "51 repairs plus30rewrittenpilot records and pending source integration",
+      "note": "Full rendered corpus checked; counts exclude editorial holds and technical error routes. Cost savings not established."
+    },
+    {
+      "verifiedAt": "2026-10-06T04:25:10.879690+00:00",
+      "scope": "~118source edits combined checkpoint",
+      "netAdditionalVerifiedCompact": 35,
+      "netAdditionalVerifiedCore": 37,
+      "note": "Timing and credit savings not estimated from source output; many compact rewrites need another review."
+    },
+    {
+      "verifiedAt": "2026-10-06T04:39:42.970879+00:00",
+      "scope": "48compact repairs/holds plus24core rewrites",
+      "netAdditionalVerifiedCompact": 48,
+      "netAdditionalVerifiedCore": 24,
+      "note": "Rendered checks complete. Full draft corpus still subject to final integrated editorial review."
+    },
+    {
+      "verifiedAt": "2026-10-06T04:55:04.830931+00:00",
+      "netAdditionalVerifiedCompact": -12,
+      "netAdditionalVerifiedCore": 30,
+      "note": "Fullcorpus catches regression: generatedpagecount is not verifiedthroughput."
+    },
+    {
+      "verifiedAt": "2026-10-06T05:10:00.961485+00:00",
+      "scope": "41compact hardrepairs fullrendered comparison",
+      "netAdditionalVerifiedCompact": 44,
+      "note": "Regression recovery includes priorFatepasses restored; not44newdrafts."
+    },
+    {
+      "verifiedAt": "2026-10-06T05:24:41.361263+00:00",
+      "scope": "16compact repairs +36newcore drafts",
+      "netAdditionalVerifiedCompact": 16,
+      "netAdditionalVerifiedCore": 30,
+      "note": "6core reconstructionheld pendingpostrepairrender; no estimatedsavings."
+    },
+    {
+      "checkedAt": "2026-10-06T06:09:35.590603+00:00",
+      "scope": "60 repaired core records",
+      "renderedVerifiedPages": 50,
+      "heldPages": 10,
+      "note": "Fresh rendered full core sibling comparison and technical checks; independent editorial acceptance required. Elapsed repair time not reliably measured; no ETA extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-06T06:25:05.107392+00:00",
+      "scope": "10 core repairs plus24 Forney compact trial",
+      "renderedVerifiedPages": 10,
+      "heldPages": 24,
+      "note": "Full core and compact rendered comparisons; Forney0/24 pass. No throughput ETA from failed trial."
+    },
+    {
+      "checkedAt": "2026-10-06T06:39:46.093298+00:00",
+      "scope": "Forney24 substantive revisions",
+      "renderedVerifiedPages": 24,
+      "heldPages": 0,
+      "note": "Independent usefulness acceptance and full rendered phrase/technical checks passed. Repair time excluded from throughput estimate because start time not reliably recorded."
+    },
+    {
+      "checkedAt": "2026-10-06T06:54:57.821625+00:00",
+      "scope": "Garrett/GlennHeights48 draft trial",
+      "renderedPhrasePassed": 15,
+      "renderedVerifiedPages": 0,
+      "heldPages": 48,
+      "note": "All48 held by separate usefulnessreview. Existing2184compact passes preserved. Repeated lowercost draft repair overhead prevents reliable savings/ETA claims."
+    },
+    {
+      "checkedAt": "2026-10-06T07:10:21.464096+00:00",
+      "scope": "Garrett/GlennHeights48 repairreview",
+      "renderedPhrasePassed": 47,
+      "renderedVerifiedPages": 21,
+      "heldPages": 27,
+      "note": "Independent usefulnessreview holds override phrasepasses. No ETA extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-06T07:25:23.742645+00:00",
+      "scope": "Garrett/GlennHeights revisedcohort plus96firstdrafts",
+      "renderedVerifiedPages": 25,
+      "heldPages": 98,
+      "note": "96newdrafts failrenderedphrase and independentcompositionreview. TwoGlennHeights edits require nextsnapshot. No savings or ETA inferred."
+    },
+    {
+      "checkedAt": "2026-10-06T07:40:25.626024+00:00",
+      "scope": "96compactrepairs+2GlennHeights edits",
+      "renderedVerifiedPages": 60,
+      "authoredPending": 38,
+      "note": "Full4944renderedcomparison;2291phrasepasses,2290verified with editorialholds. Repairs remain; no ETA inferred."
+    },
+    {
+      "checkedAt": "2026-10-06T07:57:16.818454+00:00",
+      "scope": "38compactrepairverification",
+      "renderedVerifiedPages": 36,
+      "heldPages": 2,
+      "note": "Fullrenderedphrase/technicalpass; twoindependentredundancyholds override scores. No ETA inferred."
+    },
+    {
+      "checkedAt": "2026-10-06T08:10:14.979477+00:00",
+      "scope": "2Godleyrepairs+6Parker core",
+      "renderedVerifiedPages": 8,
+      "heldPages": 0,
+      "note": "Fullrenderedcomparisons/technicalandcoreproductionisolation. Independentreviewclearedallholds. New24coreassignmentstarted immediately."
+    },
+    {
+      "checkedAt": "2026-10-06T08:40:03.192682+00:00",
+      "scope": "96core draftcheckpoint",
+      "renderedPhrasePassed": 96,
+      "renderedVerifiedPages": 6,
+      "heldOrReviewPending": 90,
+      "note": "Systematiccompositionreuse overrides phrasepass; strongerrepairs underway. Verifier HTMLentityfalsepositive fixed; zero technicalerrors after rerun."
+    },
+    {
+      "checkedAt": "2026-10-06T08:54:56.655698+00:00",
+      "scope": "Core96checkpoint repairreview",
+      "renderedVerifiedPages": 49,
+      "heldPages": 41,
+      "note": "All1020phrase/technicalpass buteditorialholds override;41activehardrepairs. Existingproductionisolation reused unchangedroutes."
+    },
+    {
+      "checkedAt": "2026-10-06T09:10:34.657091+00:00",
+      "scope": "Core41hold repaircheckpoint",
+      "renderedVerifiedNetGain": 28,
+      "heldPages": 13,
+      "note": "Onepreviouslyacceptedcomposition newlyheld; metadata and semanticreview overrideall1020phrasepasses."
+    },
+    {
+      "checkedAt": "2026-10-06T09:24:34.643339+00:00",
+      "scope": "13coreholds finalrepaircheck",
+      "renderedVerifiedPages": 13,
+      "heldPages": 0,
+      "note": "Independentall13acceptance andfull1020renderedphrase/technicalpass. Next96cohortdispatchedwithoutwaitingforrecoverytick."
+    },
+    {
+      "checkedAt": "2026-10-06T09:55:22.095573+00:00",
+      "scope": "Rowlett/Sachse12repairs+Roanoke6earlytrial",
+      "renderedVerifiedPages": 9,
+      "heldPages": 9,
+      "note": "Independentacceptance9/18 despiteall18renderedphrasepasses; Roanoke0/6 accepted. No savingsclaim."
+    },
+    {
+      "checkedAt": "2026-10-06T10:09:43.121327+00:00",
+      "scope": "9corehardrepairs",
+      "renderedVerifiedPages": 9,
+      "heldPages": 0,
+      "note": "Independentall9accepted;full1038phrase/technicalpass. SmallRossertrial dispatchedforqualitybeforebulkwork."
+    },
+    {
+      "checkedAt": "2026-10-06T21:25:07.825358+00:00",
+      "scope": "Rosser six after recovery",
+      "renderedVerifiedPages": 6,
+      "note": "Independent five repair acceptance plus prior construction acceptance; full core phrase/technical/isolation checks passed. No throughput forecast from interrupted repair."
+    }
+  ],
+  "updatedUTC": "2026-10-06T21:25:07.880767+00:00",
+  "coreEditorial": {
+    "authored": 1044,
+    "hubPhrasePassed": 174,
+    "mainServicePhrasePassed": 870,
+    "remainingEditorial": 192,
+    "report": "docs/seo/city-core-copy-review.json",
+    "verification": "docs/seo/city-core-verification.json",
+    "productionIsolation": "docs/seo/city-core-production-isolation.json",
+    "status": "Writer review and root editorial sampling complete for current verified drafts; final integrated semantic/editorial review remains. Counts require rendered phrase, technical and production-isolation agreement. Later source additions remain unverified.",
+    "verifiedDrafts": 1044
+  },
+  "repairAssignments": [],
+  "verifiedCityHubs": 174,
+  "verifiedMainServiceCityPages": 870,
+  "remainingCityHubs": 32,
+  "remainingMainServiceCityPages": 160,
+  "queuedAssignments": [],
+  "compactEditorial": {
+    "authored": 2328,
+    "verifiedDrafts": 2328,
+    "authoredPendingVerification": 0,
+    "technicalReport": "docs/seo/compact-city-technical-review.json"
+  },
+  "editorialQualityNote": "No minimum word count. Workers instructed to remove additions made solely to reach 350 words. Such later source revisions require a new rendered snapshot. Phrase scores do not establish semantic distinctness or final release readiness.",
+  "executionRecovery": {
+    "checkedAt": "2026-10-06T21:25:07.825358+00:00",
+    "status": "Existing repair agent retry succeeded; Rosser repairs completed and verified. Next exclusive lower-cost Royse City trial dispatched.",
+    "previousInterruption": "Usage-limit agent failure; queued heartbeat ticks did not establish execution.",
+    "eta": "No reliable completion ETA; account still reports ordinary allowance exhausted despite successful retry."
+  },
+  "efficiencyPolicy": {
+    "approvedAt": "2026-10-06T03:06:43.684449+00:00",
+    "document": "docs/seo/expansion-efficiency-policy.md",
+    "draftModel": "gpt-6-luna",
+    "verificationBatchTargetPages": [
+      100,
+      200
+    ],
+    "scopeUnchanged": true,
+    "handoffStatus": "Both original compact workers stopped after DISH/Farmersville. Lower-cost core_efficient_01 owns its16-city core cohort then96compact pages in Double Oak,Duncanville,Edgecliff Village,Fate.",
+    "qualityObservation": "Second compact cohort41of48failed rendered phrase and caused19priorFate regressions. New lower-cost drafting stopped before writing furtherfiles; strongerhardrepairs underway. No cost-saving claim justified."
+  },
+  "editorialRejections": {
+    "at": "2026-10-06T03:23:25.835680+00:00",
+    "agent": "core_efficient_01",
+    "records": 192,
+    "status": "30Krugerville/Fate rewrites passed initial root usefulness review; remaining162records held. Everman board-up physical installation clarified after snapshot, awaiting re-render.",
+    "evidence": [
+      "Krugerville/Krum core same body with scenario insertion",
+      "Krum ceiling scenario switches to generic floor discussion",
+      "Fate burst-pipe opening contains to the a pipe repair and unrelated water heater scenario",
+      "Compact shared paragraphs repeat across topics/cities"
+    ],
+    "nextAction": "Two-record pilot repair only: water-damage-restoration/krugerville and burst-pipe-cleanup/fate. Evaluate quality before broader delegation.",
+    "pilotReview": {
+      "reviewedAt": "2026-10-06T03:38:50.781172+00:00",
+      "result": "Two rewritten pilots useful and coherent on manual read, still pending rendered verification. Bounded remaining28record Krugerville/Fate rewrite assigned."
+    }
+  },
+  "editorialHoldPaths": [],
+  "editorialReviewQueue": {
+    "result": "Earlyreview acceptsRosserconstructiononly;5otherrecords genericcompositionholds. Fullrenderdeferreduntilrepair ratherthanpaying forrejectedcohortchecks. Strongerrepair5assigned; lowercostwriter idle."
+  },
+  "commercialHandoff": {
+    "status": "2060citydrafts verified; source-owned finalrelease pending",
+    "inventory": "docs/seo/commercial-expansion-full-url-inventory.txt",
+    "report": "docs/seo/commercial-expansion-verification-report.md",
+    "pending": "Integrate prepared hub/propertyowner copies, promote only after bothscopes complete and finalreview/liveverification."
+  },
+  "creationResumeAt": "2026-10-13T16:40:00-05:00",
+  "releaseManifest": "src/data/expansion-release-manifest.json"
+}

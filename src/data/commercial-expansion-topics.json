@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "water-damage-restoration",
+    "name": "Commercial water damage restoration",
+    "parent": "water-damage-restoration",
+    "image": "structural-drying-services",
+    "description": "Commercial water damage restoration across DFW. Coordinate extraction, drying, occupied-space access and documented repairs. Request a property estimate.",
+    "intro": "Commercial water damage restoration helps when a supply leak, roof entry or standing water affects business rooms, stock or shared access. Go Green Restoration TX Inc coordinates extraction, material evaluation and drying with the person authorized to direct work at your property. We have extensive multi-unit and tenant-occupied restoration experience, as confirmed by the owner.",
+    "sections": [
+      {
+        "heading": "Commercial water damage restoration: separate the source from the cleanup",
+        "paragraphs": [
+          "Water under a finish can reach adjoining rooms before the surface looks wet. We record affected materials and organize the initial cleanup by room, suite or building so the authorization describes the actual work area. Source repairs by the responsible trade need to align with extraction and drying; replacement finishes follow review of the preceding work."
+        ],
+        "bullets": [
+          "Identify the leak repair contact and whether the source remains active.",
+          "Record contents that need protection or relocation before equipment arrives.",
+          "Agree on permitted equipment routes, power access and work windows."
+        ]
+      },
+      {
+        "heading": "Extraction and the layers beneath a finish",
+        "paragraphs": [
+          "We recover reachable water and evaluate flooring, wall bases and ceiling layers at the approved openings, keeping source-service work separate. Water contact and material condition guide removal of affected absorbent components; suitable retained slab, framing and hard finishes receive scoped cleaning and monitored drying. A surface reading does not represent a covered layer, so the repair handoff identifies both exposed checkpoints and material still awaiting access."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Offices, stores and warehouse spaces need different plans",
+        "paragraphs": [
+          "In an office, damp partitions and carpet may affect adjacent workstations or meeting rooms. A store may need merchandise separated from the wet zone, while a warehouse needs usable equipment routes and a clear record of affected inventory. We discuss those priorities before arranging removal or repositioning items; a cleanup estimate does not establish whether stock is suitable for sale."
+        ]
+      },
+      {
+        "heading": "Keep tenant updates under the hiring party’s direction",
+        "paragraphs": [
+          "The hiring manager or association designates the client contact and directs routine tenant communication and approved messaging. We send findings, proposed scope, approvals and progress reports to that contact, then provide practical access and equipment updates as instructed. Necessary safety and access notices remain accurate; we do not independently discuss fault, coverage, health conclusions or owner decisions with tenants."
+        ]
+      },
+      {
+        "heading": "Drying records and repair decisions",
+        "paragraphs": [
+          "We record moisture observations, equipment placement and progress so the manager can follow what changed. If previously concealed damage alters the proposed work, we document it and obtain the agreed approval before extending the scope. Cleanup, drying review and reconstruction have separate milestones; the schedule reflects material condition, access, source correction and selections."
+        ]
+      }
+    ],
+    "links": [
+      "emergency-water-extraction",
+      "structural-drying-services",
+      "floor-water-damage-cleanup"
+    ],
+    "related": "mold-remediation"
+  },
+  {
+    "slug": "mold-remediation",
+    "name": "Commercial mold remediation",
+    "parent": "mold-remediation",
+    "image": "mold-removal-behind-drywall",
+    "description": "Commercial mold remediation inquiries for DFW offices and occupied properties. Discuss moisture, affected rooms, access and licensed-provider coordination.",
+    "intro": "Commercial mold remediation helps when visible growth, recurring moisture or a musty enclosed room affects a business or managed property. We will organize the reported material concerns, source history and authorized access for the appropriate provider’s scope. Our owner reports extensive experience coordinating restoration in multi-unit and tenant-occupied buildings.",
+    "sections": [
+      {
+        "heading": "Commercial mold remediation: define the affected spaces",
+        "paragraphs": [
+          "A concern behind an office partition differs from growth on stored materials or water damage crossing several suites. We organize the request around observed conditions, access and existing reports rather than assuming every room has the same scope. Photos help explain the concern, but they do not determine species, hidden extent or health effects."
+        ],
+        "bullets": [
+          "Identify the rooms or suites with observed growth or moisture.",
+          "Share available consultant findings and source-repair records.",
+          "Name the contact authorized to approve access and provider arrangements."
+        ]
+      },
+      {
+        "heading": "Provider responsibilities before work begins",
+        "paragraphs": [
+          "While Go Green’s Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and scope are identified before work begins. Independent assessment and clearance are separate services; any required consultant process must be coordinated with the remediation plan rather than replaced by a contractor’s visual opinion."
+        ]
+      },
+      {
+        "heading": "Material removal and retained-surface cleaning",
+        "paragraphs": [
+          "The identified provider will explain which affected building materials require removal and which retained surfaces are included in its cleaning plan. Covered backing, adjoining cavities and contents will have explicit scope boundaries so removing a visible finish is not treated as completion of all concealed work. Specialty contents decisions and source repairs remain separate responsibilities, with material findings carried into the applicable independent review and reconstruction handoff."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Work zones and routine occupant communication",
+        "paragraphs": [
+          "We coordinate access windows, proposed work-area separation and equipment locations through the hiring party’s designated representative. Routine tenant communication follows that manager’s or HOA’s instructions and approved messaging, with findings and scope decisions reported to the client contact. Required safety or access information remains accurate; no one should infer a health or occupancy determination from a cleanup schedule."
+        ]
+      },
+      {
+        "heading": "Address moisture before replacement finishes",
+        "paragraphs": [
+          "Removing an affected finish does not correct a leaking connection or recurring condensation. We document the agreed sequence for source correction, provider work, applicable independent review and reconstruction so each handoff has a clear prerequisite. Records identify authorized areas and changes without assigning fault or promising insurance payment."
+        ]
+      }
+    ],
+    "links": [
+      "mold-removal-behind-drywall",
+      "mold-contaminated-contents-cleaning",
+      "mold-remediation-after-water-damage"
+    ],
+    "related": "water-damage-restoration"
+  }
+]

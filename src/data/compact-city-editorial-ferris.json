@@ -1,0 +1,642 @@
+{
+  "emergency-water-extraction/ferris": {
+    "intro": "Emergency water extraction in Ferris helps when standing water remains after a leak, overflow or entry. We will collect accessible water and check edges and seams so the next drying or removal decision follows the actual wet area.",
+    "sections": [
+      {
+        "title": "Emergency water extraction around fixed room features",
+        "text": "We will establish a route for removing reachable water without assuming the open floor represents the whole room. Islands, cabinets, and low furniture can obstruct collection. Authorized movement or selective access will be explained where it makes a wet section reachable."
+      },
+      {
+        "title": "Separate pooled water from moisture inside materials",
+        "text": "Extraction addresses liquid available for collection. Flooring backing, wall edges, and other absorbent components may remain wet afterward. We will inspect relevant connections and explain which need drying, which need removal, and which still require access to evaluate."
+      },
+      {
+        "title": "Use the exposed condition to choose the next step",
+        "text": "Water source and material response affect retention decisions. A lifted finish may need replacement while a support beneath it remains suitable for treatment. We will connect each proposed opening or removal to the condition it addresses."
+      },
+      {
+        "title": "Keep the drying area accessible",
+        "text": "Belongings may need to remain outside the treatment footprint while retained material is monitored. We will explain the setup and record progress. Resetting furniture should follow that condition rather than cover a wet location simply because standing water is gone."
+      }
+    ],
+    "estimate": "The estimate will identify water collection, contents movement and follow-on drying or removal as separate tasks. Tell us where water reached before initial cleanup.",
+    "checklist": [
+      "Name rooms with standing water.",
+      "Describe the source and whether it is controlled.",
+      "Identify belongings that need moving."
+    ]
+  },
+  "burst-pipe-cleanup/ferris": {
+    "intro": "Burst pipe cleanup in Ferris addresses water released from a split line inside a wall, ceiling or floor. Once the plumbing source is stopped, we will extract accessible water and identify the opening needed to remove wet insulation or drywall and dry retained framing.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup below a concealed break",
+        "text": "We will review the repaired line and inspect the lower cavity where released water could collect. The repair opening can expose the failed fitting without revealing the bottom of the assembly. We will explain additional access needed to evaluate wet insulation and adjoining floor edges."
+      },
+      {
+        "title": "Remove material that prevents direct treatment",
+        "text": "Insulation or deteriorated drywall may need removal before retained wood can be reached. The proposal will identify those sections and distinguish damaged material from components moved only for access. Plumbing correction remains a separate task performed by the appropriate provider."
+      },
+      {
+        "title": "Dry the assembly revealed by opening",
+        "text": "We will evaluate suitable retained surfaces and arrange treatment around the actual wet locations. An exposed section may respond differently from an edge beneath a fixed cabinet. Monitoring will identify those differences instead of relying on the room appearance."
+      },
+      {
+        "title": "Rebuild from the material findings",
+        "text": "We will identify remaining moisture, repair, or suspected-mold decisions before insulation and finish layers return. A completed pipe repair stops the release but does not establish those conditions. The next construction step will follow the evaluated assembly."
+      }
+    ],
+    "estimate": "The estimate will separate water extraction, wall opening, insulation removal and drying from the pipe repair and drywall replacement. Share the plumber\u2019s notes and current leak status.",
+    "checklist": [
+      "Identify the pipe location.",
+      "Share the plumber\u2019s access opening and repair notes.",
+      "List rooms where water appeared beyond the break."
+    ]
+  },
+  "appliance-leak-cleanup/ferris": {
+    "intro": "Appliance leak cleanup in Ferris addresses water left beneath or around a refrigerator, dishwasher, washer or other unit. We will extract water from the footprint and check flooring edges and cabinet bases before the appliance is reinstalled.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup behind a machine enclosure",
+        "text": "We will inspect the accessible footprint and determine what movement is needed to reach concealed surfaces. Disconnection or appliance repair may require its service provider. The machine being repaired does not establish whether the floor behind it was inspected or dried."
+      },
+      {
+        "title": "Evaluate the cabinet and floor connection",
+        "text": "A wet toe-kick or end panel may conceal water beneath a fixed unit. We will explain selective opening where it resolves that uncertainty. Swollen composite material and suitable retained support will receive different removal or drying decisions."
+      },
+      {
+        "title": "Treat the area before access is lost again",
+        "text": "Once the footprint is available, we will remove reachable water and evaluate the surrounding material. Components chosen to remain may need monitored drying. Any damaged or inaccessible section will have an explicit next step before the machine returns."
+      },
+      {
+        "title": "Coordinate reinstallation with the completed work",
+        "text": "We will identify the receiving-floor condition and remaining cabinet or finish repairs. The service provider retains responsibility for equipment testing and connections. Reinstalling the appliance should not conceal unfinished building treatment."
+      }
+    ],
+    "estimate": "The estimate will distinguish extraction and floor treatment from appliance service, replacement and reconnection. Share the appliance type and any scheduled installation date.",
+    "checklist": [
+      "Identify the leaking appliance and its repair status.",
+      "Clear loose items from the unit footprint.",
+      "Point out lifted flooring or a wet cabinet edge."
+    ]
+  },
+  "storm-water-damage-cleanup/ferris": {
+    "intro": "Storm water damage cleanup in Ferris addresses rain that enters through a roof, window, door or other opening. We will remove interior water and debris, inspect affected finishes and separate temporary protection from the permanent source repair.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup after more than one entry",
+        "text": "We will review when rain entered and whether an area became wet again after initial protection or cleanup. A later release may affect different contents or material edges. The current inspection will establish what needs work now without assuming the earlier boundary still applies."
+      },
+      {
+        "title": "Remove the material left by the current exposure",
+        "text": "We will collect accessible water and identify damaged finish or debris approved for removal. Opening a layer may reveal wet insulation or retained support requiring further treatment. Those findings will be explained before the removal scope expands."
+      },
+      {
+        "title": "Dry retained surfaces while source work is coordinated",
+        "text": "Temporary covering and permanent exterior repair have different roles. We will identify ongoing entry concerns and arrange interior treatment around suitable retained material. Equipment time cannot compensate for a source that continues wetting the same assembly."
+      },
+      {
+        "title": "Prepare repairs from the latest condition",
+        "text": "We will record progress after the current cleanup and identify outstanding exterior dependencies. Replacement finishes should follow those findings. An earlier dry reading or completed visit will not be used to dismiss new exposure."
+      }
+    ],
+    "estimate": "The estimate will separate indoor extraction, debris removal, drying and material removal from exterior repair. Share where rain entered and what temporary protection is in place.",
+    "checklist": [
+      "Show the entry point.",
+      "Identify wet contents or debris already removed.",
+      "Describe temporary protection and planned exterior work."
+    ]
+  },
+  "structural-drying-services/ferris": {
+    "intro": "Structural drying services in Ferris address moisture remaining in sound building materials after water removal. We will identify the wall, floor or ceiling layers to monitor, position drying equipment and check those materials as the readings change.",
+    "sections": [
+      {
+        "title": "Structural drying services with repeatable check locations",
+        "text": "We will identify the retained assembly and accessible points that can be revisited during treatment. A useful record ties each observation to a material location. General room humidity alone will not describe whether a concealed edge or substantial wood component is responding."
+      },
+      {
+        "title": "Arrange equipment for the retained layers",
+        "text": "We will consider airflow access, remaining coverings, and fixed obstructions when setting up treatment. A wet surface blocked by insulation or cabinetry may need a different access decision. The proposed arrangement will explain which material it serves."
+      },
+      {
+        "title": "Investigate an area that stops improving",
+        "text": "We will compare progress at the relevant locations and explain adjustments. Continued moisture may indicate restricted access or renewed entry rather than simply a need for more days. Removal will be proposed where material condition or inability to reach it justifies that step."
+      },
+      {
+        "title": "Distinguish dryable material from damaged material",
+        "text": "Drying does not reverse deterioration or replace structural repair. We will identify those conditions before closure. The repair provider will receive the status of evaluated components and any remaining installation requirements to coordinate."
+      }
+    ],
+    "estimate": "The estimate will identify equipment, monitoring locations and expected access separately from source repair and reconstruction. Share prior moisture readings and materials already removed.",
+    "checklist": [
+      "Provide any drying log.",
+      "Keep monitor locations accessible.",
+      "List repairs scheduled to cover the material."
+    ]
+  },
+  "floor-water-damage-cleanup/ferris": {
+    "intro": "Floor water damage cleanup in Ferris addresses water that has reached a floor finish, seam or underlayment. We will extract surface water, inspect transitions and determine whether the covering can remain while the base dries.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup at a change in assembly",
+        "text": "We will inspect transitions where one finish meets another and consider how water reached each side. Carpet layers, floating finishes, and fixed coverings do not necessarily have the same retention options. A doorway will be an inspection point rather than an automatic damage boundary."
+      },
+      {
+        "title": "Reach the support beneath the affected covering",
+        "text": "We will explain lifting or removal required to evaluate concealed layers. Material removed because it has deteriorated will be distinguished from an access component. The exposed support can then be considered directly for cleaning, drying, or repair."
+      },
+      {
+        "title": "Treat the edge before replacement trim closes it",
+        "text": "Moisture can remain where flooring meets lower wall finishes or a fixed unit. We will identify the relevant edge and any remaining access limitation. A dry open center will not be used to represent a covered perimeter."
+      },
+      {
+        "title": "Coordinate the new finish with the retained base",
+        "text": "We will document treatment and outstanding support work. The selected flooring product may have its own installation requirements. Matching or extending new flooring for appearance remains separate from the area requiring physical water-damage treatment."
+      }
+    ],
+    "estimate": "The estimate will state flooring sections, underlayment and trim included for extraction, drying or removal. Tell us the floor type and where water appeared.",
+    "checklist": [
+      "Identify the floor covering.",
+      "Mark lifted seams or swollen edges.",
+      "Share any previous floor removal."
+    ]
+  },
+  "ceiling-water-damage-cleanup/ferris": {
+    "intro": "Ceiling water damage cleanup in Ferris helps when a leak has damaged a ceiling that was patched or refinished before. You need to know whether the new damage is limited to the face or whether wet layers remain above it. We will evaluate the accessible assembly and explain the removal needed to reach the material requiring treatment.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup through existing repair layers",
+        "text": "An earlier patch or added finish can make the ceiling assembly different from what the room surface suggests. We will inspect the damaged section and identify the layers visible through available access. The scope will explain which layer needs removal because it has deteriorated and which is opened to reach wet material above."
+      },
+      {
+        "title": "Plan the overhead opening around the work it enables",
+        "text": "We will establish the area below the ceiling needed for removal and handling. Furnishings may require authorized movement before weakened material is disturbed. If a fixture or utility interferes with the opening, the appropriate provider will be involved rather than treating the connection as ordinary ceiling debris."
+      },
+      {
+        "title": "Expose and evaluate the retained support",
+        "text": "Once the approved layers are removed, we will check accessible insulation and supporting material. Unsuitable insulation may need disposal while sound components remain for drying. We will record relevant moisture progress at the exposed assembly instead of relying on a dry-looking patch edge."
+      },
+      {
+        "title": "Keep the final finish decision separate from material treatment",
+        "text": "Matching an old texture or extending paint across a room can affect the cosmetic repair area. Those choices do not establish how much material was wet. We will explain the condition left after cleanup and the source or drying requirements still controlling when the opening can be closed."
+      }
+    ],
+    "estimate": "Price depends on the ceiling layers, height, removal access, and treatment of material revealed above the finish. Share the leak findings and any information about previous ceiling repairs. We will distinguish the opening needed for cleanup from the finishing work chosen to match the room.",
+    "checklist": [
+      "Tell us whether the ceiling was patched or covered previously.",
+      "Share photographs already available from above the damaged section.",
+      "Identify fixtures or furnishings that affect access."
+    ]
+  },
+  "bathroom-mold-removal/ferris": {
+    "intro": "Bathroom mold removal in Ferris addresses affected material around a tub, shower, sink or toilet. We will locate the reported growth, define the treatment area and explain whether tile, drywall, caulk or trim needs removal to reach it.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Ferris: inspect the wet edges",
+        "text": "We will check corners, fixture penetrations and the wall-to-floor joint against the available assessment. A surface stain or failed caulk may indicate moisture without defining how far material is affected behind the finish."
+      },
+      {
+        "title": "Remove material that cannot be cleaned in place",
+        "text": "The scope will identify containment, porous material for removal and retained surfaces for cleaning. Plumbing or ventilation work that corrects the moisture source remains a separate task."
+      },
+      {
+        "title": "Restore the bathroom after treatment",
+        "text": "We will identify what remains open for drying or evaluation before tile, caulk or a vanity is reinstalled. The remediation provider and any independent assessment or clearance are identified before work begins."
+      }
+    ],
+    "estimate": "The estimate will distinguish material treatment from plumbing, ventilation and fixture replacement. Share assessment findings and any source-repair record.",
+    "checklist": [
+      "Identify the fixture near the reported area.",
+      "Share photos or assessment notes.",
+      "Describe repairs or coatings already applied."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/ferris": {
+    "intro": "Kitchen cabinet mold removal in Ferris addresses growth or damage inside a cabinet base or on the wall behind it. We will clear the cabinet, inspect the toe-kick and determine whether the cabinet can stay or must be moved to reach affected material.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Ferris: open the cabinet base",
+        "text": "We will inspect the interior floor, toe-kick and adjoining wall for moisture damage. Swollen particleboard or affected wallboard may need removal rather than surface cleaning alone."
+      },
+      {
+        "title": "Treat the exposed wall and cabinet components",
+        "text": "The work plan will identify cabinet parts to remove, material to treat and retained surfaces to clean. The leak source must be corrected before new cabinetry conceals the area."
+      },
+      {
+        "title": "Fit the replacement after the cavity is ready",
+        "text": "We will leave the cabinet opening available for source repair and any required evaluation. Replacement dimensions and plumbing reconnection are coordinated after remediation and drying are complete."
+      }
+    ],
+    "estimate": "The estimate will separate cabinet removal, remediation and cleaning from plumbing repair and cabinet installation. Share photos of the base and leak repair status.",
+    "checklist": [
+      "Empty the cabinet and leave the toe-kick visible.",
+      "Identify any corrected plumbing leak.",
+      "Note whether the counter or cabinet can be moved."
+    ]
+  },
+  "mold-remediation-after-water-damage/ferris": {
+    "intro": "Mold remediation after water damage in Ferris addresses growth identified after a leak or overflow. We will compare the current finding with the water-loss and drying history, then define removal and cleaning for the materials included in the remediation scope.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage at a newly exposed layer",
+        "text": "We will compare the current finding with what earlier records actually evaluated. A drying log can describe accessible surfaces without establishing the condition beneath an unopened finish. The remediation boundary will follow present findings and any applicable assessment."
+      },
+      {
+        "title": "Separate retained components from affected removal",
+        "text": "The plan will identify material that cannot reasonably stay and surfaces suitable for cleaning. Access and containment will serve the defined work area. Removing a finish does not automatically authorize demolition of every component revealed behind it."
+      },
+      {
+        "title": "Address current moisture before rebuilding",
+        "text": "We will identify related drying and any source condition still unresolved. A historic leak date does not establish present material readiness. Structural deterioration or another concern will retain its own appropriate repair decision."
+      },
+      {
+        "title": "Provide a current basis for reconstruction",
+        "text": "We will record the area treated and any independent review required. Earlier water collection and the new remediation will remain distinct stages. Replacement layers should follow the latest material findings rather than rely on a prior general completion statement."
+      }
+    ],
+    "estimate": "The estimate will state remediation tasks separately from water extraction, assessment, source repair and reconstruction. Share drying logs and any prior inspection.",
+    "checklist": [
+      "Provide the water-loss and drying records.",
+      "Share the mold assessment.",
+      "List material already removed or replaced."
+    ]
+  },
+  "mold-removal-behind-drywall/ferris": {
+    "intro": "Mold removal behind drywall in Ferris addresses material found through an existing opening or inspection. We will review the exposed edges, determine what wall area needs access and define the drywall or insulation removal needed to reach the affected surface.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall near attached finishes",
+        "text": "We will identify the reported cavity and the features limiting access, such as cabinets, trim, or shelving. The opening needed for treatment may differ from a small plumbing or inspection cut. Its purpose will be explained before adjoining finishes are disturbed."
+      },
+      {
+        "title": "Evaluate the wall layers as they become visible",
+        "text": "Drywall backing, insulation, and framing can require different treatment decisions. The remediation plan will distinguish unsuitable material for removal from suitable retained surfaces. Newly discovered extent will be documented before additional work is included."
+      },
+      {
+        "title": "Clean retained material within the defined work area",
+        "text": "Containment and handling will reflect the affected assembly and applicable assessment. Utilities or structural damage needing another provider will remain separate responsibilities. Surface treatment will not be described as repairing a weakened structural component."
+      },
+      {
+        "title": "Keep access until closure requirements are met",
+        "text": "We will identify source correction, drying, and any independent review. The completion record will describe the section reached and limitations beyond it. New drywall should not conceal an unresolved cavity just because the room-side patch is ready to install."
+      }
+    ],
+    "estimate": "The estimate will separate containment and material removal from cavity cleaning and reconstruction. Share discovery photos and source-repair status.",
+    "checklist": [
+      "Mark the reported cavity or existing opening.",
+      "Share inspection photos or notes.",
+      "Identify any source repair already completed."
+    ]
+  },
+  "kitchen-fire-cleanup/ferris": {
+    "intro": "Kitchen fire cleanup in Ferris addresses soot, heat damage and extinguishing residue around cooking surfaces and cabinets. We will distinguish cleanable counters and walls from charred components, then identify contents and appliances that need separate review.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup across cabinet interiors and faces",
+        "text": "We will evaluate accessible residue inside storage as well as on the visible room surfaces. Closed doors do not by themselves establish protection of the contents. Belongings will receive separate handling decisions before interior cabinet treatment begins."
+      },
+      {
+        "title": "Determine whether the finish can benefit from cleaning",
+        "text": "Heat distortion, charring, and residue are different conditions. We will explain suitable cleaning where it can inform a retention decision and identify permanent damage where it cannot. A finish evaluation will guide treatment rather than an unsupported promise to restore every cabinet."
+      },
+      {
+        "title": "Reach the wall and floor behind damaged components",
+        "text": "Selective removal may be needed for damaged panels or appliance access. Qualified disconnection will be coordinated where required. Newly visible suppression-water damage or residue will be evaluated before replacement material covers it."
+      },
+      {
+        "title": "Prepare the kitchen for the remaining repairs",
+        "text": "We will identify treated surfaces, retained material still drying, and equipment awaiting specialist review. Cabinet installation and appliance operating approval remain separate tasks. The next repair step will follow those actual conditions."
+      }
+    ],
+    "estimate": "The estimate will separate soot cleaning, material removal, contents handling and response-water work. Tell us what burned and what has already been cleaned.",
+    "checklist": [
+      "Identify the fire area and surfaces affected.",
+      "List contents or appliances needing review.",
+      "Share any response-water or prior cleanup details."
+    ]
+  },
+  "smoke-damage-cleanup/ferris": {
+    "intro": "Smoke damage cleanup in Ferris addresses soot and residue carried from the fire room to nearby surfaces and belongings. We will inspect rooms in sequence, select cleaning methods for retained finishes and remove material that cannot be treated effectively.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup on ledges and recessed surfaces",
+        "text": "We will inspect accessible deposits above normal eye level and around fixed room features. A wiped wall face may still leave residue on a ledge or inside a recess. The treatment area will include the details supported by findings rather than only the largest visible surface."
+      },
+      {
+        "title": "Choose cleaning for the finish underneath",
+        "text": "Paint, finished wood, and absorbent materials can respond differently. Where finish response is uncertain, an evaluation of a suitable small area can inform the decision. Sensitivity or permanent damage will be explained before treatment is extended."
+      },
+      {
+        "title": "Address belongings that obstruct the room work",
+        "text": "We will discuss authorized movement and identify contents needing separate care. An object moved away from a wall is not automatically restored. Equipment internals and delicate items may require another provider beyond building-surface cleanup."
+      },
+      {
+        "title": "Review odor concerns after source-material work",
+        "text": "We will identify relevant untreated surfaces or belongings if concerns remain. Odor treatment will not be used to disguise residue left unaddressed. The record will distinguish surface cleaning, additional material decisions, and finish repairs still needed."
+      }
+    ],
+    "estimate": "The estimate will identify rooms and surfaces for cleaning, material removal, contents handling and odor treatment separately. Share previous wiping, coating or deodorizing attempts.",
+    "checklist": [
+      "List rooms where smoke residue is visible.",
+      "Identify delicate finishes and electronics.",
+      "Describe cleaning already attempted."
+    ]
+  },
+  "toilet-overflow-cleanup/ferris": {
+    "intro": "Toilet overflow cleanup in Ferris addresses wastewater that has crossed the bathroom floor or reached an adjoining room. We will trace the original spill, remove porous material that cannot be cleaned as proposed and clean retained surfaces after the fixture or drain is controlled.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup along the original release route",
+        "text": "We will review where wastewater traveled before mopping or other initial collection. The absence of a puddle does not establish the condition beneath flooring edges. Doorways, lower walls, and objects in the path will be evaluated according to their actual exposure."
+      },
+      {
+        "title": "Reach contacted layers rather than clean only the top",
+        "text": "We will explain removal of unsuitable absorbent material and access needed beneath a finish. Suitable retained surfaces will have defined cleaning. Disposal or retention decisions will consider the source and material instead of relying only on whether an item looks dry."
+      },
+      {
+        "title": "Handle removed material through a planned route",
+        "text": "We will identify the work area and the path used to remove approved debris. Belongings awaiting an owner decision will remain distinct. Clearing the bathroom should not become unintended authorization to discard every object near the fixture."
+      },
+      {
+        "title": "Dry retained components before replacing finishes",
+        "text": "We will identify remaining moisture treatment and the plumbing correction status. Replacement flooring or trim should follow the condition beneath it. The handoff will distinguish cleanup completed from the repairs still required along the exposed edge."
+      }
+    ],
+    "estimate": "The estimate will define wastewater collection, porous material removal, surface cleaning and drying separately from plumbing work. Share the spill path and repair status.",
+    "checklist": [
+      "Name the fixture or drain involved.",
+      "Describe the farthest point reached.",
+      "List material or contents already removed."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/ferris": {
+    "intro": "AC leak water damage cleanup in Ferris helps when moisture appears along a condensate-line route rather than directly underneath the cooling unit. The damaged room surface may be some distance from the mechanical problem. We will review the HVAC findings and evaluate the building materials reached along the accessible route.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup along a concealed drain route",
+        "text": "We will compare the technician findings with the places where water appeared in the building. A ceiling or wall opening can help establish the affected material without exposing the entire line. We will explain the purpose of proposed access and keep diagnosis or repair of the mechanical system with its qualified provider."
+      },
+      {
+        "title": "Check the surfaces around penetrations and changes in direction",
+        "text": "Water visible near a pipe opening can affect the adjoining finish and material inside the assembly. We will inspect what is accessible and identify whether insulation or another covering blocks evaluation. The stain location will be treated as one observation rather than proof that all moisture is confined to that spot."
+      },
+      {
+        "title": "Remove damaged layers and treat the material retained",
+        "text": "We will identify finish or insulation that is unsuitable to keep and explain the removal boundary. Accessible liquid will be addressed, and suitable retained components will be evaluated for drying. Equipment and progress checks will serve those specific locations, including any edge still restricted by the enclosure."
+      },
+      {
+        "title": "Reclose the route only after the relevant work is resolved",
+        "text": "The HVAC repair may be complete before the surrounding building material is ready for patching. We will document the condition of the treated sections and identify any additional access or drying still needed. If suspected mold is exposed, the appropriate remediation decision will precede covering that area again."
+      }
+    ],
+    "estimate": "The length of affected building material, existing access openings, insulation, and finish damage influence the restoration scope. Send the HVAC service findings and identify every room where moisture appeared. Mechanical line work and restoration of the opened finishes will be described as separate tasks.",
+    "checklist": [
+      "Share the reported condensate-line or equipment repair.",
+      "List moisture locations away from the unit.",
+      "Identify openings already made by the service provider."
+    ]
+  },
+  "crawl-space-water-removal/ferris": {
+    "intro": "Crawl space water removal in Ferris addresses standing water beneath a floor after a leak, drainage issue or water entry. We will evaluate access and visible conditions, pump or extract pooled water and identify wet insulation or debris for separate removal.",
+    "sections": [
+      {
+        "title": "Crawl space water removal with a defined reachable area",
+        "text": "We will assess entry clearance, visible utilities, and the route to pooled water before planning extraction. An obstruction may limit access beyond the nearest low point. The scope will identify that limit without claiming the entire space can be reached from one opening."
+      },
+      {
+        "title": "Remove water before deciding on concealed components",
+        "text": "As the accumulation recedes, wet insulation, debris, or framing may become visible. We will document those findings and explain separate material decisions. Liquid collection will not be treated as proof that everything it concealed is ready for replacement work."
+      },
+      {
+        "title": "Address unsuitable material and retained moisture",
+        "text": "Authorized debris or insulation removal may be needed to expose the underside. Suitable retained surfaces can then be considered for drying. Structural damage or suspected mold will be identified where another type of work is required."
+      },
+      {
+        "title": "Prepare the next repair from observed conditions",
+        "text": "We will state the source status and any inaccessible section remaining. Replacing insulation or another covering should follow treatment of the material beneath it. Source correction, pumping, and restoring the assembly will retain distinct completion evidence."
+      }
+    ],
+    "estimate": "The estimate will distinguish water removal and debris handling from plumbing, drainage or foundation repair. Share the access dimensions and known hazards.",
+    "checklist": [
+      "Describe the water source if known.",
+      "Identify access limits and visible utilities.",
+      "List wet insulation or stored items."
+    ]
+  },
+  "attic-mold-remediation/ferris": {
+    "intro": "Attic mold remediation in Ferris addresses material identified on roof sheathing, rafters or other attic surfaces. We will locate the reported area, review access and moisture conditions, and define the treatment boundary for the appropriate remediation provider.",
+    "sections": [
+      {
+        "title": "Attic mold remediation from location-specific findings",
+        "text": "We will relate report photographs to accessible framing or roof features so the proposed area can be identified. A close-up can show a concern without establishing its extent. Sections beyond the available view will remain subject to evaluation rather than assumed included or unaffected."
+      },
+      {
+        "title": "Create access without confusing it with treatment",
+        "text": "Insulation or stored property may need movement to reach the reported surfaces. We will explain that handling and any separate contents decisions. A cleared route does not establish that all attic material has been inspected."
+      },
+      {
+        "title": "Treat suitable wood and identify replacement needs",
+        "text": "The remediation plan will specify cleaning of retained surfaces and removal where material condition requires it. Deterioration needing structural repair has a separate qualified decision. Work will follow the defined area and any applicable assessment."
+      },
+      {
+        "title": "Coordinate moisture correction before reinstatement",
+        "text": "We will identify roof or ventilation findings requiring another provider, related drying, and independent review requirements. New insulation should follow those conditions. The record will describe actual treated surfaces rather than a blanket attic guarantee."
+      }
+    ],
+    "estimate": "The estimate will separate access, remediation and removal from roof repair or ventilation work. Share the inspection report and any source-repair record.",
+    "checklist": [
+      "Identify the roof or ventilation concern, if known.",
+      "Share the attic inspection location or photos.",
+      "Note insulation already moved or removed."
+    ]
+  },
+  "crawl-space-mold-remediation/ferris": {
+    "intro": "Crawl space mold remediation in Ferris addresses identified growth on framing, sheathing or other material beneath a floor. We will assess the accessible area, note moisture and obstructions, and define which surfaces can be treated or need removal.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation around obstructed framing",
+        "text": "We will locate the reported area and identify water, insulation, or fixed obstructions that prevent direct treatment. A visible section near the opening may not represent material farther beneath the floor. The planned work will separate observed conditions from sections still requiring access."
+      },
+      {
+        "title": "Expose the components selected for evaluation",
+        "text": "Affected or obstructing material may need removal before retained wood can be reached. We will explain the purpose and boundary of that work. Structural or utility changes will require the appropriate provider rather than improvised access."
+      },
+      {
+        "title": "Perform the defined retained-surface treatment",
+        "text": "The remediation plan will identify suitable cleaning and material unsuitable to keep. Cleaning does not restore strength to deteriorated framing. Moisture correction and any required drying will remain explicit alongside the remediation tasks."
+      },
+      {
+        "title": "Reinsulate after the relevant conditions are resolved",
+        "text": "We will identify independent review and remaining access limits before replacement material returns. The handoff will describe the section addressed and outstanding work. An inaccessible area will not be absorbed into a general completion claim beneath the house."
+      }
+    ],
+    "estimate": "The estimate will separate remediation from drainage, plumbing and structural work. Share access details, inspection notes and any water-removal history.",
+    "checklist": [
+      "Provide the crawl-space report.",
+      "Describe access and obstructions.",
+      "Share moisture or drainage corrections."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/ferris": {
+    "intro": "Mold contaminated contents cleaning in Ferris addresses belongings stored near a reported mold condition. We will sort items by material and visible condition, identify what can be cleaned and separate porous or delicate pieces for evaluation.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning for mixed construction",
+        "text": "We will evaluate accessible solid surfaces separately from fabric, padding, composite backing, or concealed joints. An object can contain both treatable and unsuitable components. That construction will guide the decision rather than a simple room-level label applied to all belongings."
+      },
+      {
+        "title": "Identify priorities before irreversible treatment",
+        "text": "We will discuss items requiring individual approval and explain specialist needs or practical limitations. Personal importance can guide the order of review without guaranteeing restoration. Untreated items will remain distinguishable from those accepted for cleaning."
+      },
+      {
+        "title": "Tie the completed work to identifiable property",
+        "text": "The record will identify treatment performed and the condition still unresolved. Moving or packing a belonging will not be counted as cleaning it. Sensitive objects may need another provider before an outcome can be established."
+      },
+      {
+        "title": "Choose a suitable receiving environment",
+        "text": "Cleaned items need appropriate containers and a room with resolved moisture and cleanup conditions. Affected packaging has its own retention decision. We will coordinate return around those factors so treated property is not placed back into unresolved exposure."
+      }
+    ],
+    "estimate": "The estimate will identify contents groups, treatment and any separate handling or specialist needs. Share an inventory and identify priority items.",
+    "checklist": [
+      "Keep tags or labels with belongings.",
+      "Identify delicate or irreplaceable pieces.",
+      "Share earlier cleaning attempts."
+    ]
+  },
+  "fire-damaged-debris-removal/ferris": {
+    "intro": "Fire damaged debris removal in Ferris addresses burned drywall, insulation, trim and loose material approved for disposal. We will define the removal boundary, protect the debris route and keep items requiring owner or specialist review out of the disposal group.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal with retained property identified",
+        "text": "We will distinguish building material approved for disposal from belongings or components needed for review. A damaged room can contain both categories in the same pile. Those decisions should be made before loading so removal does not become unintended disposal authorization."
+      },
+      {
+        "title": "Plan detachment and the exit route",
+        "text": "Attached finish may involve utilities or unstable surrounding material. We will identify appropriate disconnection or evaluation before that portion proceeds. The handling route will account for retained areas the debris must pass through."
+      },
+      {
+        "title": "Inspect the assembly that removal exposes",
+        "text": "Clearing approved material can reveal residue, moisture, or further damage. We will explain those findings and the next cleaning or drying needs. Additional demolition will follow a supported decision rather than happen automatically as surfaces become visible."
+      },
+      {
+        "title": "Leave a defined starting point for restoration",
+        "text": "We will identify sections cleared and tasks still required on retained surfaces. Debris hauling does not establish structural readiness or complete smoke cleanup. The next provider will receive the remaining condition before replacement finishes cover it."
+      }
+    ],
+    "estimate": "The estimate will name rooms, debris categories and handling included. Share prior removals and anything that must be retained for documentation.",
+    "checklist": [
+      "Mark items that must remain.",
+      "Identify the debris boundary.",
+      "Describe the approved exit route and access limits."
+    ]
+  },
+  "fire-damaged-contents-cleaning/ferris": {
+    "intro": "Fire damaged contents cleaning in Ferris addresses belongings exposed to soot, smoke or heat. We will review items by construction and condition, select suitable surface treatment and separate pieces needing testing, repair or disposal decisions.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning by accessible component",
+        "text": "We will examine residue, heat effects, and water damage alongside the construction of the requested belongings. A hard exterior may be cleanable while hidden padding or equipment components need another evaluation. The proposed treatment will explain those distinctions before work is approved."
+      },
+      {
+        "title": "Evaluate the likely benefit before broad treatment",
+        "text": "Suitable items can receive defined cleaning, with finish response considered where uncertain. Permanent distortion or charring will not be presented as reversible through surface work. Delicate objects and electronics may require specialist care beyond the general contents scope."
+      },
+      {
+        "title": "Keep owner decisions and completed treatment separate",
+        "text": "We will identify items awaiting approval, items treated, and property requiring another provider. Labels or an inventory can preserve those distinctions. Packing or relocating an object will not be recorded as restoring its condition."
+      },
+      {
+        "title": "Return belongings with limitations documented",
+        "text": "We will explain the work performed and any remaining damage or operating question. The receiving room and packaging should support completed treatment. Building repair status and item readiness will be coordinated without assuming one proves the other."
+      }
+    ],
+    "estimate": "The estimate will separate item evaluation, cleaning, packing and specialist repair. Share an inventory or photos and flag delicate belongings.",
+    "checklist": [
+      "Keep item labels available.",
+      "Identify electronics and delicate materials.",
+      "List pieces needing owner review."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/ferris": {
+    "intro": "Fire extinguisher residue cleanup in Ferris addresses powder or other agent deposited on surfaces during fire response. We will identify the extinguisher type when possible, map affected surfaces and choose cleaning suited to the agent and underlying finish.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup based on the released agent",
+        "text": "We will review the label or response information before selecting treatment for the exposed surfaces. Agent identity and finish sensitivity both matter. If the available information is incomplete, we will clarify the agent before selecting a cleaning method."
+      },
+      {
+        "title": "Collect deposits beyond the largest visible patch",
+        "text": "Ledges, cabinet edges, and surfaces behind movable objects may retain material. We will identify the locations included and explain the access required. Objects moved for room cleaning will keep their own contents or equipment decision."
+      },
+      {
+        "title": "Distinguish surface access from internal treatment",
+        "text": "Device openings or concealed joints can limit what exterior cleaning reaches. We will identify specialist inspection needed rather than infer internal condition from a clean housing. Finish damage or sensitivity will also be explained before additional treatment."
+      },
+      {
+        "title": "Document remaining equipment and fire work",
+        "text": "The record will identify surfaces addressed and unresolved item decisions. Heat or smoke damage has its own scope. Servicing the extinguisher and approving equipment operation will remain separate from removal of residue around the room."
+      }
+    ],
+    "estimate": "The estimate will identify affected surfaces, agent collection and cleaning separately from equipment testing. Share the extinguisher label and list nearby electronics.",
+    "checklist": [
+      "Keep foot traffic away from loose powder.",
+      "Share extinguisher type if known.",
+      "List appliances or electronics exposed."
+    ]
+  },
+  "emergency-board-up-after-fire/ferris": {
+    "intro": "Emergency board up after fire in Ferris temporarily covers a broken window, damaged door or opening left by a fire. We will measure the opening, secure suitable protection and keep required entries and exits available.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire at openings with damaged edges",
+        "text": "We will measure the requested openings and evaluate accessible attachment surfaces. Missing glazing or a door is different from weakened surrounding construction. Another provider may need to address that support condition before temporary coverage can be installed as proposed."
+      },
+      {
+        "title": "Account for the next authorized entry",
+        "text": "Inspectors and repair crews may require a specific access route after protection is in place. We will identify those needs before fitting panels. The arrangement will not obstruct required access or be described as approval for ordinary occupancy."
+      },
+      {
+        "title": "Describe the protection actually provided",
+        "text": "We will record each opening addressed and relevant remaining exposure. Temporary coverage does not replace damaged framing or resolve unrelated exterior or utility conditions. Its limits will be stated instead of implying a completed building-envelope repair."
+      },
+      {
+        "title": "Coordinate permanent replacement as the opening changes",
+        "text": "Demolition or frame work can alter the support for temporary protection. We will explain the need to review that transition with the repair provider. The installation record will describe the condition left, giving the next contractor a practical basis for planning replacement."
+      }
+    ],
+    "estimate": "The estimate will identify openings covered, materials used and access limits. Share photos and which entries or utilities must stay accessible.",
+    "checklist": [
+      "List each opening needing protection.",
+      "Identify required entry and exit routes.",
+      "Share utility or access restrictions."
+    ]
+  },
+  "crawl-space-sewage-cleanup/ferris": {
+    "intro": "Crawl space sewage cleanup in Ferris addresses wastewater that has escaped a drain or sewer line below a building. We will locate contacted soil, insulation and framing, remove contaminated debris and clean accessible surfaces after the source is controlled.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup along the discharge route",
+        "text": "We will review the failed line or reported source and inspect the wastewater distribution that can be reached. Low clearance or utilities may prevent access to part of the route. Those sections will remain identified rather than assumed resolved by pumping the nearest accumulation."
+      },
+      {
+        "title": "Remove material that blocks or cannot withstand treatment",
+        "text": "Affected insulation or loose debris may require removal before retained surfaces can be evaluated. We will explain handling through the available route and keep attached components needing another decision distinct. Newly exposed conditions can change the work required."
+      },
+      {
+        "title": "Clean suitable retained components and address moisture",
+        "text": "The plan will identify appropriate treatment for surfaces selected to remain, followed by related drying where needed. Contamination exposure and material deterioration require separate decisions. Liquid extraction alone will not establish readiness for new insulation or coverings."
+      },
+      {
+        "title": "Leave the underside with a specific completion record",
+        "text": "We will identify the sections addressed, the plumbing correction status, and access limitations remaining. Structural or drainage repairs retain their own provider responsibilities. Replacement material should follow the condition actually established beneath it."
+      }
+    ],
+    "estimate": "The estimate will distinguish wastewater removal, contaminated material handling and surface cleaning from plumbing or drainage repair. Share access details and any debris already removed.",
+    "checklist": [
+      "Identify the drain, fixture or line.",
+      "Describe crawl-space access and clearance.",
+      "List standing water or material already removed."
+    ]
+  }
+}

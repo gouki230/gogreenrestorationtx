@@ -1,0 +1,1807 @@
+[
+  {
+    "name": "Addison",
+    "slug": "addison",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.addisontexas.net",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4801240",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Aledo",
+    "slug": "aledo",
+    "county": "Parker County",
+    "officialWebsite": "http://www.aledotx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4801744",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Allen",
+    "slug": "allen",
+    "county": "Collin County",
+    "officialWebsite": "http://www.allentx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4801924",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Alma",
+    "slug": "alma",
+    "county": "Ellis County",
+    "officialWebsite": "https://cityofalmatx.gov/",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4802044",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Alvarado",
+    "slug": "alvarado",
+    "county": "Johnson County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4802260",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Alvord",
+    "slug": "alvord",
+    "county": "Wise County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4802284",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Anna",
+    "slug": "anna",
+    "county": "Collin County",
+    "officialWebsite": "http://www.annatexas.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4803300",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Annetta",
+    "slug": "annetta",
+    "county": "Parker County",
+    "officialWebsite": "https://www.annettatx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4803336",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Annetta North",
+    "slug": "annetta-north",
+    "county": "Parker County",
+    "officialWebsite": "http://annettanorth.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4803340",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Annetta South",
+    "slug": "annetta-south",
+    "county": "Parker County",
+    "officialWebsite": "http://www.annettasouth.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4803342",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Argyle",
+    "slug": "argyle",
+    "county": "Denton County",
+    "officialWebsite": "http://www.argyletx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4803768",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Arlington",
+    "slug": "arlington",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.arlingtontx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4804000",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Aubrey",
+    "slug": "aubrey",
+    "county": "Denton County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4804600",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Aurora",
+    "slug": "aurora",
+    "county": "Wise County",
+    "officialWebsite": "http://www.auroratexas.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4804672",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Azle",
+    "slug": "azle",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.cityofazle.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4805168",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Balch Springs",
+    "slug": "balch-springs",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.balchspringstx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4805372",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Bardwell",
+    "slug": "bardwell",
+    "county": "Ellis County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4805612",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Bartonville",
+    "slug": "bartonville",
+    "county": "Denton County",
+    "officialWebsite": "http://www.townofbartonville.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4805768",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Bedford",
+    "slug": "bedford",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.bedfordtx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4807132",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Benbrook",
+    "slug": "benbrook",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.benbrook-tx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4807552",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Blue Mound",
+    "slug": "blue-mound",
+    "county": "Tarrant County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4808860",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Blue Ridge",
+    "slug": "blue-ridge",
+    "county": "Collin County",
+    "officialWebsite": "http://www.blueridgecity.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4808872",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Boyd",
+    "slug": "boyd",
+    "county": "Wise County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4809748",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Briaroaks",
+    "slug": "briaroaks",
+    "county": "Johnson County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4810216",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Bridgeport",
+    "slug": "bridgeport",
+    "county": "Wise County",
+    "officialWebsite": "http://www.cityofbridgeport.net",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4810264",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Burleson",
+    "slug": "burleson",
+    "county": "Johnson County",
+    "officialWebsite": "http://www.burlesontx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4811428",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Caddo Mills",
+    "slug": "caddo-mills",
+    "county": "Hunt County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4811716",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Campbell",
+    "slug": "campbell",
+    "county": "Hunt County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4812112",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Carrollton",
+    "slug": "carrollton",
+    "county": "Denton County",
+    "officialWebsite": "http://www.cityofcarrollton.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4813024",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Cedar Hill",
+    "slug": "cedar-hill",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.cedarhilltx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4813492",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Celeste",
+    "slug": "celeste",
+    "county": "Hunt County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4813672",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Celina",
+    "slug": "celina",
+    "county": "Collin County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4813684",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Chico",
+    "slug": "chico",
+    "county": "Wise County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4814620",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Cleburne",
+    "slug": "cleburne",
+    "county": "Johnson County",
+    "officialWebsite": "http://www.cleburne.net",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4815364",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Cockrell Hill",
+    "slug": "cockrell-hill",
+    "county": "Dallas County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4815796",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Colleyville",
+    "slug": "colleyville",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.colleyville.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4815988",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Combine",
+    "slug": "combine",
+    "county": "Kaufman County",
+    "officialWebsite": "http://www.combinetx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4816216",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Commerce",
+    "slug": "commerce",
+    "county": "Hunt County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4816240",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Cool",
+    "slug": "cool",
+    "county": "Parker County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4816540",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Coppell",
+    "slug": "coppell",
+    "county": "Dallas County",
+    "officialWebsite": "http://coppelltx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4816612",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Copper Canyon",
+    "slug": "copper-canyon",
+    "county": "Denton County",
+    "officialWebsite": "http://www.coppercanyon-tx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4816636",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Corinth",
+    "slug": "corinth",
+    "county": "Denton County",
+    "officialWebsite": "http://www.cityofcorinth.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4816696",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Corral City",
+    "slug": "corral-city",
+    "county": "Denton County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4817021",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Cottonwood",
+    "slug": "cottonwood",
+    "county": "Kaufman County",
+    "officialWebsite": "https://cityofcottonwoodtexas.org/",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4817200",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Coyote Flats",
+    "slug": "coyote-flats",
+    "county": "Johnson County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4817429",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Crandall",
+    "slug": "crandall",
+    "county": "Kaufman County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4817504",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Cresson",
+    "slug": "cresson",
+    "county": "Johnson County",
+    "source": "https://directory.tml.org/profile/city/370",
+    "geoid": "4817648",
+    "boundaryStatus": "partly_in_metro_county",
+    "counties": [
+      "Hood",
+      "Parker",
+      "Johnson"
+    ]
+  },
+  {
+    "name": "Cross Roads",
+    "slug": "cross-roads",
+    "county": "Denton County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4817852",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Cross Timber",
+    "slug": "cross-timber",
+    "county": "Johnson County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4817917",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Crowley",
+    "slug": "crowley",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.ci.crowley.tx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4817960",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Dallas",
+    "slug": "dallas",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.dallascityhall.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4819000",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Dalworthington Gardens",
+    "slug": "dalworthington-gardens",
+    "county": "Tarrant County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4819084",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Decatur",
+    "slug": "decatur",
+    "county": "Wise County",
+    "officialWebsite": "http://www.decaturtx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4819528",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Dennis",
+    "slug": "dennis",
+    "county": "Parker County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4819924",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Denton",
+    "slug": "denton",
+    "county": "Denton County",
+    "officialWebsite": "http://www.cityofdenton.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4819972",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "DeSoto",
+    "slug": "desoto",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.desototexas.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4820092",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "DISH",
+    "slug": "dish",
+    "county": "Denton County",
+    "officialWebsite": "http://www.townofdish.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4820540",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Double Oak",
+    "slug": "double-oak",
+    "county": "Denton County",
+    "officialWebsite": "http://www.doubleoak.texas.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4821028",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Duncanville",
+    "slug": "duncanville",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.duncanville.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4821628",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Edgecliff Village",
+    "slug": "edgecliff-village",
+    "county": "Tarrant County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4822588",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Ennis",
+    "slug": "ennis",
+    "county": "Ellis County",
+    "officialWebsite": "http://www.ennistx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4824348",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Euless",
+    "slug": "euless",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.eulesstx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4824768",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Everman",
+    "slug": "everman",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.evermantx.net",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4824912",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Fairview",
+    "slug": "fairview",
+    "county": "Collin County",
+    "officialWebsite": "http://www.fairviewtexas.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4825224",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Farmers Branch",
+    "slug": "farmers-branch",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.farmersbranchtx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4825452",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Farmersville",
+    "slug": "farmersville",
+    "county": "Collin County",
+    "officialWebsite": "http://www.farmersvilletx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4825488",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Fate",
+    "slug": "fate",
+    "county": "Rockwall County",
+    "officialWebsite": "http://www.fatetx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4825572",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Ferris",
+    "slug": "ferris",
+    "county": "Ellis County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4825752",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Flower Mound",
+    "slug": "flower-mound",
+    "county": "Denton County",
+    "officialWebsite": "http://www.flower-mound.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4826232",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Forest Hill",
+    "slug": "forest-hill",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.foresthilltx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4826544",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Forney",
+    "slug": "forney",
+    "county": "Kaufman County",
+    "officialWebsite": "http://www.forneytx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4826604",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Fort Worth",
+    "slug": "fort-worth",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.fortworthtexas.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4827000",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Frisco",
+    "slug": "frisco",
+    "county": "Collin County",
+    "officialWebsite": "http://www.friscotexas.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4827684",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Garland",
+    "slug": "garland",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.garlandtx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4829000",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Garrett",
+    "slug": "garrett",
+    "county": "Ellis County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4829036",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Glenn Heights",
+    "slug": "glenn-heights",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.glennheightstx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4829840",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Godley",
+    "slug": "godley",
+    "county": "Johnson County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4829972",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Grand Prairie",
+    "slug": "grand-prairie",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.gptx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4830464",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Grandview",
+    "slug": "grandview",
+    "county": "Johnson County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4830512",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Grapevine",
+    "slug": "grapevine",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.grapevinetexas.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4830644",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Grays Prairie",
+    "slug": "grays-prairie",
+    "county": "Kaufman County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4830752",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Greenville",
+    "slug": "greenville",
+    "county": "Hunt County",
+    "officialWebsite": "http://www.ci.greenville.tx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4830920",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Hackberry",
+    "slug": "hackberry",
+    "county": "Denton County",
+    "officialWebsite": "https://city@cityofhackberry.net",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4831715",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Haltom City",
+    "slug": "haltom-city",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.haltomcitytx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4831928",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Haslet",
+    "slug": "haslet",
+    "county": "Denton County",
+    "officialWebsite": "http://www.city@cityofhackberry.net",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4832720",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Hawk Cove",
+    "slug": "hawk-cove",
+    "county": "Hunt County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4832810",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Heath",
+    "slug": "heath",
+    "county": "Rockwall County",
+    "officialWebsite": "http://www.heathtx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4832984",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Hebron",
+    "slug": "hebron",
+    "county": "Denton County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4833020",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Hickory Creek",
+    "slug": "hickory-creek",
+    "county": "Denton County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4833476",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Highland Park",
+    "slug": "highland-park",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.hptx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4833824",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Highland Village",
+    "slug": "highland-village",
+    "county": "Denton County",
+    "officialWebsite": "http://www.highlandvillage.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4833848",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Hudson Oaks",
+    "slug": "hudson-oaks",
+    "county": "Parker County",
+    "officialWebsite": "http://www.hudsonoaks.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4835254",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Hurst",
+    "slug": "hurst",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.hursttx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4835576",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Hutchins",
+    "slug": "hutchins",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.cityofhutchins.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4835612",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Irving",
+    "slug": "irving",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.irvingtx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4837000",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Italy",
+    "slug": "italy",
+    "county": "Ellis County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4837072",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Josephine",
+    "slug": "josephine",
+    "county": "Collin County",
+    "officialWebsite": "http://www.cityofjosephinetx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4838068",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Joshua",
+    "slug": "joshua",
+    "county": "Johnson County",
+    "officialWebsite": "http://www.cityofjoshuatx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4838080",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Justin",
+    "slug": "justin",
+    "county": "Denton County",
+    "officialWebsite": "http://www.cityofjustin.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4838332",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Kaufman",
+    "slug": "kaufman",
+    "county": "Kaufman County",
+    "officialWebsite": "http://www.kaufmantx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4838488",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Keene",
+    "slug": "keene",
+    "county": "Johnson County",
+    "officialWebsite": "http://www.keenetx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4838548",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Keller",
+    "slug": "keller",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.cityofkeller.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4838632",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Kemp",
+    "slug": "kemp",
+    "county": "Kaufman County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4838788",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Kennedale",
+    "slug": "kennedale",
+    "county": "Tarrant County",
+    "officialWebsite": "https://www.cityofkennedale.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4838896",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Krugerville",
+    "slug": "krugerville",
+    "county": "Denton County",
+    "officialWebsite": "http://www.krugerville.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4839916",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Krum",
+    "slug": "krum",
+    "county": "Denton County",
+    "officialWebsite": "http://www.cityofkrum.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4839928",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lake Bridgeport",
+    "slug": "lake-bridgeport",
+    "county": "Wise County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4840450",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lake Dallas",
+    "slug": "lake-dallas",
+    "county": "Denton County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4840516",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lake Worth",
+    "slug": "lake-worth",
+    "county": "Tarrant County",
+    "officialWebsite": "https://www.lakeworthtx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4841056",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lakeside",
+    "slug": "lakeside",
+    "county": "Tarrant County",
+    "officialWebsite": "https://lakeside@lakesidetexas.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4840744",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lakewood Village",
+    "slug": "lakewood-village",
+    "county": "Denton County",
+    "officialWebsite": "http://www.lakewoodvillagetx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4841050",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lancaster",
+    "slug": "lancaster",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.lancaster-tx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4841212",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lavon",
+    "slug": "lavon",
+    "county": "Collin County",
+    "officialWebsite": "http://www.cityoflavon.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4841800",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lewisville",
+    "slug": "lewisville",
+    "county": "Denton County",
+    "officialWebsite": "http://www.cityoflewisville.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4842508",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Little Elm",
+    "slug": "little-elm",
+    "county": "Denton County",
+    "officialWebsite": "http://www.littleelm.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4843012",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lone Oak",
+    "slug": "lone-oak",
+    "county": "Hunt County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4843636",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lowry Crossing",
+    "slug": "lowry-crossing",
+    "county": "Collin County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4844308",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Lucas",
+    "slug": "lucas",
+    "county": "Collin County",
+    "officialWebsite": "http://www.lucastexas.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4845012",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Mabank",
+    "slug": "mabank",
+    "county": "Kaufman County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4845324",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Mansfield",
+    "slug": "mansfield",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.mansfieldtexas.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4846452",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Maypearl",
+    "slug": "maypearl",
+    "county": "Ellis County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4847268",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "McKinney",
+    "slug": "mckinney",
+    "county": "Collin County",
+    "officialWebsite": "https://www.mckinneytexas.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4845744",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "McLendon-Chisholm",
+    "slug": "mclendon-chisholm",
+    "county": "Rockwall County",
+    "officialWebsite": "http://www.mclendon-chisholm.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4845804",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Melissa",
+    "slug": "melissa",
+    "county": "Collin County",
+    "officialWebsite": "http://www.cityofmelissa.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4847496",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Mesquite",
+    "slug": "mesquite",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.cityofmesquite.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4847892",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Midlothian",
+    "slug": "midlothian",
+    "county": "Ellis County",
+    "officialWebsite": "http://www.midlothian.tx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4848096",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Milford",
+    "slug": "milford",
+    "county": "Ellis County",
+    "officialWebsite": "https://cityofmilfordtx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4848408",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Millsap",
+    "slug": "millsap",
+    "county": "Parker County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4848564",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Mineral Wells",
+    "slug": "mineral-wells",
+    "county": "Parker County",
+    "source": "https://directory.tml.org/profile/city/894/1000",
+    "geoid": "4848684",
+    "boundaryStatus": "partly_in_metro_county",
+    "counties": [
+      "Palo Pinto",
+      "Parker"
+    ]
+  },
+  {
+    "name": "Mobile City",
+    "slug": "mobile-city",
+    "county": "Rockwall County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4848858",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Murphy",
+    "slug": "murphy",
+    "county": "Collin County",
+    "officialWebsite": "http://www.murphytx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4850100",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Nevada",
+    "slug": "nevada",
+    "county": "Collin County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4850760",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "New Fairview",
+    "slug": "new-fairview",
+    "county": "Wise County",
+    "officialWebsite": "http://www.ci.new-fairview.tx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4850920",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "New Hope",
+    "slug": "new-hope",
+    "county": "Collin County",
+    "officialWebsite": "http://www.newhopetx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4851036",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Newark",
+    "slug": "newark",
+    "county": "Wise County",
+    "officialWebsite": "http://www.newarktexas.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4850772",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Neylandville",
+    "slug": "neylandville",
+    "county": "Hunt County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4851444",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "North Richland Hills",
+    "slug": "north-richland-hills",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.nrhtx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4852356",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Northlake",
+    "slug": "northlake",
+    "county": "Denton County",
+    "officialWebsite": "http://www.town.northlake.tx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4852212",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Oak Grove",
+    "slug": "oak-grove",
+    "county": "Kaufman County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4852902",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Oak Leaf",
+    "slug": "oak-leaf",
+    "county": "Ellis County",
+    "officialWebsite": "http://www.oakleaftexas.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4853115",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Oak Point",
+    "slug": "oak-point",
+    "county": "Denton County",
+    "officialWebsite": "http://www.oakpointtexas.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4853130",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Oak Ridge",
+    "slug": "oak-ridge",
+    "county": "Kaufman County",
+    "officialWebsite": "http://www.cityofoakridgetx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4853160",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Ovilla",
+    "slug": "ovilla",
+    "county": "Ellis County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4854444",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Palmer",
+    "slug": "palmer",
+    "county": "Ellis County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4854744",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Pantego",
+    "slug": "pantego",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.townofpantego.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4855020",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Paradise",
+    "slug": "paradise",
+    "county": "Wise County",
+    "officialWebsite": "http://www.cityofparadisetexas.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4855056",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Parker",
+    "slug": "parker",
+    "county": "Collin County",
+    "officialWebsite": "http://www.parkertexas.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4855152",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Peaster",
+    "slug": "peaster",
+    "county": "Parker County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4856432",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Pecan Hill",
+    "slug": "pecan-hill",
+    "county": "Ellis County",
+    "officialWebsite": "http://www.pecanhill.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4856485",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Pelican Bay",
+    "slug": "pelican-bay",
+    "county": "Tarrant County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4856640",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Pilot Point",
+    "slug": "pilot-point",
+    "county": "Denton County",
+    "officialWebsite": "http://www.cityofpilotpoint.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4857476",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Plano",
+    "slug": "plano",
+    "county": "Collin County",
+    "officialWebsite": "http://www.plano.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4858016",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Poetry",
+    "slug": "poetry",
+    "county": "Kaufman County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4858502",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Ponder",
+    "slug": "ponder",
+    "county": "Denton County",
+    "officialWebsite": "http://www.pondertx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4858664",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Post Oak Bend",
+    "slug": "post-oak-bend",
+    "county": "Kaufman County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4859065",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Princeton",
+    "slug": "princeton",
+    "county": "Collin County",
+    "officialWebsite": "http://www.princetontx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4859576",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Prosper",
+    "slug": "prosper",
+    "county": "Collin County",
+    "officialWebsite": "http://www.prospertx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4859696",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Providence Village",
+    "slug": "providence-village",
+    "county": "Denton County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4859748",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Quinlan",
+    "slug": "quinlan",
+    "county": "Hunt County",
+    "officialWebsite": "http://www.cityofquinlan.net",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4860140",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Red Oak",
+    "slug": "red-oak",
+    "county": "Ellis County",
+    "officialWebsite": "http://www.redoaktx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4861196",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Reno",
+    "slug": "reno",
+    "county": "Parker County",
+    "officialWebsite": "http://www.renotx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4861604",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Rhome",
+    "slug": "rhome",
+    "county": "Wise County",
+    "officialWebsite": "http://www.cityofrhome.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4861700",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Richardson",
+    "slug": "richardson",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.cor.net",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4861796",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Richland Hills",
+    "slug": "richland-hills",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.richlandhills.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4861844",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Rio Vista",
+    "slug": "rio-vista",
+    "county": "Johnson County",
+    "officialWebsite": "https://cityhall@riovistatx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4862240",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "River Oaks",
+    "slug": "river-oaks",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.riveroakstx.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4862384",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Roanoke",
+    "slug": "roanoke",
+    "county": "Denton County",
+    "officialWebsite": "http://www.roanoketexas.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4862504",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Rockwall",
+    "slug": "rockwall",
+    "county": "Rockwall County",
+    "officialWebsite": "http://www.rockwall.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4862828",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Rosser",
+    "slug": "rosser",
+    "county": "Kaufman County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4863404",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Rowlett",
+    "slug": "rowlett",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.ci.rowlett.tx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4863572",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Royse City",
+    "slug": "royse-city",
+    "county": "Rockwall County",
+    "officialWebsite": "http://www.roysecity.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4863668",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Runaway Bay",
+    "slug": "runaway-bay",
+    "county": "Wise County",
+    "officialWebsite": "http://www.runawaybaytexas.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4863782",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Sachse",
+    "slug": "sachse",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.cityofsachse.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4864064",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Saginaw",
+    "slug": "saginaw",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.saginawtx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4864112",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Sanctuary",
+    "slug": "sanctuary",
+    "county": "Parker County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4865066",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Sanger",
+    "slug": "sanger",
+    "county": "Denton County",
+    "officialWebsite": "http://sangertexas.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4865408",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Sansom Park",
+    "slug": "sansom-park",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.sansompark.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4865660",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Scurry",
+    "slug": "scurry",
+    "county": "Kaufman County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4866368",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Seagoville",
+    "slug": "seagoville",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.seagoville.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4866428",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Seven Points",
+    "slug": "seven-points",
+    "county": "Kaufman County",
+    "source": "https://www.etcog.org/seven-points",
+    "geoid": "4866908",
+    "boundaryStatus": "partly_in_metro_county",
+    "counties": [
+      "Henderson",
+      "Kaufman"
+    ]
+  },
+  {
+    "name": "Shady Shores",
+    "slug": "shady-shores",
+    "county": "Denton County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4867100",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Southlake",
+    "slug": "southlake",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.ci.southlake.tx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4869032",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Springtown",
+    "slug": "springtown",
+    "county": "Parker County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4869800",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "St. Paul",
+    "slug": "st-paul",
+    "county": "Collin County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4864220",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Sunnyvale",
+    "slug": "sunnyvale",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.townofsunnyvale.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4871156",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Talty",
+    "slug": "talty",
+    "county": "Kaufman County",
+    "officialWebsite": "http://www.taltytexas.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4871756",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Terrell",
+    "slug": "terrell",
+    "county": "Kaufman County",
+    "officialWebsite": "http://www.cityofterrell.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4872284",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "The Colony",
+    "slug": "the-colony",
+    "county": "Denton County",
+    "officialWebsite": "http://www.thecolonytx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4872530",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Trophy Club",
+    "slug": "trophy-club",
+    "county": "Denton County",
+    "officialWebsite": "http://www.trophyclub.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4873710",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Union Valley",
+    "slug": "union-valley",
+    "county": "Hunt County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4874372",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "University Park",
+    "slug": "university-park",
+    "county": "Dallas County",
+    "officialWebsite": "http://www.uptexas.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4874492",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Van Alstyne",
+    "slug": "van-alstyne",
+    "county": "Collin County",
+    "source": "https://regionaldirectory.nctcog.org/api/gis/cities?geometry=true",
+    "geoid": "4874924",
+    "boundaryStatus": "partly_in_metro_county",
+    "counties": [
+      "Grayson",
+      "Collin"
+    ]
+  },
+  {
+    "name": "Venus",
+    "slug": "venus",
+    "county": "Johnson County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4875236",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Watauga",
+    "slug": "watauga",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.wataugatx.org",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4876672",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Waxahachie",
+    "slug": "waxahachie",
+    "county": "Ellis County",
+    "officialWebsite": "http://www.waxahachie.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4876816",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Weatherford",
+    "slug": "weatherford",
+    "county": "Parker County",
+    "officialWebsite": "http://www.weatherfordtx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4876864",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "West Tawakoni",
+    "slug": "west-tawakoni",
+    "county": "Hunt County",
+    "officialWebsite": "http://www.cityofwesttawakoni.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4877896",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Westlake",
+    "slug": "westlake",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.westlaketx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4877620",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Weston",
+    "slug": "weston",
+    "county": "Collin County",
+    "officialWebsite": "http://www.westontexas.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4877740",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Westover Hills",
+    "slug": "westover-hills",
+    "county": "Tarrant County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4877788",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Westworth Village",
+    "slug": "westworth-village",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.cityofwestworth.com",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4878076",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "White Settlement",
+    "slug": "white-settlement",
+    "county": "Tarrant County",
+    "officialWebsite": "http://www.wstx.us",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4878544",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Willow Park",
+    "slug": "willow-park",
+    "county": "Parker County",
+    "officialWebsite": "http://www.willowparktx.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4879492",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Wilmer",
+    "slug": "wilmer",
+    "county": "Dallas County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4879576",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Wolfe City",
+    "slug": "wolfe-city",
+    "county": "Hunt County",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4879948",
+    "boundaryStatus": "listed_in_metro_county"
+  },
+  {
+    "name": "Wylie",
+    "slug": "wylie",
+    "county": "Collin County",
+    "officialWebsite": "http://www.wylietexas.gov",
+    "source": "https://www.tdhca.texas.gov/sites/default/files/SFHP-division/docs/26-IndexPlaces.pdf",
+    "geoid": "4880356",
+    "boundaryStatus": "listed_in_metro_county"
+  }
+]

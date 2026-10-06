@@ -1,0 +1,650 @@
+{
+  "emergency-water-extraction/annetta": {
+    "intro": "Emergency water extraction in Annetta helps when a small office or workspace has standing water and the people reporting it are not the ones authorized to approve restoration. The first response needs clear access and decision-making. We will establish those contacts, review accessible conditions, and organize removal while explaining the separate choices for equipment, contents, and building materials.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Annetta at an occupied workspace",
+        "text": "We will identify affected rooms and the routes people normally use through them. The work plan must account for wet electrical areas, overhead concerns, and other access limitations before ordinary activity continues. Restoring an access route does not establish that every part of the workspace is ready for routine use or that exposed equipment is operational."
+      },
+      {
+        "title": "Making authorization practical",
+        "text": "A staff member, occupant, manager, and owner may have different responsibilities. We will confirm who admits the team and who approves the initial task and later changes. That arrangement helps avoid a broad emergency instruction being mistaken for approval of equipment disposal, demolition, or reconstruction that has not yet been explained."
+      },
+      {
+        "title": "Separating operational priorities from contents treatment",
+        "text": "Certain tools, records, or devices may be especially important to the business. We will identify those priorities and the handling included in the response. Moving an item to reach the floor is not the same as evaluating it for use; specialist questions should retain their own responsibility rather than be resolved by a cleaner-looking room."
+      },
+      {
+        "title": "Documenting the next restoration phase",
+        "text": "We will record accessible removal, material findings, and remaining drying or access needs. Any additional opening or disposal proposal will be connected to the observed condition before authorization. The handoff should let the decision-maker understand what has been accomplished and what remains, even if that person was not present during the initial visit."
+      }
+    ],
+    "estimate": "Area, water condition, construction, access, contents handling, and follow-up requirements affect pricing. We will distinguish immediate collection from continued drying, item treatment, and rebuilding. A limited first view will be described honestly so later findings can be reviewed as defined changes rather than an unexpected expansion of an undefined emergency allowance.",
+    "checklist": [
+      "Identify the site contact and the person approving work.",
+      "Describe wet rooms and any exposed equipment.",
+      "Keep people away from affected electrical areas until appropriate access is established."
+    ]
+  },
+  "burst-pipe-cleanup/annetta": {
+    "intro": "Burst pipe cleanup in Annetta helps when a broken supply line has affected a reception or customer area and you need to separate restoration from the decision about reopening it. A dry-looking entrance may still connect to wet layers. We will review accessible damage, organize material work, and explain the boundaries of the completed phase before finishes and furnishings return.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Annetta in a customer-facing area",
+        "text": "We will identify the release location and the accessible surfaces affected along the route. Fixed counters, seating, and display pieces can restrict inspection of floor edges or walls. The scope should describe those limits rather than assume the visible walking area represents the condition of every connected assembly."
+      },
+      {
+        "title": "Coordinating the source repair and site access",
+        "text": "The plumber may need a return visit or an opening kept available. We will clarify those dependencies and the authorized entry arrangements. Restoration progress should not be described as approval to reopen a space where another responsible provider still needs to evaluate a hazard, component, or repair condition outside our scope."
+      },
+      {
+        "title": "Handling fixtures and movable contents separately",
+        "text": "A fixed counter and a movable display have different access and treatment consequences. We will explain any proposed disassembly or handling and distinguish reusable pieces from disposal material. Items moved for convenience should retain their own condition status instead of be assumed restored because the floor beneath them has been addressed."
+      },
+      {
+        "title": "Providing a clear room-by-room handoff",
+        "text": "We will record drying or removal progress and identify remaining material, moisture, or verification requirements. Suspected growth discovered during access needs an appropriate remediation decision. The next repair task should follow those findings, while cosmetic improvements beyond the affected area remain separately authorized choices rather than automatic consequences of the pipe break."
+      }
+    ],
+    "estimate": "Construction, spread, fixed features, contents handling, access, and source status influence the estimate. We will separate plumbing, restoration, finish replacement, and specialist evaluation. If an initially blocked area reveals further damage, the finding and proposed task will be explained before the approved scope expands.",
+    "checklist": [
+      "Share the pipe repair information and access needs.",
+      "Identify fixed counters or displays blocking inspection.",
+      "Name the contact responsible for restoration decisions and site coordination."
+    ]
+  },
+  "appliance-leak-cleanup/annetta": {
+    "intro": "Appliance leak cleanup in Annetta helps when a refrigerator or dishwasher in a shared kitchenette has released water into cabinets or adjacent work areas. Replacing the unit may restore convenience without addressing the building damage. We will review the accessible water path, explain material and contents decisions, and coordinate restoration with the appropriate appliance or plumbing service.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Annetta in a shared kitchenette",
+        "text": "We will identify the appliance footprint and accessible cabinet, wall, and floor edges affected by the release. Stored supplies may block the view or require handling. The work boundary should follow findings rather than the kitchenette\u2019s apparent outline, especially where connected flooring or a shared partition creates another area needing evaluation."
+      },
+      {
+        "title": "Clarifying who corrects the source",
+        "text": "A service provider may address the appliance while another handles its connections. We will review what has been completed and any further visit required. A functioning replacement unit does not establish that the original source connection, cabinet base, or concealed floor layer has completed the relevant restoration work."
+      },
+      {
+        "title": "Organizing access without confusing item status",
+        "text": "Dishes, supplies, and small equipment may need moving before inspection or removal. We will define that handling and distinguish it from treatment or disposal decisions. A box placed in another office should not be treated as evaluated simply because it was cleared from the work area."
+      },
+      {
+        "title": "Returning the kitchenette in the right order",
+        "text": "We will document removal, drying, and outstanding material or verification needs. Suspected mold found behind a component requires an appropriate scope rather than a cosmetic cover. Cabinet repair, appliance installation, and restocking should follow the handoff, with each provider understanding whether another task still requires the opening."
+      }
+    ],
+    "estimate": "Appliance access, cabinet construction, water spread, contents, and source status affect pricing. We will identify service, restoration, and carpentry separately and explain any limited initial view. Additional findings exposed during approved opening will be reviewed before further tasks proceed, keeping the project distinct from optional changes to the shared space.",
+    "checklist": [
+      "Provide service and connection-repair details.",
+      "Identify adjacent rooms where water was observed.",
+      "Tell us who approves material and contents decisions for the kitchenette."
+    ]
+  },
+  "storm-water-damage-cleanup/annetta": {
+    "intro": "Storm water damage cleanup in Annetta helps when rain has affected a small workplace and different rooms need different repair decisions. One area may have a wet ceiling while another has water at an exterior doorway. We will organize accessible findings by location, identify source-repair dependencies, and explain the restoration work needed before each area moves toward ordinary use.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Annetta across separate entry locations",
+        "text": "We will record where water appeared and the timing reported for each area. The locations may involve different construction and repair responsibilities. The proposal should not merge them into one assumed source or one uniform treatment method without evaluation, nor treat an unaffected-looking connecting room as fully inspected if access remains limited."
+      },
+      {
+        "title": "Coordinating exterior work and indoor tasks",
+        "text": "Roof, opening, or other exterior repairs belong with the appropriate provider. We will review their reported status and identify what remains unresolved before permanent interior closure. Temporary protection can influence the sequence, but should not be described as proof that the source is permanently corrected or that no further entry is possible."
+      },
+      {
+        "title": "Keeping operational contents identifiable",
+        "text": "Furniture, records, supplies, and equipment may need moving for access or separate evaluation. We will explain handling within the scope and record unresolved item decisions. Prioritizing an essential item can guide the work, but should not turn into a promise of safe operation or successful recovery outside the relevant evaluation."
+      },
+      {
+        "title": "Explaining progress by area",
+        "text": "We will document completed removal or drying and the remaining material, source, or verification needs at each location. Suspected growth revealed during work requires an appropriate remediation decision. A room that reaches its next stage should not automatically define the status of every affected area, allowing repairs to follow actual findings rather than a single blanket completion date."
+      }
+    ],
+    "estimate": "Entry points, material layers, access, water condition, contents, and source coordination influence pricing. We will separate building restoration, item treatment, and exterior repair and identify assumptions in an initial estimate. Changes after access improves will be tied to documented findings and reviewed before additional work is authorized.",
+    "checklist": [
+      "Describe each wet location and when it appeared.",
+      "Share exterior repair contacts and current plans.",
+      "Identify the person coordinating access and work decisions."
+    ]
+  },
+  "structural-drying-services/annetta": {
+    "intro": "Structural drying services in Annetta help when a workspace needs staged repair access and you want to understand which retained materials still require attention. A room being available for a brief visit is not the same as its assembly being ready to close. We will define the drying scope, record accessible progress, and explain the remaining dependencies for each repair area.",
+    "sections": [
+      {
+        "title": "Structural drying services in Annetta with staged access",
+        "text": "We will review the affected construction and the times or routes available for the approved work. Access arrangements should support evaluation and equipment setup without implying a guaranteed completion date. If an area cannot be reached during a visit, that limitation should remain visible rather than be treated as equivalent to a monitored section."
+      },
+      {
+        "title": "Making progress information useful to the coordinator",
+        "text": "We will identify the materials addressed and relate observations to their accessible locations. A general equipment list does not explain the condition behind a retained counter or below a floor finish. The record should show what the findings support and where a concealed layer still requires access or a separate material decision."
+      },
+      {
+        "title": "Explaining changes before they affect the repair plan",
+        "text": "Additional opening, removal, or a changed setup may be needed as the assembly is evaluated. We will describe the reason and proposed task before authorization. Optional layout or finish changes remain separate, so the response to a material finding does not become an unexplained expansion of the workplace renovation."
+      },
+      {
+        "title": "Handing areas over with defined limits",
+        "text": "We will explain completed drying work and outstanding source, material, or verification requirements. Suspected mold needs an appropriate remediation scope rather than ordinary drying being presented as treatment for every condition. The rebuilding provider should understand which sections can proceed and which remain limited, without interpreting partial access or equipment removal as whole-site completion."
+      }
+    ],
+    "estimate": "Construction, retained layers, access, monitoring, handling, and the material response affect the estimate. We will separate drying from removal and rebuilding and identify assumptions behind the initial approach. Changes in access or planned repairs should be discussed so their effect on the work is understood before the schedule is revised.",
+    "checklist": [
+      "Identify the site coordinator and access arrangements.",
+      "Share the source correction and planned repair sequence.",
+      "Report changes affecting the drying setup or newly observed moisture."
+    ]
+  },
+  "floor-water-damage-cleanup/annetta": {
+    "intro": "Floor water damage cleanup in Annetta helps when water has reached a workroom with shelving and equipment that cannot all be moved at once. The restoration needs access without losing track of the affected materials or contents. We will organize the work areas, explain handling and floor-layer decisions, and document the conditions that must be addressed before equipment or finishes return.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Annetta around workroom shelving",
+        "text": "Loaded shelves can hide floor edges and restrict the removal route. We will identify the handling needed for the approved area and distinguish movable storage from attached construction. If a section remains blocked, the scope will state that limit rather than imply the floor beneath it has been evaluated through the accessible aisle."
+      },
+      {
+        "title": "Keeping equipment questions separate",
+        "text": "Operational equipment may require appropriate specialist attention if exposed to water. We will clarify that responsibility and the handling included in building restoration. Moving a device to reach the floor does not establish its operating condition, and a cleaned area should not be interpreted as permission to reconnect equipment with unresolved questions."
+      },
+      {
+        "title": "Reviewing the floor assembly as access opens",
+        "text": "Finish, underlayment, and base layers may require different drying or removal decisions. We will document findings and explain any proposed change before the work extends. Suspected growth or a damaged supporting component needs an appropriate scope rather than be covered because the workroom is waiting to resume its ordinary arrangement."
+      },
+      {
+        "title": "Reinstating the space in an understandable sequence",
+        "text": "We will identify completed material work and remaining moisture, repair, or verification needs. The coordinator can then plan shelving or equipment return around those findings. Elective replacement of a larger finish area for appearance or layout should remain distinct from the cleanup boundary supported by the release."
+      }
+    ],
+    "estimate": "Floor layers, exposure, shelf handling, equipment access, and affected extent influence pricing. We will identify building restoration, specialist service, contents work, and reconstruction separately. A staged approach will explain what each phase reaches and how newly available conditions are reviewed before additional tasks proceed.",
+    "checklist": [
+      "Identify shelves or equipment blocking affected floor areas.",
+      "Share source-repair details and observed water routes.",
+      "Name the contact who approves handling and material decisions."
+    ]
+  },
+  "ceiling-water-damage-cleanup/annetta": {
+    "intro": "Ceiling water damage cleanup in Annetta helps when a ceiling leak has affected a meeting or work area and the room must be cleared in a planned order. Overhead inspection, contents protection, and source repair need coordination. We will evaluate accessible conditions, define the material work, and explain what remains before the room\u2019s fixtures and finishes are restored.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Annetta above a furnished workspace",
+        "text": "Tables, equipment, and stored items may need moving or protection before overhead access. We will explain the handling included and any restrictions associated with unstable material or wet fixtures. The desire to use the room for a scheduled activity should not be treated as evidence that the affected ceiling or connected electrical components are ready for ordinary access."
+      },
+      {
+        "title": "Connecting the visible mark to the repair history",
+        "text": "We will review reported plumbing, roof, or mechanical work and identify unresolved source questions. The stain location helps guide inspection without establishing a complete hidden water route. Where an assembly cannot be viewed initially, the scope will explain that limitation and the purpose of any proposed opening."
+      },
+      {
+        "title": "Reviewing newly exposed layers",
+        "text": "Removal may reveal insulation, framing, utilities, or a condition beyond the first visible area. We will record those findings and distinguish drying or removal decisions from work requiring another provider. Suspected growth needs appropriate remediation planning rather than be concealed by a general ceiling-repair allowance."
+      },
+      {
+        "title": "Planning the room\u2019s finish and fixture return",
+        "text": "We will explain completed restoration and remaining access, moisture, or verification requirements. The provider replacing panels, texture, paint, or fixtures should receive a clear handoff before closure. Cosmetic continuity may involve a wider finish area, but that choice should remain distinct from the actual material extent supported by the water findings."
+      }
+    ],
+    "estimate": "Height, construction, room contents, overhead condition, access, and source coordination affect pricing. We will identify protection, restoration, specialist service, and decorative repair separately. If opening changes the scope, the finding and proposed task will be reviewed before authorization rather than left as an unexplained extension of the room repair.",
+    "checklist": [
+      "Identify contents beneath the affected area.",
+      "Share the source-repair details and access contact.",
+      "Keep people away from sagging material and wet fixtures."
+    ]
+  },
+  "bathroom-mold-removal/annetta": {
+    "intro": "Bathroom mold removal in Annetta helps when a shared restroom has a leak-related concern and the person arranging service needs a clear account of what work will interrupt its use. Material treatment and fixture repair may have different milestones. We will evaluate accessible findings, define the appropriate remediation boundary, and explain the sequence before repair providers close the affected assembly.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Annetta in a shared restroom",
+        "text": "We will identify the surfaces involved and the access or handling needed around fixtures and storage. A visible concern near one component does not establish the condition of every concealed layer. The scope should explain those limits and the proposed treatment without making an unsupported whole-room claim or promising continued fixture use throughout the work."
+      },
+      {
+        "title": "Assigning source and material responsibilities",
+        "text": "A plumbing or other repair provider may need to resolve the cause or confirm a prior correction. We will review that status and identify dependencies for remediation. The site coordinator should understand which task each provider handles so an operating fixture is not mistaken for completion of the surrounding material work."
+      },
+      {
+        "title": "Planning controlled access and removal",
+        "text": "We will explain the work boundary, protection, and handling of materials proposed for treatment or disposal. Supplies and belongings should have an agreed arrangement before restrictions begin. Additional findings after opening will be documented and connected to a proposed change rather than treated as automatic permission to expand the work."
+      },
+      {
+        "title": "Giving the coordinator a practical reopening account",
+        "text": "We will record completed remediation and any remaining moisture, repair, or applicable verification requirement. The finish and fixture providers should receive the relevant handoff before installation. A tidy work area is one observation; it does not by itself establish that every step needed for ordinary use has been completed."
+      }
+    ],
+    "estimate": "Construction, access, affected extent, controls, removal, and repair coordination influence pricing. We will distinguish source correction, remediation, replacement finishes, and optional upgrades. The estimate will state any initial visibility limits and explain how decisions change after the assembly is accessible, keeping the project reviewable for the authorized contact.",
+    "checklist": [
+      "Identify the contact approving access and changes.",
+      "Share the leak history and repair status.",
+      "Tell us which fixture or finish visits remain planned."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/annetta": {
+    "intro": "Kitchen cabinet mold removal in Annetta helps when a shared kitchen\u2019s sink cabinet has a moisture concern and several people have used or stored items in the affected space. The service plan needs clear decisions about both construction and belongings. We will review accessible findings, explain controlled material work, and coordinate source correction and cabinet repair with the authorized contact.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Annetta in a shared-use kitchen",
+        "text": "We will identify what can be inspected around the cabinet base and adjoining wall, and what remains hidden by storage or fixed components. The visible shelf should not be treated as the whole assembly. Any opening proposed will have a stated purpose, with the treatment boundary based on findings rather than a blanket replacement recommendation."
+      },
+      {
+        "title": "Clarifying the history without guessing",
+        "text": "Different users may have noticed different leaks or cleanup attempts. We will record the available information and distinguish it from confirmed repair details. Incomplete history should remain an explicit uncertainty rather than be converted into a claim about how long a concealed condition existed or which person\u2019s observation establishes the full extent."
+      },
+      {
+        "title": "Handling stored supplies and retained pieces",
+        "text": "We will define the movement included and keep contents evaluation separate from cabinet treatment. Components intended for reuse need an agreed location and status, while disposal material should be clearly identified. A box moved elsewhere in the kitchen is not automatically treated, and a retained door does not establish that the cabinet box can stay."
+      },
+      {
+        "title": "Coordinating closure and restocking",
+        "text": "We will explain completed remediation, source dependencies, and any remaining moisture or verification needs. Plumbing and carpentry should follow the relevant handoff so one provider does not conceal access another still needs. Restocking should account for the status of both the repaired cabinet and items selected to return."
+      }
+    ],
+    "estimate": "Cabinet construction, stored volume, access, affected materials, controls, and disposal determine the estimate. We will separate plumbing, remediation, contents work, and carpentry. Newly exposed findings will be described with their proposed action before the scope expands, giving the site contact a clear basis for approval.",
+    "checklist": [
+      "Identify the authorized decision-maker and site contact.",
+      "Share leak observations and completed plumbing repairs.",
+      "List stored items or cabinet components needing retention decisions."
+    ]
+  },
+  "mold-remediation-after-water-damage/annetta": {
+    "intro": "Mold remediation after water damage in Annetta helps when a workspace was dried after a leak but a later repair exposes suspect growth in a retained assembly. The owner needs to understand the current task without assuming the earlier response included concealed treatment. We will review records, inspect accessible findings, and define remediation and repair dependencies before the space is closed again.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Annetta after a drying phase",
+        "text": "We will identify what the earlier response documented about access, removal, and retained material. Those records provide context without establishing every current concealed condition. The new scope should distinguish documented work from present findings rather than blame a prior provider or assume that equipment use alone describes the complete restoration history."
+      },
+      {
+        "title": "Coordinating decisions among the people involved",
+        "text": "The owner, occupant, site contact, and repair provider may each hold different information. We will establish who authorizes access and changes and who receives progress updates. That arrangement should support a defined scope, not convert a general instruction to resolve the problem into unrestricted approval for contents disposal or construction changes."
+      },
+      {
+        "title": "Planning appropriate material handling",
+        "text": "We will explain the controlled work area and the proposed treatment or removal of accessible material. Any additional opening should have a purpose tied to the findings. Belongings or equipment needing separate evaluation should retain that status rather than be assumed addressed by the building-remediation task around them."
+      },
+      {
+        "title": "Providing the next repair provider a concrete handoff",
+        "text": "We will document completed remediation and remaining source, moisture, repair, or applicable verification needs. The reconstruction schedule should follow those conditions rather than a desired return-to-use date alone. Unreached sections will remain identified so a limited completed scope is not misrepresented as evaluation of the entire workplace."
+      }
+    ],
+    "estimate": "Extent, construction, access, controls, material handling, and documentation affect pricing. We will distinguish prior tasks, current remediation, and future repairs and state what remains uncertain at the first view. Changes after opening will be explained before further work is approved, keeping the interruption and next steps understandable.",
+    "checklist": [
+      "Gather earlier cleanup and source-repair records.",
+      "Share photographs from the new discovery.",
+      "Identify who approves work and coordinates the rebuilding provider."
+    ]
+  },
+  "mold-removal-behind-drywall/annetta": {
+    "intro": "Mold removal behind drywall in Annetta helps when a partition between two work areas has a concealed concern and each side has different access needs. A repair from the quieter room may not reach every affected layer. We will review the assembly, explain the access and treatment boundary, and coordinate the work so closure on one side does not hide an unfinished task.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Annetta across a workplace partition",
+        "text": "We will identify accessible observations on both sides and any fixed equipment, shelving, or finishes limiting the view. The opening location should support the actual material work rather than be chosen only because one room is easier to empty. The scope will explain what the proposed route reaches and what remains concealed."
+      },
+      {
+        "title": "Protecting the connected spaces",
+        "text": "The areas may have different contents and ordinary uses, so the relevant work controls and handling need to be clear. We will establish the authorized boundary and access arrangement. Moving equipment or belongings into the adjoining area should preserve their status instead of simply transfer an unresolved handling problem to the other side of the wall."
+      },
+      {
+        "title": "Reviewing the cavity after opening",
+        "text": "Insulation, framing, utilities, and connected layers can require different decisions. We will document findings and identify where another provider\u2019s evaluation is needed. Additional removal will be explained with its purpose before authorization, rather than treated as an automatic expansion across the partition because one section is already open."
+      },
+      {
+        "title": "Closing both sides around a shared record",
+        "text": "We will identify treated surfaces, removed material, and remaining moisture, source, or verification requirements. The repair provider should receive the final boundary and access limits before replacing drywall. Decorative work may cover a larger area for appearance, but that choice should remain separate from the documented extent of the remediation."
+      }
+    ],
+    "estimate": "Partition construction, access from each side, controls, contents handling, removal, and disposal influence pricing. We will distinguish remediation from utility service and finish repair. A limited initial view will state the decisions still dependent on opening, with changes reviewed against actual findings rather than an assumed full-wall scope.",
+    "checklist": [
+      "Provide photographs and uses of both rooms.",
+      "Identify attached equipment or finishes limiting access.",
+      "Share source-repair information and the authorized site contact."
+    ]
+  },
+  "kitchen-fire-cleanup/annetta": {
+    "intro": "Kitchen fire cleanup in Annetta helps when a shared kitchenette has fire damage and the person coordinating repairs needs separate decisions for appliances, stored supplies, and the building. One cleanup label may not explain all three. We will review accessible conditions, organize the agreed handling, and define restoration tasks before replacements are installed or the area is returned to ordinary use.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Annetta in a shared kitchenette",
+        "text": "We will identify the fire location, accessible residue, and connected surfaces requiring evaluation. Cabinets and stored items may restrict the initial view. The scope should explain those limits rather than assume the visibly burned component defines every affected surface or that all adjoining rooms need the same treatment without findings."
+      },
+      {
+        "title": "Separating operational equipment from surface work",
+        "text": "Appliances or fixtures may require specialist evaluation after heat, smoke, or water exposure. We will identify that responsibility and distinguish it from exterior cleaning. A clean-looking device is not evidence of its internal condition, and the need to resume routine use should not be treated as permission to reconnect an unevaluated component."
+      },
+      {
+        "title": "Organizing shared contents decisions",
+        "text": "Stored supplies and belongings may have different owners or approval needs. We will confirm the authorized contact and identify items approved for disposal, held for review, or included in treatment. Moving items to another room should preserve their status rather than imply that relocation itself completes restoration."
+      },
+      {
+        "title": "Handing the space to the repair providers",
+        "text": "We will record completed building tasks and any remaining access, material, or specialist dependency. New cabinets, finishes, and equipment should follow that account. Optional upgrades to the shared kitchen should remain separately authorized rather than presented as necessary restoration merely because the room is already disrupted."
+      }
+    ],
+    "estimate": "Damage, residue, material types, access, contents volume, and handling affect pricing. We will distinguish building treatment, item work, equipment service, and reconstruction. Findings exposed after removal will be connected to a proposed change before authorization, giving the coordinator a concrete account of the next phase.",
+    "checklist": [
+      "Confirm authorized access to the affected area.",
+      "Identify who approves shared-item decisions.",
+      "Share replacement plans and specialist visits already arranged."
+    ]
+  },
+  "smoke-damage-cleanup/annetta": {
+    "intro": "Smoke damage cleanup in Annetta helps when a workplace has residue in areas containing records, devices, and finishes with different treatment needs. Cleaning the room and recovering its operational contents are separate decisions. We will evaluate accessible surfaces, explain the building scope, and coordinate item handling without presenting one completed task as clearance of everything in the space.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Annetta in a furnished work area",
+        "text": "We will identify the materials and accessible residue within the proposed boundary. Desks, shelving, or equipment may block parts of the room, and those limitations will be stated. A uniform room price should not imply that every hidden surface or item has been evaluated when the initial access only permits inspection of open areas."
+      },
+      {
+        "title": "Choosing an approach for different finishes",
+        "text": "Paint, wood, fabric, and other materials may respond differently to treatment. We will explain relevant limitations and any appropriate evaluation before broader work. A useful result on one surface should not become a guarantee for every coating, texture, or concealed component elsewhere in the workplace."
+      },
+      {
+        "title": "Keeping operational priorities distinct",
+        "text": "The owner may need certain records or devices reviewed before the rest of the room. We will identify those priorities and the specialist responsibility where applicable. Moving or externally cleaning equipment does not establish its internal or operating condition, and urgency should not replace the evaluation appropriate to the item."
+      },
+      {
+        "title": "Providing a staged completion record",
+        "text": "We will describe building surfaces addressed, contents tasks within the scope, and unresolved areas or decisions. Repainting, replacement, further evaluation, or another treatment should have a defined purpose. The coordinator can then plan the next phase without interpreting a cleaner appearance or reduced odor as proof that every operational and building question has been resolved."
+      }
+    ],
+    "estimate": "Residue, material variety, access, contents movement, and evaluation requirements influence pricing. We will identify building treatment, individual contents work, specialist service, and refinishing separately. If the first assessment is limited, the proposal will state what must be accessed or evaluated before the scope can be completed rather than imply a whole-site result.",
+    "checklist": [
+      "Identify essential items needing early evaluation.",
+      "Share cleaning already attempted and areas still blocked.",
+      "Name the contact coordinating building and equipment decisions."
+    ]
+  },
+  "toilet-overflow-cleanup/annetta": {
+    "intro": "Toilet overflow cleanup in Annetta helps when a shared restroom release reaches a corridor used by other occupants and you need the affected route clearly defined. Restoring the fixture is only one part of the response. We will review accessible spread, explain work-area controls and material decisions, and coordinate the cleanup before the corridor and room are returned to ordinary use.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Annetta across a shared route",
+        "text": "We will identify the accessible floor materials and connected wall edges along the reported release. The restroom doorway does not necessarily mark the cleanup limit. The plan should account for traffic and access restrictions while avoiding unsupported conclusions about areas that were not inspected or exposure history no one observed."
+      },
+      {
+        "title": "Keeping source correction and cleanup coordinated",
+        "text": "The appropriate plumbing provider must address the cause and any continuing release. We will review that status and identify how its visits fit the restoration sequence. A usable toilet should not be described as evidence that contaminated building material or contents along the corridor have completed the necessary treatment."
+      },
+      {
+        "title": "Handling affected items and removed material",
+        "text": "Mats, furnishings, stored supplies, or trim may require separate decisions before movement. We will define handling within the scope and distinguish relocation from treatment or disposal. Items should not be casually moved into another occupied area in a way that obscures their condition or creates an additional unresolved cleanup route."
+      },
+      {
+        "title": "Explaining the return-to-use handoff",
+        "text": "We will document removal, cleaning, moisture work, and remaining repairs or verification needs. The site coordinator should know what has been addressed and any access limitation still present. New finishes and routine traffic should follow that information rather than a broad assumption that the entire route is complete once visible water has been collected."
+      }
+    ],
+    "estimate": "Water condition, spread, floor layers, traffic access, handling, and disposal affect pricing. We will distinguish plumbing, cleanup, contents work, and reconstruction. Newly exposed conditions will be explained with their proposed task before additional authorization, preserving a clear scope across the restroom and connected corridor.",
+    "checklist": [
+      "Restrict access for occupants and visitors.",
+      "Identify the source-repair provider and current status.",
+      "Describe the corridor route and nearby items reached by water."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/annetta": {
+    "intro": "AC leak water damage cleanup in Annetta helps when water from mechanical equipment has affected an office ceiling and the HVAC provider and interior repair provider need a coordinated sequence. The service task does not establish the surrounding material condition. We will review accessible findings, explain restoration access and protection, and document what remains before finishes are replaced.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Annetta above a work area",
+        "text": "We will identify affected overhead surfaces and the contents below them. Equipment, records, or furniture may need handling before inspection or removal. Wet fixtures or unstable material require appropriate restrictions, and the need to use the room should not override a component evaluation still assigned to another responsible provider."
+      },
+      {
+        "title": "Using the HVAC report to define dependencies",
+        "text": "We will review the reported correction and any return service planned. Those details help organize restoration without treating mechanical operation as proof that insulation, framing, or drywall is ready to close. The sequence should preserve the access needed for remaining service rather than create an avoidable reopening after new finishes are installed."
+      },
+      {
+        "title": "Evaluating the exposed construction",
+        "text": "An opening may reveal layers or spread not visible from below. We will document findings and explain retained-material, removal, or drying decisions before the scope expands. Suspected growth requires an appropriate remediation decision rather than be assumed resolved by the cleared drain or by ordinary surface drying alone."
+      },
+      {
+        "title": "Giving both providers the same handoff",
+        "text": "We will identify completed restoration, access limits, and remaining source, moisture, or verification requirements. The interior repair provider should understand what the mechanical task still needs, and the site coordinator should receive the relevant progress. That account separates a service milestone from readiness of the entire affected room."
+      }
+    ],
+    "estimate": "Height, construction, contents protection, access, affected depth, and mechanical coordination affect pricing. We will separate HVAC service, material restoration, specialist evaluation, and finish work. Any initial concealed limitation will be stated, with additional findings reviewed before they become approved tasks.",
+    "checklist": [
+      "Share the HVAC report and planned follow-up visits.",
+      "Identify contents below the affected ceiling.",
+      "Name the coordinator for access and repair sequencing."
+    ]
+  },
+  "crawl-space-water-removal/annetta": {
+    "intro": "Crawl space water removal in Annetta helps when a maintenance provider reports water beneath a building and the owner needs a clear first-phase scope before authorizing broader work. The initial report may not describe every accessible section. We will review the observation, define removal and handling tasks, and record the limits that remain for source investigation or further restoration.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Annetta from a maintenance report",
+        "text": "We will review photographs, location notes, and the purpose of the original visit. A report of water establishes a concern without necessarily defining its extent or cause. The removal proposal will distinguish current accessible findings from assumptions and identify which decisions require improved access after collection."
+      },
+      {
+        "title": "Establishing entry and authorization",
+        "text": "The site contact and the owner approving work may be different people. We will clarify access arrangements and who receives updates or approves changes. An instruction to remove water should not be treated as unrestricted authorization for insulation disposal, utility work, or structural repairs that have not been separately explained."
+      },
+      {
+        "title": "Reviewing material and source questions",
+        "text": "We will identify reported source repairs and unresolved issues for the appropriate provider. Insulation, ground covering, or other material may need additional handling once visibility improves. Pumping should not be represented as permanent moisture correction or treatment of every contamination concern below the building."
+      },
+      {
+        "title": "Preparing the next provider\u2019s visit",
+        "text": "We will document areas reached, collection completed, and remaining access or material limits. A clearer route may support a useful inspection but does not certify structural, electrical, or other conditions outside the removal scope. The handoff should explain the practical next decision rather than use a whole-building completion label for a limited phase."
+      }
+    ],
+    "estimate": "Water distribution, entry, clearance, obstructions, handling, and source status influence pricing. We will separate immediate collection from cleaning, drying, and repair work. If the accessible condition changes the approach, the reason and proposed task will be discussed before further authorization so the owner can review a concrete scope.",
+    "checklist": [
+      "Provide the maintenance report and location photos.",
+      "Identify the authorized owner contact and local access person.",
+      "Stay out of the crawl space while appropriate access is established."
+    ]
+  },
+  "attic-mold-remediation/annetta": {
+    "intro": "Attic mold remediation in Annetta helps when a maintenance inspection identifies suspect growth above a workplace but the owner needs an understandable material scope before approving repairs. An inspection photo may show one concern without defining the full accessible area. We will review the findings, explain treatment and access limits, and coordinate source correction with the providers responsible for it.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Annetta following a maintenance finding",
+        "text": "We will identify where the observation was made and what the earlier inspection could actually reach. The current scope should distinguish documented surfaces from sections still obscured by insulation, equipment, or framing. One photograph should not be used as proof that the whole attic is affected or that the concern is limited to a single visible patch."
+      },
+      {
+        "title": "Keeping source investigation separate",
+        "text": "A roof, mechanical, or other moisture question may need its own qualified provider. We will review available repair information and identify unresolved dependencies. Treating accessible material does not establish that every source has been corrected, and a completed maintenance visit should not be assumed to include the remediation work unless its record actually describes it."
+      },
+      {
+        "title": "Planning handling and additional access",
+        "text": "Insulation movement or another opening may be needed to reach relevant surfaces. We will explain the purpose, protection, and approval for that task. New findings after access improves will be documented before the boundary expands, keeping the work grounded in the actual assembly rather than a broad undefined attic-treatment allowance."
+      },
+      {
+        "title": "Providing a record for the owner and repair team",
+        "text": "We will identify surfaces addressed, material removed, and remaining access or verification needs. The handoff should allow source repairs or insulation replacement to proceed with clear responsibilities. It will describe our completed scope without being presented as a certification of every mechanical component, roof detail, or inaccessible section."
+      }
+    ],
+    "estimate": "Access, affected surface area, material handling, controls, removal, and documentation affect pricing. We will distinguish remediation from specialist reports, source repairs, and reinstatement. An initial estimate will state the limits of visibility and explain how further decisions are made after the concealed condition becomes accessible.",
+    "checklist": [
+      "Share the original report and location photographs.",
+      "Identify known roof or equipment repairs.",
+      "Name the contact approving scope and coordinating follow-up."
+    ]
+  },
+  "crawl-space-mold-remediation/annetta": {
+    "intro": "Crawl space mold remediation in Annetta helps when an owner must compare a maintenance recommendation with a separate repair proposal for material below the floor. The two documents may use broad terms without assigning every task. We will evaluate accessible findings, define remediation responsibilities, and explain how removal, source correction, and reinstatement fit together.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Annetta between maintenance and repair scopes",
+        "text": "We will review what each proposal actually includes and identify the surfaces or materials requiring our evaluation. A recommendation to treat an area does not necessarily describe controls, access, or removal. The remediation scope should provide those concrete tasks rather than assume the broader maintenance or repair label covers every hidden responsibility."
+      },
+      {
+        "title": "Documenting access and boundaries",
+        "text": "Clearance, utilities, insulation, and obstructions can limit the first view. We will identify areas reached and explain what remains inaccessible. A total building area should not be used to imply that every section was inspected or needs identical treatment when the observations support a more specific boundary."
+      },
+      {
+        "title": "Keeping specialist decisions assigned",
+        "text": "Structural, plumbing, or other component evaluation may remain with the appropriate provider. We will describe relevant findings without presenting remediation as that specialist conclusion. The source correction also needs a defined responsibility so retained or replacement material is not exposed again to an unresolved moisture condition."
+      },
+      {
+        "title": "Coordinating the final underside arrangement",
+        "text": "We will record completed treatment, material removal, and outstanding access or verification needs. The provider reinstalling insulation or closing a repair should receive the relevant handoff first. If additional findings emerge during opening, the proposed change will be explained before authorization rather than be absorbed into an unlimited cleanup allowance."
+      }
+    ],
+    "estimate": "Affected extent, clearance, access work, controls, removal, and coordination determine pricing. We will distinguish remediation from maintenance, source repair, and reconstruction and identify what each phase accomplishes. Any assumption caused by limited visibility will remain explicit so the owner can review changes against documented findings.",
+    "checklist": [
+      "Provide maintenance and repair proposals together.",
+      "Share known moisture history and prior work records.",
+      "Identify the owner contact responsible for approving and coordinating tasks."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/annetta": {
+    "intro": "Mold contaminated contents cleaning in Annetta helps when a workspace\u2019s stored supplies and belongings need evaluation after a moisture problem, and different people have authority over different items. Clearing storage without a decision record can create confusion. We will identify the approved collection, explain material-specific treatment limits, and organize handling around documented owner or manager decisions.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Annetta for shared storage",
+        "text": "We will establish which items are included and who can approve treatment, referral, or disposal. A staff member may know where an item was stored without being authorized to decide its final disposition. Clarifying those roles helps keep evaluation moving without turning a general instruction to clear the room into unintended disposal approval."
+      },
+      {
+        "title": "Sorting by condition and construction",
+        "text": "Boxes, documents, furniture, and operational items can have different exposure and treatment needs. We will review accessible findings and identify concealed limitations or specialist requirements. The storage-room label should not become a uniform salvage decision for every object, especially where records or materials differ within the same collection."
+      },
+      {
+        "title": "Making priority review realistic",
+        "text": "Certain items may be important to daily work or difficult to replace. We will explain the proposed evaluation and uncertainty before a treatment attempt is approved. Urgency or importance can guide the sequence, but cannot establish that an exposed device operates appropriately or that a damaged material will return to its earlier condition."
+      },
+      {
+        "title": "Preserving status through return or storage",
+        "text": "We will document completed work, pending decisions, referrals, and approved disposal as applicable. Repacking or moving items should preserve those distinctions rather than make them all appear complete. Return should also account for the receiving area and any remaining building moisture or remediation work before the storage arrangement is restored."
+      }
+    ],
+    "estimate": "Item count, materials, condition, evaluation, handling, and authorization needs influence pricing. We will identify transport, storage, specialist services, and treatment separately where relevant. The proposal should describe the work actually approved for each group rather than promise one outcome for all contents associated with the affected space.",
+    "checklist": [
+      "Identify the person authorized to decide each item group\u2019s disposition.",
+      "Provide inventory or storage photographs if available.",
+      "List priority belongings and the intended receiving area."
+    ]
+  },
+  "fire-damaged-debris-removal/annetta": {
+    "intro": "Fire damaged debris removal in Annetta helps when a workplace has damaged material that must be cleared without losing track of equipment or records awaiting a decision. The removal boundary and item holds need to be practical before work starts. We will define the authorized disposal, organize access, and document what remains for specialist evaluation or rebuilding.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Annetta with business items on hold",
+        "text": "We will identify material ready for disposal and items reserved for review, documentation, or possible restoration. A damaged appearance does not replace the authorized decision-maker\u2019s instruction. Clear identification is especially useful where furniture, equipment, and ordinary debris are mixed and the team should not infer ownership or disposition from location alone."
+      },
+      {
+        "title": "Coordinating the work route",
+        "text": "Loading access, corridors, retained surfaces, and shared entry may affect handling. We will explain the protection and movement included in the scope. If an item on hold blocks the route, any temporary relocation should preserve its status rather than become an informal disposal or treatment decision made for convenience."
+      },
+      {
+        "title": "Recognizing attached and operational components",
+        "text": "Some material may remain connected to utilities, supports, or equipment requiring another provider\u2019s work. We will identify those dependencies and distinguish loose collection from approved demolition. A broad cleanup instruction should not be interpreted as permission to disconnect or dismantle every component encountered along the route."
+      },
+      {
+        "title": "Giving the next provider an accurate cleared-area account",
+        "text": "We will record the removal completed and newly accessible conditions needing cleaning, assessment, or repair. The empty area may still have retained surfaces requiring treatment. The handoff should make those tasks explicit rather than let an orderly site imply that all restoration or operational questions have been resolved."
+      }
+    ],
+    "estimate": "Volume, material type, item holds, route, protection, and disposal affect pricing. We will identify contents restoration, specialist service, and reconstruction separately from debris work. Changes to the removal boundary or handling arrangement will be reviewed with the authorized contact before additional tasks proceed.",
+    "checklist": [
+      "Prepare the hold list and disposal approvals.",
+      "Confirm current entry restrictions and shared-access needs.",
+      "Identify the contact who can approve changes during removal."
+    ]
+  },
+  "fire-damaged-contents-cleaning/annetta": {
+    "intro": "Fire damaged contents cleaning in Annetta helps when a workspace needs an item-by-item recovery plan for furniture, supplies, and equipment after a fire. Restoring the building does not establish the condition of those belongings. We will review the approved collection, explain treatment and specialist boundaries, and record decisions so operational priorities do not obscure unresolved item questions.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Annetta for a workplace collection",
+        "text": "We will identify the inventory, accessible material condition, and person authorized to approve decisions. Different items can have different owners or operational importance. The scope should make those roles clear rather than treat a site contact\u2019s request for removal as approval to restore or discard every object in the room."
+      },
+      {
+        "title": "Separating equipment evaluation from exterior cleaning",
+        "text": "Devices and tools may require specialist attention to internal components or operation. We will identify that responsibility and distinguish it from surface treatment. A cleaner exterior does not establish that an item is suitable for use, and the need to resume work should not be used as a substitute for the relevant evaluation."
+      },
+      {
+        "title": "Prioritizing an informed treatment attempt",
+        "text": "A limited review or cleaning evaluation may help decide the next step for appropriate items. We will explain its purpose and uncertainty before larger work is approved. Replacement availability and importance can guide priorities, but should not be converted into an assurance that every damaged material will recover uniformly."
+      },
+      {
+        "title": "Coordinating return with the receiving space",
+        "text": "We will maintain the status of treated, pending, referred, and disposal-approved items as applicable. Staged delivery should preserve that identity and account for the receiving room\u2019s restoration condition. A scheduled move should not turn undecided items into assumed completions or place restored belongings into an area with unresolved building work."
+      }
+    ],
+    "estimate": "Quantity, construction, condition, evaluation, treatment, and handling influence pricing. We will identify storage, transport, specialist work, and staged returns separately where relevant. The proposal should make clear which services are authorized now, avoiding a broad room-based allowance that implies identical work and outcomes for every item.",
+    "checklist": [
+      "Provide the inventory and decision-maker for each item group.",
+      "List essential equipment needing specialist review.",
+      "Share the intended return locations and their repair status."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/annetta": {
+    "intro": "Fire extinguisher residue cleanup in Annetta helps when an extinguisher has been discharged in a work area and powder has reached both room surfaces and operational items. Cleaning the floor does not answer what happened inside equipment or storage. We will review the agent information, define accessible treatment, and separate specialist decisions from the building cleanup.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Annetta in a work area",
+        "text": "We will identify where the discharge occurred, the accessible spread, and surfaces within the proposed scope. Shelves, devices, and fixed components can create hidden areas. The plan should state those limits rather than assume every item is affected identically or that collecting the obvious powder completes treatment of the whole space."
+      },
+      {
+        "title": "Selecting treatment around materials",
+        "text": "Extinguisher label information can help clarify the agent, while finish construction influences the approach. We will review both where available instead of guessing from appearance alone. A method appropriate for an open hard surface should not automatically be applied to delicate finishes or components requiring specialist attention."
+      },
+      {
+        "title": "Keeping equipment and contents status clear",
+        "text": "We will explain the handling included and identify items needing separate evaluation. Relocation or exterior cleaning does not establish safe operation or internal condition. An essential device may deserve early review, but urgency should not become a promise that it can be returned to use without the appropriate specialist decision."
+      },
+      {
+        "title": "Defining the remaining restoration tasks",
+        "text": "We will document accessible cleanup and identify unresolved residue, smoke, heat, or finish concerns. Those conditions may require different next steps rather than repeated general cleaning. The site coordinator should receive an account of what was treated and what remains, without a broad claim that normal operation is restored merely because loose powder is no longer visible."
+      }
+    ],
+    "estimate": "Agent information, spread, materials, access, contents volume, and handling affect pricing. We will distinguish room treatment, individual item work, specialist service, and any separate fire restoration. Initial visibility limitations will be stated, with further evaluation explained before a broader restoration commitment is made.",
+    "checklist": [
+      "Keep the extinguisher label details if safely available.",
+      "Identify exposed operational equipment and priority items.",
+      "Describe any sweeping, wiping, or movement already performed."
+    ]
+  },
+  "emergency-board-up-after-fire/annetta": {
+    "intro": "Emergency board up after fire in Annetta helps when a damaged workplace opening needs temporary coverage and multiple contacts are arranging cleanup, inspection, and repairs. The installation needs one clear access plan. We will confirm authorization, review the opening\u2019s accessible condition, and explain the temporary coverage and follow-up responsibilities before work begins.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Annetta with several site contacts",
+        "text": "An owner, manager, occupant, and contractor may each have different entry needs. We will identify the person approving installation and the contact coordinating those visits. The arrangement should not assume that one provider\u2019s request grants unrestricted access or resolves current safety and release restrictions affecting the property."
+      },
+      {
+        "title": "Defining the opening and attachment scope",
+        "text": "Size, height, surrounding damage, and available attachment areas influence the proposed coverage. We will explain visible limitations before installation. Temporary board-up does not restore the original assembly or establish structural adequacy, and covering one opening should not be represented as complete protection of every possible entry or weather route."
+      },
+      {
+        "title": "Handling changes during restoration",
+        "text": "A later inspection or material delivery may require adjustment or removal. We will clarify whether that task is included and who approves it. The person coordinating access should know who leaves the opening protected afterward, rather than assume that a panel removed for one visit will be reinstated by someone else automatically."
+      },
+      {
+        "title": "Coordinating the permanent replacement",
+        "text": "We will document openings addressed and any area not completed within the scope. The permanent repair provider may need its own evaluation and measurements. Temporary removal should be tied to that handoff, with responsibilities clear if the installation is delayed or the condition changes before replacement arrives."
+      }
+    ],
+    "estimate": "Opening dimensions, height, attachment, access coordination, and return tasks affect pricing. We will separate initial coverage, later adjustment, removal, and permanent repair. Any observed limit will be explained so the authorized contact can review a concrete temporary arrangement rather than an unlimited promise to secure or weatherproof the entire property.",
+    "checklist": [
+      "Confirm the authorized owner or manager contact.",
+      "List providers requiring future entry and current restrictions.",
+      "Identify who coordinates permanent repair and temporary adjustments."
+    ]
+  },
+  "crawl-space-sewage-cleanup/annetta": {
+    "intro": "Crawl space sewage cleanup in Annetta helps when a maintenance report identifies contamination below a workplace but the owner needs a clear distinction between line repair and cleanup. A functioning drain does not describe the material left beneath the building. We will review accessible conditions, define removal and treatment tasks, and coordinate the handoff before insulation or repair work conceals the area.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Annetta after a maintenance report",
+        "text": "We will review location notes and photographs and distinguish what the report observed from areas it did not reach. The scope should describe accessible contamination and limitations rather than treat a brief recommendation as a complete evaluation of the underside. Additional access needs will be explained before a broader task is authorized."
+      },
+      {
+        "title": "Connecting the plumbing sequence to cleanup",
+        "text": "The responsible plumbing provider may have stopped the release while further work remains planned. We will identify those dependencies and the access it needs. Cleanup and source correction have separate purposes, so neither should be presented as completion of the other merely because both relate to the same failed line."
+      },
+      {
+        "title": "Defining material handling below the floor",
+        "text": "Insulation, ground covering, debris, and retained surfaces can require different treatment or removal decisions. We will explain the proposed tasks and document findings exposed during access. Suspected mold or another damaged component may require an appropriate additional scope rather than be assumed covered by a general sewage-cleanup description."
+      },
+      {
+        "title": "Giving the owner a practical next-step record",
+        "text": "We will identify areas addressed, work completed, and remaining moisture, access, repair, or verification requirements. The provider replacing insulation or closing an opening should receive the relevant handoff. A cleaner entrance or improved odor should not be used as proof that every connected area was reached and restored."
+      }
+    ],
+    "estimate": "Access, contamination extent, material handling, controls, disposal, and drying determine pricing. We will distinguish plumbing, cleanup, and reconstruction and identify initial assessment limits. If newly accessible findings change the plan, the reason and proposed task will be reviewed with the authorized contact before additional work proceeds.",
+    "checklist": [
+      "Provide the maintenance report and line-repair details.",
+      "Identify the owner contact approving work and changes.",
+      "Restrict entry to the affected crawl-space area."
+    ]
+  }
+}

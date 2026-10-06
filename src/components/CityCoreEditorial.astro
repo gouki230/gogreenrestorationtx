@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import ProjectPhotos from './ProjectPhotos.astro';
+import moldAnswers from '../data/mold-customer-answers.json';
+import originalCities from '../data/cities-dfw-metro.json';
+import images from '../data/compact-service-images.json';
+import services from '../data/services.json';
+import topics from '../data/compact-services.json';
+import { getCityGuides } from '../utils/internal-links';
+import { isCorePathReleased, resolveCityLink } from '../utils/service-area-cities';
+import type { CityCoreEditorial } from '../utils/city-core-editorial';
+interface Props { city: { name: string; slug: string }; content: CityCoreEditorial; serviceSlug?: string }
+const { city, content, serviceSlug } = Astro.props;
+const path = serviceSlug ? `/${serviceSlug}/${city.slug}/` : `/locations/dfw-metro/${city.slug}/`;
+const draft = !isCorePathReleased(path);
+const image = images[content.image as keyof typeof images];
+if (!image) throw new Error(`Missing city core illustration: ${content.image}`);
+const currentService = services.find(service => service.slug === serviceSlug);
+const guides = getCityGuides(city.slug).filter(guide => !currentService || guide.serviceName === currentService.shortName).slice(0, 3);
+const resourceServices = currentService ? [currentService] : services.slice(0, 3);
+const related = topics.filter(topic => !serviceSlug || topic.parent === serviceSlug);
+const preserveMoldAnswers = serviceSlug === 'mold-remediation' && originalCities.some(item => item.slug === city.slug);
+const preserveProjectPhotos = serviceSlug === 'mold-remediation' && ['dallas', 'arlington'].includes(city.slug);
+const faqSchemas = preserveMoldAnswers ? [{
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: moldAnswers.map(item => ({
+    '@type': 'Question', name: item.question,
+    acceptedAnswer: { '@type': 'Answer', text: `${item.answer} ${item.detail}` },
+  })),
+}] : [];
+---
+<BaseLayout title={`${content.keyword} | Request an Estimate | Go Green Restoration TX Inc`} description={content.description} noindex={draft} omitOfficeCopy={true} schema={[{'@context':'https://schema.org','@type':'WebPage',name:content.keyword,url:`https://gogreenrestorationtx.com${path}`,about:{'@type':'Service',name:content.keyword,provider:{'@id':'https://gogreenrestorationtx.com/#wylie'},areaServed:{'@type':'City',name:`${city.name}, Texas`}}}, ...faqSchemas]}>
+  <Breadcrumbs items={[{name:'Home',url:'/'},{name:'DFW service areas',url:'/locations/dfw-metro/'},{name:content.keyword,url:path}]} />
+  {draft && <aside class="max-w-5xl mx-auto px-4 pt-4 text-sm">Local review draft · not published or submitted for indexing.</aside>}
+  <article class="core-city max-w-5xl mx-auto px-4 py-10">
+    <h1 class="font-heading text-4xl lg:text-5xl font-extrabold mb-6">{content.keyword}</h1>
+    <p data-uniqueness class="text-lg">{content.intro}</p>
+    <div class="flex flex-col sm:flex-row gap-3 mb-8"><a class="bg-brand-green text-white font-bold rounded-lg px-6 py-4 text-center" href="tel:+14697273217">Call (469) 727-3217</a><a class="bg-brand-brown text-white font-bold rounded-lg px-6 py-4 text-center" href="/contact/">Request an estimate</a></div>
+    <figure class="mb-10"><img src={image.src} srcset={`${image.smallSrc} 640w, ${image.src} 1280w`} sizes="(max-width:640px) 100vw, 960px" alt={content.imageAlt || `${content.keyword}: ${image.alt}`} width={image.width} height={image.height} fetchpriority="high" class="w-full rounded-xl" /><figcaption class="text-sm mt-2">Higgsfield-generated service illustration, not a photograph of a completed project in {city.name}.</figcaption></figure>
+    {content.sections.map(section => <section data-uniqueness><h2>{section.title}</h2>{section.paragraphs.map(paragraph => <p>{paragraph}</p>)}</section>)}
+    <section data-uniqueness><h2>{content.checklistTitle}</h2><ul>{content.checklist.map(item => <li>{item}</li>)}</ul></section>
+    {preserveProjectPhotos && <ProjectPhotos city={city.slug} showCaseLink={true} />}
+    {preserveMoldAnswers && <section id="mold-cleanup-questions" class="scroll-mt-32 rounded-xl bg-brand-warm p-6 sm:p-8">
+      <h2>Planning mold cleanup in {city.name}</h2>
+      {moldAnswers.map(item => <section>
+        <h3 class="font-heading text-xl font-bold mb-3">{item.question}</h3>
+        <p class="font-semibold">{item.answer}</p>
+        <p>{item.detail}</p>
+      </section>)}
+    </section>}
+    <section><h2>Relevant services and next steps</h2><ul>{content.links.map(link => <li><a href={resolveCityLink(link.href)}>{link.label}</a></li>)}</ul></section>
+    <section><h2>Restoration services in {city.name}</h2><ul>{services.filter(service => service.slug !== serviceSlug).map(service => <li><a href={resolveCityLink(`/${service.slug}/${city.slug}/`)}>{service.name} in {city.name}</a></li>)}</ul>{serviceSlug && <p><a href={resolveCityLink(`/services/${serviceSlug}/`)}>Read the full service overview</a> or <a href={resolveCityLink(`/locations/dfw-metro/${city.slug}/`)}>return to the {city.name} service directory</a>.</p>}</section>
+    {related.length > 0 && <section><h2>Help for a specific affected space</h2><ul class="sm:columns-2">{related.map(topic => <li><a href={resolveCityLink(`/${topic.slug}/${city.slug}/`)}>{topic.name} in {city.name}</a></li>)}</ul></section>}
+    <section><h2>Related reading</h2><ul>{guides.length > 0 ? guides.map(guide => <li><a href={resolveCityLink(`/resources/${guide.cluster}/${guide.slug}/`)}>{guide.title}</a></li>) : resourceServices.map(service => <li><a href={resolveCityLink(`/resources/${service.relatedResources[0]}/`)}>{service.shortName} planning guides</a></li>)}</ul></section>
+    <p class="text-sm border-t pt-6">Go Green Restoration TX Inc welcomes mold projects of any size. While our Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and scope are identified before work begins. Independent assessment and clearance are separate services.</p>
+    <p>Tell us what has happened and which rooms are affected. <a href="/contact/">Send a service request</a> or call <a href="tel:+14697273217">(469) 727-3217</a> to discuss availability.</p>
+  </article>
+</BaseLayout>
+<style>
+.core-city section{margin-bottom:2rem}.core-city h2{font-size:1.5rem;line-height:1.3;font-weight:700;margin-bottom:1rem}.core-city p{line-height:1.8;margin-bottom:1rem;color:#4b5563}.core-city section a,.core-city p a{color:#775130;text-decoration:underline}.core-city ul{list-style:disc;padding-left:1.4rem}.core-city li{margin-bottom:.65rem;line-height:1.65}@media(max-width:480px){.core-city h1{font-size:2.1rem}}
+</style>

@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/fate": {
+    "intro": "Emergency water extraction in Fate removes water that can keep feeding moisture into furniture bases, flooring and walls. We will collect the accessible water, check the surfaces uncovered by that work and establish what still needs drying.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Fate selects the tool for the surface",
+        "text": "Deep pooling may require pumping before a surface extraction tool can work effectively. On suitable carpet, extraction can recover water held in the fibers as well as visible puddles. We will account for the source and condition of the water before deciding whether a material is a candidate for retention."
+      },
+      {
+        "title": "Lift obstructions to reach the remaining water",
+        "text": "Furniture feet, floor protectors and loose rugs can conceal pockets left behind after the room looks clear. We will move agreed items and collect reachable water beneath them. If a fixed fixture blocks access, we will identify that limit and the opening needed rather than describe the covered area as extracted."
+      },
+      {
+        "title": "Separate extraction from the moisture still in the building",
+        "text": "We will check affected floor edges and lower walls after collection. Water beneath an impermeable covering may require removal of that layer before drying can work. The next plan will identify those access decisions and retained materials needing equipment, with progress recorded as drying proceeds."
+      }
+    ],
+    "estimate": "Water depth, surface type and the number of obstructed areas influence the collection work. The estimate will distinguish extraction from subsequent drying and removal.",
+    "checklist": [
+      "Describe the deepest visible water.",
+      "Identify heavy items standing in the affected area.",
+      "Tell us when the source was stopped."
+    ]
+  },
+  "burst-pipe-cleanup/fate": {
+    "intro": "Burst pipe cleanup in Fate addresses water released when a pipe splits or breaks inside a wall, ceiling or utility area. Once the plumbing source is controlled, we will extract accessible water, identify wet building layers and explain what can be dried in place or must be removed to reach the affected cavity.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Fate: locate the water beyond the pipe opening",
+        "text": "A plumber’s access cut may expose the break without showing how far water traveled through the wall or floor. We will trace accessible signs of moisture around the opening and explain any additional access needed to inspect insulation, framing or adjoining finishes."
+      },
+      {
+        "title": "Remove wet material and dry what can remain",
+        "text": "The cleanup plan will specify water extraction, drywall or insulation removal, and drying for exposed structural material. We will separate restoration from pipe repair and discuss newly discovered damage before changing the approved removal area."
+      },
+      {
+        "title": "Close the wall after restoration work is ready",
+        "text": "Before drywall is replaced, the pipe repair must be complete and the agreed drying and removal work addressed. We will identify any remaining moisture checks or repair tasks so the wall is not closed over an unfinished restoration step."
+      }
+    ],
+    "estimate": "The estimate will separate water extraction, affected wall removal and drying from plumbing service and drywall replacement. Share where the pipe broke, what the plumber opened and whether the leak has stopped.",
+    "checklist": [
+      "Identify the pipe location and whether water is still leaking.",
+      "Share the plumber’s repair notes and access opening.",
+      "Describe wet rooms or materials beyond the immediate break."
+    ]
+  },
+  "appliance-leak-cleanup/fate": {
+    "intro": "Appliance leak cleanup in Fate addresses water released by a washing machine, dishwasher, refrigerator or other appliance. Once the appliance is shut off or disconnected, we will extract water from the footprint and check whether it reached flooring edges, cabinet bases or the room beyond.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Fate: clear the appliance footprint",
+        "text": "We will move or leave the appliance according to the approved plan, then remove accessible water from beneath and around it. The floor edge and adjoining cabinet base will be checked for swelling, staining or moisture that could be hidden by the appliance."
+      },
+      {
+        "title": "Dry the floor or remove damaged layers",
+        "text": "The estimate will distinguish surface extraction from drying below the finish. If flooring has delaminated or water is trapped beneath it, we will explain the extent of selective removal needed to reach the affected layer."
+      },
+      {
+        "title": "Restore the area before reconnecting the appliance",
+        "text": "The footprint needs to be dry and repaired before the appliance is returned. Appliance testing and reconnection remain with the service provider responsible for that equipment."
+      }
+    ],
+    "estimate": "The estimate will separate water extraction and floor treatment from appliance repair, replacement and reconnection. Share the appliance type, leak location and delivery schedule.",
+    "checklist": [
+      "Identify the appliance and leak point.",
+      "Keep the footprint clear if possible.",
+      "Share any scheduled delivery or service visit."
+    ]
+  },
+  "storm-water-damage-cleanup/fate": {
+    "intro": "Storm water damage cleanup in Fate addresses rainwater that enters through a roof, opening or door threshold. We will remove water and debris from the affected interior, then check nearby finishes and stored items for wet material that needs drying or removal.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Fate: separate entry repair from interior cleanup",
+        "text": "We will note where rain entered and whether temporary protection is in place. Interior extraction and removal can proceed within the agreed scope, while permanent roof, window or exterior repair remains a separate source-control task."
+      },
+      {
+        "title": "Remove soaked debris and treat wet finishes",
+        "text": "We will collect standing water, remove material listed for disposal and clean retained surfaces. Wet insulation, swollen baseboards or damaged flooring may need selective removal so the cavity or subfloor can dry."
+      },
+      {
+        "title": "Protect contents and address new water entry",
+        "text": "Items stored along the wet path should be moved only after their condition is considered. If water returns during a later storm, the affected boundary must be reassessed after the exterior entry is corrected."
+      }
+    ],
+    "estimate": "The estimate will identify interior water removal, debris handling, drying and material removal separately from exterior repairs. Share photos of the entry point and any temporary covering.",
+    "checklist": [
+      "Show where rain entered.",
+      "Identify wet contents or stored items.",
+      "Describe temporary protection and planned exterior repair."
+    ]
+  },
+  "structural-drying-services/fate": {
+    "intro": "Structural drying services in Fate address moisture retained in building materials after the leak has been stopped and standing water removed. We will identify the affected wall, floor or ceiling layers, place equipment for the materials that can remain and track whether those layers are drying.",
+    "sections": [
+      {
+        "title": "Structural drying services in Fate: set equipment for the wet assembly",
+        "text": "We will inspect accessible materials and locate wet areas that can be monitored. Air movement and dehumidification will be positioned for the rooms and openings involved; equipment placement must allow access to the affected surfaces."
+      },
+      {
+        "title": "Check progress at the material, not just the room",
+        "text": "A comfortable room or dry surface does not establish that the wall cavity or subfloor has dried. We will take progress readings at the defined locations and adjust the drying plan when results show a layer is not responding."
+      },
+      {
+        "title": "Remove material that cannot be dried in place",
+        "text": "If a component is saturated, deteriorated or blocks access to trapped moisture, we will explain the removal decision before proceeding. Repairs follow after the retained assembly reaches the condition required for closure."
+      }
+    ],
+    "estimate": "The estimate will describe equipment, monitoring locations and the duration assumptions separately from source repair and reconstruction. Share prior moisture readings and the materials already removed.",
+    "checklist": [
+      "Identify the source repair status.",
+      "Share previous drying readings.",
+      "Keep monitored areas and equipment accessible."
+    ]
+  },
+  "floor-water-damage-cleanup/fate": {
+    "intro": "Floor water damage cleanup in Fate can be needed when water is trapped under a finish that still looks intact. We will examine the covering and its backing, remove accessible water and explain which layers can remain for drying.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Fate examines adhesion and layer condition",
+        "text": "A glued floor can lose its bond even before obvious buckling appears. We will check exposed edges, loose sections and moisture evidence to understand the assembly. The decision to retain a covering depends on its condition and whether the material beneath can be reached, not appearance alone."
+      },
+      {
+        "title": "Expose the substrate without hiding damaged backing",
+        "text": "Where removal is specified, we will lift affected material and collect trapped water and loose debris. Deteriorated pad or underlayment will be separated from a sound base that can be cleaned and dried. Adhesive remnants and installation preparation will be identified for the flooring contractor rather than silently included as completed restoration."
+      },
+      {
+        "title": "Check the base before the new system is installed",
+        "text": "We will monitor retained substrate and explain any remaining damp section. The installer needs to apply the new flooring manufacturer’s preparation and moisture requirements. Cosmetic matching across connected rooms is a separate choice from the physical area needing water-damage treatment."
+      }
+    ],
+    "estimate": "The estimate will identify each layer being removed or retained. Glued material, transitions and access beneath fixed fixtures can change labor.",
+    "checklist": [
+      "Share the flooring construction if known.",
+      "Identify loose or hollow-feeling sections.",
+      "Keep a sample if matching material matters."
+    ]
+  },
+  "ceiling-water-damage-cleanup/fate": {
+    "intro": "Ceiling water damage cleanup in Fate addresses wet overhead layers before they are patched or painted. We will protect the space below, remove material that cannot stay and dry the accessible structure revealed by the opening.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Fate checks the weight above the finish",
+        "text": "Saturated insulation can remain above softened gypsum and add load to an already weakened area. We will define a controlled removal zone and keep the room below clear. Fixtures or utilities within that zone require appropriate trade involvement before they are moved."
+      },
+      {
+        "title": "Clear the cavity so drying reaches its surfaces",
+        "text": "Affected insulation and loose ceiling fragments will be collected rather than left on cavity ledges. We will inspect the exposed timber and adjoining board edges for retained moisture. The opening may need to reach beyond the darkest stain where wet layers extend farther than the visible mark."
+      },
+      {
+        "title": "Avoid closing around an unresolved wet pocket",
+        "text": "Follow-up readings will show which retained components are responding to drying. We will identify inaccessible sections and any source repair still outstanding. The ceiling can then be handed to the finish contractor with the actual opening and moisture status documented, rather than a promise based on a dry painted face."
+      }
+    ],
+    "estimate": "Room protection, overhead access and insulation handling will be described in the scope. Decorative blending outside the opening remains distinguishable from cleanup.",
+    "checklist": [
+      "Keep clear of bulging ceiling material.",
+      "Identify contents that cannot easily be moved.",
+      "Share findings from the leak repair."
+    ]
+  },
+  "bathroom-mold-removal/fate": {
+    "intro": "Bathroom mold removal in Fate addresses growth on or behind bathroom finishes after a moisture problem. We will identify the affected wall, caulk line, vanity or flooring, then define which material can be cleaned and which must be removed to reach the condition.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Fate: inspect the wet assembly",
+        "text": "We will review the area around the tub, shower, sink or toilet and consider what the available assessment shows. Loose caulk or a stained surface may point to moisture, but it does not establish how far growth extends behind tile or drywall."
+      },
+      {
+        "title": "Remove affected finish and clean retained surfaces",
+        "text": "The plan will specify containment, removal of affected porous material and cleaning of surfaces designated to remain. Plumbing or ventilation corrections must address the moisture source before replacement finishes are installed."
+      },
+      {
+        "title": "Rebuild after the moisture source is corrected",
+        "text": "We will identify the open wall or floor area left for repair and any separate assessment or clearance required. New tile, caulk or a vanity should not conceal material still awaiting remediation."
+      }
+    ],
+    "estimate": "The estimate will distinguish mold-related removal and cleaning from plumbing correction, fixture work and finish replacement. Share any assessment and source repair details.",
+    "checklist": [
+      "Identify the bathroom fixture near the growth.",
+      "Share moisture or plumbing reports.",
+      "Keep the area accessible for inspection."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/fate": {
+    "intro": "Kitchen cabinet mold removal in Fate addresses suspected growth inside or behind cabinetry after a leak or prolonged moisture. We will inspect the cabinet floor, toe-kick and adjoining wall, then determine whether the cabinet can remain or must be opened or removed to reach affected material.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Fate: expose the cabinet base",
+        "text": "We will ask that stored items be removed and check the cabinet interior and lower edge. Swollen particleboard, damp wallboard or growth at the sink base may require removal rather than cleaning only the visible face."
+      },
+      {
+        "title": "Treat the material behind the cabinet",
+        "text": "The scope will identify cabinet components and wall material to remove, along with retained surfaces to clean. We will explain how the opening allows the moisture source and affected layers to be addressed before replacement cabinetry is fitted."
+      },
+      {
+        "title": "Correct the leak before installing a new cabinet",
+        "text": "A plumber or other source-repair provider must correct the leak. Once remediation and drying are complete, the cabinet installer can work from the actual opening and approved replacement dimensions."
+      }
+    ],
+    "estimate": "The estimate will separate cabinet removal, material treatment and cleaning from plumbing and cabinet installation. Share photos of the cabinet base and any leak repair record.",
+    "checklist": [
+      "Empty the affected cabinet.",
+      "Identify the leak source and repair status.",
+      "Share cabinet dimensions if replacement is planned."
+    ]
+  },
+  "mold-remediation-after-water-damage/fate": {
+    "intro": "Mold remediation after water damage in Fate addresses growth found after a leak, flood or overflow. We will review the water-loss history and assessment, define affected materials and explain how removal and cleaning fit alongside source correction and drying.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Fate: use the loss history",
+        "text": "We will compare assessment findings with records of the water source, drying and material already removed. That sequence helps identify open questions without treating every previously wet surface as affected."
+      },
+      {
+        "title": "Remove identified material and clean retained surfaces",
+        "text": "The remediation scope will specify the work area, containment, removal and cleaning. Any additional material exposed during access will be reviewed before expanding the approved work."
+      },
+      {
+        "title": "Finish the moisture work before reconstruction",
+        "text": "Source correction and drying must be addressed along with remediation. The responsible provider and any independent assessment or clearance will be identified before rebuilding the affected assembly."
+      }
+    ],
+    "estimate": "The estimate will identify remediation tasks and distinguish them from water extraction, source repair, assessment and reconstruction. Share the water-loss date, prior drying notes and any assessment.",
+    "checklist": [
+      "Provide the assessment or inspection report.",
+      "List material already removed.",
+      "Share source-repair and drying records."
+    ]
+  },
+  "mold-removal-behind-drywall/fate": {
+    "intro": "Mold removal behind drywall in Fate addresses affected wall material discovered through a stain, odor investigation or existing opening. We will review the exposed edges, identify how much wall must be removed to reach the affected area and keep the work boundary tied to the findings.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Fate: define the wall opening",
+        "text": "We will note the size and location of the existing opening and inspect accessible framing and the back of the drywall. A broader opening will be proposed only when it provides access to material that needs removal or evaluation."
+      },
+      {
+        "title": "Remove drywall and clean the exposed cavity",
+        "text": "The approved work will identify drywall and insulation to remove, containment needs and framing or other surfaces to clean. Debris will be handled within the defined area, with newly visible conditions reviewed before the removal boundary changes."
+      },
+      {
+        "title": "Leave the wall open until remediation is addressed",
+        "text": "The moisture source must be corrected and the remediation work completed before new drywall is installed. We will identify any separate assessment or clearance needed for the project before the opening is closed."
+      }
+    ],
+    "estimate": "The estimate will describe the proposed opening, drywall or insulation removal, cleaning and containment separately from wall reconstruction. Share photos and the source-repair status.",
+    "checklist": [
+      "Keep the existing opening accessible.",
+      "Share photos before any patching.",
+      "Identify the leak or moisture source."
+    ]
+  },
+  "kitchen-fire-cleanup/fate": {
+    "intro": "Kitchen fire cleanup in Fate addresses deposits in cabinet details as well as the surfaces nearest the flame. We will evaluate what can be cleaned, remove specified damaged components and check for wet material left by the response.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Fate examines cabinet interiors separately",
+        "text": "Smoke deposits can reach shelves and door edges even when the broad outer face has already been wiped. We will inspect reachable interiors and identify stored contents needing their own handling. Food, packaging and delicate belongings will not be mixed into ordinary cabinet-surface cleaning."
+      },
+      {
+        "title": "Test finishes before cleaning the whole run",
+        "text": "We will remove loose deposits using a suitable method and evaluate compatible cleaning on a limited section. A laminate face, exposed composite edge and painted door can respond differently. Separating veneer or heat-softened coatings will receive a repair recommendation instead of repeated wet scrubbing."
+      },
+      {
+        "title": "Check the cabinet base before reinstalling contents",
+        "text": "Where water was used, we will inspect the toe-kick and floor junction for trapped moisture. Required extraction, removal and drying will be identified before those areas are enclosed. Appliance function and internal equipment contamination remain matters for an appropriate technician."
+      }
+    ],
+    "estimate": "Interior shelves, hardware details and contents movement will be listed where included. The quote will distinguish cleaning from cabinet refinishing or replacement.",
+    "checklist": [
+      "Identify cabinet doors or drawers opened during the fire.",
+      "Describe any initial wiping or washing.",
+      "Tell us whether the floor was wet afterward."
+    ]
+  },
+  "smoke-damage-cleanup/fate": {
+    "intro": "Smoke damage cleanup in Fate is useful when residue remains after a room has been aired out. We will inspect the finishes and detailed surfaces, remove accessible deposits and evaluate remaining odor after the physical cleaning.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Fate checks surfaces that collect fine deposits",
+        "text": "Door-top ledges, textured finishes and trim recesses can hold soot that is not obvious from the center of a room. We will identify those surfaces within the cleaning area and test uncertain coatings. Residue on a washable finish may need a different approach from the same deposit embedded in an absorbent texture."
+      },
+      {
+        "title": "Work through the room without re-soiling completed surfaces",
+        "text": "Loose deposits will be collected before compatible detailed cleaning. We will organize treatment so material released from higher surfaces does not settle onto work already finished. Sensitive decorative items and electrical fixtures needing specialist handling will remain clearly separated from the building-cleaning scope."
+      },
+      {
+        "title": "Use the cleaning result to guide the next step",
+        "text": "We will distinguish a remaining stain or damaged coating from residue that still needs removal. Persistent odor may require examination of a concealed or untreated material before further odor treatment. Repainting is a finish decision after the underlying cleaning needs are understood."
+      }
+    ],
+    "estimate": "Texture, coating sensitivity and the amount of detail affect cleaning labor. The proposal will specify accessible surfaces and any separate contents or odor work.",
+    "checklist": [
+      "Identify rooms where deposits reappear after wiping.",
+      "Share any coating or deodorizing already applied.",
+      "Point out finishes requiring special care."
+    ]
+  },
+  "toilet-overflow-cleanup/fate": {
+    "intro": "Toilet overflow cleanup in Fate needs to reach contamination at the wall base, not only the open floor. We will extract accessible wastewater, remove affected material that cannot be treated adequately and clean retained surfaces before drying.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Fate inspects trim and lower wall layers",
+        "text": "Water can collect behind base trim where the painted face looks unchanged. We will examine the contact path and determine whether removal is needed to reach the backing. Absorbent gypsum or composite trim affected by wastewater may need disposal instead of surface wiping."
+      },
+      {
+        "title": "Expose and clean the retained junction",
+        "text": "Specified contaminated material will be packaged and removed through a controlled route. We will physically clean soil from reachable retained surfaces, then apply suitable disinfection according to its requirements. A spray applied over dirt is not the same work as removing that dirt first."
+      },
+      {
+        "title": "Check moisture before reinstalling the baseboard",
+        "text": "We will measure the exposed wall and floor connection and arrange drying for components that can stay. The source plumbing must also be corrected. New trim follows the cleanup and moisture work so the repair does not cover a damp or untreated pocket."
+      }
+    ],
+    "estimate": "The scope will distinguish removal behind the trim from open-floor cleaning. Wastewater collection, disposal and drying will be separately described.",
+    "checklist": [
+      "Describe the original water line on the wall.",
+      "Identify trim or coverings already removed.",
+      "Share the drain-repair status."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/fate": {
+    "intro": "AC leak water damage cleanup in Fate addresses building materials soaked by a cooling-system leak. We will collect escaped water and evaluate the wet assembly, while HVAC servicing resolves the equipment or condensate problem.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Fate checks the closet and adjoining wall",
+        "text": "A wet equipment closet can conceal moisture behind its base or shared wall. We will measure accessible surfaces around the unit and check the adjoining room where evidence warrants it. The HVAC service opening and the water-damage boundary may be different sizes."
+      },
+      {
+        "title": "Reach wet backing without disturbing connected equipment",
+        "text": "Deteriorated gypsum and saturated insulation may need removal to expose damp framing. We will define those openings and collect debris while protecting equipment and connections. Moving the air handler or altering its services requires the appropriate provider before restoration can reach material underneath it."
+      },
+      {
+        "title": "Distinguish continued leakage from slow drying",
+        "text": "We will record moisture changes after source correction. New wetting requires further source investigation rather than simply leaving fans in place longer. The handoff will identify dried components, damaged support needing repair and any remaining HVAC dependency before the closet is rebuilt."
+      }
+    ],
+    "estimate": "Equipment clearance and access to the shared cavity affect the restoration work. HVAC service and finish replacement will remain separate from the drying proposal.",
+    "checklist": [
+      "Identify wet areas on both sides of the closet.",
+      "Share technician findings and repair timing.",
+      "Tell us whether water returns during operation."
+    ]
+  },
+  "crawl-space-water-removal/fate": {
+    "intro": "Crawl space water removal in Fate addresses standing water beneath a building after plumbing leakage, drainage trouble or rain entry. We will review safe access, locate pooled water and remove it using equipment suited to the opening and conditions.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Fate: assess access and standing water",
+        "text": "We will identify the entry point, depth and spread of pooled water from the available access. Electrical hazards, low clearance or unstable ground may limit where a person or equipment can safely reach."
+      },
+      {
+        "title": "Pump out water and remove saturated debris",
+        "text": "The removal plan will state how water is collected and where wet insulation, stored items or debris will be handled. A pump-out does not correct the source, so the estimate will identify drainage or plumbing work that remains."
+      },
+      {
+        "title": "Dry and restore materials beneath the floor",
+        "text": "After standing water is removed, wet framing or insulation may need drying or selective removal. We will explain the next step for the subfloor and vapor barrier before access is closed."
+      }
+    ],
+    "estimate": "The estimate will distinguish pumping and debris removal from drainage, plumbing or foundation work. Share the access opening, known source and any electrical or storage conditions.",
+    "checklist": [
+      "Describe how water entered the crawl space.",
+      "Identify the access opening and known hazards.",
+      "List stored items or insulation in the wet area."
+    ]
+  },
+  "attic-mold-remediation/fate": {
+    "intro": "Attic mold remediation in Fate addresses identified growth on roof sheathing, rafters or other attic material. We will locate the reported area, review moisture conditions and define the material treatment based on what can be safely accessed.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Fate: identify the affected roof area",
+        "text": "We will use inspection notes and photographs to locate the concern relative to rafters, roof penetrations or ventilation. A close-up image alone cannot establish how far the condition extends across the attic."
+      },
+      {
+        "title": "Treat affected sheathing or framing",
+        "text": "The remediation plan will specify containment, removal where material cannot remain and cleaning of retained accessible surfaces. Roof leaks or ventilation issues need correction so the treated area is not repeatedly exposed to moisture."
+      },
+      {
+        "title": "Keep roof repairs and remediation in sequence",
+        "text": "We will identify the remediation area and any remaining source work before insulation or stored belongings are returned. Roof repair and attic reconstruction remain distinct from the treatment scope."
+      }
+    ],
+    "estimate": "The estimate will separate access, remediation and material removal from roof repair or ventilation changes. Share the inspection report and any roof leak or ventilation work already completed.",
+    "checklist": [
+      "Provide attic photos with identifiable locations.",
+      "Share roof or ventilation findings.",
+      "Describe access restrictions or stored contents."
+    ]
+  },
+  "crawl-space-mold-remediation/fate": {
+    "intro": "Crawl space mold remediation in Fate needs to reach the affected floor assembly rather than treat only what is visible at the hatch. We will establish access, remove specified contaminated layers and clean recoverable surfaces within the remediation area.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Fate separates covering from structure",
+        "text": "Insulation facing or ground covering may obscure the material being reported. We will identify the affected component and explain removal needed to expose it. Low clearance, bracing or utilities that prevent inspection will remain stated limits until an appropriate access solution is available."
+      },
+      {
+        "title": "Clean the exposed wood before covering it again",
+        "text": "Remediation controls will govern debris handling and removal. Accessible retained timber will receive suitable HEPA collection and the detailed cleaning specified for its condition, including reachable intersections where deposits remain. Material that has deteriorated structurally needs a separate repair evaluation; mold treatment cannot restore lost strength."
+      },
+      {
+        "title": "Check whether the underside is still being wetted",
+        "text": "We will examine moisture in retained components and identify unresolved source conditions. Required completion evaluation should occur while the treatment surfaces remain accessible. Replacement insulation can then follow a documented material condition rather than obscure unfinished work."
+      }
+    ],
+    "estimate": "The quote will identify the components treated and the coverings removed to reach them. Plumbing, drainage and structural repairs will not be presented as part of surface remediation unless specifically included.",
+    "checklist": [
+      "Identify material shown in inspection photographs.",
+      "Share recurring moisture observations.",
+      "Tell us which underside layers are being replaced."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/fate": {
+    "intro": "Mold contaminated contents cleaning in Fate requires a recovery decision for each type of belonging. We will inspect accessible construction, clean items suited to treatment and explain where hidden absorbent material limits recovery.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Fate checks drawers and backing",
+        "text": "Furniture can have a durable outer finish but unfinished drawer bottoms or composite rear panels. We will inspect those reachable parts before selecting a process. Treating the visible front alone would leave the condition of the other layers unresolved."
+      },
+      {
+        "title": "Use compatible collection and detailed cleaning",
+        "text": "Suitable items will receive controlled removal of loose contamination and cleaning matched to their finish. Removable parts may be separated to reach joints and undersides where appropriate. Delicate coatings will be evaluated first, while absorbent interiors or specialist objects will receive a distinct recommendation rather than the same wet treatment."
+      },
+      {
+        "title": "Keep the recovery result attached to the object",
+        "text": "We will identify surfaces treated, remaining damage and any part still awaiting assessment. Cleaned belongings will be dried as appropriate and protected during packing. They should return to a location whose moisture and remediation work is complete, with untreated property kept separate."
+      }
+    ],
+    "estimate": "Disassembly, finish sensitivity and inaccessible layers can change the work more than an item’s size. Handling and specialist referrals will be identified apart from cleaning.",
+    "checklist": [
+      "Identify detachable shelves or drawers.",
+      "Share care instructions for sensitive finishes.",
+      "Confirm a suitable receiving area for treated items."
+    ]
+  },
+  "fire-damaged-debris-removal/fate": {
+    "intro": "Fire damaged debris removal in Fate clears approved burned material without treating everything in the room as waste. We will distinguish disposal from retained property, dismantle the specified components and collect the loose remnants left behind.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Fate plans the dismantling order",
+        "text": "A damaged cabinet may support a counter, and a ceiling finish may conceal services. We will identify those dependencies before removing attached material. Required disconnection or support work must be resolved before demolition proceeds at that location."
+      },
+      {
+        "title": "Keep debris controlled during transfer",
+        "text": "We will reduce or dismantle approved material into manageable pieces where appropriate and contain loose residue. The removal route will be protected, with retained belongings moved or covered as agreed. Pieces held for inspection or matching will remain identifiable instead of entering mixed disposal loads."
+      },
+      {
+        "title": "Expose the next restoration task clearly",
+        "text": "After bulk removal, we will collect reachable fragments and describe the surfaces revealed. Some may need detailed soot cleaning or additional damage evaluation before repair. Any proposed expansion will be tied to the exposed finding rather than assumed from the original disposal boundary."
+      }
+    ],
+    "estimate": "Attached assemblies, disconnection needs and the route to waste collection affect removal. The estimate will separate dismantling from subsequent surface restoration.",
+    "checklist": [
+      "Identify attached counters or fixtures near the debris.",
+      "Flag evidence or samples being held.",
+      "Describe restrictions on the exit route."
+    ]
+  },
+  "fire-damaged-contents-cleaning/fate": {
+    "intro": "Fire damaged contents cleaning in Fate helps determine which belongings can be recovered after residue and heat exposure. We will examine finishes and construction, clean suitable items and keep remaining testing or repair needs explicit.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Fate examines removable parts",
+        "text": "A chest or table may hold deposits inside drawers, underneath panels or around hardware. We will inspect reachable sections and remove appropriate detachable parts to gain cleaning access. Heat distortion or damaged joints will be recorded separately from surface soot."
+      },
+      {
+        "title": "Match cleaning to the material below the deposit",
+        "text": "Loose residue will be collected using suitable methods before compatible detailed treatment. A washable hard surface and a fragile varnish need different approaches, with limited testing where the finish response is uncertain. Padded interiors and electrical components may need specialist evaluation beyond the accessible exterior."
+      },
+      {
+        "title": "Evaluate the result before packing",
+        "text": "We will identify residual staining, odor or finish damage rather than describe every cleaned object as fully restored. Treated parts will be kept together and protected from unfinished property. Items awaiting an owner or specialist decision will retain their identity through storage and return."
+      }
+    ],
+    "estimate": "Part removal, detailed cleaning and packing will be described by item group. Functional testing and refinishing will remain separate from residue removal.",
+    "checklist": [
+      "Keep detached parts with the original object.",
+      "Identify fragile or previously repaired finishes.",
+      "Flag items needing electrical or mechanical testing."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/fate": {
+    "intro": "Fire extinguisher residue cleanup in Fate addresses discharge trapped in surface details as well as the main deposit. We will identify the agent where possible, collect it with suitable equipment and clean compatible finishes without spreading it into untreated areas.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Fate uses the agent information",
+        "text": "The label or response record helps determine how the discharge should be handled. We will consider that information alongside coated wood, metal, tile or other affected finishes. Unknown residue will not automatically receive the same wet-cleaning method as an identified agent."
+      },
+      {
+        "title": "Collect deposits before working into narrow details",
+        "text": "Bulk material will be removed first, followed by treatment of reachable seams, hardware recesses and ledges included in the scope. We will test sensitive finishes and collect loosened residue during cleaning. Corrosion or coating damage revealed underneath needs its own repair decision rather than more aggressive wiping."
+      },
+      {
+        "title": "Identify openings that surface cleaning cannot resolve",
+        "text": "Powder near equipment vents can indicate a need for internal technical inspection. We will record those limits and distinguish cleaned casings from evaluated equipment. Repainting or restarting equipment should not conceal deposits still requiring access or specialist treatment."
+      }
+    ],
+    "estimate": "Residue type and detail access determine the cleaning approach. The estimate will state any limits around enclosed equipment and separate technician work.",
+    "checklist": [
+      "Save the extinguisher label information.",
+      "Identify surfaces already wetted during cleanup.",
+      "Point out nearby vents, drawers and equipment openings."
+    ]
+  },
+  "emergency-board-up-after-fire/fate": {
+    "intro": "Emergency board up after fire in Fate closes an exposed window, doorway or wall opening during the repair period. We will inspect its perimeter, cut panels for the current dimensions and fasten them to suitable sound support.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Fate prepares the fitting area",
+        "text": "We will measure the opening after reviewing loose glass, trim and the condition of the surrounding assembly. Necessary preparation will be carried out where safe working conditions allow. Damaged framing that cannot hold the proposed fastening needs an alternative support decision before installation."
+      },
+      {
+        "title": "Fit the panel to the available support",
+        "text": "Coverage will be sized and positioned around the exposed area, with fastening selected for the material it engages. We will check panel seating, attachment and gaps after securing it. A panel resting against a weak edge is not a completed stable installation simply because it covers the hole."
+      },
+      {
+        "title": "Record temporary coverage and remaining restrictions",
+        "text": "The work will identify which openings were addressed and any later adjustment needed for authorized access. Existing entry restrictions remain applicable; boarding does not establish structural safety or occupancy permission. The permanent repair provider will make its own assessment of the damaged assembly."
+      }
+    ],
+    "estimate": "Panel size, installation height and usable fixing points affect the work. Removal or refitting for later repair visits will be stated separately.",
+    "checklist": [
+      "Identify openings by room or building side.",
+      "Share current access restrictions.",
+      "Name the contact handling replacement installation."
+    ]
+  },
+  "crawl-space-sewage-cleanup/fate": {
+    "intro": "Crawl space sewage cleanup in Fate removes wastewater and the affected material remaining beneath the floor. We will extract reachable liquid, collect contaminated waste and clean retained surfaces before evaluating the moisture left in the structure.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Fate handles liquid and settled debris",
+        "text": "Collection equipment will be arranged around the accessible release area and entry conditions. After pumping, settled solids and contaminated loose material still require removal. We will identify pools or waste beyond reach rather than treat a cleared entrance as evidence about the entire underside."
+      },
+      {
+        "title": "Expose contact surfaces beneath disposable layers",
+        "text": "Specified insulation or damaged ground covering will be packaged and removed to reveal surfaces requiring treatment. We will physically remove soil and residue from reachable retained components, followed by appropriate disinfection. Affected soil, inaccessible joints or material that cannot be cleaned adequately will receive an explained further recommendation."
+      },
+      {
+        "title": "Dry the retained structure before replacing coverings",
+        "text": "Moisture checks will guide drying of accessible joists and subfloor. We will distinguish those building components from the ground condition and report ongoing discharge requiring plumbing correction. Replacement layers should follow completed cleanup and moisture work instead of concealing contaminated or wet sections."
+      }
+    ],
+    "estimate": "The proposal will describe liquid collection, solid waste handling and retained-surface treatment separately. Additional access and replacement construction will be identified where needed.",
+    "checklist": [
+      "Share the location and status of the drain repair.",
+      "Describe material already pumped or removed.",
+      "Identify all usable crawl-space entrances."
+    ]
+  }
+}

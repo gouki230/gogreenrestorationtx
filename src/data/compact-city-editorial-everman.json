@@ -1,0 +1,582 @@
+{
+  "emergency-water-extraction/everman": {
+    "intro": "Emergency water extraction in Everman helps when a leak has left water along several walls but the center of the room is already clear. Remaining water can be harder to reach around furnishings and trim. We will evaluate those accessible edges and explain removal and drying work.",
+    "sections": [
+      {
+        "title": "Emergency water extraction along obstructed edges",
+        "text": "We will identify furniture and fixed features limiting access to the remaining water. Authorized movement may be needed before the floor beneath them can be inspected. Extraction will be organized around the actual wet areas rather than only the most open section of the room."
+      },
+      {
+        "title": "Check the assembly behind the wet perimeter",
+        "text": "Lower finishes and flooring edges may conceal moisture that surface removal cannot reach. We will explain any selective opening proposed to evaluate those layers. Material damage, water conditions, and practical access will guide decisions about retention or removal."
+      },
+      {
+        "title": "Record the next drying requirements",
+        "text": "We will identify retained components needing treatment and explain equipment placement. Progress will be documented at relevant locations. Repairs should follow the resulting material status, with any unresolved source or hidden area clearly identified."
+      }
+    ],
+    "estimate": "Access at walls, flooring construction, and water exposure affect the initial estimate. Call with the affected rooms and the source status so we can discuss the first visit.",
+    "checklist": [
+      "Identify wet room edges.",
+      "Describe furniture limiting access.",
+      "Tell us whether the leak has stopped."
+    ]
+  },
+  "burst-pipe-cleanup/everman": {
+    "intro": "Burst pipe cleanup in Everman helps when a supply failure has soaked a room behind a repaired wall opening. The pipe repair does not establish the condition of the floor and adjacent finishes. We will trace accessible spread and explain the building cleanup still needed.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup beyond the plumbing patch",
+        "text": "We will review the break location and examine connected lower surfaces. Water may have reached material outside the opening made for the repair. The scope will explain additional access where supported by the findings rather than treat the plumbing patch size as the damage boundary."
+      },
+      {
+        "title": "Remove damaged layers and dry retained material",
+        "text": "Insulation, drywall, and flooring may need different decisions. We will identify unsuitable material and explain the treatment intended for components that can remain. Suspected mold or structural concerns will be separated from ordinary drying work."
+      },
+      {
+        "title": "Prepare the connected area for rebuilding",
+        "text": "We will record progress and identify remaining moisture or source questions before finishes close the assembly. A dry room surface cannot establish the condition of every concealed edge. The handoff will describe what was evaluated and what still needs attention."
+      }
+    ],
+    "estimate": "Concealed spread, finish layers, and access restrictions determine scope. Share the plumbing findings and any photographs from before the wall was patched.",
+    "checklist": [
+      "Identify the failed pipe location.",
+      "Describe water outside the repair opening.",
+      "Tell us what material has already been replaced."
+    ]
+  },
+  "appliance-leak-cleanup/everman": {
+    "intro": "Appliance leak cleanup in Everman helps when water from a washer has spread beneath a partition into an adjoining room. The laundry floor may be only part of the affected area. We will inspect accessible connections and explain removal and drying across the materials involved.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup through shared wall edges",
+        "text": "We will consider the laundry side and the adjoining room when evaluating spread. Safe machine movement or disconnection may require another provider. The work area will follow the findings rather than stop automatically at the partition."
+      },
+      {
+        "title": "Evaluate different finishes along the route",
+        "text": "One side may have a hard floor while the other has absorbent layers or different trim. We will explain the treatment decision for each material. Selective removal will have a defined purpose, such as reaching retained moisture or removing a component no longer serviceable."
+      },
+      {
+        "title": "Coordinate restoration with appliance repair",
+        "text": "We will record relevant drying and identify outstanding building repairs. Correcting the machine source remains a separate task. Returning equipment or closing wall edges should follow the material condition so access is not lost before the remaining work is done."
+      }
+    ],
+    "estimate": "Floor assemblies, wall access, and source duration affect the estimate. Contact us with the appliance diagnosis and the rooms reached by water.",
+    "checklist": [
+      "Identify the leaking machine.",
+      "Describe adjoining floor materials.",
+      "Share the appliance repair status."
+    ]
+  },
+  "storm-water-damage-cleanup/everman": {
+    "intro": "Storm water damage cleanup in Everman helps when rain has wet a finished wall while the insulation behind it is still inaccessible. The room surface may improve before the cavity condition is known. We will evaluate access and explain the interior treatment needed alongside exterior source repair.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup behind finished walls",
+        "text": "We will inspect accessible observations and review the reported entry point. A qualified exterior provider may need to confirm the cause. Interior access will be proposed where it helps establish the condition of wet or damaged layers rather than on the assumption that every stain means the same repair."
+      },
+      {
+        "title": "Make separate decisions for insulation and structure",
+        "text": "Damaged or obstructing insulation may require removal while retained components need drying. We will explain the purpose and boundaries of that work. Additional findings will be documented before the scope expands beyond the evaluated area."
+      },
+      {
+        "title": "Close the wall after the source and materials are addressed",
+        "text": "We will identify remaining exterior correction and record drying progress. Reinsulation and finish repair should follow those conditions. The handoff will distinguish completed interior work from any exterior repair still awaiting its provider."
+      }
+    ],
+    "estimate": "Wall construction, entry duration, and source-repair timing influence cost and sequence. Share the exterior findings and describe interior changes since the rain.",
+    "checklist": [
+      "Identify the affected wall.",
+      "Share the source investigation status.",
+      "Tell us whether insulation is already exposed."
+    ]
+  },
+  "structural-drying-services/everman": {
+    "intro": "Structural drying services in Everman help when an exposed assembly includes both thin finishes and substantial retained wood. Those components may not respond at the same pace. We will establish a monitored plan and explain what controls the next repair decision.",
+    "sections": [
+      {
+        "title": "Structural drying services for mixed retained materials",
+        "text": "We will identify the relevant components and accessible measurement locations. Equipment placement will reflect the assembly rather than treat every surface as identical. Material hidden behind fixed features will be identified as a limitation requiring its own access decision."
+      },
+      {
+        "title": "Follow the slowest relevant condition",
+        "text": "We will record changes and explain which location still needs treatment. If progress stalls, the response may involve setup changes or investigation of continuing moisture. More elapsed time will not substitute for understanding why a component remains wet."
+      },
+      {
+        "title": "Separate drying completion from repair approval",
+        "text": "We will explain the status of evaluated materials and identify deterioration or other work outside drying. Replacement-product requirements may come from the installing provider. The handoff will support that coordination without making claims about portions that could not be evaluated."
+      }
+    ],
+    "estimate": "Assembly thickness, access, and treatment response determine the scope. Share photographs of retained materials and any earlier readings.",
+    "checklist": [
+      "Identify materials intended to stay.",
+      "Describe remaining obstructions.",
+      "Tell us what repair is waiting on drying."
+    ]
+  },
+  "floor-water-damage-cleanup/everman": {
+    "intro": "Floor water damage cleanup in Everman helps when water has reached a floor seam beside a fixed island or cabinet. The visible edge may not reveal how far moisture extends below the finish. We will evaluate accessible conditions and explain the access needed before a replacement decision.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup beside fixed features",
+        "text": "We will inspect exposed seams and the connection to the built-in. Removing trim or another limited component may provide necessary access. The proposal will explain what that opening establishes and where uncertainty remains beneath an inaccessible portion."
+      },
+      {
+        "title": "Decide separately on finish and support",
+        "text": "A finish can be damaged while the support remains suitable for drying, or conceal wet material despite looking intact. We will describe those findings separately. Removal recommendations will identify damage or access as the reason rather than rely on one general room-wide assumption."
+      },
+      {
+        "title": "Prepare the repaired edge for installation",
+        "text": "We will record treatment of retained areas and identify outstanding support repairs. New flooring may have specific installation requirements. Reinstating fixed trim should follow the resolved condition rather than close an edge still needing evaluation."
+      }
+    ],
+    "estimate": "Fixed-feature access, flooring layers, and concealed spread affect the estimate. Contact us with photographs of the seam and nearby cabinet or island.",
+    "checklist": [
+      "Identify the floor material.",
+      "Describe the fixed obstruction.",
+      "Share any flooring-provider observations."
+    ]
+  },
+  "ceiling-water-damage-cleanup/everman": {
+    "intro": "Ceiling water damage cleanup in Everman helps when water has affected a ceiling near an attic access or other overhead opening. You need the finish and the material above it evaluated before repairs conceal the area. We will explain safe access and the cleanup sequence.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup beside an attic opening",
+        "text": "An existing hatch can provide a view of some overhead surfaces while trim conceals the edge immediately around it. We will evaluate both the accessible cavity and the damaged room-side surround. We will explain whether limited trim removal or another opening is necessary to reach the relevant material."
+      },
+      {
+        "title": "Evaluate the opening surround before reuse",
+        "text": "Water can affect panels, attachment areas, and insulation differently. We will identify components that are damaged and those moved only to provide access. Reusing a cover or trim piece will depend on its condition, not simply its ability to fit back into place."
+      },
+      {
+        "title": "Treat the overhead material exposed by access",
+        "text": "We will remove unsuitable material within the agreed scope and evaluate retained components for drying. Monitoring will focus on the affected assembly rather than the open room air alone. Source uncertainty or a utility concern will be identified before the next repair stage."
+      },
+      {
+        "title": "Restore access after the ceiling work",
+        "text": "We will describe the completed treatment and what still needs finishing around the opening. The access function should be considered when the surround is rebuilt. A restored hatch appearance will not imply that unrelated attic sections were inspected."
+      }
+    ],
+    "estimate": "Ceiling height, opening condition, and affected insulation shape the estimate. Share safe photographs and any roof or plumbing findings already available.",
+    "checklist": [
+      "Identify the overhead opening.",
+      "Describe weakened finish nearby.",
+      "Tell us whether the source has been corrected."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/everman": {
+    "intro": "AC leak water damage cleanup in Everman helps when condensate has wet a cabinet or enclosure around cooling equipment. The mechanical repair and the damaged enclosure require different work. We will evaluate the building materials and explain access, removal, and drying needs.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup inside a paneled enclosure",
+        "text": "We will inspect the panels around the cooling equipment and distinguish visible deterioration from concealed moisture concerns. A panel may need removal because it is damaged or because it blocks inspection. Those reasons will be stated separately before the enclosure is dismantled."
+      },
+      {
+        "title": "Coordinate access at mechanical connections",
+        "text": "The HVAC provider may need to handle equipment movement or disconnection to make the building surfaces reachable. We will explain the restoration access required without treating that mechanical work as routine demolition. The unit repair and surrounding cleanup will have separate responsibilities."
+      },
+      {
+        "title": "Evaluate the surfaces behind removed panels",
+        "text": "Once the area is accessible, we will assess retained material for drying and identify unsuitable components. A dry outer panel does not establish the condition of its backing or support. Suspected mold will receive a defined remediation decision before reconstruction proceeds."
+      },
+      {
+        "title": "Rebuild the enclosure around a resolved condition",
+        "text": "We will document treatment and remaining panel or support repairs. The enclosure should not be closed while it still obstructs necessary inspection or drying. Equipment operation will remain an HVAC decision rather than an implied result of replacing the surrounding finishes."
+      }
+    ],
+    "estimate": "Enclosure construction, equipment access, and hidden spread affect the estimate. Contact us with HVAC findings and photographs of the damaged panels.",
+    "checklist": [
+      "Identify the enclosure materials.",
+      "Share the source-repair status.",
+      "Describe water outside the equipment area."
+    ]
+  },
+  "crawl-space-water-removal/everman": {
+    "intro": "Crawl space water removal in Everman helps when pooled water and debris make it difficult to tell which materials beneath the floor were affected. Extraction should leave a useful path for inspection and follow-on treatment. We will evaluate accessible conditions and explain that sequence.",
+    "sections": [
+      {
+        "title": "Crawl space water removal where debris blocks the route",
+        "text": "We will review the accessible water and the loose material preventing equipment or personnel from reaching it. The proposal will identify debris handling needed for extraction. Items requiring retention or another decision will be kept distinct from material authorized for disposal."
+      },
+      {
+        "title": "Clear the path before claiming the footprint is known",
+        "text": "Removing an obstruction can reveal additional water or a previously hidden surface. We will explain those findings as access improves. A scope based on the original view from the hatch may need revision when the working area becomes visible."
+      },
+      {
+        "title": "Address material uncovered during extraction",
+        "text": "Wet insulation and retained building components need their own assessment after accessible liquid removal. We will identify suitable drying or cleanup tasks and material that requires removal. Clearing debris will not be treated as evidence that the surface beneath it is ready to cover."
+      },
+      {
+        "title": "Leave an accessible starting point for source work",
+        "text": "We will identify continuing water entry and the provider needed to correct it. The record will describe which routes and sections were cleared. Follow-on repairs can then be planned around the actual condition rather than an assumption that a pump-out resolved the source."
+      }
+    ],
+    "estimate": "Clearance, debris, water volume, and source status determine the estimate. Share observations already available without entering an unsafe crawl space.",
+    "checklist": [
+      "Identify the access opening.",
+      "Describe debris reported beneath the floor.",
+      "Tell us about known source repairs."
+    ]
+  },
+  "bathroom-mold-removal/everman": {
+    "intro": "Bathroom mold removal in Everman helps when flooring replacement reveals affected material beside a tub or vanity. The new floor should follow a decision about the exposed area. We will arrange evaluation and explain remediation of the relevant wall and floor components.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal beside opened flooring",
+        "text": "We will inspect the accessible edge and review the water history. The removed finish may reveal only part of the affected material. We will explain whether additional access is needed beneath trim or a fixed fixture before defining the treatment boundary."
+      },
+      {
+        "title": "Treat the exposed assembly by component",
+        "text": "Flooring layers, lower drywall, and retained support may require different decisions. The plan will identify containment, affected-material removal, and cleaning of suitable surfaces. Plumbing or structural concerns needing another provider will remain distinct from the remediation scope."
+      },
+      {
+        "title": "Give the floor installer a clear status",
+        "text": "We will identify source correction, related drying, and any independent review before replacement material covers the area. Installation requirements for the selected product remain a separate consideration. The handoff will state what was treated and what remains unresolved at the bathroom edge."
+      }
+    ],
+    "estimate": "Opened area, fixed-fixture access, and affected layers determine the estimate. Contact us with photographs taken during flooring removal and the leak history.",
+    "checklist": [
+      "Identify the floor edge involved.",
+      "Share plumbing findings.",
+      "Tell us which replacement work is scheduled."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/everman": {
+    "intro": "Kitchen cabinet mold removal in Everman helps when a leaking sink connection has affected both the cabinet and a wall behind it. Repairing the connection leaves a separate decision about those materials. We will arrange a defined remediation scope and explain the access required.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal around repaired connections",
+        "text": "We will review the repair location and inspect accessible cabinet panels and wall edges. Plumbing components may still limit treatment access. The work plan will identify any additional qualified disconnection needed rather than assume the repaired line makes every surface reachable."
+      },
+      {
+        "title": "Remove unsuitable panels and reach retained surfaces",
+        "text": "The cabinet bottom or back may require removal for its condition or to expose the affected area. We will explain those reasons separately. Cleaning of suitable retained material will follow the defined remediation scope and any applicable assessment."
+      },
+      {
+        "title": "Rebuild around the resolved moisture condition",
+        "text": "We will identify drying, source verification, and independent review requirements before new panels return. Stored belongings may need a separate decision. The completion record will describe the cabinet area addressed without implying that unrelated sections of the kitchen were evaluated."
+      }
+    ],
+    "estimate": "Cabinet construction, access around plumbing, and affected extent shape the estimate. Share the repair findings and photographs of the accessible interior.",
+    "checklist": [
+      "Identify the repaired connection.",
+      "Describe affected cabinet panels.",
+      "Tell us about belongings in contact with the damp area."
+    ]
+  },
+  "mold-remediation-after-water-damage/everman": {
+    "intro": "Mold remediation after water damage in Everman helps when demolition after a leak reveals affected material in an adjoining room that was not included in the first cleanup. The new finding needs its own defined response. We will arrange evaluation and explain how it changes the restoration sequence.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage beyond the first room",
+        "text": "We will review the water route and the newly accessible condition. The original work boundary may not describe the affected assembly now visible. Additional scope will follow the findings and any applicable assessment rather than simply extend every task throughout the neighboring room."
+      },
+      {
+        "title": "Separate material treatment from cosmetic expansion",
+        "text": "The plan will identify affected removal and cleaning of suitable retained surfaces. A larger paint or flooring area chosen for appearance is a different repair decision. We will explain the actual remediation boundary and the access necessary to carry out the work."
+      },
+      {
+        "title": "Coordinate the connected rooms before closure",
+        "text": "We will identify moisture-source work, drying, and any independent review still required. One room may have a different status from the other. The handoff will describe the completed sections and the dependencies controlling further reconstruction."
+      }
+    ],
+    "estimate": "Newly exposed materials, access, and the extent of connected damage affect the estimate. Contact us before closing the opening and share the earlier restoration scope.",
+    "checklist": [
+      "Identify the adjoining room finding.",
+      "Share the original leak information.",
+      "Tell us what work is currently underway."
+    ]
+  },
+  "mold-removal-behind-drywall/everman": {
+    "intro": "Mold removal behind drywall in Everman helps when affected backing is found while removing damaged base trim. The narrow opening may not reveal the full cavity condition. We will arrange evaluation and explain the controlled access needed before the wall is repaired.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall through a lower opening",
+        "text": "We will examine the accessible edge and consider the moisture history. The scope may require a larger opening to reach affected insulation or framing. We will explain what that access establishes rather than assume the entire wall is involved or that the visible strip is the whole problem."
+      },
+      {
+        "title": "Address each exposed wall layer",
+        "text": "Affected finish or insulation may need removal while suitable retained surfaces can be cleaned. Containment and material handling will be described around the work. Damage requiring structural or utility repair will retain its own qualified provider decision."
+      },
+      {
+        "title": "Keep reconstruction tied to the treated condition",
+        "text": "We will identify source correction, relevant drying, and any independent review needed before closure. New drywall and trim should follow those steps. The record will state the section evaluated and avoid extending conclusions to cavities that remained concealed."
+      }
+    ],
+    "estimate": "Wall layers, affected extent, and access restrictions influence the estimate. Share photographs of the existing edge and describe prior leakage in that location.",
+    "checklist": [
+      "Identify trim already removed.",
+      "Share visible cavity findings.",
+      "Tell us whether the moisture source is resolved."
+    ]
+  },
+  "attic-mold-remediation/everman": {
+    "intro": "Attic mold remediation in Everman helps when a contractor reports growth on attic wood while investigating a moisture problem. You need the surface work connected to the source findings. We will arrange evaluation and explain remediation of the accessible area without treating the contractor report as a complete scope.",
+    "sections": [
+      {
+        "title": "Attic mold remediation alongside source investigation",
+        "text": "We will review the reported location, photographs, and available access. The moisture provider may need to clarify ongoing roof or ventilation concerns. The remediation boundary will follow evaluated conditions rather than assume one photograph describes every surface in the attic."
+      },
+      {
+        "title": "Establish access to the retained material",
+        "text": "Insulation and clearance may limit cleaning or inspection. We will explain movement or removal needed to reach the affected wood. Suitable surfaces can receive defined treatment, while damaged components requiring repair will be identified separately."
+      },
+      {
+        "title": "Complete the surface work with limitations clear",
+        "text": "We will identify related drying, source correction, and any independent review. Replacement insulation or storage should follow those requirements. The handoff will describe treated locations without representing surface cleanup as a roof warranty or structural certification."
+      }
+    ],
+    "estimate": "Affected area, working clearance, and insulation access determine the estimate. Contact us with the contractor findings and any source-repair plan.",
+    "checklist": [
+      "Identify the reported attic location.",
+      "Share safe inspection photographs.",
+      "Tell us whether moisture correction is underway."
+    ]
+  },
+  "crawl-space-mold-remediation/everman": {
+    "intro": "Crawl space mold remediation in Everman helps when wet insulation has been removed and affected framing is now visible beneath the floor. You need a decision about those retained surfaces before new insulation goes in. We will arrange remediation evaluation and explain the remaining sequence.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation after insulation removal",
+        "text": "We will review the exposed framing and the areas still obstructed. Removing insulation can improve access without establishing the condition of the entire crawl space. The scope will identify the locations evaluated and any further access needed."
+      },
+      {
+        "title": "Distinguish treatment from repair of damaged wood",
+        "text": "Suitable retained surfaces may be cleaned within the remediation plan. Deteriorated components need a separate repair decision, and cleaning will not be described as restoring strength. Handling of remaining affected material will be explained before replacement work proceeds."
+      },
+      {
+        "title": "Prepare for reinsulation with a specific handoff",
+        "text": "We will identify continuing moisture, related drying, and independent review requirements. Replacement insulation should follow the completed condition of each relevant section. The record will make unresolved areas explicit rather than imply a blanket approval beneath the house."
+      }
+    ],
+    "estimate": "Exposed surface area, clearance, material condition, and source work shape the estimate. Share photographs from the insulation removal and any moisture findings.",
+    "checklist": [
+      "Identify areas already exposed.",
+      "Tell us why the insulation was removed.",
+      "Share the planned replacement timing."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/everman": {
+    "intro": "Mold contaminated contents cleaning in Everman helps when belongings from a damp room include solid furniture and fabric-covered items. Their different layers affect whether cleaning can reach the concern. We will evaluate material condition and explain realistic item decisions.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning across furniture materials",
+        "text": "We will consider accessible hard surfaces separately from absorbent padding, fabric, and hidden joints. A cleanable frame does not establish that every interior layer can be addressed. Some pieces may require specialist care or disposal rather than general cleaning."
+      },
+      {
+        "title": "Identify the decision before irreversible work",
+        "text": "We will discuss priority belongings and explain proposed treatment limits. Items awaiting individual approval will remain distinguishable from those authorized for cleaning. Sentimental importance can guide review order without supporting a guaranteed restoration outcome."
+      },
+      {
+        "title": "Return items to a suitable room",
+        "text": "The receiving area needs a resolved moisture and remediation status. We will identify completed contents work and unresolved limitations before return. Placing treated furniture against an untreated wall or damp floor would leave the broader problem unresolved."
+      }
+    ],
+    "estimate": "Item construction, quantity, exposure, and specialist needs affect the estimate. Contact us with representative photographs and identify belongings you want reviewed individually.",
+    "checklist": [
+      "List priority furniture pieces.",
+      "Describe visible material deterioration.",
+      "Tell us where treated items would return."
+    ]
+  },
+  "kitchen-fire-cleanup/everman": {
+    "intro": "Kitchen fire cleanup in Everman helps when a damaged cooking area needs removal while neighboring cabinets are intended to stay. The work must account for connected finishes, utilities, and residue. We will evaluate the kitchen and explain selective cleanup before replacement work begins.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup around retained cabinets",
+        "text": "We will identify heat-damaged sections and evaluate residue on nearby suitable finishes. Attached counters or trim can affect practical removal boundaries. The plan will distinguish preserving an undamaged component from promising that every adjacent cabinet can remain."
+      },
+      {
+        "title": "Coordinate access and contents handling",
+        "text": "Qualified disconnection may be needed around appliances or utilities. Belongings inside the cabinets will receive separate decisions before building material is removed. As access improves, we will explain any newly visible water or residue damage relevant to the scope."
+      },
+      {
+        "title": "Prepare the remaining kitchen for reconstruction",
+        "text": "Suitable surfaces will receive defined cleaning and any related drying. We will record what remains for repair or specialist evaluation. New cabinets and finishes should follow those findings rather than conceal unfinished treatment behind a replacement unit."
+      }
+    ],
+    "estimate": "Cabinet connections, heat exposure, smoke spread, and suppression water influence cost. Contact us after authorized entry and identify the components intended for retention.",
+    "checklist": [
+      "Describe the fire-damaged section.",
+      "Identify belongings needing review.",
+      "Share appliance or utility findings."
+    ]
+  },
+  "smoke-damage-cleanup/everman": {
+    "intro": "Smoke damage cleanup in Everman helps when a fire has left residue inside open storage and on the surrounding room finishes. The contents and building surfaces need related but separate treatment decisions. We will evaluate exposure and explain a sequence that makes both accessible.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup inside open storage",
+        "text": "We will inspect accessible shelves, cabinet interiors, and nearby finishes. Stored items may need removal for evaluation before those surfaces can be treated. The plan will not assume that cleaning the front of a unit addresses deposits behind its contents."
+      },
+      {
+        "title": "Choose treatment by the material underneath",
+        "text": "Paint, finished wood, and absorbent belongings can respond differently to cleaning. We will explain suitable approaches and limitations where damage or sensitivity affects the result. Specialist objects may need another provider rather than broad room-surface treatment."
+      },
+      {
+        "title": "Reset storage after source material is addressed",
+        "text": "We will identify cleaned surfaces and items still requiring decisions. Remaining odor may prompt evaluation of untreated material or concealed exposure. The return plan will follow actual treatment status rather than use fragrance or new finishes as evidence that residue was removed."
+      }
+    ],
+    "estimate": "Storage area, item quantity, finish sensitivity, and residue spread affect the estimate. Share the room layout and describe the materials stored there.",
+    "checklist": [
+      "Identify affected shelves or cabinets.",
+      "List sensitive belongings.",
+      "Tell us about previous cleaning attempts."
+    ]
+  },
+  "toilet-overflow-cleanup/everman": {
+    "intro": "Toilet overflow cleanup in Everman helps when wastewater has reached the edge of a shower enclosure and the adjoining floor. The exposed surfaces and concealed junction may need different decisions. We will evaluate the accessible spread and explain cleanup before cosmetic repairs begin.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup beside a shower enclosure",
+        "text": "We will evaluate where wastewater reached the fixed enclosure and the adjoining flooring. A sealed-looking edge may still limit inspection of the assembly below it. We will identify what can be checked directly and what needs another access decision."
+      },
+      {
+        "title": "Avoid treating the enclosure as one uniform material",
+        "text": "The visible surface, adjoining trim, and concealed support can have different exposure and restoration options. We will explain removal where damage or inaccessible affected material makes it necessary. A qualified provider may be needed if access involves fixture disconnection."
+      },
+      {
+        "title": "Address retained surfaces within the defined area",
+        "text": "The plan will identify appropriate cleaning and any moisture treatment needed after material removal. The open bathroom floor and the obscured enclosure edge will retain separate statuses if access differs. Extraction alone will not resolve every layer the wastewater reached."
+      },
+      {
+        "title": "Coordinate the enclosure repair with the cleanup result",
+        "text": "We will explain remaining source work and the condition left for replacement finishes. Closing the edge should follow the findings below it. The next provider will know which surfaces were treated and which questions remain unresolved."
+      }
+    ],
+    "estimate": "Fixed-feature access, flooring construction, and exposure determine the estimate. Call with the overflow route and the status of the fixture or drain repair.",
+    "checklist": [
+      "Identify fixed features reached by wastewater.",
+      "Describe nearby absorbent materials.",
+      "Share the plumbing response status."
+    ]
+  },
+  "fire-damaged-debris-removal/everman": {
+    "intro": "Fire damaged debris removal in Everman helps when damaged trim and finish panels must come out before the retained assembly can be treated. The removal should preserve clear decisions about what stays. We will define the authorized material and explain the condition left for cleanup and repair.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal from finish layers",
+        "text": "We will identify panels and trim approved for removal and consider their attachments to neighboring surfaces. Utilities or unstable construction may require another provider first. The work boundary will distinguish damaged finish from retained components needing evaluation."
+      },
+      {
+        "title": "Expose the surfaces needed for restoration",
+        "text": "Removal can reveal residue, wet insulation, or damage concealed behind the finish. We will document relevant findings and explain further treatment needs. Newly visible material will not automatically become additional demolition without a supported scope decision."
+      },
+      {
+        "title": "Hand off a defined remaining assembly",
+        "text": "We will identify cleared sections and surfaces still requiring cleaning, drying, or repair. Replacement finish choices are separate from debris handling. The handoff will describe remaining conditions before another layer is installed over the work."
+      }
+    ],
+    "estimate": "Finish construction, access, debris volume, and disposal needs shape the estimate. Share the approved removal area and any restrictions from specialist inspections.",
+    "checklist": [
+      "Identify finishes scheduled for removal.",
+      "Tell us what must remain for review.",
+      "Share utility or structural access limits."
+    ]
+  },
+  "fire-damaged-contents-cleaning/everman": {
+    "intro": "Fire damaged contents cleaning in Everman helps when a fire-affected room contains both cleanable surfaces and belongings with hidden absorbent layers. You need a practical item plan before paying for broad treatment. We will evaluate construction, exposure, and limitations for the affected groups.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning for layered belongings",
+        "text": "We will consider covers, backing, padding, joints, and accessible solid surfaces. Heat or water damage may limit what cleaning can achieve even when soot is removable. Specialist objects or internal equipment components may need another provider."
+      },
+      {
+        "title": "Explain expected treatment before authorization",
+        "text": "We will identify items suitable for proposed work and those needing individual review. Belongings awaiting a decision will remain distinguishable from approved items. Personal importance can guide evaluation priorities without creating a guarantee that original appearance or function can be recovered."
+      },
+      {
+        "title": "Coordinate return with the building work",
+        "text": "We will record completed item treatment and any remaining condition. The receiving area and packaging should support that work rather than renew exposure. Contents restoration and room reconstruction will retain separate statuses so return is based on actual readiness."
+      }
+    ],
+    "estimate": "Item materials, quantity, damage, and specialist requirements determine the scope. Contact us with representative photographs and identify priority belongings.",
+    "checklist": [
+      "List items requiring individual approval.",
+      "Describe heat or water exposure.",
+      "Tell us about the intended return location."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/everman": {
+    "intro": "Fire extinguisher residue cleanup in Everman helps when discharged material has reached a finished room as well as the immediate fire area. The agent and the surfaces exposed determine the treatment plan. We will review available information and explain cleanup boundaries before work begins.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup across finished surfaces",
+        "text": "We will identify the agent where label or response information is available and consider the finish beneath the deposit. A painted wall, floor covering, and finished cabinet do not necessarily tolerate the same treatment. The proposed work will describe those material distinctions before cleaning begins."
+      },
+      {
+        "title": "Evaluate sensitive finishes before broad treatment",
+        "text": "Where an initial evaluation helps establish finish response, its result can guide the next decision. We will identify damage or sensitivity that limits an acceptable outcome. More cleaning will not be used as a substitute for explaining that a finish may need repair."
+      },
+      {
+        "title": "Reach room edges and adjoining storage",
+        "text": "Deposits can remain on ledges or inside accessible storage beyond the main discharge area. We will define which locations are included and what movement is needed. Contents and equipment internals requiring separate evaluation will be identified explicitly."
+      },
+      {
+        "title": "Separate the residue result from permanent repairs",
+        "text": "We will document treatment and the remaining finish or item decisions. Fire-related heat and smoke concerns may need additional work. The completion record will not combine those tasks or approval of equipment operation into a general room-cleaned statement."
+      }
+    ],
+    "estimate": "Agent identity, spread, sensitive materials, and access shape the estimate. Share a safe photograph of the extinguisher label and describe the rooms involved.",
+    "checklist": [
+      "Identify the discharged agent if known.",
+      "List delicate finishes or equipment.",
+      "Tell us about related fire damage."
+    ]
+  },
+  "emergency-board-up-after-fire/everman": {
+    "intro": "Emergency board up after fire in Everman helps when an exterior opening is damaged and the permanent repair cannot begin immediately. You need temporary protection that reflects the surrounding construction and planned access. We will evaluate the opening and explain what can be secured safely.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire during a replacement delay",
+        "text": "We will measure the exposed opening and review the remaining frame or other attachment surfaces. Where safe installation is possible, we will fit temporary panels and fasten them to sound material within the approved work area. Loose glass or damaged trim requiring removal will be identified before that preparation begins."
+      },
+      {
+        "title": "Preserve authorized entry without assuming occupancy",
+        "text": "Inspectors or repair crews may require access while the property remains affected by fire. We will discuss that route and the limitations of the closure. Securing an opening does not establish that the building is safe for ordinary occupation."
+      },
+      {
+        "title": "Document what the visit leaves unresolved",
+        "text": "We will identify relevant exposure outside the specific opening addressed. Structural, utility, and other envelope repairs retain their appropriate provider responsibilities. The completion record will avoid turning a temporary protection task into a claim that all fire damage is secured or repaired."
+      },
+      {
+        "title": "Coordinate protection through later construction",
+        "text": "The opening may change as damaged material is removed. We will explain that the temporary setup can require review at that stage. Permanent replacement should be planned around the actual remaining frame or structure rather than assume the original boarding arrangement defines the final repair."
+      }
+    ],
+    "estimate": "Opening dimensions, attachment conditions, and safe access affect the estimate. Contact us with the location and entry-release information.",
+    "checklist": [
+      "Identify the exposed opening.",
+      "Share access restrictions.",
+      "Tell us what permanent repair is planned."
+    ]
+  },
+  "crawl-space-sewage-cleanup/everman": {
+    "intro": "Crawl space sewage cleanup in Everman helps when wastewater has affected material beneath the floor but access is available from only one side. The cleanup plan needs to explain both reachable sections and the remaining limits. We will evaluate the exposure and identify practical removal and treatment steps.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup from a restricted entry",
+        "text": "We will evaluate the usable route to the reported wastewater and identify obstructions before planning removal. Visibility from a single opening may not establish the full exposure. The scope will distinguish areas that can be reached from those needing another access solution."
+      },
+      {
+        "title": "Create access for a specific treatment need",
+        "text": "If debris handling or an authorized opening is needed, we will explain what it makes possible. Structural components or utilities require the appropriate qualified provider before alteration. Access work will not be improvised simply to reach an assumed completion boundary."
+      },
+      {
+        "title": "Treat the surfaces reached after extraction",
+        "text": "Insulation and retained components may need different responses after wastewater removal. We will identify unsuitable material and appropriate cleaning of surfaces that can stay. Related drying will be planned separately from the decision about contamination exposure."
+      },
+      {
+        "title": "Document unresolved sections honestly",
+        "text": "The record will show the area treated, the plumbing-source status, and any location still inaccessible. Replacement materials should follow the findings for the actual section addressed. A lower water level at the entry will not be used to claim completion across the entire unseen space."
+      }
+    ],
+    "estimate": "Clearance, exposure, access changes, and disposal needs determine the estimate. Share the plumbing findings and observations already available without entering the affected area.",
+    "checklist": [
+      "Identify the available entry.",
+      "Describe obstructions reported by a provider.",
+      "Share the drain-repair status."
+    ]
+  }
+}

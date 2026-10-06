@@ -1,0 +1,287 @@
+{
+  "celina": {
+    "keyword": "Property damage restoration in Celina",
+    "description": "Property damage restoration in Celina. Address damaged rooms with defined cleanup, drying and material-restoration work.",
+    "image": "emergency-water-extraction",
+    "intro": "Property damage restoration in Celina helps when water, fire residue, mold-affected material, or wastewater has interrupted the use of your property. We will review the affected areas and organize the agreed cleanup and material work. The plan will address the damage before new finishes are installed.",
+    "sections": [
+      {
+        "title": "Property damage restoration in Celina: review the source and the room",
+        "paragraphs": [
+          "Tell us what happened, when it was noticed, and which repairs or cleanup have occurred. We will identify accessible affected materials and any further evaluation needed. Correcting the cause and restoring the resulting damage will have separate, clear responsibilities."
+        ]
+      },
+      {
+        "title": "Carry out the defined restoration",
+        "paragraphs": [
+          "Water extraction, drying, debris handling, surface cleaning, and the appropriate mold remediation arrangement will be selected according to the findings. Contents and fixed features will be considered when setting up access. New affected areas will be discussed before the scope expands."
+        ]
+      },
+      {
+        "title": "Prepare the next phase",
+        "paragraphs": [
+          "We will record progress and explain remaining moisture or evaluation requirements before repairs. The handoff will distinguish necessary reconstruction from requested improvements. Routine tenant communication for managed property follows the hiring manager\u2019s instructions, with necessary safety and access information accurate."
+        ]
+      }
+    ],
+    "checklistTitle": "For the first review",
+    "checklist": [
+      "Describe the incident and affected rooms.",
+      "Share source repairs and earlier cleanup.",
+      "Confirm access and approval contacts."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/celina/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/mold-remediation/celina/",
+        "label": "Mold remediation"
+      },
+      {
+        "href": "/fire-smoke-damage-restoration/celina/",
+        "label": "Fire and smoke restoration"
+      }
+    ]
+  },
+  "water-damage-restoration/celina": {
+    "keyword": "Water damage restoration in Celina",
+    "description": "Water damage restoration in Celina. Extract water and address wet building layers before rebuilding damaged finishes.",
+    "image": "floor-water-damage-cleanup",
+    "intro": "Water damage restoration in Celina helps when leaks or water intrusion leave flooring, walls, ceilings, or cabinetry wet. We will remove accessible standing water where needed and carry out the agreed drying for retained material. Components requiring removal or additional access will be identified before the repair boundary changes.",
+    "sections": [
+      {
+        "title": "Water damage restoration in Celina: review how the materials were affected",
+        "paragraphs": [
+          "Share the source, discovery timing, and correction performed. We will review accessible layers and identify limits behind floor coverings or fixed features. A repaired leak does not establish the moisture condition of the room it affected."
+        ]
+      },
+      {
+        "title": "Perform extraction and material drying",
+        "paragraphs": [
+          "The work area will account for equipment placement and contents movement. We will explain an opening\u2019s purpose and consequence for later repair. Progress findings will guide adjustments, with additional work discussed before the approved scope expands."
+        ]
+      },
+      {
+        "title": "Pass an accurate status to reconstruction",
+        "paragraphs": [
+          "We will identify completed tasks and unresolved moisture or evaluation concerns, including inaccessible portions. Suspected mold will receive a separate remediation and appropriate-provider discussion. The handoff will address retained material rather than rely on the visible floor looking dry."
+        ]
+      }
+    ],
+    "checklistTitle": "Helpful incident details",
+    "checklist": [
+      "Provide source and discovery information.",
+      "Describe affected surfaces and fixed features.",
+      "Share prior cleanup or moisture records."
+    ],
+    "links": [
+      {
+        "href": "/emergency-water-extraction/celina/",
+        "label": "Emergency water extraction"
+      },
+      {
+        "href": "/floor-water-damage-cleanup/celina/",
+        "label": "Floor water damage cleanup"
+      },
+      {
+        "href": "/mold-remediation-after-water-damage/celina/",
+        "label": "Mold remediation after water damage"
+      }
+    ]
+  },
+  "fire-smoke-damage-restoration/celina": {
+    "keyword": "Fire and smoke damage restoration in Celina",
+    "description": "Fire and smoke damage restoration in Celina. Clean residue and restore retained areas after fire-damaged material is handled.",
+    "image": "smoke-damage-cleanup",
+    "intro": "Fire and smoke damage restoration in Celina helps when a fire leaves damaged components, residue on nearby finishes, and belongings needing evaluation. We will review the property once restoration access is available and perform the agreed removal and cleaning. Response water will be considered where it affects retained material and later repairs.",
+    "sections": [
+      {
+        "title": "Fire and smoke damage restoration in Celina: identify the different effects",
+        "paragraphs": [
+          "Share the incident and response history, including earlier cleanup or material movement. We will review accessible damage, residue, and moisture concerns. The visibly burned area will not automatically define every surface needing evaluation."
+        ]
+      },
+      {
+        "title": "Handle debris, surfaces and contents",
+        "paragraphs": [
+          "Damaged material will be removed within the agreed boundary, while retained areas receive the proposed cleaning. Different surfaces or belongings may need specialist review before a recovery decision. Priority items will be identified before handling begins."
+        ]
+      },
+      {
+        "title": "Coordinate the repair starting point",
+        "paragraphs": [
+          "We will record completed cleanup and drying tasks and explain unresolved concerns. New findings will have their scope effect discussed before work expands. The handoff will identify the actual removal boundary and retained-material status for reconstruction."
+        ]
+      }
+    ],
+    "checklistTitle": "For the fire-cleanup review",
+    "checklist": [
+      "Provide incident and response details.",
+      "Identify priority belongings and retained finishes.",
+      "Describe earlier work and access limits."
+    ],
+    "links": [
+      {
+        "href": "/smoke-damage-cleanup/celina/",
+        "label": "Smoke damage cleanup"
+      },
+      {
+        "href": "/fire-damaged-debris-removal/celina/",
+        "label": "Fire-damaged debris removal"
+      },
+      {
+        "href": "/fire-damaged-contents-cleaning/celina/",
+        "label": "Fire-damaged contents cleaning"
+      }
+    ]
+  },
+  "mold-remediation/celina": {
+    "keyword": "Mold remediation in Celina",
+    "description": "Mold remediation in Celina. Address affected components with an explained removal, cleaning and evaluation sequence.",
+    "image": "mold-removal-behind-drywall",
+    "intro": "Mold remediation in Celina helps when mold-affected material needs removal or cleaning before a room is rebuilt. We will review moisture history and available findings, then arrange the appropriate provider scope. The work will define containment and material handling rather than conceal the concern beneath a new finish.",
+    "sections": [
+      {
+        "title": "Mold remediation in Celina: review the source and accessible findings",
+        "paragraphs": [
+          "Share assessment documents, leak repairs, and previous cleanup. We will explain what can be established and where further review or access is needed. Source correction and remediation of affected components remain separate responsibilities."
+        ]
+      },
+      {
+        "title": "Coordinate the material work",
+        "paragraphs": [
+          "The agreed scope will identify removal and cleaning, with nearby contents evaluated separately where needed. Retained surfaces and access requirements will be considered before setup. Additional affected material will have its scope effect explained before the work expands."
+        ]
+      },
+      {
+        "title": "Complete the requirements before closure",
+        "paragraphs": [
+          "Assessment, remediation, and applicable clearance have distinct purposes; clearance is a separate evaluation rather than a guaranteed cleanup result. We will record progress and identify outstanding moisture or evaluation requirements before reconstruction. Share transaction dates early if they affect scheduling."
+        ]
+      }
+    ],
+    "checklistTitle": "Before the scope review",
+    "checklist": [
+      "Provide assessment and source-repair records.",
+      "Describe affected components and enclosed areas.",
+      "Identify contents and approval contacts."
+    ],
+    "links": [
+      {
+        "href": "/mold-removal-behind-drywall/celina/",
+        "label": "Mold removal behind drywall"
+      },
+      {
+        "href": "/bathroom-mold-removal/celina/",
+        "label": "Bathroom mold removal"
+      },
+      {
+        "href": "/services/mold-remediation-before-closing/",
+        "label": "Mold remediation before closing"
+      }
+    ]
+  },
+  "sewage-backup-cleanup/celina": {
+    "keyword": "Sewage backup cleanup in Celina",
+    "description": "Sewage backup cleanup in Celina for wastewater removal and contacted-material restoration, with practical work-area planning for occupied property.",
+    "image": "toilet-overflow-cleanup",
+    "intro": "Sewage backup cleanup in Celina removes wastewater and restores the agreed contacted area after an overflow. When the affected bathroom, hallway, or other room is still part of daily household life, cleanup also changes access to fixtures and belongings. We will organize the removal, cleaning, and drying work with those practical needs discussed before setup.",
+    "sections": [
+      {
+        "title": "Sewage backup cleanup in Celina: establish the work area",
+        "paragraphs": [
+          "We will review the overflow history, plumbing findings, and accessible contact with finishes or contents. Tell us which fixtures and routes the household depends on, including whether the affected bathroom is the only available one.",
+          "The work boundary will follow the condition and tasks being performed. We will explain how equipment, material movement, and any required access opening affect use of the room; an unchanged-looking corner does not automatically make ordinary use compatible with the cleanup."
+        ]
+      },
+      {
+        "title": "Carry out the agreed restoration without losing track of belongings",
+        "paragraphs": [
+          "Wastewater removal will be followed by the material handling and cleaning in the scope. Identify items you need to locate or evaluate before they are moved. Contents decisions will remain separate where specialist review or another handling approach is needed.",
+          "If another provider must correct the source, that dependency will be coordinated with the room work. The hiring contact will receive decisions affecting additional removal or a revised cleanup boundary."
+        ]
+      },
+      {
+        "title": "Explain progress and the return to repairs",
+        "paragraphs": [
+          "Retained material may still need drying after visible cleanup, so updates will describe the condition under evaluation rather than only the appearance of the floor. We will identify completed tasks and outstanding source, moisture, or evaluation concerns before reconstruction.",
+          "For a managed property, routine tenant messages follow the hiring manager\u2019s approved instructions, while necessary safety and access information remains accurate. The plan will identify who handles entry, who receives updates, and who can approve scope changes."
+        ]
+      }
+    ],
+    "checklistTitle": "Details that help plan an occupied work area",
+    "checklist": [
+      "Identify essential fixtures and access routes.",
+      "Share plumbing findings and source-correction status.",
+      "List belongings needing attention before movement.",
+      "Confirm entry, tenant-update and approval responsibilities."
+    ],
+    "links": [
+      {
+        "href": "/toilet-overflow-cleanup/celina/",
+        "label": "Toilet overflow cleanup"
+      },
+      {
+        "href": "/crawl-space-sewage-cleanup/celina/",
+        "label": "Crawl-space sewage cleanup"
+      },
+      {
+        "href": "/mold-remediation/celina/",
+        "label": "Mold remediation"
+      }
+    ]
+  },
+  "construction-remodeling/celina": {
+    "keyword": "Reconstruction and remodeling in Celina",
+    "description": "Reconstruction and remodeling in Celina for restoration repairs, finish transitions and clearly separated optional improvements.",
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "Reconstruction and remodeling in Celina rebuilds the wall, ceiling, floor, or finish area left after damage restoration. A repair opening may be small while the decisions about texture, trim, paint, cabinetry, or adjoining material are broader. We will define the intended finished result so you can approve the necessary repair and any optional improvement separately.",
+    "sections": [
+      {
+        "title": "Reconstruction and remodeling in Celina: define the finished boundary",
+        "paragraphs": [
+          "The material removed during restoration does not always describe the complete finish task. We will review how a repair meets the surrounding surface, whether trim or another component is involved, and where a visible transition would remain.",
+          "Source-correction records, restoration findings, and outstanding evaluation requirements will establish which areas are ready for closure. A selection decision will not substitute for resolving a remaining moisture or material concern."
+        ]
+      },
+      {
+        "title": "Review matching choices before materials are ordered",
+        "paragraphs": [
+          "Retained finishes may differ from currently available products or from new material placed beside them. We will explain the available approach before an exact match is assumed. The decision can affect the area included in the finish work and the result you are approving.",
+          "Broader repainting, a changed fixture, or a layout improvement may be a preference rather than a requirement of the damage repair. Those choices will be described separately so the estimate makes their cost and construction implications understandable."
+        ]
+      },
+      {
+        "title": "Coordinate selections with the installation sequence",
+        "paragraphs": [
+          "We will identify which decisions must be made before ordering or installing the agreed components and which tasks rely on another provider. Access around retained fixtures will be included in that planning.",
+          "If an opening reveals a condition that changes the repair, the authorizing contact will receive the finding and proposed revision before additional work proceeds. Progress and final review will compare the completed construction with the agreed finish boundary and selections, including any remaining items."
+        ]
+      }
+    ],
+    "checklistTitle": "Choices to bring to the repair review",
+    "checklist": [
+      "Identify the finishes and fixtures you want retained.",
+      "Separate damage repairs from desired upgrades.",
+      "Provide restoration and source-correction records.",
+      "Confirm who approves finish selections and scope changes."
+    ],
+    "links": [
+      {
+        "href": "/locations/dfw-metro/celina/",
+        "label": "Celina restoration services"
+      },
+      {
+        "href": "/water-damage-restoration/celina/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/services/water-damage-repair-before-closing/",
+        "label": "Water damage repair before closing"
+      }
+    ],
+    "imageAlt": "AI-generated illustration of damaged ceiling material before reconstruction; not a completed Celina project"
+  }
+}

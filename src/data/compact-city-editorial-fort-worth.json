@@ -1,0 +1,650 @@
+{
+  "emergency-water-extraction/fort-worth": {
+    "intro": "Emergency water extraction in Fort Worth helps when water is spreading across an occupied room and towels are no longer enough. You may be trying to protect furniture while a hallway, closet, or neighboring room becomes wet. We will organize removal around the actual water path and explain which materials still need attention after the standing water is gone.",
+    "sections": [
+      {
+        "title": "Emergency water extraction with a defined first-stage scope",
+        "text": "The first visit will establish the accessible affected area, the condition of the water, and whether the source is controlled. We will identify where extraction can begin and where another provider or safety decision is needed first. That initial scope makes clear what the immediate work can accomplish without confusing it with complete restoration."
+      },
+      {
+        "title": "Furniture and floor coverings can conceal the spread",
+        "text": "Water can collect beneath an area rug or continue under a piece of furniture even when the main puddle is easy to see. We will discuss moving accessible belongings and checking adjoining surfaces before setting the work boundary. Where an item cannot be moved, the condition record will explain that inspection limit."
+      },
+      {
+        "title": "The removal record carries into drying",
+        "text": "We will document the areas treated and describe remaining moisture concerns in the floor assembly, trim, or adjoining wall. Extraction equipment and drying equipment serve different purposes. You will know whether the proposed next stage involves drying, removal of affected material, or further evaluation rather than simply being told that the water has been picked up."
+      },
+      {
+        "title": "Approvals when the property owner is away",
+        "text": "If a tenant, relative, or manager is providing entry, identify who can authorize the work and receive updates. We will explain findings to that contact and record agreed changes. The restoration plan will also identify conditions that must be resolved before flooring or wall finishes are replaced."
+      }
+    ],
+    "estimate": "The distance water traveled, equipment access, floor-covering layers, and movement of belongings influence the initial estimate. We will separate immediate extraction from subsequent drying and reconstruction, then explain any newly visible damage that changes the recommended work.",
+    "checklist": [
+      "Describe rooms connected to the visible puddle.",
+      "Identify heavy furniture or restricted entry points.",
+      "Provide the contact who can approve extraction and follow-up work."
+    ]
+  },
+  "burst-pipe-cleanup/fort-worth": {
+    "intro": "Burst pipe cleanup in Fort Worth helps when the broken line is being repaired but water has already soaked the cabinet, wall, or room around it. You may be unsure whether the plumber\u2019s opening reveals the full damage. We will evaluate the surrounding materials and explain the cleanup and drying needed before that opening is closed.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup after the source is isolated",
+        "text": "We will review the location of the failure and what the plumbing repair has exposed. A repaired fitting confirms one task has been addressed; it does not describe the moisture condition of nearby building materials. Our proposed scope will distinguish those conditions so source repair and restoration do not get treated as the same completion milestone."
+      },
+      {
+        "title": "Following the route from the pipe opening",
+        "text": "The accessible route of the water guides the evaluation of adjacent cabinets, wall bases, and floor transitions. We will explain where further access would help answer an unresolved moisture question. Any proposed removal will have a stated purpose rather than follow an automatic assumption that every surface near the pipe needs demolition."
+      },
+      {
+        "title": "Making use of repair photographs",
+        "text": "Images taken while the pipe was exposed can show the original opening, wet insulation, or water marks that are no longer visible. We will review information you provide alongside current findings. If the leak duration is unknown, the record will retain that uncertainty instead of assigning a precise start time without evidence."
+      },
+      {
+        "title": "Deciding when the opening can be repaired",
+        "text": "We will record the drying progress and explain remaining concerns before reconstruction proceeds. Material deterioration or suspected mold may change the required scope and provider coordination. You will receive a description of the outstanding step, who is responsible for it, and how it relates to replacing the removed finish."
+      }
+    ],
+    "estimate": "Cabinet access, insulation, multiple finish layers, and water spread beyond the pipe location can all affect cost. We will define the evaluated areas and note spaces that remain inaccessible, with plumbing work and replacement finishes identified separately from cleanup.",
+    "checklist": [
+      "Share the location of the broken line.",
+      "Mention whether the plumber has finished or needs another visit.",
+      "Include photographs from before the wall or cabinet was opened."
+    ]
+  },
+  "appliance-leak-cleanup/fort-worth": {
+    "intro": "Appliance leak cleanup in Fort Worth helps when water has escaped from a dishwasher, refrigerator connection, or washing machine and reached surfaces you cannot easily see. The appliance may be switched off while the floor beneath it remains wet. We will review the surrounding building materials and explain the access and drying decisions before the appliance goes back into service.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup around a fitted installation",
+        "text": "A built-in appliance can hide the rear edge of a cabinet, flooring changes, and wall surfaces. We will describe which areas can be evaluated in place and which need an access arrangement. Appliance disconnection or repair may require a separate technician, so those responsibilities will be established rather than assumed to be included in cleaning."
+      },
+      {
+        "title": "Evaluating cabinet bases and floor transitions",
+        "text": "The visible kitchen or laundry floor may not show the full route of the spill. We will consider accessible cabinet bases, the adjoining room threshold, and material layers exposed during evaluation. Findings will support the proposed cleanup area, including any location where a finish prevents a reliable condition check without additional access."
+      },
+      {
+        "title": "A repeated drip differs from a sudden overflow",
+        "text": "Tell us whether the problem appeared during one cycle or has returned over several uses. That history helps explain what should be evaluated without proving the condition of concealed materials on its own. We will record observed damage and describe any mold-related concern through an appropriate separate scope."
+      },
+      {
+        "title": "Putting the installation back together",
+        "text": "Before the appliance is repositioned or the surrounding trim is replaced, we will explain completed work and the remaining dependencies. A source repair, unresolved wet material, or an inaccessible area may affect that sequence. Progress will be recorded so the appliance technician and repair provider can work from a clear status."
+      }
+    ],
+    "estimate": "The type of installation, accessible floor layers, cabinet involvement, and distance the water spread shape the estimate. We will explain building-restoration charges separately from appliance diagnosis, parts, reconnection, and reconstruction decisions that belong to another stage.",
+    "checklist": [
+      "Identify the appliance and the point where water appeared.",
+      "Tell us whether the leak returned after a previous cleanup.",
+      "Mention fitted cabinetry or other access restrictions."
+    ]
+  },
+  "storm-water-damage-cleanup/fort-worth": {
+    "intro": "Storm water damage cleanup in Fort Worth helps when rain has entered through an opening and left several wet surfaces around the room. A stained ceiling may be the first sign, while the wall below or flooring farther away also needs attention. We will review the water\u2019s entry and spread so cleanup is coordinated with the repair that stops it returning.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup starts with the entry status",
+        "text": "We will establish whether the opening has been addressed and what temporary or permanent repairs are underway. Cleaning a room while water continues to enter leaves an unresolved dependency. The initial plan will identify that condition and explain which restoration tasks can proceed alongside the source-repair provider."
+      },
+      {
+        "title": "Describe separate wet areas rather than one storm claim",
+        "text": "A ceiling spot, a window-side wall, and an affected doorway may represent different paths through the building. We will document the accessible findings in each location rather than assume they share the same concealed condition. That approach supports a scope tied to materials and access, not just the fact that the damage followed rain."
+      },
+      {
+        "title": "Handling debris and affected finishes",
+        "text": "Water entering from outside may carry material that influences cleanup decisions. We will evaluate what reached the interior and explain proposed cleaning or removal without treating every event as an identical clean-water leak. Debris, damaged insulation, and layered finishes will be identified in the scope where they affect the work."
+      },
+      {
+        "title": "Checking readiness after the weather passes",
+        "text": "A dry forecast is not a drying measurement. We will record progress in the affected materials and explain what remains before repairs. If another rain event or repair change affects the work area, the status will be reassessed and any scope change discussed before replacement finishes cover the assembly."
+      }
+    ],
+    "estimate": "Entry locations, damaged assemblies, interior access, and source-repair timing determine the work sequence. The estimate will distinguish interior restoration from roofing, window, or exterior repairs and identify additional evaluation needed where water movement remains uncertain.",
+    "checklist": [
+      "List each room where rain-related damage appeared.",
+      "Share the status of roof, window, or exterior repairs.",
+      "Mention debris or repeated water entry after the initial event."
+    ]
+  },
+  "structural-drying-services/fort-worth": {
+    "intro": "Structural drying services in Fort Worth help when the room no longer has standing water but flooring, wall bases, or ceiling materials remain damp. You may be ready to schedule repairs and need a clearer answer than \u201cgive it a few days.\u201d We will evaluate accessible moisture conditions, organize the drying work, and explain the evidence used to decide the next step.",
+    "sections": [
+      {
+        "title": "Structural drying services for the remaining assembly",
+        "text": "The drying plan will identify which affected materials are being retained and how equipment can reach the work area. A painted surface and the material behind it may not respond in the same way. We will explain where an enclosed layer limits drying or evaluation and whether additional access needs to be considered."
+      },
+      {
+        "title": "Equipment placement has a purpose",
+        "text": "Air movement and moisture removal need to be matched to the evaluated space rather than placed only where there is room on the floor. We will discuss access, equipment arrangements, and practical restrictions in occupied rooms. If the setup cannot operate as planned, that limitation will be recorded and the next option explained."
+      },
+      {
+        "title": "Progress checks guide changes to the setup",
+        "text": "We will record findings during the drying stage and compare the status of the relevant materials. A stalled area may require a revised arrangement or a closer look at concealed layers. The response will be explained through the conditions observed, without promising a universal number of equipment days for every wet room."
+      },
+      {
+        "title": "Preparing a useful repair handoff",
+        "text": "Before reconstruction, we will explain the completed drying work, unresolved locations, and other dependencies such as source repair or a separate mold scope. The repair contact will have a clear description of the status. Installing new finishes should follow that review rather than a schedule based solely on when the leak happened."
+      }
+    ],
+    "estimate": "The amount and type of retained material, enclosure depth, equipment access, and drying progress affect duration and cost. We will describe the planned checks and explain changes to the scope if the material condition does not progress as anticipated.",
+    "checklist": [
+      "Tell us what extraction or removal has already occurred.",
+      "Identify rooms that still feel or look damp.",
+      "Share any existing moisture records and proposed repair dates."
+    ]
+  },
+  "floor-water-damage-cleanup/fort-worth": {
+    "intro": "Floor water damage cleanup in Fort Worth helps when a leak has left cupped boards, loose edges, damp carpet, or moisture beneath a floor covering. You may be deciding whether the visible finish can stay or needs removal to reach what is underneath. We will evaluate accessible layers and explain the cleanup options before replacement flooring is ordered.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup considers the layers",
+        "text": "Carpet over padding, floating flooring, and attached finishes present different access questions. We will identify the construction that can be established during evaluation and document what remains concealed. A dry-looking top surface will not be treated as proof that the material below it needs no further attention."
+      },
+      {
+        "title": "Removal decisions should have a clear reason",
+        "text": "Some affected flooring may need removal because of its condition or because it prevents access to material requiring work. We will explain the reason, proposed boundary, and handling of surrounding finishes before proceeding. The plan will not promise that every type of damaged flooring can be restored through drying alone."
+      },
+      {
+        "title": "Include thresholds and fixed installations",
+        "text": "Water can reach a doorway transition or continue beneath a cabinet edge beyond the obvious wet section. We will review accessible boundaries and explain where fixtures or furniture restrict the inspection. If a separate provider is needed to create access, that dependency will be distinguished from the restoration work itself."
+      },
+      {
+        "title": "Coordinate cleanup with the flooring installer",
+        "text": "We will record completed removal or drying work and explain remaining conditions before new material is installed. The installer may have product-specific requirements to confirm for the replacement assembly. Our status explanation will identify outstanding concerns so the choice of a new finish does not drive premature closure of an affected area."
+      }
+    ],
+    "estimate": "Floor covering type, attachment method, underlying layers, and the size of the accessible affected area influence the estimate. We will distinguish cleanup from replacement material and installation costs, including any extra work revealed when damaged coverings are removed.",
+    "checklist": [
+      "Describe the floor covering and any visible lifting or swelling.",
+      "Mention adjoining rooms with a different flooring type.",
+      "Tell us whether an installer has already evaluated the area."
+    ]
+  },
+  "ceiling-water-damage-cleanup/fort-worth": {
+    "intro": "Ceiling water damage cleanup in Fort Worth helps when a leak has left a stained, softened, or opened section above the room. You may have a repaired source but still need to understand the wet insulation and finishes around it. We will explain the accessible condition and a removal or drying plan before anyone patches over the damaged area.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup above an occupied room",
+        "text": "Work overhead affects the room below as well as the ceiling itself. We will discuss access, protection of nearby belongings, and the usable area during the agreed work. Existing openings or inaccessible cavities will be recorded so the proposed scope states what has actually been evaluated."
+      },
+      {
+        "title": "Connect the stain to the repair information",
+        "text": "Share where the leak was found and what the repair provider completed. The visible mark may not outline every affected layer above it. We will review the accessible ceiling assembly and explain when additional information or access is needed, without assigning the leak to a particular source solely from the stain\u2019s appearance."
+      },
+      {
+        "title": "Wet insulation and finishes need separate decisions",
+        "text": "Insulation, drywall, trim, and framing may have different conditions within the same ceiling area. We will explain the materials proposed for removal and the surfaces considered for drying or cleaning. Suspected growth or deterioration will be identified for the appropriate follow-up rather than folded into a cosmetic patch proposal."
+      },
+      {
+        "title": "Close the opening after the dependencies are resolved",
+        "text": "We will record progress and explain what remains before ceiling reconstruction. Source correction, remaining moisture, and any separate assessment or remediation work can affect readiness. The final repair scope can then address the finish and appearance with an understanding of the restoration work underneath it."
+      }
+    ],
+    "estimate": "Ceiling height, access equipment, insulation, material layers, and protection of the room below shape the estimate. We will separate removal and drying from plumbing or roofing repairs and from the reconstruction work needed to restore the finished ceiling.",
+    "checklist": [
+      "Describe the location and any existing opening in the ceiling.",
+      "Share the source-repair information available to you.",
+      "Mention furniture or fixtures that affect access beneath the damage."
+    ]
+  },
+  "bathroom-mold-removal/fort-worth": {
+    "intro": "Bathroom mold removal in Fort Worth helps when recurring growth around a vanity, wall opening, or shower area leaves you unsure what is happening behind the finish. You may have cleaned a visible spot only to see it return. We will discuss the moisture history, affected materials, and provider scope before proposing removal or cleaning work.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal follows the material condition",
+        "text": "A removable surface stain and affected material inside an assembly are different questions. We will review the reported conditions and available assessment information rather than determine the whole scope from the size of the visible mark. The proposed work will state which parts of the bathroom are included and who will perform it."
+      },
+      {
+        "title": "Separate fixture repair from affected-building work",
+        "text": "A sink supply connection, drain fitting, or shower-related issue may need a plumbing or installation repair. We will explain how that repair relates to the remediation sequence. Removing affected drywall or cabinetry does not by itself correct a moisture source that remains active behind the installation."
+      },
+      {
+        "title": "Plan access around the room\u2019s daily use",
+        "text": "A bathroom may be needed by occupants even while one area requires work. We will discuss the access restrictions and work-zone arrangements included in the proposed scope. Items stored in the vanity or close to the affected wall will be considered before handling so they are not simply moved into the work path."
+      },
+      {
+        "title": "Prepare for the rebuilding decision",
+        "text": "We will record the condition of completed work and explain remaining steps before the vanity, wall finish, or other materials are replaced. Any applicable independent assessment or clearance will be distinguished from remediation. A repair-ready status will be based on the agreed project sequence rather than a promise made from the first photographs."
+      }
+    ],
+    "estimate": "Concealed access, the affected assembly, containment needs, and the source-repair status determine more than room size alone. We will identify separate provider services and describe how findings behind finishes could change the proposed removal boundary or reconstruction work.",
+    "checklist": [
+      "Describe where growth returned after cleaning.",
+      "Mention recent vanity, plumbing, or shower repairs.",
+      "Share existing assessment documents and the bathroom\u2019s access needs."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/fort-worth": {
+    "intro": "Kitchen cabinet mold removal in Fort Worth helps when an under-sink leak has left a swollen base, visible growth, or damp material behind stored items. You may need to know whether the problem is confined to one cabinet or extends into the wall and floor. We will review access and the moisture history before defining the work with the responsible provider.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal without guessing at hidden areas",
+        "text": "An open cabinet door does not expose every surface behind the installation. We will explain the accessible findings and any limits created by the cabinet back, toe-kick, or adjacent units. The proposed scope will identify the basis for additional access rather than assume the entire kitchen requires removal."
+      },
+      {
+        "title": "The sink repair and the cabinet work need coordination",
+        "text": "Supply lines, the drain, and other under-sink connections may restrict how the cabinet can be handled. We will establish which repairs or disconnections belong to a plumbing provider and how they fit into the work sequence. That helps avoid reconstructing an enclosure before the source or required access has been resolved."
+      },
+      {
+        "title": "Contents and neighboring finishes affect preparation",
+        "text": "Cleaning products, cookware, and other stored items need an agreed handling arrangement before work begins. We will discuss the work area and the surrounding finishes that are intended to remain. Material condition, access, and the applicable remediation plan will guide decisions about what can be retained and what needs removal."
+      },
+      {
+        "title": "Replacement cabinetry follows a documented handoff",
+        "text": "We will explain completed remediation work and the remaining dependencies before a new cabinet conceals the space. Source repair, drying, and any applicable independent clearance are separate parts of that review. The reconstruction provider will need the status of the affected wall and floor, not only the dimensions of the replacement unit."
+      }
+    ],
+    "estimate": "Cabinet construction, plumbing access, affected wall or floor layers, and the scope behind adjacent units influence the estimate. We will distinguish remediation from cabinet replacement and explain who is responsible for separate assessment, clearance, trade work, and installation.",
+    "checklist": [
+      "Show the cabinet interior and adjoining units in available photographs.",
+      "Tell us whether the leak is repaired or awaiting a plumber.",
+      "Identify countertops or fixtures that could restrict cabinet access."
+    ]
+  },
+  "mold-remediation-after-water-damage/fort-worth": {
+    "intro": "Mold remediation after water damage in Fort Worth helps when a past leak has become a second problem: growth on damaged material or a room that remains damp after the first cleanup. You may have drying equipment removed but still need to understand what comes next. We will review the water-loss history and explain the separate remediation decisions before repairs continue.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage begins with the earlier record",
+        "text": "Extraction invoices, repair photographs, and drying information can help establish what was already addressed. We will review those materials alongside the current condition without treating an old cleanup record as proof of the whole concealed area\u2019s status. Missing information will be identified rather than replaced with an assumed history."
+      },
+      {
+        "title": "A new scope needs its own boundaries",
+        "text": "The areas affected by suspected growth may not match the original puddle or the first removal opening. We will explain how the proposed work boundary is established from the available assessment and accessible findings. That scope will distinguish remediation from additional water cleanup, source correction, and later reconstruction."
+      },
+      {
+        "title": "Coordinate an interrupted repair project",
+        "text": "If a flooring installer or remodeling contractor has already scheduled work, the remaining remediation decisions need to be shared before finishes go in. We will describe the work status and provider responsibilities so the sequence is clear. Delaying an installation may be necessary where an unresolved condition would otherwise be enclosed."
+      },
+      {
+        "title": "Understand what completion means for this stage",
+        "text": "We will record the remediation progress and explain any applicable independent assessment or clearance arrangements. Those services are separate from the removal and cleaning work. The handoff to repairs will identify outstanding tasks and the responsible provider rather than imply that appearance alone establishes the entire project is ready to close."
+      }
+    ],
+    "estimate": "Previously opened assemblies, new growth concerns, access limits, and the completeness of source repair influence the proposal. We will state which work belongs to remediation and which decisions remain with another provider, including any reconstruction already planned or partially completed.",
+    "checklist": [
+      "Share previous cleanup and drying records if available.",
+      "Explain when the new concern appeared relative to the original leak.",
+      "Tell us whether repair materials or installers are already scheduled."
+    ]
+  },
+  "mold-removal-behind-drywall/fort-worth": {
+    "intro": "Mold removal behind drywall in Fort Worth helps when a repair opening reveals growth on the back of the wall or material inside the cavity. The painted side may have looked ordinary before the finish was removed. We will discuss the exposed condition, moisture source, and controlled access needed for the responsible provider to define the remediation scope.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall starts with the exposed assembly",
+        "text": "Photographs of the opening can help prepare for evaluation, but they do not establish the condition of every neighboring cavity. We will review available assessment information and accessible findings before explaining the proposed boundary. The plan will identify areas not yet evaluated and what further access would be intended to establish."
+      },
+      {
+        "title": "Opening a wall affects more than drywall",
+        "text": "Insulation, trim, attached cabinets, wiring, and plumbing may be present in the same work area. We will distinguish remediation access from tasks that require a separate trade or provider. Proposed removal should explain which layers are involved and why, rather than turn a concealed-growth concern into an undefined demolition job."
+      },
+      {
+        "title": "Keep the work-zone arrangement understandable",
+        "text": "The agreed plan will address how the affected space is separated and how materials are handled during removal and cleaning. We will discuss access needs for occupants and the location of belongings near the wall. Changes to the opening or scope will be explained as findings develop instead of left for the reconstruction stage to discover."
+      },
+      {
+        "title": "Review the cavity before closing it",
+        "text": "We will document the work status and explain the remaining moisture, source-repair, or applicable independent clearance steps. Replacing insulation and drywall should follow that review. The repair provider will have a clear account of completed work and outstanding conditions, without an unsupported guarantee about areas that remained inaccessible."
+      }
+    ],
+    "estimate": "The number of affected cavities, attachment of surrounding finishes, utility access, and assessment scope affect the estimate. We will distinguish removal and cleaning from trade disconnections, independent services, and the insulation and drywall installation that may follow.",
+    "checklist": [
+      "Describe how the opening was made and what it revealed.",
+      "Mention pipes, wiring, or built-ins within the work area.",
+      "Share existing assessment information and known source repairs."
+    ]
+  },
+  "kitchen-fire-cleanup/fort-worth": {
+    "intro": "Kitchen fire cleanup in Fort Worth helps when a cooking fire has left residue on cabinets and walls even though the visible flames were limited to one area. You may be unsure which belongings to keep and whether the rest of the room can be cleaned. We will evaluate the accessible damage and explain cleaning, removal, and repair decisions separately.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup beyond the most damaged surface",
+        "text": "Heat damage around the source and smoke residue farther away do not necessarily require the same treatment. We will document the accessible surfaces and contents proposed for evaluation. The first scope will distinguish immediate protection or debris needs from detailed cleaning rather than describe everything under one general restoration charge."
+      },
+      {
+        "title": "Cabinet finishes influence cleaning choices",
+        "text": "Painted, coated, and unfinished materials can respond differently to a cleaning process. We will assess their condition and explain the approach proposed for the affected surfaces. Permanent damage or material that is not a suitable cleaning candidate will be identified without promising that every cabinet can be returned to its previous appearance."
+      },
+      {
+        "title": "Plan around appliances and food-storage areas",
+        "text": "Appliances, stored food, cookware, and items within cabinets may require different handling decisions. We will discuss what belongs in the restoration scope and what needs evaluation by another provider. Appliance servicing or a decision about a specific item should not be assumed simply because the surrounding room has been cleaned."
+      },
+      {
+        "title": "Reconstruction follows the complete condition review",
+        "text": "Firefighting water or damaged material behind a removed cabinet can add a separate restoration need. We will record progress and explain what remains before replacement finishes or cabinetry are installed. The repair plan can then reflect the cleaned and exposed condition, including unresolved source, trade, or material issues."
+      }
+    ],
+    "estimate": "The extent of residue, heat damage, contents handling, and access behind installations influence the estimate. We will identify the proposed cleaning areas and separate appliance evaluation, demolition, replacement cabinetry, and other reconstruction items from the agreed cleanup stage.",
+    "checklist": [
+      "Describe the fire source and rooms with visible residue.",
+      "Mention water or extinguisher material used during the response.",
+      "Identify appliances and cabinets that restrict access to damaged surfaces."
+    ]
+  },
+  "smoke-damage-cleanup/fort-worth": {
+    "intro": "Smoke damage cleanup in Fort Worth helps when residue and odor remain in rooms that were never directly burned. You may find a film on shelving or notice the smell again after a room has been wiped down. We will review affected surfaces and accessible materials to explain a cleaning scope that addresses the observed condition rather than only the most noticeable smell.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup needs an affected-area inventory",
+        "text": "We will record the rooms and surfaces included in the evaluation, along with access limitations behind furnishings or inside enclosed spaces. A room-by-room description helps separate areas needing work from those not established as affected. Findings elsewhere in the property will be discussed before the cleaning boundary is expanded."
+      },
+      {
+        "title": "Residue and odor are related but different concerns",
+        "text": "A visible surface deposit provides one kind of evidence; a reported odor raises questions about the materials and spaces involved. We will explain which surfaces are proposed for cleaning and which need further evaluation. The plan will not rely on masking an odor as a substitute for addressing identified affected materials."
+      },
+      {
+        "title": "Belongings and installed finishes may follow separate paths",
+        "text": "Walls, upholstered items, cabinets, and electronics have different handling and evaluation needs. We will identify what belongs within the agreed building-cleanup scope and what requires a contents decision or another provider. That distinction prevents a general room-cleaning proposal from implying that every stored item has been assessed."
+      },
+      {
+        "title": "Review the result before moving into repair work",
+        "text": "We will explain completed cleaning, remaining concerns, and any proposed removal or further work. Where fire damage or firefighting water is also present, those dependencies will be included in the status discussion. Reconstruction should be planned with that information rather than based on a single favorable first impression after cleaning."
+      }
+    ],
+    "estimate": "The affected material types, spread of residue, contents movement, and inaccessible surfaces determine the scope. We will outline the intended cleaning areas and explain additional evaluation or replacement needs separately, without promising universal odor or appearance outcomes.",
+    "checklist": [
+      "List rooms with residue, odor, or both.",
+      "Tell us what cleaning has already been attempted.",
+      "Identify belongings that need a separate handling decision."
+    ]
+  },
+  "toilet-overflow-cleanup/fort-worth": {
+    "intro": "Toilet overflow cleanup in Fort Worth helps when water from the bathroom has crossed a threshold and reached carpet, trim, or another room. The toilet may have stopped overflowing while affected materials remain in place. We will clarify the reported incident, review where the water traveled, and explain the cleanup scope alongside the separate plumbing repair.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup starts with the incident details",
+        "text": "A supply-line leak and wastewater coming from a backed-up fixture are not interchangeable descriptions. We will ask what happened and record any uncertainty rather than decide the water condition from the room name alone. That information helps establish the appropriate evaluation and the work proposed for the affected materials."
+      },
+      {
+        "title": "The threshold is not always the end of the damage",
+        "text": "Water can pass beneath a door or into carpet padding while the bathroom floor is being addressed. We will review accessible adjoining areas and explain any additional access needed to assess the material layers. The scope will identify what is included instead of stopping at the most visible wet surface."
+      },
+      {
+        "title": "Clearing the fixture leaves restoration decisions",
+        "text": "The plumbing provider\u2019s work addresses the source or obstruction. We will explain removal, cleaning, and drying tasks for the property and coordinate their timing with the status of that repair. A functioning toilet does not on its own establish whether the nearby wall base, floor covering, or stored belongings can remain."
+      },
+      {
+        "title": "Establish the repair handoff clearly",
+        "text": "We will record cleanup progress and explain the condition of retained materials. Where further removal, drying, or a separate mold-related evaluation is needed, that will be stated before replacement finishes are scheduled. The next provider will have a description of outstanding work rather than an assumption that a dry-looking room is finished."
+      }
+    ],
+    "estimate": "The reported water condition, spread into adjoining rooms, flooring layers, and access to affected materials influence the estimate. Plumbing service, replacement flooring, and reconstruction will be distinguished from the cleanup proposal so their responsibilities and costs can be understood.",
+    "checklist": [
+      "Explain whether the water came from the bowl or a supply connection.",
+      "Mention carpet or rooms outside the bathroom that became wet.",
+      "Share the plumber\u2019s findings and repair status."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/fort-worth": {
+    "intro": "AC leak water damage cleanup in Fort Worth helps when a cooling-system leak has left a wet ceiling, damp closet, or damaged wall around the installation. You may have an HVAC appointment arranged while the surrounding materials still need restoration. We will review the accessible water damage and explain the building cleanup that follows or accompanies the equipment repair.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup is separate from HVAC servicing",
+        "text": "We will establish what the HVAC provider has found and whether the source remains active. Our restoration discussion concerns the affected building materials and the access required to work on them. Equipment diagnosis, drain correction, or system reconnection should be identified as separate responsibilities rather than implied by the cleanup service."
+      },
+      {
+        "title": "Use the installation location to plan evaluation",
+        "text": "A unit above a ceiling, beside a wall, or within a utility closet creates different inspection limits. We will document accessible surfaces and describe the areas obscured by equipment or fixed finishes. That record supports a proposed scope based on observed damage while retaining uncertainty about assemblies that have not been opened."
+      },
+      {
+        "title": "Repeated wetting can change material decisions",
+        "text": "Let us know whether this is the first incident or one of several leaks near the same installation. We will review the reported history and current condition before explaining cleaning, drying, or removal. Suspected growth calls for its own scope discussion and appropriate provider coordination, not an assumption that routine water cleanup resolves it."
+      },
+      {
+        "title": "Coordinate enclosure repairs with service access",
+        "text": "Before a ceiling or closet wall is rebuilt, we will explain the restoration status and outstanding dependencies. The HVAC provider may still need access to complete or evaluate the source repair. Progress documentation will help coordinate that need with drying and any proposed replacement of the affected finishes."
+      }
+    ],
+    "estimate": "Equipment location, overhead access, enclosed materials, and the status of the HVAC repair influence timing and cost. We will separate building-restoration work from system servicing and identify additional evaluation required where the installation prevents access to suspected wet areas.",
+    "checklist": [
+      "Identify where the cooling equipment and visible damage are located.",
+      "Share the HVAC provider\u2019s current findings.",
+      "Mention previous leaks at the same installation."
+    ]
+  },
+  "crawl-space-water-removal/fort-worth": {
+    "intro": "Crawl space water removal in Fort Worth helps when water is present beneath the building and the access opening gives you only a partial view. You may be trying to arrange plumbing repairs or determine whether materials above the water are also affected. We will evaluate accessible conditions and explain the removal plan before treating the visible water as the whole problem.",
+    "sections": [
+      {
+        "title": "Crawl space water removal depends on workable access",
+        "text": "The opening size, route to the affected area, and visible obstructions influence how the work can be organized. We will establish the accessible extent rather than imply that every portion beneath the building has been inspected. Any condition preventing entry or equipment placement will be identified before proceeding with the proposed task."
+      },
+      {
+        "title": "Record the source question alongside the water",
+        "text": "A known plumbing leak and water with an unidentified source require different coordination. We will document what has been reported and explain which source decisions belong to another provider. If the condition suggests a wastewater concern, the scope will be reconsidered appropriately rather than handled as ordinary water removal without evaluation."
+      },
+      {
+        "title": "Look beyond the lowest visible area",
+        "text": "Insulation, supports, stored material, or surfaces above the water may need a separate condition review. We will describe which materials can be evaluated during the visit and whether additional access is proposed. Removal of standing water will not be presented as proof that every surrounding assembly has dried or needs no further work."
+      },
+      {
+        "title": "Plan the follow-up beneath the building",
+        "text": "We will record completed removal and explain remaining moisture or material concerns. Source correction, further drying, debris handling, or a distinct mold scope may need coordination before the project proceeds. The next step will be tied to the recorded condition, without promising that one visit permanently prevents future water entry."
+      }
+    ],
+    "estimate": "Access dimensions, travel beneath the structure, water location, and affected materials influence the estimate. We will distinguish the extraction task from plumbing, drainage changes, structural work, and any additional cleanup identified after the water has been removed.",
+    "checklist": [
+      "Describe the access opening and obstacles you know about.",
+      "Tell us whether a plumber has identified an active source.",
+      "Mention any material or odor concerns along with the visible water."
+    ]
+  },
+  "attic-mold-remediation/fort-worth": {
+    "intro": "Attic mold remediation in Fort Worth helps when growth is found on material above the ceiling during a roof repair, inspection, or other work. You may have photographs but no clear plan for the affected decking, framing, or insulation. We will review the available information and explain access, source coordination, and the provider scope before the next work is arranged.",
+    "sections": [
+      {
+        "title": "Attic mold remediation starts with the accessible finding",
+        "text": "An image of one roof section does not establish the condition of every enclosed or obstructed area. We will discuss the location shown, available assessment information, and practical access to the reported material. The scope will state what has been evaluated and what needs another step before work can be defined."
+      },
+      {
+        "title": "Coordinate the moisture explanation with the appropriate provider",
+        "text": "Roof-related water entry, equipment concerns, and other moisture observations may require different expertise. We will record the available findings without assigning a cause from the appearance of the growth alone. The remediation sequence will identify source work already completed and any unresolved dependency that should be addressed before repairs conceal the area."
+      },
+      {
+        "title": "Plan material handling around the space",
+        "text": "Insulation and stored belongings can restrict access to affected surfaces or require their own handling decisions. We will explain the proposed work zone, material removal where applicable, and the separation arrangements in the agreed plan. Entry conditions and the route through the occupied building will be part of that discussion."
+      },
+      {
+        "title": "Keep remediation and roof replacement distinct",
+        "text": "The provider responsible for removal and cleaning will be identified before work starts. We will document progress and explain remaining tasks, including applicable independent assessment or clearance. Roofing, insulation installation, and finish repairs should then proceed with a clear understanding of which remediation tasks are complete and which conditions still need attention."
+      }
+    ],
+    "estimate": "Accessible height, obstructions, affected surface area, insulation handling, and assessment requirements shape the proposal. We will distinguish remediation from source repairs or replacement assemblies and explain how uninspected spaces could require additional evaluation before the final scope is settled.",
+    "checklist": [
+      "Share photographs with the location identified if possible.",
+      "Tell us who discovered the concern and what work was underway.",
+      "Describe the attic opening and stored items affecting access."
+    ]
+  },
+  "crawl-space-mold-remediation/fort-worth": {
+    "intro": "Crawl space mold remediation in Fort Worth helps when an inspection or repair exposes growth beneath the floor and you need to understand the next step. Water may already have been removed while affected insulation or framing remains. We will review the reported condition and explain the access, material, and source-repair decisions that shape the responsible provider\u2019s scope.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation needs a defined inspection boundary",
+        "text": "The distance that can be reached from an access opening may limit what is known about the affected area. We will distinguish inspected surfaces from portions blocked by obstructions or other conditions. The proposed work will identify the basis for its boundary and any further evaluation needed instead of assuming every underside surface has the same condition."
+      },
+      {
+        "title": "Water control and remediation belong in one sequence",
+        "text": "A plumbing repair or another source-control task may need to precede or accompany the removal work. We will explain those dependencies using the findings available from the relevant provider. Remediation of affected materials will not be presented as a permanent solution to water entry that has not yet been addressed."
+      },
+      {
+        "title": "Insulation and exposed surfaces require separate decisions",
+        "text": "Material that prevents access to an affected surface may need handling even when it is not the original reason for the visit. We will explain proposed removal, cleaning, and retained-material decisions within the agreed scope. The plan will also address the route used to move material out of the space beneath the building."
+      },
+      {
+        "title": "Provide a clear status for subsequent repairs",
+        "text": "We will record the progress and describe outstanding moisture or material concerns. Any applicable independent assessment or clearance remains distinct from the remediation provider\u2019s work. Replacement insulation or other repairs should be coordinated from that status rather than installed simply because the visible removal stage is complete."
+      }
+    ],
+    "estimate": "Travel beneath the floor, access restrictions, material handling, and the defined remediation boundary affect both cost and scheduling. The proposal will separate source repair, structural work, independent services, and replacement materials from the removal and cleaning stage.",
+    "checklist": [
+      "Provide the inspection report or photographs that identified the issue.",
+      "Mention recent water removal or plumbing repairs beneath the building.",
+      "Describe entry points and known obstructions."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/fort-worth": {
+    "intro": "Mold contaminated contents cleaning in Fort Worth helps when belongings from a damp or affected room need decisions before they are moved back into use. You may be sorting furniture, stored household items, and boxes without knowing what can reasonably be evaluated for cleaning. We will establish the proposed inventory and explain item-specific handling rather than promise recovery of everything in the room.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning starts with an item record",
+        "text": "We will discuss which belongings are included and record their condition and location as appropriate to the agreed scope. Similar-looking items may contain different materials or have different levels of damage. An inventory helps keep the cleaning decision attached to the correct item instead of treating a whole room of contents as interchangeable."
+      },
+      {
+        "title": "Material and condition guide the recovery discussion",
+        "text": "Hard surfaces, porous material, coatings, and complex assemblies pose different evaluation questions. We will identify what is proposed for cleaning and what needs a specialist or may not be a suitable recovery candidate. The decision will be explained before assuming that an item can be restored because its exterior can be wiped."
+      },
+      {
+        "title": "Coordinate handling with building remediation",
+        "text": "Belongings may need to be separated from the affected work area while the room itself is addressed. We will clarify who is responsible for moving, labeling, cleaning, and any storage arrangements included in the proposal. Those tasks should not be presumed to be part of a building-remediation estimate unless they are actually specified."
+      },
+      {
+        "title": "Returning items requires a room-status decision too",
+        "text": "We will record the contents work and explain any remaining item concerns. Returning cleaned belongings should be coordinated with the condition of the receiving space and the status of the building work. Specialist assessments or separate remediation services will remain identifiable so an item\u2019s handling record is not mistaken for clearance of the whole property."
+      }
+    ],
+    "estimate": "Inventory size, material types, handling arrangements, and specialist needs influence the estimate. We will explain proposed cleaning, movement, and storage separately where applicable and identify decisions that need your approval before additional items are added to the scope.",
+    "checklist": [
+      "Describe the kinds of belongings and their exposure history.",
+      "Identify important items needing a specific decision.",
+      "Tell us where items are currently stored and whether building work is underway."
+    ]
+  },
+  "fire-damaged-debris-removal/fort-worth": {
+    "intro": "Fire damaged debris removal in Fort Worth helps when damaged material is blocking cleanup or the next inspection after a fire. You may need a clear distinction between loose debris, belongings awaiting a decision, and building material that should not be removed without further review. We will define the agreed removal scope and access arrangements before material is taken out.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal needs authorization and boundaries",
+        "text": "We will review the accessible work area and identify the materials proposed for removal. Entry authorization and relevant evaluation findings matter before work in a fire-damaged building proceeds. The plan will distinguish debris handling from structural demolition or specialist tasks that require their own scope and provider decisions."
+      },
+      {
+        "title": "Keep undecided belongings out of an automatic disposal list",
+        "text": "Some items may be clearly designated for removal while others await an owner, insurer, or specialist review. We will discuss those categories and the documentation expected for the agreed work. A debris-removal visit should not become an unrecorded decision about the recovery potential of every remaining belonging."
+      },
+      {
+        "title": "Plan the route through the property",
+        "text": "The work area, exit route, and handling space can affect the surrounding rooms and ongoing restoration tasks. We will discuss access restrictions and coordination with other providers before the removal stage. Where a surface or assembly is inaccessible, the condition record will identify that limit rather than presume what lies behind the debris."
+      },
+      {
+        "title": "Use the exposed condition to plan the next stage",
+        "text": "Once the agreed material is removed, previously obscured areas may require evaluation for smoke residue, moisture, or repair needs. We will explain those findings and any proposed follow-up rather than call debris removal complete restoration. Reconstruction planning should follow the remaining cleanup and condition review appropriate to the project."
+      }
+    ],
+    "estimate": "Material volume, handling routes, sorting requirements, and the approved removal boundary affect cost. The estimate will identify the agreed task and separate additional demolition, contents recovery, specialist evaluation, and reconstruction work that may be needed afterward.",
+    "checklist": [
+      "Tell us whether access to the building has been authorized.",
+      "Identify items awaiting a decision before disposal.",
+      "Share existing damage evaluations and the proposed work area."
+    ]
+  },
+  "fire-damaged-contents-cleaning/fort-worth": {
+    "intro": "Fire damaged contents cleaning in Fort Worth helps when smoke-affected belongings remain after a fire and you need item-by-item decisions. Furniture, household items, and stored possessions may look similar at first glance but need different handling. We will organize the agreed inventory, discuss cleaning candidates, and explain where specialist evaluation or replacement decisions fall outside the proposed work.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning begins before items are mixed together",
+        "text": "We will establish which contents are included and how their condition and location will be recorded. Separating items awaiting evaluation from those approved for cleaning helps preserve a usable decision trail. Any movement or packing arrangement will be explained rather than assumed to be included in the building-cleanup scope."
+      },
+      {
+        "title": "Consider heat, residue, and water exposure separately",
+        "text": "An item may have smoke deposits without direct heat damage, or it may also have been soaked during the response. We will review the condition relevant to each proposed cleaning candidate. Appearance alone will not be used to guarantee recovery or establish that a complex item is suitable for use after surface cleaning."
+      },
+      {
+        "title": "Specialist items need an explicit responsibility",
+        "text": "Electronics, delicate pieces, documents, and other unusual materials may need evaluation beyond the general contents scope. We will identify those decisions and clarify the responsible provider before they are handled as routine cleaning. That keeps the inventory useful without making unsupported promises about restoration methods or outcomes for every type of possession."
+      },
+      {
+        "title": "Coordinate return with the building\u2019s condition",
+        "text": "We will explain the contents-cleaning status and any unresolved item concerns. The return arrangement should account for continued soot removal, drying, or reconstruction in the receiving room. A completed contents task does not mean the surrounding property is finished, so the work handoff will distinguish those stages."
+      }
+    ],
+    "estimate": "The number and type of items, exposure conditions, inventory requirements, and handling or storage arrangements influence the proposal. We will identify included tasks and clarify specialist services or additional movement before expanding the agreed contents work.",
+    "checklist": [
+      "Describe item types and any known heat or water exposure.",
+      "Identify belongings with an immediate handling decision.",
+      "Tell us whether the property is ready to receive cleaned items."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/fort-worth": {
+    "intro": "Fire extinguisher residue cleanup in Fort Worth helps when an extinguisher has left material across the room after a small fire or discharge. You may see deposits inside open cabinets or around equipment and need more than a quick surface wipe. We will review the product information available and explain a cleanup scope suited to the affected surfaces and access.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup starts with identifying the material",
+        "text": "Different extinguisher products should not be treated as though the deposited material is identical. Share a photograph of the label or available product information so the proposed approach can be evaluated accordingly. We will record what is known and identify any uncertainty that requires further information before the work method is settled."
+      },
+      {
+        "title": "Map where residue actually reached",
+        "text": "A visible pile near the discharge point may not describe deposits on nearby shelves, inside open storage, or behind movable items. We will review accessible surfaces and establish the proposed cleaning boundary. Enclosed equipment or inaccessible cavities will be identified separately rather than assumed to have been evaluated during room cleanup."
+      },
+      {
+        "title": "Separate equipment decisions from surface cleaning",
+        "text": "Electrical items, appliances, and other complex assemblies may need a qualified service provider to evaluate their condition. We will distinguish those responsibilities from cleaning the surrounding building finishes. Removing visible deposits will not be presented as a guarantee that an appliance or device has been assessed or is ready to operate."
+      },
+      {
+        "title": "Address related fire damage as a distinct concern",
+        "text": "Heat damage, soot, and water may remain even after extinguisher residue is removed. We will explain those observed conditions and any additional proposed work before calling the room ready for repair. The completion record will make clear which material and surfaces the agreed cleanup actually covered."
+      }
+    ],
+    "estimate": "The identified product, spread of deposits, surface materials, and access to storage or installations shape the estimate. Specialist equipment servicing, fire-damage repairs, and additional contents handling will be distinguished from the proposed residue-cleaning tasks.",
+    "checklist": [
+      "Provide the extinguisher label or product information if available.",
+      "Describe open cabinets, equipment, or belongings near the discharge.",
+      "Mention other fire-response materials or water used in the same area."
+    ]
+  },
+  "emergency-board-up-after-fire/fort-worth": {
+    "intro": "Emergency board up after fire in Fort Worth helps when damaged windows, doors, or other openings leave the property exposed after the response. You may need temporary protection while an evaluation and repair plan are arranged. We will review authorized access and the openings that can be addressed, then explain the temporary work without confusing it with structural repair or permanent reconstruction.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire has a specific protective purpose",
+        "text": "The proposed work will identify the openings included and the temporary arrangement appropriate to their condition. It does not establish that the whole building is ready for occupancy or that structural damage has been resolved. Those determinations require the relevant evaluation and should remain separate from a board-up completion record."
+      },
+      {
+        "title": "Confirm access before organizing the work",
+        "text": "We will establish who can authorize the task and whether the property is available for the proposed access. Fire-damaged surrounding material may affect where temporary protection can be installed. Conditions preventing the agreed approach will be explained rather than worked around without a clear decision from the responsible parties."
+      },
+      {
+        "title": "Keep entry arrangements usable for the next providers",
+        "text": "Inspectors, cleanup crews, owners, or managers may still need a controlled way to enter the building. We will discuss that practical need alongside the openings being protected. The plan should account for the expected next visit so temporary protection does not leave later access responsibilities undefined."
+      },
+      {
+        "title": "Record what remains for permanent repairs",
+        "text": "We will document the openings addressed and explain limitations or tasks outside the board-up scope. Window or door replacement, damaged framing, cleanup, and other reconstruction decisions remain separate stages. If a temporary arrangement needs to change as the restoration work proceeds, the reason and scope will be discussed with the approving contact."
+      }
+    ],
+    "estimate": "Opening size and condition, accessible working height, material attachment, and entry coordination influence the estimate. The proposal will separate temporary protection from demolition, replacement assemblies, and structural or specialist work needed to complete the building repair.",
+    "checklist": [
+      "Identify damaged openings and provide photographs if available.",
+      "Tell us who controls access and authorizes the work.",
+      "Mention inspections or restoration visits already being arranged."
+    ]
+  },
+  "crawl-space-sewage-cleanup/fort-worth": {
+    "intro": "Crawl space sewage cleanup in Fort Worth helps when a wastewater leak beneath the building has affected an area that cannot be treated as an ordinary puddle. A plumber may be repairing the line while contaminated water or material remains around it. We will review the accessible condition and explain the cleanup sequence, material decisions, and coordination needed before follow-up repairs.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup needs both source and access information",
+        "text": "We will establish what the plumbing provider has identified and whether the release continues. The opening and route beneath the structure determine which areas can be evaluated or reached for work. The proposed scope will state those limits rather than imply that a partial view establishes the condition of the full crawl space."
+      },
+      {
+        "title": "Track affected material beyond the pipe location",
+        "text": "Wastewater may reach insulation, debris, or other material away from the failed connection. We will describe accessible findings and explain removal or cleaning decisions for the identified areas. Material that obscures the surface below it can create an additional evaluation need, which will be discussed before the scope is expanded."
+      },
+      {
+        "title": "Coordinate removal with the plumbing repair",
+        "text": "The line repair and the surrounding cleanup are separate tasks, even when they use the same access route. We will explain the intended sequence and the person responsible for each stage. A completed plumbing invoice will not be treated as confirmation that the affected building materials have also been addressed."
+      },
+      {
+        "title": "Review remaining conditions before replacing materials",
+        "text": "We will record progress and explain outstanding cleaning, drying, or material concerns. If visible growth or another condition requires a distinct evaluation or provider scope, that will be identified. Replacement insulation and other repairs should follow the documented status rather than proceed as soon as standing wastewater is no longer visible."
+      }
+    ],
+    "estimate": "Working clearance, distance from the entry, affected material handling, and source-repair timing shape the proposal. We will distinguish wastewater cleanup from plumbing, structural repairs, replacement insulation, and any separate remediation or assessment services required for the remaining conditions.",
+    "checklist": [
+      "Share the plumber\u2019s findings and current repair status.",
+      "Describe entry clearance and known affected materials.",
+      "Tell us whether other work beneath the building is scheduled."
+    ]
+  }
+}

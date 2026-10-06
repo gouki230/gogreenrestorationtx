@@ -1,0 +1,1245 @@
+{
+  "cities": 206,
+  "city_hubs": 206,
+  "main_service_pages": 1030,
+  "subservice_pages": 4944,
+  "errors": [],
+  "coverage": [
+    {
+      "city": "Addison",
+      "hub": "/locations/dfw-metro/addison/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Aledo",
+      "hub": "/locations/dfw-metro/aledo/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Allen",
+      "hub": "/locations/dfw-metro/allen/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Alma",
+      "hub": "/locations/dfw-metro/alma/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Alvarado",
+      "hub": "/locations/dfw-metro/alvarado/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Alvord",
+      "hub": "/locations/dfw-metro/alvord/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Anna",
+      "hub": "/locations/dfw-metro/anna/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Annetta",
+      "hub": "/locations/dfw-metro/annetta/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Annetta North",
+      "hub": "/locations/dfw-metro/annetta-north/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Annetta South",
+      "hub": "/locations/dfw-metro/annetta-south/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Argyle",
+      "hub": "/locations/dfw-metro/argyle/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Arlington",
+      "hub": "/locations/dfw-metro/arlington/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Aubrey",
+      "hub": "/locations/dfw-metro/aubrey/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Aurora",
+      "hub": "/locations/dfw-metro/aurora/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Azle",
+      "hub": "/locations/dfw-metro/azle/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Balch Springs",
+      "hub": "/locations/dfw-metro/balch-springs/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Bardwell",
+      "hub": "/locations/dfw-metro/bardwell/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Bartonville",
+      "hub": "/locations/dfw-metro/bartonville/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Bedford",
+      "hub": "/locations/dfw-metro/bedford/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Benbrook",
+      "hub": "/locations/dfw-metro/benbrook/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Blue Mound",
+      "hub": "/locations/dfw-metro/blue-mound/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Blue Ridge",
+      "hub": "/locations/dfw-metro/blue-ridge/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Boyd",
+      "hub": "/locations/dfw-metro/boyd/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Briaroaks",
+      "hub": "/locations/dfw-metro/briaroaks/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Bridgeport",
+      "hub": "/locations/dfw-metro/bridgeport/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Burleson",
+      "hub": "/locations/dfw-metro/burleson/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Caddo Mills",
+      "hub": "/locations/dfw-metro/caddo-mills/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Campbell",
+      "hub": "/locations/dfw-metro/campbell/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Carrollton",
+      "hub": "/locations/dfw-metro/carrollton/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Cedar Hill",
+      "hub": "/locations/dfw-metro/cedar-hill/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Celeste",
+      "hub": "/locations/dfw-metro/celeste/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Celina",
+      "hub": "/locations/dfw-metro/celina/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Chico",
+      "hub": "/locations/dfw-metro/chico/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Cleburne",
+      "hub": "/locations/dfw-metro/cleburne/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Cockrell Hill",
+      "hub": "/locations/dfw-metro/cockrell-hill/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Colleyville",
+      "hub": "/locations/dfw-metro/colleyville/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Combine",
+      "hub": "/locations/dfw-metro/combine/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Commerce",
+      "hub": "/locations/dfw-metro/commerce/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Cool",
+      "hub": "/locations/dfw-metro/cool/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Coppell",
+      "hub": "/locations/dfw-metro/coppell/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Copper Canyon",
+      "hub": "/locations/dfw-metro/copper-canyon/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Corinth",
+      "hub": "/locations/dfw-metro/corinth/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Corral City",
+      "hub": "/locations/dfw-metro/corral-city/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Cottonwood",
+      "hub": "/locations/dfw-metro/cottonwood/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Coyote Flats",
+      "hub": "/locations/dfw-metro/coyote-flats/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Crandall",
+      "hub": "/locations/dfw-metro/crandall/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Cresson",
+      "hub": "/locations/dfw-metro/cresson/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Cross Roads",
+      "hub": "/locations/dfw-metro/cross-roads/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Cross Timber",
+      "hub": "/locations/dfw-metro/cross-timber/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Crowley",
+      "hub": "/locations/dfw-metro/crowley/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Dallas",
+      "hub": "/locations/dfw-metro/dallas/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Dalworthington Gardens",
+      "hub": "/locations/dfw-metro/dalworthington-gardens/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Decatur",
+      "hub": "/locations/dfw-metro/decatur/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Dennis",
+      "hub": "/locations/dfw-metro/dennis/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Denton",
+      "hub": "/locations/dfw-metro/denton/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "DeSoto",
+      "hub": "/locations/dfw-metro/desoto/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "DISH",
+      "hub": "/locations/dfw-metro/dish/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Double Oak",
+      "hub": "/locations/dfw-metro/double-oak/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Duncanville",
+      "hub": "/locations/dfw-metro/duncanville/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Edgecliff Village",
+      "hub": "/locations/dfw-metro/edgecliff-village/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Ennis",
+      "hub": "/locations/dfw-metro/ennis/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Euless",
+      "hub": "/locations/dfw-metro/euless/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Everman",
+      "hub": "/locations/dfw-metro/everman/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Fairview",
+      "hub": "/locations/dfw-metro/fairview/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Farmers Branch",
+      "hub": "/locations/dfw-metro/farmers-branch/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Farmersville",
+      "hub": "/locations/dfw-metro/farmersville/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Fate",
+      "hub": "/locations/dfw-metro/fate/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Ferris",
+      "hub": "/locations/dfw-metro/ferris/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Flower Mound",
+      "hub": "/locations/dfw-metro/flower-mound/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Forest Hill",
+      "hub": "/locations/dfw-metro/forest-hill/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Forney",
+      "hub": "/locations/dfw-metro/forney/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Fort Worth",
+      "hub": "/locations/dfw-metro/fort-worth/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Frisco",
+      "hub": "/locations/dfw-metro/frisco/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Garland",
+      "hub": "/locations/dfw-metro/garland/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Garrett",
+      "hub": "/locations/dfw-metro/garrett/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Glenn Heights",
+      "hub": "/locations/dfw-metro/glenn-heights/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Godley",
+      "hub": "/locations/dfw-metro/godley/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Grand Prairie",
+      "hub": "/locations/dfw-metro/grand-prairie/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Grandview",
+      "hub": "/locations/dfw-metro/grandview/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Grapevine",
+      "hub": "/locations/dfw-metro/grapevine/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Grays Prairie",
+      "hub": "/locations/dfw-metro/grays-prairie/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Greenville",
+      "hub": "/locations/dfw-metro/greenville/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Hackberry",
+      "hub": "/locations/dfw-metro/hackberry/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Haltom City",
+      "hub": "/locations/dfw-metro/haltom-city/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Haslet",
+      "hub": "/locations/dfw-metro/haslet/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Hawk Cove",
+      "hub": "/locations/dfw-metro/hawk-cove/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Heath",
+      "hub": "/locations/dfw-metro/heath/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Hebron",
+      "hub": "/locations/dfw-metro/hebron/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Hickory Creek",
+      "hub": "/locations/dfw-metro/hickory-creek/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Highland Park",
+      "hub": "/locations/dfw-metro/highland-park/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Highland Village",
+      "hub": "/locations/dfw-metro/highland-village/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Hudson Oaks",
+      "hub": "/locations/dfw-metro/hudson-oaks/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Hurst",
+      "hub": "/locations/dfw-metro/hurst/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Hutchins",
+      "hub": "/locations/dfw-metro/hutchins/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Irving",
+      "hub": "/locations/dfw-metro/irving/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Italy",
+      "hub": "/locations/dfw-metro/italy/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Josephine",
+      "hub": "/locations/dfw-metro/josephine/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Joshua",
+      "hub": "/locations/dfw-metro/joshua/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Justin",
+      "hub": "/locations/dfw-metro/justin/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Kaufman",
+      "hub": "/locations/dfw-metro/kaufman/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Keene",
+      "hub": "/locations/dfw-metro/keene/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Keller",
+      "hub": "/locations/dfw-metro/keller/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Kemp",
+      "hub": "/locations/dfw-metro/kemp/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Kennedale",
+      "hub": "/locations/dfw-metro/kennedale/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Krugerville",
+      "hub": "/locations/dfw-metro/krugerville/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Krum",
+      "hub": "/locations/dfw-metro/krum/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lake Bridgeport",
+      "hub": "/locations/dfw-metro/lake-bridgeport/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lake Dallas",
+      "hub": "/locations/dfw-metro/lake-dallas/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lake Worth",
+      "hub": "/locations/dfw-metro/lake-worth/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lakeside",
+      "hub": "/locations/dfw-metro/lakeside/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lakewood Village",
+      "hub": "/locations/dfw-metro/lakewood-village/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lancaster",
+      "hub": "/locations/dfw-metro/lancaster/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lavon",
+      "hub": "/locations/dfw-metro/lavon/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lewisville",
+      "hub": "/locations/dfw-metro/lewisville/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Little Elm",
+      "hub": "/locations/dfw-metro/little-elm/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lone Oak",
+      "hub": "/locations/dfw-metro/lone-oak/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lowry Crossing",
+      "hub": "/locations/dfw-metro/lowry-crossing/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Lucas",
+      "hub": "/locations/dfw-metro/lucas/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Mabank",
+      "hub": "/locations/dfw-metro/mabank/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Mansfield",
+      "hub": "/locations/dfw-metro/mansfield/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Maypearl",
+      "hub": "/locations/dfw-metro/maypearl/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "McKinney",
+      "hub": "/locations/dfw-metro/mckinney/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "McLendon-Chisholm",
+      "hub": "/locations/dfw-metro/mclendon-chisholm/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Melissa",
+      "hub": "/locations/dfw-metro/melissa/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Mesquite",
+      "hub": "/locations/dfw-metro/mesquite/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Midlothian",
+      "hub": "/locations/dfw-metro/midlothian/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Milford",
+      "hub": "/locations/dfw-metro/milford/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Millsap",
+      "hub": "/locations/dfw-metro/millsap/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Mineral Wells",
+      "hub": "/locations/dfw-metro/mineral-wells/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Mobile City",
+      "hub": "/locations/dfw-metro/mobile-city/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Murphy",
+      "hub": "/locations/dfw-metro/murphy/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Nevada",
+      "hub": "/locations/dfw-metro/nevada/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "New Fairview",
+      "hub": "/locations/dfw-metro/new-fairview/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "New Hope",
+      "hub": "/locations/dfw-metro/new-hope/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Newark",
+      "hub": "/locations/dfw-metro/newark/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Neylandville",
+      "hub": "/locations/dfw-metro/neylandville/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "North Richland Hills",
+      "hub": "/locations/dfw-metro/north-richland-hills/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Northlake",
+      "hub": "/locations/dfw-metro/northlake/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Oak Grove",
+      "hub": "/locations/dfw-metro/oak-grove/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Oak Leaf",
+      "hub": "/locations/dfw-metro/oak-leaf/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Oak Point",
+      "hub": "/locations/dfw-metro/oak-point/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Oak Ridge",
+      "hub": "/locations/dfw-metro/oak-ridge/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Ovilla",
+      "hub": "/locations/dfw-metro/ovilla/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Palmer",
+      "hub": "/locations/dfw-metro/palmer/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Pantego",
+      "hub": "/locations/dfw-metro/pantego/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Paradise",
+      "hub": "/locations/dfw-metro/paradise/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Parker",
+      "hub": "/locations/dfw-metro/parker/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Peaster",
+      "hub": "/locations/dfw-metro/peaster/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Pecan Hill",
+      "hub": "/locations/dfw-metro/pecan-hill/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Pelican Bay",
+      "hub": "/locations/dfw-metro/pelican-bay/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Pilot Point",
+      "hub": "/locations/dfw-metro/pilot-point/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Plano",
+      "hub": "/locations/dfw-metro/plano/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Poetry",
+      "hub": "/locations/dfw-metro/poetry/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Ponder",
+      "hub": "/locations/dfw-metro/ponder/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Post Oak Bend",
+      "hub": "/locations/dfw-metro/post-oak-bend/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Princeton",
+      "hub": "/locations/dfw-metro/princeton/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Prosper",
+      "hub": "/locations/dfw-metro/prosper/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Providence Village",
+      "hub": "/locations/dfw-metro/providence-village/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Quinlan",
+      "hub": "/locations/dfw-metro/quinlan/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Red Oak",
+      "hub": "/locations/dfw-metro/red-oak/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Reno",
+      "hub": "/locations/dfw-metro/reno/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Rhome",
+      "hub": "/locations/dfw-metro/rhome/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Richardson",
+      "hub": "/locations/dfw-metro/richardson/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Richland Hills",
+      "hub": "/locations/dfw-metro/richland-hills/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Rio Vista",
+      "hub": "/locations/dfw-metro/rio-vista/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "River Oaks",
+      "hub": "/locations/dfw-metro/river-oaks/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Roanoke",
+      "hub": "/locations/dfw-metro/roanoke/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Rockwall",
+      "hub": "/locations/dfw-metro/rockwall/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Rosser",
+      "hub": "/locations/dfw-metro/rosser/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Rowlett",
+      "hub": "/locations/dfw-metro/rowlett/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Royse City",
+      "hub": "/locations/dfw-metro/royse-city/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Runaway Bay",
+      "hub": "/locations/dfw-metro/runaway-bay/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Sachse",
+      "hub": "/locations/dfw-metro/sachse/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Saginaw",
+      "hub": "/locations/dfw-metro/saginaw/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Sanctuary",
+      "hub": "/locations/dfw-metro/sanctuary/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Sanger",
+      "hub": "/locations/dfw-metro/sanger/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Sansom Park",
+      "hub": "/locations/dfw-metro/sansom-park/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Scurry",
+      "hub": "/locations/dfw-metro/scurry/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Seagoville",
+      "hub": "/locations/dfw-metro/seagoville/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Seven Points",
+      "hub": "/locations/dfw-metro/seven-points/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Shady Shores",
+      "hub": "/locations/dfw-metro/shady-shores/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Southlake",
+      "hub": "/locations/dfw-metro/southlake/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Springtown",
+      "hub": "/locations/dfw-metro/springtown/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "St. Paul",
+      "hub": "/locations/dfw-metro/st-paul/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Sunnyvale",
+      "hub": "/locations/dfw-metro/sunnyvale/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Talty",
+      "hub": "/locations/dfw-metro/talty/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Terrell",
+      "hub": "/locations/dfw-metro/terrell/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "The Colony",
+      "hub": "/locations/dfw-metro/the-colony/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Trophy Club",
+      "hub": "/locations/dfw-metro/trophy-club/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Union Valley",
+      "hub": "/locations/dfw-metro/union-valley/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "University Park",
+      "hub": "/locations/dfw-metro/university-park/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Van Alstyne",
+      "hub": "/locations/dfw-metro/van-alstyne/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Venus",
+      "hub": "/locations/dfw-metro/venus/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Watauga",
+      "hub": "/locations/dfw-metro/watauga/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Waxahachie",
+      "hub": "/locations/dfw-metro/waxahachie/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Weatherford",
+      "hub": "/locations/dfw-metro/weatherford/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "West Tawakoni",
+      "hub": "/locations/dfw-metro/west-tawakoni/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Westlake",
+      "hub": "/locations/dfw-metro/westlake/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Weston",
+      "hub": "/locations/dfw-metro/weston/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Westover Hills",
+      "hub": "/locations/dfw-metro/westover-hills/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Westworth Village",
+      "hub": "/locations/dfw-metro/westworth-village/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "White Settlement",
+      "hub": "/locations/dfw-metro/white-settlement/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Willow Park",
+      "hub": "/locations/dfw-metro/willow-park/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Wilmer",
+      "hub": "/locations/dfw-metro/wilmer/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Wolfe City",
+      "hub": "/locations/dfw-metro/wolfe-city/",
+      "main_services": 5,
+      "subservices": 24
+    },
+    {
+      "city": "Wylie",
+      "hub": "/locations/dfw-metro/wylie/",
+      "main_services": 5,
+      "subservices": 24
+    }
+  ]
+}

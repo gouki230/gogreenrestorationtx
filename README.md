@@ -15,7 +15,13 @@ Sister project to [gogreenrestorationinc](https://github.com/gouki230/gogreenres
 - **Phone:** (469) 727-3217
 - **GA4:** G-D00HT24X3E
 
-## Licensing & mold scope (IMPORTANT)
+## October 6 release scope
+
+The approved production subset is pinned in `src/data/expansion-release-manifest.json`. It contains 1,044 reviewed city hub/main pages, 2,328 compact city pages and 2,060 commercial city pages. Unapproved drafts remain excluded from ordinary builds. Creation is paused until October 13; do not publish additional records merely because their source files exist.
+
+Current licensing and partner wording is governed by `docs/seo/project-brief.md` (October 4 owner update), which supersedes the historical restriction below. Final release evidence is recorded in `docs/seo/verified-subset-release-report.md`.
+
+## Licensing & mold scope (historical baseline)
 - **No Texas mold remediation license.** Texas (TDLR) only allows non-licensed companies to clean up mold under **25 contiguous sq ft**. All mold copy is scoped to small-area cleanup + EPA Lead-Safe certification, and refers larger jobs to a TDLR-licensed remediator. Do **not** re-add "licensed mold remediation" claims.
 - **No statewide TX restoration/GC license exists** — the old `License #TODO` / "CSLB" placeholders were California artifacts and have been removed site-wide. Trust language is now "Bonded & insured · IICRC- & EPA Lead-Safe certified."
 - ✅ **`src/data/blog-articles.json` is fully DFW-localized** (750 articles, 30 DFW cities). The old LA dataset and its false California licensing claims are gone — zero CSLB references remain.

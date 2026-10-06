@@ -1,0 +1,686 @@
+{
+  "fire-damage-restoration": {
+    "dallas": {
+      "intro": "Commercial fire damage restoration in Dallas helps when a fire in one leased office leaves residue in adjoining suites and water around shared partitions. The burned space may have different entry restrictions from neighboring rooms. We will document permitted areas and separate fire, smoke, and drying tasks in the proposed building scope.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration between leased suites",
+          "paragraphs": [
+            "We will identify the tenant boundary, accessible smoke-marked finishes, and shared assemblies requiring further inspection. Conditions observed in an open corridor will not be used to assume the condition of a locked office."
+          ],
+          "bullets": [
+            "List suites with authorized entry.",
+            "Share building-inspection restrictions already issued."
+          ]
+        },
+        {
+          "heading": "Approvals for common and tenant materials",
+          "paragraphs": [
+            "The building representative will help establish who approves partition removal and who controls furnishings inside each suite. We will record those contacts before making changes that cross the original work boundary. Necessary utility or structural reviews remain with the relevant qualified providers."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Progress that supports the repair handoff",
+          "paragraphs": [
+            "Our updates will distinguish completed cleaning from finishes awaiting drying, specialist review, or removal approval. Findings and scope decisions go to the designated client contact; routine tenant notices use management-approved messaging and retain accurate required safety information."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Provide a suite map and entry permissions.",
+        "Identify owner and tenant approval contacts.",
+        "Share restrictions affecting common corridors."
+      ]
+    },
+    "fort-worth": {
+      "intro": "Commercial fire damage restoration in Fort Worth addresses smoke and water affecting a warehouse where product rows obscure walls and employees need controlled access to stock. Inventory can require assessment separate from the building finishes. We will define reachable restoration areas and coordinate movement through the authorized site contact.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration beside warehouse stock",
+          "paragraphs": [
+            "We will photograph accessible surfaces and record bays where stored goods prevent evaluation. Inventory handling will follow the owner’s instructions and relevant specialist advice; we will not treat a cleaned shelf as confirmation that its contents can return to sale."
+          ],
+          "bullets": [
+            "Identify restricted stock and damaged packaging.",
+            "Record aisle access before inventory relocation."
+          ]
+        },
+        {
+          "heading": "Loading and equipment paths",
+          "paragraphs": [
+            "The work plan will identify extraction routes, restoration equipment locations, and any proposed stock-moving access. Changes affecting loading operations will be presented to the client representative so staff instructions reflect the approved arrangement."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Building scope versus product decisions",
+          "paragraphs": [
+            "Progress notes will account for smoke treatment, wet materials, and unresolved concealed conditions. The designated client receives findings and approvals, while routine occupant communications follow the hiring manager’s approved wording with necessary safety and entry details preserved."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Name the inventory decision-maker.",
+        "Provide known fire-related access limitations.",
+        "Identify loading windows and blocked bays."
+      ]
+    },
+    "arlington": {
+      "intro": "Commercial fire damage restoration in Arlington helps when a storefront fire damages displays while smoke reaches the stockroom and neighboring customer areas. Merchandise, fitted fixtures, and building finishes do not share one cleanup decision. We will document those categories and organize authorized work around the store’s actual access constraints.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration around retail fixtures",
+          "paragraphs": [
+            "We will record heat-affected display surfaces and accessible residue before discussing fixture removal. Where fixed shelving hides the wall, the estimate will identify the opening needed for assessment instead of assuming the finish behind it is unaffected."
+          ],
+          "bullets": [
+            "Separate fixtures blocking access from visibly damaged fixtures.",
+            "Identify merchandise requiring owner-controlled handling."
+          ]
+        },
+        {
+          "heading": "A documented path for tenant alterations",
+          "paragraphs": [
+            "Decorative finishes may belong to the tenant while the underlying assembly involves the landlord. We will establish the approval route for proposed building work without deciding lease responsibility or assigning fire-related fault."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Customer-facing arrangements through management",
+          "paragraphs": [
+            "We will supply work-zone, entry, and equipment information to the designated representative for approved notices. Technical findings and progress reports remain with that client contact, and required safety details stay accurate rather than becoming a promise about customer use or reopening."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Share display layouts and landlord contacts.",
+        "Describe entry restrictions after the fire.",
+        "Identify items store staff must secure."
+      ]
+    },
+    "plano": {
+      "intro": "Commercial fire damage restoration in Plano helps when an office equipment fire leaves soot near workstations and smoke residue above a ceiling grid. A localized burn can still require inspection beyond the equipment enclosure. We will define accessible building cleanup and coordinate restricted electronics and ceiling access with the facilities representative.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration near office electronics",
+          "paragraphs": [
+            "We will record affected partitions and exposed finishes separately from computers, network devices, and electrical components. Equipment testing and any utility isolation need appropriate qualified providers; restoration cleaning does not establish electronics suitability."
+          ],
+          "bullets": [
+            "Identify server or equipment rooms with controlled entry.",
+            "Share electrical restrictions already established."
+          ]
+        },
+        {
+          "heading": "Inspecting above the visible work area",
+          "paragraphs": [
+            "Ceiling tiles can hide surfaces requiring additional evaluation. We will explain proposed access, document the approved openings, and record what remains unexamined before presenting a broader cleaning scope."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Room-by-room reporting for facilities",
+          "paragraphs": [
+            "Our progress account will identify areas cleaned, materials awaiting drying, and dependencies on specialist access. The facilities contact receives findings and approval requests; routine tenant notices follow the hiring manager’s instructions and approved messaging with accurate necessary safety information."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Provide room identifiers and facilities contacts.",
+        "List restricted electronics or confidential workspaces.",
+        "Share any completed electrical assessment."
+      ]
+    },
+    "frisco": {
+      "intro": "Commercial fire damage restoration in Frisco helps when a small fire in a studio storage room leaves residue on adjacent activity-room finishes and equipment. Specialty flooring and fitted mirrors can make inspection access different from a typical office. We will separate reachable building cleanup from equipment handling and proposed fixture removal.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration in a fitted studio",
+          "paragraphs": [
+            "We will document exposed residue and note finishes concealed behind mirrors, wall panels, or fixed equipment. Proposed access will explain which assembly needs evaluation and whether a fixture specialist is required for safe removal."
+          ],
+          "bullets": [
+            "Identify fixed mirrors and specialty wall coverings.",
+            "Record equipment that staff must move or assess."
+          ]
+        },
+        {
+          "heading": "Drying a layered floor after firefighting",
+          "paragraphs": [
+            "Water beneath a finish can remain after the room surface is wiped down. We will describe accessible moisture findings and any further opening needed to examine underlayment before the flooring repair sequence is established."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Scheduling based on the work boundary",
+          "paragraphs": [
+            "The operator will receive practical details about equipment, room access, and monitoring visits. Routine occupant updates will use the hiring manager’s approved communication plan, while findings, progress records, and scope changes are directed to the designated client rather than interpreted independently for tenants."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Describe flooring layers where known.",
+        "Identify fixture access restrictions.",
+        "Provide the contact approving activity-room entry."
+      ]
+    },
+    "mckinney": {
+      "intro": "Commercial fire damage restoration in McKinney helps after smoke affects a professional office with paper records, fitted cabinets, and reception finishes. Handling sensitive files may need to precede building cleanup. We will document accessible surfaces and coordinate the restoration area with the person authorized to control records and approve property work.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration beside confidential records",
+          "paragraphs": [
+            "The client will arrange custody of files and other sensitive contents before they obstruct or enter the work area. We will identify cabinet edges, wall surfaces, and concealed sections needing evaluation without assuming document cleaning or recovery is included."
+          ],
+          "bullets": [
+            "Identify secure storage that cannot be entered without supervision.",
+            "Separate building-cleanup approvals from file-handling permission."
+          ]
+        },
+        {
+          "heading": "Opening cabinetry for inspection",
+          "paragraphs": [
+            "A cabinet installation can hide both residue and water-affected backing. We will describe the reason for proposed removal and obtain the agreed authorization before expanding access, with findings photographed for the client record."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "A repair sequence with remaining tasks visible",
+          "paragraphs": [
+            "Progress notes will distinguish authorized cleaning from pending material decisions and required source-related reviews. Management directs routine occupant messaging; the designated client receives findings and change approvals, with accurate necessary safety and access notices maintained."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Name the records custodian.",
+        "Share fire-related access restrictions.",
+        "Identify cabinet sections requiring separate approval."
+      ]
+    },
+    "irving": {
+      "intro": "Commercial fire damage restoration in Irving helps when a lodging property has one fire-affected room and smoke concerns in nearby guest spaces. Different rooms may have different damage, access status, and contents decisions. We will organize restoration observations by room and shared area through the authorized property contact.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration with separate guest-room records",
+          "paragraphs": [
+            "We will record inspected rooms individually and identify neighboring rooms awaiting entry. Cleaning decisions will follow observed building conditions rather than treating every room on a floor as an identical loss."
+          ],
+          "bullets": [
+            "List rooms approved for entry.",
+            "Identify corridors or service spaces needing assessment."
+          ]
+        },
+        {
+          "heading": "Furnishings and housekeeping coordination",
+          "paragraphs": [
+            "The property representative will arrange belongings handling and any contents assessment needed beyond building restoration. We will explain equipment placement and housekeeping access restrictions for the approved work area."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Information for the operator’s guest notices",
+          "paragraphs": [
+            "Findings, approvals, and repair dependencies will be reported to the designated client. Routine guest or tenant messaging follows the hiring manager’s instructions and approved wording, including accurate required access and safety notices; room-use decisions remain with responsible parties and necessary qualified advisers."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Provide affected room numbers.",
+        "Share official entry restrictions.",
+        "Identify housekeeping and contents-handling contacts."
+      ]
+    },
+    "garland": {
+      "intro": "Commercial fire damage restoration in Garland addresses fire residue in a workshop where walls sit behind machinery and water has reached parts storage. Building cleanup may depend on approved equipment shutdowns. We will identify accessible materials and organize the restoration scope around the site’s controlled production areas.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration near workshop machinery",
+          "paragraphs": [
+            "We will inspect reachable building finishes and mark surfaces that cannot be evaluated without machine access. Production-equipment testing, electrical review, and shutdown arrangements need the responsible qualified providers, with those limits shown in the restoration plan."
+          ],
+          "bullets": [
+            "Identify restricted machinery zones.",
+            "Record maintenance approvals needed for wall access."
+          ]
+        },
+        {
+          "heading": "Separating debris from retained parts",
+          "paragraphs": [
+            "Parts, packaging, and damaged building materials may occupy the same floor area but require different handling instructions. We will describe proposed building debris removal and coordinate client-controlled inventory decisions before moving retained items."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Site reports with clear dependencies",
+          "paragraphs": [
+            "Our documentation will show completed work and tasks waiting for access or specialist review. The client contact receives findings and approvals; staff notices follow management-approved instructions, with accurate necessary safety details and no independent interpretation of fault or coverage."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Provide shutdown and entry requirements.",
+        "Identify the parts inventory decision-maker.",
+        "Share equipment-related restrictions already issued."
+      ]
+    },
+    "richardson": {
+      "intro": "Commercial fire damage restoration in Richardson helps when a shared kitchenette fire marks adjoining office walls and leaves extinguisher residue in nearby rooms. The discharge material and fire damage need to be identified before cleaning is selected. We will document reachable surfaces and define a building scope through the authorized facilities contact.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration after an extinguisher discharge",
+          "paragraphs": [
+            "We will record available information about the extinguisher and affected surfaces. Appliance servicing and electrical checks remain separate from restoration; an appliance appearing clean is not proof that it can be operated."
+          ],
+          "bullets": [
+            "Share the extinguisher label if safely accessible.",
+            "Identify nearby devices requiring specialist handling."
+          ]
+        },
+        {
+          "heading": "Shared kitchenette and leased-room access",
+          "paragraphs": [
+            "The scope will distinguish the amenity area from neighboring tenant finishes. We will identify who approves common-area cleaning, who controls office entry, and where fitted cabinets block examination of the wall."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Changes explained before the repair stage",
+          "paragraphs": [
+            "Additional residue or wet material found during access will be recorded and presented for approval. Progress and findings go to the designated client, with routine tenant communications limited to management-approved messaging and accurate necessary safety and entry information."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Provide kitchenette and adjoining room locations.",
+        "Identify facilities and tenant approval contacts.",
+        "Share appliance isolation or service findings."
+      ]
+    },
+    "lewisville": {
+      "intro": "Commercial fire damage restoration in Lewisville helps when a food-service fire leaves residue around counters, storage walls, and customer-area finishes. Kitchen equipment and food stock need decisions separate from the building cleanup. We will describe the affected assemblies and coordinate authorized access with the operator and property representative.",
+      "sections": [
+        {
+          "heading": "Commercial fire damage restoration behind service counters",
+          "paragraphs": [
+            "Fixed counters and wall linings can conceal surfaces needing evaluation. We will document reachable heat and residue damage, explain proposed access, and distinguish fixture removal from building-material treatment."
+          ],
+          "bullets": [
+            "Identify fitted counters obscuring the wall.",
+            "List equipment and stored products under operator control."
+          ]
+        },
+        {
+          "heading": "Building cleanup and specialist service work",
+          "paragraphs": [
+            "The operator will coordinate food disposition, equipment sanitation, and relevant system servicing with appropriate providers. Our proposed work will state the building tasks included and any dependencies on those separate arrangements."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Reports that support operating decisions",
+          "paragraphs": [
+            "We will record cleanup progress, drying concerns, and remaining repair prerequisites for the designated client contact. Routine staff and tenant updates follow approved management messaging; necessary safety notices remain accurate, and restoration progress will not be presented as a health approval or guaranteed reopening date."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Identify operator and landlord representatives.",
+        "Share access restrictions after the fire.",
+        "Describe counters or equipment blocking inspection."
+      ]
+    }
+  },
+  "sewage-cleanup": {
+    "dallas": {
+      "intro": "Commercial sewage cleanup in Dallas helps when a shared restroom backup spreads into a leased office corridor and adjoining floor coverings. The affected path may cross spaces controlled by different tenants. We will record accessible contamination concerns and define entry, material handling, and source-repair coordination through the building representative.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup across a shared corridor",
+          "paragraphs": [
+            "We will identify visible spread and adjoining floor edges requiring evaluation, including areas blocked by locked tenant doors. The scope will distinguish confirmed affected surfaces from rooms awaiting entry rather than assuming the corridor boundary contains the entire loss."
+          ],
+          "bullets": [
+            "Map restroom, corridor, and adjoining suite access.",
+            "Share the plumber’s source findings when available."
+          ]
+        },
+        {
+          "heading": "Common materials and tenant belongings",
+          "paragraphs": [
+            "Removal of carpet or wall bases needs a clear approval route, while tenant contents require their authorized handling contact. We will describe these tasks separately and document changes when further access reveals additional affected material."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Practical notices through the manager",
+          "paragraphs": [
+            "The designated client receives findings, approvals, and progress records. Routine tenant messages will follow the hiring manager’s approved wording, with accurate necessary work-zone and safety notices; we will not independently interpret fault, coverage, or health conclusions for occupants."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Identify building and tenant approval contacts.",
+        "Describe affected floor coverings.",
+        "Provide source-repair status and entry limits."
+      ]
+    },
+    "fort-worth": {
+      "intro": "Commercial sewage cleanup in Fort Worth addresses wastewater entering warehouse floor space beneath pallets and along storage-room walls. The exposed aisle may show only part of the affected path. We will document reachable building surfaces and coordinate inventory access before setting the contaminated-material scope.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup beneath pallet storage",
+          "paragraphs": [
+            "We will record accessible liquid and affected wall bases, then identify bays needing authorized stock movement for examination. Stock suitability and disposition require the inventory owner and appropriate guidance; building cleanup is a separate scope."
+          ],
+          "bullets": [
+            "Identify pallets that obstruct the affected area.",
+            "Separate product decisions from floor and wall treatment."
+          ]
+        },
+        {
+          "heading": "An extraction route that avoids unrelated stock",
+          "paragraphs": [
+            "We will agree on personnel and equipment paths with the site representative. Proposed movement will protect the work boundary and keep retained inventory handling under the client’s direction, with access limitations shown in the record."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Follow-through after drain service",
+          "paragraphs": [
+            "A repaired drain does not remove contamination left on building surfaces. Our updates will identify completed cleanup, unresolved wet materials, and remaining access; findings and approvals go to the client contact, and routine staff notices use management-approved messaging with accurate required safety details."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Share drain-service findings.",
+        "Name the inventory handling contact.",
+        "Identify loading and restricted storage routes."
+      ]
+    },
+    "arlington": {
+      "intro": "Commercial sewage cleanup in Arlington helps when a retail restroom overflow reaches a stockroom and saturates the edge of a sales-area floor. Merchandise and fitted shelving may conceal affected surfaces. We will evaluate accessible building materials and organize approved removal and contents handling with the store and property contacts.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup behind stockroom shelving",
+          "paragraphs": [
+            "We will note visible spread, floor layers, and walls hidden behind stored products. Proposed access will explain the shelving movement needed for evaluation without assuming every item in the room has the same condition."
+          ],
+          "bullets": [
+            "Identify merchandise requiring store-controlled handling.",
+            "Record fitted shelves preventing wall-base access."
+          ]
+        },
+        {
+          "heading": "Finish removal with the right approval",
+          "paragraphs": [
+            "Porous finishes can require a different response from exposed cleanable surfaces. We will describe the observed condition and proposed material work, then obtain the agreed approval before extending removal into a neighboring lease area."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Information the store can use",
+          "paragraphs": [
+            "The designated representative will receive findings, scope decisions, and progress updates. Customer and tenant notices follow management’s approved communication plan, including accurate work-area and necessary safety details; cleanup progress does not establish merchandise suitability or customer-area readiness."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Provide the store and landlord contacts.",
+        "Describe floor layers and shelving access.",
+        "Share whether the overflow source has been repaired."
+      ]
+    },
+    "plano": {
+      "intro": "Commercial sewage cleanup in Plano helps when wastewater reaches an office restroom threshold, corridor carpet, or adjoining meeting room. A wiped tile surface can leave affected porous finishes nearby. We will identify the accessible contamination boundary and explain material decisions through the authorized facilities representative.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup where tile meets carpet",
+          "paragraphs": [
+            "The transition between exposed flooring and porous coverings needs its own evaluation. We will document the reachable floor edge and wall bases, explaining any proposed opening or removal needed to address affected backing or adjacent material."
+          ],
+          "bullets": [
+            "Record flooring transitions near the overflow.",
+            "Identify furniture covering the corridor edge."
+          ]
+        },
+        {
+          "heading": "Desk access and office belongings",
+          "paragraphs": [
+            "The facilities contact will coordinate staff access and movement of items that obstruct restoration. We will describe the work boundary and equipment requirements; confidential files and electronics remain under the responsible owner’s handling arrangements."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Progress records for room scheduling",
+          "paragraphs": [
+            "Updates will separate completed contaminated-material work from remaining drying or repair tasks. Findings and approvals go to the designated client contact, and routine tenant communication uses manager-approved wording with required accurate safety information rather than independent health or coverage conclusions."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Identify facilities and records-handling contacts.",
+        "Share the plumber’s report if available.",
+        "Describe adjoining rooms with affected carpet."
+      ]
+    },
+    "frisco": {
+      "intro": "Commercial sewage cleanup in Frisco helps when a studio changing-room drain backs up onto a layered floor and beneath fitted benches. The top surface may hide affected underlayment or wall edges. We will define accessible observations and coordinate opening, cleaning, and material-handling decisions with the authorized operator.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup beneath fitted benches",
+          "paragraphs": [
+            "We will document where benches or lockers obstruct inspection and explain whether approved movement is needed. The proposed work will distinguish damaged materials from fixtures that merely limit access."
+          ],
+          "bullets": [
+            "Identify fixed locker and bench installations.",
+            "Record the floor construction if known."
+          ]
+        },
+        {
+          "heading": "Layered floors need a material-specific plan",
+          "paragraphs": [
+            "The source conditions and affected layers inform treatment and removal decisions. We will describe what can be assessed from above and what needs further access, rather than representing a surface wipe as completion of the whole assembly."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Approved notices for scheduled occupants",
+          "paragraphs": [
+            "The operator directs routine messages about room access and work boundaries. Our findings, scope approvals, and progress records will go to the designated client contact, with accurate necessary safety notices retained and no independent discussion of health effects, fault, or coverage with tenants."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Share drain repair or clearing details.",
+        "Identify rooms and fixed installations affected.",
+        "Provide the contact approving access notices."
+      ]
+    },
+    "mckinney": {
+      "intro": "Commercial sewage cleanup in McKinney helps when a drain overflow reaches a professional office’s storage closet, cabinet bases, or reception carpet. Sensitive records may obstruct access to the affected wall. We will organize building cleanup around authorized contents handling and a documented material scope.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup near stored records",
+          "paragraphs": [
+            "We will identify accessible finishes and note where files or shelving prevent examination. The client’s designated custodian will arrange secure contents handling, while our scope describes the building surfaces requiring treatment or removal."
+          ],
+          "bullets": [
+            "Identify record storage needing supervised access.",
+            "Separate file-handling permission from wall-removal approval."
+          ]
+        },
+        {
+          "heading": "Cabinet backing and concealed boundaries",
+          "paragraphs": [
+            "A cabinet front may remain intact while backing and adjoining wallboard have been exposed. We will explain the purpose of proposed access and document further findings before extending the work beyond the approved area."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "A clear account after the plumbing visit",
+          "paragraphs": [
+            "Our reports will distinguish source-service information from restoration findings and remaining repair needs. Findings and approvals go to the client representative; routine occupant communication follows manager-approved messaging and preserves required safety and access information."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Name the records custodian and property contact.",
+        "Share drain-service records.",
+        "Identify fitted cabinets covering the affected area."
+      ]
+    },
+    "irving": {
+      "intro": "Commercial sewage cleanup in Irving helps when a guest-room bathroom backup reaches adjoining carpet or a shared service passage. Rooms with similar layouts may still have different exposure. We will track accessible affected materials by room and coordinate entry through the property’s authorized operating contact.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup with room-specific boundaries",
+          "paragraphs": [
+            "Each inspected room will have its own material observations and access status. We will identify neighboring spaces needing evaluation without presuming they are contaminated because the rooms share a floor or layout."
+          ],
+          "bullets": [
+            "List inspected rooms and pending entries.",
+            "Identify bathroom-to-carpet transitions and shared passages."
+          ]
+        },
+        {
+          "heading": "Housekeeping and contents arrangements",
+          "paragraphs": [
+            "The property representative will coordinate linens, furnishings, and personal belongings under the appropriate handling plan. We will explain building cleanup and proposed removals separately, including equipment routes that affect housekeeping access."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Guest notices directed by the operator",
+          "paragraphs": [
+            "The designated client receives findings, changes, approvals, and progress records. Routine guest or tenant updates use the hiring manager’s instructions and approved wording, including necessary accurate safety and entry notices; the restoration schedule does not determine whether a room can be occupied."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Provide affected room identifiers.",
+        "Share source-repair status.",
+        "Identify housekeeping and guest-entry contacts."
+      ]
+    },
+    "garland": {
+      "intro": "Commercial sewage cleanup in Garland addresses wastewater around a workshop floor drain where racks, machinery, and stored parts limit inspection. The drain’s location does not establish how far liquid traveled beneath fixtures. We will document reachable building surfaces and coordinate restricted access with the site representative.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup beside workshop equipment",
+          "paragraphs": [
+            "We will identify areas accessible without disturbing machinery and record surfaces awaiting approved shutdown or specialist access. Equipment servicing and electrical assessment remain separate responsibilities; our cleanup scope will state the building materials being addressed."
+          ],
+          "bullets": [
+            "List controlled machinery zones.",
+            "Identify racks covering affected floor or wall edges."
+          ]
+        },
+        {
+          "heading": "Mixed site conditions need clear boundaries",
+          "paragraphs": [
+            "Where chemicals or other process materials are present, we will record the reported concern and identify whether additional qualified evaluation is needed before ordinary wastewater cleanup can proceed. We will not assume every liquid near a drain has the same composition."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Site instructions with a documented work plan",
+          "paragraphs": [
+            "Work-zone and access information will be supplied for management-approved employee notices. Findings, approvals, and progress reports go to the designated client contact, with required safety information kept accurate and no independent fault or insurance conclusions presented to tenants."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Describe process materials near the drain.",
+        "Provide shutdown and access contacts.",
+        "Share plumbing findings already established."
+      ]
+    },
+    "richardson": {
+      "intro": "Commercial sewage cleanup in Richardson helps when a shared restroom backup wets floor edges beside an office kitchenette or neighboring leased room. Fitted cabinets can conceal additional affected materials. We will document the reachable spread and connect source-service information with an approved building cleanup scope.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup at a shared amenity boundary",
+          "paragraphs": [
+            "We will inspect accessible transitions between the restroom, corridor, and adjoining finishes. Concealed areas behind kitchenette cabinets will be identified as assessment limits until the required access is authorized."
+          ],
+          "bullets": [
+            "Identify shared-area and tenant entry contacts.",
+            "Record cabinets concealing wall or floor junctions."
+          ]
+        },
+        {
+          "heading": "Responsibility for access and material decisions",
+          "paragraphs": [
+            "The work plan will identify who approves building finishes and who controls tenant appliances or furnishings. We will record proposed removal and changes without assigning lease responsibility or deciding which party caused the backup."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Source resolution and restoration completion",
+          "paragraphs": [
+            "Drain service and cleanup will have separate progress records and prerequisites. Technical findings and approval requests go to the designated client; routine tenant messages follow management instructions and approved wording, retaining accurate necessary safety information without independent health or coverage interpretations."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Provide landlord and tenant approval contacts.",
+        "Share the drain-service history.",
+        "Identify fitted cabinets requiring access arrangements."
+      ]
+    },
+    "lewisville": {
+      "intro": "Commercial sewage cleanup in Lewisville helps when a food-service drain backup reaches storage finishes, service counters, or adjoining customer-area flooring. Food and equipment decisions need handling separate from building restoration. We will define affected materials and coordinate authorized access with the operator and property representative.",
+      "sections": [
+        {
+          "heading": "Commercial sewage cleanup around service-area millwork",
+          "paragraphs": [
+            "We will document exposed floor and wall conditions and explain where counters prevent assessment of backing or concealed edges. The proposed scope will identify access needs, material treatment, and removal decisions rather than assuming all finishes can be cleaned in place."
+          ],
+          "bullets": [
+            "Identify counters obscuring affected assemblies.",
+            "Record product and equipment areas under operator control."
+          ]
+        },
+        {
+          "heading": "Separate food handling from building work",
+          "paragraphs": [
+            "The operator will arrange food disposition, equipment sanitation, and relevant professional guidance. Our progress notes will describe the building work performed and remaining dependencies without presenting restoration cleaning as a food-safety approval."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Accurate information for staff notices",
+          "paragraphs": [
+            "Findings, scope decisions, approvals, and progress reports go to the designated client contact. Routine staff or tenant messages follow the hiring manager’s approved plan, including required safety and access information; fault, coverage, health conclusions, and operating decisions will not be discussed independently with occupants."
+          ],
+          "bullets": []
+        }
+      ],
+      "checklist": [
+        "Name operator and landlord contacts.",
+        "Share plumbing repair status.",
+        "Describe fitted counters and affected floor materials."
+      ]
+    }
+  }
+}

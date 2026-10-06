@@ -1,0 +1,622 @@
+{
+  "emergency-water-extraction/godley": {
+    "intro": "Emergency water extraction in Godley removes water before it continues soaking the room’s lower materials. We will collect reachable accumulation and address residual water around fixed features, with the next drying decisions explained.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Godley: work around changes in floor height",
+        "text": "A shallow step or raised threshold can leave separate pools. We will locate reachable accumulation and select pumping or surface extraction appropriate to each section rather than assume one collection point drains the whole room."
+      },
+      {
+        "title": "Reach the last liquid at the edge",
+        "text": "Authorized movement of rugs and belongings will expose water beneath them. We will inspect coverings and pad for retention or removal based on source and condition, then collect liquid revealed by that access."
+      },
+      {
+        "title": "Evaluate coverings at each change in level",
+        "text": "A transition can connect carpet, tile and another floor system, with separate layers retaining water at each side. We will inspect accessible pad and backing and explain lifting where collection from the top cannot reach the liquid. Unsuitable contamination or failed backing can require disposal instead of further extraction. Where a finish can remain, the drying setup must still reach the material underneath rather than treat the height change as the end of the damage."
+      },
+      {
+        "title": "Identify moisture still inside the assembly",
+        "text": "Material checks will guide drying of retained components. Swelling or deterioration requiring repair will be distinguished from the liquid removed during the visit."
+      }
+    ],
+    "estimate": "Level changes and fixed obstructions affect collection time. Continued drying and any removal will be identified separately.",
+    "checklist": [
+      "Identify rooms at different floor heights.",
+      "Describe any remaining water source.",
+      "Flag objects standing in pooled water."
+    ]
+  },
+  "burst-pipe-cleanup/godley": {
+    "intro": "Burst pipe cleanup in Godley addresses the building materials around a failed line after the water is stopped. We will extract the release and treat wet layers left behind the plumbing repair.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Godley: inspect the pipe-chase edges",
+        "text": "Water can run through penetrations into adjoining cavities. We will check accessible connections and lower edges to determine whether the repair cut reaches the damaged area."
+      },
+      {
+        "title": "Remove wet layers to reach sound structure",
+        "text": "Specified failed wallboard and insulation will be collected through controlled openings. Exposed retained framing will be cleared of debris and measured before drying equipment is arranged."
+      },
+      {
+        "title": "Preserve the purpose of the chase during reinstatement",
+        "text": "A pipe chase can include removable access, insulation and multiple finish layers around connected services. We will record the components exposed or removed and identify what the repair provider needs to reinstate. Debris must be cleared from reachable lower pockets before the enclosure returns. If another line, cable or support prevents treatment access, the relevant trade will be involved before removal expands, allowing cleanup without improvised changes to the services."
+      },
+      {
+        "title": "Keep source access and closure coordinated",
+        "text": "A plumber may need to revisit a connection while drying continues elsewhere. We will explain the condition of each treated section so a finished patch does not block outstanding work."
+      }
+    ],
+    "estimate": "The quote follows the accessible water path and damaged layers, with plumbing service and finish replacement separate.",
+    "checklist": [
+      "Show the repaired connection.",
+      "Identify nearby cavities or rooms reached.",
+      "Share the shutoff timeline."
+    ]
+  },
+  "appliance-leak-cleanup/godley": {
+    "intro": "Appliance leak cleanup in Godley helps when an equipment leak has soaked the toe space beside a machine. We will reach the trapped water and treat the floor and cabinet materials before they are enclosed again.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Godley: use the appliance opening to inspect adjoining space",
+        "text": "With appropriate disconnection and movement arranged, we will inspect the recess and reachable cabinet edge. A removable toe-kick may provide useful access without immediately dismantling the entire run."
+      },
+      {
+        "title": "Collect water and clean the exposed base",
+        "text": "We will extract reachable liquid and clear affected debris. Unsuitable backing or swollen composite pieces will be removed where specified; retained surfaces receive cleaning suited to the release before drying."
+      },
+      {
+        "title": "Distinguish a removable access piece from a supporting panel",
+        "text": "A toe-kick may be decorative, while a cabinet side can carry a countertop or anchor adjacent units. We will inspect that construction before enlarging access and coordinate necessary support. The resulting opening should permit collection and cleaning of the affected floor edge, not merely reveal it. Panels damaged by the release will be distinguished from sound pieces detached temporarily, so repair quantities reflect what actually needs replacement."
+      },
+      {
+        "title": "Check whether panels can be refitted",
+        "text": "Moisture readings will track retained components. A distorted panel may need replacement after drying, while service reconnection remains the appliance provider’s responsibility."
+      }
+    ],
+    "estimate": "Cabinet access and panel construction can matter more than the visible spill area. Replacement joinery is distinguished from cleanup.",
+    "checklist": [
+      "Identify the leaking appliance.",
+      "Describe toe-kick or panel access.",
+      "Share whether the release involved used wash water."
+    ]
+  },
+  "storm-water-damage-cleanup/godley": {
+    "intro": "Storm water damage cleanup in Godley can involve cleanup at several openings after one storm. We will evaluate each interior entry, collect water and treat the materials reached while exterior correction is arranged.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Godley: evaluate separate entries individually",
+        "text": "A wet ceiling near one opening and dirty water at a doorway may require different retention decisions. We will inspect actual contacts instead of applying one room-wide drying assumption."
+      },
+      {
+        "title": "Clear deposits and damaged porous layers",
+        "text": "Accessible liquid and debris will be collected. Specified unsuitable layers will be removed so retained surfaces can be physically cleaned, including reachable edges beneath trim."
+      },
+      {
+        "title": "Keep the removal route separate from rooms ready for repair",
+        "text": "When several areas need work, the route for muddy debris can pass through a room already cleared. We will plan containment and floor protection before carrying material out, then collect residue left by handling. Equipment and belongings will be moved with attention to their condition so work at one entry does not transfer deposited material onto surfaces prepared elsewhere."
+      },
+      {
+        "title": "Monitor sections vulnerable to another release",
+        "text": "Drying will target recoverable materials, with renewed wetting reported separately. Replacement should wait where exterior protection or the source repair remains unresolved."
+      }
+    ],
+    "estimate": "The estimate will distinguish work at each entry and the different layers involved. Exterior repairs retain their own scope.",
+    "checklist": [
+      "List every entry observed.",
+      "Describe deposited dirt or debris.",
+      "Share temporary protection already installed."
+    ]
+  },
+  "structural-drying-services/godley": {
+    "intro": "Structural drying services in Godley help when a repair depends on moisture inside retained wall or floor components. We will identify measurable material locations and adjust access and equipment to their response.",
+    "sections": [
+      {
+        "title": "Structural drying services in Godley: use readings that can be compared",
+        "text": "We will establish repeatable measurement locations on affected components and appropriate references. A reading taken on a different material at each visit cannot meaningfully describe one location’s progress."
+      },
+      {
+        "title": "Address barriers identified by the readings",
+        "text": "A covered wet edge may need opening or unsuitable insulation removed. Directed air movement and dehumidification will serve the newly accessible material rather than merely circulate air through the room."
+      },
+      {
+        "title": "Investigate disagreement between measurement locations",
+        "text": "An exposed board edge may improve while the connected covered section stays wet. We will review the material and access at both points and check for continued entry, rather than average the observations into a general room result. Selective opening or another suitable drying approach may be needed to reach the slower section. Removal will be explained when deterioration or inability to treat a concealed layer makes continued retention impractical."
+      },
+      {
+        "title": "Explain the end of equipment use",
+        "text": "We will report the retained material condition and any further drying limits. Permanent distortion or installation preparation remains a repair question even when the moisture work is complete."
+      }
+    ],
+    "estimate": "Monitoring access and the materials retained shape the drying plan. Changes will be tied to observed response.",
+    "checklist": [
+      "Share earlier measurement locations.",
+      "Identify concealed layers remaining.",
+      "Describe equipment interruptions."
+    ]
+  },
+  "floor-water-damage-cleanup/godley": {
+    "intro": "Floor water damage cleanup in Godley addresses wet flooring at a fixed cabinet or partition where the removal edge needs care. We will recover water and expose the affected base without assuming every adjoining finish must come out.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Godley: consider what the covering runs beneath",
+        "text": "We will inspect available edges and determine whether removal affects cabinet support or another fixed feature. Necessary support or trade work will be identified before cutting."
+      },
+      {
+        "title": "Treat the base revealed by lifting",
+        "text": "Approved damaged layers will be removed, trapped liquid collected and loose waste cleared. Suitable retained substrate will receive cleaning and measured drying; failed backing will not be retained solely for matching."
+      },
+      {
+        "title": "Plan the removal edge for both cleanup and installation",
+        "text": "Cutting a floor close to a cabinet can leave a narrow damaged strip beneath the toe space. We will explain whether that edge is accessible for cleaning and drying, and whether it will provide a suitable connection for replacement. A larger cut may be necessary for a sound repair while cosmetic matching can extend farther still. Those different reasons for removal will remain visible in the proposal rather than become one unexplained quantity."
+      },
+      {
+        "title": "Define the repair connection",
+        "text": "We will identify softness, unevenness or damaged edges left after treatment. A practical transition to retained flooring may be needed independently of the original water boundary."
+      }
+    ],
+    "estimate": "Fixed-feature access and the cutting boundary affect labor. New-floor installation and optional matching remain separate.",
+    "checklist": [
+      "Identify flooring beneath built-ins.",
+      "Share installation details if known.",
+      "Point out raised or loose sections."
+    ]
+  },
+  "ceiling-water-damage-cleanup/godley": {
+    "intro": "Ceiling water damage cleanup in Godley addresses overhead damage where a fixture may block the wet cavity. We will protect the room and coordinate access before removing failed material and drying the retained assembly.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Godley: resolve fixture access before opening",
+        "text": "Lighting or other services within the affected section may need the appropriate trade. We will identify that dependency and the protected removal area before disturbing weakened ceiling material."
+      },
+      {
+        "title": "Clear saturated layers and cavity debris",
+        "text": "Specified wet insulation and failed board will be collected. Reachable framing and adjoining retained edges will be checked for moisture once debris no longer obstructs them."
+      },
+      {
+        "title": "Separate the mounting condition from the ceiling finish",
+        "text": "A light or grille may depend on its own box or support instead of the board around it. We will identify that arrangement through the appropriate provider before treating the wet opening. Damaged finish can then be removed without using the fixture as a support for loose material. The handoff will identify what needs rebuilding around the mounting area; cleanup does not establish that wet electrical equipment is ready to reconnect."
+      },
+      {
+        "title": "Give the replacement a suitable edge",
+        "text": "Drying will be monitored before closure. We will identify damaged support or board edges needing repair so the new panel is not fastened against an unresolved weak section."
+      }
+    ],
+    "estimate": "Fixture conflicts, working height and room protection influence access. Reconnection and decorative finishing will be separately identified.",
+    "checklist": [
+      "List fixtures in the wet area.",
+      "Keep clear of sagging sections.",
+      "Share source-repair findings."
+    ]
+  },
+  "bathroom-mold-removal/godley": {
+    "intro": "Bathroom mold removal in Godley can require treating material beside an enclosure intended to remain. We will coordinate the access and remediation needed before new finish work seals that edge.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Godley: inspect the connection at the enclosure",
+        "text": "Available findings will guide evaluation of reachable backing and trim. Glass or plumbing that prevents access may need specialist handling before affected material is removed."
+      },
+      {
+        "title": "Treat what the opening exposes",
+        "text": "Under the remediation controls, specified porous waste will be removed and packaged. Retained reachable surfaces will receive suitable particle collection and cleaning rather than only a fresh sealant line."
+      },
+      {
+        "title": "Rebuild after the underlying conditions",
+        "text": "We will identify moisture correction, required evaluation and substrate repair still needed. Keeping the enclosure is a preference to evaluate, not proof every adjoining layer can stay."
+      }
+    ],
+    "estimate": "Enclosure access and retained finish connections affect remediation. Fixture service and waterproofing repair remain separate tasks.",
+    "checklist": [
+      "Identify the enclosure components to retain.",
+      "Share findings at the adjoining edge.",
+      "Describe source correction completed."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/godley": {
+    "intro": "Kitchen cabinet mold removal in Godley addresses affected material beneath drawers or storage that ordinary wiping cannot reach. We will coordinate removal and cleaning of the cabinet components and building surfaces included in the scope.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Godley: inspect below the drawer assembly",
+        "text": "Removing authorized detachable pieces can reveal backing and lower joints. We will distinguish those access steps from treatment of the drawers and their contents."
+      },
+      {
+        "title": "Clean reachable connections after porous removal",
+        "text": "Specified unsuitable composite material will be packaged under the work controls. Suitable retained surfaces will receive particulate collection and detailed cleaning at accessible joined faces."
+      },
+      {
+        "title": "Evaluate drawer components independently of the cavity",
+        "text": "Drawer slides, bottoms and stored contents may have different exposure and cleaning limits from the wall behind the cabinet. We will identify the parts included in treatment, with appropriate collection and compatible cleaning on suitable accessible surfaces. An affected absorbent drawer bottom may need replacement even when its front can be retained. Detached parts will remain associated with the unit so refitting does not mix untreated pieces into the remediated enclosure."
+      },
+      {
+        "title": "Resolve the receiving base before refitting",
+        "text": "Drying and required evaluation will precede reassembly. We will identify edges that no longer hold fasteners so replacement parts do not depend on weakened backing."
+      }
+    ],
+    "estimate": "Disassembly and the condition of connecting panels shape the work. Replacing decorative fronts is separate from treating the cavity.",
+    "checklist": [
+      "Provide views beneath removable drawers.",
+      "Identify affected backing.",
+      "Share leak-repair information."
+    ]
+  },
+  "mold-remediation-after-water-damage/godley": {
+    "intro": "Mold remediation after water damage in Godley helps when retained material needs remediation after earlier wet layers were removed. We will review what is currently exposed and coordinate treatment rather than assume demolition completed the recovery.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Godley: distinguish removal from retained-surface treatment",
+        "text": "Earlier work may have taken out flooring or board without cleaning the structure behind it. Available records and current findings will determine what remains within the remediation scope."
+      },
+      {
+        "title": "Perform the remaining material work",
+        "text": "Controls will be established before further disturbance. Specified affected waste will be packaged, and retained reachable components will receive appropriate particle collection and cleaning, including surfaces revealed by the earlier removal."
+      },
+      {
+        "title": "Leave a clear condition for rebuilding",
+        "text": "We will identify ongoing moisture, required independent evaluation and material repairs. A prior demolition invoice does not establish those tasks are complete."
+      }
+    ],
+    "estimate": "The proposal will account for material already removed and identify only the additional treatment and access required.",
+    "checklist": [
+      "Share prior removal records.",
+      "Identify surfaces left exposed.",
+      "Provide current assessment findings."
+    ]
+  },
+  "mold-removal-behind-drywall/godley": {
+    "intro": "Mold removal behind drywall in Godley may involve a cavity partly blocked by installed services. We will coordinate an opening that allows appropriate removal and cleaning without improvising utility work.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Godley: identify the treatment obstruction",
+        "text": "The provider will relate the affected material to accessible framing and service locations. A pipe or cable can limit tool access even when a surface is visible through the opening."
+      },
+      {
+        "title": "Remove affected layers and clean reachable faces",
+        "text": "Specified board or insulation will be packaged under remediation controls. Appropriate particle collection and cleaning will treat retained accessible framing; blocked surfaces require another access decision before completion is claimed."
+      },
+      {
+        "title": "Keep service and repair responsibilities distinct",
+        "text": "Necessary utility work belongs to its qualified provider. Moisture correction and required evaluation will be addressed before insulation and wallboard cover the treated cavity."
+      }
+    ],
+    "estimate": "Service conflicts and actual cleaning access determine the opening. Utility alterations and finish replacement will be itemized separately.",
+    "checklist": [
+      "Identify services inside the wall.",
+      "Share existing opening photographs.",
+      "Provide the reported treatment location."
+    ]
+  },
+  "kitchen-fire-cleanup/godley": {
+    "intro": "Kitchen fire cleanup in Godley addresses residue inside storage as well as the visible cooking area. We will evaluate cabinet interiors and surfaces while separating recoverable belongings from burned construction.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Godley: inspect shelves after contents are moved",
+        "text": "Authorized removal of stored items exposes rear edges and interiors that wiping the doors cannot reach. Belongings retain their own cleaning or disposal decision."
+      },
+      {
+        "title": "Clean compatible finishes in detail",
+        "text": "We will collect loose deposits and evaluate suitable cleaning on coated surfaces before broad treatment. Shelf supports and reachable corners will be included as scoped; blistered finishes remain a repair issue."
+      },
+      {
+        "title": "Check the shelf material before extending cleaning",
+        "text": "A coated shelf may tolerate a process that its unfinished rear edge or absorbent core cannot. We will inspect those details and evaluate an appropriate small area where finish response is uncertain. Swelling, heat distortion or a failed coating will receive a repair or replacement decision. Cleaning the accepted faces and supports must therefore be defined by the component, not by assuming every shelf in the cabinet can receive the same wet treatment."
+      },
+      {
+        "title": "Address damaged construction and response water",
+        "text": "Approved burned material will be removed with attention to supports and utilities. Any wet cabinet base will need its own extraction and drying before storage is restored."
+      }
+    ],
+    "estimate": "Interior detail and contents handling will be specified separately from exterior cabinet cleaning. Equipment operation requires its own review.",
+    "checklist": [
+      "Identify storage open during the incident.",
+      "Describe initial wiping.",
+      "Share whether water entered lower cabinets."
+    ]
+  },
+  "smoke-damage-cleanup/godley": {
+    "intro": "Smoke damage cleanup in Godley helps when residue affects decorative wall coverings and the surface behind them may need attention. We will evaluate whether cleaning can preserve the finish or whether removal is needed to treat the wall properly.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Godley evaluates the wall covering before washing",
+        "text": "Washable vinyl, printed paper and textured coverings can have different cleaning limits. We will inspect seams, adhesion and available care information, then test a suitable inconspicuous area where appropriate. Loose edges or staining through the covering may make further washing unhelpful even when the face initially looks cleanable."
+      },
+      {
+        "title": "Treat the face or remove the unsuitable layer",
+        "text": "Accepted surfaces will receive suitable loose-residue collection and compatible cleaning that accounts for the decoration and adhesive. If removal is approved, we will take down the affected covering and collect the waste, then inspect the exposed wall. The backing can need additional cleaning or repair rather than immediate installation of a new decorative layer."
+      },
+      {
+        "title": "Prepare for the chosen replacement finish",
+        "text": "We will explain remaining residue, adhesive or damaged substrate after cleanup. Wallpaper installation and painting require their own surface preparation, and affected contents may still need separate treatment. The repair choice will follow the exposed wall condition instead of using a new covering to conceal unresolved deposits."
+      }
+    ],
+    "estimate": "Covering type, adhesion and the result of a limited treatment check affect the proposal. Removal, underlying-wall cleanup and decorative replacement will be identified separately.",
+    "checklist": [
+      "Identify the wall covering and care information if available.",
+      "Describe lifting seams or prior washing.",
+      "Share whether matching replacement material is available."
+    ]
+  },
+  "toilet-overflow-cleanup/godley": {
+    "intro": "Toilet overflow cleanup in Godley addresses contamination near lower storage and wall edges after an overflow. We will extract wastewater and treat the exposed building surfaces before belongings return.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Godley: evaluate storage reached by the release",
+        "text": "We will establish the original contact area and collect accessible liquid. Absorbent packaging and items against the floor need their own recovery or disposal decisions, even if they have since dried."
+      },
+      {
+        "title": "Clean beneath the cleared footprint",
+        "text": "Specified contaminated porous layers will be contained for removal. Retained suitable surfaces will have soil physically removed before appropriate disinfection; the underside of a moved container is separate from the floor beneath it."
+      },
+      {
+        "title": "Evaluate the storage base before returning the load",
+        "text": "Wastewater can reach absorbent shelf feet, composite sides or cardboard even where the higher contents remain unaffected. We will inspect that construction and explain which parts can be cleaned and which require disposal or repair. Treating the floor will not establish that an affected storage unit is fit to return. Suitable cleaned hard components will be kept separate from unresolved items while the exposed building base is dried and evaluated."
+      },
+      {
+        "title": "Dry and reset from the completed condition",
+        "text": "Moisture checks will identify retained material needing drying. Plumbing correction and unresolved contents will remain explicit so refurnishing does not conceal dampness or reintroduce untreated property."
+      }
+    ],
+    "estimate": "The scope will identify floor treatment and separate storage-item handling. Source repair is not completion of the contacted room cleanup.",
+    "checklist": [
+      "Describe items moved after the spill.",
+      "Share the plumbing repair status.",
+      "Identify lower shelving reached."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/godley": {
+    "intro": "AC leak water damage cleanup in Godley helps when condensate has soaked insulation above a finished room. We will coordinate with the HVAC repair and treat the affected ceiling layers before they are covered again.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Godley: locate the wet insulation around the route",
+        "text": "Service findings and material checks will guide access near the condensate path. The visible drip can be displaced from the release, so its outline alone will not define the opening."
+      },
+      {
+        "title": "Remove obstructing wet material",
+        "text": "Specified saturated insulation and damaged board will be collected. Accessible retained framing will be cleaned of loose debris and dried, with equipment connections left to the appropriate trade."
+      },
+      {
+        "title": "Distinguish unit insulation from building insulation",
+        "text": "Material attached inside cooling equipment requires an HVAC service decision, while wet insulation above the ceiling may be part of the building-removal scope. We will identify that responsibility before disturbance. Appropriate mechanical work may be needed to provide access around the unit or drain. Once available, the building surfaces will be cleaned as required and monitored for drying, without claiming that an exposed ceiling opening establishes the internal condition of the equipment."
+      },
+      {
+        "title": "Check before replacing the ceiling layers",
+        "text": "Repeat readings will show progress after source correction. Any renewed wetting or damaged support will be identified before insulation and board are reinstated."
+      }
+    ],
+    "estimate": "Overhead access and insulation spread determine restoration work. HVAC diagnosis and drainage correction remain separately assigned.",
+    "checklist": [
+      "Share technician findings.",
+      "Identify ceiling openings already made.",
+      "Describe when dripping returns."
+    ]
+  },
+  "crawl-space-water-removal/godley": {
+    "intro": "Crawl space water removal in Godley can reveal fallen insulation and wet debris after pooling is reduced. We will collect accessible water and clear the material that prevents the underside from being evaluated.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Godley: establish a workable collection route",
+        "text": "We will assess entry conditions and arrange pumping or extraction for reachable pools. The discharge destination must not return water to the affected area; suspected wastewater requires its own handling decision."
+      },
+      {
+        "title": "Expose the underside after collection",
+        "text": "Approved saturated debris will be removed where it holds moisture or blocks access. We will inspect reachable joists and subfloor rather than assume the structure is dry because standing water is gone."
+      },
+      {
+        "title": "Decide whether the fallen material can remain",
+        "text": "Soaked insulation can hold liquid against the underside and obstruct inspection of the floor above. We will evaluate the exposure and identify material needing removal rather than assume drying equipment can restore every fallen piece. Approved debris will be contained and carried out through the available route. The newly exposed joist faces and subfloor can then receive direct measurements, with suspected mold or deterioration kept as a separate treatment or repair decision."
+      },
+      {
+        "title": "Treat retained moisture and report inflow",
+        "text": "Suitable building components will receive drying and measurements. Continuing entry and structural deterioration will be reported separately before replacement coverings are installed."
+      }
+    ],
+    "estimate": "Debris volume and underside access can add work beyond pumping. Those tasks will be distinguished from source or drainage repair.",
+    "checklist": [
+      "Describe fallen insulation.",
+      "Identify all known entrances.",
+      "Share prior pumping information."
+    ]
+  },
+  "attic-mold-remediation/godley": {
+    "intro": "Attic mold remediation in Godley can require treatment around a penetration after a roof repair. We will coordinate access to the affected wood and distinguish remediation from the work that stops incoming moisture.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Godley: locate surfaces around the repaired entry",
+        "text": "Available findings will identify the reported area on sheathing and framing. Flashing repair does not establish that adjacent underside surfaces were cleaned, and inaccessible edges will remain identified."
+      },
+      {
+        "title": "Treat retained wood within the scope",
+        "text": "The provider will establish controls and remove specified unsuitable material. Appropriate particle collection and cleaning will address reachable affected faces and connections; weakened wood requires separate repair evaluation."
+      },
+      {
+        "title": "Keep the treated section visible for review",
+        "text": "Moisture work and required completion checks should precede insulation reinstatement. We will identify unfinished surfaces and remaining roof dependencies rather than describe the whole attic from a localized repair."
+      }
+    ],
+    "estimate": "Treatment access around the penetration and retained framing determines labor. Roofing repairs and insulation replacement are separate quantities.",
+    "checklist": [
+      "Identify the repaired roof feature.",
+      "Share wider assessment photographs.",
+      "Describe insulation obstructing the area."
+    ]
+  },
+  "crawl-space-mold-remediation/godley": {
+    "intro": "Crawl space mold remediation in Godley may require access behind insulation supports beneath the floor. We will coordinate controlled removal and cleaning of the affected material before the underside is covered again.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Godley: identify what blocks the wood",
+        "text": "Insulation facing, supports or utilities can obscure different framing faces. The provider will define the access needed for tools, not just a view from the hatch."
+      },
+      {
+        "title": "Clean the exposed assembly",
+        "text": "Specified affected porous material will be packaged under the controls. Retained reachable wood will receive suitable particle collection and detailed cleaning, with decay or compromised support referred for the appropriate repair."
+      },
+      {
+        "title": "Preserve usable fastening and support after removal",
+        "text": "Insulation supports or attached material may need movement to expose the affected wood. We will identify how that removal changes the eventual reinstatement, including deteriorated fastening edges or utilities requiring another provider. The remediation process will clean suitable retained accessible surfaces rather than conceal deposits behind new facing. New insulation should attach to a suitable assembly after source correction and relevant evaluation, with any structural repair kept distinct from the surface treatment."
+      },
+      {
+        "title": "Resolve moisture before reinstatement",
+        "text": "We will identify continuing source conditions, drying and required evaluation. Replacement insulation must not conceal surfaces still awaiting treatment or an unresolved damp section."
+      }
+    ],
+    "estimate": "Obstruction removal and the reachable treatment area shape the scope. Source correction and structural repair remain distinct tasks.",
+    "checklist": [
+      "Describe insulation supports and utilities.",
+      "Provide findings by location.",
+      "Share moisture-source work completed."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/godley": {
+    "intro": "Mold contaminated contents cleaning in Godley helps when a collection of household objects includes both washable and absorbent parts. We will evaluate the objects individually and clean suitable accessible components rather than assign the entire group one outcome.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Godley: examine removable inserts and backing",
+        "text": "A hard container may include a fabric liner or an unfinished base with different recovery limits. We will identify those components before accepting an item for routine treatment."
+      },
+      {
+        "title": "Clean the parts that can be reached",
+        "text": "Suitable controlled collection and compatible cleaning will address included faces and joints. Detachable parts may improve access, while delicate coatings require a limited evaluation before broader treatment."
+      },
+      {
+        "title": "Dry and separate the completed objects",
+        "text": "Accepted items will be dried appropriately and packed apart from untreated property. Remaining staining, damage or inaccessible interiors will stay attached to the recovery record rather than be hidden by a clean exterior."
+      }
+    ],
+    "estimate": "Mixed construction and detail access affect cost. Specialist items and disposal decisions will be identified separately from cleaning.",
+    "checklist": [
+      "Identify liners or removable inserts.",
+      "Share care instructions.",
+      "Flag objects needing personal review."
+    ]
+  },
+  "fire-damaged-debris-removal/godley": {
+    "intro": "Fire damaged debris removal in Godley helps clear damaged material from a room whose neighboring finishes will remain. We will plan the removal route and detach approved construction without treating retained property as waste.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Godley: check the route before dismantling",
+        "text": "Door widths, turns and stairs influence manageable load sizes. We will identify retained finishes needing protection and resolve utilities or unstable supports before removing attached components."
+      },
+      {
+        "title": "Contain approved waste during transfer",
+        "text": "Debris will be bagged, wrapped or otherwise handled appropriately for its condition. Salvage and inspection samples stay outside the disposal stream, with loose handling residue collected along the work route."
+      },
+      {
+        "title": "Avoid forcing oversized pieces through a retained opening",
+        "text": "A detached panel or cabinet may need further controlled dismantling before it can pass a narrow turn. We will assess that step inside the work area and contain loose residue, rather than drag the load against undamaged trim. Sharp fasteners and fragments will be handled to preserve containment. The removal route will receive collection of accessible remnants after transfer so waste handling does not leave a second cleanup area unaddressed."
+      },
+      {
+        "title": "Inspect what removal makes visible",
+        "text": "We will identify retained surfaces needing soot treatment, moisture work or repair. Clearing debris creates access; it does not establish that the exposed structure is ready to rebuild."
+      }
+    ],
+    "estimate": "Detachment and carrying constraints affect effort alongside volume. Subsequent cleaning and reconstruction will be separately described.",
+    "checklist": [
+      "Describe narrow exits or stairs.",
+      "Mark property to retain.",
+      "Share inspection holds."
+    ]
+  },
+  "fire-damaged-contents-cleaning/godley": {
+    "intro": "Fire damaged contents cleaning in Godley helps when upholstered belongings need a recovery decision after smoke exposure. We will examine the fabric and absorbent interior before explaining whether a suitable cleaning process or specialist care can address the damage.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Godley reviews the fabric and filling together",
+        "text": "A removable cover may look treatable while the cushion interior has retained contamination or response water. We will review accessible construction and care labels, including finishes, dyes and attached trims that affect treatment. Replacing only a cover will not be presented as recovery of an unresolved interior."
+      },
+      {
+        "title": "Choose treatment that reaches the affected material",
+        "text": "For accepted pieces, suitable collection will address loose deposits before the compatible textile or upholstery process is selected. That process may require a specialist according to the construction and exposure. We will explain what it can reach, any disassembly required and when deterioration or inaccessible contamination makes replacement the more practical decision."
+      },
+      {
+        "title": "Evaluate recovery before returning the piece to use",
+        "text": "After appropriate treatment and drying, the result will be reviewed for remaining odor, staining and physical damage. Seat support, zippers or other components needing repair will retain a separate decision. The owner will receive the remaining limitations before paying for additional work or accepting the item back."
+      }
+    ],
+    "estimate": "Fabric care requirements, cushion construction and the extent of exposure influence treatment. Specialist cleaning, component replacement and furniture repair will be distinguished rather than bundled into a general surface-cleaning claim.",
+    "checklist": [
+      "Photograph upholstery care labels.",
+      "Identify detachable cushions and covers.",
+      "Tell us whether firefighting water also reached the item."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/godley": {
+    "intro": "Fire extinguisher residue cleanup in Godley addresses residue around sensitive coatings and equipment after discharge. We will use the agent information to choose collection and cleaning that the affected materials can tolerate.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Godley: review earlier cleaning before continuing",
+        "text": "Wetting or wiping can change where residue remains. We will identify the agent where possible and review products already used before selecting compatible treatment."
+      },
+      {
+        "title": "Collect remaining deposits and detail the surface",
+        "text": "Appropriate filtered collection or another agent-suited method will remove loose material. Included edges and recesses will then be cleaned, with finish checks where coating response is uncertain."
+      },
+      {
+        "title": "Check joints affected by earlier wet cleaning",
+        "text": "Liquid introduced during an initial wipe can carry fine residue into seams or beneath a removable part. We will inspect reachable details and select further treatment using the agent information and material compatibility. Authorized detachment may improve access, while sealed equipment interiors require qualified review. Repeated washing of the broad surface will not be offered as a solution when the remaining deposit is in a location that process cannot reach."
+      },
+      {
+        "title": "Identify damage beyond residue",
+        "text": "Corrosion concerns, coating changes or deposits inside equipment require separate evaluation. Exterior cleanup will not be described as approval to operate a device or as repair of the fire damage."
+      }
+    ],
+    "estimate": "Prior disturbance, finish sensitivity and enclosed deposits influence the work. Equipment inspection and extinguisher servicing are separate.",
+    "checklist": [
+      "Save the agent label.",
+      "List cleaning products used.",
+      "Identify sensitive finishes nearby."
+    ]
+  },
+  "emergency-board-up-after-fire/godley": {
+    "intro": "Emergency board up after fire in Godley provides temporary protection while an opening awaits replacement. We will evaluate sound attachment material and fit coverage that accounts for authorized access during the repair period.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Godley: fit the current damaged assembly",
+        "text": "We will measure the actual exposure and inspect the perimeter, removing interfering loose fragments where safe. Suitable panels will be cut and fastened to reliable support, with gaps and movement checked afterward."
+      },
+      {
+        "title": "Plan controlled removal for a repair visit",
+        "text": "If measurement or inspection requires access, an agreed return can remove the panel and restore coverage afterward. Reused panels and fixing locations will be checked rather than assumed sound after repeated handling."
+      },
+      {
+        "title": "Review the fastening surface during a return visit",
+        "text": "Removing and replacing a panel can alter the condition of its holes, edges or supporting material. We will assess those points before refitting, replacing unsuitable temporary components or revising the attachment where necessary. The cover must still fit the current opening after another trade has measured or worked around it. Any remaining gap or support problem will be explained instead of relying on the earlier installation as proof the arrangement is still adequate."
+      },
+      {
+        "title": "Keep temporary protection clearly limited",
+        "text": "We will identify unresolved support or permanent frame work. Boarding does not establish occupancy permission or structural safety, and later coverage changes need coordination to avoid an unintentionally exposed opening."
+      }
+    ],
+    "estimate": "Initial fitting and any removal/refitting visits will be separated. Opening height and usable fastening material affect installation.",
+    "checklist": [
+      "Identify scheduled inspection visits.",
+      "Share entry restrictions.",
+      "Name the replacement coordinator."
+    ]
+  },
+  "crawl-space-sewage-cleanup/godley": {
+    "intro": "Crawl space sewage cleanup in Godley addresses contamination on the ground and underside after a drain release. We will extract accessible wastewater and treat the retained building surfaces as a distinct task from plumbing repair.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Godley: collect liquid and settled waste",
+        "text": "We will establish suitable entry and collection arrangements, then remove reachable accumulation. Solids and contaminated debris left after pumping require physical handling rather than a claim that emptying the pool cleaned the space."
+      },
+      {
+        "title": "Expose and clean retained components",
+        "text": "Specified affected insulation or covering will be contained for removal. Accessible building surfaces will have soil physically removed before appropriate disinfection; contaminated ground requiring additional work will receive its own decision."
+      },
+      {
+        "title": "Plan waste transfer through the available opening",
+        "text": "The hatch and clearance affect how contaminated insulation and collected waste can be removed. We will arrange suitable collection, containment and disposal rather than use an uncontrolled discharge beside the building. Removed material will be packaged for the carrying route, with accessible handling residue cleaned afterward. Any opening alteration needed for access will be separately explained before work proceeds."
+      },
+      {
+        "title": "Dry the structure before replacement",
+        "text": "Retained wood will be measured and dried where suitable. We will identify ongoing discharge, repair needs and inaccessible sections before insulation or covering conceals them."
+      }
+    ],
+    "estimate": "Liquid collection, ground conditions and retained-structure treatment will be separately defined. Source correction remains the plumbing task.",
+    "checklist": [
+      "Identify the repaired drain.",
+      "Describe previous pumping.",
+      "Share access and clearance details."
+    ]
+  }
+}

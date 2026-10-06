@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/garrett": {
+    "intro": "Emergency water extraction in Garrett helps when water covers more than a small, reachable patch of floor. We remove the free water first, then inspect the edges and transitions where liquid can disappear beneath a finish.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Garrett: recover water held at room edges",
+        "text": "We will collect pooled water and use suitable extraction tools along reachable edges and recesses. Water under a rug or furniture protector needs collection too; moving agreed items gives access rather than assuming the open walking area represents the entire room."
+      },
+      {
+        "title": "Check absorbent layers after the first pass",
+        "text": "Carpet can release additional water while its pad remains saturated. We will evaluate the source conditions and backing before choosing further extraction or removal. A contaminated or failing layer will not be kept simply because a tool can recover some liquid from it."
+      },
+      {
+        "title": "Connect collection to the remaining drying work",
+        "text": "Moisture checks will identify retained floor and wall components still wet after extraction. We will expose blocked treatment surfaces where justified and arrange drying around them. The record will distinguish water collected from materials that remain unavailable or need repair."
+      }
+    ],
+    "estimate": "The estimate depends on water depth, floor changes, stairs and how much furniture must move. It separates the initial collection from any material removal or continued drying.",
+    "checklist": [
+      "Mark the farthest visible water line.",
+      "Name the floor covering in each affected room.",
+      "Tell us whether contents can be moved before arrival."
+    ]
+  },
+  "burst-pipe-cleanup/garrett": {
+    "intro": "Burst pipe cleanup in Garrett addresses water from a pressurized line that may have crossed several building layers. After the supply is stopped, we trace the wet path and decide which finishes to open for access.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Garrett: check the lower plate beneath the repaired fitting",
+        "text": "A plumbing cut may expose a failed line without showing where water collected at the bottom of the wall. We will extract reachable water and inspect the lower framing, wallboard backing and floor junction. Adjoining finishes may need access even when the fitting itself is repaired."
+      },
+      {
+        "title": "Clear the cavity rather than dry through wet insulation",
+        "text": "Specified saturated insulation and damaged board will be removed and collected. We will clear accessible debris from the cavity and measure retained timber before placing drying equipment. Pipe and electrical work remain with the appropriate provider."
+      },
+      {
+        "title": "Account for both moisture and material damage",
+        "text": "Repeat readings will show the response of the retained assembly. Swollen trim or separated board can still require replacement after drying. We will identify those physical repairs and any unresolved source condition before the wall is closed."
+      }
+    ],
+    "estimate": "The plumbing access, affected floors and amount of insulation or wallboard to remove shape the cleanup. Plumbing repair and replacement finishes are distinct from water removal and drying.",
+    "checklist": [
+      "Note where the line failed and where it was repaired.",
+      "Identify rooms directly below the release.",
+      "Keep any opened wall accessible for inspection."
+    ]
+  },
+  "appliance-leak-cleanup/garrett": {
+    "intro": "Appliance leak cleanup in Garrett is useful when water has slipped under a machine and the visible wet area is smaller than its footprint. We check the concealed floor edge and cabinet toe space before deciding what can stay.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Garrett: clean the recess before another machine covers it",
+        "text": "After appropriate disconnection and movement, we will extract water from the appliance recess and inspect residue left on the floor. A drain-side release may require different material handling from a supply leak. That history helps determine retention and cleaning, rather than treating every appliance leak alike."
+      },
+      {
+        "title": "Reach the cabinet connection beside the recess",
+        "text": "A removable panel can expose the adjacent toe space without immediately removing the full unit. We will collect water and debris from reachable sections, remove damaged layers where needed and clean the retained base. Swollen composite backing may need replacement even when its finished face looks intact."
+      },
+      {
+        "title": "Dry the installation footprint",
+        "text": "We will measure and dry suitable retained material, then identify unevenness or softness needing repair. The returning appliance needs a suitable base, not merely a dry-looking floor. Reconnection and operating tests are separate service tasks."
+      }
+    ],
+    "estimate": "Access to a built-in unit, cabinet damage and flooring layers determine the work. The appliance connection or operation is handled by its service technician.",
+    "checklist": [
+      "Identify the appliance and when the leak was noticed.",
+      "Describe whether the unit has been disconnected or moved.",
+      "Point out swelling at the cabinet base or floor joints."
+    ]
+  },
+  "storm-water-damage-cleanup/garrett": {
+    "intro": "Storm water damage cleanup in Garrett addresses rainwater that has entered a building and wet interior finishes. We remove water and damaged material within the agreed scope while the opening itself is separately protected or repaired.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Garrett: remove material deposited at the entry",
+        "text": "Wind-driven rain and water carrying outdoor soil do not leave the same cleanup problem. We will evaluate the actual contact, collect liquid and remove sediment or debris before directing drying air across the area. The visible stain alone will not decide whether porous layers can remain."
+      },
+      {
+        "title": "Open the wet transition between outside and inside",
+        "text": "We will inspect reachable sill, trim and flooring edges for concealed water. Damaged or contaminated layers designated for removal will be cleared so retained surfaces can be physically cleaned. Appropriate additional treatment will follow the exposure conditions rather than a universal drying-only approach."
+      },
+      {
+        "title": "Avoid rebuilding an entry that still admits water",
+        "text": "Exterior protection and repair must prevent renewed entry. We will monitor retained wet materials and report changes suggesting another release. Interior replacement follows the cleaned and dried assembly, with exterior repair responsibilities separately identified."
+      }
+    ],
+    "estimate": "The number of entry points, concealed wet areas, debris handling and temporary protection affect the estimate. Share any roof, window or door repair information available.",
+    "checklist": [
+      "Describe where rain first appeared indoors.",
+      "List temporary covers or exterior repairs already made.",
+      "Identify finishes that are loose, sagging or removed."
+    ]
+  },
+  "structural-drying-services/garrett": {
+    "intro": "Structural drying services in Garrett help when water has been collected but framing or a floor base still holds moisture. We select repeatable check points in the affected materials and use those readings to adjust equipment or removal.",
+    "sections": [
+      {
+        "title": "Structural drying services in Garrett: investigate a location that stays wet",
+        "text": "A damp section that stops improving needs a reason identified, not automatically more equipment days. We will compare repeat readings and check for renewed leakage, blocked evaporation or another concealed layer. Equipment interruptions will also be considered when interpreting progress."
+      },
+      {
+        "title": "Create an evaporation path for retained material",
+        "text": "Where suitable, we will open access or remove an obstructing damaged layer so air can reach wet surfaces. Directed airflow supports evaporation while dehumidification removes moisture from the treatment air. Material that has lost strength or cannot be adequately treated may require removal instead."
+      },
+      {
+        "title": "Finish with the condition of the assembly",
+        "text": "Measurements will identify what responded and what remains unresolved. Dried wood and a failed floor adhesive can require different next steps in the same area. The handoff will distinguish moisture work from substrate repairs and the installer’s product requirements."
+      }
+    ],
+    "estimate": "Material type, cavity access, equipment placement and repeat monitoring affect duration. Prior readings and a list of removed layers help define the starting condition.",
+    "checklist": [
+      "Name what was extracted and when.",
+      "List concealed layers still in place.",
+      "Share earlier moisture readings, if available."
+    ]
+  },
+  "floor-water-damage-cleanup/garrett": {
+    "intro": "Floor water damage cleanup in Garrett addresses moisture caught between a finish floor and its base. We inspect the joint pattern and exposed edges to determine whether targeted lifting can reach the affected layer.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Garrett: examine the doorway between two flooring systems",
+        "text": "Water crossing a threshold may reach carpet pad on one side and a bonded finish on the other. We will extract accessible water and inspect those edges separately. One material’s recovery decision will not automatically apply across the transition."
+      },
+      {
+        "title": "Expose and clean the base that will remain",
+        "text": "We will lift specified damaged layers, collect trapped water and remove loose waste from the exposed substrate. A deteriorated backing requires disposal rather than repeated extraction. Suitable retained support will receive cleaning and measured drying before replacement is considered."
+      },
+      {
+        "title": "Resolve the transition after moisture work",
+        "text": "We will identify subfloor damage or unevenness left after drying. The new finish may need a transition because its thickness or construction differs from the retained side. Matching a larger area is an appearance choice distinct from the physical cleanup boundary."
+      }
+    ],
+    "estimate": "Floor construction, furniture, transitions and the amount of underlayment exposed drive the scope. Photos of lifted edges help show whether the finish can be matched or continued.",
+    "checklist": [
+      "Identify finish and underlayment materials.",
+      "Show raised seams or any area already lifted.",
+      "Describe where water entered the floor system."
+    ]
+  },
+  "ceiling-water-damage-cleanup/garrett": {
+    "intro": "Ceiling water damage cleanup in Garrett addresses a leak that has left a stain, soft panel or sagging section overhead. We locate the source path and remove unstable material only far enough to reach wet layers and inspect the framing.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Garrett: check the edge around an existing cut",
+        "text": "A repair opening may leave softened board or wet insulation around its perimeter. We will inspect reachable edges and plan controlled removal with protection below. The cut may need adjustment to reach damaged material rather than preserve an arbitrary patch size."
+      },
+      {
+        "title": "Remove overhead waste and inspect the cavity",
+        "text": "Specified wet insulation and unstable board will be collected without leaving loose fragments above the replacement. We will clean accessible debris from retained supports and measure their moisture. Fixtures or services crossing the work area require appropriate trade involvement."
+      },
+      {
+        "title": "Leave a suitable boundary for the new panel",
+        "text": "Drying equipment will serve the exposed retained assembly and progress will be checked. Loose fastening edges or deteriorated support still need repair even after moisture falls. Ceiling closure follows those findings and source correction, with decorative texture blending handled separately."
+      }
+    ],
+    "estimate": "Ceiling height, texture, insulation and the size of the safe access opening affect labor and finish matching. Let us know if the leak source has been repaired and whether the ceiling is sagging.",
+    "checklist": [
+      "Identify the room and source suspected above it.",
+      "Keep people clear of unstable overhead material.",
+      "Share any plumbing or roof repair findings."
+    ]
+  },
+  "bathroom-mold-removal/garrett": {
+    "intro": "Bathroom mold removal in Garrett addresses reported growth at a fixture edge or on a bathroom finish. The work begins by deciding whether the material is cleanable or whether water-damaged caulk, trim or wallboard must come out.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Garrett: distinguish a failed seal from affected backing",
+        "text": "Replacing caulk may be part of repair, but it cannot treat affected material behind a fixture edge. We will use available findings to define the access needed before resealing. Containment and material handling will reflect the remediation scope."
+      },
+      {
+        "title": "Remove affected layers and clean the accessible structure",
+        "text": "Specified porous backing or damaged components will be removed and packaged. Retained reachable surfaces will receive suitable particulate collection and material-compatible cleaning, including exposed junctions. Sound tile and deteriorated wallboard behind it need separate retention decisions."
+      },
+      {
+        "title": "Restore the water-management detail afterward",
+        "text": "The provider will identify remaining moisture correction and any required completion evaluation. New waterproofing, sealant or finish belongs on an assembly ready to receive it. Plumbing service and reconstruction remain distinct from the removal and cleaning just completed."
+      }
+    ],
+    "estimate": "Fixture access, tile or surround construction and the extent of material behind trim shape the scope. Existing assessment notes and source-repair details help define the work boundary.",
+    "checklist": [
+      "Identify the fixture and the affected joint.",
+      "Share any inspection findings or photographs.",
+      "Note plumbing, caulk or ventilation work already completed."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/garrett": {
+    "intro": "Kitchen cabinet mold removal in Garrett addresses affected cabinet components and the wall or floor behind them. We inspect the cabinet base and plumbing cutouts to determine which piece must move for the reported area to be reached.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Garrett: reach the back of a damaged sink base",
+        "text": "A failed bottom panel can hide affected edges at the wall and floor. We will define removal needed to reach those surfaces, with contents and removable shelves handled separately. Counter support and plumbing connections will be considered before the cabinet is dismantled."
+      },
+      {
+        "title": "Clean the surfaces revealed by panel removal",
+        "text": "Affected porous components designated for disposal will be packaged under the work controls. Suitable retained wood and other accessible surfaces will receive particulate collection and detailed cleaning around joints and cutouts. Wiping the door face does not perform that concealed-surface work."
+      },
+      {
+        "title": "Check fastening and support before reassembly",
+        "text": "A composite edge may no longer hold a fastener after swelling. We will identify material repairs alongside remaining drying and required evaluation. Replacement panels should close a treated, suitable cavity rather than hide weak backing or unresolved leakage."
+      }
+    ],
+    "estimate": "Cabinet construction, countertop support, plumbing access and matching replacement fronts affect the proposal. Share the cabinet layout and whether a plumber has located the source.",
+    "checklist": [
+      "Empty the affected cabinet.",
+      "Identify nearby water and drain connections.",
+      "Note whether the countertop is attached to the cabinet run."
+    ]
+  },
+  "mold-remediation-after-water-damage/garrett": {
+    "intro": "Mold remediation after water damage in Garrett addresses identified material after a leak or overflow. The scope uses the reported water path and assessment findings to define what needs containment, removal and cleaning.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Garrett: review newly opened material on its own merits",
+        "text": "A floor or wall opened during repairs may expose a surface that earlier drying could not reach. We will review current findings and moisture conditions before disturbing more material. The prior extraction visit will not be treated as evidence that this newly visible layer was remediated."
+      },
+      {
+        "title": "Change the work controls to fit the finding",
+        "text": "The provider scope will establish containment and identify affected porous material for controlled removal and packaging. Retained reachable surfaces will receive appropriate particle collection and cleaning. Simply extending ordinary drying will not remove deposits from those surfaces."
+      },
+      {
+        "title": "Give reconstruction a current material status",
+        "text": "We will identify continuing moisture correction, remaining treatment and required independent evaluation. The repair boundary may change when additional affected material is exposed. New coverings follow that current status rather than the original water-loss schedule."
+      }
+    ],
+    "estimate": "The affected materials, containment, previous openings and separate source or assessment work change the estimate. Provide the water-loss timeline and any findings already documented.",
+    "checklist": [
+      "List the original water source and repair date.",
+      "Share assessment or drying records.",
+      "Identify materials previously removed."
+    ]
+  },
+  "mold-removal-behind-drywall/garrett": {
+    "intro": "Mold removal behind drywall in Garrett focuses on reaching the reported cavity without making an arbitrary wall opening. We use the inspection location and wall construction to set a removal edge that exposes the material in question.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Garrett: reach the framing faces beside the opening",
+        "text": "An inspection hole may reveal affected backing without allowing tools to reach the adjacent stud faces. We will explain the opening needed for actual treatment, considering insulation and utility positions. The scope will identify affected components rather than default to a whole-wall demolition."
+      },
+      {
+        "title": "Clean the supporting assembly after board removal",
+        "text": "Specified wallboard and unsuitable insulation will be removed under the remediation controls and packaged for disposal. Accessible studs, lower plates and connecting surfaces will receive appropriate particle collection and cleaning. Damaged wood that cannot serve as sound support needs a repair decision beyond surface treatment."
+      },
+      {
+        "title": "Keep the cavity open through its completion checks",
+        "text": "Source correction, moisture work and required evaluation must be addressed before new insulation and board cover the area. We will distinguish treated surfaces from any portion not reached. The finish contractor can then form a suitable patch edge without concealing unfinished remediation."
+      }
+    ],
+    "estimate": "Wall layers, insulation, finish texture and the extent of the reported material affect opening and restoration quantities. Share assessment notes and mark any prior access hole.",
+    "checklist": [
+      "Identify the wall and reported location.",
+      "Show existing openings or inspection marks.",
+      "Share source-correction notes and planned finish repairs."
+    ]
+  },
+  "kitchen-fire-cleanup/garrett": {
+    "intro": "Kitchen fire cleanup in Garrett addresses burned material and residue around cooking equipment, counters and cabinets. We separate the removal of heat-damaged parts from cleaning surfaces that remain sound.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Garrett: test cabinet coatings beneath the deposit",
+        "text": "A darkened cabinet can carry removable residue while its coating has softened from heat. We will evaluate a limited area and choose compatible collection and cleaning. Blistered finishes or separating veneer will be identified as damage rather than scrubbed repeatedly in the hope of recovery."
+      },
+      {
+        "title": "Treat recessed details after loose residue is collected",
+        "text": "Agreed profiles, hardware areas and accessible shelf edges will receive detailed cleaning. Burned material designated for removal will be cleared with attention to attached counters and utilities. Contents inside the unit will retain their own recovery decision instead of being assumed clean with the exterior."
+      },
+      {
+        "title": "Check the floor before closing the cabinet base",
+        "text": "Response water can remain in the toe space or beneath flooring. We will collect accessible water, inspect the affected layers and identify necessary drying or removal. Appliance operation and internal contamination require separate technical review before equipment returns."
+      }
+    ],
+    "estimate": "Burned construction, soot treatment, contents and any response-water damage are separate quantities. Identify which appliances were exposed and what has already been cleaned.",
+    "checklist": [
+      "List visibly burned components.",
+      "Identify appliances for qualified inspection.",
+      "Note whether water reached cabinets or flooring."
+    ]
+  },
+  "smoke-damage-cleanup/garrett": {
+    "intro": "Smoke damage cleanup in Garrett addresses soot that settled beyond the room where the fire started. We inspect surfaces and belongings by finish so cleaning does not grind residue into paint, fabric or porous material.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Garrett: evaluate a surface already wiped",
+        "text": "Earlier cleaning can leave smears or change a coating without removing all deposits. We will inspect the remaining condition and test sensitive surfaces before broader treatment. A damaged finish will be distinguished from soot that can still be collected or cleaned."
+      },
+      {
+        "title": "Work into the details left after broad wiping",
+        "text": "Suitable loose-particle collection will precede compatible detail cleaning. Door profiles, upper ledges and accessible fixture edges can retain residue beyond the main wall face. We will identify absorbent or fragile material that needs a separate recovery decision rather than force one process onto every surface."
+      },
+      {
+        "title": "Investigate remaining odor before applying a finish",
+        "text": "We will check for untreated contents, concealed deposits or material requiring removal when odor persists. Additional treatment will follow those findings. Paint or sealing may belong to the repair plan, but neither replaces physical cleaning of accessible residue."
+      }
+    ],
+    "estimate": "Room count, ceiling access, delicate finishes and contents handling shape the estimate. Tell us which surfaces were wiped or sealed after the fire.",
+    "checklist": [
+      "Identify rooms beyond the fire area with residue.",
+      "List contents or finishes needing careful handling.",
+      "Describe cleaners or coatings already applied."
+    ]
+  },
+  "toilet-overflow-cleanup/garrett": {
+    "intro": "Toilet overflow cleanup in Garrett addresses wastewater that has spread past the toilet and into floor joints or a nearby room. We trace the contact area before selecting flooring and trim for removal.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Garrett: collect wastewater from the original contact area",
+        "text": "We will extract reachable wastewater and inspect the spread described before mopping or contents movement. A dry surface at the visit does not undo contact with contaminated water. Absorbent floor layers and lower storage will receive individual removal or treatment decisions."
+      },
+      {
+        "title": "Expose and clean the contaminated edge",
+        "text": "Specified porous waste will be contained and removed to reach the substrate and trim undersides. We will physically remove soil and residue from retained suitable surfaces before appropriate disinfection according to product requirements. An inaccessible contact surface needs an access decision rather than a claim that spraying the room treated it."
+      },
+      {
+        "title": "Dry the retained building material",
+        "text": "Moisture checks will guide drying of the exposed base and lower wall. Damaged backing or swollen trim may still need replacement afterward. Plumbing correction and cleanup are separate requirements before new coverings or belongings return."
+      }
+    ],
+    "estimate": "The overflow path, flooring construction, contents and amount of lower-wall material affect removal. Describe the wastewater source and the farthest area it reached.",
+    "checklist": [
+      "Identify whether the toilet, drain or supply caused the overflow.",
+      "Mark the farthest point of contact.",
+      "List flooring or trim already removed."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/garrett": {
+    "intro": "AC leak water damage cleanup in Garrett addresses condensate that escaped the air handler or drain route and reached building finishes. We follow the water from the equipment area to identify which ceiling, wall or floor layers need drying access.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Garrett: check the support below the equipment",
+        "text": "Water can soak a platform or cabinet beneath an air handler while the equipment remains in place. We will collect accessible liquid and inspect reachable edges for moisture, swelling and softness. Removing a load-bearing portion requires the appropriate support and trade arrangements first."
+      },
+      {
+        "title": "Expose the wet layers around the unit",
+        "text": "Specified damaged board or insulation will be removed so retained components can be cleaned and dried. We will protect connections and identify any HVAC movement needed to gain access. A damp section hidden under the unit will remain an explicit limitation until it can be reached."
+      },
+      {
+        "title": "Separate dried material from restored support",
+        "text": "Repeat readings will track the retained assembly after source correction. A panel that lost strength may require repair even after it dries. The HVAC provider handles equipment and drainage testing, while the restoration handoff identifies the building work still needed before enclosure."
+      }
+    ],
+    "estimate": "Unit location, route length, ceiling access and concealed insulation influence the scope. Share the technician’s findings and where water was seen.",
+    "checklist": [
+      "Name the air-handler location.",
+      "Share HVAC diagnosis or repair notes.",
+      "Describe any rooms or finishes below the condensate route."
+    ]
+  },
+  "crawl-space-water-removal/garrett": {
+    "intro": "Crawl space water removal in Garrett addresses pooled water beneath a floor where access and clearance determine what equipment can reach. We assess the route from the hatch before setting a pump or extraction tool.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Garrett: collect isolated pools as access permits",
+        "text": "We will assess entry conditions and arrange pumping or extraction for reachable low points. The discharge route must avoid returning water to the affected space. Pools separated by obstructions will be identified individually rather than counted as removed when the nearest area clears."
+      },
+      {
+        "title": "Inspect what the receding water reveals",
+        "text": "Wet fallen insulation and debris may need removal to uncover the underside. We will handle specified waste and check accessible framing and subfloor for dampness. Suspected sewage contact or another contamination concern changes the treatment plan before ordinary drying proceeds."
+      },
+      {
+        "title": "Dry retained components without concealing limits",
+        "text": "Equipment will be arranged around the available clearance and material readings will track progress. Continuing inflow needs source correction, not simply repeated pumping. We will identify deterioration or unreachable sections before insulation or ground covering is replaced."
+      }
+    ],
+    "estimate": "Access dimensions, water depth, equipment distance and debris volume affect cost. Describe clearance and any pump or drainage work already underway.",
+    "checklist": [
+      "Describe the access opening and interior clearance.",
+      "Mark visible pooling if safely accessible.",
+      "List insulation or debris already taken out."
+    ]
+  },
+  "attic-mold-remediation/garrett": {
+    "intro": "Attic mold remediation in Garrett addresses affected attic material when roofing or insulation work is also being considered. We will coordinate the remediation boundary with those repairs so retained surfaces are treated and material due for replacement is handled deliberately.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Garrett separates replacement from retained-surface treatment",
+        "text": "A roofing contractor may plan to replace a damaged sheathing section while nearby framing remains in place. We will review the available assessment and repair boundary with the responsible providers. The remediation plan will identify affected material for controlled removal and the surfaces left behind that still require cleaning."
+      },
+      {
+        "title": "Control debris entering the insulation and occupied rooms",
+        "text": "Before disturbance, the provider will establish the necessary work controls and handling route. Affected insulation or material receiving debris may need removal according to the plan. Loose deposits on suitable retained components will be collected and the specified cleaning performed before new insulation conceals the surfaces below the roof."
+      },
+      {
+        "title": "Sequence the roof opening and the interior completion",
+        "text": "Exterior replacement and attic treatment need coordination so the building remains protected while each provider reaches the required surfaces. We will identify moisture correction, drying and any independent evaluation that must precede reinstatement. The finished scope will distinguish replaced roof components from retained material actually treated, rather than describing roofing work alone as complete attic remediation."
+      }
+    ],
+    "estimate": "The overlap between roofing access, insulation handling and retained wood treatment influences the proposal. If no roof replacement is planned, remediation will still be based on the affected material and suitable access rather than requiring unnecessary roofing work.",
+    "checklist": [
+      "Share assessment findings and any roofing proposal.",
+      "Identify insulation removal or replacement already planned.",
+      "Tell us which roof or moisture repairs are complete."
+    ]
+  },
+  "crawl-space-mold-remediation/garrett": {
+    "intro": "Crawl space mold remediation in Garrett addresses identified surfaces below the floor where insulation or stored debris may block access. We use the reported locations and moisture conditions to distinguish visible surfaces from those that cannot yet be reached.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Garrett: expose affected joist sides",
+        "text": "A bottom edge visible from the hatch does not show the condition of the side faces or floor connection. We will establish access to the scoped surfaces and identify insulation or utilities that obstruct tools. Any necessary movement or removal will have a defined purpose."
+      },
+      {
+        "title": "Treat the accessible assembly under the controls",
+        "text": "Specified unsuitable porous material will be removed and packaged. Retained wood will receive appropriate particle collection and detailed cleaning at reachable faces and joints. Structural deterioration cannot be corrected by this cleaning and will be identified for the relevant repair provider."
+      },
+      {
+        "title": "Check the material before restoring its covering",
+        "text": "We will describe remaining dampness, source correction and any required independent evaluation. Replacement insulation belongs after the relevant treatment and moisture work. Portions not reached will stay clearly identified rather than disappear into a whole-crawl-space completion statement."
+      }
+    ],
+    "estimate": "Clearance, obstruction removal, insulation handling and the area identified for treatment affect the estimate. Share assessment notes and access details.",
+    "checklist": [
+      "Describe the hatch and clearance beneath the floor.",
+      "Share photos or assessment notes for the affected area.",
+      "Identify insulation or barrier sections already moved."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/garrett": {
+    "intro": "Mold contaminated contents cleaning in Garrett helps when stored belongings need evaluation after a moisture or mold problem. We will distinguish items merely located near the affected area from items with supported contamination findings, then select an appropriate recovery approach.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Garrett establishes the exposure before disposal",
+        "text": "Location alone does not justify discarding every object in a room. We will review available findings, visible condition and how the belongings were stored. Sealed washable containers, open boxes and damp absorbent goods may need different decisions, including evaluation of the packaging separately from what it holds."
+      },
+      {
+        "title": "Clean an accepted batch without mixing it with untreated property",
+        "text": "We will establish handling space and separate untreated items from those being cleaned. Suitable collection and material-compatible cleaning will address the included surfaces, with contaminated disposable packaging removed as agreed. Clean wrapping and containers will be used for completed property rather than returning it to the same affected cardboard."
+      },
+      {
+        "title": "Decide where specialist recovery is worthwhile",
+        "text": "Books, photographs and sensitive collections can be damaged by ordinary wet cleaning and may need specialist conservation. We will explain those limits before treatment and identify any item requiring individual authorization. For washable goods accepted into the cleaning scope, the completed result and remaining condition will be recorded so the return decision is based on the item, not a blanket room label."
+      }
+    ],
+    "estimate": "Exposure findings, packaging and the division between washable goods and specialist property determine labor. An inventory helps establish priorities without assuming every nearby possession needs the same process.",
+    "checklist": [
+      "Describe whether belongings were boxed, sealed or exposed.",
+      "Identify damp packaging and visibly affected items.",
+      "Flag photographs, books and sensitive collections."
+    ]
+  },
+  "fire-damaged-debris-removal/garrett": {
+    "intro": "Fire damaged debris removal in Garrett addresses construction material approved for disposal after a fire. We mark the removal boundary and protect retained belongings before carrying debris through the property.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Garrett: plan removal of attached components",
+        "text": "A partly burned cabinet can still connect to a counter or utility, while fallen fragments need only collection. We will identify those dependencies before dismantling approved material. Required disconnection or support work must occur before the affected section is pulled or cut free."
+      },
+      {
+        "title": "Contain the load before crossing retained areas",
+        "text": "Approved debris will be reduced into manageable pieces where appropriate and contained for transfer. We will protect the carrying path and keep salvage, samples and retained belongings outside the waste stream. Sharp fragments need handling that preserves the containment during movement."
+      },
+      {
+        "title": "Collect remnants and assess the exposed structure",
+        "text": "After bulk removal, reachable loose pieces and handling residue will be collected. We will identify soot or moisture treatment still required on retained surfaces. A cleared room provides access for recovery; it does not establish that remaining charred or damaged support is sound."
+      }
+    ],
+    "estimate": "The marked area, debris volume, containment and carrying distance determine the removal scope. Identify materials to retain and any areas already cleared.",
+    "checklist": [
+      "Mark the approved removal boundary.",
+      "Set aside contents or samples that must remain.",
+      "Identify the intended debris exit route."
+    ]
+  },
+  "fire-damaged-contents-cleaning/garrett": {
+    "intro": "Fire damaged contents cleaning in Garrett helps when belongings must be moved out for building repairs but their recovery decisions are still unresolved. We will establish which items need prompt stabilization, which can receive cleaning and which require a specialist before treatment.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Garrett prioritizes wet and fragile belongings",
+        "text": "Firefighting water can leave textiles, paper and furniture damp while soot remains on them. We will evaluate those combined exposures before packing; trapping wet property in closed containers can prolong damage. Items needing specialized drying or conservation will be separated for that care rather than included in routine surface cleaning."
+      },
+      {
+        "title": "Choose the process for the material group",
+        "text": "Suitable washable hard goods can receive residue removal and compatible cleaning, while fabric construction, dyes and care requirements affect textile recovery. Upholstered pieces need evaluation of the covering and absorbent interior before a cleaning proposal is made. We will explain when the proposed process can reach the affected material and when hidden contamination or heat damage makes recovery uncertain."
+      },
+      {
+        "title": "Keep the recovery decision useful to the owner",
+        "text": "A sample treatment can help determine whether a group of similar belongings responds well enough to continue. We will discuss remaining odor, staining or finish damage before committing to extensive work. Items approved for return will be appropriately dry and protected, with unresolved pieces kept identifiable for the owner or specialist."
+      }
+    ],
+    "estimate": "Treatment urgency, material groups and the need for specialized drying affect the contents plan. Packing for temporary storage will be distinguished from completed cleaning so moving an item is not mistaken for restoring it.",
+    "checklist": [
+      "Identify belongings still damp from the response.",
+      "Flag paper, textiles or heirlooms requiring specialist care.",
+      "Tell us which rooms must be cleared for construction."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/garrett": {
+    "intro": "Fire extinguisher residue cleanup in Garrett removes discharged agent from surfaces after the fire is controlled. We identify the extinguisher type and finish materials first because powder, foam and liquid agents require different collection choices.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Garrett: use agent information before selecting equipment",
+        "text": "The label or response record helps distinguish the discharged material from surrounding soot. We will assess the affected surfaces and select compatible collection and cleaning. Unknown residue will not automatically receive a wet process that could damage its coating or spread the deposit."
+      },
+      {
+        "title": "Collect bulk agent before detailing recesses",
+        "text": "Suitable filtered collection or another agent-appropriate method will remove loose material. Included seams, shelf edges and accessible recesses will then receive compatible cleaning, with sensitive finishes tested first. Sweeping powder into nearby openings would move the problem instead of resolving it."
+      },
+      {
+        "title": "Identify equipment limits and permanent damage",
+        "text": "Residue near vents can require internal inspection by an appropriate technician. We will distinguish cleaned exterior surfaces from equipment operating condition. Corrosion, coating changes and damage caused by the fire remain separate repair questions after deposits are removed."
+      }
+    ],
+    "estimate": "Agent type, amount, finish sensitivity and equipment exposure affect labor. Share the extinguisher label and note where loose residue remains.",
+    "checklist": [
+      "Keep people from tracking loose residue through the area.",
+      "Identify the extinguisher type if known.",
+      "List electronics or appliances near the discharge."
+    ]
+  },
+  "emergency-board-up-after-fire/garrett": {
+    "intro": "Emergency board up after fire in Garrett temporarily covers a damaged opening while permanent repair is arranged. We check the surrounding frame and choose fastening points that hold without blocking necessary access.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Garrett: measure the exposed area and usable support",
+        "text": "We will examine the perimeter and prepare loose fragments that interfere with fitting where conditions permit. Panel dimensions will follow the actual opening and available fixing surface. Weakened framing needs an alternative support or repair decision before it is relied on."
+      },
+      {
+        "title": "Cut, seat and fasten the panel",
+        "text": "Suitable coverage will be cut and positioned, then secured with fasteners appropriate to the sound supporting material. We will check seating, movement and remaining gaps. The installation will be described as temporary protection rather than a substitute for permanent weatherproof construction."
+      },
+      {
+        "title": "Arrange access without changing occupancy restrictions",
+        "text": "Authorized entry and necessary utility access will be considered in the installation. Later measurements or replacement may require controlled removal and refitting so the opening is not unintentionally left exposed. Boarding alone does not establish structural safety or permission to occupy the property."
+      }
+    ],
+    "estimate": "Opening dimensions, frame condition, panel material and access affect the temporary work. Send photos that show the full opening and any route that must remain usable.",
+    "checklist": [
+      "List every exposed window, door or wall opening.",
+      "Identify entries and exits that must stay available.",
+      "Show loose framing or nearby utility equipment."
+    ]
+  },
+  "crawl-space-sewage-cleanup/garrett": {
+    "intro": "Crawl space sewage cleanup in Garrett addresses wastewater that has contacted soil, insulation or framing beneath the floor. We trace the accessible path and remove porous material that cannot be cleaned as part of the proposed scope.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Garrett: extract wastewater before handling settled waste",
+        "text": "We will establish suitable access and collection routes, then pump or extract reachable wastewater. Settled solids and contaminated debris still need physical removal after the liquid level falls. Continued source discharge must be corrected rather than hidden by repeated pumping."
+      },
+      {
+        "title": "Expose and clean retained contact surfaces",
+        "text": "Specified affected insulation or ground covering will be contained for disposal where it cannot remain. Accessible retained building components will have soil and residue physically removed before appropriate disinfection. Contaminated soil or surfaces blocked from treatment will receive a separate stated decision rather than a blanket claim of cleanup."
+      },
+      {
+        "title": "Dry the building components before covering them",
+        "text": "We will measure accessible joists and subfloor and arrange drying for recoverable wet material. The ground condition and retained building structure will have distinct completion findings. Replacement layers follow that work and any necessary repair, with access limitations still identified."
+      }
+    ],
+    "estimate": "The access route, clearance, contact area and amount of insulation or soil to remove affect the plan. Share the source-repair status and any areas already cleaned.",
+    "checklist": [
+      "Identify the drain, fixture or line involved.",
+      "Describe the crawl-space entry and clearance.",
+      "Note contacted insulation or debris already removed."
+    ]
+  }
+}

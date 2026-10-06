@@ -1,0 +1,279 @@
+{
+  "fate": {
+    "keyword": "Property damage restoration in Fate",
+    "description": "Property damage restoration in Fate helps when a stained ceiling, damaged floor, fire residue, or wastewater spill leaves you unsure how much of the room needs restoration.",
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "Property damage restoration in Fate helps when a stained ceiling, damaged floor, fire residue, or wastewater spill leaves you unsure how much of the room needs restoration. We will inspect accessible damage and perform the agreed cleanup and material work. You will receive an explanation of what we found and what is still concealed.",
+    "sections": [
+      {
+        "title": "Property damage restoration in Fate: separate what is visible from what needs access",
+        "paragraphs": [
+          "A mark on paint is a reason to investigate, not a measurement of all damage behind it. We will consider the incident history, accessible surfaces, and adjacent material. Any proposed opening will identify the question it is intended to resolve."
+        ]
+      },
+      {
+        "title": "Restore the affected material",
+        "paragraphs": [
+          "We will carry out the agreed extraction, drying, cleaning, or removal and arrange the appropriate provider for mold remediation. The scope will identify components to retain and components to replace. We will protect practical access for the work without promising that an occupied property will be free of disruption."
+        ]
+      },
+      {
+        "title": "Explain what the repair contractor receives",
+        "paragraphs": [
+          "The restoration record will identify material removed and conditions still being monitored. We will distinguish a source repair from completion of cleanup and identify further evaluation needed. This creates a usable repair boundary instead of a general statement that the room is finished."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Describe the first sign of damage.",
+      "Share whether the source is corrected.",
+      "Identify earlier openings or repairs."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/fate/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/mold-remediation/fate/",
+        "label": "Mold remediation"
+      },
+      {
+        "href": "/fire-smoke-damage-restoration/fate/",
+        "label": "Fire and smoke restoration"
+      }
+    ]
+  },
+  "water-damage-restoration/fate": {
+    "keyword": "Water damage restoration in Fate",
+    "description": "Water damage restoration in Fate addresses wet ceilings, wall assemblies, flooring, and cabinetry following water intrusion.",
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "Water damage restoration in Fate addresses wet ceilings, wall assemblies, flooring, and cabinetry following water intrusion. A ceiling stain can be smaller than the damp material above it, while a wet floor can hide moisture at its edges. We will evaluate accessible conditions and perform extraction and drying suited to the affected components.",
+    "sections": [
+      {
+        "title": "Water damage restoration in Fate: check connected building layers",
+        "paragraphs": [
+          "Tell us which fixture, appliance, pipe, or exterior area was involved and whether flow has stopped. We will consider where the water could be observed moving and inspect accessible adjoining components. A proposed ceiling or wall opening will have a stated access or material-removal purpose."
+        ]
+      },
+      {
+        "title": "Dry what can remain and identify what cannot",
+        "paragraphs": [
+          "Material condition and access determine whether retained layers can be dried in place. We will explain removal that creates the necessary working area and document the resulting repair opening. Drying equipment will serve that defined area rather than simply be placed beside the stain."
+        ]
+      },
+      {
+        "title": "Use observations from repeat checks",
+        "paragraphs": [
+          "Progress will be recorded so remaining damp portions receive attention before finishes are replaced. We will discuss suspected mold through the appropriate remediation scope if needed. Source correction and the drying status will both be included in the repair handoff."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Describe the source and affected levels.",
+      "Share photos taken before water removal.",
+      "Identify recent plumbing or ceiling repairs."
+    ],
+    "links": [
+      {
+        "href": "/emergency-water-extraction/fate/",
+        "label": "Emergency water extraction"
+      },
+      {
+        "href": "/structural-drying-services/fate/",
+        "label": "Structural drying"
+      },
+      {
+        "href": "/mold-remediation-after-water-damage/fate/",
+        "label": "Mold remediation after water damage"
+      }
+    ]
+  },
+  "fire-smoke-damage-restoration/fate": {
+    "keyword": "Fire and smoke damage restoration in Fate",
+    "description": "Fire and smoke damage restoration in Fate restores fire-affected rooms by removing damaged material and cleaning retained surfaces and belongings within the agreed scope.",
+    "image": "kitchen-fire-cleanup",
+    "intro": "Fire and smoke damage restoration in Fate restores fire-affected rooms by removing damaged material and cleaning retained surfaces and belongings within the agreed scope. Smoke may leave residue beyond the fire\u2019s immediate location. We will review those areas after restoration access is available instead of limiting the work to the visibly burned component.",
+    "sections": [
+      {
+        "title": "Fire and smoke damage restoration in Fate: review room boundaries and belongings",
+        "paragraphs": [
+          "Tell us which doors were open and what items were moved during or after the incident. That history supports a review of accessible residue; it does not substitute for examining the material. We will identify surfaces included in cleaning and areas requiring further evaluation."
+        ]
+      },
+      {
+        "title": "Choose a treatment for the actual material",
+        "paragraphs": [
+          "Cabinet surfaces, painted walls, flooring, and contents do not all respond to the same process. We will explain cleaning and removal decisions before work begins. Specialist contents needs and unrecoverable components will remain individual decisions."
+        ]
+      },
+      {
+        "title": "Coordinate response-water restoration",
+        "paragraphs": [
+          "Water used during the incident may leave separate damp assemblies needing extraction or drying. We will include those findings in the work sequence and record the condition passed to reconstruction. New paint will follow the cleanup decision rather than serve as the cleanup itself."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Share fire response details.",
+      "Identify moved belongings and prior wiping.",
+      "Describe all rooms with visible residue."
+    ],
+    "links": [
+      {
+        "href": "/smoke-damage-cleanup/fate/",
+        "label": "Smoke damage cleanup"
+      },
+      {
+        "href": "/fire-damaged-debris-removal/fate/",
+        "label": "Fire-damaged debris removal"
+      },
+      {
+        "href": "/fire-damaged-contents-cleaning/fate/",
+        "label": "Fire-damaged contents cleaning"
+      }
+    ]
+  },
+  "mold-remediation/fate": {
+    "keyword": "Mold remediation in Fate",
+    "description": "Mold remediation in Fate addresses mold-affected materials in kitchens, bathrooms, walls, and other defined areas.",
+    "image": "kitchen-cabinet-mold-removal",
+    "intro": "Mold remediation in Fate addresses mold-affected materials in kitchens, bathrooms, walls, and other defined areas. When growth is found behind a stored item or cabinet panel, the visible portion may not establish the whole work boundary. We will review available findings and coordinate the appropriate remediation provider.",
+    "sections": [
+      {
+        "title": "Mold remediation in Fate: review the affected space before dismantling",
+        "paragraphs": [
+          "Share assessment documents and the history of leaks or recurring dampness. We will explain what the accessible area shows and which additional questions need assessment or access. Cabinet or finish removal will have a defined purpose rather than be assumed across the room."
+        ]
+      },
+      {
+        "title": "Arrange containment and affected-material work",
+        "paragraphs": [
+          "The approved plan will distinguish removal, cleaning, and treatment of nearby contents. Work routes and retained components will be considered before handling begins. If access exposes additional findings, the authorized contact will receive the proposed scope change."
+        ]
+      },
+      {
+        "title": "Keep the return to construction explicit",
+        "paragraphs": [
+          "A corrected leak does not replace remediation, and remediation does not replace applicable clearance. We will identify those separate requirements and any remaining moisture issue. The construction handoff will show what has been addressed and what must still happen before closure."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Share findings and moisture history.",
+      "Identify previous cabinet or wall work.",
+      "Provide the contact approving access changes."
+    ],
+    "links": [
+      {
+        "href": "/mold-removal-behind-drywall/fate/",
+        "label": "Mold removal behind drywall"
+      },
+      {
+        "href": "/bathroom-mold-removal/fate/",
+        "label": "Bathroom mold removal"
+      },
+      {
+        "href": "/services/mold-remediation-before-closing/",
+        "label": "Mold remediation before closing"
+      }
+    ]
+  },
+  "sewage-backup-cleanup/fate": {
+    "keyword": "Sewage backup cleanup in Fate",
+    "description": "Sewage backup cleanup in Fate cleans up wastewater and affected materials after a fixture or drain backup.",
+    "image": "toilet-overflow-cleanup",
+    "intro": "Sewage backup cleanup in Fate cleans up wastewater and affected materials after a fixture or drain backup. Water that crossed a threshold or entered storage can require work beyond the fixture itself. We will review the spill path and remove, clean, and dry the agreed affected components.",
+    "sections": [
+      {
+        "title": "Sewage backup cleanup in Fate: review the room edges and moved items",
+        "paragraphs": [
+          "Tell us the highest visible extent of the overflow and which doors or openings it passed. Items relocated during cleanup still need their original contact history considered. We will use that information with accessible findings to describe the work boundary."
+        ]
+      },
+      {
+        "title": "Identify different handling decisions",
+        "paragraphs": [
+          "The proposal will distinguish affected absorbent material from surfaces that can remain for treatment. We will explain contents evaluation and any need for another specialist. Removal routes and the material left for repair will be part of the work plan."
+        ]
+      },
+      {
+        "title": "Finish drying and source coordination",
+        "paragraphs": [
+          "Removing visible wastewater does not correct a drain problem or establish dry retained material. We will record restoration progress and identify outstanding plumbing work. Remaining odor, moisture, or concealed-access concerns will be explained before rebuilding proceeds."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Describe overflow reach and duration.",
+      "Share plumbing correction details.",
+      "Identify belongings relocated during cleanup."
+    ],
+    "links": [
+      {
+        "href": "/toilet-overflow-cleanup/fate/",
+        "label": "Toilet overflow cleanup"
+      },
+      {
+        "href": "/crawl-space-sewage-cleanup/fate/",
+        "label": "Crawl-space sewage cleanup"
+      },
+      {
+        "href": "/mold-remediation/fate/",
+        "label": "Mold remediation"
+      }
+    ]
+  },
+  "construction-remodeling/fate": {
+    "keyword": "Reconstruction and remodeling in Fate",
+    "description": "Reconstruction and remodeling in Fate restores openings and damaged finishes left after water, fire, mold, or sewage restoration.",
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "Reconstruction and remodeling in Fate restores openings and damaged finishes left after water, fire, mold, or sewage restoration. We will define the rebuilt area in terms of installed components and the intended finished surface. That lets you distinguish a necessary repair from a wider change you may want at the same time.",
+    "sections": [
+      {
+        "title": "Reconstruction and remodeling in Fate: review the visible repair and its hidden dependencies",
+        "paragraphs": [
+          "A wall opening may remain needed for source work or evaluation even after removal is complete. We will review those dependencies before planning closure. Restoration records and current conditions will determine what is ready to build."
+        ]
+      },
+      {
+        "title": "Choose where the new finish ends",
+        "paragraphs": [
+          "A repair line can meet a corner, trim edge, or retained surface in different ways. We will explain the proposed transition and any material availability limitation. The agreed choice will define the construction result without a promise that aged finishes can always be matched exactly."
+        ]
+      },
+      {
+        "title": "Carry out and review the approved installation",
+        "paragraphs": [
+          "Selections affecting installation will be resolved before that stage begins. Unexpected damage will be documented and discussed before additional work proceeds. The final review will identify completed components and any outstanding work in the agreement."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Provide restoration records and current photos.",
+      "Identify finish-transition preferences.",
+      "Share work still needing access."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/fate/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/locations/dfw-metro/fate/",
+        "label": "Fate restoration services"
+      },
+      {
+        "href": "/services/water-damage-repair-before-closing/",
+        "label": "Water damage repair before closing"
+      }
+    ],
+    "imageAlt": "AI-generated illustration of damaged ceiling material before reconstruction; not a completed Fate project"
+  }
+}

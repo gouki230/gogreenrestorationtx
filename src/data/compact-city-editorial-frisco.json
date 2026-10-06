@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/frisco": {
+    "intro": "Emergency water extraction in Frisco helps when you return to a wet house and cannot tell how far the water has spread. A utility-room puddle may already have reached a closet or disappeared beneath the living-room floor. We will organize the immediate removal work and give you a clear account of the areas that still need attention.",
+    "sections": [
+      {
+        "title": "Emergency water extraction when you discover the leak late",
+        "text": "The discovery time and the start of the leak may be different. We will record both what you know and what remains uncertain, then inspect accessible surfaces to establish a working boundary. This avoids building the entire plan around an assumed duration."
+      },
+      {
+        "title": "Keeping the first visit focused",
+        "text": "We will identify the source-control status, establish an equipment route, and explain the extraction priorities. Belongings in the path of the work will be discussed before handling. If parts of the property are unsafe or cannot be accessed, the initial record will make those limits clear."
+      },
+      {
+        "title": "What you will know before we leave",
+        "text": "You will receive an explanation of completed water removal, materials still showing moisture concerns, and the proposed next visit or drying stage. We will also identify decisions that need a plumber or another provider. Repairs should follow that documented sequence rather than begin as soon as a floor becomes walkable."
+      }
+    ],
+    "estimate": "Equipment access, hidden spread, affected finishes, and the condition of the water determine more than the visible puddle size. We will explain how the immediate extraction charge relates to drying and any later material removal.",
+    "checklist": [
+      "Tell us when the property was last known to be dry.",
+      "Describe the source if it has been identified.",
+      "Let us know if someone can provide entry and authorize work."
+    ]
+  },
+  "burst-pipe-cleanup/frisco": {
+    "intro": "Burst pipe cleanup in Frisco helps when an upstairs supply line fails and water appears in rooms below. You may have a repaired pipe but wet ceiling insulation, a damaged wall, and flooring that needs its own evaluation. We will connect those affected areas in one cleanup plan while keeping the plumbing and reconstruction responsibilities clear.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup across more than one floor",
+        "text": "We will follow the accessible route of the water rather than estimate only the room containing the break. A ceiling opening below the source can reveal a different affected assembly from the upstairs floor. Each accessible area will be documented so removal and drying decisions have a stated basis."
+      },
+      {
+        "title": "Coordinating the plumber\u2019s opening with drying access",
+        "text": "An opening made to fix the pipe may be enough for one task but not for evaluating all wet material. We will explain any proposed expansion and its purpose before proceeding. Where equipment or utilities limit access, the plan will identify the relevant trade dependency."
+      },
+      {
+        "title": "Rebuilding in the right sequence",
+        "text": "We will record the drying status of the opened assemblies and explain what remains before closure. Upstairs flooring and downstairs ceiling repairs may reach readiness at different times. Suspected growth or damaged structural material will be identified for appropriate follow-up rather than hidden by the finish schedule."
+      }
+    ],
+    "estimate": "Work on multiple levels can add ceiling access, protection of occupied rooms, and separate material-handling needs. The estimate will distinguish the affected assemblies and clarify which final repairs belong with the reconstruction contractor.",
+    "checklist": [
+      "Identify rooms directly beneath the plumbing failure.",
+      "Share photographs taken during the pipe repair.",
+      "Tell us which rooms need to remain accessible during work."
+    ]
+  },
+  "appliance-leak-cleanup/frisco": {
+    "intro": "Appliance leak cleanup in Frisco helps when a washing-machine hose or laundry connection has sent water under a door and into nearby rooms. The machine may be off while carpet, trim, and storage areas remain wet. We will evaluate the building materials around the spill and explain the cleanup needed before the laundry area returns to use.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup beyond the laundry floor",
+        "text": "We will inspect accessible adjoining surfaces and note where cabinets or stored items restrict inspection. A water trail can continue beneath a threshold even when the next room appears dry. Findings will guide the proposed drying area rather than an assumption that the laundry walls contain the incident."
+      },
+      {
+        "title": "Separating the appliance problem from its damage",
+        "text": "The failed hose, valve, or machine needs an appropriate repair response. We will coordinate our building-restoration work around that source correction and explain any access required behind the installation. Reconnecting the appliance is not automatically included in a cleanup visit."
+      },
+      {
+        "title": "Handling belongings in the affected space",
+        "text": "Laundry baskets, stored paper goods, and furnishings may need their own condition review. We will discuss what can be moved and how affected items will be documented. Where wet building materials show suspected growth, the next step will be explained through a distinct mold-related scope."
+      }
+    ],
+    "estimate": "Water movement into carpet or enclosed storage can affect both removal and drying requirements. We will describe the accessible damage, identify uncertainties, and separate building cleanup from appliance servicing and replacement finishes.",
+    "checklist": [
+      "Tell us whether the laundry supply valves are closed.",
+      "Mention adjoining closets or carpeted rooms.",
+      "Provide repair information from the appliance or plumbing technician."
+    ]
+  },
+  "storm-water-damage-cleanup/frisco": {
+    "intro": "Storm water damage cleanup in Frisco helps when rain enters around a window or exterior opening and soaks the wall and floor inside. You may be waiting for an exterior repair while trying to protect the occupied room. We will explain which interior work can start and how the unresolved entry point affects the drying plan.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup beside windows and doors",
+        "text": "Water around a sill can enter trim joints or travel behind finishes instead of staying on the surface. We will review accessible material conditions and describe any proposed opening needed to understand the affected area. The inspection will distinguish visible observations from concealed conditions that have not been checked."
+      },
+      {
+        "title": "Managing the time between temporary and permanent repairs",
+        "text": "The source provider may need to return when conditions allow. We will explain how continued entry could affect equipment placement, drying progress, and the readiness for reconstruction. Interior cleanup will not be presented as a substitute for repairing the building opening."
+      },
+      {
+        "title": "Giving the finish contractor a useful handoff",
+        "text": "Our status update will identify the area addressed, remaining moisture concerns, and work still dependent on source correction. If trim or wall material has been removed, the reconstruction scope can be based on the actual opening. Suspected mold behind the finish will be flagged for the appropriate review before closure."
+      }
+    ],
+    "estimate": "Working around occupied space, the number of affected openings, hidden wet layers, and the timing of exterior repairs can change the scope. We will explain these dependencies instead of offering a fixed timeline from a window photograph.",
+    "checklist": [
+      "Describe when the water enters and where it appears.",
+      "Share the exterior contractor\u2019s findings if available.",
+      "Identify wet flooring or furniture below the opening."
+    ]
+  },
+  "structural-drying-services/frisco": {
+    "intro": "Structural drying services in Frisco help when walls have been opened after a leak and you need to know when the rebuild can move forward. The framing may look dry while insulation or nearby flooring still needs evaluation. We will establish what the drying work covers and communicate the evidence behind the next repair decision.",
+    "sections": [
+      {
+        "title": "Structural drying services during an interrupted renovation",
+        "text": "A renovation schedule can make it tempting to close an opening quickly. We will explain which accessible materials are being monitored and what the current observations show. The agreed drying area will be based on the water incident and findings, not simply on the contractor\u2019s planned finish boundary."
+      },
+      {
+        "title": "Understanding equipment changes",
+        "text": "Air movement, dehumidification, and access arrangements may need adjustment as conditions change. We will explain the reason for material changes to the setup and keep a record of progress. Equipment remaining on site should have a defined purpose within the work rather than serve as a substitute for status information."
+      },
+      {
+        "title": "Coordinating the return of the repair crew",
+        "text": "We will distinguish areas ready for the next step from areas still requiring drying, investigation, or a separate service. The reconstruction provider can use that handoff to plan access and material delivery. Drying records describe this work; they do not establish independent mold clearance or resolve unrelated building defects."
+      }
+    ],
+    "estimate": "The affected assembly, inspection access, equipment arrangement, and monitoring needs shape the estimate. We will discuss schedule expectations in terms of observed progress and remaining tasks rather than guarantee a completion date before inspection.",
+    "checklist": [
+      "Share the reconstruction contractor\u2019s planned work area.",
+      "Tell us what material has already been removed.",
+      "Provide any earlier extraction or moisture documentation."
+    ]
+  },
+  "floor-water-damage-cleanup/frisco": {
+    "intro": "Floor water damage cleanup in Frisco helps when water has moved beneath a floating floor and seams are beginning to lift. You may be weighing removal against trying to dry the installation in place. We will explain what can be inspected, what is uncertain below the finish, and how those findings affect the next decision.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup for layered installations",
+        "text": "A finish that clicks together can cover underlayment and a supporting surface that are not visible from above. We will discuss inspection access and document findings where the assembly can be evaluated. Keeping every plank is not a reasonable promise before the layers and their condition are understood."
+      },
+      {
+        "title": "Planning a removal boundary without guessing",
+        "text": "Room transitions, cabinetry, and continuous flooring can make the cleanup boundary different from the eventual replacement boundary. We will explain our proposed material access and distinguish it from the finish contractor\u2019s matching decisions. Changes revealed during removal will be recorded and discussed."
+      },
+      {
+        "title": "Avoiding premature installation",
+        "text": "The exposed supporting materials need their own review before another floor covers them. We will communicate drying and cleanup status and identify suspected growth for appropriate follow-up. The installation contractor will still need to address their own product requirements and preparation scope."
+      }
+    ],
+    "estimate": "The floor assembly, connected rooms, access around fixed cabinetry, and concealed wet material influence the estimate. We will make clear when a price covers investigation and cleanup rather than the final cost of a matching replacement floor.",
+    "checklist": [
+      "Tell us whether the flooring runs continuously between rooms.",
+      "Keep product information or spare planks if available.",
+      "Describe lifting, softness, or moisture at thresholds."
+    ]
+  },
+  "ceiling-water-damage-cleanup/frisco": {
+    "intro": "Ceiling water damage cleanup in Frisco helps when a leak near an attic HVAC unit has left a wet patch above a bedroom or hallway. You may have stopped the equipment but still be concerned about material above the ceiling. We will review the accessible damage and coordinate cleanup around the HVAC provider\u2019s source findings.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup beneath equipment",
+        "text": "We will distinguish the mechanical repair from wet building materials below and around it. The location of the stain may not show the entire water path. Accessible observations will guide any proposed ceiling opening and reveal where further inspection is needed."
+      },
+      {
+        "title": "Working around the room below",
+        "text": "Furniture, bedding, and normal passage through the room need consideration before material removal. We will explain how the work area will be organized and which portions should remain unused during the job. Electrical or stability concerns will be assigned to the appropriate qualified trade."
+      },
+      {
+        "title": "Recording readiness before finish repairs",
+        "text": "We will describe what was removed, what is being dried, and what still depends on the source repair. The status record will support the next reconstruction decision without equating a dry-looking patch with a completed job. Any suspected mold finding in the opened cavity will receive a separate scope discussion."
+      }
+    ],
+    "estimate": "Access height, insulation, connected ceiling cavities, and protection of the occupied room affect the work. We will distinguish ceiling cleanup and drying from HVAC servicing, decorative finish replacement, and painting.",
+    "checklist": [
+      "Share the HVAC source diagnosis if one is available.",
+      "Identify any wet fixtures or visibly sagging surfaces.",
+      "Tell us whether the room can be temporarily cleared."
+    ]
+  },
+  "bathroom-mold-removal/frisco": {
+    "intro": "Bathroom mold removal in Frisco helps when a shower renovation reveals damaged material behind tile and you cannot safely continue the finish work without resolving it. You may already have a contractor waiting for a decision about the opened wall. We will help define the remediation route and the conditions needed before the bathroom is rebuilt.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal during a stopped renovation",
+        "text": "An opened shower wall can provide useful information, but the visible cutout may not establish the full work boundary. The appropriate assessment will guide where removal and cleaning need to occur. We will explain the provider arrangement and distinguish confirmed findings from areas that have not been evaluated."
+      },
+      {
+        "title": "Keeping demolition responsibilities clear",
+        "text": "General renovation demolition and mold-related removal should not be assumed to be the same scope. We will discuss the containment, affected materials, and handoff between the responsible providers. Tile replacement, waterproofing, and plumbing changes remain separate construction decisions."
+      },
+      {
+        "title": "Restarting the bathroom project with a documented handoff",
+        "text": "Before the renovation resumes, we will communicate completion status and any independent assessment or clearance requirements that apply. The original water-entry issue also needs a defined correction. A new shower finish should follow that sequence rather than cover a cavity because the tile installer is available."
+      }
+    ],
+    "estimate": "The existing opening, adjacent materials, room access, and assessed extent influence the remediation estimate. Work already completed by the renovation contractor will be reviewed, but prior demolition does not automatically eliminate containment or evaluation needs.",
+    "checklist": [
+      "Share photos of the opening without disturbing more material.",
+      "Tell us what demolition has already occurred.",
+      "Provide the remodeler\u2019s plan and any consultant report."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/frisco": {
+    "intro": "Kitchen cabinet mold removal in Frisco helps when a dishwasher leak has damaged the cabinet side panels and you are concerned about the wall behind them. You may need the appliance replaced but want the surrounding material addressed first. We will explain the access decisions and remediation arrangements needed to move the kitchen repair forward.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal beside a dishwasher",
+        "text": "A fitted appliance can hide the back of the cabinet and the wall-floor junction. We will explain what can be observed before disconnection and what requires access behind the unit. Any plumbing or electrical disconnection should be coordinated with the appropriate trade."
+      },
+      {
+        "title": "Understanding how far cabinet removal needs to go",
+        "text": "A softened side panel does not automatically mean every cabinet must be replaced, but it also does not define the complete affected area. The assessment and accessible findings should guide removal. We will communicate limitations where countertops or connected cabinets make inspection more involved."
+      },
+      {
+        "title": "Preparing the opening for a replacement appliance",
+        "text": "The remediation handoff should identify completed work, remaining repairs, and any applicable independent review. We will coordinate that information with the cabinet and appliance installation sequence. A new dishwasher should not conceal unresolved material damage simply because it fits the existing opening."
+      }
+    ],
+    "estimate": "Access behind the appliance, cabinet construction, connected finishes, and the agreed removal extent affect the estimate. Replacement cabinet parts and appliance installation need separate scope decisions, including whether matching existing finishes is practical.",
+    "checklist": [
+      "Identify whether the dishwasher is disconnected.",
+      "Describe damage on either side of the opening.",
+      "Share any assessment or appliance repair records."
+    ]
+  },
+  "mold-remediation-after-water-damage/frisco": {
+    "intro": "Mold remediation after water damage in Frisco helps when an earlier leak seemed resolved but a contractor later finds growth while preparing new flooring or trim. You may need to pause repairs and understand what the discovery changes. We will help define the mold-related work and connect it with the remaining restoration schedule.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage discovered during repairs",
+        "text": "The new finding should be documented before additional finishes are disturbed. We will review the known water-loss history and explain which questions require assessment. An earlier drying invoice provides context but does not determine the current remediation boundary."
+      },
+      {
+        "title": "Preserving useful information from the first response",
+        "text": "Room photographs, material-removal records, and the source-repair date can help the responsible providers understand the sequence. We will identify relevant records without requiring a complete file before you make an inquiry. Missing history will be described as uncertainty rather than replaced by assumptions."
+      },
+      {
+        "title": "Revising the rebuild plan",
+        "text": "We will explain which reconstruction tasks need to wait and which can be considered separately from the affected area. The handoff will distinguish remediation completion, independent review where applicable, and final finish work. That separation helps prevent a repair deadline from deciding the cleanup scope."
+      }
+    ],
+    "estimate": "New access openings, the assessed materials, containment needs, and work already completed influence the estimate. We will explain changes attributable to the newly identified condition rather than imply that all previous water work needs repeating.",
+    "checklist": [
+      "Keep photos of the newly discovered condition.",
+      "Provide the earlier leak and repair dates if known.",
+      "Tell us which reconstruction tasks are on hold."
+    ]
+  },
+  "mold-removal-behind-drywall/frisco": {
+    "intro": "Mold removal behind drywall in Frisco helps when a closet wall or baseboard opening reveals suspected growth next to a repaired plumbing leak. You may need to protect stored belongings while deciding how much wall material must be removed. We will explain the assessment, controlled access, and provider responsibilities before the opening is expanded.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall beside a storage area",
+        "text": "Closets can contain clothing, boxes, and shelving close to the affected finish. We will discuss how those contents relate to the work boundary before they are moved. Contents review is a separate decision from removing the wall and should not be assumed to be included."
+      },
+      {
+        "title": "Following the affected assembly",
+        "text": "The visible opening may expose insulation, framing, or the back of an adjoining room\u2019s wall. The agreed scope will guide the removal approach and identify areas that need further evaluation. We will explain those decisions without promising that a neat rectangular patch will always be sufficient."
+      },
+      {
+        "title": "Returning the closet to use",
+        "text": "The completion update will identify what was removed or addressed and what remains before shelving and finishes return. Independent clearance, when applicable, is distinct from the remediation work record. The original moisture source and any unfinished plumbing access should also be resolved before closure."
+      }
+    ],
+    "estimate": "Built-in storage, access from adjoining rooms, concealed insulation, and the assessed extent affect price. We will clarify whether belongings handling, reconstruction, and shelf replacement are included or need separate arrangements.",
+    "checklist": [
+      "Identify items stored against the affected wall.",
+      "Share details of the plumbing repair.",
+      "Provide consultant instructions if available."
+    ]
+  },
+  "kitchen-fire-cleanup/frisco": {
+    "intro": "Kitchen fire cleanup in Frisco helps when a small cooking fire has damaged one cabinet area but smoke residue has reached the dining space. You may be able to enter the property yet still be unsure which surfaces and possessions need attention. We will review the accessible effects and define the cleanup boundary with you.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup beyond the range",
+        "text": "Heat damage near the cooking source and residue farther away need different evaluation. We will document those conditions separately so material removal is not confused with surface cleaning. Electrical and appliance safety decisions belong with the relevant qualified providers."
+      },
+      {
+        "title": "Reviewing connected living spaces",
+        "text": "An open doorway or connected room can make the cleanup boundary less obvious than the burned area. We will explain the accessible findings in adjoining spaces and discuss contents requiring review. No room will be declared unaffected solely because it is outside the kitchen."
+      },
+      {
+        "title": "Reopening the kitchen in stages",
+        "text": "We will communicate completed cleaning, unresolved damage, and any separate trade work before normal use resumes. Cabinet replacement or appliance installation may follow a different schedule from residue removal. If firefighting water affected floors or walls, its drying needs will be included in the planning discussion."
+      }
+    ],
+    "estimate": "Residue spread, damaged cabinetry, connected rooms, and contents handling influence the estimate. We will show how cleaning and removal relate to the separate reconstruction scope rather than combine every recovery task into an unexplained price.",
+    "checklist": [
+      "Confirm any entry restrictions have been addressed.",
+      "Describe rooms with visible residue.",
+      "Identify appliance and electrical inspections already arranged."
+    ]
+  },
+  "smoke-damage-cleanup/frisco": {
+    "intro": "Smoke damage cleanup in Frisco helps when the burned material is gone but belongings and interior surfaces still carry residue or an unwanted smell. You may be considering repainting and want to know what should happen first. We will explain the surface review and cleaning decisions that belong ahead of replacement finishes.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup before painting",
+        "text": "Paint preparation should be based on the condition of the existing surface and the agreed restoration approach. We will explain what cleaning is proposed and which finishes may need replacement instead. Concealing a mark does not, by itself, resolve the underlying residue question."
+      },
+      {
+        "title": "Considering furniture and fabric separately",
+        "text": "A room\u2019s walls and its upholstered contents can need different handling. We will identify belongings that require a contents review rather than assume they are covered by the building-cleaning estimate. Specialist items will be discussed on their own merits and material limitations."
+      },
+      {
+        "title": "A practical completion review",
+        "text": "We will describe work completed and remaining observations before the next contractor starts. Results and limitations will be discussed by affected material rather than through an unconditional odor-removal promise. Any further investigation or specialist task will be named so you can plan the remaining work."
+      }
+    ],
+    "estimate": "The scope depends on surface type, residue distribution, access, and the contents involved. We will distinguish cleaning charges from repainting, specialist-item handling, and replacement decisions.",
+    "checklist": [
+      "Tell us about any repainting already started.",
+      "Identify furnishings that remain in affected rooms.",
+      "Share the original fire location and cleanup history."
+    ]
+  },
+  "toilet-overflow-cleanup/frisco": {
+    "intro": "Toilet overflow cleanup in Frisco helps when bathroom water has reached a carpeted hallway and you need more than a surface mop-up. You may have a cleared blockage but still be concerned about wet padding, baseboards, and the doorway. We will explain the cleanup boundary and the material decisions appropriate to the reported conditions.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup at the carpet transition",
+        "text": "The visible carpet edge may be only part of the affected installation. We will inspect accessible conditions and discuss how the water source and material condition affect removal or cleaning. We will not promise to save padding or carpet before those factors are understood."
+      },
+      {
+        "title": "Checking adjacent finishes",
+        "text": "Water at a threshold can also reach wall edges, cabinets, or concealed floor layers. We will document what is accessible and explain uncertainties requiring further inspection. A plumbing repair will be coordinated separately from the building cleanup."
+      },
+      {
+        "title": "Making the hallway usable again",
+        "text": "We will describe the cleaning and drying work completed and identify what remains before replacement finishes. The plan should account for necessary household access without routing people through an active work area. Progress information will distinguish a cleared walkway from completion of the entire restoration."
+      }
+    ],
+    "estimate": "The spread beyond the bathroom, affected porous materials, access, and contamination conditions influence the estimate. Reconstruction and the plumber\u2019s drain repair will be distinguished from the cleanup work.",
+    "checklist": [
+      "Tell us which carpeted areas became wet.",
+      "Identify the overflow source and whether it has stopped.",
+      "Mention other routes available through the home."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/frisco": {
+    "intro": "AC leak water damage cleanup in Frisco helps when a condensate problem has wet the equipment closet and the floor outside it. You may have a service appointment for the unit but need help with the surrounding damage now. We will evaluate accessible building materials and coordinate the restoration sequence around the HVAC work.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in a confined closet",
+        "text": "Equipment can restrict access to wet trim, wall surfaces, and the floor beneath it. We will identify those limitations and explain any trade coordination needed to inspect further. Moving or disconnecting mechanical equipment is not assumed within ordinary surface cleanup."
+      },
+      {
+        "title": "Determining whether the leak stayed contained",
+        "text": "We will review the adjoining doorway, wall edges, and nearby flooring rather than treat the closet threshold as the work boundary. Observations will be documented so removal and drying decisions are understandable. Repeated leakage will be recorded as part of the history, not used to guess at concealed mold."
+      },
+      {
+        "title": "Finishing restoration after the unit repair",
+        "text": "We will explain what remains wet or damaged after the HVAC provider addresses the source. Building drying and finish replacement have their own readiness decisions. Any suspected growth will be routed through an appropriate mold-service scope before the area is closed."
+      }
+    ],
+    "estimate": "Closet access, fixed equipment, flooring layers, and recurrence can affect both price and timing. We will separate the building work from mechanical repair and make any additional access requirements clear.",
+    "checklist": [
+      "Share the HVAC service appointment and source findings.",
+      "Describe wet flooring outside the closet.",
+      "Tell us about previous leaks in the same location."
+    ]
+  },
+  "crawl-space-water-removal/frisco": {
+    "intro": "Crawl space water removal in Frisco helps when water beneath a property is preventing a plumber or repair crew from reaching the work area. You may need the space made accessible while the source is still being investigated. We will review the conditions and explain a removal plan that fits the access and repair sequence.",
+    "sections": [
+      {
+        "title": "Crawl space water removal for a repair handoff",
+        "text": "We will establish what access the next trade needs and distinguish that objective from completing all restoration below the floor. Active water entry can affect what removal accomplishes. The plan will identify whether source control must precede or accompany the work."
+      },
+      {
+        "title": "Understanding constraints below the building",
+        "text": "Restricted clearance, obstructions, and the access opening can affect equipment placement and material handling. We will explain these limitations from available observations. Unsafe entry will not be requested from the owner to obtain a better photograph."
+      },
+      {
+        "title": "What remains after the water is lowered",
+        "text": "Removing standing water can reveal wet insulation or other affected components requiring separate review. We will document accessible findings and describe further drying or cleanup needs. A pumping visit does not establish that every enclosed material is dry or that the underlying source has been corrected."
+      }
+    ],
+    "estimate": "Water conditions, access, removal equipment, and the work needed by the repair trade shape the estimate. Any follow-up material removal or drying will be explained separately from the initial access-oriented task.",
+    "checklist": [
+      "Tell us which trade is waiting to enter.",
+      "Provide existing photographs or inspection notes.",
+      "Describe whether the water level is changing."
+    ]
+  },
+  "attic-mold-remediation/frisco": {
+    "intro": "Attic mold remediation in Frisco helps when a home inspection raises a concern above the ceiling and you need to understand the work before a sale or repair proceeds. A report may mention staining without explaining the restoration scope. We will help separate the inspection observations, assessment needs, and remediation responsibilities.",
+    "sections": [
+      {
+        "title": "Attic mold remediation after an inspection report",
+        "text": "We will review the specific findings rather than treat a broad inspection note as a complete work specification. The appropriate assessment can clarify affected materials and the remediation boundary. Areas outside the inspector\u2019s access will remain identified as unverified until they are evaluated."
+      },
+      {
+        "title": "Explaining the source question",
+        "text": "Roof leaks, equipment leaks, and other moisture issues require their own investigation and correction. We will describe how any known source affects the sequence without diagnosing the cause solely from the appearance of wood. The relevant roofing or mechanical provider may need to contribute findings."
+      },
+      {
+        "title": "Giving the transaction a clear project record",
+        "text": "We will communicate the work status, scope limits, and any independent review required before completion is represented to another party. Scheduling pressure will not substitute for that process. Project records can explain what was addressed without guaranteeing the future condition of the entire attic."
+      }
+    ],
+    "estimate": "Access, the assessed area, affected insulation, and separate source repairs influence the estimate. We will clarify the deliverables and dependencies so a transaction deadline is considered realistically.",
+    "checklist": [
+      "Send the relevant inspection pages.",
+      "Identify any scheduled roof or HVAC work.",
+      "Tell us about the decision deadline and property-access arrangements."
+    ]
+  },
+  "crawl-space-mold-remediation/frisco": {
+    "intro": "Crawl space mold remediation in Frisco helps when a flooring repair uncovers a concern beneath the subfloor and you need to know what must happen before installation continues. You may have photographs from a contractor but limited access to the affected area. We will explain the assessment pathway and the work sequence below and above the floor.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation tied to floor repairs",
+        "text": "The opened floor can provide useful access but may not establish the entire affected boundary. We will discuss what has been observed and what needs further evaluation. The mold-related scope should remain distinct from ordinary flooring demolition and replacement."
+      },
+      {
+        "title": "Considering supporting materials and insulation",
+        "text": "The responsible provider will evaluate appropriate cleaning or removal within the agreed scope. Insulation and framing need different decisions, and neither should be treated solely by its position beneath the floor. We will communicate material findings and any structural concern that needs another qualified professional."
+      },
+      {
+        "title": "Coordinating closure of the opening",
+        "text": "We will explain the status of remediation and any applicable independent clearance before the repair crew encloses the area. Moisture-source work must also have a defined place in the sequence. The handoff will identify what can proceed and what remains unresolved."
+      }
+    ],
+    "estimate": "Existing access, working clearance, affected materials, and the assessment boundary shape price and timing. The estimate will distinguish remediation from structural repairs and finish-floor installation.",
+    "checklist": [
+      "Keep the repair contractor\u2019s photographs.",
+      "Tell us what flooring has already been opened.",
+      "Share the known moisture source and any assessment document."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/frisco": {
+    "intro": "Mold contaminated contents cleaning in Frisco helps when a leak affects a closet and you need to sort clothing, boxes, and belongings before the room can be repaired. You may be unsure what can be moved safely or whether everything has the same cleaning options. We will explain a material-by-material review and the handling arrangements.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning for stored belongings",
+        "text": "Fabric, cardboard packaging, finished furniture, and hard-surface items can have different restoration limitations. We will discuss the proposed categories and identify possessions that require specialist evaluation. No blanket promise to retain every item will replace that review."
+      },
+      {
+        "title": "Keeping the owner involved in decisions",
+        "text": "We will describe how items will be recorded and how disposal or transfer approvals will be obtained. A labeled inventory helps keep cleaning decisions separate from ownership and replacement questions. You can identify irreplaceable possessions before routine handling begins."
+      },
+      {
+        "title": "Planning where cleaned items will go",
+        "text": "The return location should be ready before contents are delivered or placed back into the affected room. We will coordinate with the building-remediation status and explain any separate storage arrangements. Cleaning an item does not resolve the moisture condition in the space that previously held it."
+      }
+    ],
+    "estimate": "Quantity, packaging, material types, specialist needs, and transport affect the scope. We will distinguish the agreed cleaning work from storage, replacement valuation, and reconstruction of the closet.",
+    "checklist": [
+      "Identify items with particular sentimental value.",
+      "Tell us which belongings were in the affected closet.",
+      "Describe available clean storage or return space."
+    ]
+  },
+  "fire-damaged-debris-removal/frisco": {
+    "intro": "Fire damaged debris removal in Frisco helps when a repair contractor is ready to assess the building but burned material is obstructing access. You may need a controlled clearance of specific rooms while other areas remain untouched. We will define the removal boundary and explain documentation and disposal decisions before work begins.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal for an inspection route",
+        "text": "We will distinguish a limited access-clearing task from broader demolition. Relevant entry restrictions and structural concerns must be addressed before unstable material is disturbed. The scope will state which rooms or routes are included and which remain outside the work."
+      },
+      {
+        "title": "Avoiding accidental disposal of retained material",
+        "text": "Items needed by an investigator, insurer, or owner should be identified before removal. We will discuss photographs, inventory needs, and the approval process for discarding possessions. Uncertain items can be held for a decision rather than treated as debris by default."
+      },
+      {
+        "title": "Explaining the condition left behind",
+        "text": "The final update will describe the clearance completed and any residue, water damage, or attached components requiring later work. An accessible room is not automatically a restored room. We will identify the next cleanup or trade dependency so the project can proceed with a clear boundary."
+      }
+    ],
+    "estimate": "The selected area, debris volume, handling restrictions, and access routes affect price. We will separate limited clearance from structural demolition, specialist material handling, and subsequent surface cleaning.",
+    "checklist": [
+      "Identify rooms the next inspector needs to enter.",
+      "Share instructions about evidence preservation.",
+      "Mark possessions that require an owner decision before disposal."
+    ]
+  },
+  "fire-damaged-contents-cleaning/frisco": {
+    "intro": "Fire damaged contents cleaning in Frisco helps when furniture and belongings need to be removed from the repair area but you have not decided what can be restored. You may be arranging temporary living space and need an organized record of what happens to your possessions. We will explain review, tracking, and return decisions at the start.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning with an organized inventory",
+        "text": "We will discuss identification and photographs before items are packed or transferred. That record will distinguish cleaning candidates from belongings awaiting specialist review or disposal approval. An inventory supports tracking; it does not establish insurance coverage or replacement value."
+      },
+      {
+        "title": "Matching the decision to the material",
+        "text": "Smoke effects on a finished table may differ from those on a mattress, electronic device, or paper file. We will explain the limits of the proposed handling and identify items needing another provider. A single cleaning method will not be represented as suitable for every possession."
+      },
+      {
+        "title": "Planning return around temporary living arrangements",
+        "text": "We will clarify where completed items can be received and how that timing relates to building work. Storage and transport should be defined in the scope if needed. The goal is a documented sequence so restored items are not returned into unfinished cleanup."
+      }
+    ],
+    "estimate": "Item count, material categories, packing, specialist review, and delivery arrangements influence the estimate. We will make separate storage or transport charges clear before those services are assumed.",
+    "checklist": [
+      "Identify essentials needed during temporary relocation.",
+      "Share any existing inventory or item photographs.",
+      "Tell us who can authorize retention and disposal decisions."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/frisco": {
+    "intro": "Fire extinguisher residue cleanup in Frisco helps when discharge from an extinguisher has spread into cabinets or across a room even though the flame was quickly controlled. You may need a plan for surfaces and belongings before normal use resumes. We will review the agent information and the materials involved before selecting a cleanup approach.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup inside storage areas",
+        "text": "Residue on an exposed countertop and material inside a cabinet can require different access and handling decisions. We will explain the proposed inspection boundary and identify contents needing their own review. Closed packaging or doors will not be used as the sole basis for declaring items unaffected."
+      },
+      {
+        "title": "Using the extinguisher information",
+        "text": "A label photograph or response report can identify the discharged agent. We will use available information to guide the scope and explain any uncertainty that requires further review. Cleaning around electrical equipment does not establish that it is safe to operate."
+      },
+      {
+        "title": "Reviewing the room before return to use",
+        "text": "We will communicate completed surface work and remaining equipment or contents decisions. Any smoke or heat damage from the incident will be distinguished from the extinguisher residue. That separation keeps a limited cleaning task from being mistaken for complete fire restoration."
+      }
+    ],
+    "estimate": "The agent, distribution, storage access, and item handling influence cost. We will clarify whether the estimate includes contents review, specialist equipment evaluation, or only the agreed building surfaces.",
+    "checklist": [
+      "Keep the extinguisher label or model details.",
+      "Identify cabinets and belongings exposed to the discharge.",
+      "Tell us which equipment has been left switched off."
+    ]
+  },
+  "emergency-board-up-after-fire/frisco": {
+    "intro": "Emergency board up after fire in Frisco helps when broken glazing or a damaged entry leaves the building open while permanent repairs are being arranged. You may need to secure selected openings and preserve access for inspectors. We will explain the temporary installation and its limits before work is authorized.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire around scheduled inspections",
+        "text": "We will review which openings need protection and how authorized people will enter afterward. Existing safety restrictions and unstable materials can limit what is possible during the visit. A temporary board-up does not certify the property for occupancy."
+      },
+      {
+        "title": "Understanding the temporary scope",
+        "text": "The proposed materials and attachment approach will be explained for the accessible openings. We will identify any roof, structural, or other work outside the securing task. Permanent weatherproofing and comprehensive security are separate decisions rather than implied benefits of boarding an opening."
+      },
+      {
+        "title": "Coordinating the change to permanent repairs",
+        "text": "We will document the openings addressed and communicate any locations left unresolved. That record can help the repair provider plan access and replacement work. Smoke cleanup, debris removal, and drying will be identified as separate restoration stages if they remain necessary."
+      }
+    ],
+    "estimate": "Opening dimensions, working height, access, and site condition affect the estimate. We will distinguish the immediate temporary task from follow-up removal or replacement work by the permanent repair contractor.",
+    "checklist": [
+      "Identify upcoming inspection appointments.",
+      "Confirm the person authorized to approve access changes.",
+      "Share safe photos of the damaged windows or entry."
+    ]
+  },
+  "crawl-space-sewage-cleanup/frisco": {
+    "intro": "Crawl space sewage cleanup in Frisco helps when a plumber finds a drain leak beneath the floor and repair access is complicated by contaminated water or debris. You may need the leak corrected and the surrounding space restored in a coordinated sequence. We will explain the cleanup stages and how they relate to the plumber\u2019s work.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup around an active repair",
+        "text": "We will review source-control status and the access the plumbing provider needs. Removal may need to be coordinated with stopping the leak rather than treated as an isolated visit. The scope will distinguish drain repair from contamination cleanup."
+      },
+      {
+        "title": "Looking beyond pooled liquid",
+        "text": "Insulation, discarded material, and accessible building components may also be affected. We will document the conditions that can be inspected and explain removal or cleaning decisions. Restricted areas will remain identified as limitations until appropriate access is available."
+      },
+      {
+        "title": "Communicating the completion condition",
+        "text": "We will describe the water and material removal performed, cleaning status, and any remaining moisture concerns. The repair provider and owner will receive a clear account of outstanding tasks. Any separate mold concern or structural issue will be identified for the appropriate follow-up."
+      }
+    ],
+    "estimate": "Access clearance, the affected area, debris, plumbing coordination, and material handling influence the estimate. We will clarify whether further drying or insulation replacement is included or belongs in a later scope.",
+    "checklist": [
+      "Share the plumber\u2019s description of the failed drain.",
+      "Provide available photos rather than entering the area.",
+      "Tell us whether the leak is still active."
+    ]
+  }
+}

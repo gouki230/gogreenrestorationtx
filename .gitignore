@@ -7,3 +7,6 @@ dist
 
 # raw photo intake — originals keep their EXIF, never commit
 photo-intake
+
+# Python audit caches
+__pycache__/

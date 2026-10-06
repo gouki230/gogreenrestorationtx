@@ -1,0 +1,94 @@
+---
+import RealEstateLinks from './RealEstateLinks.astro';
+import serviceImages from '../data/compact-service-images.json';
+import moldContexts from '../data/compact-mold-context.json';
+import cities, { isCompactPathReleased, resolveCityLink } from '../utils/service-area-cities';
+import { compactCityPreview, compactServiceUrl } from '../utils/compact-city-pages';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import articles from '../data/blog-articles.json';
+import { compactTopicsForArticle } from '../utils/compact-links';
+import pages from '../data/compact-services.json';
+import services from '../data/services.json';
+import projects from '../data/texas-projects.json';
+import { getPillarGuides } from '../utils/internal-links';
+interface Props { page: typeof pages[number]; city?: typeof cities[number] }
+const { page: basePage, city } = Astro.props;
+type EditorialCopy = Pick<typeof basePage, 'intro' | 'sections' | 'estimate' | 'checklist'>;
+const editorialFiles = import.meta.glob('../data/compact-city-editorial*.json', { eager: true, import: 'default' });
+const editorialCopies = Object.assign({}, ...Object.values(editorialFiles)) as Record<string, EditorialCopy>;
+const editorial = city ? editorialCopies?.[`${basePage.slug}/${city.slug}`] : undefined;
+const draft = Boolean(city && !isCompactPathReleased(`/${basePage.slug}/${city.slug}/`));
+if (city && !draft && !editorial) throw new Error(`Released compact page lacks editorial: ${basePage.slug}/${city.slug}`);
+const page = editorial ? { ...basePage, ...editorial } : basePage;
+const serviceImage = serviceImages[page.slug as keyof typeof serviceImages];
+const heading = city ? `${page.name} in ${city.name}` : page.name;
+const description = city ? `${heading}, Texas. Discuss your property, access, affected materials, and an estimate with Go Green Restoration TX Inc, serving Dallas–Fort Worth.` : page.description;
+const intro = editorial ? editorial.intro : city ? `${heading}${page.intro.slice(page.name.length)}` : page.intro;
+const parent = services.find(service => service.slug === page.parent)!;
+const moldContext = moldContexts[page.id as keyof typeof moldContexts];
+const moldLinks = pages.filter(item => moldContext?.links.includes(item.id));
+const related = pages.filter(item => page.related.includes(item.id));
+const candidateProject = page.id === 'M1' ? projects[0] : page.id === 'M2' || page.id === 'M3' ? projects[1] : null;
+const project = candidateProject && (!city || candidateProject.slug === city.slug) ? candidateProject : null;
+const focusedGuides = articles.filter(article => compactTopicsForArticle(article.slug).some(topic => topic.id === page.id));
+const cityGuides = city ? articles.filter(article => article.slug.endsWith(`-${city.slug}`) && parent.relatedResources.includes(article.cluster)) : [];
+const guideCandidates = city ? [...focusedGuides.filter(article => article.slug.endsWith(`-${city.slug}`)), ...cityGuides] : [...focusedGuides.slice(0, 2), ...getPillarGuides(page.parent)];
+const guides = guideCandidates.filter((article,index,all) => all.findIndex(other => other.slug === article.slug) === index).slice(0, 3);
+const url = `https://gogreenrestorationtx.com${compactServiceUrl(page.slug, city?.slug)}`;
+const schema = { '@context': 'https://schema.org', '@type': 'WebPage', name: heading, url, description, about: { '@type': 'Service', name: page.name, areaServed: city ? { '@type': 'City', name: `${city.name}, Texas` } : 'Dallas–Fort Worth, Texas' } };
+const breadcrumbs = [{name:'Home',url:'/'},{name:'Services',url:'/services/'},{name:parent.name,url:`/services/${parent.slug}/`},{name:page.name,url:`/services/${page.slug}/`}, ...(city ? [{name:city.name,url:compactServiceUrl(page.slug,city.slug)}] : [])];
+---
+<BaseLayout title={`${heading} | Request an Estimate | Go Green Restoration TX Inc`} description={description} schema={[schema]} noindex={draft} omitOfficeCopy={Boolean(city)}>
+  <Breadcrumbs items={breadcrumbs} />
+  {draft && <aside class="max-w-5xl mx-auto px-4 pt-4 text-sm text-brand-gray-600">Local review draft · excluded from production builds and indexing. <a class="underline" href="/city-service-preview/">Browse all city drafts</a></aside>}
+  <article class="compact-page max-w-5xl mx-auto px-4 py-10 lg:py-14">
+    <header>
+      <h1 class="font-heading text-4xl lg:text-5xl font-extrabold text-brand-gray-900 mb-6">{heading}</h1>
+      <p data-uniqueness class="text-lg text-brand-gray-700 max-w-3xl mb-6">{intro}</p>
+      <div class="flex flex-col sm:flex-row gap-3 mb-8">
+        <a href="tel:+14697273217" class="bg-brand-green text-white font-bold px-6 py-4 rounded-lg text-center">Call (469) 727-3217</a>
+        <a href="/contact/" class="bg-brand-brown text-white font-bold px-6 py-4 rounded-lg text-center">Request an estimate</a>
+      </div>
+      <figure class="mb-10">
+        <img src={serviceImage.src} srcset={`${serviceImage.smallSrc} 640w, ${serviceImage.src} 1280w`} sizes="(max-width: 640px) 100vw, 960px" alt={serviceImage.alt} width={serviceImage.width} height={serviceImage.height} fetchpriority="high" class="w-full rounded-xl" />
+        <figcaption class="text-sm text-brand-gray-600 mt-2">Service illustration generated with Higgsfield; not a photograph of a completed project.</figcaption>
+      </figure>
+    </header>
+    <section data-uniqueness class="mb-9">
+      <h2>{heading}: what to share when you call</h2>
+      <ul>{page.checklist.map(item => <li>{item}</li>)}</ul>
+      {city ? <p>For a property in {city.name}, send the address or ZIP code, the affected rooms, and the name of the person who can approve access. Call to confirm crew availability and an arrival estimate for your address.</p> : <p>We serve DFW from Wylie, including Dallas, Plano, Frisco, McKinney, Allen, and Prosper. For urgent requests, call to confirm availability and an arrival estimate for your address.</p>}
+    </section>
+    {city && !editorial && <section data-uniqueness class="mb-9"><h2>Planning the visit to your {city.name} property</h2><p>Tell us whether the property is occupied and whether we need a gate code, parking instructions, or coordination with a tenant or manager. Describe repairs already arranged so the cleanup provider and repair provider can agree on the sequence.</p><ul><li>Identify who will meet the team and authorize the scope.</li><li>Share any existing inspection findings and photographs.</li><li>Explain which spaces need to remain accessible during work.</li></ul><p>For broader service options, see <a href={resolveCityLink(`/${parent.slug}/${city.slug}/`)}>{parent.name.toLowerCase()} in {city.name}</a> or the <a href={resolveCityLink(`/locations/dfw-metro/${city.slug}/`)}>{city.name} restoration overview</a>.</p></section>}
+
+
+    {page.sections.map(section => <section data-uniqueness class="mb-9"><h2>{section.title}</h2><p>{section.text}</p></section>)}
+    {moldContext && <section data-uniqueness class="mb-9"><h2>{moldContext.heading}</h2><p>{moldContext.text}</p>{!page.id.startsWith('M') && <p>Moisture can support mold growth, so source repair and drying matter. See the <a href="https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home">EPA’s guidance on moisture and mold</a>.</p>}<ul>{moldLinks.map(item => <li><a href={resolveCityLink(compactServiceUrl(item.slug,city?.slug))}>{item.name}{city ? ` in ${city.name}` : ''}</a></li>)}</ul></section>}
+    <section data-uniqueness class="mb-9"><h2>What affects the estimate and timeline?</h2><p>{page.estimate}</p></section>
+    {project && <section data-uniqueness class="mb-9 bg-brand-gray-50 p-6 rounded-xl"><h2>A completed Texas project</h2><p>{project.intro}</p><a href={resolveCityLink(`/projects/${project.caseSlug}/`)}>See the {project.city} project photos and reported outcome →</a></section>}
+    {!city && ['attic-mold-remediation','crawl-space-mold-remediation','bathroom-mold-removal','kitchen-cabinet-mold-removal'].includes(page.slug) && <RealEstateLinks kind="mold" />}
+    <section class="mb-9">
+      <h2>Related restoration services</h2>
+      {city && editorial && <p>See <a href={resolveCityLink(`/${parent.slug}/${city.slug}/`)}>{parent.name.toLowerCase()} in {city.name}</a> for broader help, or visit the <a href={resolveCityLink(`/locations/dfw-metro/${city.slug}/`)}>{city.name} service overview</a>.</p>}
+      {city && <p>For the DFW-wide scope of this service, see <a href={resolveCityLink(`/services/${page.slug}/`)}>{page.name.toLowerCase()}</a>.</p>}
+      <p>For the full process, visit our <a href={resolveCityLink(`/services/${parent.slug}/`)}>{parent.name.toLowerCase()} overview</a>. These pages explain related parts of the work:</p>
+      <ul>{related.map(item => <li><a href={resolveCityLink(compactServiceUrl(item.slug, city?.slug))}>{item.name}</a></li>)}
+      {(page.id.startsWith('F') || page.id === 'W9' || page.id.startsWith('M')) && <li><a href="/services/construction-remodeling/">Reconstruction after cleanup</a></li>}
+      {page.id === 'W1' && <li><a href="/services/sewage-backup-cleanup/">Sewage backup cleanup</a></li>}</ul>
+    </section>
+    {!city && cities.some(item => compactCityPreview || isCompactPathReleased(`/${page.slug}/${item.slug}/`)) && <section class="mb-9"><h2>{page.name} by city</h2><ul class="grid grid-cols-2 sm:grid-cols-3">{cities.filter(item => compactCityPreview || isCompactPathReleased(`/${page.slug}/${item.slug}/`)).map(item => <li><a href={resolveCityLink(compactServiceUrl(page.slug,item.slug))}>{item.name}</a></li>)}</ul></section>}
+    <section class="mb-9"><h2>Service availability in DFW</h2><p>Choose your city for the broader service information and local contact options.</p><ul class="grid grid-cols-2 sm:grid-cols-3">{['Dallas','Plano','Frisco','McKinney','Allen','Prosper','Wylie'].filter(name => !city || name !== 'Wylie').map(city => <li><a href={resolveCityLink(`/${parent.slug}/${city.toLowerCase()}/`)}>{city}</a></li>)}</ul></section>
+    <section class="mb-9"><h2>Read more before your visit</h2><ul>{guides.map(guide => <li><a href={resolveCityLink(`/resources/${guide.cluster}/${guide.slug}/`)}>{guide.title}</a></li>)}</ul></section>
+    {page.parent === 'mold-remediation' && <p class="text-sm text-brand-gray-600 border-t pt-6 mb-8">Go Green Restoration TX Inc welcomes mold projects of any size. While our Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and scope of work are identified before work begins. Independent assessment and clearance are separate services.</p>}
+    <section class="bg-brand-gray-50 rounded-xl p-6"><h2>Discuss your property with our team</h2><p>Call <a href="tel:+14697273217">(469) 727-3217</a> or <a href="/contact/">send a service request</a>. Include your city, the affected area, and any source repairs already completed so we can discuss the next step.</p></section>
+  </article>
+</BaseLayout>
+<style>
+.compact-page h2 {font-size:1.5rem;line-height:1.3;font-weight:700;margin-bottom:1rem;color:#1f2937}
+.compact-page section p {line-height:1.8;margin-bottom:1rem;color:#4b5563}
+.compact-page section a {color:#775130;text-decoration:underline;text-underline-offset:3px}
+.compact-page ul {list-style:disc;padding-left:1.4rem;margin-bottom:1.25rem}
+.compact-page li {margin-bottom:.55rem;line-height:1.65}
+@media(max-width:480px){.compact-page h1{font-size:2.1rem}.compact-page h2{font-size:1.4rem}}
+</style>

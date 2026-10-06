@@ -1,0 +1,9 @@
+---
+import CompactServicePage from '../../components/CompactServicePage.astro';
+import { compactCityPaths } from '../../utils/compact-city-pages';
+export function getStaticPaths() {
+  return compactCityPaths('crawl-space-mold-remediation');
+}
+const { page, city } = Astro.props;
+---
+<CompactServicePage page={page} city={city} />

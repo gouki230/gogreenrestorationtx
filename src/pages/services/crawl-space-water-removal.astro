@@ -1,0 +1,6 @@
+---
+import CompactServicePage from '../../components/CompactServicePage.astro';
+import pages from '../../data/compact-services.json';
+const page = pages.find(page => page.slug === 'crawl-space-water-removal')!;
+---
+<CompactServicePage page={page} />

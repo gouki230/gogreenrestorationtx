@@ -1,13 +1,20 @@
 ---
+import CityCoreEditorial from '../../components/CityCoreEditorial.astro';
+import { cityCoreEditorial } from '../../utils/city-core-editorial';
+import IndexingServiceCity from '../../components/IndexingServiceCity.astro';
+import indexingEditorial from '../../data/indexing-service-editorial.json';
 import moldAnswers from '../../data/mold-customer-answers.json';
 import PriorityMoldCity from '../../components/PriorityMoldCity.astro';
 import ProjectPhotos from '../../components/ProjectPhotos.astro';
 import MoldServiceDetails from '../../components/MoldServiceDetails.astro';
+import CompactServiceLinks from '../../components/CompactServiceLinks.astro';
+import ExpandedCityService from '../../components/ExpandedCityService.astro';
+import { isExpandedCity, cityExpansionPreview, isCorePathAvailable, isCorePathReleased, resolveCityLink } from '../../utils/service-area-cities';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import CityMap from '../../components/CityMap.astro';
 import services from '../../data/services.json';
-import dfwCities from '../../data/cities-dfw-metro.json';
+import dfwCities from '../../utils/service-area-cities';
 import articles from '../../data/blog-articles.json';
 import { selectTemplate, fillTemplate, getConditionalContent, getNearbyCities, getLocalContext, getStepContext, getCityFaqs } from '../../utils/content';
 
@@ -16,6 +23,7 @@ export function getStaticPaths() {
   const paths = [];
   for (const service of services) {
     for (const city of allCities) {
+      if (!isCorePathAvailable(`/${service.slug}/${city.slug}/`)) continue;
       paths.push({
         params: { service: service.slug, city: city.slug },
         props: { service, city },
@@ -26,6 +34,7 @@ export function getStaticPaths() {
 }
 
 const { service, city } = Astro.props;
+if (isCorePathReleased(`/${service.slug}/${city.slug}/`) && !cityCoreEditorial[`${service.slug}/${city.slug}`]) throw new Error(`Released core page lacks editorial: ${service.slug}/${city.slug}`);
 const allCities = dfwCities;
 const otherServices = services.filter(s => s.slug !== service.slug);
 
@@ -150,7 +159,7 @@ const heroImage = service.image
   : serviceImage[service.slug];
 ---
 
-<BaseLayout title={title} description={description} keywords={metaKeywords} schema={[serviceSchema, faqSchema]}>
+<>{(cityExpansionPreview || isCorePathReleased(`/${service.slug}/${city.slug}/`)) && `${service.slug}/${city.slug}` in cityCoreEditorial ? <CityCoreEditorial city={city} serviceSlug={service.slug} content={cityCoreEditorial[`${service.slug}/${city.slug}`]} /> : `${service.slug}/${city.slug}` in indexingEditorial ? <IndexingServiceCity city={city} service={service} /> : isExpandedCity(city.slug) ? <ExpandedCityService city={city} service={service} /> : <BaseLayout title={title} description={description} keywords={metaKeywords} schema={[serviceSchema, faqSchema]}>
   <Breadcrumbs items={breadcrumbs} />
 
   <!-- Hero -->
@@ -266,7 +275,7 @@ const heroImage = service.image
           </div>
         </section>
 
-        <p class="mb-8 text-brand-gray-600">Need help with another part of the property? See all <a class="text-brand-brown underline" href={`/locations/dfw-metro/${city.slug}/`}>restoration services in {city.name}</a>, or review the <a class="text-brand-brown underline" href={`/services/${service.slug}/`}>{service.shortName.toLowerCase()} service overview</a> for DFW.</p>
+        <p class="mb-8 text-brand-gray-600">Need help with another part of the property? See all <a class="text-brand-brown underline" href={resolveCityLink(`/locations/dfw-metro/${city.slug}/`)}>restoration services in {city.name}</a>, or review the <a class="text-brand-brown underline" href={resolveCityLink(`/services/${service.slug}/`)}>{service.shortName.toLowerCase()} service overview</a> for DFW.</p>
 
         <!-- Related local guides -->
         {cityArticles.length > 0 && (
@@ -277,7 +286,7 @@ const heroImage = service.image
             </p>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
               {cityArticles.map((a: { cluster: string; slug: string; title: string; description: string; image?: string; imageAlt?: string }) => (
-                <a href={`/resources/${a.cluster}/${a.slug}/`} class="block bg-brand-gray-50 rounded-xl overflow-hidden hover:bg-brand-warm-100 transition-colors">
+                <a href={resolveCityLink(`/resources/${a.cluster}/${a.slug}/`)} class="block bg-brand-gray-50 rounded-xl overflow-hidden hover:bg-brand-warm-100 transition-colors">
                   {a.image && (
                     <img src={a.image} alt={a.imageAlt || a.title} class="w-full h-32 object-cover" loading="lazy" width="1200" height="630" />
                   )}
@@ -288,7 +297,7 @@ const heroImage = service.image
                 </a>
               ))}
             </div>
-            <a href={`/resources/${clusterSlug}/`} class="inline-block mt-4 text-sm font-medium text-brand-green-700 underline">
+            <a href={resolveCityLink(`/resources/${clusterSlug}/`)} class="inline-block mt-4 text-sm font-medium text-brand-green-700 underline">
               All {service.shortName.toLowerCase()} guides &rarr;
             </a>
           </section>
@@ -366,7 +375,7 @@ const heroImage = service.image
             <h3 class="font-heading font-bold text-lg mb-4">Other Services in {city.name}</h3>
             <div class="space-y-2">
               {otherServices.map((s) => (
-                <a href={`/${s.slug}/${city.slug}/`} class="flex items-center gap-3 text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1 group">
+                <a href={resolveCityLink(`/${s.slug}/${city.slug}/`)} class="flex items-center gap-3 text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1 group">
                   {s.image ? (
                     <img src={s.image} alt={`${s.name} in ${city.name}, TX`} class="w-9 h-9 rounded-md object-cover flex-shrink-0 border border-brand-gray-200" loading="lazy" width="36" height="36" />
                   ) : (
@@ -384,7 +393,7 @@ const heroImage = service.image
               <h3 class="font-heading font-bold text-lg mb-4">{service.shortName} Near {city.name}</h3>
               <div class="space-y-2">
                 {nearbyCities.map((nearby) => (
-                  <a href={`/${service.slug}/${nearby.slug}/`} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1">
+                  <a href={resolveCityLink(`/${service.slug}/${nearby.slug}/`)} class="block text-sm text-brand-gray-800 hover:text-brand-brown transition-colors py-1">
                     {service.name} in {nearby.name}
                   </a>
                 ))}
@@ -398,7 +407,7 @@ const heroImage = service.image
               <h3 class="font-heading font-bold text-lg mb-4">{service.shortName} Across DFW</h3>
               <div class="flex flex-wrap gap-x-3 gap-y-2">
                 {otherCities.map((c: { slug: string; name: string }) => (
-                  <a href={`/${service.slug}/${c.slug}/`} class="text-sm text-brand-gray-800 hover:text-brand-brown transition-colors">
+                  <a href={resolveCityLink(`/${service.slug}/${c.slug}/`)} class="text-sm text-brand-gray-800 hover:text-brand-brown transition-colors">
                     {c.name}
                   </a>
                 ))}
@@ -430,4 +439,5 @@ const heroImage = service.image
       </div>
     </div>
   </div>
-</BaseLayout>
+  <CompactServiceLinks service={service.slug} city={city.slug} />
+</BaseLayout>}</>

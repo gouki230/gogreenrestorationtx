@@ -1,0 +1,598 @@
+{
+  "emergency-water-extraction/farmersville": {
+    "intro": "Emergency water extraction in Farmersville helps when water has reached the space beneath freestanding cabinets or stored furniture. The open floor may be easy to reach while those covered sections remain wet. We will organize removal and explain what must be exposed for the next material decision.",
+    "sections": [
+      {
+        "title": "Emergency water extraction beneath movable obstructions",
+        "text": "We will identify items that prevent water removal and discuss movement before work begins. Heavy or sensitive objects may need a specific handling arrangement. The plan will separate creating access from cleaning or restoring the object that was moved."
+      },
+      {
+        "title": "Inspect the newly exposed footprint",
+        "text": "We will check the floor and adjoining lower surfaces once they can be reached. Water conditions and the material response guide whether a layer can remain. If a finish hides retained moisture, we will explain a limited opening rather than assume surface extraction reached it."
+      },
+      {
+        "title": "Coordinate drying with the room reset",
+        "text": "Retained components will have a defined treatment and monitoring plan. We will identify belongings requiring their own decision before return. Resetting the room will follow the receiving-area condition so furniture does not cover wet material or block equipment needed for continued work."
+      }
+    ],
+    "estimate": "Water volume, item access, floor construction, and exposure determine the estimate. Call with the source status and the objects obstructing the wet area.",
+    "checklist": [
+      "Identify heavy or delicate belongings.",
+      "Describe the affected floor.",
+      "Tell us whether water is still entering."
+    ]
+  },
+  "burst-pipe-cleanup/farmersville": {
+    "intro": "Burst pipe cleanup in Farmersville helps when a supply failure has wet the lower portion of several connected walls. The break may be repaired while moisture remains in insulation and floor edges. We will evaluate the accessible spread and explain the removal and drying sequence.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup along a wet wall perimeter",
+        "text": "We will examine the lower finishes along the reported flow route, including corners where water changed direction. A continuous strip of damp trim can contain sections with different damage. Our removal recommendations will identify the component and the reason it cannot stay or must be opened."
+      },
+      {
+        "title": "Separate insulation from the wood it covers",
+        "text": "Wet insulation may obstruct evaluation of retained framing. We will explain which sections need removal to make inspection and drying possible. Once exposed, the structure can be assessed directly instead of relying on the appearance of the room-side finish."
+      },
+      {
+        "title": "Evaluate the floor where the cavity empties",
+        "text": "The junction beneath the wall may involve carpet, underlayment, or another concealed layer. We will check the accessible connection and explain any additional lifting needed. Treating the wall alone will not establish the condition of moisture retained under its adjoining floor."
+      },
+      {
+        "title": "Document the perimeter before trim returns",
+        "text": "We will record relevant drying locations and identify remaining material repairs. A repaired supply line stops the release but does not complete those tasks. Replacement insulation and base trim will follow the status of the surfaces they cover."
+      }
+    ],
+    "estimate": "Connected spread, wall layers, and flooring access influence cost. Share the repair findings and describe which lower surfaces became wet.",
+    "checklist": [
+      "Identify the failed line.",
+      "Describe affected corners or adjoining rooms.",
+      "Share photographs from existing openings."
+    ]
+  },
+  "appliance-leak-cleanup/farmersville": {
+    "intro": "Appliance leak cleanup in Farmersville helps when a leaking machine has wet flooring that continues beneath a cabinet run. Stopping the source does not make the concealed portion accessible. We will evaluate the visible edges and explain the access needed for cleanup.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup beneath continuous finishes",
+        "text": "We will inspect the path from the appliance toward the fixed cabinets. Safe movement or disconnection may require another provider. The exposed floor will be evaluated without assuming it describes the material beneath every attached feature."
+      },
+      {
+        "title": "Decide whether selective access is necessary",
+        "text": "Trim or a cabinet panel may obstruct a relevant wet edge. We will explain the purpose of a proposed opening and distinguish damage removal from access work. Suitable retained support may need drying even where the finish itself requires replacement."
+      },
+      {
+        "title": "Coordinate equipment and cabinet reinstatement",
+        "text": "We will document treatment and identify outstanding repairs before the area is covered. Appliance correction remains a separate milestone. Reinstallation should follow the building condition so it does not prevent completion of the concealed floor work."
+      }
+    ],
+    "estimate": "Cabinet access, floor layers, and leak duration affect the estimate. Contact us with the appliance diagnosis and photographs of the affected edges.",
+    "checklist": [
+      "Identify the appliance.",
+      "Describe flooring extending beneath cabinets.",
+      "Tell us whether the source is repaired."
+    ]
+  },
+  "storm-water-damage-cleanup/farmersville": {
+    "intro": "Storm water damage cleanup in Farmersville helps when rain has wet an interior wall and the floor beneath stored belongings. The water-entry repair and the interior material decisions need coordination. We will evaluate accessible damage and explain a practical cleanup sequence.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup behind stored items",
+        "text": "We will discuss movement needed to reach affected surfaces and identify contents requiring separate evaluation. The exterior source belongs with the appropriate repair provider. Clearing the interior access will not be described as resolving every item or the entry point itself."
+      },
+      {
+        "title": "Evaluate the wall-floor connection",
+        "text": "Lower trim and flooring may conceal wet layers beyond the visible stain. We will explain removal needed for damage or useful inspection access. Suitable retained components will receive a defined drying plan rather than an assumption that the room face tells the whole story."
+      },
+      {
+        "title": "Return the area to storage after treatment",
+        "text": "We will record progress and identify outstanding source or material work. Cleaned belongings should return only to an area with a clear condition. Finish replacement will follow those findings instead of hiding unresolved moisture behind furniture or panels."
+      }
+    ],
+    "estimate": "Entry duration, furnishings, assembly construction, and source-repair timing shape the estimate. Share the interior location and exterior findings available.",
+    "checklist": [
+      "Identify stored items against wet surfaces.",
+      "Describe where rain entered.",
+      "Tell us about exterior repairs arranged."
+    ]
+  },
+  "structural-drying-services/farmersville": {
+    "intro": "Structural drying services in Farmersville help when retained wood remains wet after insulation and damaged finish have been removed. You need monitored treatment before rebuilding, not a guess based on room appearance. We will evaluate the exposed assembly and explain the drying objective.",
+    "sections": [
+      {
+        "title": "Structural drying services after material removal",
+        "text": "We will identify retained components and accessible locations relevant to treatment. Equipment placement will reflect the actual assembly and any remaining obstructions. The setup will explain what it is intended to dry rather than use one arrangement for every exposed area."
+      },
+      {
+        "title": "Check progress where closure depends on it",
+        "text": "We will record changes in relevant materials and explain slower locations. Limited response may require an adjustment or investigation of continuing moisture. Additional equipment time will have a stated reason tied to the findings."
+      },
+      {
+        "title": "Separate drying from material repair",
+        "text": "Deteriorated wood or another condition can require work beyond moisture reduction. We will identify that need alongside the drying status. The handoff will describe evaluated sections and outstanding requirements before new insulation or finish layers return."
+      }
+    ],
+    "estimate": "Component thickness, access, source status, and treatment response determine the estimate. Share photographs of the exposed area and previous moisture records if available.",
+    "checklist": [
+      "Identify materials intended to remain.",
+      "Describe finishes still covering adjoining sections.",
+      "Tell us what reconstruction is planned."
+    ]
+  },
+  "floor-water-damage-cleanup/farmersville": {
+    "intro": "Floor water damage cleanup in Farmersville helps when a leak has wet a room where flooring meets a raised platform or built-in feature. That junction can limit inspection of the support below. We will evaluate accessible conditions and explain removal or drying options.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup at raised features",
+        "text": "We will inspect the exposed connection and identify where water may have reached material beneath the feature. A panel or trim section may need removal for access. The proposed opening will have a defined evaluation purpose rather than be treated as automatic replacement of the whole feature."
+      },
+      {
+        "title": "Evaluate finish and support separately",
+        "text": "Visible swelling or separation may require a finish decision while retained support still needs drying. We will explain both conditions. Water exposure and material construction will guide retention rather than the appearance of only the top layer."
+      },
+      {
+        "title": "Prepare the junction for reconstruction",
+        "text": "We will document treatment and identify support repairs or installation requirements still relevant. Reattaching trim should follow the resolved condition beneath it. The repair provider will receive a specific account of the area addressed and any remaining limitation."
+      }
+    ],
+    "estimate": "Feature construction, floor layers, and access determine cost. Contact us with photographs of the junction and the leak history.",
+    "checklist": [
+      "Identify the raised or fixed feature.",
+      "Describe visible floor changes.",
+      "Share planned replacement work."
+    ]
+  },
+  "ceiling-water-damage-cleanup/farmersville": {
+    "intro": "Ceiling water damage cleanup in Farmersville helps when water has affected a ceiling above a room with fixed storage. The overhead material needs access while the contents below remain organized. We will explain the work footprint and the decisions required before patching.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup over fixed shelving",
+        "text": "Shelves close to a ceiling can prevent direct access to a damp section. We will review attachment points and identify which components need temporary removal to perform the work. That access decision will be separate from replacement of shelving that has itself been damaged."
+      },
+      {
+        "title": "Evaluate stored items before clearing the footprint",
+        "text": "Books, boxes, or other belongings beneath the leak may require individual handling. We will distinguish contents awaiting review from material approved for disposal. Clearing the shelves will not be presented as cleaning or restoring everything they held."
+      },
+      {
+        "title": "Reach and dry the exposed ceiling assembly",
+        "text": "We will explain removal of unsuitable finish or insulation and examine retained surfaces above them. Equipment placement and monitoring will follow the area actually affected. The proposed patch size may differ from the wet material boundary, and those two decisions will be explained separately."
+      },
+      {
+        "title": "Reassemble the storage area after treatment",
+        "text": "We will identify remaining source correction and the condition needed before ceiling finishing. Shelving and contents return will follow that sequence. The record will state which overhead surfaces were addressed and what limitations remain beyond the accessible section."
+      }
+    ],
+    "estimate": "Ceiling height, storage access, and affected layers influence the estimate. Share safe photographs and source findings already available.",
+    "checklist": [
+      "Identify storage beneath the damage.",
+      "Describe loose or sagging finish.",
+      "Tell us whether the leak is corrected."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/farmersville": {
+    "intro": "AC leak water damage cleanup in Farmersville helps when moisture from cooling equipment has reached nearby wall and floor finishes. The mechanical correction leaves building materials needing their own evaluation. We will inspect accessible spread and explain the cleanup and drying sequence.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup beyond a damp doorway",
+        "text": "We will inspect the transition where moisture leaves the mechanical area and reaches the neighboring room. Trim, floor seams, and lower wall material can conceal part of the route. The work boundary will follow accessible findings rather than stop automatically at the equipment enclosure."
+      },
+      {
+        "title": "Open the edge needed to evaluate the adjoining room",
+        "text": "A limited trim or finish removal may reveal whether moisture remains underneath. We will explain the purpose before opening the assembly. Material removed for access will be distinguished from components that are no longer serviceable after wetting."
+      },
+      {
+        "title": "Dry the connected assembly with separate checkpoints",
+        "text": "The mechanical area and adjoining room may have different retained materials and access. We will monitor relevant locations in each rather than use one exposed spot to describe both. Slow progress will prompt a defined adjustment or investigation of continuing moisture."
+      },
+      {
+        "title": "Restore the transition after both sides are ready",
+        "text": "We will identify outstanding floor or wall repairs and the HVAC source status. Replacement trim should not hide an unresolved edge on either side of the doorway. The completion record will describe the connection addressed and any remaining limitation."
+      }
+    ],
+    "estimate": "Equipment location, connected spread, and material access shape the estimate. Share the HVAC diagnosis and describe where damage appeared outside the immediate source area.",
+    "checklist": [
+      "Identify affected adjoining surfaces.",
+      "Tell us what the HVAC provider repaired.",
+      "Share current access limitations."
+    ]
+  },
+  "crawl-space-water-removal/farmersville": {
+    "intro": "Crawl space water removal in Farmersville helps when standing water beneath the floor has left insulation wet and hanging. Removing the liquid is an initial step toward deciding what can remain. We will assess access and explain the material work that follows extraction.",
+    "sections": [
+      {
+        "title": "Crawl space water removal beneath hanging insulation",
+        "text": "Wet insulation can obstruct the view and working space even after pooled water begins to recede. We will evaluate the accessible material and identify removal needed to reach the underside. The handling scope will distinguish affected insulation from unrelated sections intended to stay."
+      },
+      {
+        "title": "Examine the exposed attachment areas",
+        "text": "Once approved material is removed, the framing and the underside of the floor can be considered directly. We will identify moisture, debris, or damage relevant to further work. The decision to reinstall insulation will not be based only on whether it can be fastened back into place."
+      },
+      {
+        "title": "Dry suitable retained surfaces",
+        "text": "We will explain the components selected for treatment and how access affects equipment placement. Relevant progress will be recorded before covering the area again. Deteriorated material or suspected mold may require a different scope beyond ordinary water removal."
+      },
+      {
+        "title": "Coordinate the replacement sequence with source correction",
+        "text": "The continuing cause of water must have its own response. We will state the condition of the treated underside and any remaining repair dependency. A drained area and a surface ready for new insulation are separate milestones."
+      }
+    ],
+    "estimate": "Clearance, insulation condition, water volume, and source status affect scope. Share observations already available without entering an unsafe crawl space.",
+    "checklist": [
+      "Identify the access opening.",
+      "Describe reported insulation damage.",
+      "Share known source-repair findings."
+    ]
+  },
+  "bathroom-mold-removal/farmersville": {
+    "intro": "Bathroom mold removal in Farmersville helps when a leaking supply connection has affected the wall inside a vanity. The fixture repair leaves a separate decision about concealed material. We will arrange evaluation and explain the access and treatment needed before the cabinet is repaired.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal inside vanity openings",
+        "text": "We will review the visible condition and the plumbing history. Cabinet panels may limit inspection of the wall or floor behind them. The plan will explain further access where necessary rather than assume the small exposed area defines the whole remediation boundary."
+      },
+      {
+        "title": "Treat cabinet and wall components separately",
+        "text": "Affected panels, drywall, and insulation may require removal while suitable retained surfaces receive defined cleaning. Containment and handling will reflect the work. Qualified disconnection may be needed where plumbing obstructs access."
+      },
+      {
+        "title": "Prepare the cabinet for reconstruction",
+        "text": "We will identify source correction, related drying, and any independent review before closure. Replacement panels and stored belongings should follow the receiving-area condition. The handoff will state what was treated and what still needs another decision."
+      }
+    ],
+    "estimate": "Vanity construction, plumbing access, and affected layers shape the estimate. Contact us with existing photographs and the repair findings.",
+    "checklist": [
+      "Identify the leaking connection.",
+      "Describe visible affected panels.",
+      "Tell us whether the source is repaired."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/farmersville": {
+    "intro": "Kitchen cabinet mold removal in Farmersville helps when a damaged cabinet bottom reveals growth at the wall behind it. Replacing only the bottom would leave the concealed surface unresolved. We will arrange evaluation and explain a remediation scope for the affected assembly.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal through damaged bases",
+        "text": "We will inspect the accessible cabinet and wall connection. Adjacent panels or plumbing may still restrict the view. Further opening will be explained where it serves evaluation or treatment rather than automatically extending removal through the whole cabinet run."
+      },
+      {
+        "title": "Address retained surfaces after unsuitable material is removed",
+        "text": "The plan will identify affected components that cannot reasonably remain and suitable surfaces for cleaning. Material handling and containment will be defined around the work. Structural or utility concerns requiring another provider will remain separate."
+      },
+      {
+        "title": "Replace the cabinet base after conditions are resolved",
+        "text": "We will identify drying, moisture-source work, and any independent review before panels return. The new base should not hide unfinished treatment. Belongings affected by the same moisture will need their own decision before storage resumes."
+      }
+    ],
+    "estimate": "Cabinet material, wall access, and affected extent influence cost. Share photographs of the damaged bottom and any known leak history.",
+    "checklist": [
+      "Identify panels already removed.",
+      "Share plumbing findings.",
+      "Describe contents touching the affected area."
+    ]
+  },
+  "mold-remediation-after-water-damage/farmersville": {
+    "intro": "Mold remediation after water damage in Farmersville helps when an old leak is followed by a new finding during repair. The material now exposed needs evaluation even if the earlier room surface appeared dry. We will arrange remediation based on the current condition and available history.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage during later access",
+        "text": "We will review the exposed location and any previous drying or repair records. Those records can provide context without establishing the condition of a layer that remained concealed. The scope will follow actual findings and any applicable assessment."
+      },
+      {
+        "title": "Define the affected-material work",
+        "text": "The plan will identify removal of unsuitable components and cleaning of surfaces appropriate to retain. Access and containment will reflect the assembly involved. If additional findings change the boundary, they will be explained before more work is included."
+      },
+      {
+        "title": "Prevent another closure over uncertainty",
+        "text": "We will identify source correction, related drying, and independent review requirements before reconstruction. Structural repairs or finish-product requirements remain separate decisions. The handoff will describe the section addressed and outstanding limitations rather than repeat an earlier general completion statement."
+      }
+    ],
+    "estimate": "Concealed access, current affected material, and previous work shape the estimate. Contact us before the repair opening is closed.",
+    "checklist": [
+      "Share the original leak date if known.",
+      "Describe the new finding.",
+      "Provide existing repair records relevant to the area."
+    ]
+  },
+  "mold-removal-behind-drywall/farmersville": {
+    "intro": "Mold removal behind drywall in Farmersville helps when a removed wall panel reveals affected insulation or framing beyond a visible room-side mark. The cavity needs a defined treatment plan before it is covered again. We will arrange evaluation and explain the work boundary.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall beyond the surface mark",
+        "text": "We will consider the accessible material and moisture history together. The visible mark may not match the concealed extent. Additional opening will be explained where needed to reach affected components or establish the edge of the condition."
+      },
+      {
+        "title": "Make decisions for each wall layer",
+        "text": "Drywall and insulation may require removal while suitable retained wood can receive cleaning. The plan will describe containment and handling appropriate to that work. Utilities or deteriorated structural components needing another provider will be identified separately."
+      },
+      {
+        "title": "Close the assembly after the requirements are clear",
+        "text": "We will identify source correction, drying, and any independent review before replacement finishes return. The completion record will state what was addressed and where access remained limited. It will not extend findings to unrelated wall cavities that were never evaluated."
+      }
+    ],
+    "estimate": "Wall construction, affected layers, and access restrictions determine the estimate. Share photographs from the existing opening and the known moisture history.",
+    "checklist": [
+      "Identify the panel removed.",
+      "Describe visible cavity material.",
+      "Tell us whether the source is resolved."
+    ]
+  },
+  "attic-mold-remediation/farmersville": {
+    "intro": "Attic mold remediation in Farmersville helps when a contractor reports affected wood near insulation that is scheduled for replacement. The surface condition should be addressed before access becomes limited again. We will arrange evaluation and explain treatment of suitable retained material.",
+    "sections": [
+      {
+        "title": "Attic mold remediation before insulation returns",
+        "text": "We will review reported locations and the visibility available around existing insulation. Clearance and obstructions may limit which surfaces can be evaluated. The scope will state those limits instead of treating an attic hatch view as a complete inspection."
+      },
+      {
+        "title": "Separate cleaning from material replacement",
+        "text": "Suitable wood may receive defined treatment while deterioration requires another repair decision. Removal needed for access or affected material will be explained. Remediation will not be represented as restoring structural strength or confirming roof performance."
+      },
+      {
+        "title": "Coordinate source findings and completion",
+        "text": "We will identify moisture correction requiring another provider, related drying, and any independent review. Reinsulation should follow those requirements. The handoff will describe treated surfaces and outstanding work before replacement material conceals the area."
+      }
+    ],
+    "estimate": "Affected area, clearance, and insulation access influence cost. Contact us with contractor observations and existing photographs.",
+    "checklist": [
+      "Identify the reported attic section.",
+      "Share roof or ventilation findings.",
+      "Tell us the planned insulation sequence."
+    ]
+  },
+  "crawl-space-mold-remediation/farmersville": {
+    "intro": "Crawl space mold remediation in Farmersville helps when affected framing is reported beneath a recently repaired floor. The room above may be finished while the underside still needs treatment decisions. We will arrange evaluation and explain the accessible remediation scope.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation beneath completed floor work",
+        "text": "We will review the location and repair history without assuming the new surface resolves the underside. Clearance and insulation can limit visibility. The plan will identify evaluated sections and any additional access needed before the affected boundary is established."
+      },
+      {
+        "title": "Treat suitable retained components",
+        "text": "Affected or obstructing material may need removal to reach wood proposed for cleaning. Deterioration requiring structural repair needs a separate qualified decision. The work will be described by the actual material addressed rather than as general restoration of the floor system."
+      },
+      {
+        "title": "Document what remains before reinsulation",
+        "text": "We will identify source correction, related drying, and independent review requirements. Replacement insulation should follow those conditions. The handoff will distinguish the underside remediation status from the earlier finish repair above it."
+      }
+    ],
+    "estimate": "Clearance, affected surfaces, and repair access determine the estimate. Share the provider findings and photographs already available.",
+    "checklist": [
+      "Identify the floor area above.",
+      "Share the repair history.",
+      "Describe insulation obstructing the reported material."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/farmersville": {
+    "intro": "Mold contaminated contents cleaning in Farmersville helps when a damp storage area has affected belongings made from several materials. Some surfaces may be accessible for treatment while other layers are not. We will evaluate construction and explain realistic cleaning or replacement decisions.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning by accessible material",
+        "text": "We will consider solid surfaces separately from fabric, paper, padding, and concealed joints. A cleanable exterior does not establish the condition of every internal layer. Specialist care or disposal may be more appropriate for some objects than general treatment."
+      },
+      {
+        "title": "Keep item approvals identifiable",
+        "text": "We will discuss priority belongings before irreversible work and flag items needing individual review. Untreated items will remain distinguishable from those approved for cleaning. Personal importance can guide the sequence without becoming a guaranteed restoration outcome."
+      },
+      {
+        "title": "Return belongings to a suitable environment",
+        "text": "The receiving area and packaging need a resolved moisture and cleanup status. We will explain completed treatment and limitations before return. Reusing an affected container or placing items against an untreated surface requires its own decision."
+      }
+    ],
+    "estimate": "Quantity, construction, exposure, and specialist needs affect the estimate. Contact us with representative photographs and a list of priority items.",
+    "checklist": [
+      "Identify material types.",
+      "List belongings needing individual approval.",
+      "Describe the proposed return location."
+    ]
+  },
+  "kitchen-fire-cleanup/farmersville": {
+    "intro": "Kitchen fire cleanup in Farmersville helps when a cooking fire has left residue on cabinet interiors and damage around the appliance. The cleanup needs to distinguish suitable surfaces from components requiring replacement. We will evaluate accessible conditions and explain the sequence before repairs.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup inside drawers and cabinet boxes",
+        "text": "Smoke residue may be visible on the room-facing doors while also affecting accessible interiors. We will review those surfaces and the objects stored against them. Emptying a drawer creates room for evaluation; it does not establish whether its contents can be cleaned or should be discarded."
+      },
+      {
+        "title": "Separate heat damage from a removable deposit",
+        "text": "We will examine whether a cabinet surface is distorted, charred, or otherwise damaged beneath the residue. Suitable finishes may receive cleaning, while damaged components need a repair or removal decision. The proposal will explain which outcome the work can reasonably pursue for each affected section."
+      },
+      {
+        "title": "Reach the surfaces behind an appliance",
+        "text": "Qualified disconnection may be necessary before the appliance can move. Once access is available, we will evaluate the wall and floor it concealed, including moisture from the response. Appliance operating condition remains a separate specialist question from cleaning its surroundings."
+      },
+      {
+        "title": "Prepare retained storage for reconstruction",
+        "text": "We will identify cleaned cabinet sections and those still awaiting material work. New panels or belongings should return only after the receiving surfaces have a clear status. The repair handoff will describe outstanding drying, finish repair, and equipment decisions individually."
+      }
+    ],
+    "estimate": "Heat exposure, cabinet access, residue spread, and water conditions affect the estimate. Contact us after entry is authorized and describe the damaged components.",
+    "checklist": [
+      "Identify visibly damaged cabinets.",
+      "Tell us about water used during response.",
+      "List contents needing separate review."
+    ]
+  },
+  "smoke-damage-cleanup/farmersville": {
+    "intro": "Smoke damage cleanup in Farmersville helps when residue has settled on walls and belongings in a room adjoining the fire area. The exposure needs evaluation beyond the visibly damaged origin. We will inspect accessible surfaces and explain material-specific treatment decisions.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup through doorways and adjoining rooms",
+        "text": "We will inspect the accessible route away from the fire, including door faces, trim, and nearby ceiling or wall finishes. Exposure may change across that route. A room that escaped direct heat can still need a residue decision based on what is found there."
+      },
+      {
+        "title": "Evaluate furnishings near the connecting opening",
+        "text": "Items positioned beside a doorway can carry deposits on one side while other surfaces appear unaffected. We will discuss movement needed to inspect the surroundings and identify belongings needing their own treatment. The building estimate will not automatically include specialist care for every object."
+      },
+      {
+        "title": "Remove residue from suitable retained surfaces",
+        "text": "We will explain cleaning appropriate to the material beneath the deposit. Heat effects, moisture damage, or a sensitive finish can change what is practical. Removal or refinishing will be identified where needed rather than concealed inside a broad promise to clean the whole room."
+      },
+      {
+        "title": "Review the source of any remaining odor",
+        "text": "We will connect unresolved odor concerns to relevant surfaces or contents that still need evaluation. Covering a wall with new paint will not by itself establish that those sources were addressed. The handoff will show completed treatment and the remaining material decisions across the adjoining rooms."
+      }
+    ],
+    "estimate": "Spread, surface sensitivity, furnishings, and access determine cost. Share the rooms involved and any cleaning already attempted.",
+    "checklist": [
+      "Identify residue locations.",
+      "Describe sensitive finishes.",
+      "Tell us where odor remains noticeable."
+    ]
+  },
+  "toilet-overflow-cleanup/farmersville": {
+    "intro": "Toilet overflow cleanup in Farmersville helps when wastewater has reached flooring beneath a bathroom storage unit. The open floor may be easier to clean than the concealed area under it. We will evaluate access and explain the material decisions needed before storage returns to use.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup beneath bathroom furniture",
+        "text": "A freestanding storage unit can hide wastewater on the floor and absorb moisture through its lower components. We will discuss movement and evaluate the footprint beneath it. The furniture itself will receive a separate decision based on construction and exposure."
+      },
+      {
+        "title": "Inspect contents before the unit is emptied",
+        "text": "Towels, paper goods, containers, and personal belongings may not share the same restoration options. We will identify items needing individual approval before treatment or disposal. Simply transferring them into another cabinet will not resolve what was exposed."
+      },
+      {
+        "title": "Reach and treat the concealed floor edge",
+        "text": "We will inspect the layers made accessible after movement and explain removal of unsuitable components. Suitable retained surfaces will have defined cleaning, with any drying identified separately. The open bathroom floor will not be used to represent a section that remained covered during initial extraction."
+      },
+      {
+        "title": "Return storage to a resolved receiving area",
+        "text": "We will record the treated footprint and remaining flooring or trim repairs. The overflow cause must be addressed by the plumbing provider. Reusing the storage unit will depend on both its own condition and the area where it will stand."
+      }
+    ],
+    "estimate": "Unit access, material exposure, flooring layers, and spread influence the estimate. Call with the overflow route and the status of the fixture repair.",
+    "checklist": [
+      "Identify storage reached by wastewater.",
+      "Describe floor materials.",
+      "Share the plumbing response status."
+    ]
+  },
+  "fire-damaged-debris-removal/farmersville": {
+    "intro": "Fire damaged debris removal in Farmersville helps when damaged floor and wall finishes must come out before the connected assembly can be treated. The removal needs to define what stays as clearly as what leaves. We will establish the authorized scope and explain the condition exposed afterward.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal where floors meet walls",
+        "text": "We will review the finish layers approved for removal and the junctions between them. Base trim, floor coverings, and wall panels can conceal different conditions. The sequence will provide useful access without assuming every attached layer has identical damage."
+      },
+      {
+        "title": "Identify retained construction before removal begins",
+        "text": "Fixed features or nearby utilities can affect practical boundaries. We will explain where qualified disconnection or another evaluation is needed. Components awaiting a repair decision will remain distinct from debris authorized for disposal."
+      },
+      {
+        "title": "Review the assembly revealed by demolition",
+        "text": "The exposed support may show residue, wet insulation, or deterioration requiring further work. We will describe those findings before extending the scope. Newly visible material will not automatically be removed just because the finish above it was damaged."
+      },
+      {
+        "title": "Prepare the junction for follow-on treatment",
+        "text": "We will identify the cleaning, drying, and repairs needed at the cleared edge. Replacement finish choices are separate from the physical removal task. The handoff will state what remains open and why, so reconstruction does not cover unfinished treatment."
+      }
+    ],
+    "estimate": "Material layers, attached features, handling access, and disposal volume determine cost. Share the approved work area and items requiring review.",
+    "checklist": [
+      "Identify finishes scheduled for removal.",
+      "List property to retain for evaluation.",
+      "Share utility or structural restrictions."
+    ]
+  },
+  "fire-damaged-contents-cleaning/farmersville": {
+    "intro": "Fire damaged contents cleaning in Farmersville helps when belongings from a fire-affected room need decisions before they are packed for return. Smoke, heat, and water may have affected them differently. We will evaluate item construction and explain treatment options and limits.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning before repacking",
+        "text": "We will review accessible residue, material damage, and hidden layers within each item group. A solid exterior may be treatable while absorbent interiors limit the result. Electronics or sensitive objects can require specialist evaluation beyond general cleaning."
+      },
+      {
+        "title": "Make priority decisions before irreversible work",
+        "text": "We will discuss belongings needing individual approval and identify those suitable for proposed treatment. Items awaiting review will remain distinguishable. Sentimental importance can guide evaluation order without creating a promise that cleaning restores original appearance or function."
+      },
+      {
+        "title": "Coordinate packaging and return conditions",
+        "text": "The container and receiving room should support completed treatment rather than renew exposure. We will record remaining limitations and specialist needs before items return. Contents status will remain separate from building reconstruction so one completed task does not imply the other is ready."
+      }
+    ],
+    "estimate": "Quantity, material sensitivity, damage, and specialist requirements affect scope. Contact us with representative item groups and priorities.",
+    "checklist": [
+      "Identify belongings needing individual review.",
+      "Describe heat or water damage.",
+      "Tell us about the intended return location."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/farmersville": {
+    "intro": "Fire extinguisher residue cleanup in Farmersville helps when discharged material has reached furniture and floor edges around the fire area. The cleanup needs the agent information and a decision about each exposed surface. We will review those conditions before treatment.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup on furniture and flooring",
+        "text": "We will identify the released agent from available label or response information and evaluate the surfaces it reached. Solid furniture, absorbent components, and floor finishes can need different handling. The proposal will explain those distinctions rather than assume one cleaning process is appropriate throughout the room."
+      },
+      {
+        "title": "Reach deposits beneath the furniture footprint",
+        "text": "Authorized movement can expose material that was hidden during the initial room inspection. We will identify those locations within the surface-cleaning scope. Items moved for access will retain their own contents decision rather than be recorded as restored by movement alone."
+      },
+      {
+        "title": "Evaluate limitations in soft or concealed layers",
+        "text": "Residue on an accessible solid surface does not establish whether padding, seams, or internal equipment components can be addressed. We will explain where specialist review is needed. Treatment expectations will reflect those limitations before irreversible work is approved."
+      },
+      {
+        "title": "Return the room with unresolved tasks identified",
+        "text": "We will record surfaces treated and items still awaiting a decision. Other smoke or heat damage may require additional work. Equipment operating approval and servicing the used extinguisher remain separate from cleaning the surrounding room."
+      }
+    ],
+    "estimate": "Agent type, spread, material sensitivity, and access influence cost. Share a safe label photograph and describe the furnishings involved.",
+    "checklist": [
+      "Identify the agent if known.",
+      "List delicate or absorbent items.",
+      "Tell us about other fire damage."
+    ]
+  },
+  "emergency-board-up-after-fire/farmersville": {
+    "intro": "Emergency board up after fire in Farmersville helps when exterior damage leaves a window or doorway exposed during repair planning. Temporary protection must account for the surrounding construction and continued authorized access. We will evaluate the opening and explain what can be secured safely.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire at a damaged doorway",
+        "text": "We will assess the accessible jambs and adjoining wall before proposing temporary protection. A missing door and a weakened attachment area are different problems. If the surrounding construction cannot support the proposed work, the appropriate repair or evaluation must come first."
+      },
+      {
+        "title": "Account for the opening used by the next crew",
+        "text": "Inspectors and restoration providers may need to bring people or equipment through that doorway. We will discuss the authorized access requirement as part of the temporary arrangement. The closure will not be described as a permanent replacement or evidence that the interior is safe to occupy."
+      },
+      {
+        "title": "Identify what protection at that doorway does not resolve",
+        "text": "Nearby wall, roof, or utility damage may remain outside the task. We will document relevant exposure observed in the work area. Securing one entry will not become a claim that every exterior opening or building hazard has been addressed."
+      },
+      {
+        "title": "Coordinate the transition to permanent door work",
+        "text": "Frame repair or removal can change the surfaces supporting temporary protection. We will record the condition left so the next provider can plan that transition. Review may be needed as construction progresses instead of assuming the original closure remains suitable after the opening changes."
+      }
+    ],
+    "estimate": "Opening size, attachment condition, and safe access determine the estimate. Contact us with the location and entry-release status.",
+    "checklist": [
+      "Identify the exposed opening.",
+      "Share access restrictions.",
+      "Tell us what permanent repair is planned."
+    ]
+  },
+  "crawl-space-sewage-cleanup/farmersville": {
+    "intro": "Crawl space sewage cleanup in Farmersville helps when wastewater has affected debris and insulation beneath a repaired line. Removing the liquid alone leaves those materials to evaluate. We will establish accessible cleanup and explain the treatment needed before replacement work.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup among debris and insulation",
+        "text": "We will evaluate the accessible wastewater and identify material that blocks inspection near the repaired line. Loose debris and attached insulation require separate handling decisions. The removal scope will describe what needs to leave before retained surfaces can be reached."
+      },
+      {
+        "title": "Inspect contact areas after clearing",
+        "text": "Debris may conceal exposure against wood or another component rather than only water on the ground. We will review the surfaces made visible and explain their treatment needs. Clearing the loose material will not be represented as resolving the condition beneath it."
+      },
+      {
+        "title": "Clean and dry suitable retained components",
+        "text": "We will identify surfaces appropriate to keep and explain the cleaning work, followed by related moisture treatment where needed. Deteriorated structural material requires a separate repair decision. Extracting wastewater does not establish that every exposed component is ready for new insulation."
+      },
+      {
+        "title": "Prepare the underside for replacement materials",
+        "text": "We will record completed sections and remaining source or access issues. The plumbing repair and surrounding restoration retain separate statuses. Reinsulation should follow the treated-surface condition so it does not cover a contact area still awaiting work."
+      }
+    ],
+    "estimate": "Clearance, affected material quantity, wastewater spread, and disposal needs shape the estimate. Share the plumbing findings and observations already available without entering the affected space.",
+    "checklist": [
+      "Identify the repaired line location.",
+      "Describe reported insulation or debris exposure.",
+      "Share crawl-space access information."
+    ]
+  }
+}

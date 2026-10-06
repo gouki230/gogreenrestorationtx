@@ -1,4 +1,6 @@
 ---
-import CommercialPillar from "../../../components/CommercialPillar.astro";
+import topics from '../../../utils/commercial-expansion-topics';
+import CommercialExpansionPage from '../../../components/CommercialExpansionPage.astro';
+const topic = topics.find(item => item.slug === 'hoa-restoration-services');
 ---
-<CommercialPillar slug="hoa-restoration-services" />
+<CommercialExpansionPage topic={topic} />

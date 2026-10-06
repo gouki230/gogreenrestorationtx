@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import pages from '../data/real-estate-pages.json';
+import images from '../data/compact-service-images.json';
+const {slug}=Astro.props;
+const page=pages.find(p=>p.slug===slug)!;
+const image=images[page.image as keyof typeof images];
+const hub=slug==='real-estate';
+const breadcrumbs=[{name:'Home',url:'/'},...(hub?[]:[{name:'Real estate agents',url:'/real-estate/'}]),{name:page.name,url:page.path}];
+const title=`${page.name} | Request an Estimate | Go Green Restoration TX Inc`;
+---
+<BaseLayout title={title} description={page.description} ogImage={image.src} omitOfficeCopy={true} schema={[{'@context':'https://schema.org','@type':'WebPage',name:page.name,url:`https://gogreenrestorationtx.com${page.path}`,description:page.description,about:{'@type':'Service',name:page.name,areaServed:'Dallas–Fort Worth, Texas',provider:{'@id':'https://gogreenrestorationtx.com/#wylie'}}}]}>
+  <Breadcrumbs items={breadcrumbs}/>
+  <article class="estate-page max-w-5xl mx-auto px-4 py-12 lg:py-16">
+    <p class="text-sm font-bold uppercase tracking-widest text-brand-green mb-4">For agents, buyers and sellers across DFW</p>
+    <h1 class="font-heading text-4xl lg:text-5xl font-black mb-6">{page.name}</h1>
+    <p data-estate-copy class="text-lg max-w-4xl mb-6">{page.intro}</p>
+    <div class="flex flex-col sm:flex-row gap-3 mb-8"><a class="bg-brand-green text-white font-bold rounded-lg px-6 py-4 text-center" href="tel:+14697273217">Call (469) 727-3217</a><a class="bg-brand-brown text-white font-bold rounded-lg px-6 py-4 text-center" href="/contact/#real-estate-request">Discuss your timeline</a></div>
+    <figure class="mb-10"><img src={image.src} srcset={`${image.smallSrc} 640w, ${image.src} 1280w`} sizes="(max-width:640px) 100vw, 960px" width={image.width} height={image.height} alt={`${page.name}: ${image.alt.replace(/: AI-generated restoration illustration/i,'').toLowerCase()} illustration`} fetchpriority="high" class="w-full rounded-2xl"/><figcaption class="text-sm text-brand-gray-600 mt-2">Higgsfield-generated service illustration; not a photograph of a completed real-estate project.</figcaption></figure>
+    {page.sections.map(section=><section data-estate-copy><h2>{section.title}</h2>{section.text.split('\n\n').map(text=><p>{text}</p>)}</section>)}
+    <section><h2>Information for your estimate request</h2><ul>{page.checklist.map(item=><li>{item}</li>)}</ul><p>Start with a description in the <a href="/contact/#real-estate-request">service request form</a>. We will confirm how to share relevant report pages or photographs. Leave out financial records and unrelated personal information.</p></section>
+    <aside class="text-sm bg-brand-gray-50 border border-brand-gray-200 p-5 rounded-xl mb-8">Go Green Restoration TX Inc welcomes mold projects of any size. While our Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and scope are identified before work begins. Independent assessment and clearance are separate services.</aside>
+    <section><h2>Explore the relevant restoration work</h2><ul>{page.links.map(link=><li><a href={link.href}>{link.label}</a></li>)}</ul></section>
+    <section class="bg-brand-warm p-6 rounded-xl"><h2>Get a clear next step for the property</h2><p>Call <a href="tel:+14697273217">(469) 727-3217</a> or <a href="/contact/#real-estate-request">request an estimate</a>. We will confirm current availability and discuss the work, approvals and timing dependencies. A target closing date helps us plan; it is not a guaranteed completion date.</p><p>Find your area in our <a href="/locations/dfw-metro/">DFW service directory</a>{!hub && <> or return to <a href="/real-estate/">restoration services for real estate agents</a></>}.</p></section>
+  </article>
+</BaseLayout>
+<style>.estate-page section{margin-bottom:2.25rem}.estate-page h2{font-size:1.5rem;line-height:1.35;font-weight:700;margin-bottom:1rem}.estate-page p,.estate-page li{line-height:1.8}.estate-page section p{margin-bottom:1rem;color:#4b5563}.estate-page section a{color:#5a4628;text-decoration:underline;text-underline-offset:3px}.estate-page ul{list-style:disc;padding-left:1.35rem}.estate-page li{margin-bottom:.6rem}@media(max-width:480px){.estate-page h1{font-size:2.15rem}.estate-page h2{font-size:1.35rem}}</style>

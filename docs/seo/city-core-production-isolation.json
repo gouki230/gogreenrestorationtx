@@ -1,0 +1,7493 @@
+{
+  "pages": [
+    {
+      "path": "/locations/dfw-metro/addison/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/addison/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/addison/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/addison/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/addison/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/addison/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/aledo/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/aledo/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/aledo/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/aledo/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/aledo/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/aledo/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/allen/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/allen/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/allen/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/allen/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/allen/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/allen/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/alma/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/alma/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/alma/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/alma/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/alma/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/alma/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/alvarado/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/alvarado/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/alvarado/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/alvarado/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/alvarado/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/alvarado/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/alvord/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/alvord/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/alvord/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/alvord/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/alvord/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/alvord/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/anna/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/anna/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/anna/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/anna/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/anna/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/anna/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/annetta-north/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/annetta-north/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/annetta-north/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/annetta-north/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/annetta-north/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/annetta-north/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/annetta-south/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/annetta-south/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/annetta-south/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/annetta-south/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/annetta-south/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/annetta-south/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/annetta/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/annetta/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/annetta/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/annetta/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/annetta/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/annetta/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/argyle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/argyle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/argyle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/argyle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/argyle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/argyle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/arlington/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/arlington/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/arlington/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/arlington/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/arlington/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/arlington/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/aubrey/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/aubrey/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/aubrey/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/aubrey/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/aubrey/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/aubrey/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/aurora/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/aurora/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/aurora/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/aurora/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/aurora/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/aurora/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/azle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/azle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/azle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/azle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/azle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/azle/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/balch-springs/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/balch-springs/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/balch-springs/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/balch-springs/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/balch-springs/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/balch-springs/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/bardwell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/bardwell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/bardwell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/bardwell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/bardwell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/bardwell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/bartonville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/bartonville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/bartonville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/bartonville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/bartonville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/bartonville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/bedford/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/bedford/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/bedford/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/bedford/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/bedford/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/bedford/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/benbrook/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/benbrook/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/benbrook/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/benbrook/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/benbrook/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/benbrook/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/blue-mound/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/blue-mound/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/blue-mound/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/blue-mound/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/blue-mound/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/blue-mound/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/blue-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/blue-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/blue-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/blue-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/blue-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/blue-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/boyd/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/boyd/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/boyd/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/boyd/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/boyd/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/boyd/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/briaroaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/briaroaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/briaroaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/briaroaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/briaroaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/briaroaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/burleson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/burleson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/burleson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/burleson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/burleson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/burleson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/caddo-mills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/caddo-mills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/caddo-mills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/caddo-mills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/caddo-mills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/caddo-mills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/campbell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/campbell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/campbell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/campbell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/campbell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/campbell/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/carrollton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/carrollton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/carrollton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/carrollton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/carrollton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/carrollton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/cedar-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/cedar-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/cedar-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/cedar-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/cedar-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/cedar-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/celeste/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/celeste/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/celeste/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/celeste/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/celeste/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/celeste/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/celina/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/celina/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/celina/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/celina/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/celina/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/celina/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/chico/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/chico/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/chico/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/chico/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/chico/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/chico/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/cleburne/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/cleburne/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/cleburne/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/cleburne/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/cleburne/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/cleburne/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/cockrell-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/cockrell-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/cockrell-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/cockrell-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/cockrell-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/cockrell-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/colleyville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/colleyville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/colleyville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/colleyville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/colleyville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/colleyville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/combine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/combine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/combine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/combine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/combine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/combine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/commerce/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/commerce/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/commerce/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/commerce/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/commerce/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/commerce/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/cool/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/cool/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/cool/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/cool/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/cool/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/cool/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/coppell/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/coppell/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/coppell/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/coppell/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/coppell/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/coppell/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/copper-canyon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/copper-canyon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/copper-canyon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/copper-canyon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/copper-canyon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/copper-canyon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/corinth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/corinth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/corinth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/corinth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/corinth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/corinth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/corral-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/corral-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/corral-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/corral-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/corral-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/corral-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/cottonwood/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/cottonwood/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/cottonwood/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/cottonwood/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/cottonwood/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/cottonwood/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/coyote-flats/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/coyote-flats/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/coyote-flats/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/coyote-flats/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/coyote-flats/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/coyote-flats/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/crandall/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/crandall/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/crandall/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/crandall/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/crandall/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/crandall/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/cresson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/cresson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/cresson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/cresson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/cresson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/cresson/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/cross-roads/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/cross-roads/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/cross-roads/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/cross-roads/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/cross-roads/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/cross-roads/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/cross-timber/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/cross-timber/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/cross-timber/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/cross-timber/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/cross-timber/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/cross-timber/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/crowley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/crowley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/crowley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/crowley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/crowley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/crowley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/dallas/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/dallas/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/dallas/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/dallas/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/dallas/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/dallas/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/dalworthington-gardens/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/dalworthington-gardens/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/dalworthington-gardens/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/dalworthington-gardens/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/dalworthington-gardens/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/dalworthington-gardens/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/decatur/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/decatur/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/decatur/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/decatur/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/decatur/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/decatur/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/dennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/dennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/dennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/dennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/dennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/dennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/denton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/denton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/denton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/denton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/denton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/denton/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/desoto/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/desoto/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/desoto/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/desoto/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/desoto/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/desoto/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/dish/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/dish/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/dish/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/dish/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/dish/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/dish/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/double-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/double-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/double-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/double-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/double-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/double-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/duncanville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/duncanville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/duncanville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/duncanville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/duncanville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/duncanville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/edgecliff-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/edgecliff-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/edgecliff-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/edgecliff-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/edgecliff-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/edgecliff-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/ennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/ennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/ennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/ennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/ennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/ennis/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/euless/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/euless/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/euless/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/euless/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/euless/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/euless/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/everman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/everman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/everman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/everman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/everman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/everman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/farmers-branch/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/farmers-branch/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/farmers-branch/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/farmers-branch/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/farmers-branch/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/farmers-branch/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/farmersville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/farmersville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/farmersville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/farmersville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/farmersville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/farmersville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/fate/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/fate/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/fate/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/fate/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/fate/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/fate/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/ferris/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/ferris/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/ferris/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/ferris/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/ferris/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/ferris/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/flower-mound/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/flower-mound/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/flower-mound/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/flower-mound/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/flower-mound/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/flower-mound/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/forest-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/forest-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/forest-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/forest-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/forest-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/forest-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/forney/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/forney/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/forney/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/forney/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/forney/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/forney/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/fort-worth/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/fort-worth/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/fort-worth/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/fort-worth/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/fort-worth/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/fort-worth/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/frisco/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/frisco/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/frisco/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/frisco/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/frisco/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/frisco/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/garland/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/garland/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/garland/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/garland/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/garland/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/garland/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/garrett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/garrett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/garrett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/garrett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/garrett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/garrett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/glenn-heights/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/glenn-heights/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/glenn-heights/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/glenn-heights/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/glenn-heights/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/glenn-heights/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/godley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/godley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/godley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/godley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/godley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/godley/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/grand-prairie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/grand-prairie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/grand-prairie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/grand-prairie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/grand-prairie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/grand-prairie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/grandview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/grandview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/grandview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/grandview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/grandview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/grandview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/grapevine/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/grapevine/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/grapevine/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/grapevine/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/grapevine/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/grapevine/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/grays-prairie/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/grays-prairie/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/grays-prairie/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/grays-prairie/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/grays-prairie/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/grays-prairie/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/greenville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/greenville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/greenville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/greenville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/greenville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/greenville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/hackberry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/hackberry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/hackberry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/hackberry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/hackberry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/hackberry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/haltom-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/haltom-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/haltom-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/haltom-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/haltom-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/haltom-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/haslet/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/haslet/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/haslet/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/haslet/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/haslet/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/haslet/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/hawk-cove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/hawk-cove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/hawk-cove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/hawk-cove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/hawk-cove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/hawk-cove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/heath/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/heath/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/heath/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/heath/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/heath/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/heath/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/hebron/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/hebron/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/hebron/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/hebron/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/hebron/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/hebron/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/hickory-creek/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/hickory-creek/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/hickory-creek/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/hickory-creek/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/hickory-creek/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/hickory-creek/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/highland-park/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/highland-park/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/highland-park/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/highland-park/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/highland-park/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/highland-park/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/highland-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/highland-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/highland-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/highland-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/highland-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/highland-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/hudson-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/hudson-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/hudson-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/hudson-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/hudson-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/hudson-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/hurst/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/hurst/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/hurst/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/hurst/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/hurst/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/hurst/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/hutchins/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/hutchins/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/hutchins/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/hutchins/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/hutchins/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/hutchins/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/irving/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/irving/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/irving/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/irving/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/irving/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/irving/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/italy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/italy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/italy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/italy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/italy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/italy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/josephine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/josephine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/josephine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/josephine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/josephine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/josephine/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/joshua/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/joshua/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/joshua/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/joshua/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/joshua/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/joshua/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/justin/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/justin/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/justin/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/justin/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/justin/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/justin/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/kaufman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/kaufman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/kaufman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/kaufman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/kaufman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/kaufman/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/keene/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/keene/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/keene/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/keene/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/keene/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/keene/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/keller/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/keller/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/keller/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/keller/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/keller/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/keller/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/kemp/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/kemp/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/kemp/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/kemp/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/kemp/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/kemp/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/kennedale/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/kennedale/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/kennedale/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/kennedale/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/kennedale/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/kennedale/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/krugerville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/krugerville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/krugerville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/krugerville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/krugerville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/krugerville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/krum/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/krum/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/krum/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/krum/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/krum/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/krum/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lake-bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lake-bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lake-bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lake-bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lake-bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lake-bridgeport/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lake-dallas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lake-dallas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lake-dallas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lake-dallas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lake-dallas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lake-dallas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lake-worth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lake-worth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lake-worth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lake-worth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lake-worth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lake-worth/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lakeside/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lakeside/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lakeside/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lakeside/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lakeside/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lakeside/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lakewood-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lakewood-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lakewood-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lakewood-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lakewood-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lakewood-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lancaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lancaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lancaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lancaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lancaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lancaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lavon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lavon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lavon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lavon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lavon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lavon/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lewisville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lewisville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lewisville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lewisville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lewisville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lewisville/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/little-elm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/little-elm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/little-elm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/little-elm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/little-elm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/little-elm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lone-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lone-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lone-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lone-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lone-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lone-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lowry-crossing/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lowry-crossing/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lowry-crossing/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lowry-crossing/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lowry-crossing/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lowry-crossing/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/lucas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/lucas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/lucas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/lucas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/lucas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/lucas/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/mabank/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/mabank/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/mabank/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/mabank/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/mabank/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/mabank/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/mansfield/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/mansfield/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/mansfield/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/mansfield/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/mansfield/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/mansfield/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/maypearl/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/maypearl/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/maypearl/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/maypearl/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/maypearl/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/maypearl/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/mckinney/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/mckinney/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/mckinney/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/mckinney/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/mckinney/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/mckinney/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/mclendon-chisholm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/mclendon-chisholm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/mclendon-chisholm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/mclendon-chisholm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/mclendon-chisholm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/mclendon-chisholm/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/melissa/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/melissa/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/melissa/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/melissa/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/melissa/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/melissa/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/mesquite/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/mesquite/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/mesquite/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/mesquite/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/mesquite/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/mesquite/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/midlothian/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/midlothian/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/midlothian/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/midlothian/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/midlothian/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/midlothian/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/milford/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/milford/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/milford/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/milford/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/milford/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/milford/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/millsap/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/millsap/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/millsap/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/millsap/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/millsap/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/millsap/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/mineral-wells/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/mineral-wells/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/mineral-wells/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/mineral-wells/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/mineral-wells/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/mineral-wells/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/mobile-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/mobile-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/mobile-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/mobile-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/mobile-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/mobile-city/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/murphy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/murphy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/murphy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/murphy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/murphy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/murphy/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/nevada/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/nevada/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/nevada/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/nevada/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/nevada/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/nevada/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/new-fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/new-fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/new-fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/new-fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/new-fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/new-fairview/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/new-hope/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/new-hope/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/new-hope/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/new-hope/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/new-hope/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/new-hope/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/newark/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/newark/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/newark/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/newark/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/newark/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/newark/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/neylandville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/neylandville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/neylandville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/neylandville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/neylandville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/neylandville/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/north-richland-hills/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/north-richland-hills/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/north-richland-hills/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/north-richland-hills/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/north-richland-hills/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/north-richland-hills/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/northlake/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/northlake/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/northlake/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/northlake/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/northlake/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/northlake/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/oak-grove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/oak-grove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/oak-grove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/oak-grove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/oak-grove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/oak-grove/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/oak-leaf/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/oak-leaf/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/oak-leaf/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/oak-leaf/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/oak-leaf/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/oak-leaf/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/oak-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/oak-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/oak-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/oak-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/oak-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/oak-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/oak-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/oak-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/oak-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/oak-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/oak-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/oak-ridge/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/ovilla/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/ovilla/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/ovilla/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/ovilla/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/ovilla/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/ovilla/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/palmer/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/palmer/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/palmer/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/palmer/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/palmer/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/palmer/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/pantego/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/pantego/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/pantego/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/pantego/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/pantego/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/pantego/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/paradise/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/paradise/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/paradise/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/paradise/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/paradise/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/paradise/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/parker/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/parker/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/parker/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/parker/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/parker/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/parker/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/peaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/peaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/peaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/peaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/peaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/peaster/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/pecan-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/pecan-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/pecan-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/pecan-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/pecan-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/pecan-hill/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/pelican-bay/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/pelican-bay/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/pelican-bay/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/pelican-bay/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/pelican-bay/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/pelican-bay/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/pilot-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/pilot-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/pilot-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/pilot-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/pilot-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/pilot-point/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/plano/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/plano/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/plano/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/plano/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/plano/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/plano/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/poetry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/poetry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/poetry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/poetry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/poetry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/poetry/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/ponder/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/ponder/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/ponder/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/ponder/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/ponder/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/ponder/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/post-oak-bend/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/post-oak-bend/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/post-oak-bend/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/post-oak-bend/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/post-oak-bend/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/post-oak-bend/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/princeton/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/princeton/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/princeton/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/princeton/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/princeton/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/princeton/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/prosper/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/prosper/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/prosper/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/prosper/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/prosper/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/prosper/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/providence-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/providence-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/providence-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/providence-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/providence-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/providence-village/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/quinlan/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/quinlan/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/quinlan/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/quinlan/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/quinlan/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/quinlan/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/red-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/red-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/red-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/red-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/red-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/red-oak/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/reno/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/reno/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/reno/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/reno/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/reno/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/reno/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/rhome/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/rhome/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/rhome/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/rhome/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/rhome/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/rhome/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/richardson/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/richardson/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/richardson/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/richardson/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/richardson/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/richardson/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/richland-hills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/richland-hills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/richland-hills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/richland-hills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/richland-hills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/richland-hills/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/rio-vista/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/rio-vista/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/rio-vista/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/rio-vista/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/rio-vista/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/rio-vista/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/river-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/river-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/river-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/river-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/river-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/river-oaks/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/roanoke/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/roanoke/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/roanoke/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/roanoke/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/roanoke/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/roanoke/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/rockwall/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/rockwall/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/rockwall/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/rockwall/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/rockwall/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/rockwall/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/rosser/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/rosser/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/rosser/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/rosser/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/rosser/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/rosser/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/rowlett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/rowlett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/rowlett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/rowlett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/rowlett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/rowlett/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/sachse/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/sachse/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/sachse/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/sachse/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/sachse/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/sachse/",
+      "checks": {
+        "newDraftExcluded": true,
+        "newDraftNotInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/southlake/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/southlake/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/southlake/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/southlake/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/southlake/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/southlake/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/the-colony/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/the-colony/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/the-colony/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/the-colony/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/the-colony/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/the-colony/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/locations/dfw-metro/wylie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/water-damage-restoration/wylie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/fire-smoke-damage-restoration/wylie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/mold-remediation/wylie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/sewage-backup-cleanup/wylie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    },
+    {
+      "path": "/construction-remodeling/wylie/",
+      "checks": {
+        "liveOwnerRetained": true,
+        "draftCopyExcluded": true,
+        "liveOwnerInSitemap": true
+      }
+    }
+  ],
+  "errors": []
+}

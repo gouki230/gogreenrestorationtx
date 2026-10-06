@@ -176,38 +176,38 @@
     "shortName": "Mold Removal",
     "icon": "mold",
     "image": "/images/services/mold-remediation.jpg",
-    "cardDescription": "Discuss mold removal and remediation needs. Cleanup within our current scope; larger projects routed to a licensed remediator.",
+    "cardDescription": "Mold removal and remediation support for homes and businesses. Tell us about your property and get help planning the next step.",
     "priority": 3,
     "metaTitleTemplate": "Mold Removal & Remediation Help in {city}, TX | Go Green",
-    "metaDescriptionTemplate": "Mold concerns in {city}? Contact our Wylie-based team for cleanup within our scope or referral for larger remediation projects. Call to discuss your property.",
+    "metaDescriptionTemplate": "Need mold removal in {city}? Contact Go Green Restoration TX Inc about leaks, affected materials and remediation options for your home or business.",
     "h1Template": "Mold removal and remediation help in {city}, TX",
     "introTemplates": [
-      "Contact Go Green Restoration TX Inc about mold in your {city} home or business. We serve {county} from Wylie, discuss the affected rooms and moisture source, and help you identify the next step. We handle cleanup within our current scope of less than 25 contiguous square feet and route larger projects to a TDLR-licensed remediator."
+      "Contact Go Green Restoration TX Inc about mold in your {city} home or business. We serve {county} from Wylie and welcome projects of any size. Tell us about the affected rooms, the moisture source and any existing assessment so we can help plan the next step."
     ],
     "processSteps": [
       {
         "title": "Scope & Moisture Check",
-        "description": "We discuss the affected area in your {city} property and check the visible growth and moisture concerns. Our current cleanup scope is less than 25 contiguous square feet. If the work exceeds that scope, we refer you to a TDLR-licensed remediator."
+        "description": "Discuss the affected rooms, visible growth, leak history and existing reports. Confirm the provider, proposed scope and access arrangements before work begins."
       },
       {
         "title": "Containment",
-        "description": "We plan containment for the work area to limit the spread of dust and debris during cleanup. The setup depends on access, affected materials, and the agreed scope."
+        "description": "The cleanup provider plans containment for the work area to limit the spread of dust and debris during cleanup. The setup depends on access, affected materials, and the agreed scope."
       },
       {
         "title": "Air Filtration",
-        "description": "We use HEPA filtration as appropriate for the cleanup. Equipment and work-area arrangements are discussed as part of the project plan."
+        "description": "The cleanup provider uses HEPA filtration as appropriate for the cleanup. Equipment and work-area arrangements are discussed as part of the project plan."
       },
       {
         "title": "Mold Cleanup",
-        "description": "We clean affected surfaces and discuss materials that may need removal within the agreed scope. The estimate should explain the work included and any repair needs."
+        "description": "The cleanup provider cleans affected surfaces and discusses materials that may need removal within the agreed scope. The estimate should explain the work included and any repair needs."
       },
       {
         "title": "Moisture Control",
-        "description": "We identify moisture concerns so the source can be addressed. Depending on the cause, this may require a separate plumbing, roofing, or ventilation repair."
+        "description": "The project plan identifies moisture concerns so the source can be addressed. Depending on the cause, this may require a separate plumbing, roofing, or ventilation repair."
       },
       {
         "title": "Review & Next Steps",
-        "description": "We review the completed cleanup and explain follow-up maintenance or repairs. Independent assessment or clearance testing, where needed, must be arranged with an appropriately licensed professional."
+        "description": "The cleanup provider reviews the completed work and explains follow-up maintenance or repairs. Independent assessment or clearance testing, where needed, must be arranged with an appropriately licensed professional."
       }
     ],
     "damageTypes": [
@@ -215,15 +215,15 @@
       "Closet and wall-corner mold",
       "Window sill and frame mold",
       "Under-sink and cabinet mold",
-      "Small post-leak mold spots",
+      "Mold following plumbing leaks",
       "HVAC vent surface mold",
       "Mildew on tile and grout",
-      "Small attic or crawl-space mold patches"
+      "Attic or crawl-space mold concerns"
     ],
     "faqTemplates": [
       {
-        "question": "What mold cleanup do you offer in {city}?",
-        "answer": "Our current service is limited to small-area mold cleanup of less than 25 contiguous square feet. We refer larger areas or other work outside our scope to a TDLR-licensed remediator. EPA Lead-Safe certification is separate from mold remediation licensing."
+        "question": "Can I contact you about a larger mold project in {city}?",
+        "answer": "Yes. We welcome mold inquiries of any size, including multiple rooms and commercial properties. Work requiring a mold remediation license is referred to appropriately licensed partner companies while our application is pending. The provider and scope are identified before work begins."
       },
       {
         "question": "Do you offer mold testing in {city}?",
@@ -278,7 +278,7 @@
     "h1Template": "Sewage Backup & Cleanup in {city}, TX",
     "introTemplates": [
       "A sewage backup is one of the most hazardous situations a {city} property owner can face. Go Green Restoration TX Inc provides 24/7 emergency sewage cleanup throughout {city} and {county}. Our trained team follows strict biohazard protocols to safely clean, sanitize, and restore your property.",
-      "Sewage backups in {city} homes and businesses require immediate professional intervention. Go Green Restoration TX Inc delivers expert sewage cleanup services in {city}, {county}, using eco-friendly sanitization methods that eliminate health hazards while protecting the environment. Don't risk your health \u2014 call our emergency line now.",
+      "Sewage backups in {city} homes and businesses require immediate professional intervention. Go Green Restoration TX Inc delivers expert sewage cleanup services in {city}, {county}, using eco-friendly sanitization methods that eliminate health hazards while protecting the environment. Don't risk your health — call our emergency line now.",
       "When sewage invades your {city} property, you need fast, professional help. Go Green Restoration TX Inc is {county}'s trusted sewage cleanup specialist, providing rapid response to {city} residents and businesses. We handle everything from initial extraction to complete sanitization and structural repair."
     ],
     "processSteps": [
@@ -292,7 +292,7 @@
       },
       {
         "title": "Contaminated Material Removal",
-        "description": "Porous materials contaminated by sewage in your {city} property \u2014 including carpet, padding, drywall, and insulation \u2014 are safely removed and disposed of according to regulations."
+        "description": "Porous materials contaminated by sewage in your {city} property — including carpet, padding, drywall, and insulation — are safely removed and disposed of according to regulations."
       },
       {
         "title": "Sanitization & Disinfection",
@@ -351,7 +351,7 @@
     "metaDescriptionTemplate": "Restoration construction and remodeling in {city}, {county}. From damage repair to full remodels. Bonded & insured. Free estimates.",
     "h1Template": "Construction & Remodeling in {city}, TX",
     "introTemplates": [
-      "After disaster strikes, your {city} property needs more than cleanup \u2014 it needs expert reconstruction. Go Green Restoration TX Inc provides construction and remodeling services throughout {city} and {county}. From structural repairs after water or fire damage to complete room remodels, our team delivers quality craftsmanship.",
+      "After disaster strikes, your {city} property needs more than cleanup — it needs expert reconstruction. Go Green Restoration TX Inc provides construction and remodeling services throughout {city} and {county}. From structural repairs after water or fire damage to complete room remodels, our team delivers quality craftsmanship.",
       "Go Green Restoration TX Inc combines restoration expertise with construction excellence in {city}, Texas. Whether you need structural rebuilding after a disaster or want to upgrade your {city} property during the restoration process, our team handles every phase from permits to final inspection.",
       "When your {city} property needs rebuilding after damage, Go Green Restoration TX Inc is your single-source solution. Our construction and remodeling team serves all of {city}, {county}, providing seamless transitions from damage restoration to property improvement. We handle all permits, inspections, and coordination with your insurance company."
     ],

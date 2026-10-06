@@ -9,7 +9,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "build:city-preview": "COMPACT_CITY_PREVIEW=1 astro build"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.82.0",

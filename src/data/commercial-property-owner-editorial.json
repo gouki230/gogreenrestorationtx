@@ -1,0 +1,114 @@
+{
+  "existingOwner": "/commercial/commercial-properties/",
+  "status": "reviewed_copy_pending_final_coordinated_integration",
+  "title": "Commercial property restoration in DFW | Request an Estimate | Go Green Restoration TX Inc",
+  "description": "Commercial property restoration in DFW for office, retail and mixed-use building concerns. Discuss affected materials, access and a documented property estimate with Go Green Restoration TX Inc.",
+  "heading": "Commercial property restoration in DFW",
+  "intro": "Commercial property restoration helps when water, suspected mold, fire residue or wastewater affects offices, shops, fitted business rooms or mixed-use premises. Building materials, installations and occupant belongings can need separate decisions. We will document accessible damage and explain the proposed restoration work through the authorized property representative.",
+  "sections": [
+    {
+      "heading": "Office and fitted business-room materials",
+      "paragraphs": [
+        "Partitions, flooring and built-in storage can conceal backing beyond the visible mark. We will identify layers inspected and access still needed before proposing added work. Equipment service and specialist installation handling remain separate from building drying or removal."
+      ],
+      "bullets": [
+        "Locate wet or changed wall, ceiling and floor finishes.",
+        "Identify installations that limit backing access.",
+        "Share current source-service records and prior cleanup tasks."
+      ]
+    },
+    {
+      "heading": "Retail rooms, displays and stock boundaries",
+      "paragraphs": [
+        "Display bases and stored stock can block the floor edges needed for assessment. Contents handling requires its own authorization rather than assumed permission from the building estimate. Newly exposed findings go to the designated client before material work expands."
+      ],
+      "bullets": [
+        "Name the contact approving stock or fixture movement.",
+        "Record the component visible after approved clearance.",
+        "Keep contents recovery decisions separate from surrounding building work."
+      ]
+    },
+    {
+      "heading": "Mixed-use and separately controlled spaces",
+      "paragraphs": [
+        "A shared wall or ceiling can connect rooms with different entry and repair contacts. We will retain findings by location and distinguish each client-authorized task. Source investigation, shared-material approvals and private finish selections remain identifiable in the work record."
+      ],
+      "bullets": [
+        "Identify permitted rooms and additional entry needed.",
+        "Confirm the contact authorized to approve each scope.",
+        "Retain unresolved neighboring areas as assessment questions."
+      ]
+    },
+    {
+      "heading": "Work routes and operational dependencies",
+      "paragraphs": [
+        "Tell us the property\u2019s access windows, deliveries, restricted rooms and current service limitations. We will discuss practical work staging and explain the equipment paths and material access the proposed tasks require. Qualified providers and responsible authorities retain utility, protection-system and occupancy decisions."
+      ],
+      "bullets": [
+        "Share official entry or service restrictions.",
+        "Identify the client contact for staging changes.",
+        "Keep source, restoration and reconstruction milestones separate."
+      ]
+    },
+    {
+      "heading": "Reporting through the hiring representative",
+      "paragraphs": [
+        "Findings, scope decisions, approvals and progress go directly to the designated client. Routine occupant or tenant messages follow that client\u2019s approved instructions, with necessary safety and access information accurate. The insurer determines coverage, and property responsibility remains with the appropriate decision-makers."
+      ],
+      "bullets": [
+        "Keep observations tied to the room and visit date.",
+        "Document new material findings before added removal.",
+        "Explain outstanding prerequisites before repair handoff."
+      ]
+    },
+    {
+      "heading": "Mold provider and independent assessment",
+      "paragraphs": [
+        "Go Green Restoration TX Inc welcomes mold inquiries of any size. While our Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and scope are identified before work begins.",
+        "Independent assessment or clearance is separate from remediation and is coordinated where required. Progress records distinguish provider work and source correction from independent review and reconstruction prerequisites."
+      ],
+      "bullets": []
+    }
+  ],
+  "serviceOwners": [
+    {
+      "path": "/commercial/water-damage-restoration/",
+      "label": "Commercial water damage restoration"
+    },
+    {
+      "path": "/commercial/mold-remediation/",
+      "label": "Commercial mold remediation"
+    },
+    {
+      "path": "/commercial/fire-damage-restoration/",
+      "label": "Commercial fire damage restoration"
+    },
+    {
+      "path": "/commercial/sewage-cleanup/",
+      "label": "Commercial sewage cleanup"
+    },
+    {
+      "path": "/commercial/fire-sprinkler-water-damage-cleanup/",
+      "label": "Fire sprinkler water damage cleanup"
+    },
+    {
+      "path": "/commercial/property-management-restoration/",
+      "label": "Restoration planning for property managers"
+    },
+    {
+      "path": "/commercial/hoa-restoration-services/",
+      "label": "HOA restoration services"
+    },
+    {
+      "path": "/commercial/",
+      "label": "All commercial restoration services"
+    }
+  ],
+  "checklist": [
+    "Provide affected room identifiers and current photographs when available.",
+    "Share the known source, prior task records and current restrictions.",
+    "Name the representative who can approve access and building work."
+  ],
+  "ctaLabel": "Request a property estimate",
+  "integrationNotes": "Replace the existing property-type regional owner at final integration while preserving its canonical and existing links. This is distinct from the general commercial hub and the service-specific regional owners. Do not replicate unverified technician certification, code-compliance or adjacent-area operational assurances from the old page. Use an appropriate existing generated service illustration with accurate caption and alt, not a fabricated local project photograph."
+}

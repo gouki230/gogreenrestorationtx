@@ -1,20 +1,27 @@
 ---
+import CityCoreEditorial from '../../../components/CityCoreEditorial.astro';
+import { cityCoreEditorial } from '../../../utils/city-core-editorial';
+import ExpandedCityHub from '../../../components/ExpandedCityHub.astro';
+import IndexingCityHub from '../../../components/IndexingCityHub.astro';
+import indexingCityHubs from '../../../data/indexing-city-hubs.json';
+import { isExpandedCity, cityExpansionPreview, isCorePathAvailable, isCorePathReleased, resolveCityLink } from '../../../utils/service-area-cities';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import CityMap from '../../../components/CityMap.astro';
 import services from '../../../data/services.json';
-import dfwCities from '../../../data/cities-dfw-metro.json';
+import dfwCities from '../../../utils/service-area-cities';
 import { getCityGuides } from '../../../utils/internal-links';
 import { getNearbyCities } from '../../../utils/content';
 
 export function getStaticPaths() {
-  return dfwCities.map((city) => ({
+  return dfwCities.filter(city => isCorePathAvailable(`/locations/dfw-metro/${city.slug}/`)).map((city) => ({
     params: { city: city.slug },
     props: { city },
   }));
 }
 
 const { city } = Astro.props;
+if (isCorePathReleased(`/locations/dfw-metro/${city.slug}/`) && !cityCoreEditorial[city.slug]) throw new Error(`Released city hub lacks editorial: ${city.slug}`);
 const cityGuides = getCityGuides(city.slug);
 const allCities = dfwCities;
 const nearbyCities = getNearbyCities(city.nearbyCities || [], allCities, 6);
@@ -42,7 +49,7 @@ const serviceIcons: Record<string, string> = {
 };
 ---
 
-<BaseLayout title={title} description={description} schema={[localBusinessSchema]}>
+<>{(cityExpansionPreview || isCorePathReleased(`/locations/dfw-metro/${city.slug}/`)) && city.slug in cityCoreEditorial ? <CityCoreEditorial city={city} content={cityCoreEditorial[city.slug]} /> : isExpandedCity(city.slug) ? <ExpandedCityHub city={city} /> : city.slug in indexingCityHubs ? <IndexingCityHub city={city} nearbyCities={nearbyCities} /> : <BaseLayout title={title} description={description} schema={[localBusinessSchema]} omitOfficeCopy={true}>
   <Breadcrumbs items={breadcrumbs} />
 
   <section class="bg-gradient-to-br from-brand-brown to-brand-brown-dark text-white">
@@ -58,7 +65,7 @@ const serviceIcons: Record<string, string> = {
     <div class="mb-12 max-w-3xl">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Go Green Restoration in {city.name}</h2>
       <p class="text-brand-gray-600 leading-relaxed">Go Green Restoration TX Inc provides comprehensive property restoration services to {city.name} and the surrounding DFW metroplex. With 24/7 emergency response, eco-friendly methods, and a commitment to quality, we're the trusted choice for residential and commercial restoration in {city.name}.</p>
-      <p class="text-brand-gray-600 mt-4">We serve {city.name} from our Wylie location. <a href={`/mold-remediation/${city.slug}/`} class="text-brand-brown underline">Explore mold removal and remediation help in {city.name}</a> and contact us to discuss your property.</p>
+      <p class="text-brand-gray-600 mt-4">We serve homes and businesses across {city.name}. <a href={resolveCityLink(`/mold-remediation/${city.slug}/`)} class="text-brand-brown underline">Explore mold removal and remediation help in {city.name}</a> and contact us to discuss your property.</p>
       {city.commonIssues && <p class="text-brand-gray-600 leading-relaxed mt-4">{city.commonIssues}</p>}
     </div>
 
@@ -67,7 +74,7 @@ const serviceIcons: Record<string, string> = {
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">Our Services in {city.name}</h2>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {services.map((s) => (
-          <a href={`/${s.slug}/${city.slug}/`} class="group flex items-center gap-3 bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-5 transition-all border border-transparent hover:border-brand-green-200">
+          <a href={resolveCityLink(`/${s.slug}/${city.slug}/`)} class="group flex items-center gap-3 bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-5 transition-all border border-transparent hover:border-brand-green-200">
             <span class="text-2xl">{serviceIcons[s.icon]}</span>
             <div>
               <h3 class="font-heading font-bold text-brand-gray-900 group-hover:text-brand-brown">{s.name}</h3>
@@ -81,18 +88,18 @@ const serviceIcons: Record<string, string> = {
     <section class="mb-12" aria-labelledby="city-guides">
       <h2 id="city-guides" class="scroll-mt-40 font-heading text-2xl font-bold mb-4">Restoration guides for {city.name} property owners</h2>
       <p class="text-brand-gray-600 mb-5">Start with the question closest to your situation. For more articles on a particular service, follow that service’s city page above.</p>
-      <ul class="grid sm:grid-cols-2 gap-4">{cityGuides.map(guide => <li class="bg-brand-gray-50 rounded-xl p-5"><p class="text-sm text-brand-gray-600 mb-2">{guide.serviceName}</p><a class="font-bold text-brand-brown underline" href={`/resources/${guide.cluster}/${guide.slug}/`}>{guide.title}</a></li>)}</ul>
+      <ul class="grid sm:grid-cols-2 gap-4">{cityGuides.map(guide => <li class="bg-brand-gray-50 rounded-xl p-5"><p class="text-sm text-brand-gray-600 mb-2">{guide.serviceName}</p><a class="font-bold text-brand-brown underline" href={resolveCityLink(`/resources/${guide.cluster}/${guide.slug}/`)}>{guide.title}</a></li>)}</ul>
     </section>
 
     <!-- Commercial Services -->
     <div class="mb-12">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Commercial Services in {city.name}</h2>
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        <a href={`/commercial/hoa-restoration-services/${city.slug}/`} class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-5 transition-all border border-transparent hover:border-brand-green-200">
+        <a href={resolveCityLink(`/commercial/hoa-restoration-services/${city.slug}/`)} class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-5 transition-all border border-transparent hover:border-brand-green-200">
           <h3 class="font-heading font-bold text-brand-gray-900 group-hover:text-brand-brown">HOA Restoration Services</h3>
           <span class="text-brand-orange text-sm">in {city.name} &rarr;</span>
         </a>
-        <a href={`/commercial/property-management-restoration/${city.slug}/`} class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-5 transition-all border border-transparent hover:border-brand-green-200">
+        <a href={resolveCityLink(`/commercial/property-management-restoration/${city.slug}/`)} class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-5 transition-all border border-transparent hover:border-brand-green-200">
           <h3 class="font-heading font-bold text-brand-gray-900 group-hover:text-brand-brown">Property Management Restoration</h3>
           <span class="text-brand-orange text-sm">in {city.name} &rarr;</span>
         </a>
@@ -132,7 +139,7 @@ const serviceIcons: Record<string, string> = {
         <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Nearby Service Areas</h2>
         <div class="flex flex-wrap gap-3">
           {nearbyCities.map((nearby) => (
-            <a href={`/locations/dfw-metro/${nearby.slug}/`} class="bg-brand-gray-50 hover:bg-brand-warm-100 px-4 py-2 rounded-full text-sm hover:text-brand-brown transition-colors border border-brand-gray-200">{nearby.name}</a>
+            <a href={resolveCityLink(`/locations/dfw-metro/${nearby.slug}/`)} class="bg-brand-gray-50 hover:bg-brand-warm-100 px-4 py-2 rounded-full text-sm hover:text-brand-brown transition-colors border border-brand-gray-200">{nearby.name}</a>
           ))}
         </div>
       </div>
@@ -148,4 +155,4 @@ const serviceIcons: Record<string, string> = {
       </div>
     </div>
   </div>
-</BaseLayout>
+</BaseLayout>}</>

@@ -1,0 +1,142 @@
+{
+  "water-damage-restoration": {
+    "keyword": "Water damage restoration",
+    "image": "emergency-water-extraction",
+    "intro": "helps when a leak, overflow, or incoming rain has left water across your floor and you do not know how far it has spread. You may have stopped the source but still have damp baseboards, soft drywall, or rooms you cannot use. We will explain what needs extraction, what can be dried, and what must happen before repairs begin.",
+    "checklist": [
+      "Where the water came from and whether it is still entering.",
+      "Which rooms, floors, cabinets, or ceilings are affected.",
+      "When you first noticed the problem and any cleanup already completed.",
+      "Access instructions and who can authorize the work."
+    ],
+    "sections": [
+      {
+        "title": "The first visit follows the water, not just the puddle",
+        "text": "We will review the source and affected materials, document visible damage, and check accessible areas for moisture. Water beneath a floor or inside a wall can change the scope even when the room looks nearly dry. We will explain the findings before agreeing on extraction, drying equipment, or material removal."
+      },
+      {
+        "title": "Extraction and structural drying solve different problems",
+        "text": "Extraction removes standing water. Drying addresses moisture remaining in materials and enclosed areas, with equipment and checks matched to the affected space. We will record progress, explain the status, and identify the conditions that need to be met before closing walls or replacing finishes."
+      },
+      {
+        "title": "When wet materials raise a mold concern",
+        "text": "If the property has remained damp or you have noticed visible growth, include that information in your request. Drying and mold removal are different scopes; we will explain the next step and identify the appropriate provider before work begins. Painting or installing new flooring should not hide an unresolved moisture problem."
+      }
+    ],
+    "estimate": "The affected area, water source, time since the leak, material layers, equipment access, and removal needs influence the estimate. We will distinguish the cleanup and drying scope from plumbing repairs and reconstruction, then explain how new findings could affect timing.",
+    "handoff": "Before reconstruction begins, we will review the source repair, drying progress, and any remaining removal or cleanup work. You will receive an explanation of the status and the next agreed steps.",
+    "moldLink": "mold-remediation-after-water-damage"
+  },
+  "mold-remediation": {
+    "keyword": "Mold remediation",
+    "image": "mold-removal-behind-drywall",
+    "intro": "helps when a leak has left visible growth under a sink, behind a wall, or in a room that keeps smelling damp. You may be deciding whether the damaged material needs removal and how to keep the rest of the property usable. We will discuss the affected space, the moisture source, and the provider responsible for the proposed work.",
+    "checklist": [
+      "The location of visible growth and the rooms connected to it.",
+      "Any current leak, completed source repair, or recurring dampness.",
+      "Assessment documents, photographs, and existing cleanup proposals.",
+      "Occupancy, access needs, and the person approving the project."
+    ],
+    "sections": [
+      {
+        "title": "Start with the cause and the affected materials",
+        "text": "We will review what you have observed and any existing assessment information before proposing the work. A cabinet affected by a plumbing leak can require a different removal plan from a wall cavity or an attic. The agreed scope will identify the affected areas and the provider carrying out remediation."
+      },
+      {
+        "title": "Containment and removal come before rebuilding",
+        "text": "The work plan will address access, separation of the work area, removal of affected materials where needed, and cleaning. We will explain which belongings or rooms need to remain outside the work zone. Concealing growth with new finishes does not resolve the underlying source or contaminated material."
+      },
+      {
+        "title": "Assessment, remediation, and clearance have separate roles",
+        "text": "Assessment identifies the conditions and may establish the scope; remediation is the removal and cleaning work. Independent clearance evaluates the completed work where applicable. We will explain which steps apply to the project and keep the provider responsibilities clear rather than promising a test result."
+      }
+    ],
+    "estimate": "Access behind finishes, affected materials, containment needs, assessment findings, and the moisture repair all influence the scope. We will identify what the estimate includes and explain any separate assessment, clearance, or reconstruction services.",
+    "handoff": "We will record the work status and explain what remains before reconstruction. That may include finishing source repairs, completing cleaning and drying, or arranging independent clearance when applicable.",
+    "moldLink": "mold-removal-behind-drywall"
+  },
+  "fire-smoke-damage-restoration": {
+    "keyword": "Fire and smoke damage restoration",
+    "image": "smoke-damage-cleanup",
+    "intro": "helps when the fire is out but soot, odor, damaged belongings, and water from firefighting still prevent you from using the property. You may need the building secured before you can make decisions about cleaning and repairs. We will review the accessible damage and explain the sequence from initial protection through reconstruction planning.",
+    "checklist": [
+      "Whether authorities have allowed access to the property.",
+      "Open doors, windows, or other areas needing temporary protection.",
+      "Rooms affected by heat, soot, smoke odor, or firefighting water.",
+      "Important belongings and any access arrangements with a manager."
+    ],
+    "sections": [
+      {
+        "title": "Secure access and document the starting condition",
+        "text": "Once access is authorized, we will review the visible damage and identify immediate protection needs. Board-up, debris handling, and water cleanup may be separate parts of the first scope. We will document the condition and explain what can be evaluated now and what needs further review."
+      },
+      {
+        "title": "Smoke residue needs a surface-by-surface plan",
+        "text": "Soot on painted walls, cabinets, textiles, and belongings does not respond to one universal cleaning method. We will assess the material and condition before selecting a cleaning approach. Items that cannot be recovered will be distinguished from those proposed for cleaning; recovery of every item is not guaranteed."
+      },
+      {
+        "title": "Water damage may be part of the fire recovery",
+        "text": "If firefighting water has entered floors, walls, or cabinets, we will include that damage in the evaluation. Drying must be coordinated with debris removal and smoke cleanup. Visible growth or prolonged dampness can require a separate mold scope before rebuilding."
+      }
+    ],
+    "estimate": "The spread of residue, damaged materials, accessible work areas, contents handling, and water involvement shape the estimate. We will separate stabilization and cleanup from reconstruction so you can understand the proposed work and the decisions still outstanding.",
+    "handoff": "We will explain the cleanup status, remaining odor or material concerns, and repair dependencies before reconstruction starts. Approved structural and trade work will be coordinated within the agreed reconstruction scope.",
+    "moldLink": "mold-remediation-after-water-damage"
+  },
+  "sewage-backup-cleanup": {
+    "keyword": "Sewage backup cleanup",
+    "image": "toilet-overflow-cleanup",
+    "intro": "helps when wastewater has overflowed from a toilet or drain and reached the bathroom, hallway, or another occupied space. You may have a plumber addressing the blockage while contaminated water remains in flooring and nearby materials. We will explain the cleanup scope and coordinate the sequence with the source repair.",
+    "checklist": [
+      "Which toilet or drain overflowed and whether the backup continues.",
+      "Where the water traveled, including carpet and adjoining rooms.",
+      "Plumbing work already arranged or completed.",
+      "Access restrictions and who can approve removal of affected materials."
+    ],
+    "sections": [
+      {
+        "title": "The blockage and the cleanup are separate tasks",
+        "text": "Clearing the drain addresses the source but does not remove wastewater from the room or materials it reached. We will review the affected area and the status of the plumbing repair before organizing cleanup. The responsible providers and each scope will be identified before work begins."
+      },
+      {
+        "title": "Affected flooring and walls need individual decisions",
+        "text": "We will evaluate which materials are affected and explain the proposed cleaning or removal. Flooring layers, lower drywall, cabinets, and belongings may require different treatment. The scope will identify removal and disposal needs instead of assuming that a dry surface is ready to keep."
+      },
+      {
+        "title": "Cleaning, drying, and the return to repairs",
+        "text": "Removal of wastewater and affected material is followed by the cleaning and drying work specified for the project. We will record progress and explain the condition of the remaining materials. If prolonged dampness or visible mold needs a separate scope, that will be discussed before finishes are replaced."
+      }
+    ],
+    "estimate": "The spread of wastewater, material porosity, removal volume, access, and source-repair status affect cost and timing. We will explain what is included in cleanup and what remains the responsibility of the plumbing or reconstruction provider.",
+    "handoff": "We will explain when the agreed cleanup and drying work is complete and identify any remaining conditions before repair work begins. Replacement flooring or drywall should follow the agreed cleanup sequence.",
+    "moldLink": "mold-remediation-after-water-damage"
+  },
+  "construction-remodeling": {
+    "keyword": "Reconstruction after property damage",
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "helps when cleanup has left open walls, missing flooring, damaged cabinets, or rooms that are not ready to use. You may have a drying report or removal scope and now need a clear plan to put the property back together. We will review the completed restoration work and explain the repair sequence, materials, and responsibilities.",
+    "checklist": [
+      "The completed cleanup scope and available moisture or assessment records.",
+      "The walls, floors, ceilings, or cabinets awaiting repair.",
+      "Source repairs, remaining inspections, and other providers involved.",
+      "Preferred finishes, occupancy needs, and who approves changes."
+    ],
+    "sections": [
+      {
+        "title": "Confirm the property is ready for reconstruction",
+        "text": "We will review what has been removed, what remains, and whether source repair and restoration dependencies have been addressed. An open wall may expose issues that change the repair plan. We will explain those findings before scheduling finishes that could hide unfinished work."
+      },
+      {
+        "title": "Build a scope you can compare and approve",
+        "text": "The proposed scope will identify the affected rooms, material choices, and included work. We will distinguish replacement of damaged finishes from optional remodeling choices. Changes discovered after opening or measuring the area will be explained before expanding the agreed work."
+      },
+      {
+        "title": "Coordinate trades and the order of finishes",
+        "text": "We will explain the planned order for required trade work, wall and ceiling repairs, flooring, cabinets, and finishing. Permit and inspection needs will be checked for the specific scope and jurisdiction. The schedule will account for those dependencies and material availability rather than promising one completion date for every project."
+      }
+    ],
+    "estimate": "Room size, material selection, structural or trade needs, access, approvals, and the condition of existing work influence the estimate. We will outline those variables and identify decisions needed from you before the next stage.",
+    "handoff": "We will record progress, explain upcoming work, and review the agreed scope with you as repairs move toward completion. Any outstanding items and their next steps will be discussed during the walkthrough.",
+    "moldLink": "mold-removal-behind-drywall"
+  }
+}

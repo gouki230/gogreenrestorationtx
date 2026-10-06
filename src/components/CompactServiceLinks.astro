@@ -1,0 +1,12 @@
+---
+import { compactServiceUrl } from '../utils/compact-city-pages';
+import pages from '../data/compact-services.json';
+interface Props { service?: string; city?: string }
+const { service, city } = Astro.props;
+const topics = pages.filter(page => !service || page.parent === service);
+---
+{topics.length > 0 && <section class="max-w-7xl mx-auto px-4 py-8">
+  <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-4">Help for specific restoration problems</h2>
+  <p class="text-brand-gray-600 mb-5">Find details about the affected area, what to share at the first visit, and what can affect your estimate.</p>
+  <ul class="grid sm:grid-cols-2 gap-3">{topics.map(page => <li><a class="text-brand-brown underline" href={compactServiceUrl(page.slug,city)}>{page.name}</a></li>)}</ul>
+</section>}

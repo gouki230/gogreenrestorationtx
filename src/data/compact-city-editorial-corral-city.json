@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/corral-city": {
+    "intro": "Emergency water extraction in Corral City helps when water is moving from a utility room into finished living space. You need the supply stopped and the remaining water removed before the wet boundary grows. We will establish a workable removal plan and identify the building materials that need further attention.",
+    "sections": [
+      {
+        "title": "Emergency water extraction at the spreading edge",
+        "text": "We will inspect the source area and the rooms receiving water, then remove accessible standing water using equipment appropriate to the conditions. A doorway is not necessarily the limit of the loss. Closets, floor transitions, and low spots may need separate attention."
+      },
+      {
+        "title": "Separate trapped water from surface moisture",
+        "text": "After extraction, we will check affected flooring and adjoining wall bases. Water beneath a finish cannot always be reached from the room above. We will explain when lifting an edge, opening a limited area, or removing damaged material gives necessary access."
+      },
+      {
+        "title": "Make drying a measured next step",
+        "text": "Retained materials will be evaluated for drying, with equipment placement reflecting the actual wet areas. We will record progress and explain whether moisture is receding or an inaccessible layer needs investigation. Furniture placement and occupied rooms will be considered when setting up equipment."
+      }
+    ],
+    "estimate": "Water volume, contamination concerns, finishes, and access affect the first estimate. Drying and reconstruction will be identified separately so you can see what the initial removal accomplishes. Call with the affected rooms and current source status.",
+    "checklist": [
+      "Describe where the water began.",
+      "Identify rooms it has reached.",
+      "Tell us whether a qualified provider has stopped the source."
+    ]
+  },
+  "burst-pipe-cleanup/corral-city": {
+    "intro": "Burst pipe cleanup in Corral City addresses the wet building materials left behind after a pipe fails inside a wall or cabinet. Even after plumbing repairs, insulation and lower finishes may hold water. We will inspect the affected route and explain which materials can be dried and which need removal.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup around the repaired opening",
+        "text": "A plumber may open a small section to reach the pipe without exposing all wet material. We will examine the accessible cavity and nearby finishes, then identify where additional access is justified. Plumbing repair and building cleanup will have clearly described responsibilities."
+      },
+      {
+        "title": "Follow the water below the break",
+        "text": "Water released higher in a wall may reach the floor assembly or the ceiling below. We will evaluate those connected surfaces rather than treating the repair opening as the entire loss. Damaged insulation and finishes will be considered according to their condition and ability to dry."
+      },
+      {
+        "title": "Keep the wall open for a reason",
+        "text": "Before closure, we will document drying progress in retained materials and explain outstanding conditions. If the readings or visible conditions do not support rebuilding, we will identify the next investigation or drying step. Suspected mold will receive a separate scope decision."
+      }
+    ],
+    "estimate": "The amount of concealed wet material and the access needed to reach it are major cost factors. Send the location of the break and photographs already available from the plumber; do not open additional surfaces yourself.",
+    "checklist": [
+      "Share when the water was shut off.",
+      "Identify finishes opened for plumbing.",
+      "Tell us about water appearing on another level."
+    ]
+  },
+  "appliance-leak-cleanup/corral-city": {
+    "intro": "Appliance leak cleanup in Corral City helps when a refrigerator, dishwasher, or washer has left water beneath nearby flooring. The visible puddle may be smaller than the affected material beneath the appliance. We will evaluate the water route and organize cleanup around safe appliance access.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup beneath fixed equipment",
+        "text": "We will explain whether the appliance must be moved to inspect the floor and adjacent cabinet surfaces. Disconnection and repair may require the appliance or plumbing provider. We will not treat a dry front edge as evidence that the concealed area is dry."
+      },
+      {
+        "title": "Evaluate the materials the water touched",
+        "text": "Cabinet bases, flooring seams, and adjoining wall finishes respond differently to wetting. We will check their condition and distinguish swelling or separation from moisture that may be addressed through drying. Removal recommendations will explain what access or damaged material they address."
+      },
+      {
+        "title": "Check before the appliance goes back",
+        "text": "The concealed work area needs a clear status before equipment is reinstalled. We will record cleaning and drying work and identify anything still requiring repair. If the source has not been corrected, we will explain why reinstalling the appliance would leave the original problem unresolved."
+      }
+    ],
+    "estimate": "Appliance access, duration of leakage, finish condition, and hidden spread determine the scope. Contact us with the appliance type and whether it is still connected or operating; the repair appointment and restoration visit can then be coordinated.",
+    "checklist": [
+      "Identify the leaking appliance.",
+      "Describe changes in nearby flooring.",
+      "Share any service-provider diagnosis."
+    ]
+  },
+  "storm-water-damage-cleanup/corral-city": {
+    "intro": "Storm water damage cleanup in Corral City helps when rain entering near an exterior opening has wet curtains, trim, and the floor below. You need the entry point addressed and the interior damage evaluated without assuming every stain requires the same repair. We will separate incoming-water control from cleanup of affected materials.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup along the entry route",
+        "text": "We will inspect the accessible path from the opening to lower surfaces and identify water that can be removed. Roof, window, or exterior repairs may require a separate provider. Their work will be considered when planning continued protection of the interior."
+      },
+      {
+        "title": "Handle wet furnishings alongside building finishes",
+        "text": "Items against the affected wall may obstruct drying or transfer moisture to adjacent surfaces. We will discuss authorized movement and identify belongings needing a separate cleaning decision. Sensitive fabrics and damaged finishes will not automatically receive the same treatment."
+      },
+      {
+        "title": "Assess the wall before cosmetic repairs",
+        "text": "We will evaluate retained materials and explain whether limited access is needed behind trim or a damaged finish. Drying progress will be documented before closure or repainting is recommended. A remaining stain and remaining moisture are different findings and will be described separately."
+      }
+    ],
+    "estimate": "Entry duration, water conditions, affected assemblies, and source-repair status shape the estimate. Contact us with the location of interior water and any exterior inspection already completed.",
+    "checklist": [
+      "Tell us whether rain is still entering.",
+      "Identify damp curtains or furniture.",
+      "Share safe photographs of the affected interior."
+    ]
+  },
+  "structural-drying-services/corral-city": {
+    "intro": "Structural drying services in Corral City help when the room surface looks dry but wet framing or subfloor remains exposed after cleanup. You need to know whether drying is progressing before replacement materials are installed. We will establish monitored drying work around the retained structure.",
+    "sections": [
+      {
+        "title": "Structural drying services for exposed assemblies",
+        "text": "We will inspect accessible framing, subfloor, and adjoining materials to determine the drying area. Equipment selection and placement will reflect moisture conditions and the available air path. Obstructions that limit treatment will be identified before the setup is considered complete."
+      },
+      {
+        "title": "Use progress to guide adjustments",
+        "text": "We will record relevant material readings and explain changes over time. If one location lags behind the surrounding area, we will investigate access, continuing moisture, or another obstruction instead of relying only on additional elapsed days. Equipment changes will have a stated purpose."
+      },
+      {
+        "title": "Plan the construction handoff around findings",
+        "text": "We will explain which retained materials have reached the agreed drying objective and which still need attention. Source correction, removal decisions, and any separate mold scope will remain visible in the handoff. Drying completion will not be described as completion of every repair."
+      }
+    ],
+    "estimate": "The assemblies retained, their accessibility, and their response to treatment determine the work. Call with photographs of the open area and any existing moisture records; those help explain what is known before the visit.",
+    "checklist": [
+      "Identify materials already removed.",
+      "Share previous drying work.",
+      "Tell us the next planned construction step."
+    ]
+  },
+  "floor-water-damage-cleanup/corral-city": {
+    "intro": "Floor water damage cleanup in Corral City helps when a wet floor includes more than one finish and you are unsure what can stay. A tiled entry, floating floor, and carpeted room may need different decisions after the same leak. We will assess the affected layers before recommending removal or drying.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup across finish changes",
+        "text": "We will inspect transitions where water may have moved beneath adjoining materials. Accessible water will be removed, and the condition of seams, edges, and underlying layers will guide further work. One dry surface reading will not resolve the status of every assembly."
+      },
+      {
+        "title": "Distinguish damaged finishes from wet support",
+        "text": "A finish may be visibly distorted while its support needs additional drying. Conversely, a finish that looks acceptable can limit access to wet material below. We will explain both conditions so the decision to remove flooring is tied to an identifiable need."
+      },
+      {
+        "title": "Prepare a useful flooring handoff",
+        "text": "We will record the work completed and the condition of retained areas. Installation requirements belong in coordination with the flooring provider, including any checks specific to the new product. Cleanup will not be presented as permission to cover unresolved moisture."
+      }
+    ],
+    "estimate": "Finish type, underlayment, water exposure, and removal access affect cost. Send the floor types in each affected room and describe any lifting, soft spots, or new separation.",
+    "checklist": [
+      "List each affected flooring material.",
+      "Identify visible changes since the leak.",
+      "Tell us whether replacement flooring has been selected."
+    ]
+  },
+  "ceiling-water-damage-cleanup/corral-city": {
+    "intro": "Ceiling water damage cleanup in Corral City helps when water has marked a ceiling around a fixture and the source above has only recently been repaired. You need the overhead area evaluated before painting conceals the evidence. We will explain safe access and the condition of the affected ceiling assembly.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup near fixtures",
+        "text": "We will consider the affected finish, cavity access, and utility concerns before removal begins. Electrical fixtures require appropriate handling by a qualified provider where needed. Do not touch wet fixtures or stand beneath a bulging section while arranging help."
+      },
+      {
+        "title": "Look beyond the visible ring",
+        "text": "The edge of a stain does not necessarily match the wet material above it. We will inspect accessible areas and explain whether insulation or ceiling material needs selective removal. The proposed opening will be connected to the condition being investigated."
+      },
+      {
+        "title": "Separate drying from finish restoration",
+        "text": "Retained structure will be evaluated during drying, and we will explain what must be resolved before patching. Texture and paint work follow that material decision. If the source is uncertain, that uncertainty will be carried into the plan rather than covered by a cosmetic repair."
+      }
+    ],
+    "estimate": "Ceiling height, fixture access, damaged layers, and the extent of wet insulation influence the scope. Contact us with the room above or any known plumbing or roof findings.",
+    "checklist": [
+      "Describe the overhead source if known.",
+      "Identify sagging or loose finishes.",
+      "Share when the stain first appeared."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/corral-city": {
+    "intro": "AC leak water damage cleanup in Corral City helps when condensate has soaked the platform or enclosure around cooling equipment. HVAC repair may stop the leak while leaving wet wood and finishes in place. We will evaluate that surrounding damage and plan restoration without treating the cooling system as part of ordinary cleanup.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup at the equipment base",
+        "text": "We will inspect accessible building materials around the unit and the route taken by the escaping water. Safe equipment access or disconnection will be coordinated with the HVAC provider when required. Their source correction and our material work will be distinguished in the plan."
+      },
+      {
+        "title": "Evaluate enclosed wet surfaces",
+        "text": "Closet walls, platforms, and adjacent flooring can restrict visibility. We will explain what can be checked directly and where a limited opening is needed. Softened or deteriorated material may need removal, while retained surfaces may require drying and monitoring."
+      },
+      {
+        "title": "Keep future service access usable",
+        "text": "Drying equipment and the reconstruction handoff will account for access needed to the mechanical area. We will explain the condition of materials before an enclosure is closed again. Suspected mold discovered during access will be addressed as a separate remediation decision."
+      }
+    ],
+    "estimate": "Access around the unit and the amount of concealed wet material affect the estimate. Call with the HVAC findings and describe whether water has reached another room or level.",
+    "checklist": [
+      "Share the HVAC repair status.",
+      "Describe the unit location.",
+      "Identify visible damage around its enclosure."
+    ]
+  },
+  "crawl-space-water-removal/corral-city": {
+    "intro": "Crawl space water removal in Corral City helps when standing water prevents inspection of the floor structure from below. Removing the water is an initial step toward understanding the condition of insulation and wood above it. We will evaluate access and establish what can be inspected after extraction.",
+    "sections": [
+      {
+        "title": "Crawl space water removal with a defined access route",
+        "text": "We will assess the entry, working clearance, water conditions, and the accessible footprint before planning removal. Unsafe or unreachable sections will be identified. The amount of visible water at the hatch will not be used to describe every part of the crawl space."
+      },
+      {
+        "title": "Revisit surfaces exposed by extraction",
+        "text": "Once accessible standing water is removed, we will evaluate affected materials that were obscured. Wet insulation, debris, and retained framing need separate decisions. We will explain which removal or drying tasks are supported by the conditions found."
+      },
+      {
+        "title": "Address continuing water before finishing",
+        "text": "A plumbing leak or recurring exterior entry can undermine removal work. We will identify the source status in the plan and explain where a separate repair provider is needed. The handoff will distinguish a drained area from materials still requiring drying or mold evaluation."
+      }
+    ],
+    "estimate": "Clearance, water distribution, debris, and follow-up material work determine the estimate. Contact us with observations from outside the crawl space; do not enter an unsafe area to gather photographs.",
+    "checklist": [
+      "Identify the available access opening.",
+      "Share any known pipe or drainage problem.",
+      "Tell us whether water returned after earlier removal."
+    ]
+  },
+  "bathroom-mold-removal/corral-city": {
+    "intro": "Bathroom mold removal in Corral City helps when growth is visible around a tub enclosure and cleaning the exposed surface has not resolved the concern. You need to know whether affected material extends behind the finish. We will arrange the appropriate remediation scope and explain the access needed to address it.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal around enclosed wet areas",
+        "text": "We will distinguish exposed surface concerns from conditions that require access behind the enclosure. The surrounding finish, moisture history, and accessible findings will guide that decision. A photograph alone cannot establish the full concealed scope."
+      },
+      {
+        "title": "Remove affected material within a controlled work area",
+        "text": "The remediation plan will describe containment, material handling, and cleaning of suitable retained surfaces. Removal will be tied to the affected material and necessary access. The plan will also explain how the remaining bathroom can be separated from the work."
+      },
+      {
+        "title": "Resolve the moisture problem before rebuilding",
+        "text": "Plumbing, enclosure, or ventilation concerns may require another provider. We will identify those outstanding items and explain the condition needed before finishes return. Any required independent assessment or clearance will be scheduled as its own step."
+      }
+    ],
+    "estimate": "Enclosure construction and the amount of affected concealed material can change the estimate after access. Contact us with the leak history and any inspection report already available.",
+    "checklist": [
+      "Describe where growth is visible.",
+      "Tell us what was previously cleaned or replaced.",
+      "Identify the moisture repair already completed."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/corral-city": {
+    "intro": "Kitchen cabinet mold removal in Corral City helps when a cabinet bottom has deteriorated and you are unsure whether the surrounding cabinet run can remain. Covering the damaged panel would leave the underlying condition unresolved. We will arrange evaluation and remediation of the affected cabinet area.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal beyond the loose panel",
+        "text": "The cabinet interior, adjoining side panels, and accessible wall or floor will be considered together. We will explain whether removing a damaged base is enough to reach the affected area or whether further access is necessary. Cabinets that look similar may have different material conditions."
+      },
+      {
+        "title": "Protect contents while the work is isolated",
+        "text": "Before remediation, the contents and work boundary will be addressed so affected items are not mixed with cleaned belongings. The plan will identify removal of unsuitable material and cleaning of retained surfaces. Plumbing disconnection will be coordinated where it is needed for access."
+      },
+      {
+        "title": "Make replacement dimensions follow the repair scope",
+        "text": "A cabinet insert or new base should be planned after the retained area and moisture source have been addressed. We will explain what remains open for inspection and what can move toward reconstruction. Cosmetic cabinet matching is a separate decision from remediation completion."
+      }
+    ],
+    "estimate": "Cabinet construction, access behind the run, and the condition of neighboring surfaces shape the estimate. Send existing photographs of the open interior and identify any active leak.",
+    "checklist": [
+      "Identify damaged cabinet panels.",
+      "Tell us about nearby appliance leakage.",
+      "Share plans for partial or full cabinet replacement."
+    ]
+  },
+  "mold-remediation-after-water-damage/corral-city": {
+    "intro": "Mold remediation after water damage in Corral City helps when demolition for a leak exposes growth on material that was expected to stay. The repair plan now needs a different sequence. We will arrange the appropriate remediation work and explain how it affects drying and reconstruction.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage changes the work boundary",
+        "text": "We will review what has already been removed and what is newly visible. The remediation area will be defined from the findings and any applicable assessment rather than from the original paint or flooring estimate. Additional affected material may need controlled removal."
+      },
+      {
+        "title": "Keep drying and remediation decisions connected",
+        "text": "Water-damaged materials and mold-affected materials may overlap without requiring identical treatment. We will explain the intended removal, cleaning, and drying of retained surfaces. Equipment already on site will be considered as part of the revised work plan."
+      },
+      {
+        "title": "Restart repairs after the remaining requirements are clear",
+        "text": "The handoff will state what was addressed and identify any independent clearance or unresolved source correction. A builder should not have to infer those details from an empty room. We will explain the next supported construction step and any part that must remain accessible."
+      }
+    ],
+    "estimate": "The newly exposed area, original water conditions, and work already completed determine the revised estimate. Contact us before the cavity is closed and share the existing restoration scope.",
+    "checklist": [
+      "Describe what demolition exposed.",
+      "Share previous moisture records.",
+      "Identify the next scheduled repair activity."
+    ]
+  },
+  "mold-removal-behind-drywall/corral-city": {
+    "intro": "Mold removal behind drywall in Corral City helps when a wall opening reveals affected backing or framing beyond a visible room-side mark. Replacing the face of the wall alone may miss the concern. We will arrange a scope that addresses the concealed area and the access needed to work on it.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall with purposeful openings",
+        "text": "We will explain where the affected cavity can be evaluated and why a particular opening is proposed. Outlet locations, adjoining finishes, and built-in features may affect safe access. The size of the original stain will not automatically set the removal boundary."
+      },
+      {
+        "title": "Treat the exposed assembly as several materials",
+        "text": "Drywall, insulation, and retained framing will have individual removal or cleaning decisions. Containment and handling will reflect the remediation scope. We will explain what can remain accessible for treatment and what cannot reasonably be restored in place."
+      },
+      {
+        "title": "Keep closure tied to the completed scope",
+        "text": "We will describe the retained surface condition and outstanding moisture-source work before replacement drywall is installed. Independent review requirements, when applicable, will remain separate from patching. The completion record will explain the treated area rather than claiming every wall in the building was evaluated."
+      }
+    ],
+    "estimate": "Wall construction, obstructions, and the affected cavity extent drive cost. Share photographs from existing openings and any report that identifies the concern; additional investigation can be planned during the visit.",
+    "checklist": [
+      "Identify the wall and adjoining rooms.",
+      "Share the original leak location.",
+      "Tell us whether insulation is exposed."
+    ]
+  },
+  "attic-mold-remediation/corral-city": {
+    "intro": "Attic mold remediation in Corral City helps when an attic inspection identifies growth on roof decking or framing and you need an actionable work plan. The cause and accessible extent matter more than a general recommendation to spray the attic. We will arrange remediation suited to the findings and explain the related moisture corrections.",
+    "sections": [
+      {
+        "title": "Attic mold remediation starts with accessible conditions",
+        "text": "We will consider the inspection findings, working clearance, and affected surfaces when defining the scope. Insulation and stored items may obstruct access. Limitations will be identified before the entire attic is described as evaluated."
+      },
+      {
+        "title": "Choose treatment by material condition",
+        "text": "The plan will explain cleaning of suitable retained wood and any removal needed for damaged or obstructing material. Treatment will address the identified surfaces within the work area. Appearance alone will not be used to promise that every material can be retained."
+      },
+      {
+        "title": "Separate attic moisture correction from surface work",
+        "text": "Roof leakage, ventilation concerns, or another source may need a specialist. We will identify which source decisions remain unresolved and how they affect completion. Any independent assessment or clearance will have its own responsibility rather than being implied by a contractor photograph."
+      }
+    ],
+    "estimate": "Access difficulty, affected surface area, and material removal influence the estimate. Contact us with the inspection findings and photographs already taken safely by your provider.",
+    "checklist": [
+      "Share the attic inspection report.",
+      "Identify known roof or ventilation work.",
+      "Tell us about insulation obstructing the affected surfaces."
+    ]
+  },
+  "crawl-space-mold-remediation/corral-city": {
+    "intro": "Crawl space mold remediation in Corral City helps when a contractor reports affected floor framing during work beneath the house. You need a plan for the wood and insulation, along with an explanation of the moisture source. We will arrange an appropriate remediation scope based on accessible findings.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation around the floor assembly",
+        "text": "We will consider the reported locations, access clearance, and material condition. The underside of flooring, joists, and insulation can require different decisions. The work boundary will identify areas evaluated and areas that cannot yet be reached."
+      },
+      {
+        "title": "Remove obstructions before treating retained surfaces",
+        "text": "Affected or obstructing insulation may need removal to reach the structure. We will explain material handling and cleaning of suitable retained surfaces within the remediation plan. Damaged structural members requiring repair will be distinguished from surfaces proposed for cleaning."
+      },
+      {
+        "title": "Explain what must happen beneath the house afterward",
+        "text": "Standing water or continuing leakage may need attention before the work can be completed. We will identify the relevant repair or drying sequence and any independent review required. Reinstalling insulation will follow those decisions rather than hiding unresolved conditions."
+      }
+    ],
+    "estimate": "The accessible footprint, clearance, insulation condition, and moisture work determine the estimate. Share the contractor observations and any photographs already available without entering the crawl space yourself.",
+    "checklist": [
+      "Identify the provider who observed the concern.",
+      "Tell us about recent plumbing work.",
+      "Share whether standing water was reported."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/corral-city": {
+    "intro": "Mold contaminated contents cleaning in Corral City helps when belongings removed from a damp room include both washable surfaces and absorbent materials. You need practical item decisions before everything is returned to storage. We will review the affected belongings and explain what cleaning can reasonably address.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning by item construction",
+        "text": "A solid surface, upholstered cushion, and composite storage box do not have the same cleaning options. We will consider accessible contamination, material condition, and whether hidden layers can be addressed. Some items may need specialist evaluation or disposal instead of general cleaning."
+      },
+      {
+        "title": "Keep identified items separate during handling",
+        "text": "The plan will establish which belongings are being evaluated and how cleaned items will remain distinguishable from untreated ones. We will discuss priorities before disposal or irreversible work. A room-level contents description will not replace decisions about valuable or sensitive individual items."
+      },
+      {
+        "title": "Return belongings to a suitable destination",
+        "text": "Cleaning contents does not correct the damp building or storage condition. We will explain what should be resolved in the receiving area before items return. If building remediation is occurring separately, its status will be considered in the return plan."
+      }
+    ],
+    "estimate": "Item quantity, materials, condition, and special handling needs affect the estimate. Contact us with a representative list and photographs; sentimental value can guide priorities without guaranteeing restoration.",
+    "checklist": [
+      "List the types of affected belongings.",
+      "Identify items needing individual approval.",
+      "Describe where cleaned items would be stored."
+    ]
+  },
+  "kitchen-fire-cleanup/corral-city": {
+    "intro": "Kitchen fire cleanup in Corral City helps when a stovetop fire has affected the range area and nearby cabinets, but you do not know how much of the kitchen must be replaced. Heat damage and removable residue require different decisions. We will evaluate the affected finishes and explain a cleanup sequence before reconstruction begins.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup around cabinets and cooking equipment",
+        "text": "We will inspect accessible surfaces near the fire and the path of smoke through adjoining finishes. Cabinet faces, interiors, and walls may have different conditions. Appliances and utilities requiring specialist evaluation will be identified separately from surface cleaning."
+      },
+      {
+        "title": "Test the value of cleaning before replacement decisions",
+        "text": "Suitable finishes may be evaluated for cleaning while charred or otherwise damaged material needs a removal decision. We will explain what treatment is intended to achieve and where the finish itself is no longer serviceable. The appearance after cleaning will inform the repair handoff."
+      },
+      {
+        "title": "Include suppression water in the kitchen plan",
+        "text": "Water used during response can affect flooring and cabinets below the visible fire damage. We will identify related extraction or drying needs and explain their sequence alongside residue removal. New finishes should follow those material decisions rather than simply covering the room quickly."
+      }
+    ],
+    "estimate": "The affected cabinet area, smoke spread, heat damage, and water conditions determine the estimate. Contact us after the property is released for access and share which parts of the kitchen are involved.",
+    "checklist": [
+      "Identify the fire origin if known.",
+      "Tell us about water used during response.",
+      "List appliances awaiting inspection."
+    ]
+  },
+  "smoke-damage-cleanup/corral-city": {
+    "intro": "Smoke damage cleanup in Corral City helps when residue has settled on room finishes and belongings beyond the fire area. You need to understand what will be cleaned and what may still need repair. We will inspect the affected surfaces and plan treatment by material rather than using odor alone to define the job.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup on different finishes",
+        "text": "We will consider residue condition and the surface beneath it before selecting a cleaning approach. Painted walls, finished wood, and porous belongings can respond differently. Unsuitable cleaning can damage a finish, so material decisions will be explained before broad treatment."
+      },
+      {
+        "title": "Find the surfaces contributing to remaining odor",
+        "text": "Cleaning accessible residue is part of addressing the source of odor. We will identify affected materials that may require further cleaning, removal, or an appropriate finishing step. Fragrance will not be presented as evidence that the underlying residue was addressed."
+      },
+      {
+        "title": "Evaluate the result before resetting the room",
+        "text": "The work record will distinguish cleaned surfaces, items awaiting specialist treatment, and finishes requiring repair. Ventilation equipment or concealed areas may need separate evaluation if implicated. We will explain those limitations before the room is described as ready for its next use."
+      }
+    ],
+    "estimate": "Smoke distribution, surface sensitivity, and contents volume affect price and sequence. Call with the rooms involved and any cleaning already attempted so the visit can focus on the remaining conditions.",
+    "checklist": [
+      "Identify surfaces with visible residue.",
+      "Describe rooms with persistent odor.",
+      "Tell us about delicate or valuable finishes."
+    ]
+  },
+  "toilet-overflow-cleanup/corral-city": {
+    "intro": "Toilet overflow cleanup in Corral City helps when wastewater has reached the bathroom floor and the doorway into an adjoining room. The plumbing problem and the exposed materials both need attention. We will evaluate contamination concerns and explain removal, cleaning, and drying within the affected area.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup at the bathroom threshold",
+        "text": "We will trace the accessible spread and inspect adjoining materials at the doorway. A hard bathroom finish does not establish the condition of carpet, pad, or wall bases nearby. Extraction will be followed by decisions about the materials the water reached."
+      },
+      {
+        "title": "Choose what can remain after the exposure",
+        "text": "The cleanup plan will distinguish suitable retained surfaces from absorbent or damaged material requiring removal. Handling and cleaning will reflect the water conditions. Simply drying an exposed item will not be used as the sole reason to return it to service."
+      },
+      {
+        "title": "Resolve the fixture problem and document the room",
+        "text": "A plumbing provider may need to correct the cause before the fixture is used again. We will record completed cleanup and explain the remaining drying or repair needs. Replacement finishes will follow those findings, including any condition discovered beneath the original floor covering."
+      }
+    ],
+    "estimate": "Spread, material exposure, water conditions, and hidden access determine the estimate. Contact us with where the overflow traveled and whether the toilet or connected drain is still backing up.",
+    "checklist": [
+      "Keep people and pets away from affected areas.",
+      "Identify nearby carpet or stored items.",
+      "Share plumbing response already arranged."
+    ]
+  },
+  "fire-damaged-debris-removal/corral-city": {
+    "intro": "Fire damaged debris removal in Corral City helps when damaged building material is blocking cleanup and the next inspection. Removing everything at once can also erase decisions about what should remain. We will establish an authorized removal scope and organize access to the affected areas.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal with retained areas identified",
+        "text": "We will distinguish material approved for removal from structure, utilities, and belongings needing further evaluation. The plan will identify the work area and handling route. Structural or utility concerns must be addressed by the appropriate provider before affected sections are disturbed."
+      },
+      {
+        "title": "Clear the layers needed for the next work",
+        "text": "Removal may expose residue, wet materials, or damage that was not visible initially. We will document relevant findings and explain whether they change cleanup or repair requirements. Debris removal itself will not be described as structural repair or complete smoke restoration."
+      },
+      {
+        "title": "Leave a defined condition for follow-on trades",
+        "text": "We will explain which areas have been cleared and what still needs cleaning, drying, or specialist inspection. Access routes and remaining materials will be included in that handoff. This gives the next contractor a usable scope instead of an assumption that an empty area is finished."
+      }
+    ],
+    "estimate": "Material quantity, handling restrictions, access, and disposal needs influence the estimate. Share the approved demolition scope and identify belongings that must be reviewed before removal.",
+    "checklist": [
+      "Confirm authorized property access.",
+      "Identify items to retain for review.",
+      "Share structural or utility inspection findings."
+    ]
+  },
+  "fire-damaged-contents-cleaning/corral-city": {
+    "intro": "Fire damaged contents cleaning in Corral City helps when belongings have been removed from a fire-affected room but their condition has not been evaluated individually. Some may be suitable for cleaning while others have heat or material damage. We will help establish item decisions and the work needed before return.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning beyond the visible soot",
+        "text": "We will consider residue, odor, heat effects, and the construction of each item group. A cleanable outer shell does not establish the condition of concealed components. Electronics, sensitive objects, or specialist materials may require another provider."
+      },
+      {
+        "title": "Set priorities before irreversible decisions",
+        "text": "We will discuss items needing individual approval and explain proposed cleaning or disposal. Useful identification will keep evaluated items distinguishable during handling. Sentimental importance can guide the order of review without changing whether the material can reasonably be restored."
+      },
+      {
+        "title": "Coordinate return with the building condition",
+        "text": "Cleaned contents need a destination that will not expose them to unresolved residue or moisture. We will explain the return status and any items still awaiting a decision. Building restoration and contents treatment will remain connected while retaining separate completion records."
+      }
+    ],
+    "estimate": "The number of items, construction, contamination, and specialist needs determine the scope. Contact us with a representative list and identify belongings you want reviewed before any disposal.",
+    "checklist": [
+      "List priority belongings.",
+      "Identify heat damage as well as residue.",
+      "Describe the intended return location."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/corral-city": {
+    "intro": "Fire extinguisher residue cleanup in Corral City helps when a discharge has left material across counters, flooring, and nearby equipment. The agent used affects how cleanup should be planned. We will review the extinguisher information and affected surfaces before recommending treatment.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup starts with agent identification",
+        "text": "The label or response record can help identify the material released. We will consider that information alongside the surfaces involved. If the agent is unknown, we will explain what must be clarified before choosing an appropriate cleaning approach."
+      },
+      {
+        "title": "Reach residue where it settled",
+        "text": "Shelves, cabinet edges, and equipment surroundings may hold material beyond the most visible deposit. We will identify accessible areas included in cleaning and any disassembly or specialist work needed elsewhere. Equipment internals will not automatically be included in a room-surface estimate."
+      },
+      {
+        "title": "Distinguish discharge cleanup from the original fire",
+        "text": "Heat damage and smoke residue may require additional work even after the extinguisher material is removed. We will describe those findings separately. Servicing or replacing the extinguisher and clearing affected equipment for use belong with the appropriate providers."
+      }
+    ],
+    "estimate": "Agent type, distribution, surface sensitivity, and equipment involvement shape the estimate. Contact us with a safe photograph of the extinguisher label and describe the area where it was used.",
+    "checklist": [
+      "Keep the agent label information available.",
+      "Identify affected equipment.",
+      "Tell us about other fire or smoke damage."
+    ]
+  },
+  "emergency-board-up-after-fire/corral-city": {
+    "intro": "Emergency board up after fire in Corral City helps when a damaged exterior opening leaves the property exposed while repairs are being arranged. You need temporary protection that accounts for the condition of the surrounding building. We will review safe access and the openings that can be secured.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire for damaged openings",
+        "text": "We will inspect accessible door or window openings and consider the surfaces available for attachment. Unstable materials or structural concerns may limit what can be done immediately. The plan will identify each opening included and any area requiring another provider first."
+      },
+      {
+        "title": "Preserve authorized access during temporary protection",
+        "text": "The temporary arrangement will account for the entry needed by approved inspectors and contractors. We will explain how access will be managed and what the protection is intended to address. Boarding will not be presented as permanent weatherproofing or evidence that the building is safe to occupy."
+      },
+      {
+        "title": "Connect protection to the next repair stage",
+        "text": "We will record the secured openings and any remaining exposure. Permanent frame, glazing, door, or structural work will be identified separately. Temporary protection may need review as other trades remove damaged material or change the opening."
+      }
+    ],
+    "estimate": "Opening size, surrounding damage, attachment conditions, and access determine the scope. Call with the number of affected openings and confirmation that the property has been released for entry.",
+    "checklist": [
+      "Identify exposed doors or windows.",
+      "Share access restrictions.",
+      "Tell us which contractors need entry next."
+    ]
+  },
+  "crawl-space-sewage-cleanup/corral-city": {
+    "intro": "Crawl space sewage cleanup in Corral City helps when a drain failure has left wastewater beneath the floor and the pipe repair alone will not resolve the affected area. You need removal and material decisions suited to that exposure. We will evaluate the accessible spread and explain a cleanup sequence.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup around the failed drain",
+        "text": "We will assess the working clearance, wastewater distribution, and materials affected beneath the pipe. A plumbing provider must address the source separately. The removal plan will reflect the actual access available rather than assuming every section can be reached from one opening."
+      },
+      {
+        "title": "Handle exposed material after liquid removal",
+        "text": "Debris, insulation, and retained building surfaces may require different treatment. We will explain what must be removed and what is suitable for cleaning within the defined scope. Extraction alone will not establish that the entire crawl space is ready for use or reconstruction."
+      },
+      {
+        "title": "Evaluate retained surfaces before closing the work",
+        "text": "We will identify related drying needs and document remaining source or access limitations. Replacement insulation and other repairs will follow those decisions. If further affected areas become accessible during work, the scope will be reviewed before they are included."
+      }
+    ],
+    "estimate": "Access clearance, wastewater spread, exposed materials, and disposal requirements determine the estimate. Share the plumbing findings and observations already available; do not enter the affected space to inspect it yourself.",
+    "checklist": [
+      "Identify the crawl-space opening.",
+      "Share whether the drain has been repaired.",
+      "Tell us about insulation or debris reported beneath the floor."
+    ]
+  }
+}

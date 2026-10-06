@@ -31,7 +31,7 @@ const schema = { '@context':'https://schema.org', '@type':'Service', name:page.n
     </div>
     <section class="mb-12">
       <h2 class="font-heading text-2xl font-bold mb-6">Cleanup and repair services</h2>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">{services.map(s=><a href={`/services/${s.slug}/`} class="rounded-xl bg-brand-gray-50 p-6 hover:bg-brand-warm"><h3 class="font-heading font-bold mb-3">{s.name}</h3><p>{s.slug==='mold-remediation'?'Small-area cleanup of less than 25 contiguous square feet. Larger work referred to a TDLR-licensed remediator.':s.cardDescription}</p></a>)}</div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">{services.map(s=><a href={`/services/${s.slug}/`} class="rounded-xl bg-brand-gray-50 p-6 hover:bg-brand-warm"><h3 class="font-heading font-bold mb-3">{s.name}</h3><p>{s.cardDescription}</p></a>)}</div>
     </section>
     <section class="max-w-4xl mb-12"><h2 class="font-heading text-2xl font-bold mb-6">Questions before approving work</h2>{page.faqs.map(f=><details class="bg-brand-gray-50 rounded-xl p-6 mb-3"><summary class="font-bold cursor-pointer">{f.question}</summary><p class="mt-4 leading-relaxed">{f.answer}</p></details>)}</section>
     <section class="mb-12"><h2 class="font-heading text-2xl font-bold mb-4">Serving Dallas, Collin County, and wider DFW</h2><p class="mb-5">Our office is in Wylie. Select a city for local service information and call to confirm availability for your property.</p><div class="flex flex-wrap gap-3">{[...cities].sort((a,b)=>a.name.localeCompare(b.name)).map(c=><a href={`${path}${c.slug}/`} class="text-brand-brown underline">{c.name}</a>)}</div></section>

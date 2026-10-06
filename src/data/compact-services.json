@@ -1,0 +1,803 @@
+[
+  {
+    "id": "W1",
+    "slug": "emergency-water-extraction",
+    "name": "Emergency water extraction",
+    "parent": "water-damage-restoration",
+    "intro": "Emergency water extraction helps when a leak or flood has left standing water across your floors and you need someone to remove it. You may have soaked carpet, water reaching adjoining rooms, or furniture you cannot move out of the way. We remove the standing water, evaluate the affected areas, and explain what needs drying next.",
+    "description": "Emergency water extraction in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Water extraction services: what the first visit covers",
+        "text": "The first visit establishes access, the water source, affected surfaces, and the next practical steps. Removing visible water is one part of the job; moisture can remain under flooring or inside adjoining walls."
+      },
+      {
+        "title": "Emergency water removal and flood water removal",
+        "text": "A supply-line leak and water entering from outdoors may need different cleanup scopes. Describe the source rather than assuming all standing water can be handled the same way. If a toilet or sewer backed up, tell us before arrival so the request can be routed for sewage cleanup."
+      },
+      {
+        "title": "From standing water removal to drying",
+        "text": "After extraction, the scope should identify moisture checks, any materials that need opening or removal, and drying equipment. We will record progress, explain the status of the cleanup and drying, and outline what needs to happen before repairs and reconstruction begin."
+      }
+    ],
+    "checklist": [
+      "Approximate time the water started and whether the source has stopped",
+      "Rooms, floor types, stairs, and access restrictions",
+      "Whether plumbing repair or a utility response is already arranged"
+    ],
+    "estimate": "The amount of water, access for equipment, affected materials, and conditions beneath the floor influence the estimate. Extraction and the later drying period should be listed separately; a cleared floor does not establish that the building is dry.",
+    "related": [
+      "W7",
+      "W8",
+      "W2",
+      "W10"
+    ]
+  },
+  {
+    "id": "W2",
+    "slug": "burst-pipe-cleanup",
+    "name": "Burst pipe cleanup",
+    "parent": "water-damage-restoration",
+    "intro": "Burst pipe cleanup helps when a broken pipe has soaked your home and shutting off the water has left you with wet floors, walls, or ceilings. You need the mess removed and a clear answer about what can be dried and what needs repair. We handle the water cleanup and drying while the pipe repair is coordinated with the appropriate plumbing provider.",
+    "description": "Burst pipe cleanup in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Burst pipe water damage cleanup",
+        "text": "Water from a wall or ceiling pipe can travel beyond the room where you first notice it. During the visit, explain where the break was found and which neighboring rooms became wet. The cleanup scope should follow the water path rather than stop at the visible puddle."
+      },
+      {
+        "title": "Frozen pipe water damage cleanup",
+        "text": "If the break followed freezing weather, tell us whether other lines are still being checked. A repaired section does not establish that every affected wall or floor is dry. Keep the plumber’s findings available so the cleanup and source repair can be coordinated."
+      },
+      {
+        "title": "Broken pipe water cleanup before reconstruction",
+        "text": "Extraction, moisture checks, and drying come before replacement finishes. If damaged drywall or flooring needs removal, we will explain the work area, disposal arrangements, and how later repairs fit into the proposal."
+      }
+    ],
+    "checklist": [
+      "Location of the broken pipe and repair status",
+      "When the leak was discovered and the supply was stopped",
+      "Wet rooms on the same floor and the floor below"
+    ],
+    "estimate": "A small pipe break can affect several building layers. Access to concealed spaces, the water path, drying progress, and repair requirements determine the scope and schedule; pipe repair is a separate task.",
+    "related": [
+      "W1",
+      "W7",
+      "W9"
+    ]
+  },
+  {
+    "id": "W3",
+    "slug": "appliance-leak-cleanup",
+    "name": "Appliance leak cleanup",
+    "parent": "water-damage-restoration",
+    "intro": "Appliance leak cleanup helps when you discover water spreading from a washing machine, dishwasher, refrigerator line, or water heater. The appliance may have stopped leaking, but your floor, cabinet bases, or nearby walls are still wet. We evaluate where the water traveled and plan removal and drying around the affected materials.",
+    "description": "Appliance leak cleanup in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Washing machine overflow cleanup",
+        "text": "Laundry water can reach baseboards, adjoining rooms, and the floor below. Tell us whether a supply hose, appliance connection, or drain overflow was involved. These details affect the cleanup assessment and help identify who needs to correct the source."
+      },
+      {
+        "title": "Dishwasher leak cleanup",
+        "text": "Water beneath a dishwasher may spread under cabinets or flooring before it becomes visible. Share whether the appliance has been moved or repaired, and whether flooring or cabinet panels look swollen. Access behind built-in units can affect the work plan."
+      },
+      {
+        "title": "Water heater leak cleanup",
+        "text": "A leaking tank or connection can wet a utility closet and adjoining walls. Appliance replacement and plumbing repairs should be assigned separately from water removal and drying. Refrigerator water-line leaks can be evaluated using the same source-and-water-path approach."
+      }
+    ],
+    "checklist": [
+      "Appliance type and suspected point of failure",
+      "Whether leaking has stopped and a repair provider is scheduled",
+      "Affected cabinets, floors, walls, and adjoining rooms"
+    ],
+    "estimate": "Built-in appliances, wet cabinet bases, and water beneath flooring can add access work. The proposal should separate cleanup and drying from appliance repair, replacement, and finish restoration.",
+    "related": [
+      "W8",
+      "W7",
+      "M3"
+    ]
+  },
+  {
+    "id": "W4",
+    "slug": "storm-water-damage-cleanup",
+    "name": "Storm water damage cleanup",
+    "parent": "water-damage-restoration",
+    "intro": "Storm water damage cleanup helps when rain has entered through your roof or windows, or floodwater has reached the rooms you use every day. You may be dealing with wet ceilings, soaked flooring, and uncertainty about what is happening behind the walls. We assess the interior damage and arrange cleanup and drying alongside the source repairs your property needs.",
+    "description": "Storm water damage cleanup in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Roof leak water damage cleanup",
+        "text": "Describe where rain entered and whether the opening has been repaired. Ceiling stains can help locate a concern, but they do not show the full water path. A visit should account for affected insulation, walls, and rooms below the entry point."
+      },
+      {
+        "title": "Rain water damage cleanup around windows",
+        "text": "Wind-driven rain can wet trim, drywall, and flooring near an opening. Share whether the same location leaks repeatedly and whether an exterior contractor has inspected it. Interior drying will not correct an unresolved entry point."
+      },
+      {
+        "title": "Flood damage cleanup and stormwater intrusion",
+        "text": "Water that traveled over the ground calls for a different assessment from a contained plumbing leak. Tell us about outdoor flooding, debris, and any sewer backup so the work can be scoped for the actual conditions."
+      }
+    ],
+    "checklist": [
+      "Entry points and whether water is still entering",
+      "Rooms and floors affected, including areas below a roof leak",
+      "Exterior repair status and access limitations"
+    ],
+    "estimate": "The number of entry points, material condition, access, and drying progress affect the schedule. Further rain and unresolved exterior repairs can interrupt restoration, so the proposal should explain the sequence rather than promise a fixed finish date.",
+    "related": [
+      "W1",
+      "W9",
+      "W7"
+    ]
+  },
+  {
+    "id": "W7",
+    "slug": "structural-drying-services",
+    "name": "Structural drying services",
+    "parent": "water-damage-restoration",
+    "intro": "Structural drying services help when the leak has stopped and the puddles are gone, but your walls, floors, or ceiling are still damp. You may be waiting to replace drywall or flooring and need to know whether moisture remains underneath. We check affected materials, set up drying equipment for the conditions, and monitor progress so you can plan repairs with clearer information.",
+    "description": "Structural drying services in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Dehumidification services and moisture checks",
+        "text": "Drying equipment is selected for the affected spaces and site conditions. We will identify the areas being checked, document progress, and review equipment settings and placement as drying proceeds. Equipment rental alone does not provide the same project oversight."
+      },
+      {
+        "title": "Wall cavity drying",
+        "text": "Water behind drywall or trim can be difficult to reach. The visit should establish whether access is needed and which materials can reasonably remain. Opening a wall is a scope decision, not an automatic requirement for every leak."
+      },
+      {
+        "title": "Drying wet walls before closing them",
+        "text": "Finish repairs should be coordinated with the drying findings. If affected materials cannot be retained or suspected mold is present, the work may need a different scope before reconstruction. We will identify who is responsible for reviewing each stage before work moves forward."
+      }
+    ],
+    "checklist": [
+      "Source repair and extraction status",
+      "Affected rooms, wall assemblies, and floor coverings",
+      "Any previous moisture readings or cleanup records"
+    ],
+    "estimate": "Material thickness, concealed moisture, room conditions, and access affect drying time. We will explain the monitoring and completion criteria; the number of days a machine runs is not by itself proof that repairs can begin.",
+    "related": [
+      "W1",
+      "W8",
+      "M3",
+      "W5",
+      "W10"
+    ]
+  },
+  {
+    "id": "W8",
+    "slug": "floor-water-damage-cleanup",
+    "name": "Floor water damage cleanup",
+    "parent": "water-damage-restoration",
+    "intro": "Floor water damage cleanup helps when your carpet is soaked, floorboards are lifting, or water has worked its way beneath laminate or vinyl. Mopping the surface has not answered your main question: can the floor stay, or will it need to come up? We evaluate the affected layers and explain the extraction, drying, or removal options before the work is agreed.",
+    "description": "Floor water damage cleanup in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Wet carpet water extraction",
+        "text": "Carpet, padding, and the surface beneath may require different decisions. The source of the water and the condition of each layer matter. We will identify which materials are included in extraction, removal, disposal, and drying, and explain any carpet-retention decisions."
+      },
+      {
+        "title": "Wood floor water damage drying",
+        "text": "Changes in a wood floor need an on-site evaluation before a restoration approach is promised. Species, installation, finish, and access can affect the options. Specialist floor work, refinishing, or replacement should be identified separately when needed."
+      },
+      {
+        "title": "Water under laminate flooring and subfloor drying",
+        "text": "A dry-looking top surface can hide moisture below. Swelling, seams, transitions, and adjoining rooms help define where to investigate. Removal may be needed to reach an affected underlayment or subfloor, depending on the findings."
+      }
+    ],
+    "checklist": [
+      "Floor covering and known layers beneath it",
+      "Water source and time since the leak",
+      "Visible lifting, swelling, or wet adjoining rooms"
+    ],
+    "estimate": "The estimate depends on affected area, floor layers, furniture access, and whether material can be retained. Cleanup, drying, and replacement are separate stages; no floor-saving outcome can be established from a photograph alone.",
+    "related": [
+      "W7",
+      "W3",
+      "W1"
+    ]
+  },
+  {
+    "id": "W9",
+    "slug": "ceiling-water-damage-cleanup",
+    "name": "Ceiling water damage cleanup",
+    "parent": "water-damage-restoration",
+    "intro": "Ceiling water damage cleanup helps when a leak has left a wet patch, peeling finish, or damaged drywall above your room. Even after the source is repaired, you may be unsure how much ceiling material is affected or when repairs can start. We assess the damaged area, explain any needed removal and drying, and help plan the next stage of restoration.",
+    "description": "Ceiling water damage cleanup in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Ceiling leak cleanup starts with the source",
+        "text": "Tell us whether a plumber or roofing provider has stopped the leak. Water can move along framing before appearing in another location. The cleanup plan should connect the visible damage to the source findings and check surrounding materials."
+      },
+      {
+        "title": "Wet ceiling drywall removal",
+        "text": "Damaged drywall and insulation may need removal to access affected areas. The proposed scope should explain protection for the room below, removal limits, disposal, and drying. Those limits may change if opening the area reveals additional damage."
+      },
+      {
+        "title": "Ceiling water damage repair",
+        "text": "Cleanup and drying do not include every finish repair by default. We will explain whether replacement drywall, texture, paint, and adjoining finishes are included or quoted separately. Reconstruction should follow the relevant drying and cleanup findings."
+      }
+    ],
+    "checklist": [
+      "Source of the leak and whether it has been repaired",
+      "Ceiling changes and the rooms above the affected area",
+      "Access restrictions and items beneath the work area"
+    ],
+    "estimate": "Height, access, affected insulation, hidden damage, and matching finishes influence the estimate. A schedule should distinguish opening and drying the area from the later ceiling reconstruction.",
+    "related": [
+      "W2",
+      "W4",
+      "W7",
+      "W5"
+    ]
+  },
+  {
+    "id": "M1",
+    "slug": "bathroom-mold-removal",
+    "name": "Bathroom mold removal",
+    "parent": "mold-remediation",
+    "intro": "Bathroom mold removal helps when you find growth around the shower, on the ceiling, or inside a vanity after a leak. You may have cleaned the visible spot before, only to see it return, or discovered damage behind a cabinet. We help establish the affected materials and arrange a remediation scope that accounts for the moisture problem and any repairs needed afterward.",
+    "description": "Bathroom mold removal in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Shower mold removal and recurring moisture",
+        "text": "A recurring spot near a shower may involve surface moisture, a leak, or both. Explain when it appears and whether plumbing or ventilation has been evaluated. The scope should address the affected material and the moisture concern, rather than promise that cleaning alone prevents recurrence."
+      },
+      {
+        "title": "Bathroom ceiling mold removal",
+        "text": "Ceiling growth can raise questions about humidity, plumbing above, or water from another part of the building. Photos can introduce the concern, but they do not establish its full extent. Independent assessment is a separate service when needed."
+      },
+      {
+        "title": "Mold under a bathroom vanity",
+        "text": "A supply-line or drain leak can affect the cabinet and wall behind it. In our August 2026 Arlington bathroom project, a sink supply leak led to containment, affected-wall removal, and cleanup. The team reported that the bathroom was ready for reconstruction; this account does not include an independent clearance result."
+      }
+    ],
+    "checklist": [
+      "Location of visible growth and any known leak",
+      "Plumbing repairs already completed",
+      "Access to the vanity, shower, and surrounding rooms"
+    ],
+    "estimate": "Concealed damage, affected materials, access, and any independent assessment requirements affect the estimate and timeline. We will identify the provider performing the work and explain whether reconstruction is part of the same proposal.",
+    "related": [
+      "M2",
+      "M4",
+      "M3"
+    ]
+  },
+  {
+    "id": "M2",
+    "slug": "kitchen-cabinet-mold-removal",
+    "name": "Kitchen cabinet mold removal",
+    "parent": "mold-remediation",
+    "intro": "Kitchen cabinet mold removal helps when a sink leak leaves growth inside a cabinet, swollen panels, or a damp wall behind your kitchen fixtures. You need to know whether the problem stays inside the cabinet or extends into the floor and wall around it. We help evaluate access and affected materials, then arrange the cleanup scope and explain what may need removal or replacement.",
+    "description": "Kitchen cabinet mold removal in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Under sink mold removal",
+        "text": "The cabinet base, wall behind the sink, and nearby floor may be affected differently. Share whether panels are swollen or an opening already exists. The plan should explain what can remain, what may need removal, and how the work area will be managed."
+      },
+      {
+        "title": "Mold behind kitchen cabinets",
+        "text": "Built-in cabinets can limit access to affected walls. Removal and later cabinet replacement should be discussed before work begins, including what happens if damage extends beyond the initial opening. A cleanup quote should not leave those decisions implicit."
+      },
+      {
+        "title": "A Dallas kitchen and laundry project",
+        "text": "Our September 2026 Dallas project followed a leaking kitchen P-trap and leaking laundry supply connections. The work included containment and affected-material removal. The owner reports passing independent consultant and laboratory testing for that project; this does not establish the outcome of another property’s work."
+      }
+    ],
+    "checklist": [
+      "Location of the leak and repair status",
+      "Affected cabinet, wall, and floor surfaces",
+      "Whether the kitchen must remain partly accessible during work"
+    ],
+    "estimate": "Access behind cabinets, the extent of affected material, and any separate assessment or clearance requirements influence the scope. Cabinet replacement and countertop work should be identified separately from remediation.",
+    "related": [
+      "M1",
+      "M4",
+      "M3"
+    ]
+  },
+  {
+    "id": "M3",
+    "slug": "mold-remediation-after-water-damage",
+    "name": "Mold remediation after water damage",
+    "parent": "mold-remediation",
+    "intro": "Mold remediation after water damage helps when growth appears after a leak or flood, even though the water has already been removed. You may be looking at stained drywall, affected cabinets, or damp materials and wondering why the earlier cleanup was not the end of the job. We review the moisture history and existing work, then help arrange remediation and the steps needed before rebuilding.",
+    "description": "Mold remediation after water damage in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Mold cleanup after a water leak",
+        "text": "Repairing a leak does not describe the condition of the material it previously soaked. Share the repair date, water path, and any drying records. These details help explain whether the next step is a site visit, a separate assessment, or a defined cleanup scope."
+      },
+      {
+        "title": "Flood damage mold remediation",
+        "text": "Flooding can affect several rooms and concealed building layers. The water source and previous cleanup matter when defining the work. A mold inquiry does not replace the separate evaluation of contaminated water damage or other site conditions."
+      },
+      {
+        "title": "Laundry room mold removal after plumbing leaks",
+        "text": "Leaks at appliance connections can affect walls and the floor beneath nearby equipment. Our Dallas kitchen and laundry project involved leaking laundry supply connections as well as a kitchen P-trap. A similar-looking stain at another property still needs its own scope and source investigation."
+      }
+    ],
+    "checklist": [
+      "Leak or flood dates and the source repair",
+      "Extraction, drying, and removal already completed",
+      "Any assessment documents and areas where growth remains"
+    ],
+    "estimate": "Work can involve source repair, remediation, separate assessment or clearance, and reconstruction. We will explain who is responsible for each step and what must be completed before walls or floors are closed.",
+    "related": [
+      "M2",
+      "M4",
+      "W7",
+      "M7"
+    ]
+  },
+  {
+    "id": "M4",
+    "slug": "mold-removal-behind-drywall",
+    "name": "Mold removal behind drywall",
+    "parent": "mold-remediation",
+    "intro": "Mold removal behind drywall helps when opening a wall reveals affected material, or an assessment identifies a problem inside a wall or ceiling. You need more than a surface cleaning: you need a defined plan for what will be opened, removed, and cleaned. We help arrange the remediation scope and coordinate the next steps so repairs do not simply cover the unresolved concern.",
+    "description": "Mold removal behind drywall in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Mold-damaged drywall removal",
+        "text": "Removing an affected panel can expose insulation, framing, and other materials that need evaluation. The proposed scope should state the initial removal area and how any additional findings will be documented and approved. Painting over the surface does not address concealed affected material."
+      },
+      {
+        "title": "Wall cavity mold remediation",
+        "text": "An open wall can reveal where moisture traveled, but its appearance alone does not establish that the moisture source is resolved. We will explain how source repair and cleanup will be coordinated. Independent assessment and clearance, when applicable, remain separate from remediation."
+      },
+      {
+        "title": "Framing, insulation, and reconstruction",
+        "text": "Each material needs its own retain-or-remove decision within the project scope. Reconstruction should be scheduled after the relevant cleanup, drying, and documentation steps. We will identify whether insulation, drywall replacement, and finish work are included or require a separate estimate."
+      }
+    ],
+    "checklist": [
+      "Where the concern is visible and whether a wall is already open",
+      "Known pipe, roof, or fixture leaks",
+      "Previous assessment, repair, or drying records"
+    ],
+    "estimate": "Access, concealed extent, affected materials, and documentation requirements influence the timeline. The provider and change-approval process should be clear before demolition begins.",
+    "related": [
+      "M1",
+      "M2",
+      "M3",
+      "M5",
+      "M6",
+      "M7"
+    ]
+  },
+  {
+    "id": "F1",
+    "slug": "kitchen-fire-cleanup",
+    "name": "Kitchen fire cleanup",
+    "parent": "fire-smoke-damage-restoration",
+    "intro": "Kitchen fire cleanup helps when a cooking fire leaves damaged cabinets, soot-covered surfaces, and smoke residue outside the kitchen. Once the property is released for access, you need to know what can be cleaned, what needs replacement, and how to move toward using the space again. We assess the affected areas and separate the cleanup work from appliance, utility, and reconstruction needs.",
+    "description": "Kitchen fire cleanup in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Grease fire cleanup",
+        "text": "A cooking fire can leave residue on cabinets, walls, ceilings, and items away from the stove. Describe the affected rooms and any water or extinguisher residue left behind. Those conditions need to be identified in the scope rather than treated as a single surface-cleaning task."
+      },
+      {
+        "title": "Stove and oven fire cleanup",
+        "text": "Appliances, electrical components, and gas connections need evaluation by the appropriate specialists before use. The restoration scope should distinguish cleaning nearby materials from appliance replacement or utility repair. Do not assume one quote includes all of those tasks."
+      },
+      {
+        "title": "Kitchen smoke damage cleanup",
+        "text": "Smoke can extend beyond the visibly burned area. We will identify the rooms and surfaces included in the inspection and cleaning proposal and explain how remaining odor will be evaluated. Cabinets and finishes may have different cleaning or replacement options."
+      }
+    ],
+    "checklist": [
+      "Access release and any restrictions on entering the property",
+      "Affected rooms and firefighting water damage",
+      "Utility, appliance, and insurance contacts already involved"
+    ],
+    "estimate": "The spread of residue, material condition, water damage, and specialist repair needs influence the estimate. Cleanup and reconstruction should have separate milestones, with changes documented if additional damage is found.",
+    "related": [
+      "F2",
+      "W7",
+      "F5",
+      "F6"
+    ]
+  },
+  {
+    "id": "F2",
+    "slug": "smoke-damage-cleanup",
+    "name": "Smoke damage cleanup",
+    "parent": "fire-smoke-damage-restoration",
+    "intro": "Smoke damage cleanup helps when a fire is out but soot and smoke odor remain on walls, ceilings, and surfaces in other rooms. You may be unsure how far the residue spread or whether cleaning will be enough for the affected finishes. We evaluate the surfaces and define the cleaning and material-removal work needed for the restoration scope.",
+    "description": "Smoke damage cleanup in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Soot removal service",
+        "text": "Walls, ceilings, trim, and other finishes can respond differently to cleaning. The work plan should identify the surfaces to be addressed and where evaluation is needed before choosing a method. Not every stained or heat-damaged material can be restored by cleaning."
+      },
+      {
+        "title": "Smoke odor removal after fire",
+        "text": "Odor work should start with the affected materials and source of residue. We will explain the cleaning or removal included in the scope and how the result will be reviewed. Masking an odor does not describe a complete restoration scope."
+      },
+      {
+        "title": "Smoke-damaged walls and ceilings",
+        "text": "Cleaning, sealing where appropriate, and repainting are different tasks. We will identify the included tasks and explain any findings that could change the plan. Contents, ventilation systems, and specialty items should be discussed individually rather than assumed to be covered."
+      }
+    ],
+    "checklist": [
+      "Fire location and the rooms where residue or odor is noticeable",
+      "Materials and belongings you want evaluated",
+      "Previous cleaning and any access restrictions"
+    ],
+    "estimate": "The extent of residue, finishes, access, and material replacement decisions drive the estimate. This page covers smoke from fire; describe other odor sources separately so we can confirm whether the request fits the available service.",
+    "related": [
+      "F1",
+      "F4",
+      "F5"
+    ]
+  },
+  {
+    "id": "S2",
+    "slug": "toilet-overflow-cleanup",
+    "name": "Toilet overflow cleanup",
+    "parent": "sewage-backup-cleanup",
+    "intro": "Toilet overflow cleanup helps when water or sewage has spread across your bathroom and reached carpet, cabinets, or the room below. Stopping the overflow still leaves you with a space that needs cleanup and decisions about wet materials. We assess the source and extent of the spill, then explain the removal, cleaning, and drying work while plumbing repairs are handled separately.",
+    "description": "Toilet overflow cleanup in DFW. Discuss affected materials, cleanup, drying, and next steps with Go Green Restoration TX Inc. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Bathroom sewage cleanup",
+        "text": "An overflow involving sewage needs a scope that accounts for affected surfaces and materials. Describe where the water traveled, including carpet, cabinets, and rooms below. The plumbing repair and property cleanup should have clearly assigned providers."
+      },
+      {
+        "title": "Toilet sewage backup cleanup",
+        "text": "A recurring backup may require drain or sewer investigation by the appropriate plumbing provider. Removing the overflow does not correct a blocked or damaged line. Share the plumber’s findings so source repair and restoration can be coordinated."
+      },
+      {
+        "title": "Toilet overflow carpet cleanup",
+        "text": "Carpet, padding, wall bases, and subflooring may require different removal or cleaning decisions. The source and site conditions matter; do not assume extraction alone will make every material suitable to keep. We will itemize disposal, cleaning, drying, and repairs in the agreed scope."
+      }
+    ],
+    "checklist": [
+      "Overflow source, start time, and whether it continues",
+      "Affected flooring, adjoining rooms, and the floor below",
+      "Plumbing findings and access arrangements"
+    ],
+    "estimate": "The extent of spread, affected materials, access, and removal needs influence the proposal. Drying and reconstruction can continue after the visible overflow is gone; we will explain the remaining stages and the milestones for returning the area to use.",
+    "related": [
+      "W8",
+      "W7",
+      "S4"
+    ]
+  },
+  {
+    "id": "W5",
+    "slug": "ac-leak-water-damage-cleanup",
+    "name": "AC leak water damage cleanup",
+    "parent": "water-damage-restoration",
+    "intro": "AC leak water damage cleanup helps when your air conditioner has left a wet ceiling, a puddle around the unit, or damp flooring in a nearby room. Fixing the AC leak does not remove the water already inside your building materials. We evaluate the affected area and handle the property cleanup and drying while the HVAC provider addresses the equipment problem.",
+    "description": "AC leak water damage cleanup in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "AC condensate overflow cleanup",
+        "text": "Tell us where the unit is located and where water appeared. A leak above the ceiling may affect insulation and rooms below, while a closet-mounted unit can wet nearby flooring. We review the affected areas and plan access before defining extraction, removal, and drying tasks."
+      },
+      {
+        "title": "HVAC drain pan overflow cleanup",
+        "text": "Share any findings from the HVAC technician, including whether a drain line, pan, or connection was involved. Correcting that source and restoring the building materials are separate parts of the job. Keeping those records together helps coordinate the work."
+      },
+      {
+        "title": "Air conditioner ceiling water damage",
+        "text": "Ceiling damage may require opening an area to reach wet materials. We explain the proposed removal limits and how additional findings will be handled. Drying and ceiling reconstruction should have separate milestones so finish repairs follow the cleanup findings."
+      }
+    ],
+    "checklist": [
+      "AC location and the rooms affected",
+      "Whether the leak has stopped and an HVAC visit is arranged",
+      "Any openings, prior cleanup, or moisture readings"
+    ],
+    "estimate": "Access around the equipment, wet insulation, concealed water, and the floor or ceiling assembly affect the estimate. The schedule also depends on resolving the leak; HVAC diagnosis and equipment repair are identified separately from restoration.",
+    "related": [
+      "W9",
+      "W7",
+      "M3"
+    ]
+  },
+  {
+    "id": "W10",
+    "slug": "crawl-space-water-removal",
+    "name": "Crawl space water removal",
+    "parent": "water-damage-restoration",
+    "intro": "Crawl space water removal helps when an inspection or a look through the access opening reveals standing water beneath your home. You need to find out how far it has spread and arrange removal without trying to reach the area yourself. We review access and the water source, remove pooled water within the agreed scope, and explain the drying or material cleanup that follows.",
+    "description": "Crawl space water removal in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Standing water in crawl space removal",
+        "text": "Water beneath the house can be difficult to judge from the access opening. Our visit considers access, the extent of water, and affected building materials before extraction is scoped. Share what you can observe without entering the space yourself."
+      },
+      {
+        "title": "Crawl space flood cleanup",
+        "text": "A plumbing leak and outdoor water entering beneath a building can require different cleanup plans. Explain when the water appeared and whether it returns after rain. If sewage is involved, the request belongs under crawl space sewage cleanup so the source is accounted for from the start."
+      },
+      {
+        "title": "Crawl space drying service",
+        "text": "Removing pooled water is followed by an evaluation of remaining moisture in affected materials. We discuss equipment access, monitoring, and material removal if needed. Drainage improvements, foundation repair, and encapsulation are separate decisions rather than assumed parts of extraction."
+      }
+    ],
+    "checklist": [
+      "Access-opening location and any known clearance restrictions",
+      "Suspected water source and whether it is still entering",
+      "Plumber or drainage-provider findings already available"
+    ],
+    "estimate": "The access route, water extent, affected insulation or wood, and drying conditions influence the price and duration. The proposal should distinguish water extraction from drying, disposal, and any separate source repairs.",
+    "related": [
+      "W7",
+      "M6",
+      "S4"
+    ]
+  },
+  {
+    "id": "M5",
+    "slug": "attic-mold-remediation",
+    "name": "Attic mold remediation",
+    "parent": "mold-remediation",
+    "intro": "Attic mold remediation helps when you or an inspector find suspected mold on attic framing, roof decking, or nearby materials. You may already have repaired a roof leak and now need to understand what remains affected above the rooms you live in. We help define the remediation scope, attic access, and any separate moisture repairs or assessment needed before the work proceeds.",
+    "description": "Attic mold remediation in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Attic mold removal and the moisture source",
+        "text": "Tell us whether the concern followed a roof leak, recurring condensation, or another known moisture problem. During planning, we review the location of affected materials and any repair findings. A remediation scope and a roof or ventilation repair should each identify the responsible provider."
+      },
+      {
+        "title": "Attic sheathing and roof decking mold remediation",
+        "text": "Roof decking, framing, and adjacent materials need evaluation within the project scope. The plan should explain which materials will be addressed, how the area will be accessed, and how findings beyond the initial scope are handled. Cleaning a material and repairing a damaged roof assembly are different tasks."
+      },
+      {
+        "title": "Attic insulation mold removal",
+        "text": "Insulation can limit access to affected surfaces and may need a separate retain-or-remove decision. We will explain whether removal, disposal, and replacement are included. The sequence should leave room for any independent assessment or clearance requirements before restoration is completed."
+      }
+    ],
+    "checklist": [
+      "Location of the attic opening and any access limitations",
+      "Roof, ventilation, or plumbing findings",
+      "Photos or assessment documents already available"
+    ],
+    "estimate": "Attic clearance, affected material extent, insulation access, and source repairs affect the schedule. The estimate identifies the remediation provider and separates assessment, clearance, and building repairs where applicable.",
+    "related": [
+      "M4",
+      "M6",
+      "W4"
+    ]
+  },
+  {
+    "id": "M6",
+    "slug": "crawl-space-mold-remediation",
+    "name": "Crawl space mold remediation",
+    "parent": "mold-remediation",
+    "intro": "Crawl space mold remediation helps when growth is found on wood framing or other materials beneath your home. You may have a recent plumbing leak or flooding history and need to address the affected surfaces without overlooking continuing moisture. We help arrange a scope for access, remediation, and follow-up work, with water removal or structural repairs identified separately when needed.",
+    "description": "Crawl space mold remediation in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Under house mold removal",
+        "text": "Tell us where the concern was observed and whether standing water or a plumbing leak is also present. The plan needs to account for both the affected material and any continuing moisture. Water extraction and remediation may be separate stages of the same property restoration."
+      },
+      {
+        "title": "Floor joist mold removal",
+        "text": "Floor joists and nearby subflooring need their own evaluation rather than a blanket cleaning promise. The defined scope should identify surfaces to be addressed and how other damage will be documented. Structural repair, if needed, is a separate decision from remediation."
+      },
+      {
+        "title": "Crawl space mold cleanup and follow-up",
+        "text": "Access, containment arrangements, material handling, and cleanup belong in the work plan. We will explain which moisture repairs remain and whether independent documentation is required before the next stage. Encapsulation or drainage construction is not automatically included in a remediation estimate."
+      }
+    ],
+    "checklist": [
+      "Known access restrictions beneath the building",
+      "Recent leaks, flooding, and source repairs",
+      "Affected materials noted in any existing assessment"
+    ],
+    "estimate": "Limited clearance, material extent, insulation, and the moisture source affect the estimate. We will identify the provider, approved scope, and completion steps in writing, including any separate assessment or clearance.",
+    "related": [
+      "W10",
+      "M4",
+      "S4"
+    ]
+  },
+  {
+    "id": "M7",
+    "slug": "mold-contaminated-contents-cleaning",
+    "name": "Mold contaminated contents cleaning",
+    "parent": "mold-remediation",
+    "intro": "Mold contaminated contents cleaning helps when belongings have been exposed to mold and you do not know what can be kept. Furniture and other possessions may need different decisions from the walls and floors around them. We help assess the items you want evaluated and agree on cleaning, handling, or removal options without promising that every belonging can be restored.",
+    "description": "Mold contaminated contents cleaning in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Mold-damaged furniture cleaning",
+        "text": "Furniture materials and construction affect whether cleaning is practical. Identify the items you want assessed and any visible changes before a restoration decision is made. We discuss the proposed work and its limits rather than promise that every item can be saved."
+      },
+      {
+        "title": "Mold-contaminated items cleaning",
+        "text": "An item list helps define what is included and keeps contents work distinct from building remediation. The scope should record any movement, cleaning, handling, and return arrangements. Specialty belongings need item-specific agreement on the appropriate provider and method."
+      },
+      {
+        "title": "Contents restoration or removal",
+        "text": "Some belongings may be candidates for cleaning while others need a different decision. We will document findings, proposed disposal, and scope changes for your approval. Installed carpet and other fixed building materials belong in the property-remediation scope rather than the contents inventory."
+      }
+    ],
+    "checklist": [
+      "Types and approximate number of belongings affected",
+      "Whether items remain in the affected rooms",
+      "Priority items and any assessment or insurance documentation"
+    ],
+    "estimate": "The item count, materials, condition, handling, and any agreed storage or specialist work influence the estimate. Contents cleaning and building remediation should be itemized separately, with restoration outcomes established item by item.",
+    "related": [
+      "M4",
+      "M3",
+      "F4"
+    ]
+  },
+  {
+    "id": "F3",
+    "slug": "fire-damaged-debris-removal",
+    "name": "Fire damaged debris removal",
+    "parent": "fire-smoke-damage-restoration",
+    "intro": "Fire damaged debris removal helps when a fire has left burned materials and damaged drywall or insulation standing between you and the next stage of repairs. Once access is authorized, you need a clear plan for what will be removed and which items will stay for further evaluation. We define the removal boundaries, handling, and disposal arrangements before work begins.",
+    "description": "Fire damaged debris removal in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Fire debris cleanup",
+        "text": "The first step is distinguishing debris and damaged materials from belongings or building elements that need further evaluation. We agree on the removal scope before work begins. Access restrictions and any pending inspections can affect the sequence."
+      },
+      {
+        "title": "Fire-damaged drywall and charred material removal",
+        "text": "The proposal should identify the initial removal limits and explain how additional damage will be recorded. Drywall, insulation, framing, and finishes do not all have the same repair needs. Structural decisions and utility work require coordination with the appropriate providers."
+      },
+      {
+        "title": "Fire damage demolition cleanup",
+        "text": "Removal, loading, disposal, and preparation for the next restoration stage should be visible in the estimate. If a material needs specialist testing or handling, that work must be resolved through the appropriate provider before it is disturbed. General fire-debris cleanup is not a claim of hazardous-material abatement."
+      }
+    ],
+    "checklist": [
+      "Access authorization and inspection restrictions",
+      "Areas already identified for removal",
+      "Items to retain and arrangements for approving changes"
+    ],
+    "estimate": "Material volume, access, disposal requirements, and the defined demolition limits affect cost. Reconstruction follows its own scope; removing debris does not establish that structural or utility repairs are complete.",
+    "related": [
+      "F2",
+      "F4",
+      "F6"
+    ]
+  },
+  {
+    "id": "F4",
+    "slug": "fire-damaged-contents-cleaning",
+    "name": "Fire damaged contents cleaning",
+    "parent": "fire-smoke-damage-restoration",
+    "intro": "Fire damaged contents cleaning helps when smoke, soot, heat, or firefighting water has affected your furniture and belongings. You may need everyday items back while deciding what can be restored and what cannot. We begin with an inventory, discuss your priorities, and agree on cleaning and handling arrangements for the items included in the scope.",
+    "description": "Fire damaged contents cleaning in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Smoke-damaged furniture cleaning",
+        "text": "Upholstery, wood, finishes, and other materials can need different treatment or replacement decisions. We evaluate the requested items and explain the proposed approach. A building-cleanup estimate does not automatically include every piece of furniture inside it."
+      },
+      {
+        "title": "Fire damage pack out",
+        "text": "When belongings need to be moved for restoration, the plan should record the inventory, destination, handling, and return arrangements. Identify items you need access to during the work. Transport, storage, and cleaning should be clear line items in the agreed scope."
+      },
+      {
+        "title": "Clothing, documents, and specialty belongings",
+        "text": "Describe textiles, papers, electronics, and other specialty items individually so the appropriate provider and options can be identified. Different belongings may need different restoration paths. We confirm what is included before work begins and do not assume every heat- or smoke-affected item is recoverable."
+      }
+    ],
+    "checklist": [
+      "Types and approximate quantity of affected belongings",
+      "Items needed soon and items with particular significance",
+      "Any inventory, photographs, or insurer instructions already available"
+    ],
+    "estimate": "Material condition, item count, pack-out requirements, storage, and specialist handling influence the estimate. Record cleaning, disposal approvals, and return arrangements separately from the building restoration schedule.",
+    "related": [
+      "F2",
+      "F3",
+      "M7"
+    ]
+  },
+  {
+    "id": "F5",
+    "slug": "fire-extinguisher-residue-cleanup",
+    "name": "Fire extinguisher residue cleanup",
+    "parent": "fire-smoke-damage-restoration",
+    "intro": "Fire extinguisher residue cleanup helps when a discharge leaves powder or other residue across your kitchen, work area, or belongings. The immediate incident may be over, but the material has reached surfaces and equipment you still need to use. We identify the extinguishing agent and affected areas, then define the cleanup scope and any separate equipment evaluation.",
+    "description": "Fire extinguisher residue cleanup in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Dry chemical extinguisher cleanup",
+        "text": "The type of extinguishing agent matters when planning the work. A photo of the label and a description of the affected rooms help prepare the visit. We evaluate the surfaces and items involved before agreeing on cleaning methods and removal limits."
+      },
+      {
+        "title": "Fire extinguisher powder cleanup",
+        "text": "Residue can reach shelving, cabinets, furnishings, and equipment beyond the discharge point. The estimate should identify those areas individually rather than cover only the visible deposit. Appliance or electronic-equipment evaluation is assigned separately where needed."
+      },
+      {
+        "title": "Commercial extinguisher discharge cleanup",
+        "text": "For a business, tell us about access hours, affected work areas, and who can approve the scope. Cleanup scheduling should account for the operations that use those spaces. Replacement or servicing of the extinguisher is separate from cleaning the property."
+      }
+    ],
+    "checklist": [
+      "Extinguisher type or a photograph of its label",
+      "Rooms, surfaces, and belongings affected",
+      "Whether fire, smoke, or water damage also needs attention"
+    ],
+    "estimate": "The agent, spread of residue, surface materials, and equipment access affect the estimate. A discharge without a fire can need a different scope from a fire involving smoke, water, and damaged building materials.",
+    "related": [
+      "F1",
+      "F2",
+      "F4"
+    ]
+  },
+  {
+    "id": "F6",
+    "slug": "emergency-board-up-after-fire",
+    "name": "Emergency board up after fire",
+    "parent": "fire-smoke-damage-restoration",
+    "intro": "Emergency board up after fire helps when damaged windows or doors leave your property open while you arrange restoration. You need temporary closure of the affected openings and a clear plan for access during inspections and repairs. Once site access is authorized, we assess the openings and confirm the boarding scope and availability for your address.",
+    "description": "Emergency board up after fire in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Fire-damaged window boarding",
+        "text": "Describe the number and location of damaged windows or other openings, including their height above the ground. The visit establishes access and the proposed temporary closure. Permanent window or door replacement is a separate repair scope."
+      },
+      {
+        "title": "House fire board up service",
+        "text": "We coordinate with the person authorized to approve work and the access conditions for the property. Tell us whether authorities have released the site and whether inspections remain pending. Temporary boarding does not establish that the building is ready for occupancy."
+      },
+      {
+        "title": "Commercial fire board up",
+        "text": "Commercial properties may have larger openings, tenant access needs, and designated approval contacts. Share those details when calling so the scope can account for them. The plan should identify which openings are being addressed and how follow-up access will be managed."
+      }
+    ],
+    "checklist": [
+      "Site address and contact authorized to approve work",
+      "Number, location, and approximate size of openings",
+      "Access release, height restrictions, and inspection arrangements"
+    ],
+    "estimate": "Opening sizes, height, access, and material requirements affect the estimate. Arrival timing is confirmed for your address and current availability; temporary boarding and permanent reconstruction have separate schedules.",
+    "related": [
+      "F3",
+      "F1",
+      "F2"
+    ]
+  },
+  {
+    "id": "S4",
+    "slug": "crawl-space-sewage-cleanup",
+    "name": "Crawl space sewage cleanup",
+    "parent": "sewage-backup-cleanup",
+    "intro": "Crawl space sewage cleanup helps when a leaking or backed-up sewer line has left sewage beneath your home. Even after a plumber stops the source, you still need the affected area cleaned and a decision about contaminated materials. We review access and the extent of the spill, then define removal, cleaning, drying, and any additional restoration work.",
+    "description": "Crawl space sewage cleanup in DFW. Contact Go Green Restoration TX Inc about affected materials, the work scope, and an estimate. Call (469) 727-3217.",
+    "sections": [
+      {
+        "title": "Sewage removal from a crawl space",
+        "text": "The plan begins with the source, access conditions, and affected areas beneath the building. Removal and cleanup need to account for where the sewage traveled, not just the point where it was first noticed. Share observations or existing inspection photos without entering the area to collect them."
+      },
+      {
+        "title": "Sewage pipe leak under house cleanup",
+        "text": "A plumbing provider handles the leaking or blocked line while the restoration scope addresses the affected property. Keep the source-repair findings available to coordinate those stages. Cleaning up the spill does not repair the pipe or establish that the backup cannot recur."
+      },
+      {
+        "title": "Under house sewage cleanup and affected materials",
+        "text": "Insulation, wood, and other materials may need different cleaning or removal decisions. The estimate should identify extraction, material handling, disposal, cleaning, and drying as applicable to the findings. Any specified disinfection and later repairs should be clearly included or separately assigned."
+      }
+    ],
+    "checklist": [
+      "Known sewage source and plumbing-repair status",
+      "Access-opening location and any reported clearance limits",
+      "Affected materials and previous cleanup or inspection records"
+    ],
+    "estimate": "Access, extent of spread, affected materials, and disposal needs influence the estimate. Source repair, cleanup, drying, and reconstruction may involve different milestones and providers, so the sequence should be agreed before work begins.",
+    "related": [
+      "W10",
+      "M6",
+      "S2"
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import images from '../data/compact-service-images.json';
+import topics from '../utils/commercial-expansion-topics';
+import articles from '../data/blog-articles.json';
+import {resolveCityLink} from '../utils/service-area-cities';
+import serviceCities from '../utils/commercial-service-cities';
+import {commercialCityCopies as copies, isCommercialCityAvailable, isCommercialPathReleased, commercialPreview} from '../utils/commercial-city-editorial';
+const {topic,city,copy} = Astro.props;
+const page = copy || topic;
+const bodyDisclosure = page.sections.flatMap(section => section.paragraphs || []).join(" ");
+const hasProviderDisclosure = ["license application is pending", "appropriately licensed partner companies", "Independent assessment"].every(text => bodyDisclosure.includes(text));
+const heading = `${topic.name}${city ? ` in ${city.name}` : ''}`;
+const path = `/commercial/${topic.slug}/${city ? `${city.slug}/` : ''}`;
+const image = images[topic.image as keyof typeof images];
+const relatedCity = city && isCommercialCityAvailable(topic.related,city.slug) && copies[`${topic.related}/${city.slug}`];
+const description = city ? `${heading}. Discuss affected spaces, authorized access, documented progress and a property estimate with Go Green Restoration TX Inc.` : topic.description;
+const cityRoute = (slug: string) => city ? resolveCityLink(`/${slug}/${city.slug}/`) : `/services/${slug}/`;
+const cityLabel = (slug: string) => city && cityRoute(slug) === `/${slug}/${city.slug}/` ? ` in ${city.name}` : ' process';
+const hubPath = city ? resolveCityLink(`/locations/dfw-metro/${city.slug}/`) : '/locations/dfw-metro/';
+const isDraft = commercialPreview || (city && !isCommercialPathReleased(path));
+const cluster = {'mold-remediation':'mold','water-damage-restoration':'water-damage','fire-smoke-damage-restoration':'fire-damage','sewage-backup-cleanup':'sewage-plumbing'}[topic.parent];
+const guides = articles.filter(article => article.cluster === cluster && (!city || article.slug.endsWith(`-${city.slug}`))).slice(0,2);
+const authoredCities = city ? [] : serviceCities.filter(item => isCommercialCityAvailable(topic.slug,item.slug) && copies[`${topic.slug}/${item.slug}`]);
+const schema = {'@context':'https://schema.org','@type':'WebPage',name:heading,url:`https://gogreenrestorationtx.com${path}`,description};
+---
+<BaseLayout title={`${heading} | Request an Estimate | Go Green Restoration TX Inc`} description={description} canonical={`https://gogreenrestorationtx.com${path}`} noindex={Boolean(isDraft)} omitOfficeCopy={true} schema={[schema]}>
+  <Breadcrumbs items={[{name:'Home',url:'/'},{name:'Commercial',url:'/commercial/'},{name:topic.name,url:`/commercial/${topic.slug}/`},...(city ? [{name:city.name,url:path}] : [])]} />
+  <article class="commercial-page max-w-5xl mx-auto px-4 py-10">
+    {isDraft && <p class="text-sm mb-5">Review draft · excluded from production builds and indexing. <a href="/commercial-expansion-preview/" class="underline">Browse commercial drafts</a></p>}
+    <h1 class="font-heading text-4xl lg:text-5xl font-extrabold mb-6">{heading}</h1>
+    <p data-commercial-copy class="text-lg mb-6">{page.intro}</p>
+    <div class="flex flex-col sm:flex-row gap-3 mb-8">
+      <a href="tel:+14697273217" class="bg-brand-green text-white font-bold px-6 py-4 rounded-lg text-center">Call (469) 727-3217</a>
+      <a href="/contact/" class="bg-brand-brown text-white font-bold px-6 py-4 rounded-lg text-center">Request a property estimate</a>
+    </div>
+    <figure class="mb-10">
+      <img src={image.src} srcset={`${image.smallSrc} 640w, ${image.src} 1280w`} sizes="(max-width:640px) 100vw, 960px" width={image.width} height={image.height} alt={`${topic.name}: ${topic.imageDescription || (topic.parent === 'mold-remediation' ? 'illustrated opened wall showing affected framing and a controlled work area' : 'illustrated room with an opened wall, air movers and a dehumidifier for drying')}`} fetchpriority="high" class="w-full rounded-xl" />
+      <figcaption class="text-sm mt-2">Higgsfield-generated service illustration; not a photograph of a local project.</figcaption>
+    </figure>
+    {page.sections.map(section => <section data-commercial-copy class="mb-8"><h2>{city && !section.heading.includes(heading) ? section.heading.replace(topic.name,heading) : section.heading}</h2>{section.paragraphs?.map(text => <p>{text}</p>)}{section.bullets?.length > 0 && <ul>{section.bullets.map(text => <li>{text}</li>)}</ul>}</section>)}
+    {page.checklist && <section data-commercial-copy class="mb-8"><h2>Information for the property request</h2><ul>{page.checklist.map(text => <li>{text}</li>)}</ul></section>}
+    <section class="mb-8"><h2>Related services and property planning</h2><ul>
+      <li><a href={`/services/${topic.parent}/`}>Full {topic.parent.replaceAll('-',' ')} process</a></li>
+      {city && <li><a href={cityRoute(topic.parent)}>General {topic.parent.replaceAll('-',' ')}{cityLabel(topic.parent)}</a></li>}
+      {city && <li><a href={`/commercial/${topic.slug}/`}>{topic.name} across DFW</a></li>}
+      <li><a href={`/commercial/${topic.related}/${relatedCity ? `${city.slug}/` : ''}`}>{topics.find(item => item.slug === topic.related)?.name}</a></li>
+      <li><a href="/commercial/property-management-restoration/">Restoration for property managers</a></li>
+      <li><a href="/commercial/hoa-restoration-services/">HOA restoration planning</a></li>
+      {city && <li><a href={hubPath}>{hubPath === `/locations/dfw-metro/${city.slug}/` ? city.name : "DFW"} restoration overview</a></li>}
+      {city && isCommercialCityAvailable("property-management-restoration",city.slug) && copies[`property-management-restoration/${city.slug}`] && <li><a href={`/commercial/property-management-restoration/${city.slug}/`}>Property manager restoration in {city.name}</a></li>}
+      {city && isCommercialCityAvailable("hoa-restoration-services",city.slug) && copies[`hoa-restoration-services/${city.slug}`] && <li><a href={`/commercial/hoa-restoration-services/${city.slug}/`}>HOA restoration services in {city.name}</a></li>}
+      {topic.reuseExistingRoutes && ["mold-remediation","fire-smoke-damage-restoration","sewage-backup-cleanup","construction-remodeling"].map(slug => <li><a href={cityRoute(slug)}>{slug.replaceAll("-"," ")}{cityLabel(slug)}</a></li>)}
+      {topic.links.map(slug => <li><a href={`/services/${slug}/`}>{slug.replaceAll('-',' ')}</a></li>)}
+      <li><a href={`/resources/${cluster}/`}>{cluster.replaceAll("-"," ")} guides and articles</a></li>
+      {guides.map(guide => <li><a href={`/resources/${guide.cluster}/${guide.slug}/`}>{guide.title}</a></li>)}
+    </ul></section>
+    {authoredCities.length > 0 && <section class="mb-8"><h2>{topic.name} by city</h2><ul class="grid grid-cols-2 sm:grid-cols-3 gap-x-6">{authoredCities.map(item => <li><a href={`/commercial/${topic.slug}/${item.slug}/`}>{item.name}</a></li>)}</ul></section>}
+    {(topic.parent === 'mold-remediation' || topic.requiresMoldDisclosure) && !hasProviderDisclosure && <p class="text-sm border-t pt-5 mb-8">Go Green Restoration TX Inc welcomes mold inquiries of any size. While our Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. Provider and scope are identified before work begins. Independent assessment and clearance are separate services.</p>}
+    <section class="bg-brand-gray-50 p-6 rounded-xl"><h2>Discuss the affected property</h2><p>Call <a href="tel:+14697273217">(469) 727-3217</a> or <a href="/contact/">send a service request</a> with the affected spaces and designated client contact. We’ll discuss access, current conditions and the next practical step.</p></section>
+  </article>
+</BaseLayout>
+<style>
+  .commercial-page h2{font-size:1.5rem;font-weight:700;line-height:1.3;margin-bottom:1rem}
+  .commercial-page section p{line-height:1.8;margin-bottom:1rem}
+  .commercial-page ul{list-style:disc;padding-left:1.4rem}
+  .commercial-page li{margin-bottom:.6rem}
+  .commercial-page section a{text-decoration:underline;color:#775130}
+  @media(max-width:480px){.commercial-page h1{font-size:2.1rem}}
+</style>

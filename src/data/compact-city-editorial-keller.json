@@ -1,0 +1,746 @@
+{
+  "emergency-water-extraction/keller": {
+    "intro": "Emergency water extraction in Keller helps when a supply leak has reached a hallway and several closed rooms before you discover it. You may know where the water started but not which floor coverings are affected. We will organize removal around accessible findings and explain what remains to be evaluated before the rooms are returned to their usual arrangement.",
+    "sections": [
+      {
+        "title": "Emergency water extraction across closed-room boundaries",
+        "text": "Doors and thresholds can make a spill appear confined even when water has passed underneath. We will review accessible transitions and identify the rooms included in the proposed task. The scope will distinguish inspected areas from locked or blocked spaces instead of treating a closed door as proof that the room beyond it stayed dry."
+      },
+      {
+        "title": "Establish entry without losing the approval trail",
+        "text": "We will identify who can provide keys and who can authorize work in the affected spaces. If those are different people, the communication arrangement should be clear before decisions arise. Any change based on a newly opened room will be explained rather than treated as an automatic extension of the initial removal request."
+      },
+      {
+        "title": "Evaluate each floor assembly on its own condition",
+        "text": "A hallway finish may lead into carpet, wood, or another assembly with different access needs. We will describe the proposed removal and follow-up evaluation for the included materials. Picking up visible water in one room does not establish the condition of every layer beneath a different finish in the next room."
+      },
+      {
+        "title": "Explain what the first stage has accomplished",
+        "text": "We will record where extraction occurred and identify retained material still needing drying or another decision. The next visit should have an understood purpose, whether that is moisture evaluation, access, or removal. Completed extraction will not be described as full restoration merely because the floor can be walked across again."
+      },
+      {
+        "title": "Keep reconstruction tied to the remaining findings",
+        "text": "Before new trim or flooring is installed, we will explain outstanding source, material, and moisture concerns. A separate mold-related issue will have an appropriate scope discussion. The repair provider can then plan from the condition record rather than assume every room opened during the first visit is ready to finish."
+      }
+    ],
+    "estimate": "Number of accessible rooms, flooring changes, water spread, and entry arrangements influence the estimate. We will separate immediate removal from later drying and reconstruction, identifying places where restricted access prevents a complete initial decision about affected materials.",
+    "checklist": [
+      "List closed rooms connected to the wet hallway.",
+      "Identify keys and the contact authorized to approve work.",
+      "Describe the source and any floor-covering changes between rooms."
+    ]
+  },
+  "burst-pipe-cleanup/keller": {
+    "intro": "Burst pipe cleanup in Keller helps when a repaired overhead line has left wet insulation and finishes across the room below. You may have a small plumbing opening but a larger area of visible change. We will review the accessible assembly and explain why cleanup, drying, and ceiling reconstruction need their own decisions after the pipe repair.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup below the source opening",
+        "text": "Water can travel within an assembly before appearing at the ceiling surface. We will distinguish the known pipe location from the accessible damaged material and explain further access proposed. The opening used by the plumber will not automatically define the full restoration boundary or prove that every nearby cavity is affected."
+      },
+      {
+        "title": "Review the source provider\u2019s observations",
+        "text": "Photographs and notes from the repair can clarify what was exposed while the line was accessible. We will retain that information alongside current findings rather than assume it substitutes for evaluation of adjoining material. Remaining service access will be identified before the opening is scheduled to close."
+      },
+      {
+        "title": "Define material handling above occupied space",
+        "text": "Insulation and ceiling finishes can require different removal or drying decisions. We will explain the proposed work and arrangements for the room beneath it. Separate fixture or trade responsibilities will be identified so the restoration scope does not silently imply authority to alter every installation near the opening."
+      },
+      {
+        "title": "Record what changes as access improves",
+        "text": "A larger exposed area may reveal conditions not visible during the first visit. We will explain those findings and any additional task before the scope expands. The owner should understand why more work is proposed rather than receive an undefined ceiling-restoration description that hides the decision boundary."
+      },
+      {
+        "title": "Give the repair crew a usable status",
+        "text": "We will record progress and explain remaining moisture, source, or separate remediation concerns. Reconstruction should address finish appearance after those dependencies are understood. A completed plumbing visit remains a source-repair milestone, not proof that all overhead materials are ready for replacement."
+      }
+    ],
+    "estimate": "Ceiling access, insulation, fixtures, and the water path affect cost and sequence. We will distinguish restoration from the pipe work and final finish repairs, explaining areas that require additional evaluation before the complete material boundary can be settled.",
+    "checklist": [
+      "Share the pipe repair location and available opening photographs.",
+      "Describe ceiling changes beyond the plumbing access.",
+      "Mention fixtures and belongings beneath the proposed work."
+    ]
+  },
+  "appliance-leak-cleanup/keller": {
+    "intro": "Appliance leak cleanup in Keller helps when a washing-machine incident has soaked a laundry floor and reached the wall shared with another room. The machine may be disconnected while the building material remains unresolved. We will explain the accessible spread and coordinate restoration decisions with the provider addressing the appliance or its connections.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup at a shared laundry wall",
+        "text": "The source side and adjoining room may have different finishes and inspection limits. We will review accessible surfaces where the reported water path warrants attention. The proposal will distinguish material evaluated on each side rather than assume the laundry-room boundary contains every affected layer."
+      },
+      {
+        "title": "Clarify the machine-service and building tasks",
+        "text": "A hose, connection, or appliance repair requires the appropriate provider\u2019s decision. We will record that status and identify access needed for restoration around it. Disconnecting or replacing the machine should not be mistaken for completing the wall and floor cleanup, nor should cleanup imply that mechanical servicing is included."
+      },
+      {
+        "title": "Account for stored supplies and fixed installations",
+        "text": "Cabinets, shelves, and stored belongings can conceal wet edges or restrict equipment arrangements. We will discuss handling included in the plan and identify separate item decisions. An obstructed area will remain documented instead of described as inspected simply because the open floor next to it is accessible."
+      },
+      {
+        "title": "Explain retained-material and removal choices",
+        "text": "Some exposed material may be proposed for drying while another layer needs removal or further evaluation. We will state the reason and boundary for each task. Repeated wetting or suspected growth will raise its own scope discussion rather than be assumed to resolve when the laundry floor looks clean."
+      },
+      {
+        "title": "Coordinate reinstallation from the work record",
+        "text": "We will explain progress and outstanding concerns before the machine, trim, or storage contents return. The repair and appliance contacts should know which tasks are complete and which require another step. A working appliance will remain distinct from readiness of the surrounding assembly."
+      }
+    ],
+    "estimate": "Shared-wall access, installation layout, affected floor layers, and service timing influence the estimate. We will separate restoration from appliance parts, connection work, contents handling, and reconstruction, identifying concealed areas that prevent the initial scope from being complete.",
+    "checklist": [
+      "Describe the incident and the shared room next to the laundry.",
+      "Share service findings and disconnection status.",
+      "Identify storage or cabinetry blocking wet edges."
+    ]
+  },
+  "storm-water-damage-cleanup/keller": {
+    "intro": "Storm water damage cleanup in Keller helps when rain has affected an exterior-facing room and several separate stains or wet edges appear after the same event. You may need to sort out which areas require interior restoration while the entry route is investigated. We will document accessible findings and explain the scope without assuming every mark has one proven cause.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup for several reported locations",
+        "text": "We will identify each area described and review what can be evaluated at the visit. A ceiling mark, window-side wall, and floor edge may have different access needs. The work boundary will distinguish observed conditions from unconfirmed connections between them rather than use the storm date as a substitute for material evaluation."
+      },
+      {
+        "title": "Preserve uncertainty about entry details",
+        "text": "Information from roofing, window, or other exterior providers can help coordinate the sequence. We will record what has been established and what remains under investigation. Interior drying will not be represented as permanent correction of an entry condition that another provider has not yet resolved."
+      },
+      {
+        "title": "Consider incident material as well as moisture",
+        "text": "Debris or residue carried into the room can affect cleaning and removal decisions. We will describe the evaluated condition and proposed tasks for included surfaces. The plan will not automatically treat outside water as identical to a known supply-line spill without considering the reported event."
+      },
+      {
+        "title": "Update the plan if new wetting occurs",
+        "text": "A subsequent rain or changed temporary repair may alter conditions before finishes are replaced. We will record the change and explain its effect on the next restoration task. A previous status should not be used to close a newly affected layer merely because the original appointment sequence is already arranged."
+      },
+      {
+        "title": "Connect completion to the repair responsibilities",
+        "text": "We will explain finished restoration work and remaining source, material, or separate evaluation needs. The repair provider should understand which areas were addressed and which remain limited by access. Reconstruction can then follow the actual condition instead of the disappearance of the most visible water."
+      }
+    ],
+    "estimate": "Number of affected locations, material assemblies, accessible entry information, and repeated wetting influence the proposal. We will separate interior tasks from exterior repair and final reconstruction, explaining where another evaluation is needed before a reliable boundary can be established.",
+    "checklist": [
+      "List each new stain or wet area noticed after the event.",
+      "Share exterior-provider findings.",
+      "Mention temporary repairs and any later water entry."
+    ]
+  },
+  "structural-drying-services/keller": {
+    "intro": "Structural drying services in Keller help when the leak is repaired but the lower wall remains damp behind removed baseboards. You may be ready to replace trim and need to understand whether the accessible opening is sufficient. We will explain the retained-material plan and the progress information needed before the wall edge is covered again.",
+    "sections": [
+      {
+        "title": "Structural drying services at the base of a wall",
+        "text": "A removed baseboard can expose useful information without making every interior layer visible. We will identify the material included in evaluation and the limits of that opening. The plan will not assume that a narrow access point establishes the condition of the entire wall cavity above or beside it."
+      },
+      {
+        "title": "Explain when another opening is proposed",
+        "text": "Additional access may be needed to evaluate or reach a specific affected layer. We will describe its purpose and which finish it would change before proceeding. That decision should be tied to the observed condition rather than a blanket assumption that every wet wall needs the same removal pattern."
+      },
+      {
+        "title": "Use progress to assess the arrangement",
+        "text": "We will record findings in the included areas and explain whether the setup is addressing the retained material as intended. A stalled or inaccessible section may require another decision. Equipment duration by itself will not be treated as proof that the whole assembly is ready for replacement trim."
+      },
+      {
+        "title": "Keep source and separate material concerns visible",
+        "text": "A repaired connection, persistent wetting, deterioration, or suspected growth may affect the next task differently. We will identify those conditions and the relevant provider responsibility. Continuing to dry will not be presented as an automatic solution to a material concern requiring its own evaluation or removal scope."
+      },
+      {
+        "title": "Provide the repair status before finishes return",
+        "text": "We will explain completed drying and remaining limitations to the person arranging reconstruction. The handoff will distinguish evaluated areas from those still concealed. Installing trim or repainting should follow that review rather than hide a lower-wall condition that has not been settled."
+      }
+    ],
+    "estimate": "Available wall access, retained layers, equipment arrangements, and observed progress influence cost and timing. We will distinguish drying from further removal and finish work, explaining any separate evaluation needed before the repair boundary can be considered complete.",
+    "checklist": [
+      "Describe baseboards or wall sections already removed.",
+      "Share source-repair information.",
+      "Identify the trim-replacement schedule and rooms with remaining dampness."
+    ]
+  },
+  "floor-water-damage-cleanup/keller": {
+    "intro": "Floor water damage cleanup in Keller helps when water has reached an area rug and the finished floor beneath it, leaving uncertainty about both the covering and the assembly below. You may have moved the rug but still see changes in the surface. We will separate contents decisions from building-material evaluation and explain the next cleanup or drying task.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup beneath movable coverings",
+        "text": "An area rug can conceal where the spill reached the finish and nearby edges. We will review accessible findings once handling arrangements are understood. The proposal will identify the building surfaces included rather than assume that removal of the rug establishes the full extent or condition of the flooring."
+      },
+      {
+        "title": "Keep the rug and the building scope separate",
+        "text": "The movable covering may need its own evaluation or specialist decision depending on material and exposure. We will explain what handling is included and what remains outside the floor-restoration task. A clean-looking floor will not be presented as proof that the rug is ready to return."
+      },
+      {
+        "title": "Evaluate transitions and fixed boundaries",
+        "text": "Water may reach adjoining material under furniture, trim, or a doorway. We will describe accessible inspection limits and the purpose of proposed further access. A single exposed patch should not be used to decide the condition of every concealed layer or the entire connected installation."
+      },
+      {
+        "title": "Explain retention and removal without a blanket outcome",
+        "text": "Surface changes and underlying material findings guide the proposed treatment. We will state the reason for drying, removal, or another evaluation and identify its boundary. The plan will not promise universal recovery of damaged flooring or automatic replacement of every neighboring section without support."
+      },
+      {
+        "title": "Coordinate the return of furnishings",
+        "text": "We will record completed work and explain remaining moisture or material concerns before coverings and furniture conceal the area. The flooring provider may have additional installation requirements for replacement products. Those decisions will remain distinct from the restoration status rather than assumed to be settled by appearance alone."
+      }
+    ],
+    "estimate": "Floor assembly, access beneath furnishings, the water path, and separate covering decisions influence the estimate. We will distinguish building cleanup from specialist item care and reconstruction, explaining any hidden layer that needs evaluation before the final scope is known.",
+    "checklist": [
+      "Describe the movable covering and flooring beneath it.",
+      "Tell us when the covering was moved.",
+      "Mention visible changes and nearby fixed features restricting access."
+    ]
+  },
+  "ceiling-water-damage-cleanup/keller": {
+    "intro": "Ceiling water damage cleanup in Keller helps when a ceiling has been patched after a leak but discoloration or dampness returns. You may need to know whether the source, concealed material, or earlier closure needs another look. We will review current accessible findings and repair history before explaining the proposed restoration task.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup after a previous patch",
+        "text": "The earlier repair record can show what was opened and replaced, but it may not establish the present concealed condition. We will retain that information and explain any evaluation limits. A returning mark will not be used alone to assign a specific cause or determine the entire removal boundary."
+      },
+      {
+        "title": "Reconnect with the source-repair information",
+        "text": "Tell us what provider addressed the original leak and whether a new investigation is underway. We will identify what is known and unresolved in the sequence. Repainting or replacing a patch will remain separate from correcting a source that may still need attention."
+      },
+      {
+        "title": "Explain access above the finish",
+        "text": "An opening may be proposed to evaluate insulation or another affected layer. We will state its purpose and the surrounding material it changes before work begins. The task should not become undefined demolition, and areas remaining inaccessible will not be described as evaluated by association."
+      },
+      {
+        "title": "Organize the room for overhead work",
+        "text": "Furniture, fixtures, and normal access below the ceiling can influence the plan. We will discuss handling and work-area arrangements included in the scope. Any separate trade responsibility or condition preventing the intended access will be identified rather than left to the finish contractor to resolve later."
+      },
+      {
+        "title": "Make the next closure a documented step",
+        "text": "We will record restoration progress and explain remaining source, moisture, or distinct remediation concerns. The repair contact can then plan the new finish from an understood status. A cleaner appearance immediately after patching will not be treated as confirmation that every concealed task has been completed."
+      }
+    ],
+    "estimate": "Previous work, access to concealed layers, source information, and room arrangements influence the proposal. We will separate restoration from source investigation and final finish repairs, explaining any additional evaluation needed before the recurrent concern can be fully scoped.",
+    "checklist": [
+      "Share previous patch and source-repair records.",
+      "Describe when the mark or dampness returned.",
+      "Identify fixtures and furnishings beneath the area."
+    ]
+  },
+  "bathroom-mold-removal/keller": {
+    "intro": "Bathroom mold removal in Keller helps when growth is reported near a bathroom ceiling or wall and routine cleaning has not explained why it returns. You may need to separate surface observations from a concealed moisture concern before planning repairs. We will review the history and available assessment information and explain the provider scope without diagnosing the whole room from appearance alone.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal for a recurring observation",
+        "text": "We will document where the concern appears, what has been cleaned, and what remains uncertain about the timing. Recurrence can justify further evaluation without proving a specific source or concealed extent. The proposed boundary will follow accessible findings and applicable assessment information rather than assume every nearby surface is affected."
+      },
+      {
+        "title": "Identify the moisture questions needing another provider",
+        "text": "Plumbing, ventilation-related observations, or other building conditions may need the appropriate evaluation. We will record the information supplied and distinguish it from assumptions. Remediation of material will not be presented as automatic correction of a cause that has not been established or addressed."
+      },
+      {
+        "title": "Explain access around finishes and fixtures",
+        "text": "Ceiling or wall layers may be obscured by installations or retained finishes. We will describe the purpose of proposed access and the material involved before removal. The scope should make clear what is evaluated and what remains concealed rather than equate one accessible surface with the entire room."
+      },
+      {
+        "title": "Keep the remediation sequence understandable",
+        "text": "The responsible removal and cleaning provider will be identified before work starts. Applicable independent assessment and clearance will be explained as separate services. We will not promise a testing outcome or use a general repair appointment as evidence that every evaluation step has been covered."
+      },
+      {
+        "title": "Return to repairs with a status record",
+        "text": "We will explain completed tasks and outstanding source, moisture, or material concerns before new finishes are installed. The repair contact should know the limits of the work as well as the area addressed. A cosmetic improvement will remain distinct from resolution of an underlying condition still awaiting action."
+      }
+    ],
+    "estimate": "Recurrence history, accessible assembly, assessed boundary, and source work affect the estimate. We will distinguish remediation from separate evaluations, trade repairs, and reconstruction, explaining where more information is needed before the final removal or cleaning scope can be settled.",
+    "checklist": [
+      "Describe the recurring locations and earlier cleaning.",
+      "Share existing assessment or repair information.",
+      "Mention fixtures and finishes that limit access."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/keller": {
+    "intro": "Kitchen cabinet mold removal in Keller helps when a leak beneath the sink has affected the cabinet base and water may have reached the wall behind a neighboring unit. You may need a defined plan before the installer decides what to replace. We will explain the accessible findings and provider responsibilities so remediation and cabinet reconstruction remain separate decisions.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal at an adjoining-unit boundary",
+        "text": "One open cabinet can reveal material that another unit still conceals. We will identify what has been evaluated and explain the purpose of proposed additional access. The scope will not assume that every cabinet must be removed or that the edge of the first unit is automatically the limit of the concern."
+      },
+      {
+        "title": "Review the connection repair and remaining access",
+        "text": "Plumbing work may already have stopped the source while disconnection or another visit is still required for cabinet handling. We will clarify those tasks with the relevant provider information. A repaired fitting is a different completion point from remediation of the surrounding building material."
+      },
+      {
+        "title": "Account for shared installation features",
+        "text": "Countertops, trim, and attachments can influence how one damaged component can be reached. We will describe those constraints and any handling outside the proposed scope. The plan should not rely on unspoken assumptions that the remediation provider or installer will perform all the other company\u2019s tasks."
+      },
+      {
+        "title": "Explain contents decisions before movement",
+        "text": "Items from the affected unit may need handling or a separate condition review. We will identify what is included and distinguish belongings awaiting further direction. Returning contents should not automatically follow a visible surface wipe when their own status or the enclosure\u2019s condition remains unresolved."
+      },
+      {
+        "title": "Provide the installation handoff after the work review",
+        "text": "We will record progress and explain remaining material, moisture, or applicable independent evaluation needs. The reconstruction contact will know what the exposed wall and floor require before replacement cabinetry conceals them. The agreed work sequence will guide installation rather than the delivery date alone."
+      }
+    ],
+    "estimate": "Connected cabinetry, source access, affected layers, and assessment needs influence the proposal. We will separate removal and cleaning from plumbing, independent services, contents work, and cabinet replacement, explaining uncertainty where another unit still prevents evaluation.",
+    "checklist": [
+      "Identify the damaged unit and adjoining cabinetry.",
+      "Share the sink-repair status and photographs.",
+      "Mention shared countertops and proposed replacement dates."
+    ]
+  },
+  "mold-remediation-after-water-damage/keller": {
+    "intro": "Mold remediation after water damage in Keller helps when belongings are moved after a leak and affected material is discovered behind them. You may have addressed the open floor while a wall base or storage corner remained hidden. We will review the current findings and earlier cleanup scope before explaining the separate remediation work and remaining source decisions.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in a newly accessible area",
+        "text": "The discovery may occur after the initial water task because furnishings or storage prevented an earlier view. We will distinguish that access history from an unsupported claim about when growth began. Current observations and assessment information will guide the proposed boundary rather than simply copying the original extraction area."
+      },
+      {
+        "title": "Review which prior tasks actually covered the space",
+        "text": "Photographs, removal records, and drying information can help establish what was addressed previously. We will use them alongside the present condition instead of treating an earlier invoice as proof of every concealed layer. Areas outside the previous scope will be identified clearly in the next proposal."
+      },
+      {
+        "title": "Keep contents and building work distinct",
+        "text": "Moved belongings may have their own condition or handling decisions separate from the wall or floor. We will explain which tasks are included and which require another scope. A remediation plan for the building should not silently promise cleaning or recovery of every item that occupied the affected corner."
+      },
+      {
+        "title": "Coordinate the unresolved source and provider roles",
+        "text": "We will record repair information available and identify dependencies that remain. The removal and cleaning provider and any applicable independent assessment or clearance will have separate roles. The sequence will not imply that completing one stage automatically settles every source and evaluation question."
+      },
+      {
+        "title": "Explain readiness before the area is refurnished",
+        "text": "Progress and remaining material or moisture concerns will be recorded before repairs and replacement contents return. The receiving area should have an understood status rather than become hidden behind storage again. The next provider will know what was addressed and what still requires attention."
+      }
+    ],
+    "estimate": "Newly available access, prior work, contents arrangements, and the assessed remediation boundary influence the estimate. We will separate additional building remediation from water tasks, independent services, and reconstruction, explaining any concealed section that prevents final scope confirmation.",
+    "checklist": [
+      "Describe what was moved when the concern was discovered.",
+      "Share previous cleanup records and source repairs.",
+      "Identify contents needing a separate decision."
+    ]
+  },
+  "mold-removal-behind-drywall/keller": {
+    "intro": "Mold removal behind drywall in Keller helps when a plumbing access panel or repair hole shows affected material farther inside the wall. You may need to decide how much additional opening is appropriate before the pipe repair is finished. We will explain the evaluated boundary and provider sequence without turning limited access into an unsupported claim about every cavity.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall from a small initial opening",
+        "text": "A narrow view can reveal a concern while leaving adjacent surfaces unknown. We will review assessment information and accessible findings before describing proposed expansion. Each access task should have an explained purpose, not follow an assumption that the entire wall is affected or that the first visible edge is the complete limit."
+      },
+      {
+        "title": "Coordinate source work with remediation access",
+        "text": "The plumber may need the same area to complete or check a repair. We will clarify the status and explain how those tasks relate to removal and cleaning. Utility work will remain the appropriate provider\u2019s responsibility rather than become implied by a broad remediation description."
+      },
+      {
+        "title": "Identify layers and attachments affected by opening",
+        "text": "Insulation, trim, cabinets, or other components may change the practical boundary of an access task. We will describe handling included in the scope and distinguish retained material from proposed removal. The owner should understand what the opening changes before the reconstruction provider is asked to repair it."
+      },
+      {
+        "title": "Explain the room arrangement during the task",
+        "text": "We will discuss access and separation arrangements for the agreed area and handling of nearby belongings. If additional material becomes involved, the reason for a scope change will be explained. An occupied-room requirement will be considered without promising unrestricted normal use of every affected space during work."
+      },
+      {
+        "title": "Close the wall after the status review",
+        "text": "We will record completed remediation and explain outstanding source, moisture, or applicable independent evaluation steps. The repair contact will need that information before installing new drywall. Replacing the access panel or finish should not conceal a condition still waiting on another provider\u2019s task."
+      }
+    ],
+    "estimate": "Opening limits, utility access, affected layers, and the assessed boundary shape cost and timing. We will separate removal and cleaning from trade work, independent services, and reconstruction, explaining further evaluation needed where the wall remains concealed.",
+    "checklist": [
+      "Share photographs through the original access opening.",
+      "Identify the plumbing task and its completion status.",
+      "Mention attached finishes that could restrict an expanded opening."
+    ]
+  },
+  "kitchen-fire-cleanup/keller": {
+    "intro": "Kitchen fire cleanup in Keller helps when a cooking incident has damaged the area around the range and left a film on nearby walls and cabinets. You may be arranging an appliance replacement while still needing decisions about the surrounding materials. We will define the cleanup scope and explain what requires separate evaluation before the new installation goes in.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup before appliance replacement",
+        "text": "Removing an appliance may expose surfaces not visible during the first review. We will identify those limits and explain how the accessible condition informs the proposal. The replacement schedule will not be used as proof that the surrounding wall, floor, or cabinet material has been addressed."
+      },
+      {
+        "title": "Distinguish residue from changed finishes",
+        "text": "A deposited film and heat-damaged material may need different responses. We will describe the evaluated surfaces and cleaning candidates without promising that every coating or panel can be recovered. Proposed replacement should have a stated basis rather than be hidden inside a general cleanup allowance."
+      },
+      {
+        "title": "Account for contents and fixed installations",
+        "text": "Items in cabinets, nearby shelving, and attached components can limit access or need separate handling. We will explain the tasks included and identify specialist or owner decisions. The room-cleanup scope should not imply servicing of equipment or restoration of every stored possession."
+      },
+      {
+        "title": "Review materials introduced during the response",
+        "text": "Water or extinguisher deposits can create additional concerns alongside smoke residue. We will record that information and explain its effect on the proposed work. One incident can require several distinct tasks, and the estimate should not conceal them behind an unsupported all-inclusive description."
+      },
+      {
+        "title": "Provide the installation-ready status accurately",
+        "text": "We will record progress and explain remaining material, moisture, or access concerns before reconstruction. The appliance and repair providers can then coordinate their work from the actual condition. A cleaned visible surface will remain distinct from completion of every task behind or beneath the old unit."
+      }
+    ],
+    "estimate": "Appliance access, finish condition, multiple residues, and contents handling influence the estimate. We will distinguish building cleaning from equipment evaluation, removal, and reconstruction, identifying areas that need further access before their treatment can be settled.",
+    "checklist": [
+      "Describe the source area and nearby affected surfaces.",
+      "Share appliance removal or replacement plans.",
+      "Mention response water or extinguisher material."
+    ]
+  },
+  "smoke-damage-cleanup/keller": {
+    "intro": "Smoke damage cleanup in Keller helps when belongings have been moved out after a fire and residue becomes visible on surfaces that were previously covered. You may need a revised room-cleaning plan before repairs start. We will review the exposed condition and explain what is included rather than assume the earlier visible-area cleanup addressed every surface behind the furniture.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup after a room is cleared",
+        "text": "New access can change the information available without establishing that every newly visible mark has the same cause. We will document current observations and review the incident history. The proposed boundary will distinguish surfaces evaluated now from those covered by earlier work or still inaccessible behind fixed installations."
+      },
+      {
+        "title": "Review the previous cleaning scope",
+        "text": "Records and photographs may show which areas were included and what remained blocked. We will use that information alongside current findings rather than treat an invoice as proof of the whole room\u2019s status. Any additional proposed task will have an explained purpose instead of simply repeating a general cleaning visit."
+      },
+      {
+        "title": "Evaluate material differences within the room",
+        "text": "Painted walls, unfinished shelving, coated trim, and other surfaces can present different treatment questions. We will identify candidates and limitations without promising the same result on all materials. A surface that remains changed after cleaning may require another decision rather than an unsupported assurance of complete recovery."
+      },
+      {
+        "title": "Separate contents status from building status",
+        "text": "Moved furniture and stored items may still need evaluation or cleaning under a separate scope. We will explain whether handling is included and what remains pending. A cleared room ready for surface work should not be mistaken for proof that the removed possessions are ready to return."
+      },
+      {
+        "title": "Give repairs a condition-based starting point",
+        "text": "We will record completed tasks and remaining residue, odor, or access concerns before replacement finishes are scheduled. Any further evaluation or removal will be explained. Reconstruction can then use the actual status instead of assuming that clearing the furniture completed every restoration decision."
+      }
+    ],
+    "estimate": "Newly exposed surfaces, earlier work, finish types, and contents arrangements influence the proposal. We will distinguish building cleaning from item recovery and reconstruction, identifying any area requiring further evaluation before the final task boundary can be defined.",
+    "checklist": [
+      "Share the earlier cleaning scope if available.",
+      "Describe surfaces exposed after belongings were moved.",
+      "Identify possessions still awaiting their own cleanup decision."
+    ]
+  },
+  "toilet-overflow-cleanup/keller": {
+    "intro": "Toilet overflow cleanup in Keller helps when the bathroom has been wiped but wet baseboards and nearby carpet show that the incident reached farther. You may need a clear scope before deciding what can remain. We will review the reported water condition and affected layers and explain why the building cleanup is separate from getting the fixture working again.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup beyond the cleaned surface",
+        "text": "A wiped tile floor does not establish the condition beneath trim or adjoining coverings. We will review accessible edges and explain where further evaluation is proposed. The scope will distinguish observed damage from material still hidden instead of assuming the visible cleanup settled every layer."
+      },
+      {
+        "title": "Clarify the fixture event and repair status",
+        "text": "Tell us whether the incident involved a wastewater backup or a supply-side leak and what the plumber found. We will retain uncertainty where the account is incomplete. That description informs the evaluation without assigning a condition merely because the water appeared in a bathroom."
+      },
+      {
+        "title": "Make carpet and wall-base decisions explicit",
+        "text": "Floor covering, padding, trim, and lower wall material can require separate handling decisions. We will describe what is proposed for removal, cleaning, or drying and the reason for its boundary. A small-looking spill will not automatically establish that all adjacent materials can remain unchanged."
+      },
+      {
+        "title": "Coordinate belongings and access",
+        "text": "Contents at floor level may obstruct the work or need their own condition review. We will explain handling included in the scope and tasks requiring another decision. Moving items out of the way should not imply that their exposure has been evaluated or that they can be returned immediately."
+      },
+      {
+        "title": "Explain what comes before finish replacement",
+        "text": "We will record progress and identify remaining cleaning, moisture, or separate evaluation concerns. The repair provider should understand those tasks before installing baseboards or flooring. A functioning toilet will remain a source-repair fact, not the completion record for every material reached by the incident."
+      }
+    ],
+    "estimate": "The incident condition, adjoining floor assemblies, wall-base access, and contents handling affect the estimate. We will separate cleanup from plumbing and reconstruction, explaining areas that need additional access before retention or removal decisions can be finalized.",
+    "checklist": [
+      "Describe the water source and plumber\u2019s findings.",
+      "Identify carpet or trim that remains affected.",
+      "Tell us what cleaning or contents movement has already occurred."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/keller": {
+    "intro": "AC leak water damage cleanup in Keller helps when a service technician reports wet insulation or surrounding material near the equipment while correcting a leak. You may have a functioning system again but no clear plan for the affected building assembly. We will explain the accessible restoration work and the remaining coordination with mechanical servicing.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup from a technician\u2019s finding",
+        "text": "The service report can identify the concern and access used during the repair. We will review that information alongside current conditions rather than assume the mechanical visit evaluated every surrounding layer. The proposed scope will distinguish the known finding from portions still concealed or blocked by the installation."
+      },
+      {
+        "title": "Keep source correction and material restoration distinct",
+        "text": "A repaired component or drainage task addresses a different question from the condition of nearby insulation, wall, or ceiling material. We will identify remaining source dependencies and explain the restoration tasks proposed. Operating equipment will not be used as evidence that the assembly around it is ready to close."
+      },
+      {
+        "title": "Explain additional access around equipment",
+        "text": "The installation may restrict how affected material can be reached. We will describe the purpose of proposed openings and identify trade responsibilities for anything requiring servicing or disconnection. The restoration estimate should not silently include changes to mechanical equipment simply because it occupies the work area."
+      },
+      {
+        "title": "Review recurrence without inventing a timeline",
+        "text": "If previous dampness or staining is known, share the observations and repair history. We will retain uncertainty about duration where it has not been established. Suspected growth or deterioration will be identified for an appropriate scope rather than assumed to be resolved by another routine drying visit."
+      },
+      {
+        "title": "Coordinate the final closure from both work records",
+        "text": "We will explain completed restoration and remaining material or moisture concerns. The mechanical provider may also have a follow-up access need that affects reconstruction. New finishes should follow that status review instead of concealing a task that remains on either provider\u2019s list."
+      }
+    ],
+    "estimate": "Equipment access, affected layers, repeat exposure, and source-service timing influence cost and sequence. We will distinguish building cleanup from mechanical work and reconstruction, explaining any concealed section that needs another evaluation before the final scope is known.",
+    "checklist": [
+      "Share technician notes and photographs of affected material.",
+      "Describe what mechanical task was completed.",
+      "Mention previous wetting and remaining service access."
+    ]
+  },
+  "crawl-space-water-removal/keller": {
+    "intro": "Crawl space water removal in Keller helps when pooled water is found near stored material or debris beneath the building and you need to understand the next cleanup step. The visible water may be only part of what prevents evaluation. We will define reachable areas, handling decisions, and source coordination before treating extraction as completion of the whole space.",
+    "sections": [
+      {
+        "title": "Crawl space water removal around obstructions",
+        "text": "Debris or stored material can restrict equipment reach and hide surfaces needing evaluation. We will explain handling included in the proposed task and distinguish items requiring another decision. The accessible removal boundary will not automatically become a claim that every concealed portion beneath the structure has been inspected."
+      },
+      {
+        "title": "Record the available source information",
+        "text": "We will review what is known about water entry and any provider already investigating it. Removing the water present is separate from correcting a leak or other cause. The proposal will preserve unresolved questions rather than promise permanent prevention from an extraction task alone."
+      },
+      {
+        "title": "Evaluate what becomes visible afterward",
+        "text": "As water or obstructions are addressed, insulation and surrounding surfaces may reveal additional concerns. We will explain those observations and the purpose of follow-up work. Components will not be described as suitable to retain simply because the material around them is now easier to see."
+      },
+      {
+        "title": "Keep access limitations in the plan",
+        "text": "Opening size, travel route, and clearance affect where the work can reach. We will identify restrictions and any additional arrangement needed before extending the task. A partial evaluation will remain described with its limits rather than converted into an unsupported whole-building condition statement."
+      },
+      {
+        "title": "Provide the next repair stage an understood status",
+        "text": "We will record completed removal and remaining moisture, material, or separate cleanup concerns. A wastewater or mold-related finding may require another scope before replacement components proceed. The handoff will explain that sequence instead of treating absence of standing water as proof that all restoration is finished."
+      }
+    ],
+    "estimate": "Obstruction handling, equipment reach, source status, and newly exposed materials influence the estimate. We will distinguish extraction from debris work, repairs, and additional evaluation, explaining uncertainties that prevent the initial removal proposal from defining every subsequent task.",
+    "checklist": [
+      "Describe stored material or debris near the pooled water.",
+      "Share source findings if available.",
+      "Identify entry openings and any access limits already noted."
+    ]
+  },
+  "attic-mold-remediation/keller": {
+    "intro": "Attic mold remediation in Keller helps when affected surfaces are reported in more than one accessible section above the ceiling. You may need to understand whether those observations belong in one scope and what remains uninspected. We will review the available findings and provider responsibilities before another repair or insulation task covers the area.",
+    "sections": [
+      {
+        "title": "Attic mold remediation across separate reported areas",
+        "text": "Photographs from different positions may not show the material between them. We will distinguish evaluated sections from concealed or unreachable portions and explain the basis of the proposed boundary. The scope will not assume either continuous involvement or complete separation without the relevant assessment information."
+      },
+      {
+        "title": "Review the source observations without assigning a cause",
+        "text": "Roof, equipment, or other moisture information should come from the appropriate evaluation. We will record what has been established and what remains unresolved. The appearance or location of growth alone will not be used to promise that a particular source repair will address every condition."
+      },
+      {
+        "title": "Plan access and material movement",
+        "text": "Insulation, stored belongings, and working clearance can change how the task is organized. We will identify handling included in the scope and additional access decisions required. Uninspected areas will remain visible in the record rather than implied to be addressed because the provider reached a nearby section."
+      },
+      {
+        "title": "Explain separate remediation and evaluation roles",
+        "text": "The company performing removal and cleaning will be identified before the work begins. Applicable independent assessment or clearance will have a distinct role in the sequence. We will explain those responsibilities without guaranteeing a test result or treating a repair contractor\u2019s photograph as a complete evaluation."
+      },
+      {
+        "title": "Coordinate replacement work from the progress record",
+        "text": "We will explain completed tasks and remaining moisture, access, or material concerns before insulation or finishes are installed. The next provider needs to know the real boundary of the work. A scheduled installation should not conceal an area still waiting on another decision."
+      }
+    ],
+    "estimate": "Number of evaluated sections, access between them, insulation handling, and assessment needs shape the proposal. We will distinguish remediation from source repairs, independent services, and replacement materials, explaining further evaluation needed before restricted portions can be included.",
+    "checklist": [
+      "Share photographs with their locations identified if possible.",
+      "Describe source investigations and planned repairs.",
+      "Mention insulation or storage limiting access between areas."
+    ]
+  },
+  "crawl-space-mold-remediation/keller": {
+    "intro": "Crawl space mold remediation in Keller helps when affected underside material is found after standing water has been removed. You may have completed extraction but still need decisions about insulation and exposed surfaces. We will review the earlier work and current findings so the remediation proposal addresses its own purpose rather than assumes the water-removal visit settled everything.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation after extraction",
+        "text": "The removal record can show where water was addressed and what access was available at that time. We will use it alongside the current evaluated condition. Completed extraction will not be treated as evidence that every material nearby was assessed for growth, cleaning, or retention."
+      },
+      {
+        "title": "Define the affected-material task",
+        "text": "Insulation and exposed components can require different removal or cleaning decisions. We will explain the boundary and purpose of each proposed task using applicable assessment information. A general statement about the crawl space should not obscure which surfaces are included and which remain concealed."
+      },
+      {
+        "title": "Keep source correction visible",
+        "text": "We will review repair information and identify unresolved water-entry questions. Remediation and source control are related but separate responsibilities. Addressing affected material will not be described as a guarantee that the condition which caused wetting has been permanently corrected."
+      },
+      {
+        "title": "Discuss access and handling constraints",
+        "text": "The entry route and available clearance influence how the proposed work can be carried out. We will identify obstacles and additional decisions needed before expanding into restricted areas. Reaching one portion of the underside will not be used to imply evaluation of every inaccessible section."
+      },
+      {
+        "title": "Explain the handoff for insulation or repairs",
+        "text": "Progress and remaining moisture or material concerns will be recorded. Applicable independent assessment or clearance will remain distinct from the remediation work. Replacement components should follow that review so the next provider does not conceal an unresolved area simply because the standing water is already gone."
+      }
+    ],
+    "estimate": "Prior removal access, current assessed boundary, material handling, and source status affect cost and timing. We will separate remediation from plumbing, structural work, independent services, and replacement insulation, explaining what needs further evaluation before the full task is established.",
+    "checklist": [
+      "Share the water-removal record and photographs.",
+      "Describe what material became visible afterward.",
+      "Identify source repairs and replacement work being arranged."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/keller": {
+    "intro": "Mold contaminated contents cleaning in Keller helps when items from a wet storage closet have been boxed quickly and now need an organized decision before unpacking. You may have mixed possessions with different materials and exposure histories. We will establish the agreed inventory and explain cleaning candidates, handling, and specialist questions without treating every box as one identical condition.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning after hurried packing",
+        "text": "Labels, photographs, and room-of-origin information can help reconnect items with what was observed. We will record available facts and leave unknown exposure details identified. The proposal will not assume that all belongings packed together were affected to the same extent or require the same treatment."
+      },
+      {
+        "title": "Evaluate the item construction",
+        "text": "Hard surfaces, fabric, paper, finishes, and complex assemblies can pose different recovery questions. We will explain what is proposed for general cleaning and what needs another provider or decision. The desire to retain an item will not become an unsupported guarantee that cleaning can restore every type of possession."
+      },
+      {
+        "title": "Keep pending decisions separate from approved work",
+        "text": "Some items may need owner authorization before movement, disposal, or specialist evaluation. We will identify those statuses within the agreed handling arrangement. A broad contents request should not be read as permission to discard meaningful belongings or expand the work to everything discovered while unpacking."
+      },
+      {
+        "title": "Clarify the storage and movement plan",
+        "text": "Packing, transport, temporary placement, and return are distinct tasks that may not all be included in cleaning. We will explain responsibility for each agreed part. That prevents unresolved items from being moved into a receiving area whose own condition or suitability has not been considered."
+      },
+      {
+        "title": "Return belongings according to both work statuses",
+        "text": "We will record completed item work and remaining concerns before return arrangements are settled. The original room may still need source repair, remediation, or reconstruction. A contents-completion record will remain separate from the building\u2019s readiness so one task does not conceal the other\u2019s outstanding dependency."
+      }
+    ],
+    "estimate": "Inventory uncertainty, material variety, handling arrangements, and specialist needs shape the estimate. We will separate proposed cleaning from movement, storage, extra items, and external evaluation, explaining approval needs before expanding beyond the agreed belongings.",
+    "checklist": [
+      "Describe the original storage conditions and hurried packing.",
+      "Share labels or photographs available.",
+      "Identify items needing owner approval before further handling."
+    ]
+  },
+  "fire-damaged-debris-removal/keller": {
+    "intro": "Fire damaged debris removal in Keller helps when access to a smoke- or water-affected area is blocked by damaged material after a fire. You may need a path cleared for the next evaluation while other parts remain outside the removal scope. We will define the approved task and distinguish it from demolition, contents recovery, and the cleanup that follows.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal for a defined access need",
+        "text": "The purpose of the proposed work may be to reach an area for another provider, not clear every room. We will identify the boundary and material included. That prevents a limited access request from becoming implied authorization to remove unrelated components or belongings elsewhere in the property."
+      },
+      {
+        "title": "Review entry and evaluation restrictions",
+        "text": "Authorized access and relevant findings guide which tasks can be organized. We will identify conditions needing another decision before proceeding. Removal of loose material will not be used as a label that silently includes structural demolition or specialist work beyond the agreed scope."
+      },
+      {
+        "title": "Preserve undecided items in the record",
+        "text": "Belongings awaiting owner, insurer, or specialist input should remain distinguishable from approved debris. We will discuss the documentation and handling included in the task. Pending reviews need to be shared so the schedule does not advance ahead of a decision that changes whether an item should be removed."
+      },
+      {
+        "title": "Explain newly exposed conditions",
+        "text": "The cleared path may reveal residue, moisture, or material damage not previously visible. We will describe those findings and the next evaluation or cleanup proposed. Creating access will not be presented as proof that all material behind the obstruction has now been restored."
+      },
+      {
+        "title": "Provide a clear starting point for the next provider",
+        "text": "We will record what was removed and what remains pending or excluded. The follow-up crew can then plan from an understood condition rather than assume an open route means the whole area is complete. Reconstruction should follow the applicable cleanup and evaluation sequence."
+      }
+    ],
+    "estimate": "Approved removal area, material volume, sorting, and access route influence cost and timing. We will distinguish debris handling from further demolition, contents services, specialist evaluations, and reconstruction, explaining any new finding that changes the next work stage.",
+    "checklist": [
+      "Identify the area another provider needs to reach.",
+      "List items not yet approved for disposal.",
+      "Share access authorization and pending evaluation requests."
+    ]
+  },
+  "fire-damaged-contents-cleaning/keller": {
+    "intro": "Fire damaged contents cleaning in Keller helps when belongings from a room affected by both smoke and firefighting water need decisions before they are moved back. You may see similar-looking residue on items with very different construction. We will define the inventory and explain cleaning, specialist evaluation, and handling limits rather than promise one recovery approach for every possession.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning after mixed exposure",
+        "text": "Water, heat, and residue can affect an item differently even when only one concern is obvious now. We will record the history available and explain evaluation limits. A clean exterior or a dry surface will not be used as proof that a complex item has been assessed for reuse."
+      },
+      {
+        "title": "Keep inventory and location information together",
+        "text": "Photographs, lists, and room-of-origin notes help connect each decision with the right item. We will identify the belongings included and distinguish those added later or awaiting authorization. The scope should remain traceable after movement rather than become a general commitment to everything packed out of the room."
+      },
+      {
+        "title": "Identify specialist and owner decisions early",
+        "text": "Delicate items, electronics, and unusual materials may need separate expertise or an explicit retention decision. We will explain those requirements before treating them as routine cleaning candidates. The proposal will not imply that every possession can be recovered regardless of damage or construction."
+      },
+      {
+        "title": "Define movement and storage responsibilities",
+        "text": "Packing, transport, storage, and return may have their own arrangements apart from cleaning. We will explain what is included and where pending items remain. That sequence should coordinate with the building work without assuming the next available room is automatically ready to receive unresolved contents."
+      },
+      {
+        "title": "Review the return conditions",
+        "text": "We will record completed work and explain remaining item concerns before return is finalized. The receiving space may still require cleanup, drying, or repairs. Contents completion will remain distinct from the property\u2019s restoration status so belongings are not used to conceal unfinished building work."
+      }
+    ],
+    "estimate": "Item construction, multiple exposures, inventory detail, and handling arrangements influence the estimate. We will separate cleaning from specialist decisions, movement, storage, and replacement, explaining approvals needed before additional items or tasks are included.",
+    "checklist": [
+      "Identify known smoke, heat, and water exposure.",
+      "Share available contents photographs or lists.",
+      "Describe where items are stored and the condition of their destination."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/keller": {
+    "intro": "Fire extinguisher residue cleanup in Keller helps when a discharge has left material in storage shelves and across nearby floor surfaces after the immediate incident is over. You may have removed the obvious pile but still need a defined room-cleaning plan. We will review product details, accessible deposits, and handling needs before explaining the proposed task.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup with an identified product",
+        "text": "Label information or available documentation helps establish what material needs consideration. We will record known details and identify uncertainty requiring another step before a method is chosen. Deposits from different extinguishers will not automatically be treated as interchangeable because they appeared during a similar type of event."
+      },
+      {
+        "title": "Evaluate shelving and floor areas separately",
+        "text": "Open storage, items on shelves, and the floor beneath can have different exposure and access conditions. We will identify the surfaces included and explain any handling needed to reach them. A clean open floor will not be used as evidence that concealed corners or contents have also been evaluated."
+      },
+      {
+        "title": "Review what has been moved or wiped",
+        "text": "Earlier cleanup can alter the visible distribution and leave uncertainty about material behind moved items. We will retain that history alongside current observations. Proposed further work should have a clear purpose instead of merely repeat a general wipe-down without considering what remains inaccessible."
+      },
+      {
+        "title": "Keep complex items outside unsupported claims",
+        "text": "Equipment and delicate belongings may need specialist evaluation or another owner decision. We will explain the boundary between accessible-surface cleaning and those separate tasks. Removal of residue around a device will not establish that the device itself is suitable for operation or fully restored."
+      },
+      {
+        "title": "Explain remaining incident-related concerns",
+        "text": "We will record treated surfaces and items or areas still pending. Soot, heat, or water damage may need another scope even if it arose at the same time. The next repair or cleanup task should use that status rather than assume the residue visit addressed every consequence of the incident."
+      }
+    ],
+    "estimate": "Product identification, shelf access, contents handling, and previous cleanup influence the proposal. We will distinguish residue work from specialist servicing, contents recovery, other fire restoration, and repairs, explaining unresolved information before the final boundary is agreed.",
+    "checklist": [
+      "Provide extinguisher label details if available.",
+      "Describe shelves or items near the discharge.",
+      "Tell us what has already been swept, wiped, or moved."
+    ]
+  },
+  "emergency-board-up-after-fire/keller": {
+    "intro": "Emergency board up after fire in Keller helps when a damaged opening needs temporary protection while the owner and repair providers organize the next steps. You may be coordinating the task from elsewhere and need a clear record of what is included. We will establish authorized access, the proposed opening work, and the limits of the temporary arrangement.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire with a remote approving contact",
+        "text": "The person meeting the team may not be the person authorized to approve changes. We will clarify that arrangement and how findings will be communicated before the task proceeds. A convenient on-site contact will not automatically be treated as approval for unrelated alterations beyond the agreed protective work."
+      },
+      {
+        "title": "Review the accessible opening condition",
+        "text": "Dimensions, surrounding damage, and the working position influence what can be proposed. We will explain restrictions or additional decisions required. Installing temporary protection will not be described as a structural evaluation or determination that the whole property is ready for occupancy."
+      },
+      {
+        "title": "Coordinate access for scheduled visits",
+        "text": "Inspectors, cleanup teams, and trade providers may need a defined entry arrangement after installation. We will discuss those needs with the approving contact. The next visit should not depend on an unstated assumption that another person will remove or change the temporary work without coordination."
+      },
+      {
+        "title": "Document the difference from permanent repair",
+        "text": "We will identify the openings addressed and tasks outside the scope. Frames, doors, glazing, and adjacent finishes may require their own evaluation and replacement proposals. The temporary estimate will not be presented as the full cost of restoring the finished assembly."
+      },
+      {
+        "title": "Explain later changes through the same approval path",
+        "text": "As restoration develops, access or protection needs may change. We will describe the purpose and scope of any proposed revision before treating it as part of the original task. The completion record will remain an account of work performed, not a guarantee against every future condition at the property."
+      }
+    ],
+    "estimate": "Opening dimensions, attachment conditions, working access, and remote coordination influence the estimate. We will separate temporary protection from evaluation, demolition, replacement assemblies, and finish repairs, explaining restrictions that prevent the initial arrangement from being installed as proposed.",
+    "checklist": [
+      "Name the remote approving contact and on-site entry contact.",
+      "Share photographs of damaged openings.",
+      "Describe provider visits requiring access after installation."
+    ]
+  },
+  "crawl-space-sewage-cleanup/keller": {
+    "intro": "Crawl space sewage cleanup in Keller helps when an inspection after a drain repair finds wastewater-affected material still beneath the building. You may have a completed plumbing task but no clear record of what needs cleanup. We will explain the reachable area and material decisions so the line repair is not confused with restoration of the surrounding space.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup after the repair visit",
+        "text": "We will review the plumber\u2019s findings and work record to establish the source status. That information does not automatically describe every material reached by the wastewater. The proposal will distinguish current accessible observations from portions still obscured or outside the earlier repair access."
+      },
+      {
+        "title": "Identify the cleanup boundary below the building",
+        "text": "Insulation, debris, and surrounding surfaces can have different handling needs. We will explain what is included and the purpose of proposed removal or cleaning. The location of the repaired line will not be assumed to establish the complete affected boundary without the relevant evaluation."
+      },
+      {
+        "title": "Keep entry and clearance restrictions visible",
+        "text": "The opening, travel route, and obstacles determine which areas can be reached. We will describe those limits before extending the task. A partial evaluation will not be converted into an unsupported statement that every concealed portion of the crawl space has been inspected or addressed."
+      },
+      {
+        "title": "Coordinate additional providers and materials",
+        "text": "Another plumbing task, structural concern, or replacement-insulation plan may affect the sequence. We will identify responsibilities rather than silently include all work beneath the building in a general cleanup promise. Newly exposed findings will be discussed before the approved task expands."
+      },
+      {
+        "title": "Provide a record before replacement work",
+        "text": "We will explain completed cleanup and remaining moisture, material, or separate evaluation needs. A mold-related concern requiring another scope will be identified. The next provider should understand those dependencies before covering the area, rather than use the absence of visible wastewater as proof that restoration is complete."
+      }
+    ],
+    "estimate": "Accessible area, material handling, source records, and restrictions beneath the structure influence cost and timing. We will distinguish wastewater cleanup from plumbing, structural tasks, independent services, and replacement materials, explaining further evaluation needed before a complete boundary can be defined.",
+    "checklist": [
+      "Share the completed plumbing record and inspection findings.",
+      "Describe affected insulation or debris still present.",
+      "Identify entry restrictions and replacement work being planned."
+    ]
+  }
+}

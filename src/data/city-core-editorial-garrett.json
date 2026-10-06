@@ -1,0 +1,279 @@
+{
+  "garrett": {
+    "keyword": "Property damage restoration in Garrett",
+    "description": "Property damage restoration in Garrett restores damaged building materials after leaks, fire, wastewater, and mold concerns.",
+    "image": "appliance-leak-cleanup",
+    "intro": "Property damage restoration in Garrett restores damaged building materials after leaks, fire, wastewater, and mold concerns. A room may contain several kinds of damage at once, such as wet material behind smoke-marked finishes. We will identify the actual tasks needed and carry out the agreed restoration in a workable order.",
+    "sections": [
+      {
+        "title": "Property damage restoration in Garrett: separate the material problems",
+        "paragraphs": [
+          "We will review accessible conditions and the history you provide, including any work already completed. Drying, residue cleaning, contaminated-material handling, and remediation are not interchangeable services. The proposal will identify which apply and the appropriate provider for work outside our immediate scope."
+        ]
+      },
+      {
+        "title": "Perform the work before hiding the damage",
+        "paragraphs": [
+          "We will explain components needing removal and retained surfaces needing treatment. Belongings and access routes will be considered before setup. If opening an area reveals additional damage, its effect on the plan will be reviewed before expansion."
+        ]
+      },
+      {
+        "title": "Prepare a practical reconstruction handoff",
+        "paragraphs": [
+          "Records will identify completed restoration and source or evaluation questions still outstanding. The repair area will reflect what was actually removed rather than only the first visible mark. Optional changes to the room will remain owner choices distinct from damage restoration."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Describe each visible damage concern.",
+      "Share incident and previous-work records.",
+      "Identify approval and access contacts."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/garrett/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/mold-remediation/garrett/",
+        "label": "Mold remediation"
+      },
+      {
+        "href": "/fire-smoke-damage-restoration/garrett/",
+        "label": "Fire and smoke restoration"
+      }
+    ]
+  },
+  "water-damage-restoration/garrett": {
+    "keyword": "Water damage restoration in Garrett",
+    "description": "Water damage restoration in Garrett addresses wet materials after plumbing, appliance, air-conditioning, and other water sources damage a room.",
+    "image": "ac-leak-water-damage-cleanup",
+    "intro": "Water damage restoration in Garrett addresses wet materials after plumbing, appliance, air-conditioning, and other water sources damage a room. A slow leak may leave a stained surface or damp cabinet before standing water is obvious. We will review accessible moisture damage and perform the agreed extraction, removal, and drying.",
+    "sections": [
+      {
+        "title": "Water damage restoration in Garrett: identify the source history",
+        "paragraphs": [
+          "Tell us whether the source is still active, has been repaired, or recurs intermittently. A technician\u2019s source repair can help prevent further water but does not establish the condition of surrounding material. We will review that material separately and identify access limits."
+        ]
+      },
+      {
+        "title": "Reach affected layers and dry retained components",
+        "paragraphs": [
+          "We will explain when a covering or damaged component needs removal and how the opening affects repairs. Equipment will support the defined retained-material area. Items obstructing the work will have a movement or handling discussion before setup."
+        ]
+      },
+      {
+        "title": "Monitor the assembly before closure",
+        "paragraphs": [
+          "Progress documentation will track remaining damp areas and unresolved limitations. If suspected mold is found, its provider and scope will be discussed separately. Repair readiness will reflect those findings together with the source correction status."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Describe continuous or intermittent leaking.",
+      "Share source technician findings.",
+      "Identify wet or stained concealed edges."
+    ],
+    "links": [
+      {
+        "href": "/emergency-water-extraction/garrett/",
+        "label": "Emergency water extraction"
+      },
+      {
+        "href": "/structural-drying-services/garrett/",
+        "label": "Structural drying"
+      },
+      {
+        "href": "/mold-remediation-after-water-damage/garrett/",
+        "label": "Mold remediation after water damage"
+      }
+    ]
+  },
+  "fire-smoke-damage-restoration/garrett": {
+    "keyword": "Fire and smoke damage restoration in Garrett",
+    "description": "Fire and smoke damage restoration in Garrett addresses smoke residue, fire-damaged components, and affected contents after restoration access is available.",
+    "image": "smoke-damage-cleanup",
+    "intro": "Fire and smoke damage restoration in Garrett addresses smoke residue, fire-damaged components, and affected contents after restoration access is available. Fire response can also leave water or extinguisher material that requires its own treatment. We will examine the accessible property and organize the work by the actual material condition.",
+    "sections": [
+      {
+        "title": "Fire and smoke damage restoration in Garrett: review the combined effects of the incident",
+        "paragraphs": [
+          "Tell us how the fire was handled and what was moved or cleaned afterward. We will distinguish direct damage from residue on retained surfaces and wet components. Each finding will have an explained task rather than a single treatment assumed for the entire room."
+        ]
+      },
+      {
+        "title": "Carry out removal and cleaning",
+        "paragraphs": [
+          "Damaged debris will be handled within the defined work area, while retained finishes will receive the agreed material-appropriate cleaning. Contents needing specialist review will be identified before a recovery decision. We will not promise that an undamaged-looking item is automatically restorable."
+        ]
+      },
+      {
+        "title": "Coordinate the final restoration steps",
+        "paragraphs": [
+          "Drying and cleaning can have different completion requirements. We will record each and identify unresolved concerns before new finishes are installed. The handoff will describe what construction must replace and what remains outside the completed work."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Share fire-response and cleanup history.",
+      "Identify water or extinguisher residue.",
+      "List belongings needing individual review."
+    ],
+    "links": [
+      {
+        "href": "/smoke-damage-cleanup/garrett/",
+        "label": "Smoke damage cleanup"
+      },
+      {
+        "href": "/fire-damaged-debris-removal/garrett/",
+        "label": "Fire-damaged debris removal"
+      },
+      {
+        "href": "/fire-damaged-contents-cleaning/garrett/",
+        "label": "Fire-damaged contents cleaning"
+      }
+    ]
+  },
+  "mold-remediation/garrett": {
+    "keyword": "Mold remediation in Garrett",
+    "description": "Mold remediation in Garrett addresses defined mold-affected material when water damage or assessment findings reveal a remediation need.",
+    "image": "mold-remediation-after-water-damage",
+    "intro": "Mold remediation in Garrett addresses defined mold-affected material when water damage or assessment findings reveal a remediation need. A repaired leak may leave components that still require removal or cleaning. We will review the available information and coordinate the appropriate provider for that work.",
+    "sections": [
+      {
+        "title": "Mold remediation in Garrett: review moisture correction and material findings",
+        "paragraphs": [
+          "Share the leak timeline, repair records, and any assessment documents. We will identify which questions concern the source and which concern the affected assembly. Further access will be explained before concealed areas are represented as fully evaluated."
+        ]
+      },
+      {
+        "title": "Set up the remediation area",
+        "paragraphs": [
+          "The agreed plan will describe containment, affected-material handling, and cleaning. Nearby belongings and routes through the property will be considered in the setup. New findings will be reviewed with the authorized contact before the work boundary changes."
+        ]
+      },
+      {
+        "title": "Identify what remains before rebuilding",
+        "paragraphs": [
+          "Remediation completion and applicable clearance are distinct from the original source repair. We will explain those requirements and any remaining drying need. Construction can then be planned around the actual status without assuming a promised evaluation outcome."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Share assessment and water-restoration records.",
+      "Describe source correction and recurrence.",
+      "Identify nearby contents and access constraints."
+    ],
+    "links": [
+      {
+        "href": "/mold-removal-behind-drywall/garrett/",
+        "label": "Mold removal behind drywall"
+      },
+      {
+        "href": "/bathroom-mold-removal/garrett/",
+        "label": "Bathroom mold removal"
+      },
+      {
+        "href": "/services/mold-remediation-before-closing/",
+        "label": "Mold remediation before closing"
+      }
+    ]
+  },
+  "sewage-backup-cleanup/garrett": {
+    "keyword": "Sewage backup cleanup in Garrett",
+    "description": "Sewage backup cleanup in Garrett removes wastewater and addresses contacted components after a backup reaches interior rooms or accessible lower spaces.",
+    "image": "crawl-space-sewage-cleanup",
+    "intro": "Sewage backup cleanup in Garrett removes wastewater and addresses contacted components after a backup reaches interior rooms or accessible lower spaces. A plumber may restore drainage while contaminated material still requires cleanup. We will identify that remaining property work and perform the agreed removal, cleaning, and drying.",
+    "sections": [
+      {
+        "title": "Sewage backup cleanup in Garrett: review the backup path and source status",
+        "paragraphs": [
+          "Tell us where discharge appeared and what the plumbing provider found. Accessible surfaces will be examined alongside that history, including areas reached before water was removed. Uncertain concealed contact will be identified as a review limit rather than assumed absent."
+        ]
+      },
+      {
+        "title": "Plan removal and retained-surface treatment",
+        "paragraphs": [
+          "The work will distinguish affected components that need disposal from material suitable for the agreed treatment. Stored belongings require separate decisions, especially where their contact history differs from the surrounding floor. Handling routes and access needs will be explained before work begins."
+        ]
+      },
+      {
+        "title": "Finish the retained-material restoration",
+        "paragraphs": [
+          "Drying can remain necessary after extraction and cleanup. We will track progress and identify unresolved source or material concerns before repairs cover the area. The final record will state the work performed without treating a cleared drain as a complete restoration result."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Share the plumbing findings.",
+      "Describe all contacted spaces and items.",
+      "Identify removal already performed."
+    ],
+    "links": [
+      {
+        "href": "/toilet-overflow-cleanup/garrett/",
+        "label": "Toilet overflow cleanup"
+      },
+      {
+        "href": "/crawl-space-sewage-cleanup/garrett/",
+        "label": "Crawl-space sewage cleanup"
+      },
+      {
+        "href": "/mold-remediation/garrett/",
+        "label": "Mold remediation"
+      }
+    ]
+  },
+  "construction-remodeling/garrett": {
+    "keyword": "Reconstruction and remodeling in Garrett",
+    "description": "Reconstruction and remodeling in Garrett repairs damaged building components after restoration and supports agreed improvements to the room.",
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "Reconstruction and remodeling in Garrett repairs damaged building components after restoration and supports agreed improvements to the room. We will define the installation work, retained finishes, and replacement boundaries before construction starts. The scope will show how the room will be completed rather than leave those decisions until the opening is closed.",
+    "sections": [
+      {
+        "title": "Reconstruction and remodeling in Garrett: review dependencies in the repair area",
+        "paragraphs": [
+          "Source correction, drying, and any required remediation evaluation will be considered before closure. Other-provider tasks needing the same access will be identified. Missing records or unresolved conditions will remain questions to address rather than be treated as completed work."
+        ]
+      },
+      {
+        "title": "Plan the replacement assembly and finish",
+        "paragraphs": [
+          "We will explain the material selections and how new work meets existing surfaces. Product differences or availability may affect the options. An optional room update will be discussed separately from reinstating damaged components."
+        ]
+      },
+      {
+        "title": "Document changes and completion",
+        "paragraphs": [
+          "Additional damage discovered through access will have its scope and sequence effects explained before expansion. Progress updates will identify installed work and remaining decisions. The final walkthrough will compare the result with the approved repair plan."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Provide source and restoration records.",
+      "Identify work still requiring access.",
+      "Share selections and retained-finish priorities."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/garrett/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/locations/dfw-metro/garrett/",
+        "label": "Garrett restoration services"
+      },
+      {
+        "href": "/services/water-damage-repair-before-closing/",
+        "label": "Water damage repair before closing"
+      }
+    ],
+    "imageAlt": "AI-generated illustration of damaged ceiling material before reconstruction; not a completed Garrett project"
+  }
+}

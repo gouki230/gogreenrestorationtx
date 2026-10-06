@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/combine": {
+    "intro": "Emergency water extraction in Combine can be needed when a water release reaches a room packed for a move. We will review the wet floor and the stored boxes together so removal can begin without losing track of belongings that need separate attention.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Combine around moving boxes",
+        "text": "Boxes may conceal water at the floor and absorb moisture along their lower edges. We will identify where access is needed and discuss a holding area for moved property. A dry-looking top does not establish the condition of the bottom of a stack or the floor beneath it."
+      },
+      {
+        "title": "Separate access movement from contents recovery",
+        "text": "Some boxes may only need relocation, while others contain wet belongings requiring their own evaluation. We will keep those decisions distinguishable instead of treating all movement as contents cleaning. Items awaiting review should remain identifiable when the room is rearranged."
+      },
+      {
+        "title": "Use the cleared floor to refine the plan",
+        "text": "Once the boxes are moved, we will review the newly accessible surface and explain any additional drying or material decision. Water extraction is the first stage of that process. The update will identify which sections remain wet or inaccessible before you resume packing."
+      }
+    ],
+    "estimate": "The estimate will state water removal and the contents movement included. Tell us whether a moving company is scheduled, because collection of untreated boxes may need a different plan from moving property that was outside the release.",
+    "checklist": [
+      "Identify boxes containing items that cannot be replaced easily.",
+      "Share the planned moving or storage date.",
+      "Keep wet and unaffected boxes distinguishable."
+    ]
+  },
+  "burst-pipe-cleanup/combine": {
+    "intro": "Burst pipe cleanup in Combine may be needed when an emergency plumbing repair has left more than one wall opening. We will evaluate the water damage around those openings and explain which areas need further cleanup before patching begins.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Combine after several access cuts",
+        "text": "A plumber may open one area to locate a break and another to complete the repair. We will distinguish those access locations from the affected-material boundary. An opening made during the search is not proof of water damage, and a small repair opening may not expose everything that became wet."
+      },
+      {
+        "title": "Keep the patch list tied to actual findings",
+        "text": "We will record the material addressed at each opening and explain where additional access is useful. That information helps the repair provider understand why the cleanup quantities may differ from its patching quantities. Cosmetic repair and water-damage decisions will remain separate in the explanation."
+      },
+      {
+        "title": "Close openings in a workable order",
+        "text": "Some access may still be needed for plumbing follow-up or moisture work. We will identify those dependencies before the finish contractor covers the area. Progress updates will show which opening is available for the next step and which still serves a purpose."
+      }
+    ],
+    "estimate": "The estimate will describe cleanup by affected location, with any additional opening proposed for a stated reason. Share the plumber\u2019s repair description and photographs from the initial visit if they show where water was found.",
+    "checklist": [
+      "Label the repair opening and any exploratory openings.",
+      "Keep plumbing repair notes with the project record.",
+      "Tell us which openings are scheduled for patching first."
+    ]
+  },
+  "appliance-leak-cleanup/combine": {
+    "intro": "Appliance leak cleanup in Combine can be needed when a refrigerator leak reaches a floor area hidden by a removable toe panel. We will review the accessible appliance surround and explain what building work remains after the leak is corrected.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Combine beneath an appliance edge",
+        "text": "A narrow gap may show water without allowing the affected floor or adjacent cabinet to be evaluated. We will explain whether safe access requires the appliance to be moved by the appropriate provider. The visible puddle will not be used as the only boundary for the cleanup proposal."
+      },
+      {
+        "title": "Coordinate appliance movement with the floor decision",
+        "text": "Moving the unit once can provide an opportunity to address material that would otherwise remain covered. We will identify the space needed and discuss the timing with the provider responsible for connections. Any condition found after movement will be explained before further material removal is authorized."
+      },
+      {
+        "title": "Avoid returning the unit over unfinished work",
+        "text": "The appliance may be ready to operate while the floor beneath it still needs drying or repair. We will explain that difference and record the building work completed. Reinstallation should be coordinated with the actual material condition, not only the appliance repair date."
+      }
+    ],
+    "estimate": "The estimate will distinguish cleanup and drying from appliance service, movement or reconnection where those require another provider. Tell us whether the refrigerator is staying or being replaced so the access arrangement fits the intended next step.",
+    "checklist": [
+      "Share the leak repair or appliance service notes.",
+      "Identify the provider responsible for moving the unit.",
+      "Keep the exposed floor available until its status is clear."
+    ]
+  },
+  "storm-water-damage-cleanup/combine": {
+    "intro": "Storm water damage cleanup in Combine can become a contents decision when water enters a room used to store seasonal items. We will review the building damage and help establish which belongings need attention before the room is cleared.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Combine in a storage room",
+        "text": "Closely packed items can make the original water path difficult to see. We will discuss where water was observed and examine the accessible floor and lower surfaces. Moving contents will have a defined purpose, with wet items kept distinct from property relocated only to create working space."
+      },
+      {
+        "title": "Use photographs before rearranging the room",
+        "text": "A record of the original arrangement can help explain which items were near the entry and which surfaces were concealed. We will document the accessible findings during our work and use consistent locations in updates. That record will not substitute for evaluation of items whose condition is still unknown."
+      },
+      {
+        "title": "Choose what returns after the room is addressed",
+        "text": "The cleared room may be ready for a later repair step while some belongings remain unresolved. We will explain the status of the building work and identify separate contents decisions. Returning everything at once should not hide an area that still needs access or bring unreviewed items into the completed space."
+      }
+    ],
+    "estimate": "The estimate will identify the room cleanup and any contents handling included. Source correction and the cleaning, disposal or storage of individual belongings will be stated separately where they require their own authorization.",
+    "checklist": [
+      "Share photographs taken before contents were moved.",
+      "Identify items stored directly on the floor.",
+      "Tell us which belongings need a decision before disposal."
+    ]
+  },
+  "structural-drying-services/combine": {
+    "intro": "Structural drying services in Combine may be needed when a room is dry enough to walk through but the exposed wall assembly still has unresolved moisture. We will evaluate the materials scheduled for repair and explain what their condition means for the next step.",
+    "sections": [
+      {
+        "title": "Structural drying services in Combine beyond the usable floor",
+        "text": "Being able to enter a room does not establish that every affected layer is ready to cover. We will identify the specific materials included in the drying review and record observations at understandable locations. The plan will address those materials rather than use room appearance as the completion measure."
+      },
+      {
+        "title": "Explain why equipment placement may change",
+        "text": "Furniture movement, new access or changing material conditions can affect the setup. We will explain adjustments in relation to the drying task so a change does not look like an unexplained restart. Equipment will remain connected to a defined purpose rather than an arbitrary calendar period."
+      },
+      {
+        "title": "Make the repair update specific to the assembly",
+        "text": "The contractor rebuilding a wall needs information about that wall, not simply a statement that the house has been dried. We will describe the area addressed and any remaining access or material decision. Unreviewed sections will stay outside the completion account."
+      }
+    ],
+    "estimate": "The estimate will identify the drying area, monitoring and any access work included. If reconstruction is scheduled, share the particular surfaces to be covered so the progress record supports that decision.",
+    "checklist": [
+      "Identify materials awaiting reconstruction.",
+      "Keep the planned equipment area accessible.",
+      "Share any earlier readings or removal photographs."
+    ]
+  },
+  "floor-water-damage-cleanup/combine": {
+    "intro": "Floor water damage cleanup in Combine can be needed when a rug is removed and reveals damage that was hidden from view. We will evaluate the newly exposed flooring and explain whether the rug and the floor need separate treatment decisions.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Combine beneath a removed rug",
+        "text": "The condition under the rug may differ from the surrounding visible surface. We will examine the accessible area and explain any moisture work or further access proposed. A mark left by the rug will be considered alongside the material condition rather than treated as proof that all flooring must be replaced."
+      },
+      {
+        "title": "Keep the rug decision separate",
+        "text": "A rug that has become wet may need evaluation, cleaning or another handling choice outside the floor scope. We will explain whether that work is included and identify a suitable holding arrangement. Returning it too soon can cover the area still being evaluated or restrict access needed for repairs."
+      },
+      {
+        "title": "Coordinate the finish decision with completed cleanup",
+        "text": "A floor provider may later advise on appearance, matching or replacement. We will give you an account of the affected area and material work performed so those choices can be understood separately. Any remaining moisture concern will be stated before a new covering is placed."
+      }
+    ],
+    "estimate": "The estimate will describe floor cleanup, access and drying separately from rug treatment or cosmetic refinishing. Tell us what happened to the rug after removal and whether its condition has already been evaluated.",
+    "checklist": [
+      "Save photographs from beneath the rug.",
+      "Keep the rug separate from completed areas pending its decision.",
+      "Share flooring product information if available."
+    ]
+  },
+  "ceiling-water-damage-cleanup/combine": {
+    "intro": "Ceiling water damage cleanup in Combine can be needed when a repaired leak leaves damage above cabinets that limit access from below. We will examine the available approach and explain how the ceiling work can be completed around the fixed features.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Combine above fixed cabinetry",
+        "text": "The position of a cabinet can make part of the ceiling difficult to reach or see. We will identify what can be evaluated from the room and explain whether another access point is needed. The proposed work will not assume that a narrow visible strip describes the entire affected assembly."
+      },
+      {
+        "title": "Decide whether a component must move",
+        "text": "A trim piece or cabinet feature may interfere with the cleanup opening. We will explain the purpose of any proposed removal and distinguish it from a decision to replace the cabinet itself. Components intended for reuse will need a handling arrangement that preserves their identity and condition."
+      },
+      {
+        "title": "Prepare the next provider for the remaining opening",
+        "text": "Ceiling repair near a fixed feature may involve a different sequence from an unobstructed patch. We will record the area addressed and explain any work still requiring access. The finish provider can then plan around the actual condition instead of arriving after the opening has been concealed prematurely."
+      }
+    ],
+    "estimate": "The estimate will state the ceiling area and access-related handling included. Any cabinet repair, trim replacement or source correction outside that work will remain identifiable so the project responsibilities are clear.",
+    "checklist": [
+      "Show the cabinet and ceiling relationship in photographs.",
+      "Identify trim or fixtures you hope to retain.",
+      "Share any available access from above."
+    ]
+  },
+  "bathroom-mold-removal/combine": {
+    "intro": "Bathroom mold removal in Combine may be needed when an affected wall sits beside a shower enclosure you want to retain. We will evaluate the accessible material and explain how the enclosure influences the remediation boundary and later repairs.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Combine beside a retained enclosure",
+        "text": "The edge of an enclosure can conceal the connection between finishes and the wall behind them. We will explain what is visible and what additional access would establish. Retaining the enclosure is a preference to consider, not evidence that every hidden material around it can remain untreated."
+      },
+      {
+        "title": "Define the decision before dismantling",
+        "text": "If access requires movement of a component, we will explain why and identify who is responsible for that task. The possibility of reusing it will depend on its condition and the appropriate provider\u2019s evaluation. Removal for access should not be confused with an automatic purchase of a new enclosure."
+      },
+      {
+        "title": "Coordinate the wall and enclosure work",
+        "text": "Reconstruction may need to be sequenced with reinstallation or other shower-related work. We will record the remediation performed and identify any remaining moisture correction or evaluation. The wall should not be closed simply to meet an installation date while those steps remain unresolved."
+      }
+    ],
+    "estimate": "The estimate will distinguish remediation and access from enclosure work and finish replacement. Share the planned repair approach if you already have one so the effect of retaining the enclosure can be discussed before authorization.",
+    "checklist": [
+      "Identify the enclosure components you hope to reuse.",
+      "Share any leak repair information.",
+      "Tell us which provider will handle enclosure work."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/combine": {
+    "intro": "Kitchen cabinet mold removal in Combine can be needed when a sink cabinet shares a countertop with several otherwise usable cabinets. We will explain how access to affected material can be evaluated without assuming that every connected component needs the same work.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Combine beneath a shared countertop",
+        "text": "A countertop can limit how a cabinet box is opened or removed. We will review the accessible construction and identify the purpose of any proposed change. Work requiring support, disconnection or specialist handling will be distinguished from remediation rather than silently included in a cabinet removal description."
+      },
+      {
+        "title": "Keep the material decision separate from the matching decision",
+        "text": "You may want to retain the surrounding cabinets because replacements would not match. We will explain the condition of the affected area and any limitation that prevents the preferred approach. Matching concerns can guide reconstruction choices without changing what the remediation findings show."
+      },
+      {
+        "title": "Provide useful dimensions of the remaining work",
+        "text": "The repair provider needs to understand what was removed and what remains under the countertop. We will document that boundary and identify any unresolved access issue. Rebuilding can then be planned around the actual assembly after the required remediation steps are complete."
+      }
+    ],
+    "estimate": "The estimate will identify affected-material work and any access dependencies involving the countertop, sink or adjacent cabinets. Reconnection and reconstruction will have separate responsibilities where they are outside the authorized remediation scope.",
+    "checklist": [
+      "Share photographs showing the connected cabinets and counter.",
+      "Identify components you hope to keep.",
+      "Tell us who will manage countertop or plumbing work."
+    ]
+  },
+  "mold-remediation-after-water-damage/combine": {
+    "intro": "Mold remediation after water damage in Combine may be needed when belongings were returned to a room before affected material was discovered behind them. We will review the newly visible condition and explain how to reopen access without treating every item in the room as equally affected.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Combine after a room was restocked",
+        "text": "Furniture and storage may hide the wall or floor that needs evaluation. We will identify what must move and discuss where those items can be held. Property relocated for access will remain distinguishable from contents that require their own contamination review."
+      },
+      {
+        "title": "Use the discovery location to define the next review",
+        "text": "A finding behind one item should lead to an appropriate assessment of the accessible surrounding material. We will explain the proposed boundary and why any further opening is needed. We will not turn a single observation into an unsupported claim about every concealed surface in the room."
+      },
+      {
+        "title": "Plan the second return more carefully",
+        "text": "After remediation, the room may still need source correction, evaluation or finish repair before it is ready to restock. We will explain those dependencies and provide a clear status update. That sequence helps avoid moving the same furniture back over an area that still requires work."
+      }
+    ],
+    "estimate": "The estimate will distinguish remediation access from contents evaluation and reconstruction. Tell us when the room was restocked and whether any item was cleaned or moved from another affected area.",
+    "checklist": [
+      "Identify the item behind which the condition was discovered.",
+      "Keep photographs of the newly exposed area.",
+      "Share earlier water-damage cleanup or repair records."
+    ]
+  },
+  "mold-removal-behind-drywall/combine": {
+    "intro": "Mold removal behind drywall in Combine can be needed when an existing inspection cut is too small to reach the affected material. We will explain what a larger opening would accomplish and define the proposed work before the wall is opened further.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Combine from an inspection cut",
+        "text": "A small cut can confirm that a condition needs attention without providing enough access to address it. We will review what is visible and explain the areas still concealed. The next opening will have a stated evaluation or treatment purpose rather than an arbitrary size based only on the original cut."
+      },
+      {
+        "title": "Make the removal boundary reviewable",
+        "text": "We will describe the section proposed for removal and any fixtures or finishes affected by that access. If the exposed condition warrants a different boundary, the change will be explained before the authorized work grows. Components outside the scope will remain identifiable."
+      },
+      {
+        "title": "Leave a clear record for wall repair",
+        "text": "The repair contractor needs to know the final opening and the work completed within it. We will document the treated area and any remaining moisture correction or evaluation. Closing the original inspection cut will not be presented as the end of a project that requires a wider remediation step."
+      }
+    ],
+    "estimate": "The estimate will identify the access enlargement and material work proposed from the available findings. Decoration beyond the removal boundary can be a separate repair choice and will not be described as additional affected material without evidence.",
+    "checklist": [
+      "Keep the inspection cut available for review.",
+      "Share photographs taken inside the cavity.",
+      "Identify fixtures or finishes connected to the proposed opening."
+    ]
+  },
+  "kitchen-fire-cleanup/combine": {
+    "intro": "Kitchen fire cleanup in Combine can be needed when a small cooking incident leaves residue inside nearby drawers even though their fronts look usable. We will review the affected storage areas and explain what needs to be emptied, cleaned or separately evaluated.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Combine inside drawer storage",
+        "text": "Closed-looking storage should not be assumed unaffected without reviewing the accessible condition. We will identify the drawers and contents included in the proposed work. Removing utensils or other belongings to reach a drawer is a handling step, not proof that those items have been evaluated for return."
+      },
+      {
+        "title": "Separate the drawer from the objects inside",
+        "text": "Different objects may require different decisions based on their material, use and exposure. We will explain the limits of the building cleanup and identify any contents work proposed. Food-related items and operational equipment will not be declared ready merely because the surrounding drawer looks cleaner."
+      },
+      {
+        "title": "Restock only after the relevant work is clear",
+        "text": "The drawer, adjoining cabinet and contents may reach different stages at different times. We will state which work is complete and what remains unresolved. If a finish or concealed area cannot be addressed within the planned cleaning, you will receive a specific explanation before restocking."
+      }
+    ],
+    "estimate": "The estimate will distinguish cabinet and drawer cleaning from contents handling, specialist evaluation or replacement. Tell us which drawers were emptied already and where those items were placed after the incident.",
+    "checklist": [
+      "Identify storage areas closest to the incident.",
+      "Keep unreviewed contents separate from cleaned drawers.",
+      "Tell us about any cleaning already attempted."
+    ]
+  },
+  "smoke-damage-cleanup/combine": {
+    "intro": "Smoke damage cleanup in Combine can be needed when removing curtains changes the odor in a room but does not resolve it. We will review the fixed surfaces and soft furnishings separately so the remaining work is based on the observed condition.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Combine after soft furnishings are moved",
+        "text": "Curtains, cushions and other fabrics can have their own treatment needs alongside the room. We will identify which items have been removed and what remains available for evaluation. An improvement after removal is useful context, but it does not establish that every building surface has been addressed."
+      },
+      {
+        "title": "Give fabric treatment its own scope",
+        "text": "Some items may need a specialist cleaning decision, while others may be outside the authorized work. We will explain those distinctions and keep the items identifiable during handling. Returning an untreated furnishing to a completed room can make the remaining problem harder to understand."
+      },
+      {
+        "title": "Review the room before everything returns",
+        "text": "We will describe the fixed-surface work performed and any area that still needs attention. If odor remains, its location and the material involved will guide the next recommendation. A further treatment proposal will have a stated purpose rather than repeat the same room-wide process without explanation."
+      }
+    ],
+    "estimate": "The estimate will separate room cleaning from removal, transport or treatment of fabrics. Share any provider already handling curtains or upholstery so the return sequence can be coordinated with the building work.",
+    "checklist": [
+      "List soft furnishings already removed from the room.",
+      "Keep their treatment records with the project information.",
+      "Tell us whether odor changes when a particular item is moved."
+    ]
+  },
+  "toilet-overflow-cleanup/combine": {
+    "intro": "Toilet overflow cleanup in Combine may be needed when a spill reaches a bathroom closet full of towels and supplies. We will review the wet materials and explain how the storage area fits into the cleanup instead of stopping at the open floor.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Combine inside adjacent storage",
+        "text": "Closet contents can conceal the lower wall and flooring where water spread. We will identify which items need to move for access and which require their own handling decision. Materials stored directly on the floor may have a different condition from items on upper shelves."
+      },
+      {
+        "title": "Keep the closet inventory manageable",
+        "text": "The items do not all need to receive the same decision merely because they share a closet. We will explain the proposed sorting and identify property requiring review before disposal. Movement out of the bathroom will be planned so unresolved items do not get mixed into clean household storage."
+      },
+      {
+        "title": "Explain when the storage can be used again",
+        "text": "Cleaning the visible floor may leave trim, lower wall material or other concealed areas requiring further work. We will identify those steps and the status of the plumbing correction. Restocking should follow the relevant cleanup and material decisions rather than cover the work area as soon as standing water is gone."
+      }
+    ],
+    "estimate": "The estimate will state the bathroom and closet areas included, together with any contents handling. Tell us where items were moved after the release and whether any material has already been discarded.",
+    "checklist": [
+      "Identify items stored on the closet floor.",
+      "Keep unresolved belongings separate from other household supplies.",
+      "Share the toilet repair status."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/combine": {
+    "intro": "AC leak water damage cleanup in Combine can be needed when water has followed the edge of a ceiling opening into an adjoining wall. We will review the connected materials and explain why the cleanup may involve more than the area immediately below the equipment.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Combine across a ceiling-to-wall connection",
+        "text": "The visible ceiling mark may be only one part of the affected assembly. We will examine the accessible wall and ceiling connection and record findings that support the proposed work. An adjoining surface will not be included solely because it is nearby; the scope will have an explained material basis."
+      },
+      {
+        "title": "Coordinate equipment access with building access",
+        "text": "The HVAC provider may need an opening that differs from the area required for cleanup. We will identify those separate needs before repair work covers either location. Mechanical correction and drying of the building will have distinct records even when the same visit sequence connects them."
+      },
+      {
+        "title": "Repair the intersection after the remaining steps are settled",
+        "text": "A ceiling patch and wall repair may be scheduled together for appearance. We will explain any moisture or access issue that still affects that plan. The finish contractor can then distinguish the actual cleanup boundary from the larger area selected for decorative continuity."
+      }
+    ],
+    "estimate": "The estimate will identify the affected wall and ceiling sections and any opening needed to reach them. HVAC service, electrical concerns if present and finish work will be assigned separately where they are outside our scope.",
+    "checklist": [
+      "Share photographs of both the ceiling and adjoining wall.",
+      "Provide the HVAC repair description.",
+      "Tell us which access openings are still needed by other providers."
+    ]
+  },
+  "crawl-space-water-removal/combine": {
+    "intro": "Crawl space water removal in Combine can be needed when water is visible in separate low areas beneath the same building. We will review the sections that can be reached and explain how collection will address them without assuming one pumping point reaches every area.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Combine across separate collection areas",
+        "text": "Obstructions and the shape of the accessible space can affect where water can be collected. We will identify the locations included in the removal plan and record any section that cannot be reached. A reduced level near the entrance will not be described as evidence that every remote area is clear."
+      },
+      {
+        "title": "Use location notes to make progress understandable",
+        "text": "Below-floor photographs can be difficult to interpret without a reference point. We will connect the work to identifiable areas of the property so you can follow what has been addressed. If access changes during removal, the updated plan will explain which additional section becomes available."
+      },
+      {
+        "title": "Separate collected water from remaining material work",
+        "text": "Wet debris or building material may require a further decision after the water level is reduced. We will explain those findings and any cleanup or drying proposed. Investigation and correction of the source will remain a distinct task rather than an implied result of pumping."
+      }
+    ],
+    "estimate": "The estimate will identify the accessible collection areas, handling and any limitations. Further work in a previously inaccessible section will be explained before it is added to the authorization.",
+    "checklist": [
+      "Share any photographs showing separate water locations.",
+      "Identify known access openings around the building.",
+      "Tell us what is known about the source of the water."
+    ]
+  },
+  "attic-mold-remediation/combine": {
+    "intro": "Attic mold remediation in Combine may be needed when affected material is discovered during an insulation project. We will review what has been exposed and explain which installation steps should wait while the remediation scope is established.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Combine during insulation work",
+        "text": "An insulation crew may reveal material that was previously concealed. We will use the accessible condition to define the proposed remediation area and explain any further access needed. The discovery will not be treated as proof that every attic surface requires the same work."
+      },
+      {
+        "title": "Keep new material away from unfinished treatment",
+        "text": "Installing insulation over an area awaiting evaluation can make the condition harder to reach again. We will identify the work boundary and explain which sections remain pending. Existing material scheduled for removal and new material awaiting installation will have separate handling decisions."
+      },
+      {
+        "title": "Give the installer an updated sequence",
+        "text": "Remediation, moisture correction and any required evaluation may affect the return date. We will explain those dependencies and record the area addressed. The installation provider will have a defined status for the relevant sections rather than a general assurance that the attic is finished."
+      }
+    ],
+    "estimate": "The estimate will separate remediation from insulation removal or replacement where those tasks belong to another provider. Share the installation plan and any photographs from the discovery so the proposed work can be coordinated with it.",
+    "checklist": [
+      "Ask the installation provider to preserve discovery photographs.",
+      "Identify sections already stripped or replaced.",
+      "Share the planned return date before new material covers the area."
+    ]
+  },
+  "crawl-space-mold-remediation/combine": {
+    "intro": "Crawl space mold remediation in Combine can be needed when a planned floor repair exposes affected material from above. We will explain how that opening can support remediation and what it does not reveal about the rest of the underside.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Combine through a floor opening",
+        "text": "Access from the room can make one section easier to reach while leaving adjoining areas concealed. We will identify the available treatment boundary and any additional access proposed. The scope will not imply a full crawl-space inspection based on the view through a single removed floor section."
+      },
+      {
+        "title": "Coordinate the room with below-floor work",
+        "text": "The opening connects the remediation area with the occupied space above it. We will discuss the work boundary, belongings nearby and the access needed for the authorized treatment. Replacing the floor too soon can remove the route required to finish that work."
+      },
+      {
+        "title": "Record the section before reconstruction",
+        "text": "We will identify material addressed, sections outside the scope and any remaining moisture correction or evaluation. The floor repair provider can then plan reconstruction using the actual opening and completed work. Any later expansion will have a reason tied to findings rather than a generic assumption about the entire underside."
+      }
+    ],
+    "estimate": "The estimate will describe the section reached through the opening and any handling needed around it. Floor replacement and broader structural evaluation will remain separate tasks when they are not part of the authorized work.",
+    "checklist": [
+      "Share photographs taken when the floor was opened.",
+      "Identify the contractor responsible for rebuilding.",
+      "Keep the opening available until remaining steps are explained."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/combine": {
+    "intro": "Mold contaminated contents cleaning in Combine can be needed when stored clothing and household textiles have been removed from an affected closet. We will review the requested items and explain which can be evaluated for cleaning and which need a different decision.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Combine for stored textiles",
+        "text": "Fabrics, linings, trims and care requirements vary even within the same bag of belongings. We will avoid treating the group as one uniform material. The item\u2019s construction and observed condition will guide whether cleaning can be considered or a specialist needs to advise."
+      },
+      {
+        "title": "Keep ownership priorities visible",
+        "text": "Some items may be replaceable while others have sentimental value or are needed soon. We will record those priorities without promising recovery on that basis. A decision about a keepsake should remain identifiable rather than be lost among routine household items during sorting."
+      },
+      {
+        "title": "Plan a suitable return location",
+        "text": "Cleaned belongings should not be sent back into an area that is still awaiting remediation or moisture correction. We will explain the completed contents work and any unresolved item decisions. If the closet is not available, an alternative holding arrangement will need to be part of the return plan."
+      }
+    ],
+    "estimate": "The estimate will distinguish sorting, cleaning and any packing or transport included. Share the general item types and any care labels or prior treatment information that may affect the evaluation.",
+    "checklist": [
+      "Identify urgent-use items and personal keepsakes separately.",
+      "Keep item groups labeled after removal from the closet.",
+      "Confirm where treated belongings will be stored."
+    ]
+  },
+  "fire-damaged-debris-removal/combine": {
+    "intro": "Fire damaged debris removal in Combine may be needed when an inspection hold applies to one part of a room but other debris can be cleared. We will define the released area and keep retained material distinguishable before removal begins.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Combine around an inspection hold",
+        "text": "The hold needs an identifiable boundary so workers do not have to guess which material must stay. We will review the instructions available from the responsible party and clarify the authorized removal area. Material still awaiting release will not be mixed into debris approved for disposal."
+      },
+      {
+        "title": "Protect the usefulness of retained material",
+        "text": "A component may need to remain identifiable for a later review even if it is no longer in its original position. We will discuss the required handling before it is moved. The appropriate inspecting party should define any preservation requirements beyond ordinary cleanup handling."
+      },
+      {
+        "title": "Continue useful work without overstating completion",
+        "text": "Clearing released debris can improve access while the held section remains pending. We will record what was removed and what could not proceed. The completion account will describe that partial scope clearly so a later visit can be planned after the hold is resolved."
+      }
+    ],
+    "estimate": "The estimate will identify released material and any excluded held area. A return visit after release may involve a separate scope, particularly if new conditions become visible or the handling requirements change.",
+    "checklist": [
+      "Provide written hold or release instructions if available.",
+      "Identify the person authorized to release retained material.",
+      "Keep held components clearly distinguishable from disposable debris."
+    ]
+  },
+  "fire-damaged-contents-cleaning/combine": {
+    "intro": "Fire damaged contents cleaning in Combine can be needed when boxed belongings were in a room affected by smoke but their contents have not been inspected. We will explain a controlled review process before the boxes are opened and redistributed throughout the property.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Combine for unopened storage boxes",
+        "text": "The outside of a box cannot establish the condition of every item inside. We will review the packaging and discuss how the contents can be evaluated while keeping the groups identifiable. A box label or inventory can help preserve the connection between an item and its original storage location."
+      },
+      {
+        "title": "Make cleaning decisions after the contents are known",
+        "text": "A single box may contain materials with very different treatment needs. We will explain which items are proposed for cleaning, which need specialist review and which remain undecided. The proposal will not assume the same process is appropriate for paper, fabrics, electronics and hard household objects."
+      },
+      {
+        "title": "Repack according to the actual outcome",
+        "text": "Items completed for return should remain separate from those waiting on an evaluation or ownership decision. We will record that status and explain any packing included in our work. This avoids creating a newly sealed box whose mixed condition is difficult to understand later."
+      }
+    ],
+    "estimate": "The estimate will distinguish opening and sorting from item cleaning and repacking. If an inventory exists, share it before the visit so priority items can be identified without promising that every boxed object can be recovered.",
+    "checklist": [
+      "Keep original box labels visible.",
+      "Identify boxes containing priority or delicate items.",
+      "Tell us which boxes have already been opened or cleaned."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/combine": {
+    "intro": "Fire extinguisher residue cleanup in Combine can be needed when a discharge reaches the threshold between carpet and hard flooring. We will review each material and explain how its cleaning decision differs from the other side of the room.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Combine across a flooring transition",
+        "text": "Residue on a smooth surface and residue within a textile surface should not be treated as the same condition. We will examine the accessible materials and use available extinguisher information when planning the work. A successful result on the hard floor will not be presented as proof that the carpet has received equivalent treatment."
+      },
+      {
+        "title": "Keep movement across the threshold controlled",
+        "text": "Foot traffic and moved belongings can change where residue is visible after the discharge. We will review the route used and explain the proposed work boundary. Items resting across the transition may need relocation, with their own condition considered separately from the floor underneath."
+      },
+      {
+        "title": "Describe the result by material",
+        "text": "We will record the surfaces addressed and any area needing further evaluation, treatment or replacement advice. If the textile or its underlying assembly cannot be adequately evaluated within the initial scope, that limitation will remain clear. The entire room will not receive one undifferentiated completion statement."
+      }
+    ],
+    "estimate": "The estimate will identify each flooring material and any contents movement included. Other fire damage, specialist carpet decisions and finish repair will remain separate where they extend beyond residue cleanup.",
+    "checklist": [
+      "Keep extinguisher label details if available.",
+      "Identify routes used after the discharge.",
+      "Share any floor cleaning already attempted."
+    ]
+  },
+  "emergency-board-up-after-fire/combine": {
+    "intro": "Emergency board up after fire in Combine can be needed when a garage opening is damaged but the permanent door provider has not yet evaluated it. We will review the opening and explain a temporary protection option within the observed access and attachment limits.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Combine at a garage opening",
+        "text": "A wide opening and its surrounding damage may require a different arrangement from a small window. We will inspect the authorized area and explain what can be installed before work proceeds. The temporary measure will not establish that the door mechanism, framing or other components are suitable for reuse."
+      },
+      {
+        "title": "Resolve the access question before coverage",
+        "text": "Vehicles, stored property or equipment may still need an authorized retrieval plan. We will discuss that need before the opening is covered and identify whether another entry is available. Temporary protection should not be removed casually without a plan for restoring it after access."
+      },
+      {
+        "title": "Coordinate the door provider\u2019s evaluation",
+        "text": "The permanent provider may need to inspect or measure portions of the opening. We will explain the temporary arrangement and any return work included to support that visit. Final door selection and installation remain separate from the initial protective work."
+      }
+    ],
+    "estimate": "The estimate will identify the opening, preparation and temporary coverage proposed. Any later adjustment for retrieval, inspection or installation will be described separately so those visits have clear responsibilities.",
+    "checklist": [
+      "Identify property that still needs authorized retrieval.",
+      "Share the door provider\u2019s planned visit.",
+      "Tell us about current restrictions on entering the garage."
+    ]
+  },
+  "crawl-space-sewage-cleanup/combine": {
+    "intro": "Crawl space sewage cleanup in Combine can be needed when a release has affected material around more than one access opening. We will explain which entrance will serve the cleanup and how the other locations will be evaluated without confusing the work route with the affected area.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Combine with more than one entrance",
+        "text": "The easiest entrance may not be closest to every affected section. We will review the reachable areas and identify the route proposed for equipment and removed material. An unused opening will not mean the material beyond it was inspected or excluded; the evaluation boundary will be stated directly."
+      },
+      {
+        "title": "Keep removed material away from the next access point",
+        "text": "Handling space around the building matters when another provider needs a different entrance. We will discuss where authorized material will be carried and held before disposal. That arrangement should preserve useful access rather than create a new obstruction at the next work location."
+      },
+      {
+        "title": "Record the areas reached from each route",
+        "text": "A location-based account helps the plumber or reconstruction provider understand the remaining task. We will document the accessible cleanup and any unresolved section. If another opening later makes additional material reachable, the findings will be reviewed before new work is authorized."
+      }
+    ],
+    "estimate": "The estimate will state the accessible sections, handling route and cleanup included. Pipe correction and replacement of removed building material will remain distinct tasks, with any access dependencies explained before the project moves forward.",
+    "checklist": [
+      "Identify every known access opening.",
+      "Share the repaired pipe location if available.",
+      "Tell us which entrance another provider expects to use."
+    ]
+  }
+}

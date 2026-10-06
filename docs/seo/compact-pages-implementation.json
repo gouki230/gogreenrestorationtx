@@ -1,0 +1,129 @@
+{
+  "status": "implemented locally; not deployed",
+  "date": "2026-10-04",
+  "new_pages": [
+    {
+      "title": "Emergency water extraction",
+      "path": "/services/emergency-water-extraction/",
+      "parent": "/services/water-damage-restoration/"
+    },
+    {
+      "title": "Burst pipe cleanup",
+      "path": "/services/burst-pipe-cleanup/",
+      "parent": "/services/water-damage-restoration/"
+    },
+    {
+      "title": "Appliance leak cleanup",
+      "path": "/services/appliance-leak-cleanup/",
+      "parent": "/services/water-damage-restoration/"
+    },
+    {
+      "title": "Storm water damage cleanup",
+      "path": "/services/storm-water-damage-cleanup/",
+      "parent": "/services/water-damage-restoration/"
+    },
+    {
+      "title": "Structural drying services",
+      "path": "/services/structural-drying-services/",
+      "parent": "/services/water-damage-restoration/"
+    },
+    {
+      "title": "Floor water damage cleanup",
+      "path": "/services/floor-water-damage-cleanup/",
+      "parent": "/services/water-damage-restoration/"
+    },
+    {
+      "title": "Ceiling water damage cleanup",
+      "path": "/services/ceiling-water-damage-cleanup/",
+      "parent": "/services/water-damage-restoration/"
+    },
+    {
+      "title": "Bathroom mold removal",
+      "path": "/services/bathroom-mold-removal/",
+      "parent": "/services/mold-remediation/"
+    },
+    {
+      "title": "Kitchen cabinet mold removal",
+      "path": "/services/kitchen-cabinet-mold-removal/",
+      "parent": "/services/mold-remediation/"
+    },
+    {
+      "title": "Mold remediation after water damage",
+      "path": "/services/mold-remediation-after-water-damage/",
+      "parent": "/services/mold-remediation/"
+    },
+    {
+      "title": "Mold removal behind drywall",
+      "path": "/services/mold-removal-behind-drywall/",
+      "parent": "/services/mold-remediation/"
+    },
+    {
+      "title": "Kitchen fire cleanup",
+      "path": "/services/kitchen-fire-cleanup/",
+      "parent": "/services/fire-smoke-damage-restoration/"
+    },
+    {
+      "title": "Smoke damage cleanup",
+      "path": "/services/smoke-damage-cleanup/",
+      "parent": "/services/fire-smoke-damage-restoration/"
+    },
+    {
+      "title": "Toilet overflow cleanup",
+      "path": "/services/toilet-overflow-cleanup/",
+      "parent": "/services/sewage-backup-cleanup/"
+    },
+    {
+      "title": "AC leak water damage cleanup",
+      "path": "/services/ac-leak-water-damage-cleanup/",
+      "parent": "/services/water-damage-restoration/"
+    },
+    {
+      "title": "Crawl space water removal",
+      "path": "/services/crawl-space-water-removal/",
+      "parent": "/services/water-damage-restoration/"
+    },
+    {
+      "title": "Attic mold remediation",
+      "path": "/services/attic-mold-remediation/",
+      "parent": "/services/mold-remediation/"
+    },
+    {
+      "title": "Crawl space mold remediation",
+      "path": "/services/crawl-space-mold-remediation/",
+      "parent": "/services/mold-remediation/"
+    },
+    {
+      "title": "Mold contaminated contents cleaning",
+      "path": "/services/mold-contaminated-contents-cleaning/",
+      "parent": "/services/mold-remediation/"
+    },
+    {
+      "title": "Fire damaged debris removal",
+      "path": "/services/fire-damaged-debris-removal/",
+      "parent": "/services/fire-smoke-damage-restoration/"
+    },
+    {
+      "title": "Fire damaged contents cleaning",
+      "path": "/services/fire-damaged-contents-cleaning/",
+      "parent": "/services/fire-smoke-damage-restoration/"
+    },
+    {
+      "title": "Fire extinguisher residue cleanup",
+      "path": "/services/fire-extinguisher-residue-cleanup/",
+      "parent": "/services/fire-smoke-damage-restoration/"
+    },
+    {
+      "title": "Emergency board up after fire",
+      "path": "/services/emergency-board-up-after-fire/",
+      "parent": "/services/fire-smoke-damage-restoration/"
+    },
+    {
+      "title": "Crawl space sewage cleanup",
+      "path": "/services/crawl-space-sewage-cleanup/",
+      "parent": "/services/sewage-backup-cleanup/"
+    }
+  ],
+  "city_variants": "Not generated: require distinct local usefulness under architecture plan",
+  "conditional_topics": "All ten confirmed by owner on 2026-10-04 and implemented; existing mold provider disclosure retained",
+  "supporting_article_links": 217
+}

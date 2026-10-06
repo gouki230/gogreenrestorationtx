@@ -19,6 +19,7 @@ interface Props {
   breadcrumbs?: { name: string; url: string }[];
   keywords?: string[];
   noindex?: boolean;
+  omitOfficeCopy?: boolean;
 }
 
 const {
@@ -30,6 +31,7 @@ const {
   breadcrumbs = [],
   keywords = [],
   noindex = false,
+  omitOfficeCopy = false,
 } = Astro.props;
 
 const siteUrl = 'https://gogreenrestorationtx.com';
@@ -173,7 +175,7 @@ const allSchemas = [organizationSchema, ...schema];
   <main>
     <slot />
   </main>
-  <Footer />
+  <Footer omitOfficeCopy={omitOfficeCopy} />
 
   <!-- Sticky Mobile CTA Bar -->
   <div class="fixed bottom-0 left-0 right-0 z-50 lg:hidden bg-brand-brown border-t border-brand-brown-dark shadow-[0_-4px_12px_rgba(0,0,0,0.15)]">

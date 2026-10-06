@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "path": "/real-estate/",
+      "checks": {
+        "title": true,
+        "H1": true,
+        "meta": true,
+        "H2": true,
+        "intro": true,
+        "canonical": true,
+        "indexable": true,
+        "sitemap": true,
+        "image": true
+      }
+    },
+    {
+      "path": "/services/mold-remediation-before-closing/",
+      "checks": {
+        "title": true,
+        "H1": true,
+        "meta": true,
+        "H2": true,
+        "intro": true,
+        "canonical": true,
+        "indexable": true,
+        "sitemap": true,
+        "image": true
+      }
+    },
+    {
+      "path": "/services/water-damage-repair-before-closing/",
+      "checks": {
+        "title": true,
+        "H1": true,
+        "meta": true,
+        "H2": true,
+        "intro": true,
+        "canonical": true,
+        "indexable": true,
+        "sitemap": true,
+        "image": true
+      }
+    },
+    {
+      "path": "/services/pre-listing-mold-removal/",
+      "checks": {
+        "title": true,
+        "H1": true,
+        "meta": true,
+        "H2": true,
+        "intro": true,
+        "canonical": true,
+        "indexable": true,
+        "sitemap": true,
+        "image": true
+      }
+    }
+  ],
+  "errors": [],
+  "deployment": "not deployed",
+  "visualReview": {
+    "page": "/real-estate/",
+    "widths": [
+      779,
+      390
+    ],
+    "imageLoaded": true,
+    "horizontalOverflow": false,
+    "mobileOrder": "heading,intro,CTA,image,details"
+  },
+  "integration": {
+    "header": "Real Estate Agents in Commercial menu",
+    "pillars": [
+      "mold-remediation",
+      "water-damage-restoration",
+      "construction-remodeling"
+    ],
+    "compactServices": [
+      "attic-mold-remediation",
+      "crawl-space-mold-remediation",
+      "bathroom-mold-removal",
+      "kitchen-cabinet-mold-removal"
+    ],
+    "articles": 4,
+    "contact": "Guidance above existing Workiz embed; no CRM schema change"
+  }
+}

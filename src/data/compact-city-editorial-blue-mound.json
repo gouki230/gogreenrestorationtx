@@ -1,0 +1,586 @@
+{
+  "emergency-water-extraction/blue-mound": {
+    "intro": "Emergency water extraction in Blue Mound helps when water reaches an interior hallway and blocks the usual route between rooms. You need a plan for removal and access, not just an estimate for the visible puddle. We will assess the source and accessible spread and explain the immediate work sequence.",
+    "sections": [
+      {
+        "title": "Emergency water extraction through a shared passage",
+        "text": "We will review which rooms need access and inspect relevant doorway and floor transitions. Different materials along the route may require different decisions. The scope will follow evaluated conditions rather than assume the hallway alone contains all affected water."
+      },
+      {
+        "title": "Organize work around practical restrictions",
+        "text": "We will discuss equipment placement and any belongings that obstruct the passage. Electrical concerns or unsafe areas may require qualified evaluation before use. The plan will identify a workable route without promising unrestricted movement through the active work area."
+      },
+      {
+        "title": "Explain the remaining drying decisions",
+        "text": "We will document extraction and communicate which materials need monitoring or further access. A cleared passage does not establish that every floor layer is ready for repair. The handoff will identify outstanding source, drying, and reconstruction tasks."
+      }
+    ],
+    "estimate": "The estimate depends on source conditions, materials, spread, access, and follow-up drying. Contact us with the incident timeline and rooms reached through the hallway. We will explain the available response and the practical assessment before work begins.",
+    "checklist": [
+      "Tell us which rooms have no alternate access.",
+      "Identify water near electrical equipment from a safe location.",
+      "Share the source correction status."
+    ]
+  },
+  "burst-pipe-cleanup/blue-mound": {
+    "intro": "Burst pipe cleanup in Blue Mound helps when a pipe repair leaves wet material above a cabinet or shelving unit that cannot be reached easily from the floor. The high location affects access and protection as well as cleanup. We will assess accessible findings and explain the work needed before the wall or ceiling is patched.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup above fixed storage",
+        "text": "We will review the pipe location and existing repair opening. Cabinets or shelves may limit inspection of surrounding materials. Any additional access will have a defined purpose, with protection and handling needs discussed before removal."
+      },
+      {
+        "title": "Keep plumbing and restoration separate",
+        "text": "The provider\u2019s repair notes can clarify the source status. We will use them as context while evaluating current material conditions. A completed pipe repair does not establish that concealed insulation, wall finish, or framing has finished drying."
+      },
+      {
+        "title": "Handoff the elevated work area",
+        "text": "We will record cleanup and drying observations and identify remaining source or finish tasks. The repair contractor will know what was assessed before closure. Stored belongings may require individual decisions separate from the building scope."
+      }
+    ],
+    "estimate": "Costs depend on height, assembly construction, access, protection, and drying or removal needs. Share the plumbing findings and safe room photographs. We will assess the available opening before recommending broader access.",
+    "checklist": [
+      "Identify fixed storage beneath the repair.",
+      "Tell us whether belongings were affected.",
+      "Keep photographs from the plumbing opening."
+    ]
+  },
+  "appliance-leak-cleanup/blue-mound": {
+    "intro": "Appliance leak cleanup in Blue Mound helps when a leak reaches a recently emptied room and exposes floor or wall damage previously hidden by furniture. The new view can change the cleanup decisions. We will assess accessible findings and explain the work before replacement belongings cover the area again.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup while the room is empty",
+        "text": "We will use the available access to inspect wall edges and floor sections that furniture previously covered. Tell us which surfaces became visible only after the move. That helps us describe the inspection accurately without assuming every mark appeared during the latest leak."
+      },
+      {
+        "title": "Compare the discovery history with present conditions",
+        "text": "Photographs taken before furniture left can show where water or staining was first noticed. We will consider those alongside current moisture observations. The purpose is a reliable starting record, not assigning responsibility to a mover, appliance technician, or previous occupant."
+      },
+      {
+        "title": "Make repair choices before deliveries resume",
+        "text": "An empty room creates an opportunity to evaluate layers or junctions that will be difficult to reach later. We will explain any proposed opening and what it needs to establish. If the findings support retaining a material, the scope should say so rather than automatically turn the empty space into a full replacement project."
+      },
+      {
+        "title": "Set a practical return arrangement",
+        "text": "We will identify areas that must remain accessible during monitoring and explain whether belongings can be placed elsewhere. The delivery calendar is useful for coordination, but it cannot settle material readiness. You will receive a status describing completed work and remaining decisions before the room is filled again."
+      }
+    ],
+    "estimate": "Pricing will reflect the building materials and work actually supported by assessment, plus any selected handling. Provide the appliance service findings and the move schedule. We will clarify which source issue was corrected and whether the empty-room access changes the proposed cleanup method.",
+    "checklist": [
+      "Tell us which surfaces became visible after furniture removal.",
+      "Share the appliance repair status.",
+      "Identify planned deliveries that could restrict access."
+    ]
+  },
+  "storm-water-damage-cleanup/blue-mound": {
+    "intro": "Storm water damage cleanup in Blue Mound helps when rain affects both the visible wall surface and belongings stored against it. You need to understand the building scope and the item decisions without treating them as one task. We will assess accessible conditions and explain an organized cleanup sequence.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup at a furnished wall",
+        "text": "We will review the entry history and identify what must move for useful inspection. The back of furniture and the wall behind it can have different conditions. The scope will distinguish observed damage from areas still blocked or concealed."
+      },
+      {
+        "title": "Separate belongings from the assembly",
+        "text": "Selected items may need evaluation, cleaning, or another decision based on material and exposure. We will clarify what handling is included before work begins. Moving an item out does not establish its suitability for return or resolve the wall beneath it."
+      },
+      {
+        "title": "Coordinate source and repair work",
+        "text": "We will use available exterior findings and identify unresolved entry questions. Cleanup and drying progress will be documented before finishes or furniture conceal the area again. Permanent source correction remains separate from indoor restoration."
+      }
+    ],
+    "estimate": "Pricing depends on materials, access, contents handling, and the work supported by inspection. Contact us with the rain-entry history and furniture arrangement. We will explain which tasks are included and what requires a separate decision.",
+    "checklist": [
+      "Identify items that stood against the wet wall.",
+      "Share available exterior repair notes.",
+      "Tell us what was moved or cleaned already."
+    ]
+  },
+  "structural-drying-services/blue-mound": {
+    "intro": "Structural drying services in Blue Mound help when a repair opening exposes two adjoining materials that appear to dry at different rates. You need to know which condition controls the next step before closure. We will assess the accessible assembly and explain monitoring in terms of the materials involved.",
+    "sections": [
+      {
+        "title": "Structural drying services at an exposed junction",
+        "text": "We will identify the wall, floor, or other components being evaluated and record relevant observations. A faster-changing surface does not establish the condition of a slower adjoining layer. The plan will state where access limits the assessment."
+      },
+      {
+        "title": "Connect progress to decisions",
+        "text": "We will explain whether the setup is working or whether access, equipment, or material decisions need review. Recommendations will be based on findings rather than a fixed number of equipment days. Scope changes will be discussed before additional work proceeds."
+      },
+      {
+        "title": "Handoff the assembly before closure",
+        "text": "We will document completed drying work and remaining source, repair, or evaluation needs. The next provider will know which locations were assessed. Product-specific installation requirements remain separate from our record."
+      }
+    ],
+    "estimate": "The estimate depends on construction, moisture conditions, access, equipment, and monitoring. Share the incident history and any earlier readings. We will assess the current junction before recommending closure or a change in the plan.",
+    "checklist": [
+      "Identify materials exposed by the repair opening.",
+      "Keep monitored areas accessible.",
+      "Share the planned reconstruction sequence."
+    ]
+  },
+  "floor-water-damage-cleanup/blue-mound": {
+    "intro": "Floor water damage cleanup in Blue Mound helps when a wet floor has been covered temporarily to keep a room usable and the condition underneath is uncertain. The temporary covering may restrict inspection and drying access. We will assess the accessible materials and explain what needs review before the floor is repaired.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup beneath temporary protection",
+        "text": "We will review what was placed over the affected area and when. The covering\u2019s appearance does not establish the underlying condition. Any lifting or selective access will have a stated purpose for evaluating the assembly."
+      },
+      {
+        "title": "Separate room use from restoration readiness",
+        "text": "A temporary walking surface can serve a practical need without making the original floor ready for reconstruction. We will explain restrictions and access requirements. The plan will distinguish immediate use arrangements from material treatment and repair decisions."
+      },
+      {
+        "title": "Provide a clear installer handoff",
+        "text": "We will communicate drying observations and remaining substrate or source concerns. The flooring provider may have additional installation requirements. Our record will identify what was assessed before a permanent covering conceals it."
+      }
+    ],
+    "estimate": "Costs depend on floor construction, exposure, access, handling, and necessary drying or removal. Contact us with the leak history and temporary covering details. We will explain the supported next step before replacement flooring is ordered.",
+    "checklist": [
+      "Tell us what temporary material covers the floor.",
+      "Identify why it was installed and when.",
+      "Share any earlier moisture or cleanup records."
+    ]
+  },
+  "ceiling-water-damage-cleanup/blue-mound": {
+    "intro": "Ceiling water damage cleanup in Blue Mound helps when a ceiling repair is planned but the contractor cannot tell whether the adjacent insulation or cavity materials were addressed after the leak. A patch estimate needs an accurate starting condition. We will assess accessible findings and explain the cleanup decisions before closure.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup when earlier work is unclear",
+        "text": "We will start by identifying what the previous provider actually did inside the ceiling. Available work notes may show an opening or a removed section without confirming that every adjacent layer was examined. Missing documentation will be treated as an unanswered question, not evidence that a material is wet or dry."
+      },
+      {
+        "title": "Establish a current condition record",
+        "text": "We will inspect what is accessible now and describe where the view stops. If the opening is small, we will explain whether it can answer the repair contractor\u2019s question. A larger opening will be proposed only for a specific assessment or treatment need."
+      },
+      {
+        "title": "Resolve the decision holding up the patch",
+        "text": "The useful question may be whether a retained layer needs removal, whether monitoring is still required, or whether source correction is incomplete. We will explain which finding controls that decision. This gives you a concrete next action instead of another general instruction to wait."
+      },
+      {
+        "title": "Keep the final repair scope understandable",
+        "text": "Our handoff will identify work completed during our scope and avoid claiming ownership of earlier tasks we did not verify. Texture matching and paint coverage remain separate finish choices. The patch contractor will receive the current status and remaining limits before the assembly is concealed."
+      }
+    ],
+    "estimate": "Bring the earlier cleanup description, source findings, and proposed patch scope if available. We will explain which current assessment or restoration tasks are needed to resolve the uncertainty, rather than pricing a repeat of every previous stage by default.",
+    "checklist": [
+      "Identify material already removed by another provider.",
+      "Share the leak correction details.",
+      "Tell us when the patch work is proposed."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/blue-mound": {
+    "intro": "AC leak water damage cleanup in Blue Mound helps when a mechanical leak wets trim beside a closet and the equipment repair does not include the surrounding finish materials. Replacing trim alone may leave concealed moisture unanswered. We will assess accessible conditions and explain cleanup and drying decisions before cosmetic repairs.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup before trim replacement",
+        "text": "We will examine the closet-edge change and identify whether it is limited to the trim or requires further assessment of the adjoining assembly. Replacing the visible strip may be an appearance task while the material behind it remains unresolved. The recommendation will explain that difference."
+      },
+      {
+        "title": "Use a trim opening to answer a specific question",
+        "text": "If removal is justified, we will describe what it allows us to inspect or address. The resulting view may support drying, another material decision, or no expansion of the original boundary. We will report the finding before additional removal proceeds."
+      },
+      {
+        "title": "Review storage and recurring moisture",
+        "text": "Closet contents can restrict the view of the lower wall. We will discuss practical handling and ask whether dampness returned after the HVAC visit. That history informs the assessment without proving the source by itself."
+      },
+      {
+        "title": "Prepare the carpenter\u2019s next step",
+        "text": "We will document cleanup and the condition reviewed before replacement trim hides the junction. The carpenter will know the remaining repair requirements, and mechanical follow-up will stay separate. A neat trim line will not substitute for completion of the underlying scope."
+      }
+    ],
+    "estimate": "Share the service provider\u2019s correction details and any trim already removed. We will distinguish access, drying, and building repair from the HVAC work, and explain provisional items where the lower wall cannot yet be evaluated.",
+    "checklist": [
+      "Tell us whether trim has already been removed.",
+      "Identify belongings blocking the closet edge.",
+      "Share any moisture observed after the service visit."
+    ]
+  },
+  "crawl-space-water-removal/blue-mound": {
+    "intro": "Crawl space water removal in Blue Mound helps when water prevents a clear inspection of ground covering and lower building materials after a leak. The first stage may be improving visibility rather than replacing materials immediately. We will assess safe access and explain a defined removal objective.",
+    "sections": [
+      {
+        "title": "Crawl space water removal before choosing replacement materials",
+        "text": "We will establish which covering or lower assembly cannot currently be inspected because water blocks the view. The first proposal will explain what removal is expected to reveal. We will not price unseen replacement quantities as if the condition were already established."
+      },
+      {
+        "title": "Make the first-stage result reviewable",
+        "text": "After the agreed water removal, we will document the accessible condition and explain what changed in visibility. Some material may be intact, while other sections need cleanup or another evaluation. Those findings become the basis for the next authorization rather than an automatic commitment to replace everything."
+      },
+      {
+        "title": "Keep source uncertainty in the schedule",
+        "text": "A plumbing or drainage provider may still need to establish why water accumulated. We will identify that pending task so new coverings are not treated as a solution to recurring entry. Removal and permanent correction remain different parts of the work."
+      },
+      {
+        "title": "Give the next provider useful boundaries",
+        "text": "Our handoff will state the area addressed, the material observations made, and sections still inaccessible. The installer can then evaluate its own product and preparation requirements. A completed pumping stage does not establish structural adequacy or every condition beneath the building."
+      }
+    ],
+    "estimate": "Share the inspection notes and any replacement proposal already obtained. The estimate will identify the removal objective and assumptions requiring later review. You do not need to enter the water to collect measurements or photographs before requesting an assessment.",
+    "checklist": [
+      "Identify the materials the inspector could not see.",
+      "Tell us whether source correction is complete.",
+      "Share known entry or utility restrictions."
+    ]
+  },
+  "bathroom-mold-removal/blue-mound": {
+    "intro": "Bathroom mold removal in Blue Mound helps when removing a bathroom storage unit reveals suspected growth on the wall that was hidden behind it. The unit and the building materials may need different decisions. We will assess the accessible condition and explain the remediation scope before either is repaired or returned.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal behind a storage unit",
+        "text": "We will inspect the exposed surface and relevant floor or wall junctions. The furniture footprint does not establish the full affected boundary. Additional access will be proposed for a clear evaluation or treatment purpose."
+      },
+      {
+        "title": "Separate the unit from the wall",
+        "text": "A cabinet, shelf, or basket may have its own material limitations. We will clarify whether contents evaluation is included and identify pending decisions. Addressing the wall does not automatically establish that everything stored against it is suitable to return."
+      },
+      {
+        "title": "Resolve moisture and closure needs",
+        "text": "We will review leak history and identify source questions for appropriate evaluation. Completed work, remaining repairs, and any independent review requirement will be documented before access is concealed again."
+      }
+    ],
+    "estimate": "The estimate depends on materials, access, evaluated extent, and selected handling. Share photographs of the newly exposed wall and any leak findings. We will explain the supported scope before recommending a broader bathroom project.",
+    "checklist": [
+      "Tell us how long the unit stood in that position if known.",
+      "Identify belongings already cleaned or discarded.",
+      "Share previous plumbing or wall repair details."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/blue-mound": {
+    "intro": "Kitchen cabinet mold removal in Blue Mound helps when replacing a cabinet toe kick exposes suspected growth along the lower interior edge. A new strip can hide the view without addressing the material condition. We will assess accessible findings and explain what needs evaluation before the cabinet base is closed.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal through a toe-kick opening",
+        "text": "We will inspect the exposed junction and identify where the opening limits visibility. The trim replacement boundary may differ from the remediation boundary. Any additional access will be explained according to the question it needs to answer."
+      },
+      {
+        "title": "Review source information",
+        "text": "Tell us about plumbing or appliance leaks and what repairs were completed. We will distinguish those records from current observations. Unresolved moisture questions will remain with the appropriate qualified evaluation rather than be treated as solved by new trim."
+      },
+      {
+        "title": "Handoff the cabinet base",
+        "text": "We will document materials addressed and explain remaining carpentry or independent review requirements. The installer will know what was evaluated before closing the opening. Areas outside the accessible scope will remain identified."
+      }
+    ],
+    "estimate": "Costs depend on construction, access, affected materials, and project requirements. Contact us while the lower opening is available and share safe photographs. We will explain selective options before more cabinetry is removed.",
+    "checklist": [
+      "Tell us why the toe kick was being replaced.",
+      "Share available leak correction notes.",
+      "Identify any flooring changes beside the cabinet."
+    ]
+  },
+  "mold-remediation-after-water-damage/blue-mound": {
+    "intro": "Mold remediation after water damage in Blue Mound helps when suspected growth is discovered during a final walkthrough before repairs begin. The remaining material needs a decision even if earlier cleanup is complete elsewhere. We will assess the accessible finding and explain how it affects the reconstruction sequence.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage at a repair walkthrough",
+        "text": "We will review the reported location and inspect available materials. A walkthrough observation may be limited, so the scope will distinguish evaluated findings from concealed areas. The repair boundary will not automatically become the remediation boundary."
+      },
+      {
+        "title": "Clarify the earlier scope",
+        "text": "Photographs and work records can show what was removed or dried previously. We will distinguish those records from current conditions and identify unresolved source questions. New work will be tied to the present finding rather than assume every completed stage must be repeated."
+      },
+      {
+        "title": "Restart with a documented status",
+        "text": "We will explain treatment or removal, record progress, and identify remaining repairs or independent review requirements. Reconstruction should follow the relevant handoff. Our work notes will not substitute for separate assessment or clearance where required."
+      }
+    ],
+    "estimate": "The estimate reflects materials, access, evaluated extent, and applicable requirements. Share the walkthrough observation and earlier cleanup records. We will assess the condition before a planned repair date is treated as proof of readiness.",
+    "checklist": [
+      "Identify the exact location noted during the walkthrough.",
+      "Gather earlier photographs or drying records.",
+      "Share the source correction status."
+    ]
+  },
+  "mold-removal-behind-drywall/blue-mound": {
+    "intro": "Mold removal behind drywall in Blue Mound helps when replacing a wall vent or grille exposes suspected growth at the opening. The visible edge may not describe the condition deeper in the assembly. We will assess accessible findings and explain the next evaluation or remediation step before the opening is covered.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall at an existing opening",
+        "text": "We will distinguish the wall material from equipment or duct components that may require another provider. The current opening can offer limited visibility. Additional access will have a stated purpose rather than an assumption that the whole wall is affected."
+      },
+      {
+        "title": "Keep mechanical and moisture questions separate",
+        "text": "Tell us why the grille was removed and whether a technician identified a leak or condensation concern. We will use those findings as context without diagnosing the cause from location alone. Qualified mechanical evaluation will remain distinct from building remediation."
+      },
+      {
+        "title": "Handoff before replacement",
+        "text": "We will document materials addressed and identify remaining repair or independent review requirements. The installer will know the assessed boundary and limits before the opening closes. A replaced grille will not be presented as completion of unrelated cavity work."
+      }
+    ],
+    "estimate": "Pricing depends on construction, access, evaluated extent, and project requirements. Contact us with safe photographs and any service findings. We will explain the supported next step before broader wall removal is authorized.",
+    "checklist": [
+      "Tell us why the vent or grille was removed.",
+      "Share technician observations if available.",
+      "Keep the opening accessible until the scope is defined."
+    ]
+  },
+  "attic-mold-remediation/blue-mound": {
+    "intro": "Attic mold remediation in Blue Mound helps when an inspection report shows a suspected-growth photograph without explaining how much of the attic was examined. You need an assessed scope before comparing treatment proposals. We will review the report and inspect safe accessible conditions rather than turn one image into a whole-attic assumption.",
+    "sections": [
+      {
+        "title": "Attic mold remediation from a limited report",
+        "text": "We will identify the photographed location where possible and explain what our access allows us to evaluate. Areas outside the view will remain explicit. The scope will distinguish observed findings from questions requiring further inspection."
+      },
+      {
+        "title": "Clarify moisture and repair information",
+        "text": "Tell us about roof or mechanical findings that accompany the report. We will keep source correction and structural questions with the appropriate qualified providers. Treatment alone will not be presented as a solution to an unresolved moisture cause."
+      },
+      {
+        "title": "Make proposals comparable",
+        "text": "We will describe surfaces included, preparation, and any access limits. Completed work and remaining independent review requirements will be documented. That gives you a concrete scope to compare rather than a general promise to treat the attic."
+      }
+    ],
+    "estimate": "The estimate depends on accessible surfaces, preparation, evaluated extent, and project requirements. Share the report and photographs already available. You do not need to enter an attic with uncertain footing to reproduce the image yourself.",
+    "checklist": [
+      "Provide the report\u2019s location notes if present.",
+      "Share source findings or planned repairs.",
+      "Identify access restrictions reported by the inspector."
+    ]
+  },
+  "crawl-space-mold-remediation/blue-mound": {
+    "intro": "Crawl space mold remediation in Blue Mound helps when a repair estimate includes treatment but does not identify which materials or locations are involved. Before authorizing work, you need a clear assessed boundary and separate repair responsibilities. We will inspect safe accessible conditions and explain the proposed remediation in concrete terms.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation with a defined material scope",
+        "text": "We will identify the surfaces evaluated and distinguish them from inaccessible sections. Framing, insulation, and coverings may need different decisions. The proposal will describe the action supported for each observed material rather than one undefined treatment line."
+      },
+      {
+        "title": "Separate source and structural work",
+        "text": "Available leak or drainage findings will inform the sequence, while unresolved questions remain explicit. Structural repair requires the appropriate qualified evaluation. Remediation will not be presented as proof of a component\u2019s strength or correction of every moisture issue."
+      },
+      {
+        "title": "Document the completion boundary",
+        "text": "We will record tasks performed and identify remaining repair or independent review requirements. Uninspected sections will not be described as clear. The next provider will know exactly what the scope addressed before new materials cover the area."
+      }
+    ],
+    "estimate": "Costs depend on entry, materials, evaluated extent, and preparation. Share the existing estimate and inspection notes. We will assess the current condition before recommending a scope that can be compared on actual work rather than a broad label.",
+    "checklist": [
+      "Identify unclear line items in the existing proposal.",
+      "Share source repair information.",
+      "Tell us what access the earlier inspector used."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/blue-mound": {
+    "intro": "Mold contaminated contents cleaning in Blue Mound helps when belongings from an affected room have been grouped for disposal but you want selected items evaluated first. The review can be limited to the items that matter to you. We will explain realistic treatment options before any additional cleaning or disposal decision.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning before selected disposal decisions",
+        "text": "We will establish the review list and keep it separate from confirmed waste. An item\u2019s position in a disposal pile does not determine its treatment suitability. Material condition and accessible construction will guide the options."
+      },
+      {
+        "title": "Explain feasibility and specialist needs",
+        "text": "We will discuss what a proposed method can address and whether trial work is useful. Sensitive or unusual items may need another provider. Personal importance can guide priorities without becoming a promise of recovery."
+      },
+      {
+        "title": "Return a clear decision record",
+        "text": "We will describe treatment performed, items still pending, and remaining limitations. The receiving space\u2019s condition will be considered before processed belongings return. Contents work will not substitute for building remediation or independent review where required."
+      }
+    ],
+    "estimate": "The estimate depends on the selected inventory, materials, handling, and agreed trial work. Send a concise list and safe photographs. We will define the first review group before authorizing work on additional belongings.",
+    "checklist": [
+      "Identify items that must not be discarded before review.",
+      "Tell us what treatment was already attempted.",
+      "Share whether a suitable receiving space is available."
+    ]
+  },
+  "kitchen-fire-cleanup/blue-mound": {
+    "intro": "Kitchen fire cleanup in Blue Mound helps when a fire leaves damage around an open shelving area and the items on it need separate review from the wall and cabinets. Clearing the shelves is only the first organizational step. We will assess accessible materials and explain a cleanup plan before the area is rebuilt.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup around open shelving",
+        "text": "We will inspect the fixed surfaces and review where belongings were located. Heat effects, residue, and extinguishing water may lead to different decisions. The scope will identify what is observed rather than assume every object and surface has identical exposure."
+      },
+      {
+        "title": "Keep contents decisions traceable",
+        "text": "We will clarify which items are included for evaluation and which need specialist attention or another decision. Food and stored household objects will not automatically be considered suitable for use because the shelf itself was cleaned. Pending items will remain identifiable."
+      },
+      {
+        "title": "Handoff before shelves are refilled",
+        "text": "We will record surfaces treated and materials removed, then explain remaining drying or repair needs. Equipment concerns remain with the appropriate qualified provider. The handoff will describe the assessed area and limits before belongings cover it again."
+      }
+    ],
+    "estimate": "The estimate depends on materials, access, contents handling, and the work supported by inspection. Share safe photographs and tell us what was removed already. We will explain the building and contents scopes separately before work begins.",
+    "checklist": [
+      "Identify items originally stored near the fire area.",
+      "Tell us which shelves or panels were removed.",
+      "Share any equipment inspection status."
+    ]
+  },
+  "smoke-damage-cleanup/blue-mound": {
+    "intro": "Smoke damage cleanup in Blue Mound helps when a room has been emptied for repairs and residue is now visible behind previously fixed furnishings. The newly exposed surfaces may not have been part of the first cleanup. We will assess their condition and explain the remaining treatment before reconstruction limits access.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup on newly exposed wall areas",
+        "text": "We will inspect the visible surfaces and review what formerly covered them. Current findings will guide the scope rather than assume the earlier room treatment included inaccessible sections. The assessment will state any remaining limits."
+      },
+      {
+        "title": "Evaluate finish condition before choosing a method",
+        "text": "Paint, unfinished backing, trim, and other materials may require different approaches. We will explain any useful trial and its limits. Cleaning may leave appearance damage that still requires repair, and that distinction will be clear before repainting."
+      },
+      {
+        "title": "Handoff to reconstruction",
+        "text": "We will document work performed and identify pending surface, contents, or equipment decisions. New fixtures or cabinetry should follow that status. The record will distinguish completed cleanup from the decorative or installation work still required."
+      }
+    ],
+    "estimate": "Pricing depends on materials, accessible extent, sensitivity, and selected treatment. Share the earlier cleanup description and safe photographs of the newly exposed area. We will assess the remaining concern before assuming the entire room needs repeating.",
+    "checklist": [
+      "Tell us what was removed to reveal the surface.",
+      "Share prior cleaning methods if known.",
+      "Identify the reconstruction step that will cover it."
+    ]
+  },
+  "toilet-overflow-cleanup/blue-mound": {
+    "intro": "Toilet overflow cleanup in Blue Mound helps when an overflow affects a bathroom while a cabinet or fixture is already removed for renovation. Exposed materials may need different decisions from the surrounding finished surfaces. We will assess the source and accessible exposure before construction resumes.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup during fixture replacement",
+        "text": "We will establish which fixture or cabinet was absent when the overflow occurred. That can expose wall edges or floor penetrations that are normally covered. The assessment will focus on those available surfaces and explain any uncertainty about adjoining layers."
+      },
+      {
+        "title": "Clarify the interruption to the plumbing job",
+        "text": "Tell us whether the overflow arose before, during, or after the scheduled work and what the plumber has confirmed. We will document the reported sequence without assigning responsibility. The correction and any restriction on use remain with the qualified plumbing provider."
+      },
+      {
+        "title": "Decide what must remain open",
+        "text": "The next installation may close access to the affected junction. We will identify the cleanup and monitoring decisions that need to happen first, rather than automatically reinstalling the fixture to restore the room\u2019s appearance. Materials outside the accessible assessment will remain explicit limits."
+      },
+      {
+        "title": "Provide a restart note for the installer",
+        "text": "We will describe the incident-related work completed and the items still pending. Reconnection, sealing, and product installation requirements are separate responsibilities. The installer will have useful information about the area being covered before continuing its scope."
+      }
+    ],
+    "estimate": "The estimate will explain the cleanup associated with the exposed fixture area and any necessary handling. Share the plumbing work stage and photographs already available. We will keep the restoration scope distinct from the original fixture-replacement price.",
+    "checklist": [
+      "Identify materials exposed during the overflow.",
+      "Share the plumber\u2019s correction status.",
+      "Tell us what new supplies were stored nearby."
+    ]
+  },
+  "fire-damaged-debris-removal/blue-mound": {
+    "intro": "Fire damaged debris removal in Blue Mound helps when a room must be cleared in stages because some damaged components are still awaiting evaluation. The first authorization should make clear what leaves and what stays. We will review the selected materials and explain a practical removal sequence.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal with pending components",
+        "text": "We will distinguish confirmed waste from items awaiting an insurer, investigator, or repair professional. Uncertain status will remain explicit. A component will not be discarded merely because it obstructs the easiest handling route."
+      },
+      {
+        "title": "Define the first stage",
+        "text": "We will identify the clearance the initial work is intended to achieve and the point where removal stops. Access, loading, and protection needs will be discussed before hauling. Qualified disconnection or structural review requirements will remain separate prerequisites."
+      },
+      {
+        "title": "Prepare the next decision",
+        "text": "We will record materials removed and identify retained items or inaccessible areas. The next reviewer will know what remains available. Completion of one stage will not be described as full demolition, structural approval, or finished restoration."
+      }
+    ],
+    "estimate": "Costs depend on selected material, handling, access, disposal, and staging. Share safe photographs and the purpose of the pending evaluation. We will explain the scope before loading so the first stage supports the next decision.",
+    "checklist": [
+      "Identify components that must remain for review.",
+      "Confirm who can approve disposal changes.",
+      "Tell us the access needed by the next professional."
+    ]
+  },
+  "fire-damaged-contents-cleaning/blue-mound": {
+    "intro": "Fire damaged contents cleaning in Blue Mound helps when you have a list of affected belongings but no clear distinction between items proposed for cleaning and items proposed for replacement. The treatment decision needs material-specific limits. We will review the selected inventory and explain the options before work is authorized.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning with a clear decision list",
+        "text": "We will identify which items need evaluation and what information is already available. A replacement estimate does not automatically establish cleaning feasibility, just as a cleaning price does not guarantee a result. The scope will describe the actual treatment question for each group."
+      },
+      {
+        "title": "Use trials where they inform a choice",
+        "text": "A representative item may help clarify a material\u2019s response. We will explain what that result can establish and avoid extending it to unrelated belongings. Specialty materials or devices may need another provider\u2019s expertise."
+      },
+      {
+        "title": "Record the authorized outcome",
+        "text": "We will describe treatment performed, pending decisions, and remaining condition limitations. The receiving room\u2019s readiness will also be considered. Contents documentation will not function as an appraisal or a promise of original appearance."
+      }
+    ],
+    "estimate": "The estimate depends on the selected groups, materials, handling, and agreed trials. Send a concise inventory and safe photographs, identifying the decisions you need first. Unrelated financial documents are not required for initial assessment.",
+    "checklist": [
+      "Separate items needing evaluation from confirmed disposal decisions.",
+      "Share prior treatment records.",
+      "Tell us which belongings are needed soonest."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/blue-mound": {
+    "intro": "Fire extinguisher residue cleanup in Blue Mound helps when powder has reached both exposed room surfaces and items inside partially open storage. The cleanup boundary needs to account for that mixed access. We will assess accessible residue and explain which surfaces and belongings are included before treatment.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup with partially closed storage",
+        "text": "We will assess the selected cabinet or storage unit and distinguish its exposed exterior from interiors that need further review. A partly open door can create an uneven residue pattern. Its position is useful history, but it cannot establish the condition of every shelf or item inside."
+      },
+      {
+        "title": "Agree on the inspection depth",
+        "text": "Some interiors can be reached by ordinary opening, while tightly packed storage may require authorized handling first. We will explain what the initial scope can evaluate and what remains excluded. That prevents surface cleaning from being mistaken for a complete contents assessment."
+      },
+      {
+        "title": "Consider finish sensitivity before treatment",
+        "text": "We will review available agent identification and the materials involved. A method suitable for a hard exterior may not suit an unfinished shelf or absorbent item. Representative treatment or specialist input will be explained where it helps resolve a real decision."
+      },
+      {
+        "title": "Close the storage with a clear record",
+        "text": "We will identify surfaces treated, belongings processed, and areas still pending. Reassembly should follow that status. Any device-operation question or separate fire damage will remain explicit rather than hidden by an orderly cabinet."
+      }
+    ],
+    "estimate": "Provide safe overview photographs, available extinguisher information, and a description of the storage arrangement. The quote will state the agreed inspection and treatment depth so you can see whether it covers exterior surfaces, selected interiors, or contents handling.",
+    "checklist": [
+      "Tell us which storage areas were open during the incident.",
+      "Identify sensitive devices or finishes.",
+      "Share prior cleaning methods and available agent information."
+    ]
+  },
+  "emergency-board-up-after-fire/blue-mound": {
+    "intro": "Emergency board up after fire in Blue Mound helps when an opening needs temporary protection but the surrounding finish is being removed by another contractor. The installation sequence must account for safe attachment and unfinished preparation. We will assess permitted conditions and explain what can be done before permanent replacement.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire during adjacent demolition",
+        "text": "We will review what material another contractor is still removing around the opening. A surface available for attachment now may be part of that unfinished scope. We will coordinate the practical sequence before installing temporary protection that would immediately obstruct necessary work."
+      },
+      {
+        "title": "Identify the stable work boundary",
+        "text": "Accessible mounting conditions and any structural concern need review. We will explain whether preparation or another qualified evaluation must happen first. Temporary closure will not be used to bypass uncertainty about the surrounding assembly."
+      },
+      {
+        "title": "Maintain the authorized route",
+        "text": "Tell us which workers or inspectors still need to pass through or reach the opening. We will discuss how their access fits the temporary arrangement. That planning does not establish that restricted interior areas are released for use."
+      },
+      {
+        "title": "Handoff between the two work stages",
+        "text": "We will record what was installed and identify the adjacent work still pending. The permanent installer will know the temporary limits and remaining preparation needs. A completed board-up task will not be presented as completion of demolition, structural repair, or final weatherproofing."
+      }
+    ],
+    "estimate": "The quote will reflect the opening and coordination required with ongoing removal. Share the other contractor\u2019s work boundary, safe exterior images, and release status. We will explain whether installation can proceed or depends on a defined prerequisite.",
+    "checklist": [
+      "Tell us what adjacent material is still being removed.",
+      "Confirm the entry authorized crews will use.",
+      "Share pending investigation or replacement visits."
+    ]
+  },
+  "crawl-space-sewage-cleanup/blue-mound": {
+    "intro": "Crawl space sewage cleanup in Blue Mound helps when a waste-line repair leaves the owner with several proposed cleanup items but no clear explanation of what each addresses. Before approving removal or treatment, you need an assessed material scope. We will inspect safe accessible conditions and explain the supported actions.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup with a readable estimate",
+        "text": "We will connect each proposed line item to an observed material or task. Removal of contaminated covering, handling of debris, and treatment of remaining surfaces serve different purposes. The proposal should make those differences understandable rather than combine them into one vague cleanup allowance."
+      },
+      {
+        "title": "Identify what the first assessment cannot measure",
+        "text": "Limited entry or obstructed sections may leave quantities provisional. We will explain the reason and what further access would establish. Unknown sections will not be treated as confirmed affected areas merely to fill out a quote."
+      },
+      {
+        "title": "Keep prerequisites separate from optional work",
+        "text": "The waste-line correction and any repair that another provider proposes will be identified independently. We will explain which tasks are necessary for the agreed cleanup and which remain a separate decision. This helps compare proposals on actual work rather than the number of items listed."
+      },
+      {
+        "title": "Review completion against the authorized tasks",
+        "text": "We will record the material actions performed and identify unresolved moisture, repair, or evaluation needs. Replacement coverings should follow that review. The handoff will state the assessed boundary and avoid implying that every section beneath the property was inspected."
+      }
+    ],
+    "estimate": "Share the existing proposal and plumbing report. We will assess current conditions, clarify supported line items, and explain provisional assumptions before authorization. You do not need to enter contaminated space to collect additional measurements for the initial request.",
+    "checklist": [
+      "Identify unclear items in the current proposal.",
+      "Share the source correction status.",
+      "Tell us which materials were already removed."
+    ]
+  }
+}

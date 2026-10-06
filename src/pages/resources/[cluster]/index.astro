@@ -2,6 +2,9 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import articles from '../../../data/blog-articles.json';
+import editorial from '../../../data/resource-hub-editorial.json';
+import serviceImages from '../../../data/compact-service-images.json';
+import cities from '../../../data/cities-dfw-metro.json';
 
 export function getStaticPaths() {
   const clusters = [
@@ -21,8 +24,14 @@ export function getStaticPaths() {
 const { cluster } = Astro.props;
 const clusterArticles = articles.filter(a => a.cluster === cluster.slug);
 
-const title = `${cluster.name} Resources & Guides | Go Green Restoration`;
-const description = cluster.description;
+const guide = editorial[cluster.slug as keyof typeof editorial];
+const image = guide ? serviceImages[guide.image as keyof typeof serviceImages] : null;
+const curated = guide ? guide.guides.map(([slug,label]) => ({article:clusterArticles.find(item=>item.slug===slug),label})).filter(item=>item.article) : [];
+const cityGroups = cities.map(city=>({city,items:clusterArticles.filter(article=>article.slug.endsWith(`-${city.slug}`))})).filter(group=>group.items.length);
+const groupedSlugs = new Set(cityGroups.flatMap(group=>group.items.map(item=>item.slug)));
+const otherArticles = clusterArticles.filter(article=>!groupedSlugs.has(article.slug));
+const title = `${cluster.name} Resources & Guides | Go Green Restoration TX Inc`;
+const description = guide ? guide.intro.split('. ')[0] + '. Explore practical guides and focused restoration services for your DFW property.' : cluster.description;
 const breadcrumbs = [
   { name: 'Home', url: '/' },
   { name: 'Resources', url: '/resources/' },
@@ -38,22 +47,39 @@ const breadcrumbs = [
       <span class="text-4xl">{cluster.icon}</span>
       <h1 class="font-heading text-4xl lg:text-5xl font-extrabold text-brand-gray-900">{cluster.name} Resources</h1>
     </div>
-    <p class="text-lg text-brand-gray-600 max-w-3xl mb-12">{cluster.description}</p>
-
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
-      {clusterArticles.map((article) => (
-        <a href={`/resources/${cluster.slug}/${article.slug}/`} class="group bg-brand-gray-50 hover:bg-brand-warm-100 rounded-xl p-8 transition-all hover:shadow-lg border border-transparent hover:border-brand-warm-200-200">
-          <h2 class="font-heading text-xl font-bold text-brand-gray-900 group-hover:text-brand-brown mb-3">{article.title}</h2>
-          <p class="text-brand-gray-600 text-sm mb-4">{article.description}</p>
-          <span class="text-brand-brown font-medium text-sm group-hover:underline">Read article &rarr;</span>
-        </a>
-      ))}
-    </div>
+    <p class="text-lg text-brand-gray-600 max-w-3xl mb-6">{guide?.intro || cluster.description}</p>
+    <nav aria-label="On this page" class="flex flex-wrap gap-4 mb-8 text-brand-brown underline">
+      {guide && <a href="#start-here">Start with these guides</a>}
+      <a href="#all-guides">Browse all articles</a>
+      {cluster.serviceSlug && <a href={`/services/${cluster.serviceSlug}/`}>Arrange restoration help</a>}
+    </nav>
+    {image && <figure class="max-w-4xl mb-10">
+      <img src={image.src} srcset={`${image.smallSrc} 640w, ${image.src} 1280w`} sizes="(max-width:640px) 100vw, 896px" width={image.width} height={image.height} alt={image.alt} fetchpriority="high" class="w-full rounded-xl" />
+      <figcaption class="text-sm text-brand-gray-600 mt-2">Service illustration generated with Higgsfield; not a photograph of a completed project.</figcaption>
+    </figure>}
+    {guide && <div class="max-w-4xl mb-12">
+      <section id="start-here" class="mb-10 scroll-mt-24">
+        <h2 class="font-heading text-2xl font-bold mb-4">Start with the decision in front of you</h2>
+        <p class="text-brand-gray-600 mb-5">These selected Dallas guides introduce the main topics. City-specific versions remain available in the full article directory below.</p>
+        <ul class="space-y-3">{curated.map(({article,label})=><li><a class="text-brand-brown underline font-semibold" href={`/resources/${cluster.slug}/${article!.slug}/`}>{label}</a></li>)}</ul>
+      </section>
+      {guide.sections.map(([heading,text])=><section class="mb-8"><h2 class="font-heading text-2xl font-bold mb-3">{heading}</h2><p class="text-brand-gray-600 leading-relaxed">{text}</p></section>)}
+      <section class="bg-brand-gray-50 p-6 rounded-xl"><h2 class="font-heading text-2xl font-bold mb-4">Ready to discuss the work?</h2><p class="text-brand-gray-600 mb-4">These focused service pages explain the affected spaces, information to share, and factors that influence an estimate.</p><ul class="space-y-3">{guide.links.map(([href,label])=><li><a class="text-brand-brown underline" href={href}>{label}</a></li>)}</ul></section>
+      {cluster.slug === 'mold' && <p class="text-sm text-brand-gray-600 mt-6">Go Green Restoration TX Inc welcomes mold projects of any size. While our Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and scope of work are identified before work begins. Independent assessment and clearance are separate services.</p>}
+    </div>}
+    <section id="all-guides" class="mb-12 scroll-mt-24">
+      <h2 class="font-heading text-3xl font-bold mb-4">All {cluster.name.toLowerCase()} articles</h2>
+      <p class="text-brand-gray-600 mb-6">Choose a city to see its available guides. Each article remains directly accessible below.</p>
+      <div class="grid md:grid-cols-2 gap-4 items-start">
+        {cityGroups.map(({city,items})=><details class="bg-brand-gray-50 rounded-xl p-5"><summary class="cursor-pointer font-bold text-brand-gray-900">{city.name} <span class="font-normal text-sm">({items.length} guides)</span></summary><ul class="mt-4 space-y-3">{items.map(article=><li><a class="text-brand-brown underline text-sm" href={`/resources/${cluster.slug}/${article.slug}/`}>{article.title}</a></li>)}</ul></details>)}
+      </div>
+      {otherArticles.length > 0 && <ul class="mt-6 space-y-3">{otherArticles.map(article=><li><a class="text-brand-brown underline" href={`/resources/${cluster.slug}/${article.slug}/`}>{article.title}</a></li>)}</ul>}
+    </section>
 
     {cluster.serviceSlug && (
       <div class="bg-brand-brown text-white rounded-2xl p-8 text-center">
         <h2 class="font-heading text-2xl font-bold mb-4">Need Professional {cluster.name} Help?</h2>
-        <p class="text-brand-brown-100 mb-6">Our licensed team provides 24/7 emergency services throughout Dallas-Fort Worth metroplex.</p>
+        <p class="text-brand-brown-100 mb-6">Tell us what happened and which areas are affected. We will explain the next step and confirm availability for your Dallas–Fort Worth address.</p>
         <a href={`/services/${cluster.serviceSlug}/`} class="inline-block bg-brand-green hover:bg-brand-green-light font-bold px-8 py-4 rounded-lg transition-colors">View {cluster.name} Services &rarr;</a>
       </div>
     )}

@@ -1,0 +1,279 @@
+{
+  "italy": {
+    "keyword": "Property damage restoration in Italy",
+    "description": "Property damage restoration in Italy restores damaged rooms after water, fire, sewage, or mold problems.",
+    "image": "burst-pipe-cleanup",
+    "intro": "Property damage restoration in Italy restores damaged rooms after water, fire, sewage, or mold problems. A small visible area may need focused work, while connected materials can expand the restoration boundary. We will review the actual condition and perform the agreed extraction, cleaning, drying, and removal.",
+    "sections": [
+      {
+        "title": "Property damage restoration in Italy: match the work to the findings",
+        "paragraphs": [
+          "We will inspect accessible components and ask about the source, timing, and earlier cleanup. The scope will separate confirmed damage from concealed questions requiring access. We will not assume a whole-room replacement or a surface-only cleanup before that review."
+        ]
+      },
+      {
+        "title": "Restore the affected materials",
+        "paragraphs": [
+          "Retained surfaces will be identified for the appropriate treatment while damaged components receive removal decisions. Mold work will use the appropriate provider arrangement. Contents movement and equipment routes will be planned alongside the physical tasks."
+        ]
+      },
+      {
+        "title": "Explain the repair area left behind",
+        "paragraphs": [
+          "We will record what was removed and what still requires drying, source correction, or evaluation. Finish replacement will follow that status. Wider cosmetic updates will be discussed separately from the work needed to address the incident."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Describe the source and affected materials.",
+      "Identify earlier cleanup or repair.",
+      "Share contents and access concerns."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/italy/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/mold-remediation/italy/",
+        "label": "Mold remediation"
+      },
+      {
+        "href": "/fire-smoke-damage-restoration/italy/",
+        "label": "Fire and smoke restoration"
+      }
+    ]
+  },
+  "water-damage-restoration/italy": {
+    "keyword": "Water damage restoration in Italy",
+    "description": "Water damage restoration in Italy removes water and dries affected building materials after pipe failures, leaks, overflows, or intrusion.",
+    "image": "burst-pipe-cleanup",
+    "intro": "Water damage restoration in Italy removes water and dries affected building materials after pipe failures, leaks, overflows, or intrusion. The amount of visible water alone does not determine the condition beneath a finish. We will evaluate accessible layers and explain the extraction, removal, and drying needed for the agreed area.",
+    "sections": [
+      {
+        "title": "Water damage restoration in Italy: review timing and material contact",
+        "paragraphs": [
+          "Tell us when the water was discovered, when flow stopped, and which areas were reached. We will consider that history alongside present findings. Covered components will have their access limits explained before their condition is assumed."
+        ]
+      },
+      {
+        "title": "Retain suitable material and remove damaged layers",
+        "paragraphs": [
+          "The proposal will identify which components can remain for drying and why another may require removal. Equipment placement will serve the retained assembly. The resulting opening and its repair consequence will be explained before work changes the room."
+        ]
+      },
+      {
+        "title": "Track conditions before rebuilding",
+        "paragraphs": [
+          "Progress checks will identify damp material still requiring attention. Source correction and suspected mold will receive separate review where relevant. Reconstruction will follow the recorded status rather than a promise tied only to the apparent size of the leak."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Share discovery and source-stop timing.",
+      "Identify the original water reach.",
+      "Provide any earlier drying records."
+    ],
+    "links": [
+      {
+        "href": "/emergency-water-extraction/italy/",
+        "label": "Emergency water extraction"
+      },
+      {
+        "href": "/structural-drying-services/italy/",
+        "label": "Structural drying"
+      },
+      {
+        "href": "/mold-remediation-after-water-damage/italy/",
+        "label": "Mold remediation after water damage"
+      }
+    ]
+  },
+  "fire-smoke-damage-restoration/italy": {
+    "keyword": "Fire and smoke damage restoration in Italy",
+    "description": "Fire and smoke damage restoration in Italy addresses fire-damaged material, smoke deposits, and affected belongings after restoration access is available.",
+    "image": "kitchen-fire-cleanup",
+    "intro": "Fire and smoke damage restoration in Italy addresses fire-damaged material, smoke deposits, and affected belongings after restoration access is available. A contained fire can still require cleaning outside the burned component. We will review accessible surfaces and perform the work supported by their condition.",
+    "sections": [
+      {
+        "title": "Fire and smoke damage restoration in Italy: review the affected boundary",
+        "paragraphs": [
+          "Tell us where residue was observed and how the incident was handled. We will examine adjoining accessible material without assuming every room needs identical treatment. Prior wiping or moved contents will be accounted for in the review."
+        ]
+      },
+      {
+        "title": "Separate removal from restoration of retained items",
+        "paragraphs": [
+          "Damaged debris, retained surfaces, and belongings may require different handling. We will explain the proposed cleaning approach and specialist limits. Water used during the response will be considered for extraction or drying as part of the physical work."
+        ]
+      },
+      {
+        "title": "Prepare the actual replacement scope",
+        "paragraphs": [
+          "We will record completed cleanup and material removed. Further evaluation questions will remain clear before new finishes are installed. The repair plan will use those findings rather than treat a fresh coating as completion of fire cleanup."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Describe the response and observed residue.",
+      "Identify earlier cleaning or moved items.",
+      "List belongings needing individual evaluation."
+    ],
+    "links": [
+      {
+        "href": "/smoke-damage-cleanup/italy/",
+        "label": "Smoke damage cleanup"
+      },
+      {
+        "href": "/fire-damaged-debris-removal/italy/",
+        "label": "Fire-damaged debris removal"
+      },
+      {
+        "href": "/fire-damaged-contents-cleaning/italy/",
+        "label": "Fire-damaged contents cleaning"
+      }
+    ]
+  },
+  "mold-remediation/italy": {
+    "keyword": "Mold remediation in Italy",
+    "description": "Mold remediation in Italy addresses defined affected materials after visible growth or assessment findings identify a remediation need.",
+    "image": "mold-removal-behind-drywall",
+    "intro": "Mold remediation in Italy addresses defined affected materials after visible growth or assessment findings identify a remediation need. The appropriate scope depends on the findings and moisture history, not simply a preferred repair size. We will coordinate the responsible provider for containment, removal, and cleaning.",
+    "sections": [
+      {
+        "title": "Mold remediation in Italy: establish the material boundary",
+        "paragraphs": [
+          "Share existing assessment documents and any source repair. We will explain what is known about the assembly and where further evaluation or access is needed. A small visible mark will not be used to invent either a minimal or whole-room condition behind the finish."
+        ]
+      },
+      {
+        "title": "Coordinate the agreed remediation",
+        "paragraphs": [
+          "The plan will identify affected components, retained surfaces, and contents handling. Access routes and repair openings will be explained before work begins. New findings will be discussed with the authorized contact before expansion."
+        ]
+      },
+      {
+        "title": "Identify requirements before closure",
+        "paragraphs": [
+          "Source correction, remediation, and applicable clearance are separate steps. We will explain remaining drying and evaluation needs so construction follows the actual status. The plan will not promise a clearance outcome in advance."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Provide assessment and source information.",
+      "Identify visible findings and prior treatments.",
+      "Share access and approval contacts."
+    ],
+    "links": [
+      {
+        "href": "/mold-removal-behind-drywall/italy/",
+        "label": "Mold removal behind drywall"
+      },
+      {
+        "href": "/bathroom-mold-removal/italy/",
+        "label": "Bathroom mold removal"
+      },
+      {
+        "href": "/services/mold-remediation-before-closing/",
+        "label": "Mold remediation before closing"
+      }
+    ]
+  },
+  "sewage-backup-cleanup/italy": {
+    "keyword": "Sewage backup cleanup in Italy",
+    "description": "Sewage backup cleanup in Italy addresses wastewater contact after a fixture or drain backup, from limited spills to affected adjoining areas.",
+    "image": "toilet-overflow-cleanup",
+    "intro": "Sewage backup cleanup in Italy addresses wastewater contact after a fixture or drain backup, from limited spills to affected adjoining areas. We will review the actual water path and perform the agreed extraction, contaminated-material handling, cleaning, and drying. The scope will reflect the components reached rather than only the fixture involved.",
+    "sections": [
+      {
+        "title": "Sewage backup cleanup in Italy: review contact at the edges",
+        "paragraphs": [
+          "Tell us where water reached before cleanup and whether it entered another room or opening. Items moved from the spill need their original location considered. We will explain concealed-access limits beneath coverings or fixed components."
+        ]
+      },
+      {
+        "title": "Make individual material decisions",
+        "paragraphs": [
+          "Retained surfaces and absorbent layers can need different treatment. We will identify removal, cleaning, and contents requiring specialist evaluation. Handling routes and the repair boundary created will be discussed before those tasks proceed."
+        ]
+      },
+      {
+        "title": "Complete the remaining restoration",
+        "paragraphs": [
+          "Drying may still be needed after wastewater is removed. We will record progress and identify plumbing correction or source questions still outstanding. New finishes will follow that status rather than conceal unresolved dampness or access limitations."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Describe spill reach and duration.",
+      "Identify contacted and moved items.",
+      "Share plumbing findings and prior cleanup."
+    ],
+    "links": [
+      {
+        "href": "/toilet-overflow-cleanup/italy/",
+        "label": "Toilet overflow cleanup"
+      },
+      {
+        "href": "/crawl-space-sewage-cleanup/italy/",
+        "label": "Crawl-space sewage cleanup"
+      },
+      {
+        "href": "/mold-remediation/italy/",
+        "label": "Mold remediation"
+      }
+    ]
+  },
+  "construction-remodeling/italy": {
+    "keyword": "Reconstruction and remodeling in Italy",
+    "description": "Reconstruction and remodeling in Italy rebuilds damaged components after restoration while keeping the repair scope distinct from a larger room update.",
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "Reconstruction and remodeling in Italy rebuilds damaged components after restoration while keeping the repair scope distinct from a larger room update. We will install and finish the agreed replacement area. If the owner wants broader changes, their effect will be explained before construction begins.",
+    "sections": [
+      {
+        "title": "Reconstruction and remodeling in Italy: define the necessary repair",
+        "paragraphs": [
+          "We will review the actual opening and retained components, together with source correction and restoration records. Outstanding moisture or evaluation requirements will be identified before closure. The replacement boundary will reflect the findings rather than a presumed full remodel."
+        ]
+      },
+      {
+        "title": "Compare repair and improvement options",
+        "paragraphs": [
+          "A wider finish change may produce a different appearance or require additional installation work. We will explain those choices separately from damage repair. Product availability and transitions to retained surfaces will be discussed before selections are finalized."
+        ]
+      },
+      {
+        "title": "Carry out the approved construction",
+        "paragraphs": [
+          "Other-provider tasks needing access will be identified in the sequence. Additional damage found during work will be discussed before expansion. Final review will compare installed components and finishes with the chosen scope and note remaining items."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Share restoration and source records.",
+      "Identify the intended repair boundaries.",
+      "Separate optional changes from necessary replacement."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/italy/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/locations/dfw-metro/italy/",
+        "label": "Italy restoration services"
+      },
+      {
+        "href": "/services/water-damage-repair-before-closing/",
+        "label": "Water damage repair before closing"
+      }
+    ],
+    "imageAlt": "AI-generated illustration of damaged ceiling material before reconstruction; not a completed Italy project"
+  }
+}

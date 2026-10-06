@@ -1,0 +1,25 @@
+---
+import review from '../data/city-copy-review-summary.json';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import cities from '../utils/service-area-cities';
+import pages from '../data/compact-services.json';
+import { compactCityPreview } from '../utils/compact-city-pages';
+function reviewLabel(service: string, city: string) {
+ const value = (review.scores as Record<string, number>)[`/${service}/${city}/`];
+ return value === undefined ? 'Uniqueness not audited yet' : `${value}% unique · requires 60%`;
+}
+export function getStaticPaths() { return compactCityPreview ? [{ params: { cityPreview: 'city-service-preview' } }] : []; }
+---
+<BaseLayout title="City service drafts | Go Green Restoration TX Inc" description="Local review directory for city-specific service drafts." noindex={true}>
+<section class="max-w-7xl mx-auto px-4 py-10">
+<h1 class="text-4xl font-bold mb-5">City service drafts</h1>
+<p class="mb-6">{cities.length * pages.length} subservice drafts across {cities.length} cities and {pages.length} services. Drafts are excluded from production builds and search indexing. Content review includes a minimum 60% uniqueness requirement; a city-name substitution does not count.</p>
+<label class="block mb-2 font-bold" for="city-filter">Find a city or service</label>
+<input id="city-filter" type="search" placeholder="Dallas, attic, water…" class="border rounded p-3 w-full mb-8" />
+{cities.map(city => <section class="city-group mb-8"><h2 class="text-2xl font-bold mb-3"><a class="underline" href={`/locations/dfw-metro/${city.slug}/`}>{city.name}</a></h2><ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">{pages.map(page => <li data-search={`${city.name} ${page.name}`.toLowerCase()}><a class="underline text-brand-brown" href={`/${page.slug}/${city.slug}/`}>{page.name} in {city.name}</a><span class="block text-xs text-brand-gray-600">{reviewLabel(page.slug, city.slug)}</span></li>)}</ul></section>)}
+</section>
+<script>
+const filter=document.querySelector<HTMLInputElement>('#city-filter');
+filter?.addEventListener('input',()=>{const query=filter.value.trim().toLowerCase();document.querySelectorAll<HTMLElement>('[data-search]').forEach(row=>{row.hidden=!row.dataset.search?.includes(query)});document.querySelectorAll<HTMLElement>('.city-group').forEach(group=>{group.hidden=![...group.querySelectorAll<HTMLElement>('li')].some(row=>!row.hidden)});});
+</script>
+</BaseLayout>

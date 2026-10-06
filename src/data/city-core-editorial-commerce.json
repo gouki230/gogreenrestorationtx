@@ -1,0 +1,279 @@
+{
+  "commerce": {
+    "keyword": "Property damage restoration in Commerce",
+    "description": "Property damage restoration in Commerce. Restore damaged rooms while keeping cleanup and repair responsibilities clear.",
+    "image": "structural-drying-services",
+    "intro": "Property damage restoration in Commerce helps when water, fire residue, mold-affected material, or wastewater interrupts a home or business. We will define the affected work area and perform the agreed removal, cleaning, and drying. Occupied spaces, contents, and source correction will be considered alongside the restoration tasks.",
+    "sections": [
+      {
+        "title": "Property damage restoration in Commerce: review the property as it is used",
+        "paragraphs": [
+          "Tell us which rooms, equipment, or routes are affected and what has already been repaired. We will review accessible material and identify limits requiring another evaluation. The work boundary will follow the damage rather than assume the whole property has one condition."
+        ]
+      },
+      {
+        "title": "Carry out the restoration work",
+        "paragraphs": [
+          "The plan will identify extraction, drying, debris handling, surface cleaning, and the appropriate mold remediation arrangement as applicable. We will coordinate access with the hiring contact and explain additional findings before the work expands."
+        ]
+      },
+      {
+        "title": "Prepare for the next use of the room",
+        "paragraphs": [
+          "Progress updates will identify completed tasks and remaining requirements before reconstruction. A desired reopening or move date will be considered alongside actual work dependencies. Routine tenant communication for managed property follows the manager\u2019s instructions, with necessary safety and access information accurate."
+        ]
+      }
+    ],
+    "checklistTitle": "For the first review",
+    "checklist": [
+      "Describe affected rooms and their current use.",
+      "Share source repairs and earlier cleanup.",
+      "Confirm entry and approval contacts."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/commerce/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/mold-remediation/commerce/",
+        "label": "Mold remediation"
+      },
+      {
+        "href": "/fire-smoke-damage-restoration/commerce/",
+        "label": "Fire and smoke restoration"
+      }
+    ]
+  },
+  "water-damage-restoration/commerce": {
+    "keyword": "Water damage restoration in Commerce",
+    "description": "Water damage restoration in Commerce. Extract water and dry affected building material in the agreed work area.",
+    "image": "structural-drying-services",
+    "intro": "Water damage restoration in Commerce helps when wet floors, walls, ceilings, or cabinetry interrupt use of the property. We will remove accessible standing water where needed and set up drying for retained material. Contents, equipment, and ordinary access routes will be considered when organizing the work.",
+    "sections": [
+      {
+        "title": "Water damage restoration in Commerce: review the water and the room",
+        "paragraphs": [
+          "Share the source, discovery time, and correction performed. We will review accessible material and identify concealed portions. Tell us which contents or fixed features limit access so an opening or movement can have a defined purpose."
+        ]
+      },
+      {
+        "title": "Perform extraction and retained-material drying",
+        "paragraphs": [
+          "The plan will identify equipment needs and material selected for further evaluation or removal. We will record progress rather than assume the same drying duration for every assembly. Changes affecting the approved work will be explained before additional tasks proceed."
+        ]
+      },
+      {
+        "title": "Confirm the condition before repairs",
+        "paragraphs": [
+          "The handoff will identify completed restoration and unresolved moisture or evaluation concerns. Suspected mold will receive a separate remediation and appropriate-provider discussion. The room\u2019s availability will be considered from that status rather than appearance alone."
+        ]
+      }
+    ],
+    "checklistTitle": "For the response",
+    "checklist": [
+      "Provide source and discovery information.",
+      "Identify room-use and access constraints.",
+      "Share prior cleanup or moisture records."
+    ],
+    "links": [
+      {
+        "href": "/emergency-water-extraction/commerce/",
+        "label": "Emergency water extraction"
+      },
+      {
+        "href": "/structural-drying-services/commerce/",
+        "label": "Structural drying"
+      },
+      {
+        "href": "/mold-remediation-after-water-damage/commerce/",
+        "label": "Mold remediation after water damage"
+      }
+    ]
+  },
+  "fire-smoke-damage-restoration/commerce": {
+    "keyword": "Fire and smoke damage restoration in Commerce",
+    "description": "Fire and smoke damage restoration in Commerce. Remove damaged material and clean retained surfaces and contents after a fire.",
+    "image": "fire-damaged-contents-cleaning",
+    "intro": "Fire and smoke damage restoration in Commerce helps when a fire leaves damaged components, residue, and belongings or equipment needing evaluation. We will review the property after restoration access is available and perform the agreed removal and cleaning. The sequence will account for contents and any response-water effects.",
+    "sections": [
+      {
+        "title": "Fire and smoke damage restoration in Commerce: identify the work and priority items",
+        "paragraphs": [
+          "Share incident details and earlier cleanup. Tell us which belongings or equipment need evaluation before movement. We will distinguish building-material tasks from contents handling and identify any specialist review needed."
+        ]
+      },
+      {
+        "title": "Restore the agreed areas",
+        "paragraphs": [
+          "Damaged debris will be handled within the defined boundary, and retained surfaces will receive the proposed cleaning. Different materials may have different recovery limits. Drying will be coordinated where response water affected an assembly."
+        ]
+      },
+      {
+        "title": "Prepare the reconstruction handoff",
+        "paragraphs": [
+          "We will record completed tasks and unresolved concerns by area. Additional findings will have their scope effect explained before expansion. A preferred return-to-use date will be considered alongside actual cleanup, material, and other-provider requirements."
+        ]
+      }
+    ],
+    "checklistTitle": "For the cleanup review",
+    "checklist": [
+      "Share response and prior-work details.",
+      "Identify priority contents or equipment.",
+      "Confirm access and approval contacts."
+    ],
+    "links": [
+      {
+        "href": "/fire-damaged-contents-cleaning/commerce/",
+        "label": "Fire-damaged contents cleaning"
+      },
+      {
+        "href": "/smoke-damage-cleanup/commerce/",
+        "label": "Smoke damage cleanup"
+      },
+      {
+        "href": "/fire-damaged-debris-removal/commerce/",
+        "label": "Fire-damaged debris removal"
+      }
+    ]
+  },
+  "mold-remediation/commerce": {
+    "keyword": "Mold remediation in Commerce",
+    "description": "Mold remediation in Commerce. Arrange defined affected-material removal and cleaning before repair.",
+    "image": "mold-removal-behind-drywall",
+    "intro": "Mold remediation in Commerce helps when mold-affected building material needs removal or cleaning in an occupied or vacant property. We will review available findings and moisture history, then arrange the appropriate provider scope. The plan will identify containment, material handling, and applicable evaluation requirements.",
+    "sections": [
+      {
+        "title": "Mold remediation in Commerce: review findings and property access",
+        "paragraphs": [
+          "Share assessment records, source repairs, and earlier cleanup. We will explain accessible findings and where further review is needed. Room use and retained contents will be discussed without assuming they can remain unchanged throughout remediation."
+        ]
+      },
+      {
+        "title": "Coordinate the material work",
+        "paragraphs": [
+          "The agreed scope will define affected-component removal and retained-area cleaning. Contents needing separate handling will be identified. If access reveals additional affected material, its scope effect will be explained before the work expands."
+        ]
+      },
+      {
+        "title": "Complete requirements before reconstruction",
+        "paragraphs": [
+          "Assessment, remediation, and applicable clearance serve separate purposes; clearance is not a guaranteed cleanup result. We will record progress and explain remaining moisture or evaluation requirements. Routine tenant messages follow the hiring manager\u2019s instructions, with necessary safety and access information accurate."
+        ]
+      }
+    ],
+    "checklistTitle": "Before scheduling",
+    "checklist": [
+      "Provide assessment and source-repair records.",
+      "Identify room-use constraints and contents.",
+      "Confirm the contact approving scope changes."
+    ],
+    "links": [
+      {
+        "href": "/mold-removal-behind-drywall/commerce/",
+        "label": "Mold removal behind drywall"
+      },
+      {
+        "href": "/mold-contaminated-contents-cleaning/commerce/",
+        "label": "Mold-contaminated contents cleaning"
+      },
+      {
+        "href": "/services/mold-remediation-before-closing/",
+        "label": "Mold remediation before closing"
+      }
+    ]
+  },
+  "sewage-backup-cleanup/commerce": {
+    "keyword": "Sewage backup cleanup in Commerce",
+    "description": "Sewage backup cleanup in Commerce. Remove wastewater and restore contacted materials in the affected work area.",
+    "image": "toilet-overflow-cleanup",
+    "intro": "Sewage backup cleanup in Commerce helps when wastewater interrupts a room and contacts floors, finishes, contents, or equipment. We will remove accessible wastewater and perform the agreed material handling and cleaning. The work area will account for access needs while retained moisture is addressed before repairs.",
+    "sections": [
+      {
+        "title": "Sewage backup cleanup in Commerce: review the event and current use",
+        "paragraphs": [
+          "Share the fixture, timing, water path, and plumbing findings. Identify rooms or routes affected by the cleanup and items already moved. The source correction and restoration of contacted material will have distinct responsibilities."
+        ]
+      },
+      {
+        "title": "Carry out cleanup and drying",
+        "paragraphs": [
+          "We will identify material proposed for removal, retained surfaces included in cleaning, and contents needing another evaluation. Drying may continue after visible wastewater is gone. New affected areas will be discussed before additional work proceeds."
+        ]
+      },
+      {
+        "title": "Plan the handoff and return to use",
+        "paragraphs": [
+          "Progress records will describe completed tasks and unresolved source, moisture, or evaluation concerns. A preferred occupancy or operating date will not replace those requirements. Persistent odor or suspected mold will remain a condition needing attention before the area is covered."
+        ]
+      }
+    ],
+    "checklistTitle": "For the response",
+    "checklist": [
+      "Provide overflow and plumbing details.",
+      "Identify affected routes and moved items.",
+      "Confirm access and approval arrangements."
+    ],
+    "links": [
+      {
+        "href": "/toilet-overflow-cleanup/commerce/",
+        "label": "Toilet overflow cleanup"
+      },
+      {
+        "href": "/crawl-space-sewage-cleanup/commerce/",
+        "label": "Crawl-space sewage cleanup"
+      },
+      {
+        "href": "/mold-remediation/commerce/",
+        "label": "Mold remediation"
+      }
+    ]
+  },
+  "construction-remodeling/commerce": {
+    "keyword": "Reconstruction and remodeling in Commerce",
+    "description": "Reconstruction and remodeling in Commerce. Rebuild agreed repair areas with access and continued property use considered.",
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "Reconstruction and remodeling in Commerce helps restore walls, ceilings, floors, and finishes left open by damage cleanup. We will define the agreed repair result and coordinate installation around retained components and access needs. Optional improvements will remain separate from necessary reconstruction.",
+    "sections": [
+      {
+        "title": "Reconstruction and remodeling in Commerce: confirm the restoration starting point",
+        "paragraphs": [
+          "Source-repair records, cleanup or drying findings, and outstanding evaluation requirements will establish readiness for closure. We will identify the practical repair boundary and any dependency on another provider before installation is planned."
+        ]
+      },
+      {
+        "title": "Coordinate work with the property",
+        "paragraphs": [
+          "Selections will account for retained finishes, transitions, matching limits, and availability. Tell us which routes or room functions matter during construction. Those constraints will be discussed with the actual tasks rather than assumed compatible with every stage."
+        ]
+      },
+      {
+        "title": "Review the result against the agreement",
+        "paragraphs": [
+          "Progress updates will identify completed work, waiting decisions, and remaining items. Concealed findings will be explained before additional tasks proceed. The final review will use the agreed scope, with desired occupancy dates considered alongside remaining requirements."
+        ]
+      }
+    ],
+    "checklistTitle": "For the construction plan",
+    "checklist": [
+      "Provide source and restoration records.",
+      "Identify retained finishes and access constraints.",
+      "Confirm selections and approval contacts."
+    ],
+    "links": [
+      {
+        "href": "/locations/dfw-metro/commerce/",
+        "label": "Commerce restoration services"
+      },
+      {
+        "href": "/water-damage-restoration/commerce/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/services/water-damage-repair-before-closing/",
+        "label": "Water damage repair before closing"
+      }
+    ],
+    "imageAlt": "AI-generated illustration of damaged ceiling material before reconstruction; not a completed Commerce project"
+  }
+}

@@ -5,7 +5,7 @@ import services from '../data/services.json';
 import ReviewSources from '../components/ReviewSources.astro';
 
 const title = 'DFW Mold & Water Restoration | Go Green Restoration TX Inc';
-const description = 'Mold cleanup, water and fire restoration help across Dallas–Fort Worth from Wylie. Discuss your property, cleanup scope and emergency availability. Call 469-727-3217.';
+const description = 'Mold cleanup, water and fire restoration help across Dallas–Fort Worth. Discuss your property, cleanup scope and emergency availability. Call 469-727-3217.';
 
 const websiteSchema = {
   "@context": "https://schema.org",
@@ -137,7 +137,7 @@ const featuredCities = [
             Across <span class="text-brand-green">Dallas–Fort Worth.</span>
           </h1>
           <p class="text-base lg:text-lg text-white/85 mb-7 drop-shadow max-w-xl leading-relaxed">
-            Tell our Wylie-based team about your property. We help with mold concerns, water, fire and sewage damage, with cleanup within our scope and referrals when a project needs a specialist.
+            Tell our team about your property anywhere in Dallas–Fort Worth. We help with mold concerns, water, fire and sewage damage, with cleanup within our scope and referrals when a project needs a specialist.
           </p>
 
           <div class="flex flex-col sm:flex-row gap-3 mb-7">
@@ -200,8 +200,8 @@ const featuredCities = [
           <div class="flex items-center gap-3 px-2 sm:px-4 py-2 sm:py-0">
             <svg class="w-7 h-7 text-brand-green flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.8"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"/></svg>
             <div class="leading-tight">
-              <p class="text-sm font-bold text-brand-gray-900">Wylie Based</p>
-              <p class="text-xs text-brand-gray-600">Serving DFW</p>
+              <p class="text-sm font-bold text-brand-gray-900">DFW-Wide Service</p>
+              <p class="text-xs text-brand-gray-600">Homes &amp; Businesses</p>
             </div>
           </div>
           <div class="flex items-center gap-3 px-2 sm:px-4 py-2 sm:py-0">
@@ -236,19 +236,6 @@ const featuredCities = [
       </div>
     </div>
   </section>
-  <section class="max-w-6xl mx-auto px-4 py-10">
-    <h2 class="font-heading text-3xl font-bold mb-4">Mold removal help in Dallas and Collin County</h2>
-    <p class="text-brand-gray-600 mb-5">Describe the leak, affected room and visible damage. We welcome inquiries of any size, handle cleanup within our current scope of less than 25 contiguous square feet and route larger projects to a TDLR-licensed remediator. Explore the <a href="/services/mold-remediation/" class="underline">mold remediation process</a> and the right next step for your property.</p>
-    <nav aria-label="Priority mold service areas" class="flex flex-wrap gap-4 mb-6">
-      {['Dallas', 'Plano', 'Frisco', 'McKinney'].map(city => <a class="underline font-bold text-brand-brown" href={`/mold-remediation/${city.toLowerCase()}/`}>Mold help in {city}</a>)}
-    </nav>
-    <div class="grid sm:grid-cols-2 gap-6">
-      <a class="rounded-xl border border-brand-warm-200 p-6 hover:bg-brand-gray-50" href="/projects/dallas-kitchen-laundry-mold-remediation/"><h3 class="font-bold text-lg mb-2">Dallas kitchen and laundry project</h3><p>September 2026 · Leak sources, containment, removal and the reported testing outcome.</p><span class="inline-block mt-3 underline">Read the project story</span></a>
-      <a class="rounded-xl border border-brand-warm-200 p-6 hover:bg-brand-gray-50" href="/projects/arlington-bathroom-mold-remediation/"><h3 class="font-bold text-lg mb-2">Arlington bathroom project</h3><p>August 2026 · Sink supply leak, wall removal and preparation for reconstruction.</p><span class="inline-block mt-3 underline">Read the project story</span></a>
-    </div>
-  </section>
-
-
   <!-- Services Section -->
   <section class="py-16 lg:py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4">
@@ -276,6 +263,31 @@ const featuredCities = [
             </div>
           </a>
         ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Mold overview: service guidance and real project examples -->
+  <section id="dfw-mold-remediation" class="bg-brand-gray-50 py-12 lg:py-16 scroll-mt-28">
+    <div class="max-w-7xl mx-auto px-4 grid lg:grid-cols-2 gap-10 lg:gap-14 items-start">
+      <div>
+        <p class="text-sm font-bold uppercase tracking-widest text-brand-green mb-3">Mold remediation across DFW</p>
+        <h2 class="font-heading text-3xl lg:text-4xl font-bold mb-5">Mold removal and remediation throughout Dallas–Fort Worth</h2>
+        <p class="text-brand-gray-600 leading-relaxed mb-5">A leaking sink, damp wall or musty room can leave you wondering what needs to come out and what can be cleaned. We will review the moisture history and affected materials, explain the proposed scope, and outline the steps before repairs begin.</p>
+        <a href="/services/mold-remediation/" class="inline-block bg-brand-green text-white font-bold rounded-lg px-5 py-3 mb-6 hover:bg-brand-green-light">Explore mold remediation</a>
+        <nav aria-label="Mold services for your situation" class="flex flex-wrap gap-3 mb-6">
+          <a class="rounded-lg bg-white border border-brand-gray-200 px-4 py-3 text-sm font-bold text-brand-brown hover:underline" href="/services/bathroom-mold-removal/">Bathroom mold</a>
+          <a class="rounded-lg bg-white border border-brand-gray-200 px-4 py-3 text-sm font-bold text-brand-brown hover:underline" href="/services/kitchen-cabinet-mold-removal/">Kitchen cabinet mold</a>
+          <a class="rounded-lg bg-white border border-brand-gray-200 px-4 py-3 text-sm font-bold text-brand-brown hover:underline" href="/services/mold-remediation-after-water-damage/">Mold after water damage</a>
+        </nav>
+        <p class="text-sm text-brand-gray-600 leading-relaxed">Serving homes and businesses throughout DFW, including <a class="underline" href="/mold-remediation/dallas/">Dallas</a>, <a class="underline" href="/mold-remediation/fort-worth/">Fort Worth</a>, <a class="underline" href="/mold-remediation/arlington/">Arlington</a> and <a class="underline" href="/mold-remediation/plano/">Plano</a>. <a href="/locations/dfw-metro/" class="font-bold text-brand-brown underline">Find your service area</a>.</p>
+      </div>
+      <div>
+        <h3 class="font-heading text-xl font-bold mb-4">See the work behind the process</h3>
+        <div class="grid gap-4">
+          <a class="block rounded-xl border border-brand-gray-200 bg-white p-6 hover:border-brand-green transition-colors" href="/projects/dallas-kitchen-laundry-mold-remediation/"><h4 class="font-bold text-lg mb-2">Dallas kitchen and laundry</h4><p class="text-brand-gray-600 leading-relaxed">How leaking plumbing led to containment, removal of affected materials and independent testing.</p><span class="inline-block mt-3 font-bold text-brand-brown underline">Read the project story</span></a>
+          <a class="block rounded-xl border border-brand-gray-200 bg-white p-6 hover:border-brand-green transition-colors" href="/projects/arlington-bathroom-mold-remediation/"><h4 class="font-bold text-lg mb-2">Arlington bathroom</h4><p class="text-brand-gray-600 leading-relaxed">From a sink supply leak to wall removal, cleanup and a room ready for reconstruction.</p><span class="inline-block mt-3 font-bold text-brand-brown underline">Read the project story</span></a>
+        </div>
       </div>
     </div>
   </section>
@@ -342,7 +354,7 @@ const featuredCities = [
               </svg>
             </div>
             <h3 class="font-heading text-lg font-bold text-brand-gray-900 mb-3">Return to Normal</h3>
-            <p class="text-sm text-brand-gray-600 leading-relaxed max-w-[220px] mx-auto">We ensure your property is safe, clean, and ready for you to enjoy.</p>
+            <p class="text-sm text-brand-gray-600 leading-relaxed max-w-[220px] mx-auto">We review completed work with you and identify any remaining repairs or evaluations before the space returns to use.</p>
           </div>
         </div>
       </div>
@@ -431,7 +443,7 @@ const featuredCities = [
         </div>
         <div>
           <h4 class="font-heading font-bold text-base text-brand-gray-900 mb-2">Humidity, condensation and mold</h4>
-          <p class="text-brand-gray-600 text-sm leading-relaxed">Summer dew points in the 70s mean damp air condensing inside wall cavities and around cold supply ducts. Mold needs only about 48 hours of sustained moisture, which is why water damage mitigation and mold prevention are really the same job.</p>
+          <p class="text-brand-gray-600 text-sm leading-relaxed">Condensation around cold ducts and persistent dampness in wall cavities can contribute to mold concerns. Source correction and drying address the moisture; suspected growth requires a separate evaluation of affected materials.</p>
         </div>
       </div>
       <p class="text-brand-gray-600 leading-relaxed mt-8">
@@ -578,9 +590,9 @@ const featuredCities = [
             <p class="text-sm text-brand-gray-600">Service<br/>Coverage</p>
           </div>
           <div class="text-center lg:border-r border-brand-gray-100 px-4">
-            <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-2">Wylie</p>
+            <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-2">DFW Team</p>
             <div class="w-10 h-0.5 bg-brand-green mx-auto mb-3"></div>
-            <p class="text-sm text-brand-gray-600">Texas<br/>Location</p>
+            <p class="text-sm text-brand-gray-600">Property<br/>Restoration</p>
           </div>
           <div class="text-center lg:border-r border-brand-gray-100 px-4">
             <p class="font-heading text-4xl lg:text-5xl font-black text-brand-gray-900 mb-1">Our Work</p>
@@ -619,7 +631,7 @@ const featuredCities = [
           </div>
           <div class="flex-1">
             <h3 class="font-heading text-xl lg:text-2xl font-bold text-brand-gray-900 group-hover:text-brand-green transition-colors mb-1">DFW Metro Area</h3>
-            <p class="text-sm text-brand-gray-600 mb-2">30 cities across Dallas, Tarrant, Collin, Denton &amp; Rockwall counties</p>
+            <p class="text-sm text-brand-gray-600 mb-2">Serving communities throughout Dallas–Fort Worth</p>
             <span class="inline-flex items-center text-brand-green font-bold text-sm">View all locations <svg class="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg></span>
           </div>
         </a>
@@ -649,7 +661,7 @@ const featuredCities = [
     </div>
   </section>
 
-  <section class="py-16 lg:py-24 bg-white">
+  <section id="customer-reviews" class="py-16 lg:py-24 bg-white scroll-mt-28">
     <div class="max-w-7xl mx-auto px-4">
       <h2 class="font-heading text-3xl lg:text-4xl font-bold text-brand-gray-900 mb-6">What Go Green Restoration customers say</h2>
       <ReviewSources />

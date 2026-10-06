@@ -1,0 +1,218 @@
+{
+  "burst-pipe-cleanup": {
+    "src": "/images/service-guides/burst-pipe-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/burst-pipe-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Burst pipe cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "e4d23c28-e778-4f98-b753-6b3463d4f632"
+  },
+  "emergency-water-extraction": {
+    "src": "/images/service-guides/emergency-water-extraction-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/emergency-water-extraction-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Emergency water extraction: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "e94e745c-322b-480e-932f-57285492ef8f"
+  },
+  "storm-water-damage-cleanup": {
+    "src": "/images/service-guides/storm-water-damage-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/storm-water-damage-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Storm water damage cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "25c7e43d-f755-46d7-b713-3d7cd680612a"
+  },
+  "appliance-leak-cleanup": {
+    "src": "/images/service-guides/appliance-leak-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/appliance-leak-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Appliance leak cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "b90503bc-eeae-4cc6-a2ca-b236cdad6674"
+  },
+  "ceiling-water-damage-cleanup": {
+    "src": "/images/service-guides/ceiling-water-damage-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/ceiling-water-damage-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Ceiling water damage cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "5f2202a9-7b8e-4924-acdd-eb3820e30f04"
+  },
+  "bathroom-mold-removal": {
+    "src": "/images/service-guides/bathroom-mold-removal-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/bathroom-mold-removal-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Bathroom mold removal: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "f1a4e97d-e605-4111-aca9-35194eef871e"
+  },
+  "structural-drying-services": {
+    "src": "/images/service-guides/structural-drying-services-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/structural-drying-services-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Structural drying services: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "274d4ca8-e927-4243-8786-3b535a13adac"
+  },
+  "floor-water-damage-cleanup": {
+    "src": "/images/service-guides/floor-water-damage-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/floor-water-damage-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Floor water damage cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "fa49b8a7-e4ab-4aa0-bef0-0530e7df5903"
+  },
+  "mold-removal-behind-drywall": {
+    "src": "/images/service-guides/mold-removal-behind-drywall-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/mold-removal-behind-drywall-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Mold removal behind drywall: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "a1039597-392c-4969-b790-441833504495"
+  },
+  "mold-remediation-after-water-damage": {
+    "src": "/images/service-guides/mold-remediation-after-water-damage-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/mold-remediation-after-water-damage-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Mold remediation after water damage: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "bda1a935-6844-466b-9b74-06139fa1ba5c"
+  },
+  "kitchen-cabinet-mold-removal": {
+    "src": "/images/service-guides/kitchen-cabinet-mold-removal-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/kitchen-cabinet-mold-removal-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Kitchen cabinet mold removal: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "780e4954-c808-4704-9c70-28e83cebebb5"
+  },
+  "kitchen-fire-cleanup": {
+    "src": "/images/service-guides/kitchen-fire-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/kitchen-fire-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Kitchen fire cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "e94567c1-401d-4553-9f78-68e325e5d8ae"
+  },
+  "toilet-overflow-cleanup": {
+    "src": "/images/service-guides/toilet-overflow-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/toilet-overflow-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Toilet overflow cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "10e696bd-f25c-4f11-9361-beefe5d0f5a5"
+  },
+  "ac-leak-water-damage-cleanup": {
+    "src": "/images/service-guides/ac-leak-water-damage-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/ac-leak-water-damage-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "AC leak water damage cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "2d24598a-808b-4d24-abe3-be3151e3e4f5"
+  },
+  "crawl-space-water-removal": {
+    "src": "/images/service-guides/crawl-space-water-removal-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/crawl-space-water-removal-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Crawl space water removal: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "6c9c9d00-7918-4594-9561-df2149211336"
+  },
+  "smoke-damage-cleanup": {
+    "src": "/images/service-guides/smoke-damage-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/smoke-damage-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Smoke damage cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "8a371d43-517b-4d62-bd8f-db4b0dc073c2"
+  },
+  "fire-damaged-debris-removal": {
+    "src": "/images/service-guides/fire-damaged-debris-removal-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/fire-damaged-debris-removal-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Fire damaged debris removal: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "d6c970c8-11eb-4fed-b1e2-9878d95698d5"
+  },
+  "crawl-space-mold-remediation": {
+    "src": "/images/service-guides/crawl-space-mold-remediation-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/crawl-space-mold-remediation-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Crawl space mold remediation: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "697ff5d6-07b2-46fb-9a9d-6f351788cbd5"
+  },
+  "mold-contaminated-contents-cleaning": {
+    "src": "/images/service-guides/mold-contaminated-contents-cleaning-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/mold-contaminated-contents-cleaning-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Mold contaminated contents cleaning: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "fa9b82b9-d053-4979-8bb2-8e50af9f691e"
+  },
+  "attic-mold-remediation": {
+    "src": "/images/service-guides/attic-mold-remediation-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/attic-mold-remediation-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Attic mold remediation: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "f6f96e5b-b431-41cc-8913-7ee6d78f08dc"
+  },
+  "fire-extinguisher-residue-cleanup": {
+    "src": "/images/service-guides/fire-extinguisher-residue-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/fire-extinguisher-residue-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Fire extinguisher residue cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "c9dad802-92a8-4bec-b5eb-7170684b64a2"
+  },
+  "fire-damaged-contents-cleaning": {
+    "src": "/images/service-guides/fire-damaged-contents-cleaning-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/fire-damaged-contents-cleaning-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Fire damaged contents cleaning: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "316f9251-ccd6-48ae-818a-c5d1ff7e45f6"
+  },
+  "crawl-space-sewage-cleanup": {
+    "src": "/images/service-guides/crawl-space-sewage-cleanup-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/crawl-space-sewage-cleanup-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Crawl space sewage cleanup: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "b04d992f-81d7-4f36-8fe5-a5152b249b48"
+  },
+  "emergency-board-up-after-fire": {
+    "src": "/images/service-guides/emergency-board-up-after-fire-higgsfield-1280.webp",
+    "smallSrc": "/images/service-guides/emergency-board-up-after-fire-higgsfield-640.webp",
+    "width": 1280,
+    "height": 716,
+    "alt": "Emergency board up after fire: AI-generated restoration illustration",
+    "provider": "Higgsfield",
+    "jobId": "9dae81b0-d7ef-47f5-af36-0eea065109b8"
+  }
+}

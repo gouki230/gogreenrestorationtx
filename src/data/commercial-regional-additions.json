@@ -1,0 +1,340 @@
+[
+  {
+    "slug": "fire-damage-restoration",
+    "name": "Commercial fire damage restoration",
+    "parent": "fire-smoke-damage-restoration",
+    "image": "smoke-damage-cleanup",
+    "description": "Commercial fire damage restoration across DFW. Plan smoke cleanup, damaged-material removal and documented repair stages with your property representative.",
+    "intro": "Commercial fire damage restoration helps when a fire leaves smoke residue, damaged finishes, or firefighting water in a business property. The burned room and rooms affected by smoke may require different work. We will organize the accessible findings, proposed cleanup, and repair sequence through the person authorized to direct the project.",
+    "sections": [
+      {
+        "heading": "Commercial fire damage restoration after access is authorized",
+        "paragraphs": [
+          "The first work plan depends on permitted entry and any restrictions established by the relevant authorities or qualified building professionals. We will document accessible building damage and distinguish the fire area from adjoining spaces needing smoke or water evaluation."
+        ],
+        "bullets": [
+          "Share available entry restrictions and inspection findings.",
+          "Identify the client contact who can authorize building work.",
+          "Record source isolation or utility restrictions already established."
+        ]
+      },
+      {
+        "heading": "Smoke, contents and water have separate decisions",
+        "paragraphs": [
+          "Residue on office finishes differs from heat-damaged inventory or saturated wall cavities. We will describe proposed surface cleaning, building-material removal, and drying separately so the estimate shows how those tasks fit together. Machinery, electronics, products, and specialty contents may require their own qualified assessment; cleanup does not establish that they are usable or saleable."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Test retained finishes before wider residue cleaning",
+        "paragraphs": [
+          "After permitted access is established, we trial a compatible cleaning method on retained finishes and distinguish removable residue from heat-related coating or material failure. Affected porous pieces that cannot suitably remain receive a documented removal and collection boundary, while suitable retained surfaces receive the tested method. Firefighting-water contact has its own extraction and drying checks; a successful smoke-cleaning trial does not establish the condition of covered backing or specialist equipment."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Keep tenants informed through the approved plan",
+        "paragraphs": [
+          "The hiring manager will direct routine tenant communications and approved messaging. Findings, proposed scope, change approvals, and progress records will go to the designated client contact, with practical notices explaining access, equipment, and work zones. Necessary safety information remains accurate; we will not independently discuss fault, coverage, health conclusions, or owner decisions with tenants."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "A repair handoff with visible prerequisites",
+        "paragraphs": [
+          "We will document material-removal decisions and explain outstanding cleaning, drying, or specialist review before replacement work. Repair scheduling will account for access, approved scope, source-related restrictions, and selections. These records support informed property decisions without promising a fixed reopening date or an insurance result."
+        ],
+        "bullets": []
+      }
+    ],
+    "links": [
+      "smoke-damage-cleanup",
+      "fire-damaged-debris-removal",
+      "fire-damaged-contents-cleaning",
+      "emergency-board-up-after-fire"
+    ],
+    "related": "water-damage-restoration",
+    "imageDescription": "Generated illustration of smoke-marked room surfaces, cleaning supplies and restoration equipment; not a commercial project photograph."
+  },
+  {
+    "slug": "sewage-cleanup",
+    "name": "Commercial sewage cleanup",
+    "parent": "sewage-backup-cleanup",
+    "image": "toilet-overflow-cleanup",
+    "description": "Commercial sewage cleanup across DFW. Coordinate affected-area access, contaminated-material decisions, source repair and documented restoration progress.",
+    "intro": "Commercial sewage cleanup helps when a drain backup or wastewater overflow reaches business flooring, wall bases, storage, or a shared corridor. Removing visible liquid is only part of the job when porous finishes have been affected. We will define accessible contamination concerns and coordinate the cleanup boundary with the authorized property contact.",
+    "sections": [
+      {
+        "heading": "Commercial sewage cleanup starts with the source and affected path",
+        "paragraphs": [
+          "A plumbing repair and the building cleanup have different responsibilities. We will record the reported source, visible spread, and inaccessible areas, then coordinate restoration timing with the appropriate plumbing provider. The plan will distinguish ordinary wet material from areas requiring contaminated-material handling."
+        ],
+        "bullets": [
+          "Identify whether wastewater continues entering the space.",
+          "Share plumbing findings already available.",
+          "Describe affected rooms from a safe accessible location."
+        ]
+      },
+      {
+        "heading": "Materials and contents need explicit handling decisions",
+        "paragraphs": [
+          "Porous wallboard, floor coverings, and stored items need evaluation that reflects the water condition and exposure. We will explain proposed removal, surface treatment, and contents arrangements before expanding work. The inventory owner remains responsible for product disposition with appropriate professional guidance; building cleanup does not establish food or merchandise suitability."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Wastewater removal and retained-surface treatment",
+        "paragraphs": [
+          "We extract accessible wastewater and debris along the confirmed contact route, then evaluate absorbent finishes for removal using exposure and material suitability rather than waiting for visible swelling. Removal and collection boundaries keep affected porous pieces distinct from suitable retained concrete, tile or metal scheduled for specified cleaning. Drying checks follow the exposed retained assembly, with inaccessible footprints still identified and plumbing correction recorded separately before reconstruction covers the work."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Work-area notices under management direction",
+        "paragraphs": [
+          "We will provide the hiring manager with the access and work-zone details needed for accurate notices. Routine occupant messages follow that manager’s instructions and approved wording, while findings, scope decisions, approvals, and progress reports go to the designated client representative. We will preserve necessary safety information without independently interpreting fault, coverage, health effects, or owner decisions for tenants."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Documented stages through rebuilding",
+        "paragraphs": [
+          "Progress records will show contaminated-material work, remaining moisture concerns, and tasks pending source correction or further access. We will explain the prerequisites for repair rather than describing a freshly cleaned surface as proof that an entire facility is ready for use. Operational or occupancy decisions require the responsible parties and any necessary qualified advisers."
+        ],
+        "bullets": []
+      }
+    ],
+    "links": [
+      "toilet-overflow-cleanup",
+      "crawl-space-sewage-cleanup",
+      "floor-water-damage-cleanup"
+    ],
+    "related": "water-damage-restoration",
+    "imageDescription": "Generated illustration of standing water around a bathroom toilet with extraction and drying equipment; not a photograph or confirmation of water contamination."
+  },
+  {
+    "slug": "apartment-water-damage-restoration",
+    "name": "Apartment water damage restoration",
+    "parent": "water-damage-restoration",
+    "image": "ceiling-water-damage-cleanup",
+    "description": "Apartment water damage restoration across DFW. Track affected units, coordinate resident entry and document extraction, drying and repair handoffs.",
+    "intro": "Apartment water damage restoration helps when a leak in one unit reaches a ceiling below, an adjoining wall, or a shared hallway. The first resident report may describe only part of the affected area. We will organize inspection and drying by unit and common space, with entry arranged through the authorized property manager.",
+    "sections": [
+      {
+        "heading": "Apartment water damage restoration across connected units",
+        "paragraphs": [
+          "We will follow accessible moisture findings through the affected rooms and identify adjoining areas awaiting inspection. Unit-level records distinguish confirmed wet materials from places that cannot yet be assessed. Shared risers, ceilings, and wall cavities may need trade access before their condition can be established."
+        ],
+        "bullets": [
+          "Provide affected unit identifiers and reported leak locations.",
+          "Identify plumbing access and source-repair status.",
+          "Record neighboring units requiring scheduled entry."
+        ]
+      },
+      {
+        "heading": "Extraction and drying by affected assembly",
+        "paragraphs": [
+          "We extract reachable water from the reported unit and evaluate ceiling board, insulation, flooring and backing separately wherever authorized access exposes them. Material condition and the water contact guide removal of affected absorbent layers; suitable retained surfaces receive cleaning and drying appropriate to that assembly. Readings from one room do not represent a closed cavity or an apartment awaiting entry, and replacement work follows the documented material disposition and source correction."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Resident belongings and room access",
+        "paragraphs": [
+          "We will agree on how entry is arranged, who can authorize movement of belongings, and where drying equipment can be placed. The property contact will coordinate resident notices and access permissions, while we supply clear information about monitoring visits, equipment, and restoration work boundaries. An unattended or locked unit will be recorded as an access limitation rather than presumed dry."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "One client record for a multi-unit loss",
+        "paragraphs": [
+          "Findings, scope approvals, and progress reports go to the designated management contact. Routine tenant communication uses the hiring manager’s instructions and approved messaging, with accurate necessary safety and access notices. We will not independently discuss fault, coverage, health conclusions, or owner decisions with residents."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Drying before the unit repair handoff",
+        "paragraphs": [
+          "Our updates will show which materials remain under evaluation, where drying is progressing, and what depends on source repair or additional opening. Reconstruction will be described as a separate stage with its own prerequisites. If suspected growth changes the work, we will document that concern and coordinate the appropriate mold-service provider and scope."
+        ],
+        "bullets": []
+      }
+    ],
+    "links": [
+      "ceiling-water-damage-cleanup",
+      "burst-pipe-cleanup",
+      "structural-drying-services"
+    ],
+    "related": "apartment-mold-remediation",
+    "imageDescription": "Generated illustration of an opened water-damaged ceiling, floor protection and drying equipment in a furnished room; not an apartment project photograph."
+  },
+  {
+    "slug": "apartment-mold-remediation",
+    "name": "Apartment mold remediation",
+    "parent": "mold-remediation",
+    "image": "mold-removal-behind-drywall",
+    "description": "Apartment mold remediation inquiries across DFW. Coordinate unit access, moisture findings, approved resident notices and licensed-provider responsibilities.",
+    "intro": "Apartment mold remediation helps when suspected growth recurs around a leak, appears behind a unit’s finish, or affects a shared building assembly. Similar marks in two apartments do not establish an identical cause or scope. We will organize the concern by unit, available findings, and access needs before arranging the appropriate provider.",
+    "sections": [
+      {
+        "heading": "Apartment mold remediation with unit-specific findings",
+        "paragraphs": [
+          "We will record reported surfaces and distinguish accessible observations from concealed areas requiring further evaluation. Existing consultant reports and source-repair records help define the next step. Photographs can describe a concern, but they do not establish species, concealed extent, or health effects."
+        ],
+        "bullets": [
+          "List units with reported growth or persistent moisture.",
+          "Share existing assessment and maintenance documentation.",
+          "Identify common cavities or adjoining areas awaiting evaluation."
+        ]
+      },
+      {
+        "heading": "Affected-material removal and retained cleaning",
+        "paragraphs": [
+          "The identified appropriately licensed provider defines which affected porous finishes or backing require removal and how those materials will be collected within its work area. Suitable retained framing, masonry or other surfaces receive the provider’s specified cleaning; removing a panel does not establish that adjoining cavities or resident belongings were included. The unit record separates that treatment from leak repair, any required independent assessment and the reconstruction handoff."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Provider and assessment responsibilities",
+        "paragraphs": [
+          "While Go Green’s Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and authorized scope will be identified before work begins. Independent assessment or clearance is separate from remediation, and any applicable consultant process must be coordinated with the work plan."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Resident access through property management",
+        "paragraphs": [
+          "The hiring manager will direct routine tenant messages and approve the communication plan. We will report findings, scope changes, approvals, and progress to the designated client contact and provide practical work-zone information for required notices. Necessary safety and access information remains accurate; we will not independently interpret fault, coverage, health consequences, or owner decisions for residents."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Connect source correction to the rebuild",
+        "paragraphs": [
+          "A replaced panel does not correct a leaking connection or recurring moisture. The documented sequence will identify source work, provider treatment, required independent review, and repair prerequisites by affected unit or assembly. Uninspected rooms and pending entries remain visible in the record so management can follow what is unresolved."
+        ],
+        "bullets": []
+      }
+    ],
+    "links": [
+      "mold-remediation-after-water-damage",
+      "bathroom-mold-removal",
+      "mold-removal-behind-drywall"
+    ],
+    "related": "apartment-water-damage-restoration",
+    "imageDescription": "Generated illustration of an opened wall with visible growth-like staining, protective sheeting and restoration equipment; not a project photograph or laboratory finding."
+  },
+  {
+    "slug": "condo-water-damage-restoration",
+    "name": "Condo water damage restoration",
+    "parent": "water-damage-restoration",
+    "image": "floor-water-damage-cleanup",
+    "description": "Condo water damage restoration across DFW. Coordinate unit-owner and association access, distinguish shared assemblies and document drying and repair scope.",
+    "intro": "Condo water damage restoration helps when water crosses a unit boundary and owners need a clear record of affected finishes and shared building materials. A leak above a ceiling can involve several access and approval contacts. We will organize the restoration findings by area and establish who can authorize each part of the work.",
+    "sections": [
+      {
+        "heading": "Condo water damage restoration across unit and common areas",
+        "paragraphs": [
+          "We will record affected rooms, accessible adjoining materials, and common spaces involved in the moisture path. Finish observations will be separated from concealed assembly questions that require additional access. The work record describes restoration findings without assigning ownership, lease responsibility, or liability."
+        ],
+        "bullets": [
+          "Identify affected unit owners and the association representative.",
+          "Provide known source repairs and building access restrictions.",
+          "Share relevant drawings or maintenance information if available."
+        ]
+      },
+      {
+        "heading": "Floor and ceiling layers need separate decisions",
+        "paragraphs": [
+          "We recover accessible water and inspect exposed finish layers, backing and structural contact points within the authorized unit or shared-area scope. A floor face may remain intact while absorbent underlayment needs removal; a ceiling opening can reveal wet insulation beyond the visible stain. Suitable retained surfaces receive scoped cleaning and monitored drying, with replacement finishes scheduled after the affected-material decisions and source-repair prerequisites are documented."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Approval routes before opening an assembly",
+        "paragraphs": [
+          "The client’s supplied property records and authorized contacts establish the proposed unit-interior and shared-material approval routes before an assembly is opened. If an opening reveals damage beyond the approved area, the findings and additional scope will be documented for the agreed decision-makers. Association approval does not automatically authorize work on every owner’s belongings."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Consistent notices from the hiring party",
+        "paragraphs": [
+          "Routine resident communication will follow the hiring manager’s or association’s instructions and approved messaging. Findings, approvals, scope decisions, and progress reports go to the designated client contact, with accurate practical information for work-zone and access notices. We will not independently discuss fault, coverage, health conclusions, or owner decisions with residents."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "A repair record that separates the stages",
+        "paragraphs": [
+          "We will report extraction and drying progress by unit and shared area, then explain outstanding access, source correction, and material concerns. Replacement flooring or ceiling work needs a coordinated handoff after the preceding restoration requirements are addressed. Insurance and association responsibility decisions remain separate from our building-condition observations."
+        ],
+        "bullets": []
+      }
+    ],
+    "links": [
+      "floor-water-damage-cleanup",
+      "ceiling-water-damage-cleanup",
+      "structural-drying-services"
+    ],
+    "related": "fire-sprinkler-water-damage-cleanup",
+    "imageDescription": "Generated illustration of lifted floor covering, exposed moisture and drying equipment in a furnished room; not a condo project photograph."
+  },
+  {
+    "slug": "fire-sprinkler-water-damage-cleanup",
+    "name": "Fire sprinkler water damage cleanup",
+    "parent": "water-damage-restoration",
+    "image": "emergency-water-extraction",
+    "description": "Fire sprinkler water damage cleanup across DFW. Coordinate extraction, affected-area drying and system-provider access with the authorized building manager.",
+    "intro": "Fire sprinkler water damage cleanup helps when a discharge leaves water in business rooms, occupied units, or shared circulation areas. Whether activation followed a fire or a system problem changes the information needed for the work plan. We will document accessible wet materials and coordinate extraction and drying through the authorized building contact.",
+    "sections": [
+      {
+        "heading": "Fire sprinkler water damage cleanup after a discharge",
+        "paragraphs": [
+          "We will record the reported activation circumstances and the accessible water path without assuming the liquid affected only the room containing the head. Ceilings, adjoining finishes, and lower rooms may require evaluation. Entry or utility restrictions following a fire must be coordinated before restoration work begins."
+        ],
+        "bullets": [
+          "Share any fire-related entry restrictions.",
+          "Identify the system-service contact and reported discharge location.",
+          "Describe water reaching neighboring rooms or lower levels."
+        ]
+      },
+      {
+        "heading": "Building-material recovery after permitted access",
+        "paragraphs": [
+          "Once the responsible providers establish the applicable access and utility restrictions, we extract reachable water and evaluate ceiling components, wall bases and floor layers along the discharge path. A wet ceiling tile, porous backing and a cleanable metal grid can require different removal or retention decisions, which are recorded by the affected section. Exposed retained surfaces receive appropriate cleaning and drying checks before finishes are reset; system servicing and operating decisions remain with the qualified fire-protection provider."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Sprinkler-system work stays with its responsible provider",
+        "paragraphs": [
+          "Extraction does not repair or restore a fire-protection system. We will coordinate access and timing with the appropriate system provider and record any restrictions relevant to restoration. Decisions about system operation, impairment, or return to service remain with the responsible qualified parties."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Equipment routes and approved occupant information",
+        "paragraphs": [
+          "The hiring manager or association will direct routine tenant messaging. Our findings, scope proposals, approvals, and progress records will go to the designated client representative, with practical equipment and work-zone details supplied for accurate notices. Required safety and access information remains clear; we will not independently discuss fault, coverage, health conclusions, or owner decisions with occupants."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Water restoration and fire cleanup may overlap",
+        "paragraphs": [
+          "Where smoke or fire damage accompanies the discharge, we will distinguish those tasks from extraction and structural drying. Records will show affected materials, source or system-related dependencies, and the prerequisites for repair. A surface appearing dry does not by itself establish that concealed assemblies are ready to close."
+        ],
+        "bullets": []
+      }
+    ],
+    "links": [
+      "emergency-water-extraction",
+      "ceiling-water-damage-cleanup",
+      "structural-drying-services",
+      "smoke-damage-cleanup"
+    ],
+    "related": "water-damage-restoration",
+    "imageDescription": "Generated illustration of extraction equipment removing standing water from a furnished room; no sprinkler system or discharge source is depicted."
+  }
+]

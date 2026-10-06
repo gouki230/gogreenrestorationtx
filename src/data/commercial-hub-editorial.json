@@ -1,0 +1,120 @@
+{
+  "existingOwner": "/commercial/",
+  "status": "reviewed_copy_pending_final_coordinated_integration",
+  "title": "Commercial restoration services in DFW | Request an Estimate | Go Green Restoration TX Inc",
+  "description": "Commercial restoration services in DFW for water, mold, fire and sewage concerns. Discuss affected materials, authorized access and a property estimate with Go Green Restoration TX Inc.",
+  "heading": "Commercial restoration services in DFW",
+  "intro": "Commercial restoration services help when water, suspected mold, fire residue or sewage affects a business, apartment building or shared property. The work can involve occupied rooms, concealed materials and several approval contacts. We will document accessible conditions and explain the proposed building work through the designated client.",
+  "sections": [
+    {
+      "heading": "A material plan for the affected spaces",
+      "paragraphs": [
+        "An initial cleanup can leave questions behind flooring, cabinetry or wall finishes. We will distinguish inspected surfaces from concealed layers, explain proposed access, and record new findings before the authorized scope expands. Source repairs and specialist equipment decisions remain with the responsible qualified providers."
+      ],
+      "bullets": [
+        "Identify affected rooms and available source-service records.",
+        "Separate contents handling from building-material permissions.",
+        "Record drying, removal and repair prerequisites by location."
+      ]
+    },
+    {
+      "heading": "Property managers and occupied buildings",
+      "paragraphs": [
+        "Go Green\u2019s owner reports extensive experience with multi-unit and tenant-occupied properties. We will keep findings, scope decisions, approvals and progress directed to the hiring representative. Routine resident messages follow that client\u2019s approved instructions, with necessary safety and access information accurate."
+      ],
+      "bullets": [
+        "Coordinate permitted unit entry and equipment routes.",
+        "Identify the contact who can approve added work.",
+        "Keep one unit\u2019s observations separate from unexamined neighboring spaces."
+      ]
+    },
+    {
+      "heading": "Associations, owned units and shared materials",
+      "paragraphs": [
+        "A common assembly and a private finish can require different authorizations even where they meet at the same doorway. We will name the material, proposed work and access needed in the client record. The association and its advisers retain decisions about governing documents, responsibility and owner approvals."
+      ],
+      "bullets": [
+        "Retain the distinction between shared work and optional owner selections.",
+        "Coordinate contents custody before fixtures or belongings are moved.",
+        "Provide a specific handoff for restoration and the next repair provider."
+      ]
+    },
+    {
+      "heading": "Mold provider and assessment arrangements",
+      "paragraphs": [
+        "Go Green Restoration TX Inc welcomes mold inquiries of any size. While our Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and scope are identified before work begins.",
+        "Independent assessment or clearance is separate from remediation and is coordinated where required. Progress records keep source correction, provider work, independent review and reconstruction prerequisites identifiable."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "A property estimate with clear next decisions",
+      "paragraphs": [
+        "Call or send a service request with the affected rooms, known source, current restrictions and designated client contact. We will discuss accessible conditions, relevant provider responsibilities and the next practical step. Document sharing is arranged separately through the contact process."
+      ],
+      "bullets": [
+        "Share current photographs or prior task records when available.",
+        "Identify entry permissions and any official service restrictions.",
+        "Explain the property\u2019s scheduling needs without treating them as a guaranteed completion date."
+      ]
+    }
+  ],
+  "topicOwners": [
+    {
+      "slug": "water-damage-restoration",
+      "label": "Commercial water damage restoration",
+      "summary": "Extraction, concealed-layer evaluation and drying decisions for affected business materials."
+    },
+    {
+      "slug": "mold-remediation",
+      "label": "Commercial mold remediation",
+      "summary": "Coordinate the reported material concern, appropriate provider scope and separate assessment needs."
+    },
+    {
+      "slug": "fire-damage-restoration",
+      "label": "Commercial fire damage restoration",
+      "summary": "Organize residue, debris and firefighting-water work around permitted entry and specialist findings."
+    },
+    {
+      "slug": "sewage-cleanup",
+      "label": "Commercial sewage cleanup",
+      "summary": "Define wastewater-exposed material tasks separately from plumbing repairs and other site hazards."
+    },
+    {
+      "slug": "apartment-water-damage-restoration",
+      "label": "Apartment water damage restoration",
+      "summary": "Record unit-specific floor, wall and ceiling observations with tenant access and repair dependencies."
+    },
+    {
+      "slug": "apartment-mold-remediation",
+      "label": "Apartment mold remediation",
+      "summary": "Coordinate affected-component decisions, licensed provider work and manager-approved resident notices."
+    },
+    {
+      "slug": "condo-water-damage-restoration",
+      "label": "Condo water damage restoration",
+      "summary": "Separate private finishes, shared assemblies and the approvals needed for each material task."
+    },
+    {
+      "slug": "fire-sprinkler-water-damage-cleanup",
+      "label": "Fire sprinkler water damage cleanup",
+      "summary": "Plan building extraction and drying while sprinkler servicing and operation remain with qualified providers."
+    },
+    {
+      "slug": "property-management-restoration",
+      "label": "Property management restoration",
+      "summary": "Provide the hiring manager with specific findings, scope approvals and progress across affected spaces."
+    },
+    {
+      "slug": "hoa-restoration-services",
+      "label": "HOA restoration services",
+      "summary": "Coordinate association-authorized material work, owner access and a documented repair handoff."
+    }
+  ],
+  "secondaryOwner": {
+    "path": "/commercial/commercial-properties/",
+    "label": "Restoration planning for commercial properties"
+  },
+  "ctaLabel": "Request a property estimate",
+  "integrationNotes": "Replace the existing /commercial/ owner at final release, preserving its canonical. Link topicOwners to their existing /commercial/{slug}/ regional owners. Retain commercial-properties as a separate property-type owner. No new city-specific office claims, aggregate ratings or previewdirectory links. Remove outdated CC&R compliance and tenant displacement management claims from existing cards."
+}

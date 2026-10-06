@@ -1,0 +1,11 @@
+---
+interface Props { kind?: 'mold' | 'water' | 'repair' | 'all'; }
+const {kind='all'}=Astro.props;
+const links=kind==='mold' ? [{href:'/services/mold-remediation-before-closing/',label:'Mold remediation before closing'},{href:'/services/pre-listing-mold-removal/',label:'Pre-listing mold removal'}] : kind==='water'||kind==='repair' ? [{href:'/services/water-damage-repair-before-closing/',label:'Water damage repair before closing'}] : [{href:'/services/mold-remediation-before-closing/',label:'Mold remediation before closing'},{href:'/services/water-damage-repair-before-closing/',label:'Water damage repair before closing'},{href:'/services/pre-listing-mold-removal/',label:'Pre-listing mold removal'}];
+---
+<aside class="bg-brand-gray-50 border border-brand-gray-200 rounded-xl p-6 my-10">
+  <h2 class="font-heading text-xl font-bold mb-3">Preparing a property for sale?</h2>
+  <p class="text-brand-gray-600 leading-relaxed mb-4">Share the inspection findings and your target date. We will explain the proposed restoration scope, confirm availability and identify what needs to happen before repairs are complete.</p>
+  <ul class="list-disc pl-5 space-y-2">{links.map(link=><li><a href={link.href} class="text-brand-brown underline">{link.label}</a></li>)}</ul>
+  <p class="mt-4"><a href="/real-estate/" class="text-brand-brown underline font-bold">Restoration coordination for real estate agents</a></p>
+</aside>

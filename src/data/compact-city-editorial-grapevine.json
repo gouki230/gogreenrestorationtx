@@ -1,0 +1,714 @@
+{
+  "emergency-water-extraction/grapevine": {
+    "intro": "Emergency water extraction in Grapevine helps when a water-filled room leaves you needing an immediate plan and a clear explanation of the work you are authorizing. You may know where the release started but not how far it traveled. We will review the accessible conditions, organize removal, and explain which decisions can be made initially and which need inspection after water is collected.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Grapevine: defining the initial visit",
+        "text": "We will establish the reported source, whether the release continues, and the access available to affected rooms. Those details help define a practical first phase. A room with electrical concerns, unstable overhead material, or potentially contaminated water may need a different sequence from an accessible clean-water area."
+      },
+      {
+        "title": "What the first estimate can establish",
+        "text": "The visible condition can support an initial extraction scope while concealed layers remain uncertain. We will identify those limits rather than imply every damaged material can be measured from the doorway. Further access may clarify the floor construction, wall-base condition, or spread into another space."
+      },
+      {
+        "title": "When removal reveals another task",
+        "text": "Collecting standing water can expose material that needs drying, opening, or removal. We will explain the finding and its connection to the proposed work before a change is approved. Belongings needing evaluation should be identified separately from the building-cleanup task around them."
+      },
+      {
+        "title": "Keeping completion milestones understandable",
+        "text": "We will record what the extraction phase accomplished and what remains before repair. Equipment pickup, a dry-looking surface, and readiness for reconstruction are different observations. Suspected mold found during the work may require a remediation scope rather than being included in an undefined promise that water removal fixes everything. We will identify the person responsible for approving each stage."
+      }
+    ],
+    "estimate": "Access, water location and condition, construction, and contents handling affect pricing. We will separate the immediate response from continuing drying and rebuilding and identify how changes are approved. The purpose of the estimate is to define the work, not conceal uncertainty behind an apparently complete room total.",
+    "checklist": [
+      "Tell us the source, whether it has stopped, and who can authorize access.",
+      "Identify rooms or closets where water may have traveled.",
+      "Avoid wet electrical areas and leave unstable material undisturbed."
+    ]
+  },
+  "burst-pipe-cleanup/grapevine": {
+    "intro": "Burst pipe cleanup in Grapevine helps when a pipe repair is underway but the surrounding rooms still need a coordinated restoration plan. You may have an owner, occupant, and plumber arranging different parts of the response. We will clarify access and approvals, assess the accessible damage, and explain the work needed for wet materials before the repair opening is closed.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Grapevine with responsibility clarified",
+        "text": "We will identify the person authorizing restoration and the provider handling the pipe. That makes it easier to coordinate entry and changes without assuming an occupant can approve every task. Source correction and building cleanup should remain distinct responsibilities with an understood point of contact."
+      },
+      {
+        "title": "Following the release beyond the repair location",
+        "text": "A cavity or floor opening can connect the failed pipe to a room that initially appears less affected. We will inspect accessible related areas and explain further access proposed. The plumbing opening is an opportunity to inspect, not automatic proof of the entire damage boundary."
+      },
+      {
+        "title": "Making material decisions reviewable",
+        "text": "We will describe what can be considered for drying and what condition supports removal or another evaluation. Insulation, finishes, and structural surfaces may require different treatment. If earlier leakage or suspected growth is identified, that concern needs separate consideration rather than a blanket extension of ordinary drying."
+      },
+      {
+        "title": "Coordinating the close-up work",
+        "text": "We will record restoration status and identify unresolved source or moisture questions before rebuilding. The provider replacing finishes needs to know which areas must stay open. A successful plumbing repair does not establish that the adjoining assembly is ready simply because the system can be used again. Repair access left open by the plumber will be noted so the later closure does not overlook an unfinished inspection."
+      }
+    ],
+    "estimate": "The estimate reflects the release duration, material layers, water pathway, and access. We will distinguish restoration from plumbing and reconstruction and explain added work before authorization. Where several parties are involved, the approval arrangement should be clear before concealed findings require a decision.",
+    "checklist": [
+      "Provide the pipe location, source-isolation time, and plumbing contact information available.",
+      "Identify the person who can approve restoration changes.",
+      "Share observations from adjoining rooms or the level below the leak."
+    ]
+  },
+  "appliance-leak-cleanup/grapevine": {
+    "intro": "Appliance leak cleanup in Grapevine helps when an installer discovers wet or damaged material while removing a machine and the replacement cannot simply go back into the same opening. You may be looking at flooring or a cabinet edge that was previously hidden. We will evaluate the accessible condition and explain the restoration decisions needed before installation resumes.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Grapevine during an installation pause",
+        "text": "The open appliance space can reveal useful information without exposing every connected layer. We will identify what is visible and which surrounding areas still need review. The installation appointment should account for that condition rather than make closing the opening the first priority."
+      },
+      {
+        "title": "Separating equipment work from the building damage",
+        "text": "We will establish the reported failure and what the appliance or plumbing provider has corrected. Replacing a machine or connection does not address affected cabinet, wall, or floor material. Disconnection, movement, and functional testing should remain assigned to their responsible providers."
+      },
+      {
+        "title": "Understanding why the proposed repair changes",
+        "text": "A damaged panel or flooring layer may need a different response from an accessible hard surface. We will explain the material condition and limits behind a drying or removal recommendation. Suspected growth after repeated wetting can introduce a remediation requirement that was not part of the original installation quote."
+      },
+      {
+        "title": "Preparing a clear return point",
+        "text": "We will communicate cleanup and drying progress and identify the remaining conditions for installation. The receiving area should not be represented as ready solely because the old appliance is gone. Any source question or concealed limitation will be included in the handoff to the next provider. If delivery requires a cleared path through affected rooms, we will explain how that affects the restoration sequence."
+      }
+    ],
+    "estimate": "Pricing depends on access, affected construction, material condition, and handling needs. We will distinguish restoration from equipment service and replacement finishes and explain changes before additional work. The installer\u2019s schedule is useful coordination information, but it should not determine whether an unresolved wet assembly is covered.",
+    "checklist": [
+      "Tell us whether the old unit is removed and the replacement is waiting.",
+      "Share the source diagnosis and installation requirements.",
+      "Photograph the exposed area without disturbing suspected growth or wet electrical components."
+    ]
+  },
+  "storm-water-damage-cleanup/grapevine": {
+    "intro": "Storm water damage cleanup in Grapevine helps when rain appears in more than one part of the property and you need to organize the interior work while the exterior is investigated. You may have separate ceiling and window concerns from the same event. We will review each accessible affected assembly and explain cleanup and source responsibilities without assuming every mark shares one entry point.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Grapevine with separate affected areas",
+        "text": "We will record where water was observed and which areas can be inspected. Different visible locations may have connected or separate paths that need an appropriate provider\u2019s evaluation. The initial plan should identify those uncertainties instead of merging every room into an unsupported single-source conclusion."
+      },
+      {
+        "title": "Coordinating temporary and permanent protection",
+        "text": "Exterior protection can reduce exposure without removing moisture already inside. We will review what is in place and what source work remains. Interior restoration should not be described as completing roof, window, or envelope repairs that belong to another trade."
+      },
+      {
+        "title": "Choosing the approach from the actual condition",
+        "text": "Water traveling through a roof assembly and outdoor water entering at floor level can require different cleanup decisions. We will explain how source information and findings affect affected-material handling. Visible improvement after rain stops does not establish that concealed insulation or floor layers have dried."
+      },
+      {
+        "title": "A room-by-room repair handoff",
+        "text": "We will document restoration progress and remaining conditions for each included area. Renewed water entry can require reassessment rather than continuation of an outdated scope. Suspected mold after a delayed intrusion needs an appropriate remediation decision before new finishes cover the concern. Photographs from different times can help distinguish separate entry events without proving the condition inside a concealed assembly."
+      }
+    ],
+    "estimate": "The estimate considers the number of assemblies, access, protection, material condition, and water source. We will distinguish interior restoration from exterior and reconstruction tasks. Additional findings will be explained before authorization so an expanded scope reflects an identified condition rather than a generic storm-damage allowance.",
+    "checklist": [
+      "List where and when water appeared and whether each area is temporarily protected.",
+      "Share exterior inspection findings and repair appointments.",
+      "Keep clear of weakened ceilings and do not climb onto damaged roofing."
+    ]
+  },
+  "structural-drying-services/grapevine": {
+    "intro": "Structural drying services in Grapevine help when you want to understand the progress record instead of simply being told to wait for equipment removal. A room may look improved while a layered assembly still needs attention. We will explain which materials are being monitored, what the observations mean, and how they guide the next decision before repairs begin.",
+    "sections": [
+      {
+        "title": "Structural drying services in Grapevine with a readable scope",
+        "text": "We will identify the materials and locations included and note areas that cannot yet be reached. Equipment quantity alone does not describe how a wall or floor is being addressed. Any opening or removal proposal should be connected to a clear material or access question."
+      },
+      {
+        "title": "What makes a progress update useful",
+        "text": "We will record relevant observations and measurements and explain changes rather than provide isolated numbers without context. Material type and the assembly matter to interpretation. If progress is limited, the setup, access, or source status may need review rather than merely extending the original schedule without explanation."
+      },
+      {
+        "title": "Recording interruptions and changes",
+        "text": "An occupied room may need access adjustments while work continues. We will explain the agreed arrangement and how interruptions should be communicated. That information helps distinguish a planned change from an unnoticed interruption that could affect the conditions being monitored."
+      },
+      {
+        "title": "Turning the record into a repair decision",
+        "text": "We will identify outstanding source, material, or independent requirements before reconstruction. Replacement-product acceptance criteria should also be confirmed by the installer. Suspected mold requires an appropriate separate scope and should not be assumed resolved by a drying record alone. If you need to compare two proposed approaches, we will explain what each included task is intended to address. An equipment list alone does not describe access, material decisions, or the observations supporting the end of drying."
+      }
+    ],
+    "estimate": "Construction, retained moisture, access, equipment arrangement, and monitoring influence the estimate. We will explain revisions based on findings and separate drying from repair services. A documented material decision is a better handoff than an unexplained date on which equipment happened to be collected.",
+    "checklist": [
+      "Share source-repair records and earlier water-removal information.",
+      "Tell us what repairs are planned and what access occupants need.",
+      "Report equipment interruptions and avoid changing the setup without coordination."
+    ]
+  },
+  "floor-water-damage-cleanup/grapevine": {
+    "intro": "Floor water damage cleanup in Grapevine helps when you need to decide whether a wet floor is a candidate for retention before committing to replacement. You may be comparing a drying proposal with an installer\u2019s recommendation for new material. We will explain the affected layers and recovery limits so the decision concerns the actual assembly rather than the appearance of the top surface alone.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Grapevine with the layers identified",
+        "text": "We will review accessible finish, underlayment, padding, adhesive, or substrate as relevant to the construction. Some layers may remain inaccessible until a covering is opened. The condition of one face cannot establish the state of every component beneath it."
+      },
+      {
+        "title": "Understanding a retention recommendation",
+        "text": "We will explain the findings supporting a drying attempt and the conditions that limit it. Distortion, separation, contamination, and access can change what is reasonable. Retaining a costly finish should not become a guarantee that drying reverses every visible or concealed change."
+      },
+      {
+        "title": "Keeping cosmetic matching separate",
+        "text": "A continuous flooring product can create a replacement question beyond the affected area. We will distinguish that design or matching decision from the restoration boundary. The need to match a discontinued finish does not itself establish where water damage occurred."
+      },
+      {
+        "title": "The information an installer needs",
+        "text": "We will communicate restoration status and unresolved source, substrate, or suspected mold concerns. The installer should confirm requirements for the selected product. A new covering should follow those decisions rather than hide a receiving surface that still needs evaluation. We will explain how retaining one section can affect the transition to adjacent flooring. A restoration decision based on material condition should remain distinct from an elective decision to replace a larger area for visual consistency."
+      }
+    ],
+    "estimate": "The estimate reflects construction, affected layers, access, furnishings, and handling. We will separate removal, drying, and replacement responsibilities and discuss new findings before additional work. Comparing proposals is more useful when each identifies what remains, what is removed, and which receiving-surface work is included.",
+    "checklist": [
+      "Provide flooring product information and proposals already received.",
+      "Point out visible changes and connected rooms using the same finish.",
+      "Identify heavy or fixed items limiting access."
+    ]
+  },
+  "ceiling-water-damage-cleanup/grapevine": {
+    "intro": "Ceiling water damage cleanup in Grapevine helps when the damage opening and the proposed finish repair appear to be different sizes and you need to understand why. You may have a leak addressed but still need wet material evaluated before patching. We will explain access and restoration boundaries separately from texture and paint matching so the repair plan is based on the assembly\u2019s condition.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Grapevine before a finish quote",
+        "text": "We will review accessible damage and the source information available. A stain can show where water emerged without locating every affected layer above it. The initial restoration boundary should remain open to findings rather than be dictated by the cosmetic outline visible from the room."
+      },
+      {
+        "title": "Making removal serve a purpose",
+        "text": "Access may be needed to inspect insulation, reach moisture, or remove damaged components. We will explain that purpose and any proposed extension before disturbance. A sagging or weakened ceiling also changes access restrictions and should not be punctured or approached underneath by occupants."
+      },
+      {
+        "title": "Separating the patch from the assembly",
+        "text": "Drying or removal work addresses affected material; matching a finish is a reconstruction decision. We will communicate what remains in place and what still needs attention. An attractive patch cannot establish that a source repair or concealed moisture concern has been resolved."
+      },
+      {
+        "title": "Coordinating the ceiling\u2019s return",
+        "text": "We will document progress and requirements before insulation or finishes are installed. Suspected mold may require an appropriate remediation scope, and applicable independent evaluation must be coordinated separately. Other trades needing access should be considered before the opening is closed. Where a light fixture or ceiling attachment crosses the repair area, we will identify the need for appropriate trade coordination. Removing a stained panel does not establish the condition of those connected components."
+      }
+    ],
+    "estimate": "Height, protection of the room, construction depth, insulation, and access determine restoration cost. Texture or paint matching may involve another area and should be described separately. We will explain uncertainties before approval and discuss new concealed findings before expanding work.",
+    "checklist": [
+      "Share source-repair information and any finish proposal already prepared.",
+      "Describe what is above the damaged area.",
+      "Keep people clear of unstable material and leave existing openings undisturbed."
+    ]
+  },
+  "bathroom-mold-removal/grapevine": {
+    "intro": "Bathroom mold removal in Grapevine helps when a renovation reveals suspected growth and the original remodeling plan no longer describes everything that needs attention. You may have tile or a vanity removed and need a clear decision before new material is installed. We will review the accessible condition and moisture history and explain the remediation scope separately from optional design changes.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Grapevine during an open renovation",
+        "text": "Existing access can provide useful information while leaving other faces concealed. We will identify what can be evaluated and explain any proposed additional opening. A discovery should not automatically become an unsupported whole-room demolition recommendation or be dismissed because the visible patch appears small."
+      },
+      {
+        "title": "Source correction alongside the new concern",
+        "text": "We will establish what plumbing or other repair has occurred and which questions remain for that provider. New fixtures do not address affected material behind them. The plan should make the responsibility for source correction distinct from remediation and rebuilding."
+      },
+      {
+        "title": "Preserving the decisions that matter to the owner",
+        "text": "We will explain material treatment or removal recommendations and the practical effect on access. An elective upgrade and a task necessary to address the concern should not be merged without explanation. That distinction helps you approve the actual remediation scope without assuming every design change is part of it."
+      },
+      {
+        "title": "Restarting the renovation at a clear point",
+        "text": "We will record completed work and remaining moisture or independent requirements. Assessment or clearance, where applicable, needs separate coordination. The remodeling provider should know which areas must remain accessible before installing finishes that would cover them. A planned layout change may create useful access, but it should remain separately authorized. We will distinguish remediation-required removal from elective changes so the reason for each demolition task stays clear."
+      }
+    ],
+    "estimate": "Access, material condition, containment, and removal needs affect pricing. We will identify the remediation provider and distinguish its scope from fixture installation and cosmetic upgrades. New findings will be explained before additional authorization, with the revised handoff clear to the remodeling team.",
+    "checklist": [
+      "Provide photographs from the initial opening and the known leak history.",
+      "Share the renovation scope and source-repair status.",
+      "Avoid disturbing more suspected affected material before the work is planned."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/grapevine": {
+    "intro": "Kitchen cabinet mold removal in Grapevine addresses the difficult decision between keeping a usable kitchen and opening cabinetry to reach contamination. A repaired sink connection may leave a damaged cabinet floor with hidden surfaces underneath. We will examine accessible construction, define the removal needed, and explain how that choice affects countertops, appliances, and the later cabinet repair.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Grapevine with a countertop to preserve",
+        "text": "A cabinet cannot always be pulled apart independently of everything above it. We will identify connections, supports, and access limitations before defining demolition. If retaining the countertop requires a separate trade or temporary support, that dependency belongs in the plan before removal begins, not after a cabinet panel has been cut."
+      },
+      {
+        "title": "Separating finish damage from contaminated layers",
+        "text": "Staining on a visible panel and deterioration of an underlying assembly can lead to different decisions. We will explain which accessible materials need cleaning, which require removal, and which cannot yet be evaluated. Painting over the base is not a substitute for reaching affected material below or behind it."
+      },
+      {
+        "title": "Using a defined work boundary",
+        "text": "We will establish the appropriate controlled work area and protection for adjacent surfaces. Dishes, pantry items, and small appliances should have an agreed handling plan before access is restricted. Keeping the sink available throughout the project may not be practical; we will explain the interruption associated with the approved scope."
+      },
+      {
+        "title": "Checking the repair before closing cabinetry",
+        "text": "The plumbing correction and remediation have separate responsibilities. We will document the treatment performed and identify moisture or verification work still needed. A new cabinet bottom should not hide an unresolved source simply because it restores the appearance of the kitchen."
+      },
+      {
+        "title": "Planning a partial cabinet replacement",
+        "text": "When only a portion is removed, reconstruction still has to address dimensions, supports, and finish transitions. We will distinguish that future carpentry from our remediation work. This gives the repair provider a clearer starting point without implying that replacement components will match an existing finish automatically."
+      }
+    ],
+    "estimate": "Cabinet construction, counter support, affected depth, contents handling, and required access influence the estimate. We will describe the proposed removal boundary and explain what additional findings could change it. Replacement cabinetry and plumbing repairs should be identified separately so you can compare the entire project, not just its initial cleanup phase.",
+    "checklist": [
+      "Share photos of the cabinet interior without removing suspect panels.",
+      "Tell us what plumbing work has already been completed.",
+      "Identify countertops or appliances you hope to retain."
+    ]
+  },
+  "mold-remediation-after-water-damage/grapevine": {
+    "intro": "Mold remediation after water damage in Grapevine helps when you have already paid for drying but later discover growth in an area that was reopened. The next decision is whether the earlier work reached every affected layer. We will review the available drying information, inspect accessible conditions, and develop a remediation scope around the current findings rather than assume the original leak tells the whole story.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Grapevine after an earlier drying visit",
+        "text": "Prior photographs, moisture records, and removal notes can clarify which parts of the assembly were accessible. We will use those records as background, not as proof of the present condition. An inaccessible cabinet void or wall cavity may need a different evaluation from the exposed surface measured during the initial response."
+      },
+      {
+        "title": "Distinguishing a recurring leak from retained moisture",
+        "text": "A repaired source, a new release, and moisture left in a concealed layer lead to different repair priorities. We will identify the questions that remain unresolved and coordinate around the relevant repair provider. Removing contaminated material cannot compensate for a source that continues to wet the same assembly."
+      },
+      {
+        "title": "Opening only after the work area is planned",
+        "text": "Where access is needed, the opening should support controlled remediation rather than exploratory demolition throughout the room. We will explain protection, material handling, and the proposed boundary before work starts. Additional concealed findings will be documented and discussed before the approved scope is expanded."
+      },
+      {
+        "title": "Keeping useful belongings out of the removal decision",
+        "text": "Furniture returned after drying may be close to the newly identified area without having the same treatment needs as the building. We will separate contents questions from the structural scope. Items needing individual evaluation should not automatically be discarded or declared unaffected based only on their location."
+      },
+      {
+        "title": "Giving reconstruction a clear starting condition",
+        "text": "We will record what was removed or treated and explain the remaining moisture, assessment, or clearance steps applicable to the project. Reconstruction can then be planned around identified conditions. The end of equipment rental is not, by itself, the evidence needed to close every previously concealed space."
+      }
+    ],
+    "estimate": "The estimate depends on current findings, accessible layers, containment, removal, and documentation needs. Prior cleanup can reduce uncertainty when records are available, but does not establish a fixed remediation price. We will separate completed work, proposed work, and decisions that require further access.",
+    "checklist": [
+      "Provide previous drying records and leak-repair details if available.",
+      "Identify when and where the new concern appeared.",
+      "Keep recently exposed materials undisturbed until the work boundary is reviewed."
+    ]
+  },
+  "mold-removal-behind-drywall/grapevine": {
+    "intro": "Mold removal behind drywall in Grapevine is useful when a small opening has revealed growth and you need to know how much more of the wall must come out. The visible patch may not explain the full cavity condition. We will review the opening, plan controlled access, and tie removal decisions to the materials and moisture actually encountered.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Grapevine around an existing inspection opening",
+        "text": "An opening made by a plumber or repair provider may expose only one side of a stud bay. We will establish what can be evaluated through it and what remains concealed. Enlarging that opening should follow a defined work plan rather than turn an exploratory hole into uncontrolled demolition."
+      },
+      {
+        "title": "Understanding which side needs access",
+        "text": "Tile, cabinetry, shelving, or another occupied room can make one side of a partition easier to approach than the other. We will explain the practical differences and protection requirements. The easiest surface to cut is not always the route that reaches affected layers with the least disruption to the overall repair."
+      },
+      {
+        "title": "Treating framing and insulation as separate decisions",
+        "text": "Drywall removal can reveal insulation, wood, fasteners, and other materials with different conditions. We will document these findings and explain the proposed treatment for each. The size of the original stain should not be used as a fixed boundary if the opened cavity shows a different extent."
+      },
+      {
+        "title": "Keeping utilities and reconstruction in view",
+        "text": "Wiring, plumbing, and mounted fixtures affect the sequence. We will identify when another trade is needed before access or closure proceeds. Any repair requirement discovered during remediation should be distinguished from the contamination work, allowing you to authorize the right task without combining unrelated improvements."
+      },
+      {
+        "title": "Recording the area before it disappears again",
+        "text": "The open wall is an opportunity to document treated surfaces, remaining limitations, and required verification. We will explain what has been completed and what must happen before replacement drywall is installed. A neatly patched surface provides no useful record of the hidden work unless the handoff captures it."
+      }
+    ],
+    "estimate": "Pricing reflects access, cavity depth, connected surfaces, containment, disposal, and the findings made after opening. We will identify the initial boundary and the approval process for changes. Texture, paint, tile replacement, and utility repairs should have separate responsibility in the project plan.",
+    "checklist": [
+      "Show us the existing opening and the original water source if known.",
+      "Tell us what is attached to both sides of the wall.",
+      "Keep photographs or repair notes from the person who first opened it."
+    ]
+  },
+  "kitchen-fire-cleanup/grapevine": {
+    "intro": "Kitchen fire cleanup in Grapevine helps when a fire has left the cooking area damaged and you need to decide what can be cleaned before ordering a replacement kitchen. A cabinet proposal may already be in hand, while residue remains elsewhere. We will separate the immediate cleanup, contents decisions, and rebuilding requirements so each next step has a defined purpose.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Grapevine before a replacement order",
+        "text": "The outline of a future kitchen does not establish the cleanup boundary. We will inspect accessible residue and damage around and beyond the cooking area, subject to safe access. Removing cabinets may expose additional surfaces, so the sequence should account for what will be visible only after approved demolition."
+      },
+      {
+        "title": "Protecting the choices you have not made yet",
+        "text": "A cabinet face, stone surface, or appliance may need individual evaluation before retention is decided. We will document its condition and explain the limits of cleaning where appropriate. An item should not be discarded merely to simplify a broad estimate, nor promised salvage before its condition is reviewed."
+      },
+      {
+        "title": "Organizing debris and recoverable belongings",
+        "text": "Cookware, food storage, and household items can occupy the same damaged space while needing different handling. We will establish the agreed separation and document disposition decisions. Food safety, electrical evaluation, and specialist repairs may require separate decisions beyond surface restoration; those boundaries should be explicit."
+      },
+      {
+        "title": "Checking the rooms connected to the kitchen",
+        "text": "Smoke residue can affect surfaces outside the most visibly damaged area. We will assess accessible connected spaces and explain any proposed extension of cleaning. The scope should follow observed conditions, rather than automatically include every room or stop at the kitchen doorway without evaluation."
+      },
+      {
+        "title": "Handing the space to the rebuilding provider",
+        "text": "We will explain which cleanup tasks are complete and which repair dependencies remain. Measurements for cabinetry, utility work, and finish installation need to fit the actual condition of the space. We will not describe a cleanup milestone as permission to reconnect damaged equipment or occupy an area still restricted by another responsible party."
+      }
+    ],
+    "estimate": "Costs depend on residue distribution, material condition, access, debris, and contents handling. We will identify optional restoration attempts and any specialist evaluation separately. The estimate should make clear whether demolition, cleaning behind removed assemblies, or later visits are included before reconstruction is scheduled.",
+    "checklist": [
+      "Wait for authorized access before entering the damaged kitchen.",
+      "Identify items or finishes you would like evaluated for retention.",
+      "Share any replacement proposal so cleanup and rebuilding boundaries are understood."
+    ]
+  },
+  "smoke-damage-cleanup/grapevine": {
+    "intro": "Smoke damage cleanup in Grapevine helps when the fire damage appears limited but residue remains in rooms you expected to keep using. You may be deciding whether repainting is enough or whether surfaces need treatment first. We will assess accessible deposits, explain the cleaning sequence, and identify conditions that need additional evaluation before cosmetic repairs cover them.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Grapevine before repainting",
+        "text": "A painting schedule can create pressure to close the cleanup phase quickly. We will identify accessible surfaces needing evaluation and explain the preparation that belongs before refinishing. Covering a wall can change its appearance without resolving residue on adjoining trim, fixtures, or other materials that remain in the room."
+      },
+      {
+        "title": "Making room boundaries practical",
+        "text": "Smoke-related work does not always fit a simple count of visibly blackened walls. We will review connected spaces and the surfaces relevant to the reported event. Where an area is excluded or inaccessible, we will document that limit so the proposed work is understandable rather than presented as whole-property treatment by implication."
+      },
+      {
+        "title": "Selecting methods around the finish",
+        "text": "Painted surfaces, unfinished wood, fabrics, and electronics do not share one cleaning method. We will explain the material-specific approach and any evaluation needed before treatment. Testing an appropriate limited area can help clarify the likely result, but it is not a guarantee that every item will restore uniformly."
+      },
+      {
+        "title": "Keeping odor and residue decisions connected",
+        "text": "An odor treatment alone does not describe what happened to deposited material. We will explain the relationship between cleaning, removal, and any additional treatment proposed. If a concern persists, the next step should address the remaining source or limitation rather than repeatedly promise that scent masking will solve it."
+      },
+      {
+        "title": "Coordinating belongings with room work",
+        "text": "Items retained in a treated room can complicate the sequence if their own condition has not been addressed. We will define handling responsibilities and distinguish contents treatment from building surfaces. That allows furniture return, decoration, and occupancy decisions to follow an organized handoff instead of a room merely looking ready."
+      }
+    ],
+    "estimate": "The estimate reflects the affected materials, accessible surface area, residue condition, and contents movement. We will identify excluded spaces and explain what could require a revised scope. Repainting and specialist equipment evaluation should be listed separately from cleaning so overlapping proposals do not conceal a missing task.",
+    "checklist": [
+      "Describe the event and the rooms where residue or odor remains.",
+      "Tell us whether painting or contents delivery is already scheduled.",
+      "Avoid experimenting with cleaning products on valuable finishes before evaluation."
+    ]
+  },
+  "toilet-overflow-cleanup/grapevine": {
+    "intro": "Toilet overflow cleanup in Grapevine addresses the situation where a bathroom release has crossed into a hallway or closet and ordinary mopping no longer defines the affected area. You need a cleanup plan that follows the water beyond the fixture. We will review the release, control access, and explain the removal, cleaning, and material decisions appropriate to the conditions.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Grapevine across different floor coverings",
+        "text": "A bathroom may meet carpet, wood, or another material at the doorway. Each transition can change access to affected layers. We will assess the accessible route and explain where flooring or adjacent materials require removal or further evaluation rather than assume the visible wet edge marks the entire boundary."
+      },
+      {
+        "title": "Separating the fixture repair from the cleanup",
+        "text": "Stopping the overflow and correcting its cause belong with the appropriate plumbing response. We will coordinate the cleanup around the status of that work. If another release remains possible, newly cleaned areas should not be treated as a finished project while the source is still unresolved."
+      },
+      {
+        "title": "Protecting the route used to remove material",
+        "text": "Affected items and building materials need an agreed path out of the work area. We will plan handling and protection based on the project conditions. Moving items casually into another bedroom can extend the handling problem, so belongings should remain part of the cleanup discussion instead of becoming an afterthought."
+      },
+      {
+        "title": "Reviewing walls, cabinets, and hidden edges",
+        "text": "A floor-level release can reach wall bases and built-in features even where the upper surface looks unchanged. We will document what is accessible and explain any opening needed. The goal is to address the affected assembly, not simply remove the puddle and leave concealed uncertainty undocumented."
+      },
+      {
+        "title": "Defining the return to ordinary use",
+        "text": "We will explain the completed treatment, drying status, and any material or repair work still outstanding. Replacement flooring and fixtures should be coordinated with that record. A usable toilet does not necessarily mean the surrounding room has completed its cleanup or is ready for every finish to be installed."
+      }
+    ],
+    "estimate": "Water condition, spread, floor layers, built-ins, disposal, and access affect pricing. We will separate plumbing, cleanup, drying, and reconstruction responsibilities. If inspection reveals a larger area than first reported, the finding and proposed change will be explained before additional work is authorized.",
+    "checklist": [
+      "Keep people and pets out of the affected area.",
+      "Tell us how far the water traveled and whether the cause was corrected.",
+      "Identify nearby carpet, closets, or cabinets that may have been reached."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/grapevine": {
+    "intro": "AC leak water damage cleanup in Grapevine helps when an air-conditioning repair is finished but you still have stained ceilings, damp flooring, or a wet equipment platform. The mechanical fix and the building cleanup are different jobs. We will review the reported repair, inspect accessible wet materials, and explain what needs drying or removal before finishes are restored.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Grapevine after a service call",
+        "text": "An HVAC invoice may describe a cleared drain or replaced component without documenting the surrounding construction. We will use that information to understand the source status and identify what still needs evaluation. If the equipment continues to release water, the mechanical provider must address that condition before a lasting building repair is planned."
+      },
+      {
+        "title": "Following the path away from the equipment",
+        "text": "The visible drip may occur below or beside the original release. We will examine accessible routes through platforms, walls, ceilings, and floor edges suggested by the event. The inspection limits will be recorded, particularly where access would require opening a finished surface or temporarily moving equipment."
+      },
+      {
+        "title": "Protecting equipment access during drying",
+        "text": "Drying arrangements should allow the necessary HVAC service and maintenance access. We will explain equipment placement and any material-removal dependency. We will not treat a restoration visit as mechanical approval of an air handler, electrical connection, or other component requiring evaluation by the appropriate trade."
+      },
+      {
+        "title": "Deciding what the stain actually means",
+        "text": "Discoloration alone does not establish the current moisture condition, while a dry-looking surface does not settle the condition of concealed layers. We will use the accessible findings to explain the next step. If suspected growth is uncovered, its treatment should have an appropriate remediation scope rather than disappear into a painting allowance."
+      },
+      {
+        "title": "Sequencing the final finish work",
+        "text": "We will document progress and explain the conditions still preventing closure. Ceiling patches, insulation replacement, and decorative finishes should follow that handoff. When a stain has returned after an earlier repair, the history is useful evidence for reviewing the water path instead of repeating the same cosmetic repair without investigation."
+      }
+    ],
+    "estimate": "Pricing depends on location, access, construction, affected depth, and equipment coordination. We will distinguish restoration tasks from HVAC repairs and identify any concealed area still awaiting access. The estimate will explain whether continuing drying and repair preparation are included or require a separate phase.",
+    "checklist": [
+      "Share the HVAC repair notes and the date of the leak.",
+      "Identify stains or damp areas beyond the equipment location.",
+      "Keep wet electrical components untouched while safe access is established."
+    ]
+  },
+  "crawl-space-water-removal/grapevine": {
+    "intro": "Crawl space water removal in Grapevine helps when a plumber needs access below the floor but standing water is preventing the next repair visit. You need to know what removal can accomplish and what remains after pumping. We will assess access and reported conditions, organize the water-removal work, and explain the handoff needed for the repair provider to return.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Grapevine before another trade returns",
+        "text": "A scheduled repair can depend on conditions below the building that are not visible from the entrance. We will review the accessible area and identify limitations affecting the removal plan. Water collection should not be described as structural or electrical clearance; unresolved hazards remain the responsibility of the appropriate qualified provider."
+      },
+      {
+        "title": "Establishing why the water remains",
+        "text": "A continuing plumbing release, drainage entry, and residual water after a corrected source can require different sequences. We will document the information available and identify what has not been confirmed. Pumping without an agreed source-repair plan may leave the next visit facing the same access problem."
+      },
+      {
+        "title": "Accounting for materials beneath the floor",
+        "text": "Insulation, stored objects, ground coverings, and low points can affect collection and later cleanup. We will explain which handling tasks belong in the proposed scope. Removing standing water does not automatically evaluate every attached material or establish that all concealed parts of the floor assembly are dry."
+      },
+      {
+        "title": "Making the follow-up visit useful",
+        "text": "We will record the areas reached, the work completed, and the remaining access limits. This gives the plumber or other provider a more useful handoff than a general statement that pumping is finished. Any concern about contamination or suspected mold needs its own appropriate evaluation and treatment plan."
+      },
+      {
+        "title": "Considering recurring access needs",
+        "text": "Some repairs require more than one visit below the building. We will discuss how restoration equipment and material handling affect that sequence. A temporary access improvement should not be confused with a permanent moisture-control solution, which may require separate drainage or building work after the immediate issue is resolved."
+      }
+    ],
+    "estimate": "Access dimensions, water depth and distribution, source status, material handling, and disposal needs affect the estimate. We will state which tasks follow pumping and which are separate. If previously inaccessible conditions change the plan, we will document the finding and explain the proposed revision before it proceeds.",
+    "checklist": [
+      "Do not enter a flooded or uncertain crawl space yourself.",
+      "Tell us why access is needed and what repair has been scheduled.",
+      "Provide any available photographs or source information from the prior inspection."
+    ]
+  },
+  "attic-mold-remediation/grapevine": {
+    "intro": "Attic mold remediation in Grapevine helps when an insulation project has stopped because suspect growth was found on roof framing or sheathing. Covering the area before its condition is understood can leave important questions unresolved. We will review accessible findings, explain the remediation boundary, and organize the work around the moisture correction and insulation installation that still need to happen.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Grapevine before insulation is installed",
+        "text": "An insulation proposal may cover removal and replacement without defining treatment of adjacent wood. We will establish which surfaces and materials are included in our work and which remain another provider\u2019s responsibility. That distinction helps prevent new insulation from being installed before necessary access, treatment, or verification has been completed."
+      },
+      {
+        "title": "Understanding the limits of the first observation",
+        "text": "A photograph taken from the hatch may show one location without revealing the rest of the assembly. We will record accessible observations and the areas that cannot yet be reached. The proposed boundary should follow findings rather than assume the whole attic is affected or that one visible patch represents the entire problem."
+      },
+      {
+        "title": "Connecting remediation to the moisture correction",
+        "text": "Roof leaks, mechanical releases, and other moisture concerns require the appropriate investigation and repair. We will explain the source information available and the unresolved questions affecting the sequence. Surface treatment should not be presented as a substitute for correcting the condition that allowed materials to remain wet."
+      },
+      {
+        "title": "Preserving useful access for multiple providers",
+        "text": "The hatch, walking access, stored items, and equipment can influence the order of work. We will coordinate the remediation scope around those limitations and explain protection for the rooms below. Moving insulation or opening an assembly can expose additional findings that need documentation before further work is approved."
+      },
+      {
+        "title": "Giving the next installer a defined handoff",
+        "text": "We will explain the completed scope and any remaining drying, repair, or verification requirements. The insulation provider should receive a clear description of what was treated and what was outside our access. That record is more useful than a general promise that the attic is ready without identifying unresolved conditions."
+      }
+    ],
+    "estimate": "Pricing reflects access, surface area, affected materials, removal requirements, and coordination with other work. We will distinguish remediation from roofing, ventilation changes, and insulation replacement. An estimate based on limited visibility will identify that limitation and the process for approving discoveries made after access improves.",
+    "checklist": [
+      "Share the insulation proposal and photographs from the discovery.",
+      "Tell us about known roof or equipment leaks and their repair status.",
+      "Leave suspect material undisturbed until the work sequence is established."
+    ]
+  },
+  "crawl-space-mold-remediation/grapevine": {
+    "intro": "Crawl space mold remediation in Grapevine helps when flooring repairs are planned but the underside of the assembly still has suspect growth. Replacing the finish above may leave that concern untouched. We will review accessible conditions below the floor, explain the treatment and access needed, and coordinate the handoff so the repair project does not hide an unresolved problem.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Grapevine beneath a planned floor repair",
+        "text": "A flooring quote usually describes the work visible from the room. We will distinguish that scope from the underside, insulation, or framing requiring remediation. If a material is being replaced from above, the timing should allow the affected surfaces to be addressed without unnecessary repeated opening or handling."
+      },
+      {
+        "title": "Determining what can actually be reached",
+        "text": "Clearance, utilities, ground conditions, and stored materials can limit access beneath a building. We will document these constraints and explain their effect on the scope. A view from one entrance should not be represented as a complete assessment of every connected bay or enclosed portion of the structure."
+      },
+      {
+        "title": "Keeping moisture correction separate and coordinated",
+        "text": "Remediation does not repair a plumbing release or resolve every source of persistent dampness. We will identify reported repairs and the questions still requiring another provider\u2019s attention. The work sequence should account for that correction so treated surfaces are not simply exposed again to an unresolved moisture condition."
+      },
+      {
+        "title": "Choosing removal and treatment by material",
+        "text": "Attached insulation and structural wood may need different handling based on their condition and accessibility. We will explain the proposed decisions and document newly exposed findings. Removal of contaminated material should not be confused with structural repair; weakened or otherwise damaged components may require evaluation beyond the remediation scope."
+      },
+      {
+        "title": "Planning the order of closing the assembly",
+        "text": "We will record the completed work, remaining access limitations, and any required verification before the floor is closed or insulation replaced. The handoff should identify which provider addresses each remaining item. This allows the reconstruction sequence to be based on actual conditions rather than on the date cleanup equipment leaves."
+      }
+    ],
+    "estimate": "The estimate depends on accessible area, material condition, clearance, removal, containment, and disposal. We will state what is included below the floor and what belongs to the flooring or repair provider. If improved access changes the observed extent, the proposed revision will be explained before approval.",
+    "checklist": [
+      "Provide the floor-repair scope and any photographs taken below it.",
+      "Describe known leaks or recurring moisture and whether they were corrected.",
+      "Avoid disturbing insulation or entering an uncertain crawl space."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/grapevine": {
+    "intro": "Mold contaminated contents cleaning in Grapevine helps when you have set belongings aside after a leak and need decisions about individual items before bringing them back inside. The collection may include useful furniture, sentimental pieces, and items with little replacement value. We will organize evaluation around their materials and condition, explain practical treatment options, and document the decisions you approve.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Grapevine for items being held apart",
+        "text": "An item moved out of a damp room has not necessarily been treated or evaluated. We will establish what happened, how it was stored, and which surfaces can be accessed. Separating items by condition and material gives the review a more useful basis than labeling an entire room\u2019s contents either salvageable or disposable."
+      },
+      {
+        "title": "Setting priorities before treatment starts",
+        "text": "Sentimental importance, replacement availability, and intended use can affect which items you want evaluated first. We will explain the proposed work and its limitations so those priorities are informed. A restoration attempt should not be promised as successful simply because replacement would be difficult or emotionally unwelcome."
+      },
+      {
+        "title": "Recognizing concealed construction",
+        "text": "Upholstery, composite furniture, hollow components, and assembled pieces can contain inaccessible layers. We will describe where those features limit cleaning or evaluation. The visible exterior may not answer the whole question, and specialist items may need a provider with the appropriate equipment or expertise rather than ordinary surface cleaning."
+      },
+      {
+        "title": "Recording approvals and item identity",
+        "text": "We will identify the items within the agreed scope and document retention, treatment, referral, or disposal decisions as applicable. Clear descriptions matter when similar belongings are being handled together. Items awaiting a decision should remain distinguishable from those already treated so a move does not become mistaken evidence of completion."
+      },
+      {
+        "title": "Returning belongings at the right point",
+        "text": "We will coordinate return with the condition of the receiving space and explain unresolved limitations. Building remediation, moisture correction, and contents work have connected but separate milestones. Returning treated belongings to an unfinished or still-damp area can undermine the practical purpose of keeping them apart during restoration."
+      }
+    ],
+    "estimate": "Pricing depends on item count, materials, accessibility, condition, handling, and any specialist referral. We will explain what the proposed treatment is intended to accomplish and which results remain uncertain. Storage, transport, and disposal should have explicit responsibility rather than being assumed part of every cleaning allowance.",
+    "checklist": [
+      "Prepare a short list of items you most want evaluated.",
+      "Describe the leak, exposure, and storage since the discovery.",
+      "Keep undecided items separate without attempting abrasive or chemical treatment."
+    ]
+  },
+  "fire-damaged-debris-removal/grapevine": {
+    "intro": "Fire damaged debris removal in Grapevine helps when a damaged area must be cleared but some materials still need to be documented or reviewed before disposal. Moving everything immediately may conflict with decisions that have not been made. We will define the removal boundary, organize handling, and separate approved debris from items or assemblies that remain on hold.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Grapevine with pending documentation",
+        "text": "Photographs, inventories, or inspection needs may affect the order of removal. We will identify the materials authorized for disposal and the items awaiting direction from the responsible parties. Our cleanup record can describe the work performed, but it does not replace a claim decision or any required specialist evaluation."
+      },
+      {
+        "title": "Distinguishing loose debris from an attached assembly",
+        "text": "A pile on the floor and a fire-damaged wall are different scopes. We will explain whether the proposal includes collection, approved demolition, or both. Attached materials may involve utilities, structural concerns, or concealed conditions that must be resolved before they can be handled like ordinary loose debris."
+      },
+      {
+        "title": "Choosing an appropriate removal route",
+        "text": "Doorways, stairs, unaffected rooms, and loading access influence the practical plan. We will describe protection and handling needed along that route. Debris should not be moved through occupied or retained areas casually, particularly when the route itself could create an additional cleaning or damage problem."
+      },
+      {
+        "title": "Keeping retained items identifiable",
+        "text": "Belongings selected for evaluation should have a clear status before removal crews begin. We will document agreed exceptions and explain how they are kept apart from disposal material. This is especially useful where damaged and recoverable items are intermixed and visual appearance alone does not reflect the owner\u2019s decision."
+      },
+      {
+        "title": "Explaining the space left after removal",
+        "text": "We will record what was removed and identify the exposed conditions that need cleaning, assessment, drying, or repair next. Debris removal creates access; it does not automatically complete restoration. Newly visible damage should be explained as a finding with a proposed next step rather than hidden within an undefined cleanup total."
+      }
+    ],
+    "estimate": "Volume, weight, attached materials, access, protection, disposal needs, and documentation holds affect pricing and sequence. We will describe the approved boundary and how changes are authorized. Rebuilding, structural assessment, and treatment of retained surfaces should be identified separately so the cleared area has a practical next-stage plan.",
+    "checklist": [
+      "Confirm authorized access before anyone enters the damaged area.",
+      "Identify items that must remain for review or possible restoration.",
+      "Share known inspection holds and access restrictions before removal is scheduled."
+    ]
+  },
+  "fire-damaged-contents-cleaning/grapevine": {
+    "intro": "Fire damaged contents cleaning in Grapevine helps when building repairs will take longer than the cleanup and you need to decide what happens to your belongings meanwhile. Cleaning, storage, and return are separate parts of that decision. We will evaluate the agreed items, explain the treatment options and limitations, and organize their status so they are not returned before the receiving space is ready.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Grapevine while repairs continue",
+        "text": "A room may be cleared for reconstruction while its contents still need individual review. We will establish the item list, priorities, and approved handling plan. The building contractor\u2019s schedule should inform return arrangements without forcing every item into an early salvage or disposal decision before its condition is evaluated."
+      },
+      {
+        "title": "Evaluating more than visible soot",
+        "text": "Heat, smoke residue, water exposure, and material construction can affect treatment choices. We will explain the accessible findings and any limitations for each group of belongings. A cleaned exterior does not establish the operating condition of electronics or other equipment that requires evaluation by an appropriate specialist."
+      },
+      {
+        "title": "Making a trial worthwhile",
+        "text": "For suitable items, a limited cleaning evaluation may help clarify the likely result before a larger treatment decision. We will explain what that evaluation can show and what remains uncertain. Sentimental value can guide priorities, but does not eliminate material damage or make a uniform restoration outcome possible."
+      },
+      {
+        "title": "Maintaining a useful status record",
+        "text": "Items awaiting approval, being treated, completed, referred, or designated for disposal should be distinguishable. We will document the agreed decisions and discuss changes before they proceed. Clear item identity helps prevent confusion when similar furniture or boxed belongings are handled across more than one phase of the project."
+      },
+      {
+        "title": "Planning return around the actual room condition",
+        "text": "We will discuss the receiving area and any remaining work that could affect the belongings. Delivery should account for access, finished surfaces, and unresolved contamination or moisture concerns. The end of contents treatment is not automatically the right date to bring everything back into an active reconstruction space."
+      }
+    ],
+    "estimate": "The estimate reflects item materials, condition, quantity, handling, and treatment requirements. Storage, transport, specialist evaluation, and unsuccessful restoration attempts need clear terms where applicable. We will identify those responsibilities so you can compare the practical cost of treatment with replacement without assuming every service is included.",
+    "checklist": [
+      "List priority items and anything needed during the repair period.",
+      "Share the expected reconstruction sequence and available receiving space.",
+      "Keep disposal decisions documented before affected belongings are removed."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/grapevine": {
+    "intro": "Fire extinguisher residue cleanup in Grapevine helps when a discharged extinguisher has left powder across a work area and you need to know what can be cleaned before equipment is used again. The residue and the fire damage may require different attention. We will review the event, identify accessible affected surfaces, and define cleanup around the materials and equipment involved.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Grapevine around work equipment",
+        "text": "A desk, countertop, or machine can have residue on exposed surfaces and in openings that ordinary wiping cannot reach. We will explain the cleaning boundary and where a specialist evaluation is needed. Surface cleanup should not be presented as permission to energize equipment whose electrical or internal condition remains uncertain."
+      },
+      {
+        "title": "Identifying the discharged material",
+        "text": "Information from the extinguisher label can help establish what was released without guessing from appearance alone. We will review available details and select an approach appropriate to the surfaces within our scope. Mixing cleaners or adding water without considering the residue and material can complicate the cleanup, so experimentation should wait for evaluation."
+      },
+      {
+        "title": "Following residue beyond the immediate spot",
+        "text": "Traffic, air movement, and handling can carry material into adjoining accessible areas. We will review the reported spread and explain proposed cleaning limits. A single visible pile does not necessarily describe all surfaces needing attention, but neither does it justify assuming every room requires the same treatment."
+      },
+      {
+        "title": "Separating residue removal from fire restoration",
+        "text": "Scorching, smoke deposits, damaged finishes, and water exposure may remain after extinguisher material is collected. We will identify these as distinct findings and explain the next steps. The scope should make clear whether those conditions are included, referred, or reserved for a separate restoration decision."
+      },
+      {
+        "title": "Returning the workspace in a planned sequence",
+        "text": "We will document completed cleaning and unresolved access or equipment limitations. Prioritizing one work surface may be useful, provided that its status is not confused with completion of the whole area. Any remaining treatment, equipment service, or finish repair should be understood before ordinary use resumes."
+      }
+    ],
+    "estimate": "Pricing depends on residue type, spread, surface construction, contents handling, and access to affected components. We will identify specialist equipment work and fire-damage restoration separately. If the initial view does not reveal internal contamination, that limit will be explained rather than concealed within a promise to clean everything.",
+    "checklist": [
+      "Keep the extinguisher label information available if it is safe to obtain.",
+      "Identify equipment that was running or directly exposed.",
+      "Avoid blowing powder around or switching on affected equipment before evaluation."
+    ]
+  },
+  "emergency-board-up-after-fire/grapevine": {
+    "intro": "Emergency board up after fire in Grapevine helps when a damaged opening needs temporary protection while several providers still need access to inspect and repair the property. Simply covering every opening may interfere with that work. We will review authorized access, identify the temporary protection needed, and explain how entry, inspection, and later removal fit into the plan.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Grapevine with continuing site visits",
+        "text": "An investigator, restoration provider, or rebuilding contractor may need different access at different stages. We will confirm the requested access arrangements with the authorized contact before installation. The temporary protection should support controlled entry without implying that anyone may enter a building whose safety or release status has not been established."
+      },
+      {
+        "title": "Defining what is being protected",
+        "text": "A damaged window, door, or other opening can have different surrounding conditions and attachment options. We will explain the proposed coverage and visible limitations. Board-up is temporary protection; it does not restore the original assembly, provide a structural assessment, or guarantee that every route of weather or unauthorized entry has been eliminated."
+      },
+      {
+        "title": "Preserving information needed for replacement",
+        "text": "The rebuilding provider may need photographs or measurements before permanent materials are ordered. We will discuss that sequence so temporary coverage does not create avoidable repeated handling. If an opening cannot be safely approached or measured, the limitation should be documented rather than worked around without the appropriate evaluation."
+      },
+      {
+        "title": "Handling changes during the repair period",
+        "text": "Access requirements can change as cleanup and reconstruction progress. We will explain the responsibility for adjustments and any return work included in the scope. A temporary panel should not be removed casually and left off simply because one provider finished a visit while the property still requires protection."
+      },
+      {
+        "title": "Ending temporary protection deliberately",
+        "text": "Removal should be coordinated with the permanent repair or another agreed protective measure. We will document the openings addressed and identify incomplete or inaccessible areas. The handoff helps prevent confusion about which provider is responsible for maintaining coverage between installation, inspections, and replacement work."
+      }
+    ],
+    "estimate": "The estimate depends on opening size, height, condition, accessible attachment areas, and return-visit requirements. We will distinguish initial installation from later adjustment, removal, and permanent repair. Any limitation affecting weather protection or access will be explained before the temporary arrangement is accepted.",
+    "checklist": [
+      "Confirm that the property has been released for the proposed access.",
+      "Identify who authorizes entry and who needs upcoming site visits.",
+      "Tell us which permanent repair provider will replace the damaged openings."
+    ]
+  },
+  "crawl-space-sewage-cleanup/grapevine": {
+    "intro": "Crawl space sewage cleanup in Grapevine helps when a plumbing repair is complete but you need a clear plan for contaminated material remaining below the floor. A dry entrance does not explain what happened farther inside. We will review accessible conditions, define the cleanup boundary, and document the areas reached so later repairs can proceed with an understandable record.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Grapevine beyond the access opening",
+        "text": "Low clearance and obstructions can hide the extent from a casual look through the hatch. We will identify accessible sections and the limits of the first inspection. The scope should show where contamination is observed or requires further access, rather than imply that the entire underside was evaluated from one position."
+      },
+      {
+        "title": "Connecting the plumbing correction to the cleanup route",
+        "text": "Repairing the failed line and addressing released material are separate tasks. We will review the reported repair location and any remaining access needs for the plumber. If a follow-up visit requires entry through the work area, the sequence should be planned rather than interrupt a completed phase without coordination."
+      },
+      {
+        "title": "Deciding what must be handled below the building",
+        "text": "Affected insulation, ground coverings, debris, and attached materials can require different treatment or removal decisions. We will explain those decisions based on accessible conditions and the agreed scope. Pumping liquid alone should not be described as completion where impacted materials still require attention."
+      },
+      {
+        "title": "Documenting partial access honestly",
+        "text": "Some sections may remain inaccessible until an obstruction is removed or another repair is completed. We will record those limits and explain the next step instead of presenting a partial cleanup as treatment of every connected space. Newly accessible findings will be discussed before the removal or cleaning boundary is changed."
+      },
+      {
+        "title": "Preparing the record for replacement work",
+        "text": "We will explain completed cleanup, drying status, and any remaining material, repair, or verification needs. Replacement insulation or closure should follow that handoff. Suspected mold discovered during access may need a separate appropriate remediation scope, rather than being assumed resolved solely because the sewage-related tasks were completed."
+      }
+    ],
+    "estimate": "Clearance, contamination distribution, material handling, disposal, source status, and access improvements affect pricing. We will distinguish cleanup from plumbing and reconstruction and identify the assumptions behind the initial estimate. The record will make clear which conditions were reached, which remain unresolved, and who is responsible for the next phase.",
+    "checklist": [
+      "Stay out of the affected crawl space and restrict access.",
+      "Provide the plumbing repair location and any available inspection photos.",
+      "Tell us about pending insulation, floor, or utility work requiring entry."
+    ]
+  }
+}

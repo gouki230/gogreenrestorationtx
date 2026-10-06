@@ -1,0 +1,590 @@
+{
+  "emergency-water-extraction/celeste": {
+    "intro": "Emergency water extraction in Celeste helps when a leak reaches a room just before flooring installers are due to arrive. Installation timing cannot determine whether the existing assembly is ready. We will assess accessible water damage and explain the immediate removal and follow-up decisions that affect the appointment.",
+    "sections": [
+      {
+        "title": "Emergency water extraction before a flooring appointment",
+        "text": "We will review the source and inspect relevant edges and transitions. The new flooring footprint may differ from the affected area. Our scope will explain which current materials need attention before installation can conceal them."
+      },
+      {
+        "title": "Separate removal from readiness",
+        "text": "Extracting accessible water is one stage. Retained layers may still need monitoring, selective access, or a material decision. We will explain those needs rather than treat an empty-looking floor as confirmation that the installer can proceed."
+      },
+      {
+        "title": "Give the installer a useful update",
+        "text": "We will record work performed and identify remaining source or substrate concerns. Product-specific installation checks remain with the flooring provider. The handoff will describe current findings and limits without guaranteeing an unverified finish date."
+      }
+    ],
+    "estimate": "The estimate depends on materials, access, source conditions, and follow-up drying. Share the planned installation sequence and known floor assembly. We will assess the current damage before the delivery or appointment is used as a completion deadline.",
+    "checklist": [
+      "Tell us which floor materials are being retained.",
+      "Share the source correction status.",
+      "Identify any layers already removed."
+    ]
+  },
+  "burst-pipe-cleanup/celeste": {
+    "intro": "Burst pipe cleanup in Celeste helps when water from a repaired line reaches behind bathroom or utility-room storage that must be emptied for inspection. The source correction and the contents decisions need separate attention. We will assess accessible conditions and organize cleanup before storage returns.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup behind filled shelves",
+        "text": "We will remove accessible water and identify which lower wall or floor sections remain blocked by storage. The first handling stage will open a useful inspection route without emptying unrelated shelves by default. We will explain the selected building and contents scope before movement begins."
+      },
+      {
+        "title": "Make wet-container decisions early",
+        "text": "Cardboard boxes or absorbent containers can hide damage to their contents and the surface beneath them. We will distinguish items needing individual evaluation from those moved only for access. Disposal will remain an authorized decision, and known original locations will be kept useful for the damage record."
+      },
+      {
+        "title": "Reach retained moisture at the storage edge",
+        "text": "Once the relevant area is visible, we will check materials and explain drying or selective removal needs. A shelving base may restrict equipment placement or monitoring. We will identify that limitation rather than declare the whole room dry from the open aisle."
+      },
+      {
+        "title": "Refill storage after the building review",
+        "text": "We will report progress and the specific repair steps still outstanding. Belongings should return with their own status understood and without blocking a surface that still needs checks. The plumber\u2019s corrected line is one milestone, separate from restoring the storage area."
+      }
+    ],
+    "estimate": "Costs depend on construction, access, handling, and required drying or removal. Share the pipe repair findings and storage layout. We will clarify which contents tasks are included before moving or processing belongings.",
+    "checklist": [
+      "Identify lower shelves or boxes that contacted water.",
+      "Tell us what was already moved.",
+      "Share the plumber\u2019s correction details."
+    ]
+  },
+  "appliance-leak-cleanup/celeste": {
+    "intro": "Appliance leak cleanup in Celeste helps when a machine is repaired but the owner notices a new gap or change along nearby flooring afterward. The timing needs review without assuming the service caused or resolved the material issue. We will assess accessible conditions and explain the cleanup decisions.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup after a floor change appears",
+        "text": "We will review the incident timeline and inspect relevant floor and wall junctions. A visible change can identify an area needing evaluation without defining every affected layer. Additional access will have a stated purpose."
+      },
+      {
+        "title": "Use service information accurately",
+        "text": "Tell us what the technician found and corrected. We will distinguish those findings from our assessment of the building. Recurring moisture or an unresolved source question will be identified before later repairs proceed."
+      },
+      {
+        "title": "Separate restoration from appearance matching",
+        "text": "We will explain condition-driven treatment or removal and record drying observations. A flooring provider may recommend wider replacement for matching, which is a separate decision. The handoff will identify assessed materials and limits."
+      }
+    ],
+    "estimate": "The estimate depends on materials, access, evaluated extent, and drying needs. Share service records and photographs showing the change. We will explain the supported work without assigning responsibility from timing alone.",
+    "checklist": [
+      "Tell us when the floor change was first noticed.",
+      "Share any earlier photographs.",
+      "Identify moisture observed after the repair."
+    ]
+  },
+  "storm-water-damage-cleanup/celeste": {
+    "intro": "Storm water damage cleanup in Celeste helps when rain affects a room that contains new materials waiting for installation. The building cleanup and suitability of those supplies need separate decisions. We will assess accessible damage and explain a practical sequence before construction continues.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup around uninstalled materials",
+        "text": "We will inspect the room and distinguish the building assembly from supplies waiting to be fitted. Wet packaging can be an important observation without proving the condition of the product inside. We will identify which items need the installer or supplier to make a suitability decision."
+      },
+      {
+        "title": "Open the floor and wall view",
+        "text": "Materials stacked near a wall can block extraction and moisture checks. We will discuss authorized handling and a suitable temporary arrangement before work begins. The resulting access will help establish the actual building scope instead of estimating damage from the outline of the stack."
+      },
+      {
+        "title": "Remove water and manage remaining moisture",
+        "text": "We will address accessible water and explain which retained surfaces need drying equipment or further opening. Supplies and damaged packaging will not simply be moved back over monitored areas. Progress updates will describe the materials checked and the decisions that remain."
+      },
+      {
+        "title": "Restart construction with separate statuses",
+        "text": "We will document the building restoration and identify source work still pending. The installation inventory will have its own reviewed status. Completion of room drying will not be presented as approval to use every product stored there during the storm."
+      }
+    ],
+    "estimate": "Pricing depends on access, materials, selected handling, and required drying or removal. Share the incident history and installation schedule. We will distinguish the building scope from product suitability decisions before supplies are used.",
+    "checklist": [
+      "Identify supplies exposed to rainwater.",
+      "Tell us what has been unpacked or moved.",
+      "Share exterior correction status."
+    ]
+  },
+  "structural-drying-services/celeste": {
+    "intro": "Structural drying services in Celeste help when equipment is scheduled for pickup but a repair contractor still has questions about one retained material. Removing equipment and approving reconstruction are different decisions. We will assess accessible conditions and explain what the current record supports.",
+    "sections": [
+      {
+        "title": "Structural drying services before equipment pickup",
+        "text": "We will identify the material the contractor questioned and review available monitoring information. A planned pickup date does not establish its condition. The assessment will distinguish evaluated locations from areas never accessible."
+      },
+      {
+        "title": "Resolve the specific remaining question",
+        "text": "Continued monitoring, another access point, or a material decision may be needed. We will explain the finding behind the recommendation rather than automatically extend the entire setup. Changes will be discussed before more work is authorized."
+      },
+      {
+        "title": "Provide the repair handoff",
+        "text": "We will record observations and remaining source or substrate concerns. The installer retains its product-specific requirements. Our status will describe the assembly evaluated and its limits before finishes return."
+      }
+    ],
+    "estimate": "The estimate depends on current materials, access, equipment, and monitoring needs. Share the existing drying record and the repair contractor\u2019s question. We will assess the remaining issue rather than use equipment duration as the completion test.",
+    "checklist": [
+      "Identify the material still in question.",
+      "Keep earlier readings if available.",
+      "Share the proposed closure or installation step."
+    ]
+  },
+  "floor-water-damage-cleanup/celeste": {
+    "intro": "Floor water damage cleanup in Celeste helps when a leak reaches beneath a heavy rug pad and the floor condition is unclear after the rug itself is removed. The pad, finish, and underlying layers may need different decisions. We will assess accessible findings before the room is covered again.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup beneath a retained pad",
+        "text": "We will review the original arrangement and inspect available floor edges. Removing the rug does not necessarily provide a complete view while the pad remains. Any additional handling will have a clear assessment or treatment purpose."
+      },
+      {
+        "title": "Separate the rug-related scope",
+        "text": "The rug and pad may require individual evaluation based on material and exposure. We will clarify whether that work is included or needs another provider. Building cleanup will not automatically establish their suitability for return."
+      },
+      {
+        "title": "Handoff before coverings return",
+        "text": "We will communicate drying observations and remaining floor or source concerns. A covering should not conceal monitored material before review. The installer or contents provider will receive a clear status for its next step."
+      }
+    ],
+    "estimate": "Costs depend on floor construction, exposure, access, and selected handling. Share the source history and when the rug was moved. We will assess the newly available condition before recommending repair or replacement decisions.",
+    "checklist": [
+      "Identify the pad material if known.",
+      "Tell us whether either rug or pad was already treated.",
+      "Share any flooring changes revealed after removal."
+    ]
+  },
+  "ceiling-water-damage-cleanup/celeste": {
+    "intro": "Ceiling water damage cleanup in Celeste helps when a contractor proposes a cosmetic patch but the source repair is still provisional. Closing the ceiling too early can remove useful access. We will assess accessible materials and explain how the cleanup sequence depends on the current source status.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup before final source confirmation",
+        "text": "We will review what correction was performed and what remains under evaluation. Temporary measures can affect timing without establishing permanent resolution. The indoor scope will identify current findings and access limits."
+      },
+      {
+        "title": "Use the opening for a defined purpose",
+        "text": "If access is needed, we will explain the material or drying question it addresses. The patch boundary will not automatically become the cleanup boundary. New findings will be documented before further removal is authorized."
+      },
+      {
+        "title": "Handoff with outstanding tasks visible",
+        "text": "We will record cleanup and relevant moisture observations and identify source or repair decisions still pending. The finish contractor will know what remains before closure. A stopped drip alone will not be used as the readiness test."
+      }
+    ],
+    "estimate": "The estimate depends on construction, access, protection, and supported treatment or removal. Share the source provider\u2019s current findings and patch proposal. We will explain the practical next stage without promising closure before the relevant decisions are complete.",
+    "checklist": [
+      "Identify temporary versus permanent source work.",
+      "Share photographs from existing openings.",
+      "Tell us when the next source review is planned."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/celeste": {
+    "intro": "AC leak water damage cleanup in Celeste helps when a service provider has cleared a drain but the surrounding cabinet or platform still shows damage. The cleared line and affected building materials have separate completion requirements. We will assess accessible conditions and explain the restoration scope.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup after a drain is cleared",
+        "text": "We will review what the service provider corrected and inspect the surrounding cabinet or platform separately. Restored drainage can stop the source without drying the building materials already affected. The first assessment will identify where moisture checks or access are needed."
+      },
+      {
+        "title": "Separate the platform surface from its support role",
+        "text": "A wet finish or panel may need cleanup or removal, while a support concern requires another qualified evaluation. We will explain that distinction before work reaches a component whose function matters to the equipment. Restoration will not be presented as mechanical approval."
+      },
+      {
+        "title": "Reach moisture around installed equipment",
+        "text": "The unit and connections may restrict treatment. We will identify any service prerequisite and describe the building work available with current access. Drying equipment will be planned for the materials that can be addressed, with concealed limits kept explicit."
+      },
+      {
+        "title": "Handoff the cabinet repair and equipment status",
+        "text": "We will record cleaning, removal, and drying observations and identify remaining reconstruction needs. The HVAC provider and carpenter will each know their next responsibility. A completed drain service and a restored surrounding assembly are separate milestones."
+      }
+    ],
+    "estimate": "Pricing depends on materials, access, evaluated extent, and drying or removal needs. Share the drain-service description and safe photographs. We will explain the building work supported by findings rather than assume it was included in the mechanical visit.",
+    "checklist": [
+      "Tell us whether water appeared again after service.",
+      "Identify panels already removed.",
+      "Share any equipment support concern raised by the technician."
+    ]
+  },
+  "crawl-space-water-removal/celeste": {
+    "intro": "Crawl space water removal in Celeste helps when an owner needs a useful first assessment before deciding on a larger drainage or repair proposal. Standing water can limit what anyone can inspect. We will evaluate safe access and explain what a defined removal stage can establish.",
+    "sections": [
+      {
+        "title": "Crawl space water removal before a major repair decision",
+        "text": "We will identify what the standing water prevents anyone from evaluating. The first scope might aim to reveal a ground covering, inspect a lower assembly, or reach a reported source. That objective will be stated before removal is presented as the first step in a much larger package."
+      },
+      {
+        "title": "Use the exposed condition to test assumptions",
+        "text": "Once visibility improves, we will document the materials and access available within the agreed area. A proposed replacement quantity may need revision when the condition can actually be seen. We will explain those findings rather than treat the earlier broad estimate as confirmed."
+      },
+      {
+        "title": "Keep source diagnosis with the appropriate provider",
+        "text": "Removing water does not establish whether the cause is plumbing, drainage, or another condition. Available findings will inform the sequence, and unresolved questions will remain explicit. Permanent correction should not be inferred from a temporarily cleared area."
+      },
+      {
+        "title": "Authorize the next task separately",
+        "text": "Additional cleanup, drying, or specialist evaluation will be explained with the finding that supports it. The initial removal approval will not become an open-ended commitment to every repair beneath the property. The handoff will identify the limits that remain."
+      }
+    ],
+    "estimate": "Costs depend on entry, water extent, handling, and the defined assessment objective. Share existing proposals and inspection notes. You do not need to enter water to collect more detailed photographs for intake.",
+    "checklist": [
+      "Identify the decision the larger proposal leaves unclear.",
+      "Share source findings already available.",
+      "Tell us which sections earlier inspectors could not reach."
+    ]
+  },
+  "bathroom-mold-removal/celeste": {
+    "intro": "Bathroom mold removal in Celeste helps when a small finish repair exposes suspected growth on a material the original contractor planned to retain. The new finding deserves its own decision before patching continues. We will assess the accessible area and explain the remediation boundary and repair sequence.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal on a retained surface",
+        "text": "We will distinguish the newly exposed material from the finish already scheduled for replacement. The original repair boundary may not describe the affected area. Any additional access will have a specific evaluation or treatment purpose."
+      },
+      {
+        "title": "Review the incident behind the repair",
+        "text": "Tell us why the finish work began and what source correction was performed. We will use that history without assuming it establishes the current material condition. Unresolved plumbing or enclosure questions will remain assigned to the appropriate evaluation."
+      },
+      {
+        "title": "Give the repair provider a restart point",
+        "text": "We will document treatment or removal and identify remaining wall, fixture, or independent review requirements. The contractor will know which retained surfaces were addressed before closing the area. Optional appearance changes remain separate from remediation needs."
+      }
+    ],
+    "estimate": "The estimate depends on material condition, access, evaluated extent, and project requirements. Share photographs taken when the surface became visible and the original repair scope. We will explain the supported change before broader work is authorized.",
+    "checklist": [
+      "Identify the surface the contractor expected to retain.",
+      "Share source repair records.",
+      "Tell us which finish task is waiting."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/celeste": {
+    "intro": "Kitchen cabinet mold removal in Celeste helps when stored items are removed from a sink cabinet and reveal suspected growth along a side partition rather than the bottom alone. Each component may need a different decision. We will assess accessible findings before a replacement panel conceals the area.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal at a side partition",
+        "text": "We will inspect the exposed component and the junctions available around it. The cabinet bottom\u2019s condition does not establish the side or backing condition. The proposal will identify what is evaluated and where another opening may be useful."
+      },
+      {
+        "title": "Coordinate neighboring storage",
+        "text": "A partition may separate two cabinet sections with different contents or access. We will discuss which belongings need handling and keep their evaluation separate from the cabinet work. Removal will not extend into an adjoining section without a reason supported by findings."
+      },
+      {
+        "title": "Resolve source and repair requirements",
+        "text": "We will review available plumbing information and document remediation completed. Remaining carpentry or independent review steps will be identified before storage returns. New panels should follow those decisions rather than hide an unresolved junction."
+      }
+    ],
+    "estimate": "Costs depend on construction, access, affected materials, and selected handling. Share safe photographs and the leak history. We will assess the partition before assuming that replacing the bottom panel completes the cabinet recovery.",
+    "checklist": [
+      "Identify which cabinet sections share the partition.",
+      "Tell us what contents contacted water.",
+      "Share the source correction status."
+    ]
+  },
+  "mold-remediation-after-water-damage/celeste": {
+    "intro": "Mold remediation after water damage in Celeste helps when a contractor removes temporary floor protection and finds suspected growth on material that was covered during repair planning. The newly visible condition needs review before installation. We will assess accessible findings and explain the remediation decisions.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage beneath temporary covering",
+        "text": "We will review when the covering was placed and inspect the exposed material. The temporary layer may have limited earlier visibility. We will distinguish current observations from assumptions about what the prior cleanup included."
+      },
+      {
+        "title": "Clarify the construction sequence",
+        "text": "Tell us which floor or wall task was planned next and what materials are intended to remain. The remediation boundary will follow evaluated conditions rather than the replacement layout. Source questions will remain explicit if correction is unresolved."
+      },
+      {
+        "title": "Provide the installation handoff",
+        "text": "We will document treatment or removal and identify remaining moisture, repair, or independent review requirements. The installer retains its product-specific responsibilities. Our record will describe the assessed area and limits before it is covered again."
+      }
+    ],
+    "estimate": "The estimate reflects materials, access, evaluated extent, and applicable scope requirements. Share the earlier cleanup record and covering timeline. We will explain what the new finding changes before installation proceeds.",
+    "checklist": [
+      "Identify the temporary covering used.",
+      "Tell us when it was lifted.",
+      "Share source repair findings and the next installation step."
+    ]
+  },
+  "mold-removal-behind-drywall/celeste": {
+    "intro": "Mold removal behind drywall in Celeste helps when removing a wall-mounted cabinet reveals a small opening with suspected growth deeper in the cavity. The cabinet footprint and the concealed condition are different questions. We will assess the available view and explain staged access before repair.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall behind a cabinet opening",
+        "text": "We will identify what the existing hole reveals and what remains unknown. A larger opening will be proposed for a stated inspection or treatment purpose. The scope will not assume the entire cabinet outline defines the affected area."
+      },
+      {
+        "title": "Review source clues carefully",
+        "text": "Tell us about past leaks or repairs near the cabinet. We will use that history as context rather than diagnose the cause from appearance alone. Plumbing, exterior, or other source questions requiring qualified evaluation will remain separate."
+      },
+      {
+        "title": "Handoff before the cabinet returns",
+        "text": "We will record materials addressed and identify remaining wall repairs or independent review requirements. The installer will know the evaluated boundary before concealing it. Uninspected areas will remain explicit limits."
+      }
+    ],
+    "estimate": "Pricing depends on construction, access, evaluated extent, and project requirements. Share photographs from removal and known water history. We will explain the next useful access stage before a broad demolition scope is authorized.",
+    "checklist": [
+      "Tell us why the cabinet was removed.",
+      "Keep the opening accessible for review.",
+      "Share any previous wall repair photographs."
+    ]
+  },
+  "attic-mold-remediation/celeste": {
+    "intro": "Attic mold remediation in Celeste helps when an attic inspection identifies suspected growth but the proposed next step is only replacing insulation. The building surfaces and insulation decisions need separate review. We will assess safe accessible findings and explain a defined remediation scope.",
+    "sections": [
+      {
+        "title": "Attic mold remediation when the proposal only replaces insulation",
+        "text": "We will review the building surfaces identified in the inspection and distinguish them from the insulation being removed. Taking out one material can improve access without treating the surfaces that remain. The scope will state the actions supported for those retained materials."
+      },
+      {
+        "title": "Use removal to clarify the condition",
+        "text": "If insulation is lifted as part of an authorized stage, we will document the newly visible areas and explain findings before further treatment expands. A limited first photograph may not describe what becomes exposed. The plan will keep provisional decisions understandable."
+      },
+      {
+        "title": "Coordinate the moisture work",
+        "text": "Available source findings will be considered separately from the insulation purchase. We will identify roof or mechanical questions still requiring qualified attention. Replacing a layer should not conceal an unresolved dampness condition."
+      },
+      {
+        "title": "Hand back a defined installation area",
+        "text": "We will record remediation performed and any independent review requirement. The insulation contractor will know what was evaluated and where limits remain. Its product and installation responsibilities remain separate from our progress documentation."
+      }
+    ],
+    "estimate": "The estimate depends on surfaces, access, preparation, and evaluated scope. Share the inspection report and replacement proposal. You do not need to enter an attic with uncertain footing to collect additional photographs.",
+    "checklist": [
+      "Identify surfaces mentioned in the inspection.",
+      "Share source findings if available.",
+      "Tell us what insulation has already been removed."
+    ]
+  },
+  "crawl-space-mold-remediation/celeste": {
+    "intro": "Crawl space mold remediation in Celeste helps when a plumbing repair has created better access and the contractor notices suspected growth on nearby retained materials. The source repair may be complete while the material decision remains open. We will assess safe accessible findings before the area is closed.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation through improved plumbing access",
+        "text": "We will review the opening and inspect the surfaces it makes reachable. The pipe work boundary does not establish the remediation boundary. Additional access will be proposed according to the condition or treatment question it resolves."
+      },
+      {
+        "title": "Distinguish retained materials and repair needs",
+        "text": "Insulation, coverings, and framing may require different actions. We will explain the supported decision for each observed material. Structural questions will remain with the appropriate qualified provider rather than being treated as settled by cleaning."
+      },
+      {
+        "title": "Prepare the closure handoff",
+        "text": "We will document work performed and identify remaining source, repair, or independent review requirements. The next contractor will know the evaluated area and limits before new materials conceal it. A completed pipe task will remain separate from remediation completion."
+      }
+    ],
+    "estimate": "Costs depend on entry, materials, evaluated extent, and preparation. Share the plumbing findings and photographs already available. We will assess the improved access before recommending broader treatment.",
+    "checklist": [
+      "Identify what the plumber removed for access.",
+      "Share the source correction details.",
+      "Tell us what replacement work is waiting."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/celeste": {
+    "intro": "Mold contaminated contents cleaning in Celeste helps when belongings were packed during a rushed cleanup and you no longer know which boxes contain items awaiting treatment. The first task is a clear review inventory. We will assess selected materials and explain decisions without treating every packed item as identical.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning from uncertain box labels",
+        "text": "We will review available location or handling notes and distinguish known history from uncertainty. A current label may identify storage rather than treatment. The selected scope will state which groups are evaluated now."
+      },
+      {
+        "title": "Use construction to guide options",
+        "text": "Hard objects, textiles, paper-based materials, and devices can require different methods or specialist input. We will explain limitations and any useful trial before processing. A result for one group will not guarantee recovery for another."
+      },
+      {
+        "title": "Return items with a traceable status",
+        "text": "We will describe completed work, pending decisions, and remaining limitations. The receiving room\u2019s condition will also matter. Contents documentation will not substitute for building remediation or independent review where required."
+      }
+    ],
+    "estimate": "The estimate depends on selected groups, materials, handling, and agreed treatment. Send a concise description and safe overview photographs. There is no need to expose private document contents to establish the inventory.",
+    "checklist": [
+      "Keep existing labels and movement notes.",
+      "Identify items known to have been treated already.",
+      "Tell us which belongings need an early decision."
+    ]
+  },
+  "kitchen-fire-cleanup/celeste": {
+    "intro": "Kitchen fire cleanup in Celeste helps when a contractor plans to retain the lower cabinets but replace damaged upper components. The boundary between them needs review before new work covers retained surfaces. We will assess accessible findings and explain cleanup decisions by material.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup between retained and replaced cabinets",
+        "text": "We will inspect the accessible junctions and distinguish residue, heat effects, and extinguishing-water damage. The replacement drawing does not establish that every retained surface is ready. The scope will identify what needs treatment or another decision."
+      },
+      {
+        "title": "Use the removal stage for inspection",
+        "text": "Taking down upper components may reveal wall areas unavailable during the first visit. We will document those findings and review changes before the scope expands. Qualified equipment or utility work remains separate."
+      },
+      {
+        "title": "Handoff to cabinet installation",
+        "text": "We will record restoration performed and remaining drying or repair concerns. The installer will know the assessed condition before new components close access. Optional layout changes remain distinct from damage-driven work."
+      }
+    ],
+    "estimate": "Share the cabinet plan and safe photographs from removal. Pricing will distinguish work on retained materials from replacement installation and identify provisional items dependent on access.",
+    "checklist": [
+      "Identify cabinet components intended to remain.",
+      "Share utility disconnection status.",
+      "Tell us which installation step is next."
+    ]
+  },
+  "smoke-damage-cleanup/celeste": {
+    "intro": "Smoke damage cleanup in Celeste helps when cleaning has focused on walls but doors, shelving, and other details still have uncertain status. Those items can be excluded from a broad room description. We will assess the selected surfaces and explain a scope that makes the remaining work clear.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup for overlooked room details",
+        "text": "We will identify the doors, shelves, trim, or fixtures included and review their materials. The earlier wall-cleaning scope provides context without proving these details were addressed. Current findings will determine the proposed treatment."
+      },
+      {
+        "title": "Account for finish sensitivity",
+        "text": "Coated wood and painted surfaces may respond differently. We will explain any representative trial and its limits. Remaining staining or finish damage may require repair after cleaning, which will be identified rather than promised away."
+      },
+      {
+        "title": "Document what remains outside the scope",
+        "text": "Contents and equipment can need separate review. We will record surfaces treated and pending decisions before the room is reassembled. A completed detail-cleaning stage will not be described as treatment of every connected item."
+      }
+    ],
+    "estimate": "The estimate depends on selected surfaces, access, sensitivity, and justified treatment. Share earlier scope notes and the details you want reviewed. We will explain the actual inclusions before work begins.",
+    "checklist": [
+      "Identify details omitted from earlier cleaning.",
+      "Share methods already used on them.",
+      "Tell us which items require handling for access."
+    ]
+  },
+  "toilet-overflow-cleanup/celeste": {
+    "intro": "Toilet overflow cleanup in Celeste helps when an overflow reaches a room where floor trim is already removed, exposing lower wall edges. The open junction may need different decisions from the finished floor. We will assess source and exposure before replacement trim conceals the area.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup with lower walls already exposed",
+        "text": "We will inspect the wall edges left open by the renovation and distinguish them from the finished floor. Those materials may have received direct exposure that the original repair scope never considered. The cleanup plan will explain the action for each observed layer."
+      },
+      {
+        "title": "Keep new trim from becoming part of the affected inventory",
+        "text": "We will identify whether uninstalled pieces or supplies contacted the overflow and clarify their review status. An unused product is not automatically suitable to install after exposure. The installer or supplier may need to make a separate product decision."
+      },
+      {
+        "title": "Remove and clean according to the current findings",
+        "text": "We will describe condition-driven removal, disposal, and treatment of retained surfaces. Further access will have a stated purpose. New findings will be reviewed before work extends beyond the opened wall edge."
+      },
+      {
+        "title": "Resume installation from a documented point",
+        "text": "We will communicate relevant drying progress and remaining plumbing or repair concerns. The new trim should not conceal a material still awaiting a decision. The handoff will distinguish incident-related cleanup from the renovation tasks already planned."
+      }
+    ],
+    "estimate": "Pricing depends on source conditions, materials, access, and selected handling. Keep the area restricted and share the incident timeline and renovation stage. We will assess the current condition before assuming the original repair scope still fits.",
+    "checklist": [
+      "Identify lower-wall sections open during the overflow.",
+      "Share the plumbing correction status.",
+      "Tell us what new supplies were stored nearby."
+    ]
+  },
+  "fire-damaged-debris-removal/celeste": {
+    "intro": "Fire damaged debris removal in Celeste helps when removal has started but a change in the repair scope leaves uncertainty about which materials should stay. The next load should follow a clear updated authorization. We will review the selected items and explain the boundary before hauling continues.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal after a scope change",
+        "text": "We will distinguish material already approved for disposal from items affected by the new plan. A previous authorization may not describe the current decision. Pending review items will remain identifiable rather than being loaded by momentum."
+      },
+      {
+        "title": "Coordinate the revised handling route",
+        "text": "Retained components or new work can change practical access. We will discuss protection, staging, and qualified disconnection needs. The updated sequence will identify what can proceed and what requires another provider first."
+      },
+      {
+        "title": "Record the revised clearance",
+        "text": "We will describe removal performed and material left pending. The next contractor will understand what remains available for inspection or repair. Debris clearance will not be presented as structural approval or full restoration completion."
+      }
+    ],
+    "estimate": "Share the revised repair description and safe photographs. Costs will reflect the currently selected material, access, handling, and disposal. We will clarify changes before extending the earlier removal scope.",
+    "checklist": [
+      "Identify items newly designated to remain.",
+      "Confirm who can approve updated disposal decisions.",
+      "Tell us what review or repair is scheduled next."
+    ]
+  },
+  "fire-damaged-contents-cleaning/celeste": {
+    "intro": "Fire damaged contents cleaning in Celeste helps when a room contains both belongings selected for reuse and items whose future is undecided. The cleaning scope should not blur those groups. We will evaluate the selected materials and explain realistic options before processing.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning for belongings selected to keep",
+        "text": "We will evaluate the condition of the selected reuse group rather than treat the owner\u2019s preference as proof of recoverability. Material construction and exposure determine which methods are appropriate. Items still undecided will remain outside the processing scope until authorized."
+      },
+      {
+        "title": "Explain what cleaning can and cannot change",
+        "text": "Residue may respond to treatment while heat damage, finish changes, or inaccessible layers remain a limitation. We will describe that distinction before work. Specialist evaluation may be needed for sensitive or technical items."
+      },
+      {
+        "title": "Make trials serve a clear choice",
+        "text": "A representative treatment can help answer whether a proposed method is useful for a particular material. We will explain the result without extending it automatically to the whole inventory. Personal importance can guide priorities without becoming a guarantee of recovery."
+      },
+      {
+        "title": "Plan a separate return stage",
+        "text": "We will identify processed items and pending decisions and discuss the destination room. Building cleanup or reconstruction may still limit return. The handoff will preserve those statuses so selected belongings do not disappear into unresolved work."
+      }
+    ],
+    "estimate": "The estimate depends on selected inventory, materials, handling, and agreed work. Send a concise list and safe photographs. We will define the first group before expanding to belongings whose disposition is still undecided.",
+    "checklist": [
+      "Identify items specifically selected for evaluation.",
+      "Share prior treatment records.",
+      "Tell us which destination rooms are ready."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/celeste": {
+    "intro": "Fire extinguisher residue cleanup in Celeste helps when a discharge leaves powder around decorative trim or textured surfaces that ordinary wiping did not reach. Material sensitivity and access need review before more treatment. We will assess the remaining residue and explain a defined method scope.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup on detailed finishes",
+        "text": "We will inspect the accessible texture or trim and identify what the earlier attempt left unresolved. A method suitable for a flat surface may not fit the detail. Any representative trial will have a stated purpose and limits."
+      },
+      {
+        "title": "Review the agent and prior treatment",
+        "text": "Available extinguisher identification and cleaning history inform the approach. We will keep uncertainty explicit where records are incomplete. Finish damage caused by the incident or already present may require a separate repair decision."
+      },
+      {
+        "title": "Handoff before repainting or replacement",
+        "text": "We will document surfaces treated and remaining limitations. Equipment or contents outside the selected scope will remain identifiable. Decorative repair should follow the cleanup status rather than conceal an unanswered residue concern."
+      }
+    ],
+    "estimate": "Pricing depends on finish materials, access, agent information, and justified treatment. Share safe photographs and earlier methods used. We will explain options before applying a method across the detailed surface.",
+    "checklist": [
+      "Identify the trim or texture material if known.",
+      "Keep available extinguisher label details.",
+      "Tell us what wiping or vacuuming was attempted."
+    ]
+  },
+  "emergency-board-up-after-fire/celeste": {
+    "intro": "Emergency board up after fire in Celeste helps when temporary closure is needed but permanent replacement measurements have not been finalized. The protection plan should preserve the next provider\u2019s practical access. We will assess permitted conditions and explain the temporary scope.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire before replacement measurements",
+        "text": "We will establish whether the installer still needs an unobstructed view or physical access to the opening. That measurement dependency can affect the temporary sequence. Restricted material will not be altered simply because a replacement appointment is planned."
+      },
+      {
+        "title": "Coordinate measurement and closure clearly",
+        "text": "Tell us who can confirm the required visit is complete and authorize the next step. We will distinguish an appointment date from actual release for work. The plan will identify what preparation can proceed and what must wait."
+      },
+      {
+        "title": "Check the attachment area after access is available",
+        "text": "Surrounding damage may require qualified preparation or evaluation before temporary protection can be fitted. We will explain that condition separately from measuring the replacement. Board up will not establish structural adequacy of the whole assembly."
+      },
+      {
+        "title": "Give the replacement provider a useful record",
+        "text": "We will document temporary work and any remaining limitations or access arrangement. Permanent installation and weatherproofing remain separate tasks. The handoff will describe what is present without a promise against every weather or security event."
+      }
+    ],
+    "estimate": "Costs depend on dimensions, height, mounting conditions, and coordination. Share safe exterior photographs and release status. We will distinguish response planning from the steps needed before installation can be completed.",
+    "checklist": [
+      "Identify who still needs to measure the opening.",
+      "Confirm the authorized entry route.",
+      "Share investigation restrictions that remain."
+    ]
+  },
+  "crawl-space-sewage-cleanup/celeste": {
+    "intro": "Crawl space sewage cleanup in Celeste helps when an inspection finds affected material after the waste-line repair has already been closed out. The plumbing completion record may not describe the surrounding cleanup. We will assess safe accessible conditions and explain the remaining scope.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup after a closed plumbing work order",
+        "text": "We will review what the plumbing provider completed and what the later inspection actually questioned. A finished service ticket may address the line without describing every surrounding material. The current assessment will establish the cleanup needs still supported by findings."
+      },
+      {
+        "title": "Distinguish prior handling from current work",
+        "text": "Tell us what insulation, covering, or debris was removed during the pipe repair and where it went. We will keep that history separate from material we evaluate directly. Remaining removal and disposal will have a clear authorization rather than be assumed part of the earlier task."
+      },
+      {
+        "title": "Clean retained surfaces and review moisture",
+        "text": "The scope will describe treatment of materials that remain and any drying needed for the observed conditions. New exposure revealed during removal will be documented and discussed. Source follow-up will remain explicit if the repair status is uncertain."
+      },
+      {
+        "title": "Provide a new completion record for the property",
+        "text": "We will identify the area addressed and remaining repair or access limits. The next provider will know what is ready for its own work. The plumbing completion date will not be reused as proof that the later cleanup concern has been resolved."
+      }
+    ],
+    "estimate": "The estimate depends on entry, evaluated extent, materials, and handling. Share the plumbing record and current inspection note. You do not need to enter contaminated space to obtain more photographs before requesting assessment.",
+    "checklist": [
+      "Identify the material the new inspection questioned.",
+      "Share source correction details.",
+      "Tell us what replacement work is planned."
+    ]
+  }
+}

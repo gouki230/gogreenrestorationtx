@@ -1,4 +1,7 @@
 ---
+import generatedImages from '../../data/compact-service-images.json';
+import RealEstateLinks from '../../components/RealEstateLinks.astro';
+import CompactServiceLinks from '../../components/CompactServiceLinks.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import services from '../../data/services.json';
@@ -21,7 +24,7 @@ const dfwCitiesList = [...dfwCities].sort((a, b) => a.name.localeCompare(b.name)
 
 const isMold = service.slug === 'mold-remediation';
 const title = isMold ? 'DFW Mold Removal & Remediation Help | Go Green TX' : `${service.name} Services | Go Green Restoration TX Inc`;
-const description = isMold ? 'Discuss mold removal and remediation in Dallas, Collin County and DFW. Cleanup within our scope, with larger projects routed to a licensed remediator.' : `Professional ${service.name.toLowerCase()} services throughout the Dallas–Fort Worth Metroplex. Bonded & insured, EPA Lead-Safe certified. 24/7 emergency response. Free estimates.`;
+const description = isMold ? 'Discuss mold removal and remediation in Dallas, Collin County and DFW. Discuss the affected materials, leak history and next steps for your home or business.' : `Professional ${service.name.toLowerCase()} services throughout the Dallas–Fort Worth Metroplex. Bonded & insured, EPA Lead-Safe certified. 24/7 emergency response. Free estimates.`;
 
 const breadcrumbs = [
   { name: 'Home', url: '/' },
@@ -86,10 +89,11 @@ const serviceImages: Record<string, { src: string; alt: string }[]> = {
     { src: '/images/site/go-green-team-restoration-work.jpg', alt: 'Restoration and reconstruction team at work' },
   ],
 };
+const moldImage = generatedImages['mold-remediation-after-water-damage'];
 const images = isMold ? [] : serviceImages[service.slug] || [];
 ---
 
-<BaseLayout title={title} description={description} schema={[serviceSchema]}>
+<BaseLayout title={title} description={description} schema={[serviceSchema]} omitOfficeCopy={isMold}>
   <Breadcrumbs items={breadcrumbs} />
 
   <!-- Hero -->
@@ -99,13 +103,13 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
         <div>
           <h1 class="font-heading text-4xl lg:text-5xl font-black mb-4">{isMold ? 'Mold removal and remediation help in Dallas–Fort Worth' : service.name}</h1>
           <p class="text-lg text-brand-warm-200 max-w-3xl mb-6">
-            {isMold ? 'Tell us about mold in your property. We handle cleanup within our current scope of less than 25 contiguous square feet and route larger projects to a TDLR-licensed remediator. Serving Dallas, Collin County and wider DFW from Wylie.' : 'Discuss your property, the work needed, and the next step with our Wylie-based team serving Dallas–Fort Worth.'}
+            {isMold ? 'Mold removal and remediation in Dallas–Fort Worth can be needed when a leak leaves damaged wallboard, growth beneath cabinets or a musty room that never seems to dry. We will discuss the affected materials and moisture history, explain the next step, and identify the provider and scope before work begins.' : 'Discuss your property, the work needed, and the next step with our Wylie-based team serving Dallas–Fort Worth.'}
           </p>
           <a href="tel:+14697273217" class="inline-block bg-brand-green hover:bg-brand-green-light text-white font-bold px-8 py-4 rounded-lg transition-colors">
             Call Now: (469) 727-3217
           </a>
         </div>
-        {service.image && (
+        {isMold ? (<figure><img src={moldImage.src} srcset={`${moldImage.smallSrc} 640w, ${moldImage.src} 1280w`} sizes="(max-width:768px) 100vw, 600px" alt="Mold removal and remediation: generated service illustration" width={moldImage.width} height={moldImage.height} fetchpriority="high" class="w-full rounded-2xl" /><figcaption class="text-sm mt-2">Higgsfield-generated service illustration; not a completed-project photograph.</figcaption></figure>) : service.image && (
           <div class="rounded-2xl overflow-hidden shadow-2xl border-4 border-white/20 aspect-[4/3]">
             <img src={service.image} alt={service.name} class="w-full h-full object-cover" width="900" height="675" fetchpriority="high" />
           </div>
@@ -155,7 +159,22 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
       <p class="text-brand-gray-700 mb-4">Call with your city, the affected room, and any known leak history. For emergencies, we aim to arrive within one hour; we confirm current availability and arrival time for your address.</p>
       <a href="/contact/" class="text-brand-brown underline font-bold">Discuss your mold problem</a>
     </aside>}
+    {isMold && <section class="max-w-4xl mb-12">
+      <h2 class="font-heading text-2xl font-bold mb-4">Match the mold concern to the affected space</h2>
+      <p class="text-brand-gray-600 mb-4">The room and material involved help define the work. A leaking sink may affect the cabinet and the wall behind it; a bathroom repair may require controlled access to damaged wallboard. The service pages below explain those decisions in more detail.</p>
+      <ul class="list-disc pl-6 space-y-3 mb-5">
+        <li><a class="text-brand-brown underline" href="/services/kitchen-cabinet-mold-removal/">Kitchen cabinet mold removal</a>: review cabinet bottoms, adjoining wall material and the status of the plumbing repair.</li>
+        <li><a class="text-brand-brown underline" href="/services/bathroom-mold-removal/">Bathroom mold removal</a>: distinguish a washable surface from affected material that needs removal.</li>
+        <li><a class="text-brand-brown underline" href="/services/mold-removal-behind-drywall/">Mold behind drywall</a>: plan access, containment and the handoff before the wall is closed.</li>
+        <li><a class="text-brand-brown underline" href="/services/mold-remediation-after-water-damage/">Mold remediation after water damage</a>: connect the moisture history, drying work and remaining cleanup.</li>
+      </ul>
+      <h2 class="font-heading text-2xl font-bold mb-4">What the first conversation will establish</h2>
+      <p class="text-brand-gray-600 mb-4">We will review when the problem appeared, which surfaces are affected and whether the source has been repaired. Share an existing assessment or protocol if one is available. Photos can help prepare for a visit, but they cannot establish conditions inside a closed wall or substitute for an assessment.</p>
+      <p class="text-brand-gray-600">The estimate will distinguish remediation from source repairs, independent assessment or clearance, and reconstruction. Progress will be recorded, and we will explain outstanding items before new finishes cover the area.</p>
+    </section>}
     {isMold && <ProjectPhotos />}
+
+    {['mold-remediation','water-damage-restoration','construction-remodeling'].includes(service.slug) && <RealEstateLinks kind={isMold ? 'mold' : service.slug === 'water-damage-restoration' ? 'water' : 'repair'} />}
 
     <!-- Process Steps -->
     <div id="process" class="mb-16 scroll-mt-32">
@@ -188,7 +207,7 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
     <div id="service-areas" class="mb-16 scroll-mt-32">
       <h2 class="font-heading text-2xl font-bold text-brand-gray-900 mb-6">{service.name} Service Areas</h2>
 
-      <p class="text-brand-gray-600 mb-4">We serve Dallas, Collin County, and the wider DFW metroplex from our Wylie location. Select your city for service information and call to confirm scheduling for your address.</p>
+      <p class="text-brand-gray-600 mb-4">We serve Dallas, Collin County, and the wider DFW metroplex. Select your city for service information and call to confirm scheduling for your address.</p>
       <h3 class="font-heading font-bold text-lg mb-4 text-brand-gray-800">DFW Metro Area</h3>
       <div class="flex flex-wrap gap-2 mb-8">
         {dfwCitiesList.map((city) => (
@@ -250,4 +269,6 @@ const images = isMold ? [] : serviceImages[service.slug] || [];
       </div>
     </div>
   </div>
+  {isMold && <p id="mold-service-provider" class="max-w-7xl mx-auto px-4 py-4 text-sm text-brand-gray-600">Go Green Restoration TX Inc welcomes mold projects of any size. While our Texas mold remediation license application is pending, work requiring a license is referred to appropriately licensed partner companies. The provider and scope of work are identified before work begins. Independent assessment and clearance are separate services.</p>}
+  <CompactServiceLinks service={service.slug} />
 </BaseLayout>

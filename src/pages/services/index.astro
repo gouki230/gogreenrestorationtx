@@ -1,4 +1,6 @@
 ---
+import RealEstateLinks from '../../components/RealEstateLinks.astro';
+import CompactServiceLinks from '../../components/CompactServiceLinks.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import services from '../../data/services.json';
@@ -41,4 +43,6 @@ const serviceIcons: Record<string, string> = {
       ))}
     </div>
   </section>
+  <div class="max-w-7xl mx-auto px-4"><RealEstateLinks /></div>
+  <CompactServiceLinks />
 </BaseLayout>

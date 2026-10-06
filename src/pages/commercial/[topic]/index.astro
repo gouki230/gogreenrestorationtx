@@ -1,0 +1,10 @@
+---
+import topics from '../../../utils/commercial-expansion-topics';
+import {commercialPreview, isCommercialPathReleased} from '../../../utils/commercial-city-editorial';
+import CommercialExpansionPage from '../../../components/CommercialExpansionPage.astro';
+export function getStaticPaths() {
+  return topics.filter(topic => !topic.reuseExistingRoutes && (commercialPreview || isCommercialPathReleased(`/commercial/${topic.slug}/`))).map(topic => ({params:{topic:topic.slug},props:{topic}}));
+}
+const {topic} = Astro.props;
+---
+<CommercialExpansionPage topic={topic} />

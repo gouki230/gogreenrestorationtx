@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "property-management-restoration",
+    "name": "Property management restoration",
+    "parent": "water-damage-restoration",
+    "image": "structural-drying-services",
+    "imageDescription": "generated illustration of drying equipment and affected building finishes; no completed community project is depicted",
+    "description": "Property management restoration across DFW. Coordinate authorized access, documented scope and client-directed communication. Request a property estimate.",
+    "intro": "Property management restoration helps when a leak, fire residue or mold concern affects an occupied rental and the manager needs a clear plan for access and approvals. We organize the affected rooms, proposed work and reporting around the client contact authorized to direct the project. Our owner confirms extensive experience with multi-unit and tenant-occupied restoration.",
+    "sections": [
+      {
+        "heading": "Property management restoration with a defined approval path",
+        "paragraphs": [
+          "An emergency call and a repair authorization may involve different people. We agree on who can approve the initial scope, who receives progress reports and how additional findings will be handled. An estimate identifies included work and exclusions so owner decisions are recorded before the plan expands."
+        ]
+      },
+      {
+        "heading": "A material response within the delegated scope",
+        "paragraphs": [
+          "For a supply leak, we recover accessible water and distinguish wet carpet cushion or softened wallboard from suitable retained slab, framing and hard finishes. The manager receives the proposed removal boundary and the cleaning and drying work for exposed retained surfaces before additional openings expand the delegated scope. Fire residue requires a compatible finish trial rather than automatic replacement, while a mold concern follows the identified provider’s material-treatment plan and separate assessment requirements."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Coordinate entry through the manager",
+        "paragraphs": [
+          "Keys, tenant availability and restricted rooms affect the visit. Routine tenant communication follows the hiring manager’s instructions and approved messaging; findings, scope decisions and progress reports go to the designated client contact. Necessary access and safety notices remain accurate, and we do not independently discuss fault, coverage, health conclusions or owner decisions with tenants."
+        ]
+      },
+      {
+        "heading": "Document each unit and shared area",
+        "paragraphs": [
+          "A wet ceiling in one unit may connect to a source or affected assembly elsewhere. We identify inspected spaces, unavailable areas and the next access needed, then organize records by unit or common area. This helps the manager track unresolved work without treating an initial visit as a complete determination of hidden damage."
+        ]
+      },
+      {
+        "heading": "Connect cleanup to repairs",
+        "paragraphs": [
+          "Source correction, extraction, drying or provider remediation and replacement finishes have different prerequisites. We document progress and the dependencies for the next trade. Finish upgrades and additional work are identified separately from the original loss scope; coverage and responsibility are determined by the relevant parties, not by our estimate."
+        ]
+      }
+    ],
+    "links": [
+      "structural-drying-services",
+      "mold-remediation-after-water-damage"
+    ],
+    "related": "hoa-restoration-services",
+    "reuseExistingRoutes": true,
+    "requiresMoldDisclosure": true,
+    "checklist": [
+      "Identify the manager and owner approval contacts.",
+      "List affected units, access restrictions and reported source repairs.",
+      "Share available maintenance notes and existing assessment records."
+    ]
+  },
+  {
+    "slug": "hoa-restoration-services",
+    "name": "HOA restoration services",
+    "parent": "water-damage-restoration",
+    "image": "floor-water-damage-cleanup",
+    "imageDescription": "generated illustration of drying equipment and affected building finishes; no completed community project is depicted",
+    "description": "HOA restoration services across DFW. Coordinate authorized access, documented scope and client-directed communication. Request a property estimate.",
+    "intro": "HOA restoration services address damage in shared rooms, common building assemblies or association-authorized portions of individual units. A wet hallway or clubhouse may need both immediate cleanup and a board-approved repair plan. We work through the association’s designated representative to define areas, access and documented decisions.",
+    "sections": [
+      {
+        "heading": "HOA restoration services across different approval boundaries",
+        "paragraphs": [
+          "An association representative may authorize work in a common area while a unit owner controls an interior finish. We identify the spaces covered by the proposed authorization and record which areas still require a decision. The association and its advisers determine responsibility under governing documents; restoration records describe conditions and work without interpreting those documents."
+        ]
+      },
+      {
+        "heading": "Shared-material cleanup and repair prerequisites",
+        "paragraphs": [
+          "Association-authorized cleanup can involve extracting water from a clubhouse floor, removing affected absorbent ceiling pieces or cleaning suitable retained grid and masonry. We identify those material tasks within the boundaries supplied by the client’s property records, keeping an owner’s finish or contents decision separate from the shared work. Drying checks follow the exposed assembly before new finishes cover it; mold treatment is performed under the identified appropriate provider’s scope, with independent assessment separate where required."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Resident messages follow association direction",
+        "paragraphs": [
+          "Routine tenant or resident communication follows the hiring HOA or manager’s instructions and approved messaging. Findings, scope decisions, approvals and progress reports go to the designated client contact. Practical work-zone, access and equipment notices remain accurate; we do not independently discuss fault, insurance coverage, health conclusions or owner decisions with residents."
+        ]
+      },
+      {
+        "heading": "Preserve a useful common-area route",
+        "paragraphs": [
+          "An equipment plan needs to account for corridors, doors, storage and the proposed work boundary. We coordinate placement and access with the authorized contact and record changes as the scope develops. A plan to separate work areas is not a promise that a room can remain occupied or that all community activities can continue."
+        ]
+      },
+      {
+        "heading": "Keep association records organized",
+        "paragraphs": [
+          "We document the authorized building and area, work performed, progress and changes needing approval. Mitigation, source repair and reconstruction have separate milestones and providers when applicable. Board selections and optional finish changes are recorded separately so the association can follow the decisions affecting cost and schedule."
+        ]
+      }
+    ],
+    "links": [
+      "structural-drying-services",
+      "mold-remediation-after-water-damage"
+    ],
+    "related": "property-management-restoration",
+    "reuseExistingRoutes": true,
+    "requiresMoldDisclosure": true,
+    "checklist": [
+      "Name the board or manager representative authorized to direct work.",
+      "Identify affected common areas and unit interiors separately.",
+      "Share entry arrangements and the association’s change-approval process."
+    ]
+  }
+]

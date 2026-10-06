@@ -1,0 +1,279 @@
+{
+  "ferris": {
+    "keyword": "Property damage restoration in Ferris",
+    "description": "Property damage restoration in Ferris helps restore rooms where water, fire, mold, or wastewater has damaged building materials and belongings.",
+    "image": "floor-water-damage-cleanup",
+    "intro": "Property damage restoration in Ferris helps restore rooms where water, fire, mold, or wastewater has damaged building materials and belongings. We will perform the agreed cleanup and restoration, with individual decisions about items you hope to retain. The proposal will explain the physical work as well as its effect on the eventual repair.",
+    "sections": [
+      {
+        "title": "Property damage restoration in Ferris: evaluate the building and its contents together",
+        "paragraphs": [
+          "A damaged floor cannot be fully reviewed while affected furnishings cover it. We will discuss movement and handling of possessions before opening or treating the area. Tell us which items require owner decisions or specialist attention."
+        ]
+      },
+      {
+        "title": "Perform work in a defined area",
+        "paragraphs": [
+          "We will identify extraction, cleaning, drying, and removal tasks suited to the incident, including the appropriate arrangement for mold remediation. Retained surfaces will be distinguished from components proposed for disposal. Hidden conditions will be explained as limitations until access establishes more."
+        ]
+      },
+      {
+        "title": "Prepare the room for the next stage",
+        "paragraphs": [
+          "Progress documentation will show which tasks are complete and what remains unresolved. Returning contents and installing finishes will be considered against that status. Source repairs or other-provider tasks still outstanding will remain visible in the handoff."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Describe damage and items in the area.",
+      "Identify possessions needing individual decisions.",
+      "Share source and earlier cleanup records."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/ferris/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/mold-remediation/ferris/",
+        "label": "Mold remediation"
+      },
+      {
+        "href": "/fire-smoke-damage-restoration/ferris/",
+        "label": "Fire and smoke restoration"
+      }
+    ]
+  },
+  "water-damage-restoration/ferris": {
+    "keyword": "Water damage restoration in Ferris",
+    "description": "Water damage restoration in Ferris removes water and dries affected building materials after an appliance, pipe, fixture, or other source wets the property.",
+    "image": "appliance-leak-cleanup",
+    "intro": "Water damage restoration in Ferris removes water and dries affected building materials after an appliance, pipe, fixture, or other source wets the property. Water can remain below an appliance or behind a fixed cabinet after the visible floor is wiped. We will review accessible layers and explain the access needed to restore them.",
+    "sections": [
+      {
+        "title": "Water damage restoration in Ferris: account for fixed components",
+        "paragraphs": [
+          "Tell us which appliance or fixture was involved and whether it has been disconnected or repaired. We will identify who is responsible for moving or reconnecting equipment when that is needed for access. A restoration scope should not leave those tasks assumed or unassigned."
+        ]
+      },
+      {
+        "title": "Extract and dry the affected assembly",
+        "paragraphs": [
+          "We will remove accessible water and distinguish damaged material requiring removal from retained components needing drying. The equipment plan will account for the newly accessible space. Any opening or removal will be explained with the corresponding repair consequence."
+        ]
+      },
+      {
+        "title": "Record conditions before replacing the covering",
+        "paragraphs": [
+          "Drying checks will track the retained area, including portions originally blocked from view. Unresolved source correction or suspected mold will receive a separate discussion. Reconstruction will use the current restoration findings rather than the appearance of the top surface."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Identify the source and repair status.",
+      "Describe access below or behind equipment.",
+      "Share water removal already performed."
+    ],
+    "links": [
+      {
+        "href": "/emergency-water-extraction/ferris/",
+        "label": "Emergency water extraction"
+      },
+      {
+        "href": "/structural-drying-services/ferris/",
+        "label": "Structural drying"
+      },
+      {
+        "href": "/mold-remediation-after-water-damage/ferris/",
+        "label": "Mold remediation after water damage"
+      }
+    ]
+  },
+  "fire-smoke-damage-restoration/ferris": {
+    "keyword": "Fire and smoke damage restoration in Ferris",
+    "description": "Fire and smoke damage restoration in Ferris addresses damaged building surfaces and belongings following a fire.",
+    "image": "fire-damaged-contents-cleaning",
+    "intro": "Fire and smoke damage restoration in Ferris addresses damaged building surfaces and belongings following a fire. The rooms may need debris removal, residue cleaning, and response-water drying before they can be rebuilt. We will explain those tasks and make contents decisions individually rather than promise recovery based on appearance.",
+    "sections": [
+      {
+        "title": "Fire and smoke damage restoration in Ferris: identify the items that matter before handling",
+        "paragraphs": [
+          "Photographs and a list of priority belongings help organize the review. Tell us about moved items and previous cleaning, as both affect the available information. We will identify contents included in our work and those requiring a separate specialist."
+        ]
+      },
+      {
+        "title": "Restore accessible building surfaces",
+        "paragraphs": [
+          "Material condition determines the proposed cleaning or removal approach. We will distinguish heat damage, residue on retained surfaces, and wet components from the response. An optional finish replacement will not be described as a substitute for the underlying cleanup."
+        ]
+      },
+      {
+        "title": "Link contents decisions with room readiness",
+        "paragraphs": [
+          "Belongings should not obstruct areas still being treated or dried. We will explain the sequence for handling them alongside the building work. The final restoration record will identify remaining evaluation and repair needs before return of the room is planned."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "List priority contents and original locations.",
+      "Share fire-response information.",
+      "Describe any prior contents cleaning."
+    ],
+    "links": [
+      {
+        "href": "/smoke-damage-cleanup/ferris/",
+        "label": "Smoke damage cleanup"
+      },
+      {
+        "href": "/fire-damaged-debris-removal/ferris/",
+        "label": "Fire-damaged debris removal"
+      },
+      {
+        "href": "/fire-damaged-contents-cleaning/ferris/",
+        "label": "Fire-damaged contents cleaning"
+      }
+    ]
+  },
+  "mold-remediation/ferris": {
+    "keyword": "Mold remediation in Ferris",
+    "description": "Mold remediation in Ferris addresses mold-affected building materials and related contents concerns through a defined remediation scope.",
+    "image": "mold-contaminated-contents-cleaning",
+    "intro": "Mold remediation in Ferris addresses mold-affected building materials and related contents concerns through a defined remediation scope. Growth near stored items can raise separate questions about the room and the belongings. We will review the findings and coordinate the appropriate provider for each part of the work.",
+    "sections": [
+      {
+        "title": "Mold remediation in Ferris: distinguish the assembly from stored belongings",
+        "paragraphs": [
+          "Share assessment information and the history of moisture in the space. We will identify which findings concern the structure and which concern nearby possessions. Moving an item away from the wall does not establish that either has been remediated."
+        ]
+      },
+      {
+        "title": "Coordinate the physical remediation",
+        "paragraphs": [
+          "Containment, material removal, and cleaning will be arranged around the approved work area. Contents handling will be included where agreed, with specialist limits made clear. New findings will be reviewed before removal expands into another component."
+        ]
+      },
+      {
+        "title": "Explain the prerequisites for returning the room",
+        "paragraphs": [
+          "Source correction and any remaining drying need will be identified separately from material cleanup. Applicable clearance is an evaluation of the completed work, not a guaranteed result. We will explain what remains before reconstruction or return of stored items."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Provide assessment and moisture information.",
+      "Identify stored contents near the finding.",
+      "Describe previous removal or cleaning."
+    ],
+    "links": [
+      {
+        "href": "/mold-removal-behind-drywall/ferris/",
+        "label": "Mold removal behind drywall"
+      },
+      {
+        "href": "/bathroom-mold-removal/ferris/",
+        "label": "Bathroom mold removal"
+      },
+      {
+        "href": "/services/mold-remediation-before-closing/",
+        "label": "Mold remediation before closing"
+      }
+    ]
+  },
+  "sewage-backup-cleanup/ferris": {
+    "keyword": "Sewage backup cleanup in Ferris",
+    "description": "Sewage backup cleanup in Ferris removes wastewater and restores the contacted parts of the property after a backup.",
+    "image": "toilet-overflow-cleanup",
+    "intro": "Sewage backup cleanup in Ferris removes wastewater and restores the contacted parts of the property after a backup. Furniture, stored boxes, and floor coverings can complicate the contact boundary. We will review both building materials and belongings before performing the agreed cleaning, removal, and drying.",
+    "sections": [
+      {
+        "title": "Sewage backup cleanup in Ferris: include items lifted out of the spill",
+        "paragraphs": [
+          "An item may have been moved before we arrive while still needing a decision about its original contact. Share where possessions stood and what was done to them during cleanup. The work plan will distinguish the original affected room from later storage locations."
+        ]
+      },
+      {
+        "title": "Handle contacted material appropriately",
+        "paragraphs": [
+          "We will explain which building components require removal and which can remain for treatment. A retained hard surface and a saturated layered item present different restoration questions. Specialist contents decisions will stay separate from the building cleanup agreement."
+        ]
+      },
+      {
+        "title": "Complete the remaining restoration",
+        "paragraphs": [
+          "We will monitor damp retained materials after wastewater removal and identify source work still needed from a plumber. Contents will be considered for return against the room\u2019s actual work status. Unresolved findings will be documented rather than hidden beneath replacement finishes."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Share contact history for moved items.",
+      "Describe the backup source and plumbing work.",
+      "Identify any material already removed."
+    ],
+    "links": [
+      {
+        "href": "/toilet-overflow-cleanup/ferris/",
+        "label": "Toilet overflow cleanup"
+      },
+      {
+        "href": "/crawl-space-sewage-cleanup/ferris/",
+        "label": "Crawl-space sewage cleanup"
+      },
+      {
+        "href": "/mold-remediation/ferris/",
+        "label": "Mold remediation"
+      }
+    ]
+  },
+  "construction-remodeling/ferris": {
+    "keyword": "Reconstruction and remodeling in Ferris",
+    "description": "Reconstruction and remodeling in Ferris rebuilds damaged finishes while accounting for components and belongings you want to keep.",
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "Reconstruction and remodeling in Ferris rebuilds damaged finishes while accounting for components and belongings you want to keep. Cleanup may leave a room partly intact and partly open. We will define replacement work around that condition and explain the choices needed to complete the space.",
+    "sections": [
+      {
+        "title": "Reconstruction and remodeling in Ferris: review retained components before installation",
+        "paragraphs": [
+          "Existing cabinetry, trim, or flooring can affect access and the order of repairs. We will identify what must move, what remains, and which decisions need another provider. Restoration completion and source-correction records will be reviewed before affected assemblies are closed."
+        ]
+      },
+      {
+        "title": "Agree on the replacement finish",
+        "paragraphs": [
+          "We will explain available materials and transitions to retained surfaces. A preference to update more of the room can be considered, but the added work will remain distinct from necessary repair. Selections that affect fit will be settled before installation."
+        ]
+      },
+      {
+        "title": "Protect the agreed scope through completion",
+        "paragraphs": [
+          "We will discuss additional damage found during access before expanding construction. Progress updates will show completed installations and dependencies still outstanding. The final review will compare the result with the approved repair boundaries and selections."
+        ]
+      }
+    ],
+    "checklistTitle": "Information that helps plan the work",
+    "checklist": [
+      "Identify components and contents to retain.",
+      "Provide restoration completion records.",
+      "Share preferred finishes and optional changes."
+    ],
+    "links": [
+      {
+        "href": "/water-damage-restoration/ferris/",
+        "label": "Water damage restoration"
+      },
+      {
+        "href": "/locations/dfw-metro/ferris/",
+        "label": "Ferris restoration services"
+      },
+      {
+        "href": "/services/water-damage-repair-before-closing/",
+        "label": "Water damage repair before closing"
+      }
+    ],
+    "imageAlt": "AI-generated illustration of damaged ceiling material before reconstruction; not a completed Ferris project"
+  }
+}

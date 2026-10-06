@@ -1,0 +1,586 @@
+{
+  "emergency-water-extraction/dish": {
+    "intro": "Emergency water extraction in DISH can be needed when you return to a property and find water across several rooms without knowing when the release began. We will review the current condition, collect accessible water and explain the material decisions supported by what can actually be observed.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in DISH after a delayed discovery",
+        "text": "The unknown start time should be recorded as unknown rather than replaced with a guess. We will review the reported source, water distribution and accessible materials before defining collection and handling. The treatment proposal will reflect the current condition, not an unsupported assumption that the release was recent."
+      },
+      {
+        "title": "Collect water and expose the affected surfaces",
+        "text": "The removal plan will identify equipment access and contents movement needed to reach the floor. Once free water is collected, we will evaluate retained layers and explain drying, selective removal or further review. A room without puddles can still contain material requiring restoration."
+      },
+      {
+        "title": "Give an off-site owner a usable progress record",
+        "text": "We will identify the rooms addressed and the work still pending, using locations that can be matched to the property. Changes in scope will be connected to new findings. Source repair, contents decisions and reconstruction will remain separate responsibilities rather than disappear into a general cleanup update."
+      }
+    ],
+    "estimate": "The estimate will distinguish collection, handling and follow-on treatment. Share the last known dry condition and any photographs available, while keeping uncertain timing clearly separate from confirmed observations.",
+    "checklist": [
+      "Identify who can authorize work onsite.",
+      "Share known source information without guessing the release time.",
+      "List rooms where water was found."
+    ]
+  },
+  "burst-pipe-cleanup/dish": {
+    "intro": "Burst pipe cleanup in DISH can be needed when an emergency plumber has stopped the release but the property owner has not seen the opened wall. We will evaluate the wet assembly and explain the removal, cleaning and drying needed in a location-based record.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in DISH with a clear material account",
+        "text": "The repair invoice can describe the pipe task without showing the condition of surrounding wall or floor layers. We will identify those accessible materials and explain any additional opening proposed. The plumbing opening will be documented as a reference, not assumed to be the full restoration boundary."
+      },
+      {
+        "title": "Treat the physical damage in stages",
+        "text": "Accessible liquid will be collected, and material designated for removal will be handled within the agreed scope. Retained wet components can then receive the proposed cleaning and drying. Newly visible conditions will be explained before the work expands."
+      },
+      {
+        "title": "Make the repair handoff understandable from a distance",
+        "text": "Photographs and consistent room references will support the account of what was addressed. We will identify remaining moisture, service access or reconstruction tasks. An owner should be able to distinguish a completed pipe repair from a wall still awaiting restoration without visiting every opening personally."
+      }
+    ],
+    "estimate": "The estimate will separate the building tasks from plumbing service and decoration. Share the repair provider\u2019s notes and identify the contact authorized to approve additional material work if needed.",
+    "checklist": [
+      "Provide the pipe repair location.",
+      "Share photographs taken during emergency service.",
+      "Identify the decision contact for changes in scope."
+    ]
+  },
+  "appliance-leak-cleanup/dish": {
+    "intro": "Appliance leak cleanup in DISH can be needed when a disconnected machine leaves a wet floor that must be addressed before a replacement is delivered. We will collect remaining water, evaluate the accessible assembly and explain the work that relies on the space staying empty.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in DISH between removal and delivery",
+        "text": "An empty appliance footprint provides access that may disappear as soon as the new unit arrives. We will review the floor and adjoining finishes and identify drying or removal proposed. The delivery appointment will not determine whether the material is ready to be covered."
+      },
+      {
+        "title": "Treat the exposed building layers",
+        "text": "The surface finish and underlying material may require different decisions. We will explain selective opening where necessary and clean or dry retained components within the plan. Any new finding will be reviewed before it changes the authorized repair boundary."
+      },
+      {
+        "title": "Coordinate installation from the actual status",
+        "text": "We will record the area addressed and identify any remaining moisture or reconstruction step. The installer will retain responsibility for connections and operation. The replacement can then be scheduled around the building work instead of being moved out again to recover lost access."
+      }
+    ],
+    "estimate": "The estimate will distinguish cleanup, material handling and drying from appliance service and installation. Share the replacement dimensions if they change which surfaces will be covered.",
+    "checklist": [
+      "Keep the empty footprint accessible.",
+      "Share the delivery and installation dates.",
+      "Identify who will reconnect and test the appliance."
+    ]
+  },
+  "storm-water-damage-cleanup/dish": {
+    "intro": "Storm water damage cleanup in DISH can be needed when temporary exterior protection is in place but the interior still contains wet debris and damaged finishes. We will remove accessible water and authorized material, clean retained surfaces and explain the drying that remains.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup after exterior protection",
+        "text": "We will review the rooms reached by rain and remove accessible water that remains inside. Temporary covering may allow interior work to begin while permanent exterior repairs are arranged. Its presence will not be treated as evidence that wet finishes underneath are ready to rebuild."
+      },
+      {
+        "title": "Remove damaged material to expose retained surfaces",
+        "text": "Loose debris and deteriorated finish can obstruct the assembly that needs drying. We will explain the authorized removal and distinguish it from material still suitable to remain. Newly exposed insulation, wood, or flooring will be evaluated directly before another layer covers it."
+      },
+      {
+        "title": "Clean the cleared work area and establish drying",
+        "text": "We will identify the surfaces needing treatment and arrange equipment around the retained wet components. A room cleared of debris can still require monitored drying. Progress will be explained through the relevant material condition rather than the appearance of an empty room."
+      },
+      {
+        "title": "Coordinate interior repairs with the exterior status",
+        "text": "We will identify ongoing entry or temporary-protection concerns that affect completion. Finish replacement should follow both source correction and the condition of retained materials. The next contractor will receive the work completed and the remaining dependencies separately."
+      }
+    ],
+    "estimate": "The estimate will separate collection, removal, cleaning and drying from permanent exterior repair. Share the temporary protection details and the next scheduled source-repair visit.",
+    "checklist": [
+      "Keep photographs of the original water entry.",
+      "Identify debris already removed.",
+      "Report any later water observed after temporary protection."
+    ]
+  },
+  "structural-drying-services/dish": {
+    "intro": "Structural drying services in DISH can be needed when a contractor is ready to cover a wall but the owner cannot find the earlier drying records. We will evaluate the accessible material now and explain what can be established before reconstruction proceeds.",
+    "sections": [
+      {
+        "title": "Structural drying services in DISH with incomplete earlier records",
+        "text": "We will identify current measurement locations and the material available for review. Earlier conditions that were not documented will remain unknown rather than be reconstructed from the equipment rental period or a recollection that the room felt dry."
+      },
+      {
+        "title": "Set up the work around present findings",
+        "text": "The proposal will explain equipment, access and monitoring needed for the observed assembly. If another opening or material decision is required, its purpose will be stated before authorization. The plan will address the actual wet section rather than automatically repeat an earlier setup."
+      },
+      {
+        "title": "Provide the next contractor with a usable account",
+        "text": "Progress records will distinguish material addressed from concealed sections not evaluated. We will explain any remaining drying or source issue before the wall is covered. The repair decision can then rely on current documented findings while preserving the limits of the missing history."
+      }
+    ],
+    "estimate": "The estimate will identify evaluation, drying and monitoring separately. Share any partial records you do have, including photographs and removal dates, without treating them as substitutes for measurements that were never recorded.",
+    "checklist": [
+      "Identify surfaces scheduled to be covered.",
+      "Provide earlier records that are available.",
+      "Keep the assembly accessible for current evaluation."
+    ]
+  },
+  "floor-water-damage-cleanup/dish": {
+    "intro": "Floor water damage cleanup in DISH can be needed when an insurer or repair provider has a flooring proposal but part of the wet assembly remains covered. We will evaluate the accessible material and explain the restoration work independently of the proposed finish selection.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in DISH before replacement quantities are settled",
+        "text": "A replacement proposal may include a broad area for matching while cleanup follows the material actually affected. We will identify the accessible findings and explain any selective opening needed. The two quantities can differ without treating every replacement surface as confirmed water damage."
+      },
+      {
+        "title": "Reach and treat the affected layers",
+        "text": "Authorized removal can reveal underlayment or another component requiring its own decision. We will explain cleaning, drying or additional handling proposed for the exposed condition. A new finish will not be used to cover material that remains unresolved."
+      },
+      {
+        "title": "Document the practical repair boundary",
+        "text": "We will record the work completed and identify any moisture or access task still pending. The flooring provider can then review the remaining assembly and appearance choices separately. Any expansion of restoration work will be tied to a new material finding."
+      }
+    ],
+    "estimate": "The estimate will distinguish cleanup and access from cosmetic replacement preferences. Share the existing flooring proposal and product information so the restoration scope can be compared clearly with the planned installation.",
+    "checklist": [
+      "Identify flooring still concealing the affected area.",
+      "Share photographs from the original release.",
+      "Tell us which provider will install the replacement."
+    ]
+  },
+  "ceiling-water-damage-cleanup/dish": {
+    "intro": "Ceiling water damage cleanup in DISH can be needed when a patching appointment is approaching but wet material remains above the opening. We will evaluate the accessible assembly, remove components designated for disposal and dry retained layers before the ceiling is closed.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in DISH before a scheduled patch",
+        "text": "The existing opening may reflect the plumber\u2019s access rather than the full restoration need. We will identify what can be reviewed and explain any additional removal proposed. The patch size already quoted will not decide whether concealed wet material needs attention."
+      },
+      {
+        "title": "Carry out the overhead material work",
+        "text": "The area below will have an agreed protection and debris route. Authorized finish or insulation removal will expose surfaces for further evaluation, cleaning or drying. Fixture and utility tasks requiring another provider will remain separately assigned."
+      },
+      {
+        "title": "Give the finish provider a clear status",
+        "text": "We will record the section addressed and identify remaining moisture or service-access needs. The patching visit can then be planned around actual progress. New texture and paint should not conceal an opening that another restoration task still requires."
+      }
+    ],
+    "estimate": "The estimate will separate removal, handling and drying from decorative repair. Share the patching proposal and source-repair notes so the remaining sequence can be explained before the appointment.",
+    "checklist": [
+      "Identify the opening scheduled for closure.",
+      "Share the leak-repair information.",
+      "Tell us about fixtures within the work area."
+    ]
+  },
+  "bathroom-mold-removal/dish": {
+    "intro": "Bathroom mold removal in DISH can be needed when affected wall material is found just before a replacement vanity is installed. We will establish the remediation area, remove specified components and clean retained surfaces before the new cabinet covers them.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in DISH before vanity installation",
+        "text": "An empty footprint provides a chance to evaluate the wall and floor connection directly. We will document the accessible findings and explain any further opening needed. The replacement cabinet size will not automatically define the treatment boundary."
+      },
+      {
+        "title": "Address the material through a defined process",
+        "text": "The plan will specify containment and controlled handling appropriate to the authorized work. Components designated for removal will be separated from parts held for evaluation. Retained accessible surfaces will receive the cleaning required by their condition rather than simply be hidden behind new cabinetry."
+      },
+      {
+        "title": "Resume installation after the remaining steps",
+        "text": "We will record treatment performed and identify moisture correction or required evaluation still pending. Plumbing reconnection and cabinet fitting will have separate responsibilities. The installer can then return with a clear understanding of the area it will cover."
+      }
+    ],
+    "estimate": "The estimate will distinguish remediation from installation and decorative work. Share discovery photographs and the planned delivery date so the available access is not lost prematurely.",
+    "checklist": [
+      "Keep the vanity footprint empty for review.",
+      "Share the corrected moisture source if known.",
+      "Identify the provider handling plumbing connections."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/dish": {
+    "intro": "Kitchen cabinet mold removal in DISH can be needed when a cabinet repair proposal assumes replacement of a damaged base without addressing affected material behind it. We will evaluate the exposed assembly and explain the remediation work separately from rebuilding.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in DISH before a base-panel repair",
+        "text": "The panel may conceal wall or floor material requiring its own treatment decision. We will identify what can be evaluated and explain any access removal proposed. Replacing the visible base alone will not be presented as remediation of everything around it."
+      },
+      {
+        "title": "Remove affected material and clean retained components",
+        "text": "The remediation plan will define containment, handling and the authorized material boundary. Components released for removal will be taken out, while accessible retained surfaces receive appropriate cleaning. Plumbing or specialist cabinet tasks needed for access will be assigned separately."
+      },
+      {
+        "title": "Give reconstruction a specific remaining assembly",
+        "text": "We will document the work and identify any moisture correction or required evaluation still pending. The cabinet provider can then rebuild from the actual exposed condition. Finish matching and layout preferences will remain distinct from the remediation findings."
+      }
+    ],
+    "estimate": "The estimate will separate treatment and necessary access from the existing repair proposal. Share that proposal and any photographs showing the cabinet before or after the base was opened.",
+    "checklist": [
+      "Identify components already removed.",
+      "Share the leak-repair status.",
+      "Tell us who will rebuild the cabinet base."
+    ]
+  },
+  "mold-remediation-after-water-damage/dish": {
+    "intro": "Mold remediation after water damage in DISH may be needed when a reconstruction crew discovers affected material that was not included in the earlier cleanup record. We will evaluate the current finding and explain the additional treatment without inventing a missing inspection history.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in DISH after a new discovery",
+        "text": "Photographs and the location of the finding will help distinguish current observations from earlier documented work. We will identify the accessible treatment area and explain any further access needed. A missing record will remain a limitation rather than proof that the material was previously clear or previously treated."
+      },
+      {
+        "title": "Perform remediation within the agreed boundary",
+        "text": "The plan will specify containment, controlled removal and cleaning of retained accessible surfaces. Material decisions will be explained before the work expands. New finishes will not substitute for addressing the affected assembly."
+      },
+      {
+        "title": "Update the path back to reconstruction",
+        "text": "We will record the area treated and identify moisture correction or required evaluation still pending. The repair crew will receive a clear restart point. Earlier extraction, the new remediation and final rebuilding will remain separate parts of the project account."
+      }
+    ],
+    "estimate": "The estimate will identify the additional treatment and distinguish it from work already completed. Share existing records and discovery photographs so the change can be reviewed against known facts.",
+    "checklist": [
+      "Identify the crew and location of the new discovery.",
+      "Keep earlier cleanup documents available.",
+      "Share the reconstruction steps currently paused."
+    ]
+  },
+  "mold-removal-behind-drywall/dish": {
+    "intro": "Mold removal behind drywall in DISH can be needed when a small inspection cut reveals affected material but provides no room to treat the cavity. We will explain the larger access required and the physical remediation work it supports.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in DISH from an inspection opening",
+        "text": "The cut can establish a reason for further review without defining the whole wall condition. We will identify what is visible and explain the proposed removal boundary. Enlarging the opening will have a treatment or evaluation purpose rather than follow an arbitrary room-wide pattern."
+      },
+      {
+        "title": "Remove designated material and clean what remains",
+        "text": "The remediation setup will address containment and handling for the authorized scope. Affected components approved for removal will be taken out, while retained accessible surfaces receive the specified cleaning. Utility concerns inside the wall will retain an appropriate separate provider."
+      },
+      {
+        "title": "Close the wall from a documented completion status",
+        "text": "We will record the treated section and identify moisture correction or required evaluation still pending. The reconstruction provider will receive the actual opening and remaining assembly. A patch should follow those steps rather than make the unresolved cavity invisible."
+      }
+    ],
+    "estimate": "The estimate will distinguish access enlargement, remediation and reconstruction. Share photographs from inside the inspection cut and any known source information.",
+    "checklist": [
+      "Keep the inspection opening available.",
+      "Identify utilities known inside the wall.",
+      "Tell us which provider will rebuild the finish."
+    ]
+  },
+  "kitchen-fire-cleanup/dish": {
+    "intro": "Kitchen fire cleanup in DISH can be needed when a replacement kitchen is being discussed before the smoke residue on retained surfaces has been evaluated. We will review those materials, carry out agreed cleaning and explain what the result means for repair choices.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup before a full replacement decision",
+        "text": "We will inspect the retained surfaces a proposed new kitchen would cover or replace. Heat-damaged components and residue on serviceable finishes need different decisions. The evaluation will identify where cleaning can inform the repair choice and where damage already limits that option."
+      },
+      {
+        "title": "Evaluate finish response on the actual cabinet material",
+        "text": "Suitable surfaces will receive the agreed cleaning treatment, with the result reviewed before the work is extended. We will explain sensitivity, discoloration, or other limitations that remain. More treatment will not be used to imply that permanent heat damage can be reversed."
+      },
+      {
+        "title": "Reach the surfaces concealed by removable components",
+        "text": "Drawers, contents, or damaged panels may obstruct relevant residue. We will explain movement or selective removal needed to access it. Utilities and appliances requiring disconnection retain the appropriate specialist responsibility."
+      },
+      {
+        "title": "Give the replacement estimate useful findings",
+        "text": "We will identify surfaces cleaned, components requiring repair, and remaining water or specialist work. Those findings can inform the retained-versus-replaced scope. A design preference to replace the kitchen will remain separate from the physical cleanup needed for the affected assembly."
+      }
+    ],
+    "estimate": "The estimate will separate cleaning evaluation, treatment and handling from equipment service and rebuilding. Share any proposed replacement scope and details of earlier cleaning attempts.",
+    "checklist": [
+      "Identify finishes you hope to retain.",
+      "Share products already used on the surfaces.",
+      "Keep equipment evaluation with the appropriate provider."
+    ]
+  },
+  "smoke-damage-cleanup/dish": {
+    "intro": "Smoke damage cleanup in DISH can be needed when a room still has visible residue after an initial cleaning attempt. We will review the surfaces and the work already tried, then explain a material-specific approach to the deposits that remain.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in DISH after incomplete treatment",
+        "text": "Knowing which products or methods were used helps distinguish the current surface condition from the original residue. We will examine the accessible material and explain any limited evaluation needed for an uncertain finish. We will not assume that repeating the same room-wide process is the useful next step."
+      },
+      {
+        "title": "Target the remaining physical deposits",
+        "text": "The scope will identify broad surfaces and details still needing treatment, including accessible edges or joints missed earlier. We will explain component movement necessary to reach those areas. Contents with their own residue will retain separate treatment decisions."
+      },
+      {
+        "title": "Describe the result without hiding limitations",
+        "text": "A mark or coating change may remain even after accessible deposits are addressed. We will identify that finding and explain any repair or specialist recommendation. The completion account will distinguish cleaned surfaces from areas that remain inaccessible or unresolved."
+      }
+    ],
+    "estimate": "The estimate will separate evaluation, further cleaning and handling from refinishing. Share earlier invoices or photographs if available, along with product names rather than assumptions about what the first treatment achieved.",
+    "checklist": [
+      "Identify surfaces still showing residue.",
+      "Share cleaning products already used.",
+      "Keep before-and-after photographs if available."
+    ]
+  },
+  "toilet-overflow-cleanup/dish": {
+    "intro": "Toilet overflow cleanup in DISH can be needed when the visible liquid has been mopped but affected material remains beneath bathroom storage. We will review the release and perform the collection, removal and surface treatment still needed.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup beneath bathroom storage",
+        "text": "Mopping may remove accessible liquid without reaching the footprint of a storage unit. We will discuss movement and inspect the material beneath it. The unit itself and its contents will receive separate exposure decisions rather than be considered restored because the floor is now reachable."
+      },
+      {
+        "title": "Collect remaining wastewater and inspect the edges",
+        "text": "We will address accessible liquid and examine floor transitions and wall bases around the storage area. Concealed absorbent layers may need removal. The reason for each opening will be connected to the material exposed or the treatment it makes possible."
+      },
+      {
+        "title": "Treat retained surfaces after material removal",
+        "text": "We will explain cleaning appropriate to components that can stay and identify related drying. A dry appearance alone will not resolve wastewater contact. Items or layers unsuitable for retention will be distinguished from surfaces receiving treatment."
+      },
+      {
+        "title": "Return storage after the receiving area is ready",
+        "text": "We will record the treated footprint and outstanding item or repair decisions. The plumbing cause requires its own correction. Reinstating the storage unit should not conceal an unresolved edge or bring affected belongings back into the cleaned area."
+      }
+    ],
+    "estimate": "The estimate will distinguish remaining physical cleanup from the work already completed. Tell us where wet towels, coverings or stored items were placed so their handling can be considered in the review.",
+    "checklist": [
+      "Describe the initial cleanup performed.",
+      "Identify storage concealing the affected floor.",
+      "Share the toilet repair status."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/dish": {
+    "intro": "AC leak water damage cleanup in DISH can be needed when a patching crew is scheduled but the only available record describes the mechanical repair. We will evaluate the building materials now and explain the restoration required before they are covered.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in DISH with an incomplete material record",
+        "text": "The HVAC invoice can confirm what that provider worked on without describing the wall, ceiling or platform around it. We will record current accessible findings and identify any concealed area still requiring access. We will not invent earlier moisture measurements to fill a gap in the file."
+      },
+      {
+        "title": "Perform the treatment supported by present conditions",
+        "text": "Remaining water will be collected where found. Components requiring removal will be identified, while retained material receives the proposed cleaning or equipment-assisted drying. Each task will have a stated physical purpose rather than be repeated automatically because another company previously visited."
+      },
+      {
+        "title": "Give the patching provider a current decision record",
+        "text": "We will explain progress and any continuing moisture or service-access need. The reconstruction update will distinguish the area actually addressed from material that was never reached. The patch date should follow those findings instead of being used as evidence that restoration must already be complete."
+      }
+    ],
+    "estimate": "The estimate will identify current evaluation, removal and drying separately from completed HVAC service. Share partial records that exist and the exact surfaces scheduled for closure so the visit can resolve the relevant question.",
+    "checklist": [
+      "Provide the mechanical service notes.",
+      "Identify any material already replaced.",
+      "Keep the proposed patch area open for evaluation."
+    ]
+  },
+  "crawl-space-water-removal/dish": {
+    "intro": "Crawl space water removal in DISH can be needed when water remains beneath a property after a source repair and the owner needs a clear account of what is left. We will pump or extract reachable water and document the physical conditions exposed by removal.",
+    "sections": [
+      {
+        "title": "Crawl space water removal after a source repair",
+        "text": "We will review the repaired location and identify accessible water remaining beneath the floor. The source provider may have stopped the release without removing the accumulation. Our extraction plan will describe the reachable sections and clearance available for that separate task."
+      },
+      {
+        "title": "Observe what extraction changes",
+        "text": "As water recedes, previously obscured debris, insulation, or wood may become visible. We will record those findings and explain the material decisions they support. A drained collection point will not be used to describe the condition of every nearby component."
+      },
+      {
+        "title": "Address retained moisture after liquid removal",
+        "text": "Suitable building surfaces may still need drying even though pumping is complete. We will identify the areas proposed for treatment and any obstruction limiting access. Damaged material or suspected mold may require a different work scope."
+      },
+      {
+        "title": "Give the owner a specific remaining-work account",
+        "text": "We will distinguish water removed, surfaces evaluated, and sections still inaccessible. Continued entry will be identified if observed. Replacement material should follow those findings rather than assume a completed pipe repair and pump-out together establish full restoration."
+      }
+    ],
+    "estimate": "The estimate will identify collection and authorized material handling separately from follow-on restoration. Share the repaired source location and any earlier pumping records so the proposal addresses the current condition.",
+    "checklist": [
+      "Provide the source-repair notes.",
+      "Identify known access openings.",
+      "Share photographs from earlier visits if available."
+    ]
+  },
+  "attic-mold-remediation/dish": {
+    "intro": "Attic mold remediation in DISH can be needed when a repair report mentions affected material but does not define a treatment area. We will review the accessible finding, establish a scope and explain the removal and cleaning work proposed.",
+    "sections": [
+      {
+        "title": "Attic mold remediation from a reported finding",
+        "text": "We will review the report location and compare it with the surfaces accessible in the attic. A general note about affected material does not establish a treatment boundary. Photographs and direct observations will help distinguish the known finding from sections still needing evaluation."
+      },
+      {
+        "title": "Create access to the surfaces proposed for treatment",
+        "text": "Insulation or stored items may prevent reaching the reported wood. We will explain authorized movement or removal needed for that purpose. Clearing access is separate from treating belongings or assuming every surface beyond the opening is affected."
+      },
+      {
+        "title": "Define removal and retained-surface cleaning",
+        "text": "The remediation plan will identify unsuitable components and suitable surfaces that can be cleaned. Deterioration requiring structural repair will be distinguished from a surface condition. Treatment will follow the defined scope and any applicable assessment."
+      },
+      {
+        "title": "Resolve the conditions before the area is covered",
+        "text": "We will identify moisture correction, related drying, and any independent review required. The completion record will state the surfaces addressed and any limitation remaining. New insulation should follow those findings rather than turn a vague initial report into an unsupported whole-attic completion claim."
+      }
+    ],
+    "estimate": "The estimate will distinguish evaluation, remediation and access handling from roof work or reconstruction. Share the original report and photographs so the discovery can be matched to an identifiable location.",
+    "checklist": [
+      "Keep original discovery photographs and notes.",
+      "Identify the provider who reported the condition.",
+      "Share any moisture-source correction completed."
+    ]
+  },
+  "crawl-space-mold-remediation/dish": {
+    "intro": "Crawl space mold remediation in DISH can be needed when an earlier water-removal visit exposed affected material that still needs treatment. We will review the remaining assembly and explain remediation separately from the collection already completed.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation after water extraction",
+        "text": "We will review what the earlier removal exposed and what remains accessible beneath the floor. Liquid collection and remediation address different conditions. The new scope will identify affected material rather than assume the pump-out boundary is automatically the treatment area."
+      },
+      {
+        "title": "Expose retained components for evaluation",
+        "text": "Insulation or debris may still obscure wood requiring attention. We will explain removal justified by its condition or the access needed. The remaining structure can then receive a direct treatment decision instead of being described only through observations made while water was present."
+      },
+      {
+        "title": "Clean suitable surfaces and identify damaged material",
+        "text": "The plan will describe remediation of components appropriate to retain. Structural deterioration requires another qualified repair decision; cleaning does not restore strength. Source correction and moisture treatment will remain visible alongside the remediation work."
+      },
+      {
+        "title": "Prepare the underside for its replacement layers",
+        "text": "We will identify independent review requirements and any inaccessible section. Reinsulation should follow the actual treated condition. The record will distinguish the earlier water-removal work from the material treatment completed during this stage."
+      }
+    ],
+    "estimate": "The estimate will separate remediation from the earlier water-removal work and later replacement tasks. Share those records and the provider\u2019s proposed reconstruction plan if available.",
+    "checklist": [
+      "Identify the sections reached during pumping.",
+      "Share photographs taken after water removal.",
+      "Tell us which material is scheduled for replacement."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/dish": {
+    "intro": "Mold contaminated contents cleaning in DISH can be needed when belongings were moved out of an affected room but their treatment status was never recorded. We will review the requested items, explain suitable cleaning options and keep completed work distinguishable from unresolved property.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in DISH after an undocumented move",
+        "text": "A box in a clean room may contain items that were relocated without evaluation. We will discuss what is known about their handling and identify current material findings. Missing treatment records will not be treated as proof that an object was cleaned or that it needs automatic disposal."
+      },
+      {
+        "title": "Evaluate and clean according to construction",
+        "text": "The scope will distinguish hard surfaces, fabrics and objects with concealed or delicate components. We will explain any limited evaluation or specialist advice needed before treatment. Cleaning will address the material included rather than simply replace its packaging."
+      },
+      {
+        "title": "Create a return record that resolves the uncertainty",
+        "text": "We will identify items treated and those awaiting another decision. The receiving location should also be suitable following the relevant building work. Repacking completed and unresolved property separately helps prevent the same uncertainty from following the next move."
+      }
+    ],
+    "estimate": "The estimate will separate inventory review, cleaning and packing from specialist restoration. Share available labels, photographs or earlier handling notes, while keeping assumptions about past work clearly identified.",
+    "checklist": [
+      "Identify boxes moved from the affected room.",
+      "Share any prior treatment records.",
+      "List items needing individual review."
+    ]
+  },
+  "fire-damaged-debris-removal/dish": {
+    "intro": "Fire damaged debris removal in DISH can be needed when a room was partly cleared but attached damaged material still prevents a repair assessment. We will identify the remaining removal scope and expose the assembly for its next defined task.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in DISH after partial clearance",
+        "text": "Earlier disposal may have removed loose fragments without addressing wall, ceiling or cabinet components still attached. We will review what remains and explain the authorized boundary. Missing records of previous removal will not be replaced with a guess about what was behind the cleared material."
+      },
+      {
+        "title": "Remove released components through a controlled route",
+        "text": "We will identify material approved for disposal and distinguish parts held for inspection or repair reference. Utility or specialist tasks needed before removal will have separate responsibilities. Additional findings will be discussed before expanding the work."
+      },
+      {
+        "title": "Describe the surface revealed for repair",
+        "text": "The exposed area may still need soot cleaning, another evaluation or reconstruction. We will record those findings and identify the proposed next step. Debris clearance will remain a specific service stage rather than a claim that the room has completed every restoration task."
+      }
+    ],
+    "estimate": "The estimate will distinguish remaining removal, disposal and handling from further cleaning and rebuilding. Share earlier clearance records and any inspection instructions before the remaining material is disturbed.",
+    "checklist": [
+      "Identify components still attached in the repair area.",
+      "Share material holds or release instructions.",
+      "Tell us which provider needs the exposed assembly for assessment."
+    ]
+  },
+  "fire-damaged-contents-cleaning/dish": {
+    "intro": "Fire damaged contents cleaning in DISH can be needed when stored items were removed after a fire but no one has decided which should be cleaned or replaced. We will evaluate the requested property and perform the agreed treatment with item-level outcomes.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning after temporary storage",
+        "text": "We will review the belongings requested for treatment and the exposure information available. Items stored together may have different heat, smoke, or water damage. Their construction and accessible condition will determine the next decision rather than the label on a shared container."
+      },
+      {
+        "title": "Evaluate before committing to broad cleaning",
+        "text": "Suitable items can receive the agreed treatment while sensitive components or concealed layers may require specialist review. We will explain expected limits before irreversible work. A sentimental priority can guide attention without becoming a promise that original condition will be recovered."
+      },
+      {
+        "title": "Keep item outcomes distinguishable",
+        "text": "Belongings awaiting approval will remain separate from those treated or proposed for disposal. The record will identify the action performed and the condition still unresolved. Moving property into a different storage area will not be recorded as restoration."
+      },
+      {
+        "title": "Prepare packaging and destination for return",
+        "text": "Cleaned belongings need appropriate containers and a receiving area with a clear cleanup status. We will identify limitations affecting return rather than assume storage protects every item from renewed exposure. Building repair progress and contents completion will remain separate milestones."
+      }
+    ],
+    "estimate": "The estimate will separate evaluation, cleaning and handling from specialist service. Share any inventory created during the original move and identify the items you most want reviewed for retention.",
+    "checklist": [
+      "Keep original item labels available.",
+      "Identify irreplaceable or delicate belongings.",
+      "Share any earlier cleaning attempts."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/dish": {
+    "intro": "Fire extinguisher residue cleanup in DISH can be needed when a room has been wiped down but powder remains in joints and around hardware. We will evaluate those deposits and clean the agreed accessible details rather than repeat an undefined general wipe.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in DISH after initial wiping",
+        "text": "The extinguisher type and products already applied help explain the current material condition. We will review that information alongside the accessible residue. A broad surface that looks improved will not establish that recessed edges or fittings have received the same treatment."
+      },
+      {
+        "title": "Reach and treat the remaining deposits",
+        "text": "The scope will identify details requiring cleaning and any component movement needed for access. We will evaluate uncertain finishes before expanding treatment and keep contents decisions separate. Equipment interiors or operational concerns will remain with the appropriate specialist."
+      },
+      {
+        "title": "Explain limits before another repair choice",
+        "text": "Residual marks, coating changes or inaccessible deposits may require a different next step. We will describe the finding and the purpose of any recommendation. The completion record will identify what was physically addressed, not merely that another cleaning visit occurred."
+      }
+    ],
+    "estimate": "The estimate will separate evaluation, detail treatment and handling from finish repair or equipment service. Share the extinguisher label and earlier cleaning information if available.",
+    "checklist": [
+      "Point out deposits that remain after wiping.",
+      "Identify products already applied.",
+      "Tell us which components were removed or moved."
+    ]
+  },
+  "emergency-board-up-after-fire/dish": {
+    "intro": "Emergency board up after fire in DISH can be needed when a damaged opening must be protected while the owner is away. We will confirm the authorized work, evaluate the remaining assembly and install the temporary coverage included in the plan.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire when the owner is away",
+        "text": "We will confirm the openings authorized for work and the available property access before installation. Existing photographs can help identify the request, but the current surrounding condition still needs evaluation. An opening that has changed since the photos were taken may require a different approach."
+      },
+      {
+        "title": "Evaluate the attachment area on arrival",
+        "text": "We will inspect accessible frames and adjoining construction for conditions affecting temporary coverage. Weak or unstable material may need another provider first. The work will describe the opening actually secured rather than imply that all exterior damage has been addressed."
+      },
+      {
+        "title": "Preserve the authorized repair access",
+        "text": "We will account for entry needed by inspectors or restoration providers. Temporary coverage is not a permanent door or window replacement and does not establish occupancy safety. Any relevant exposure outside the requested opening will remain identified separately."
+      },
+      {
+        "title": "Provide a record the owner can review remotely",
+        "text": "We will document completed coverage and the observed limitations affecting the next step. Later demolition or frame repair may change the supporting area and require review. The record will distinguish the installation performed from permanent repairs still to be arranged."
+      }
+    ],
+    "estimate": "The estimate will distinguish initial installation from later return work. Share the contact coordinating property access and any scheduled inspection so the temporary arrangement supports the known visits.",
+    "checklist": [
+      "Identify the authorized decision contact.",
+      "Label photographs by room or side of the property.",
+      "Share current entry restrictions and planned visits."
+    ]
+  },
+  "crawl-space-sewage-cleanup/dish": {
+    "intro": "Crawl space sewage cleanup in DISH can be needed after an initial pumping visit leaves residue and affected material beneath the property. We will review what that visit actually covered and complete the authorized physical treatment that remains.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in DISH after pumping alone",
+        "text": "The earlier record may show water collection without describing disposal or surface cleaning. We will identify current accessible liquid and material conditions. Additional extraction will be proposed where necessary, while completed work will remain distinguishable from tasks that were never documented."
+      },
+      {
+        "title": "Remove remaining contamination from the assembly",
+        "text": "Material designated for disposal will be taken out through the agreed handling route. Retained accessible surfaces will be cleaned to address soil and residue, followed by any appropriate disinfection specified in the plan. Spraying over debris will not be presented as a substitute for the removal and cleaning the surface requires."
+      },
+      {
+        "title": "Document the difference between pumping and restoration",
+        "text": "We will evaluate moisture and explain the drying needed after treatment. The progress account will identify each completed stage and any area that remained inaccessible. The owner and reconstruction provider can then understand the actual remaining task rather than rely on a broad statement that the crawl space was already cleaned."
+      }
+    ],
+    "estimate": "The estimate will focus on the current physical condition and distinguish new work from the earlier collection service. Share invoices, photographs and drain-repair notes so known history and missing information remain clear.",
+    "checklist": [
+      "Identify the areas reached during the first pumping visit.",
+      "Share disposal or cleaning records if they exist.",
+      "Tell us which components are scheduled for reconstruction."
+    ]
+  }
+}

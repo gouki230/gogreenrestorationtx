@@ -1,0 +1,6 @@
+---
+import CompactServicePage from '../../components/CompactServicePage.astro';
+import pages from '../../data/compact-services.json';
+const page = pages.find(page => page.slug === 'kitchen-fire-cleanup')!;
+---
+<CompactServicePage page={page} />

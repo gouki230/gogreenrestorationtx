@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/double-oak": {
+    "intro": "Emergency water extraction in Double Oak is for a property with water that must be physically removed before the damage can be evaluated fully. We will collect reachable standing water, review the surfaces it covered and explain the next restoration step.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Double Oak starts with collection",
+        "text": "We will identify the source information available and the spread that can be reached. The extraction equipment and contents movement will be chosen for that area. A room with several floor finishes may need different follow-on decisions even though the same release crossed all of them."
+      },
+      {
+        "title": "Look beneath the cleared walking area",
+        "text": "Furniture footprints and floor edges can hold water outside the obvious puddle. We will explain the access needed to evaluate those places and record any section that remains concealed. Moving an item to collect water underneath it is separate from cleaning the item itself."
+      },
+      {
+        "title": "Continue with wet building materials",
+        "text": "Extraction addresses free water; flooring or wall layers may still require drying or removal. We will describe those findings before you authorize the next phase. Our progress account will show what has been collected and what remains wet rather than equate a clear floor with a finished restoration."
+      }
+    ],
+    "estimate": "The proposal will identify collection, authorized handling and any follow-on work separately. Share what released the water and whether it has stopped.",
+    "checklist": [
+      "Identify rooms reached by the release.",
+      "Tell us which heavy items block the floor.",
+      "Keep photographs from before initial cleanup."
+    ]
+  },
+  "burst-pipe-cleanup/double-oak": {
+    "intro": "Burst pipe cleanup in Double Oak may be needed after a plumber repairs the break but leaves wet wall layers around the opening. We will evaluate those materials, remove components that cannot remain and dry the retained assembly.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Double Oak beyond the pipe repair",
+        "text": "The opening needed to join a pipe may be smaller than the area requiring restoration. We will use the available view and explain any further access by the material it needs to reach. The plumber’s finished task will remain distinct from the condition of the wall."
+      },
+      {
+        "title": "Separate the layers before deciding what to keep",
+        "text": "Wallboard, insulation and framing can call for different treatment. We will explain proposed removal, collect released debris and review the exposed components. Retained surfaces can then receive the cleaning or drying included in the scope instead of being hidden behind an immediate patch."
+      },
+      {
+        "title": "Rebuild from recorded material progress",
+        "text": "We will monitor the affected assembly and identify any remaining moisture or service access. The reconstruction provider will receive a clear opening and work status. A larger paint blend chosen for appearance will not be described as additional damaged material without supporting findings."
+      }
+    ],
+    "estimate": "The estimate will distinguish building restoration from plumbing and decorative repair. Send the repair description if available.",
+    "checklist": [
+      "Identify the repaired pipe location.",
+      "Share layers already removed.",
+      "Tell us when wall closure is proposed."
+    ]
+  },
+  "appliance-leak-cleanup/double-oak": {
+    "intro": "Appliance leak cleanup in Double Oak can be needed when a machine has been disconnected but the flooring beneath it is still wet. We will use that open footprint to evaluate and treat the building before reinstallation removes the access.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Double Oak in an empty footprint",
+        "text": "The exposed area can show cabinet edges, trim and floor layers that were previously concealed. We will review those components rather than assume the leak stopped at the appliance outline. Any selective opening will have a stated evaluation or treatment purpose."
+      },
+      {
+        "title": "Address water left in the assembly",
+        "text": "Reachable liquid will be collected, and retained wet material will receive the proposed drying. Where a component needs removal, we will explain why before handling it. Appliance diagnosis and connection service remain with the appropriate provider."
+      },
+      {
+        "title": "Coordinate the unit’s return",
+        "text": "A repaired or replacement appliance can be operationally ready while the supporting floor still needs work. We will record that difference and identify what remains before the footprint is covered. This helps avoid installing the unit only to move it again for unfinished restoration."
+      }
+    ],
+    "estimate": "The quote will separate building treatment, movement and installation responsibilities. Share the replacement or reinstallation date.",
+    "checklist": [
+      "Keep the footprint clear.",
+      "Provide appliance service notes.",
+      "Identify the connection provider."
+    ]
+  },
+  "storm-water-damage-cleanup/double-oak": {
+    "intro": "Storm water damage cleanup in Double Oak can be needed when water leaves wet finishes and deposits inside a room. We will remove accessible liquid and debris, clean the retained surfaces included in the plan and evaluate remaining moisture.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Double Oak follows the entry path",
+        "text": "We will review where water was observed and the materials it reached. Source information matters to the handling plan, but an interior stain alone will not establish the exact exterior defect. Permanent entry correction will have its own provider and scope."
+      },
+      {
+        "title": "Clear deposits before judging the finish",
+        "text": "Collection may leave residue at trim, joints or beneath contents. We will address the accessible deposits with a material-appropriate cleaning approach. Components unsuitable for retention will receive an explained removal decision rather than be covered by a new finish."
+      },
+      {
+        "title": "Dry the assembly before cosmetic restoration",
+        "text": "We will record progress on retained wet layers and identify anything still requiring access. Temporary exterior protection may allow useful interior work while permanent repair remains pending. The final repair sequence will account for both tasks so new material does not conceal an unresolved condition."
+      }
+    ],
+    "estimate": "The estimate will distinguish collection, cleaning, removal and drying from exterior repair. Share any temporary protection already completed.",
+    "checklist": [
+      "Photograph the observed entry path.",
+      "Identify contents moved after the storm.",
+      "Share the permanent repair plan."
+    ]
+  },
+  "structural-drying-services/double-oak": {
+    "intro": "Structural drying services in Double Oak can be needed when the puddles are gone but wall and floor materials remain wet. We will evaluate the assembly, arrange the appropriate drying setup and use progress observations to explain the next repair decision.",
+    "sections": [
+      {
+        "title": "Structural drying services in Double Oak focus on the material",
+        "text": "We will identify measurement locations and the layers available for review. A surface that feels dry will not be used as a substitute for evaluating the affected component. Concealed sections will remain stated limitations until useful access is available."
+      },
+      {
+        "title": "Give equipment a specific purpose",
+        "text": "Air movement and dehumidification may be included according to the conditions. We will explain placement, access and operating needs rather than leave equipment without a defined material task. If progress indicates a change, the reason for adjustment or further opening will be explained."
+      },
+      {
+        "title": "Make completion useful to the repair crew",
+        "text": "The closing account will identify the sections addressed and any unresolved source or material concern. The provider installing wallboard, flooring or cabinets can then distinguish those areas. A familiar number of drying days will not replace the findings relevant to the actual assembly."
+      }
+    ],
+    "estimate": "The scope will state setup, monitoring and access work. Tell us which surfaces another provider intends to cover.",
+    "checklist": [
+      "Keep measurement points accessible.",
+      "Report equipment interruptions.",
+      "Share reconstruction dates."
+    ]
+  },
+  "floor-water-damage-cleanup/double-oak": {
+    "intro": "Floor water damage cleanup in Double Oak can be needed when flooring lifts or changes shape after a release. We will examine the affected layers and explain whether drying, selective removal or another repair decision is supported by their condition.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Double Oak beneath the finish",
+        "text": "The visible covering can conceal an underlayment or substrate that needs evaluation. We will explain the purpose of any lifting or opening before it happens. A damaged edge does not automatically establish that every connected room requires replacement."
+      },
+      {
+        "title": "Treat the exposed assembly",
+        "text": "Remaining water will be collected where necessary, and released material will be removed through the agreed handling route. Retained surfaces can receive cleaning and drying as proposed. Findings revealed beneath the finish will be discussed before removal extends farther."
+      },
+      {
+        "title": "Separate restoration from appearance choices",
+        "text": "Matching an existing floor may lead an installer to recommend a larger decorative replacement. We will document the actual material work so you can compare those quantities intelligently. New flooring should follow the remaining moisture decisions, rather than cover a section whose condition is unresolved."
+      }
+    ],
+    "estimate": "The estimate will identify cleanup and necessary access separately from broader finish preferences. Product information can help the flooring provider plan repairs.",
+    "checklist": [
+      "Identify where changes first appeared.",
+      "Save flooring labels if available.",
+      "Share previous removal photographs."
+    ]
+  },
+  "ceiling-water-damage-cleanup/double-oak": {
+    "intro": "Ceiling water damage cleanup in Double Oak can be needed when wet overhead material must be removed before patching. We will protect the working area, handle the authorized debris and evaluate the assembly above the visible finish.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Double Oak controls overhead removal",
+        "text": "We will establish a protected area beneath the damaged ceiling and move reachable contents out of the debris path. Unstable wallboard will be taken down in controlled sections once entry and utility conditions allow. Wet insulation within the removal area will be collected with the debris rather than left resting above the patch."
+      },
+      {
+        "title": "Inspect the newly exposed framing",
+        "text": "Opening the ceiling lets us check the sides of joists, the underside of the floor or roof assembly, and adjoining cavity edges. We will clean debris from components being retained and measure their moisture. A larger opening will be proposed only when needed to reach damage or make drying effective."
+      },
+      {
+        "title": "Use measurements to decide when the patch can proceed",
+        "text": "Drying equipment will serve the exposed assembly, with follow-up readings taken at the affected components. We will explain areas that remain wet or require source repair. The resulting opening may be irregular; making the final patch blend with the room is a separate finishing task after restoration is ready."
+      }
+    ],
+    "estimate": "The quote will distinguish overhead restoration from source service and decoration. Share the leak-repair notes and any planned fixture replacement.",
+    "checklist": [
+      "Keep clear of unstable overhead material.",
+      "Identify items beneath the opening.",
+      "Share available access from above."
+    ]
+  },
+  "bathroom-mold-removal/double-oak": {
+    "intro": "Bathroom mold removal in Double Oak can be needed when affected material is found behind a leaking vanity. We will define the work area, remove components specified in the remediation plan and clean retained accessible surfaces before rebuilding.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Double Oak behind bathroom fixtures",
+        "text": "The vanity can conceal the wall-floor connection and restrict treatment access. We will explain any component movement needed and distinguish it from the condition of the cabinet itself. Plumbing disconnection or repair will have a separate responsible provider."
+      },
+      {
+        "title": "Address the material rather than cover it",
+        "text": "The remediation setup will specify containment and controlled handling appropriate to the scope. Released affected components will be removed, and retained surfaces will receive the planned treatment. A replacement cabinet or fresh paint will not substitute for that physical work."
+      },
+      {
+        "title": "Prepare a clear reconstruction boundary",
+        "text": "We will record the area treated and identify moisture correction or required evaluation still pending. The installer can then rebuild around the remaining assembly. Belongings moved for access will retain their own cleaning decisions where needed."
+      }
+    ],
+    "estimate": "The estimate will separate remediation, fixture handling and reconstruction. Share the leak history and what has already been opened.",
+    "checklist": [
+      "Identify fixtures intended for retention.",
+      "Keep discovery photographs.",
+      "Share the plumbing repair status."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/double-oak": {
+    "intro": "Kitchen cabinet mold removal in Double Oak can be needed when a sink cabinet’s damaged base hides affected material below it. We will evaluate the accessible assembly and explain which components need removal, cleaning or a separate repair decision.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Double Oak below the sink",
+        "text": "A base panel can conceal both the floor and lower cabinet framing. We will identify what its removal would reveal and why that access is useful. The visible panel will not automatically determine the condition of the adjoining cabinet boxes."
+      },
+      {
+        "title": "Treat retained components within a defined area",
+        "text": "The remediation plan will establish containment, handling and the material boundary. Components designated for disposal will be separated from doors or hardware held for evaluation. Accessible retained surfaces will receive the specified cleaning before a replacement panel covers them."
+      },
+      {
+        "title": "Give cabinet repair an accurate starting point",
+        "text": "We will record the material addressed and identify remaining moisture correction or required evaluation. The cabinet provider can then plan the rebuild using the actual opening. Plumbing reconnection and finish matching will remain separate responsibilities."
+      }
+    ],
+    "estimate": "The proposal will distinguish access, remediation and cabinet reconstruction. Share photographs from beneath any liner or removable shelf.",
+    "checklist": [
+      "Identify the corrected leak.",
+      "List parts you hope to retain.",
+      "Share the cabinet repair contact."
+    ]
+  },
+  "mold-remediation-after-water-damage/double-oak": {
+    "intro": "Mold remediation after water damage in Double Oak can be needed when removal of wet finishes reveals affected material that was previously hidden. We will review the new finding and explain the remediation required before the repair project continues.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Double Oak after new exposure",
+        "text": "The original extraction or drying visit may not have reached the newly opened section. We will document what can now be observed and distinguish it from earlier records. Missing history will not be replaced with a claim about how long the concealed condition existed."
+      },
+      {
+        "title": "Revise the physical treatment plan",
+        "text": "The remediation scope will specify containment, controlled removal and cleaning of retained accessible surfaces. We will explain additional material decisions before the authorized area expands. New wallboard or flooring will not be used to hide a finding that still needs treatment."
+      },
+      {
+        "title": "Return to reconstruction in a clear sequence",
+        "text": "We will identify work completed and remaining moisture correction or required evaluation. The repair provider will receive a specific restart point. Earlier water removal, remediation and rebuilding will stay distinguishable in the project record."
+      }
+    ],
+    "estimate": "The estimate will identify new treatment separately from work already completed. Share the original cleanup proposal and photographs of the discovery.",
+    "checklist": [
+      "Identify the newly opened location.",
+      "Keep earlier records available.",
+      "Share repair steps currently paused."
+    ]
+  },
+  "mold-removal-behind-drywall/double-oak": {
+    "intro": "Mold removal behind drywall in Double Oak can be needed when a wall opening reveals affected material beyond the accessible cut. We will explain the treatment boundary and the removal and cleaning needed to address the cavity.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Double Oak through useful access",
+        "text": "An inspection cut may show a concern without providing room to treat it. We will identify the layers available for review and explain any enlargement by the material it needs to reach. The opening will not grow without an explained purpose."
+      },
+      {
+        "title": "Separate removed material from retained surfaces",
+        "text": "The remediation plan will include containment and handling appropriate to the authorized work. Components designated for removal will be taken out, while retained accessible material receives the specified treatment. Utilities inside the cavity may require a separate provider before work can proceed."
+      },
+      {
+        "title": "Document what the new wall will cover",
+        "text": "We will record the treated area and identify moisture correction or required evaluation still pending. Reconstruction can then follow the actual completion status. A patched inspection hole will not be described as completion of a larger unresolved cavity."
+      }
+    ],
+    "estimate": "The quote will distinguish access enlargement, treatment and wall repair. Share photographs taken inside the opening and known utility locations.",
+    "checklist": [
+      "Keep the cut accessible.",
+      "Identify fixtures attached to the wall.",
+      "Share the reconstruction schedule."
+    ]
+  },
+  "kitchen-fire-cleanup/double-oak": {
+    "intro": "Kitchen fire cleanup in Double Oak can be needed when residue covers cabinets and nearby finishes after a cooking incident. We will evaluate the materials, remove accessible deposits and explain which heat-damaged components need a different decision.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Double Oak treats greasy soot carefully",
+        "text": "Cooking residue mixed with soot can smear into a coating when scrubbed indiscriminately. We will test a small area, remove loose deposits with an appropriate method and select cleaning suited to the cabinet finish. A softened or blistered coating may need refinishing even after the surface deposit is removed."
+      },
+      {
+        "title": "Clean the recesses that remain visible after wiping",
+        "text": "We will work around handles, door profiles and accessible hinge recesses, where deposits can collect beyond the broad cabinet face. Tile and other washable surfaces will receive their own compatible treatment. Cabinet interiors and stored items will be checked separately so exterior cleaning is not mistaken for completed contents work."
+      },
+      {
+        "title": "Evaluate doors and panels before ordering replacements",
+        "text": "We will show the difference between residue that responded to cleaning and permanent heat or finish damage. Warped panels, damaged edges and persistent staining can change the repair choice. Appliance reuse and electrical operation require separate evaluation; a clean-looking range is not an operating clearance."
+      }
+    ],
+    "estimate": "The estimate will separate residue treatment, handling and equipment-related work. Tell us what has already been wiped and which products were used.",
+    "checklist": [
+      "Identify the area nearest the incident.",
+      "Keep unreviewed contents separate.",
+      "Share planned appliance service."
+    ]
+  },
+  "smoke-damage-cleanup/double-oak": {
+    "intro": "Smoke damage cleanup in Double Oak can be needed when a room retains deposits or odor after loose belongings have been removed. We will review fixed surfaces and contents separately, then explain the treatment directed at the remaining material sources.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Double Oak after a room is emptied",
+        "text": "Clearing furniture improves access but does not clean the wall, trim or built-in features left behind. We will identify reachable deposits and the finishes they affect. Inaccessible joints will remain stated limitations rather than be included in a room-wide completion claim."
+      },
+      {
+        "title": "Treat surfaces according to construction",
+        "text": "We will remove accessible residue using an approach appropriate to the material and evaluate uncertain coatings before broad treatment. Details may require additional work after open faces are addressed. Items removed from the room will retain separate cleaning decisions before return."
+      },
+      {
+        "title": "Review remaining concerns specifically",
+        "text": "A residual odor, mark or finish change will receive a material-based explanation. Further treatment will have a defined purpose rather than repeat an unchanged process automatically. The progress account will identify surfaces addressed and unresolved areas."
+      }
+    ],
+    "estimate": "The proposal will separate room treatment from contents cleaning and decorative repairs. Share which belongings were moved and any prior treatment attempted.",
+    "checklist": [
+      "Identify persistent deposits or odor locations.",
+      "Share delicate finish information.",
+      "Keep untreated items out of completed areas."
+    ]
+  },
+  "toilet-overflow-cleanup/double-oak": {
+    "intro": "Toilet overflow cleanup in Double Oak can be needed when wastewater reaches the bathroom perimeter and nearby storage. We will collect reachable liquid, remove material designated for disposal and clean the retained surfaces included in the plan.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Double Oak starts with wastewater collection",
+        "text": "We will restrict the work area and extract standing wastewater with suitable collection equipment. Rugs, stored paper goods and other absorbent items reached by the release will be separated for a disposal or recovery decision. Their removal gives us access to the floor rather than leaving contaminated belongings in place during cleaning."
+      },
+      {
+        "title": "Open the contaminated perimeter where needed",
+        "text": "Wastewater can reach the underside of base trim and cabinet toe kicks. We will remove affected porous components when they cannot be adequately cleaned, then physically clean soil from the exposed hard surfaces. Appropriate disinfectant treatment follows that cleaning, using the product requirements for the surface involved."
+      },
+      {
+        "title": "Check moisture before putting storage back",
+        "text": "We will inspect the exposed wall and floor edges for retained water and dry materials that can remain. Lower storage will not be returned over wet or untreated sections. Plumbing repair stops the release; we will separately document the wastewater removal, cleaning and remaining building repairs."
+      }
+    ],
+    "estimate": "The estimate will state physical cleanup stages and contents handling. Describe initial mopping and where wet items were placed.",
+    "checklist": [
+      "Share the toilet repair status.",
+      "Identify lower storage reached by water.",
+      "Keep removed coverings separate."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/double-oak": {
+    "intro": "AC leak water damage cleanup in Double Oak can be needed when equipment service stops a leak but wet wall or ceiling layers remain. We will evaluate the building assembly and explain removal and drying before its enclosure is repaired.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Double Oak traces the wet building materials",
+        "text": "The HVAC provider will address the equipment or drain fault while we collect escaped water and map its effect on the building. We will check the unit platform, adjoining wall base and the ceiling below where applicable. These readings help distinguish a small surface spill from water retained inside an assembly."
+      },
+      {
+        "title": "Expose wet backing without disturbing the system",
+        "text": "Deteriorated wallboard or absorbent platform covering may need removal to reach trapped moisture. We will define that access and protect the equipment; moving the unit or its connections requires the HVAC trade. Retained supports will be cleaned and dried, while weakened material receives a separate repair recommendation."
+      },
+      {
+        "title": "Compare drying progress with any new leakage",
+        "text": "We will recheck affected surfaces as equipment operates under the HVAC provider’s direction. Renewed wetting needs attention to the source, rather than simply extending the drying rental. Before enclosure repairs, we will state which building components have dried and which equipment or support tasks remain."
+      }
+    ],
+    "estimate": "The quote will distinguish building treatment, HVAC service and reconstruction. Share the service report and planned return visits.",
+    "checklist": [
+      "Identify the equipment access route.",
+      "Share material already removed.",
+      "Tell us who will repair the enclosure."
+    ]
+  },
+  "crawl-space-water-removal/double-oak": {
+    "intro": "Crawl space water removal in Double Oak can be needed when standing water prevents access beneath the floor. We will pump or extract the reachable water and explain the material conditions left for cleanup or further evaluation.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Double Oak collects water from reachable low points",
+        "text": "We will assess entry conditions and set up hoses and pumping equipment for the standing water that can be reached. Multiple depressions may need separate collection positions. We will check for continuing inflow during removal and report where water remains beyond an obstruction rather than describe a partly pumped area as empty."
+      },
+      {
+        "title": "Inspect the underside after the water recedes",
+        "text": "Reduced water levels can reveal fallen insulation, debris and wet floor supports. We will identify material requiring removal and clear the agreed debris so retained components can be examined. An unidentified release will be evaluated before it is handled as an ordinary clean-water drying job."
+      },
+      {
+        "title": "Plan drying around the actual clearance",
+        "text": "Airflow and dehumidification must reach the damp structure, not only the entrance hatch. We will measure accessible framing and subfloor materials and explain what prevents coverage of another section. Continued source correction and any structural repair will stay distinct from pumping and drying completion."
+      }
+    ],
+    "estimate": "The estimate will distinguish pumping, authorized material handling and follow-on treatment. Share prior removal records and known source information.",
+    "checklist": [
+      "Identify all known access openings.",
+      "Share the source-repair plan.",
+      "Tell us which provider needs access next."
+    ]
+  },
+  "attic-mold-remediation/double-oak": {
+    "intro": "Attic mold remediation in Double Oak can be needed when affected material remains after a roof leak is corrected. We will review the accessible assembly and explain the removal and retained-surface treatment needed before insulation or finishes are restored.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Double Oak treats the underside affected by a roof leak",
+        "text": "A repaired roof can leave mold on accessible sheathing or framing beneath the former entry. We will locate the affected surfaces and establish containment and debris handling for that work. Insulation obstructing the area will be evaluated for removal so treatment can reach the wood rather than stop at what is visible from the hatch."
+      },
+      {
+        "title": "Remove contamination from recoverable wood",
+        "text": "The remediation method will reflect the substrate and scope: HEPA vacuuming can collect loose deposits, followed by appropriate surface cleaning or controlled removal of affected surface material where specified. Porous components designated for disposal will be packaged and removed. Coating wood without first completing the required cleaning is not the treatment sequence."
+      },
+      {
+        "title": "Check the surface before insulation returns",
+        "text": "We will inspect the treated section and document inaccessible edges or damaged wood needing further evaluation. Moisture readings help establish whether the roof entry has left continuing dampness. Replacement insulation follows the necessary remediation checks and moisture correction, rather than hiding the condition beneath a fresh layer."
+      }
+    ],
+    "estimate": "The estimate will separate remediation from roof work and replacement installation. Share repair notes and discovery photographs.",
+    "checklist": [
+      "Identify the reported attic location.",
+      "Share planned insulation work.",
+      "Keep the access route available."
+    ]
+  },
+  "crawl-space-mold-remediation/double-oak": {
+    "intro": "Crawl space mold remediation in Double Oak can be needed when affected material is found beneath the floor after a moisture problem. We will establish the reachable treatment area, remove specified components and clean retained accessible surfaces.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Double Oak follows the affected floor framing",
+        "text": "We will inspect the reachable joists and underside of the subfloor to define the remediation work. Insulation or hanging material that blocks treatment will be identified before removal begins. Entry controls and debris packaging will keep material removed from below the floor from being carried loose through occupied rooms."
+      },
+      {
+        "title": "Clean each accessible face of retained timber",
+        "text": "Treatment must address more than the downward-facing edge of a joist. We will use suitable HEPA collection and cleaning on accessible side faces and intersections within the scope. Where an obstruction prevents that work, we will explain the access needed; spraying from the hatch is not a substitute for reaching the affected surfaces."
+      },
+      {
+        "title": "Separate decayed material from surface treatment",
+        "text": "Soft or structurally compromised wood needs evaluation beyond mold cleaning. We will record such findings and distinguish repair recommendations from the components treated for retention. Moisture correction and required completion checks should precede replacement insulation, with untreated sections clearly identified."
+      }
+    ],
+    "estimate": "The quote will distinguish remediation, access work and reconstruction. Share prior water-removal or plumbing records where available.",
+    "checklist": [
+      "Identify known below-floor obstructions.",
+      "Share source-correction information.",
+      "Tell us which material will be replaced."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/double-oak": {
+    "intro": "Mold contaminated contents cleaning in Double Oak can be needed when belongings from an affected room must be evaluated before they return. We will sort the requested items, explain suitable treatment and keep unresolved property separate from completed work.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Double Oak separates washable objects from absorbent construction",
+        "text": "We will inspect the items requested for recovery before assigning a method. A glazed ornament, a solid coated shelf and a padded chair have different surfaces and concealed layers. Items with contamination that cannot be reached or adequately removed will be identified before cleaning charges accumulate."
+      },
+      {
+        "title": "Remove deposits without driving them into the finish",
+        "text": "Suitable hard objects will receive controlled removal of loose contamination, followed by compatible detailed cleaning. Seams, feet and undersides will be included where reachable, and delicate coatings will be tested before broader treatment. Porous padding, paper and unfinished composite interiors may require disposal or specialist assessment rather than the method used on a washable exterior."
+      },
+      {
+        "title": "Pack by treatment result",
+        "text": "We will allow cleaned items to dry appropriately and keep them separated from untreated property during packing. Labels will distinguish completed cleaning from an unresolved repair or specialist referral. Returning belongings to a room with continuing moisture or unfinished remediation would undermine that separation, so the receiving location matters as well."
+      }
+    ],
+    "estimate": "The estimate will separate sorting, cleaning and handling from specialist restoration. Identify belongings with particular significance before routine processing.",
+    "checklist": [
+      "Share care labels or item details.",
+      "Keep original inventories available.",
+      "Confirm the return location."
+    ]
+  },
+  "fire-damaged-debris-removal/double-oak": {
+    "intro": "Fire damaged debris removal in Double Oak can be needed when damaged building components obstruct inspection and rebuilding. We will define the material released for removal, clear it through an organized route and record the assembly left behind.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Double Oak distinguishes loose waste from attached assemblies",
+        "text": "We will mark the agreed removal area and identify material being held for inspection or salvage. Loose gypsum, charred fragments and collapsed finishes will be collected first where conditions permit. Attached cabinets or wall sections need a controlled dismantling plan rather than being pulled through components intended to remain."
+      },
+      {
+        "title": "Break down the load before it leaves the room",
+        "text": "Bulky approved debris will be reduced or dismantled into manageable pieces using methods suited to its condition. We will protect the removal route, contain loose residue and transfer waste to the designated collection point. Remaining contents will be moved or protected as agreed; their proximity to the debris does not authorize their disposal."
+      },
+      {
+        "title": "Clear fragments from the exposed work area",
+        "text": "After the large material is removed, we will collect accessible loose fragments and report the condition revealed behind it. This gives the next restoration stage a usable starting point. Detailed soot cleaning, structural evaluation and reconstruction remain identifiable tasks, especially where removal exposes damage that could not previously be seen."
+      }
+    ],
+    "estimate": "The quote will separate removal, disposal and handling from further cleaning or rebuilding. Share inspection holds before work begins.",
+    "checklist": [
+      "Identify retained contents.",
+      "Flag repair-reference pieces.",
+      "Share the next contractor’s access needs."
+    ]
+  },
+  "fire-damaged-contents-cleaning/double-oak": {
+    "intro": "Fire damaged contents cleaning in Double Oak can be needed when furniture and personal belongings have residue but their recovery options are unclear. We will evaluate the requested items and perform the agreed material-appropriate treatment.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Double Oak begins with item decisions",
+        "text": "A room inventory can contain coated wood, fabric, paper and equipment with different limitations. We will identify construction and observed condition rather than assume every piece has the same outcome. Important items can be prioritized without guaranteeing recovery."
+      },
+      {
+        "title": "Treat accessible material and explain limits",
+        "text": "We will describe cleaning proposed and any small evaluation useful for an uncertain finish. Specialist or functional assessment remains separate from ordinary surface treatment. Packing an item for transport will not establish that it has completed cleaning."
+      },
+      {
+        "title": "Record outcomes before return",
+        "text": "The account will distinguish treated property from items awaiting repair, replacement or another evaluation. Return arrangements will preserve that status and consider whether the receiving space is ready. An assembled room will not serve as a substitute for item-level completion."
+      }
+    ],
+    "estimate": "The estimate will identify evaluation, treatment and handling separately. Share care information and any earlier cleaning attempts.",
+    "checklist": [
+      "List priority belongings.",
+      "Identify delicate or powered components.",
+      "Confirm where completed items will return."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/double-oak": {
+    "intro": "Fire extinguisher residue cleanup in Double Oak can be needed when powder remains on finishes and belongings after a discharge. We will review the agent information and materials, remove accessible deposits and explain any specialist item decisions.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Double Oak uses agent information",
+        "text": "The label can help identify what was discharged, while the surface construction affects treatment. We will review both before proposing cleaning. A method suitable for a hard counter will not automatically be used on fabric or internal equipment components."
+      },
+      {
+        "title": "Reach deposits beyond open surfaces",
+        "text": "The agreed work will include accessible edges, joints and hardware that retain residue. We will explain any movement needed and separate contents handling from item treatment. Unreachable areas will remain identified rather than included in a general room-complete statement."
+      },
+      {
+        "title": "Review material response before repair",
+        "text": "We will record deposits addressed and any finish limitation or remaining concern. Further cleaning, specialist review or replacement will have a stated reason. Exterior cleaning will not establish that affected equipment is ready to operate."
+      }
+    ],
+    "estimate": "The quote will distinguish surface treatment, detail work and contents handling. Share the label and products used during initial cleanup.",
+    "checklist": [
+      "Keep extinguisher information available.",
+      "Identify delicate items.",
+      "Describe earlier cleaning or movement."
+    ]
+  },
+  "emergency-board-up-after-fire/double-oak": {
+    "intro": "Emergency board up after fire in Double Oak protects an opening left exposed by broken glass or a damaged door. We will measure the exposed area, prepare a stable attachment surface and fit panels to cover it while permanent repairs are arranged.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Double Oak starts at the damaged frame",
+        "text": "We will inspect the perimeter before deciding where panels can be attached. Loose glass and displaced pieces within the installation area will be handled before fitting, where conditions permit safe work. Charred or crumbling trim will not be treated as a reliable fastening point."
+      },
+      {
+        "title": "Cut coverage for the opening that remains",
+        "text": "We will size the panels to the actual opening and available sound support, then cut and position them before fastening. The fastening method will suit the supporting material rather than depend on the original frame dimensions. We will check the completed perimeter for uncovered gaps and the panels for movement."
+      },
+      {
+        "title": "Identify what temporary coverage cannot repair",
+        "text": "If damage prevents a stable installation, we will explain the support or separate evaluation needed before proceeding. Boarding does not restore structural capacity or establish permission to occupy the building. We will identify any entry needed for authorized cleanup and coordinate later removal with the next protective or permanent installation."
+      }
+    ],
+    "estimate": "The estimate will account for opening dimensions, usable attachment material, debris preparation and working height. Any separate return for removal or adjustment will be identified.",
+    "checklist": [
+      "Tell us which doors or windows are exposed.",
+      "Share fire-department entry restrictions.",
+      "Identify an authorized route for later cleanup access."
+    ]
+  },
+  "crawl-space-sewage-cleanup/double-oak": {
+    "intro": "Crawl space sewage cleanup in Double Oak can be needed when wastewater and contaminated material remain beneath a repaired drain. We will collect reachable liquid, remove released waste and clean retained accessible components before the replacement phase.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Double Oak removes pooled wastewater and settled waste",
+        "text": "We will establish a suitable entry and collection route, then pump or extract accessible wastewater. Solids and contaminated debris left after the liquid recedes need their own removal. Ground covering reached by the release will be evaluated so dirty folds or trapped pools are not mistaken for a cleaned surface."
+      },
+      {
+        "title": "Distinguish soil, covering and building components",
+        "text": "An affected disposable ground covering may need to be removed to expose the material beneath it. Contaminated soil requires a scope based on its actual condition; we will identify that need rather than promise that a surface spray resolves it. Reachable retained building surfaces will be physically cleaned of residue before appropriate disinfection."
+      },
+      {
+        "title": "Evaluate moisture in the floor above",
+        "text": "We will check accessible supports and subfloor components and set up drying for materials that can remain. Wet insulation or other absorbent waste designated for disposal will not be left against those surfaces. The completion record will distinguish the ground treatment from the cleaned and dried building components, with remaining access limits stated."
+      }
+    ],
+    "estimate": "The quote will separate physical cleanup from plumbing and rebuilding. Share earlier pumping records and material already removed.",
+    "checklist": [
+      "Identify the repaired drain location.",
+      "Share available underside photographs.",
+      "Tell us who will replace affected components."
+    ]
+  }
+}

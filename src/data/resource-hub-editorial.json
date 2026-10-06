@@ -1,0 +1,252 @@
+{
+  "water-damage": {
+    "image": "structural-drying-services",
+    "intro": "Water damage resources help you work out what to do after a leak, what professional drying involves, and which decisions belong before repairs. If your floor is wet but the source has stopped, start with the response and drying guides. If the damage keeps returning, read about hidden moisture before covering the area with new finishes.",
+    "sections": [
+      [
+        "Start with the condition you can see",
+        "Standing water, damp baseboards, a ceiling stain, and a wet cabinet do not necessarily need the same scope. The first-response guide explains the immediate sequence; the hidden-damage guide helps you describe signs that may need evaluation. Record where the water appeared and what source repairs have already been completed so the cleanup discussion begins with useful details."
+      ],
+      [
+        "Separate water removal from drying",
+        "Removing a puddle does not establish that the floor assembly or wall cavity is dry. Our drying guide explains why the remaining materials and their moisture condition matter to the next stage. We will record progress, explain the condition of the affected areas, and outline what has to happen before repairs and reconstruction begin."
+      ],
+      [
+        "Plan documentation and the handoff to repairs",
+        "Keep photographs, repair invoices, and the proposed cleanup scope together. They help you compare what has been found with what the estimate includes, but they do not establish insurance coverage. The source of the water, material layers, access, and additional damage discovered during evaluation can all change the work and its timing."
+      ],
+      [
+        "When moisture brings a mold question",
+        "If visible growth or recurring dampness is part of the problem, review the mold-after-a-leak guidance as well as the drying information. Mold remediation is a separate scope from routine water extraction. We will explain any additional evaluation or provider coordination needed before damaged finishes are replaced."
+      ]
+    ],
+    "guides": [
+      [
+        "water-damage-emergency-first-24-hours-dallas",
+        "First steps after water enters the property"
+      ],
+      [
+        "hidden-water-damage-warning-signs-dallas",
+        "Signs of moisture beyond the visible damage"
+      ],
+      [
+        "structural-drying-and-mold-prevention-dallas",
+        "Drying and the transition to repairs"
+      ]
+    ],
+    "links": [
+      [
+        "/services/emergency-water-extraction/",
+        "Emergency water extraction"
+      ],
+      [
+        "/services/structural-drying-services/",
+        "Structural drying services"
+      ],
+      [
+        "/services/mold-remediation-after-water-damage/",
+        "Mold remediation after water damage"
+      ]
+    ]
+  },
+  "fire-damage": {
+    "image": "smoke-damage-cleanup",
+    "intro": "Fire and smoke damage resources explain the decisions that follow a fire: securing access, evaluating soot and belongings, addressing firefighting water, and planning repairs. You may be looking at several different kinds of damage in the same room. Use these guides to understand the sequence and prepare a clearer discussion about the proposed recovery work.",
+    "sections": [
+      [
+        "Begin with access and the initial scope",
+        "The first-steps guide covers the transition from the emergency response to restoration planning. Access authorization comes before a cleanup visit inside a damaged building. Once the property is available for evaluation, we will document visible conditions and explain any immediate protection, removal, or water-cleanup needs within the proposed scope."
+      ],
+      [
+        "Understand what smoke cleanup includes",
+        "Residue on walls, cabinets, textiles, and belongings needs more than a single general cleaning instruction. The smoke and soot guide explains why the affected surfaces matter. We will distinguish materials proposed for cleaning from those requiring further evaluation or removal, rather than promise that every item or finish can be recovered."
+      ],
+      [
+        "Connect the cleanup plan to reconstruction",
+        "An area can look cleaner while still needing drying, damaged-material removal, or repair planning. The reconstruction guide explains the handoff between these stages. We will record progress and explain outstanding conditions before repairs begin, including work that must be coordinated with a separate provider or trade."
+      ],
+      [
+        "Keep a usable record of the loss",
+        "Photographs, contents lists, and written scopes help keep decisions organized when several people are involved. Preserve the records of work already completed and identify who can approve changes. An estimate should make clear which stage of recovery it addresses; policy coverage and claim decisions remain matters to confirm with the insurer."
+      ]
+    ],
+    "guides": [
+      [
+        "first-steps-after-a-house-fire-dallas",
+        "The first decisions after a house fire"
+      ],
+      [
+        "smoke-soot-and-odor-removal-dallas",
+        "Smoke, soot, and affected surfaces"
+      ],
+      [
+        "structural-rebuild-after-fire-dallas",
+        "Planning the move from cleanup to rebuilding"
+      ]
+    ],
+    "links": [
+      [
+        "/services/emergency-board-up-after-fire/",
+        "Emergency board up after fire"
+      ],
+      [
+        "/services/smoke-damage-cleanup/",
+        "Smoke damage cleanup"
+      ],
+      [
+        "/services/fire-damaged-contents-cleaning/",
+        "Fire damaged contents cleaning"
+      ]
+    ]
+  },
+  "mold": {
+    "image": "mold-removal-behind-drywall",
+    "intro": "Mold resources help you describe a suspected problem, understand the role of moisture, and prepare for a remediation discussion. A stain under a sink, growth behind a removed cabinet, and recurring dampness in a wall raise different questions. Start with the guide that matches what you have observed rather than trying to identify the whole scope from a photograph.",
+    "sections": [
+      [
+        "Describe the signs and the moisture history",
+        "The early-signs guide explains observations worth discussing at a visit. Note where you first saw the problem, whether it followed a leak, and whether the area becomes damp again. Existing photographs and source-repair records can make that conversation more useful, but appearance alone does not establish what is happening inside every affected material."
+      ],
+      [
+        "Understand why fixing the leak is only one step",
+        "Stopping a leak addresses the source; it does not automatically resolve growth or materials already affected. The after-a-leak guide connects source repair, drying, and the possibility of a separate remediation scope. Humidity guidance is useful when dampness returns without an obvious new plumbing incident."
+      ],
+      [
+        "Keep assessment, remediation, and clearance distinct",
+        "Assessment evaluates conditions and may establish a work scope. Remediation is the removal and cleaning work, while independent clearance evaluates completed work where applicable. We will explain which steps apply to your project and identify the responsible provider before work begins. A plan should make those responsibilities understandable without promising a test result."
+      ],
+      [
+        "Prepare for the return to repairs",
+        "Before closing a wall or replacing a cabinet, the applicable removal, cleaning, moisture repair, and follow-up steps need to be addressed. We will record progress and explain the status and remaining dependencies. Use the focused service pages below when you are ready to discuss a bathroom, kitchen, or concealed-material problem rather than general prevention."
+      ]
+    ],
+    "guides": [
+      [
+        "spotting-small-mold-problems-early-dallas",
+        "Signs worth documenting before a visit"
+      ],
+      [
+        "preventing-mold-after-a-water-leak-dallas",
+        "Mold concerns after a repaired leak"
+      ],
+      [
+        "controlling-humidity-and-moisture-dallas",
+        "Understanding recurring indoor dampness"
+      ]
+    ],
+    "links": [
+      [
+        "/services/bathroom-mold-removal/",
+        "Bathroom mold removal"
+      ],
+      [
+        "/services/kitchen-cabinet-mold-removal/",
+        "Kitchen cabinet mold removal"
+      ],
+      [
+        "/services/mold-removal-behind-drywall/",
+        "Mold removal behind drywall"
+      ]
+    ]
+  },
+  "sewage-plumbing": {
+    "image": "toilet-overflow-cleanup",
+    "intro": "Sewage and plumbing resources explain the difference between resolving a backup and restoring the rooms it affected. If wastewater has reached flooring, cabinets, or adjoining spaces, clearing the drain does not finish the cleanup. These guides help you organize the source repair, cleanup scope, documentation, and decisions about affected materials.",
+    "sections": [
+      [
+        "Start with the backup and where it traveled",
+        "The response guide is the starting point when an overflow has just occurred. Describe the fixture or drain involved, whether the flow continues, and which rooms were reached. We will discuss the condition of the affected space and the status of the source repair before agreeing on the cleanup work."
+      ],
+      [
+        "Separate plumbing work from restoration",
+        "A blockage, a damaged line, and wastewater inside a room are related problems with different tasks. The causes guide helps explain that distinction. The plumbing provider addresses the source; the restoration scope covers the affected property. We will identify the proposed work and coordinate its sequence with repairs already arranged."
+      ],
+      [
+        "Make material decisions part of the estimate",
+        "Carpet, flooring layers, lower drywall, cabinetry, and belongings may need different decisions after exposure. A cleanup proposal should identify what will be removed, what will be cleaned, and how remaining materials will be evaluated and dried. We will explain those decisions instead of treating a visibly dry surface as the only completion condition."
+      ],
+      [
+        "Prepare for documentation and repairs",
+        "Keep photographs and records of the source repair with the cleanup estimate. Insurance questions depend on the policy and circumstances, so use the coverage guide to prepare the discussion with your insurer rather than assume a result. We will record progress and explain what remains before replacement finishes and reconstruction begin."
+      ]
+    ],
+    "guides": [
+      [
+        "what-to-do-during-a-sewage-backup-dallas",
+        "Understanding the initial cleanup sequence"
+      ],
+      [
+        "common-causes-of-sewer-backups-dallas",
+        "The source problem versus the affected property"
+      ],
+      [
+        "sewage-backup-insurance-coverage-dallas",
+        "Preparing questions about coverage"
+      ]
+    ],
+    "links": [
+      [
+        "/services/sewage-backup-cleanup/",
+        "Sewage backup cleanup"
+      ],
+      [
+        "/services/toilet-overflow-cleanup/",
+        "Toilet overflow cleanup"
+      ],
+      [
+        "/services/crawl-space-sewage-cleanup/",
+        "Crawl space sewage cleanup"
+      ]
+    ]
+  },
+  "home-restoration": {
+    "image": "ceiling-water-damage-cleanup",
+    "intro": "Home restoration resources help you plan the work after cleanup has left open walls, missing flooring, or damaged rooms awaiting repair. You may need to compare a reconstruction estimate, choose materials, or understand why one stage must finish before another begins. Start here to organize those decisions and the information each provider needs.",
+    "sections": [
+      [
+        "Establish what is ready to rebuild",
+        "The reconstruction guide explains the transition from removal and cleanup to repairs. Review the source-repair status, drying information, and any remaining assessment or clearance steps before planning new finishes. We will explain the condition of the work area and the dependencies that must be resolved before closing it back up."
+      ],
+      [
+        "Compare scopes rather than headline prices",
+        "A useful estimate identifies rooms, materials, included tasks, and work assigned to separate providers. The contractor-selection guide helps you prepare that discussion. We will distinguish replacement of damaged finishes from optional changes and explain how additional findings could affect the scope before expanding agreed work. Written changes also make later decisions easier to trace."
+      ],
+      [
+        "Keep design choices and approvals in the sequence",
+        "Finishes, cabinet dimensions, material availability, trade work, and project-specific approvals can influence when each stage proceeds. The planning guides explain how those decisions fit together. Requirements should be checked for the actual jurisdiction and work involved; a general article cannot establish the permit requirements for a particular property."
+      ],
+      [
+        "Make progress understandable",
+        "We will record progress, explain what is complete, and identify the next decisions and dependencies. Keep the approved scope, photographs, product selections, and changes in one place so everyone is working from the same information. Before the final walkthrough, clarify any outstanding items and the planned next step for each."
+      ]
+    ],
+    "guides": [
+      [
+        "reconstruction-after-major-damage-dallas",
+        "The sequence from restoration to reconstruction"
+      ],
+      [
+        "choosing-a-restoration-contractor-in-texas-dallas",
+        "Comparing providers and written scopes"
+      ],
+      [
+        "rebuild-timeline-and-cost-dallas",
+        "Understanding cost and scheduling variables"
+      ]
+    ],
+    "links": [
+      [
+        "/services/construction-remodeling/",
+        "Reconstruction and remodeling"
+      ],
+      [
+        "/services/ceiling-water-damage-cleanup/",
+        "Ceiling water damage cleanup"
+      ],
+      [
+        "/services/mold-removal-behind-drywall/",
+        "Mold removal before wall repairs"
+      ]
+    ]
+  }
+}

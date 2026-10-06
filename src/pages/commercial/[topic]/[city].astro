@@ -1,0 +1,13 @@
+---
+import topics from '../../../utils/commercial-expansion-topics';
+import {commercialCityCopies as copies, isCommercialCityAvailable} from '../../../utils/commercial-city-editorial';
+import originalCities from '../../../data/cities-dfw-metro.json';
+import expandedCities from '../../../data/cities-dfw-expanded.json';
+import CommercialExpansionPage from '../../../components/CommercialExpansionPage.astro';
+export function getStaticPaths() {
+  const cities = [...originalCities,...expandedCities].filter((city,index,all) => all.findIndex(other => other.slug === city.slug) === index);
+  return topics.filter(topic => !topic.reuseExistingRoutes).flatMap(topic => cities.filter(city => isCommercialCityAvailable(topic.slug,city.slug) && copies[`${topic.slug}/${city.slug}`]).map(city => ({params:{topic:topic.slug,city:city.slug},props:{topic,city,copy:copies[`${topic.slug}/${city.slug}`]}})));
+}
+const {topic,city,copy} = Astro.props;
+---
+<CommercialExpansionPage topic={topic} city={city} copy={copy} />

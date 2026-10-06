@@ -1,0 +1,193 @@
+{
+  "W1": {
+    "heading": "Could mold become part of the cleanup?",
+    "text": "Removing standing water is an early step; affected materials still need attention. If you have also found growth after the leak, describe its location when calling so the scope can include the mold concern.",
+    "links": [
+      "M3",
+      "M4"
+    ]
+  },
+  "W2": {
+    "heading": "Mold concerns after a burst pipe",
+    "text": "A pipe repair may leave you with questions about the wall around the break. Tell us if growth is visible in the opened area or appeared after an earlier leak, so remediation can be considered alongside the water cleanup.",
+    "links": [
+      "M4",
+      "M3"
+    ]
+  },
+  "W3": {
+    "heading": "When an appliance leak also involves mold",
+    "text": "If you find growth behind an appliance or inside a nearby cabinet, mention it before the visit. The affected location helps us distinguish water cleanup from additional remediation work.",
+    "links": [
+      "M2",
+      "M3"
+    ]
+  },
+  "W4": {
+    "heading": "Mold concerns after rain enters the building",
+    "text": "If you notice growth where rain entered, the cleanup request should include both the moisture source and the affected materials. Attic and concealed-wall concerns may need a different scope from extracting water in the room below.",
+    "links": [
+      "M5",
+      "M4"
+    ]
+  },
+  "W7": {
+    "heading": "Drying and mold removal are different tasks",
+    "text": "If visible growth is already present, tell us before drying is planned. The proposal should identify any remediation separately instead of treating equipment placement as the entire solution.",
+    "links": [
+      "M3",
+      "M4"
+    ]
+  },
+  "W8": {
+    "heading": "What if mold is found beneath the floor?",
+    "text": "Let us know if an opened floor reveals suspected mold on underlying materials. The decision about retaining flooring needs to account for that finding as well as the water damage.",
+    "links": [
+      "M3",
+      "M6"
+    ]
+  },
+  "W9": {
+    "heading": "When ceiling damage includes a mold concern",
+    "text": "If growth is found in a ceiling opening, include it in the request for cleanup. A roof-related concern may also involve the attic; the relevant service depends on where the affected material is located.",
+    "links": [
+      "M4",
+      "M5"
+    ]
+  },
+  "W5": {
+    "heading": "Mold concerns around an AC leak",
+    "text": "Describe any growth on the ceiling or wall near the leaking unit. Building-material remediation and HVAC equipment diagnosis are separate scopes; a stain or odor alone does not establish the full extent of either problem.",
+    "links": [
+      "M4",
+      "M3"
+    ]
+  },
+  "W10": {
+    "heading": "Water removal or crawl space mold remediation?",
+    "text": "If suspected mold is also visible on the framing beneath the house, include that observation in your request. We can discuss both needs without assuming extraction covers remediation.",
+    "links": [
+      "M6",
+      "M3"
+    ]
+  },
+  "S2": {
+    "heading": "An overflow with an existing mold concern",
+    "text": "If you find growth near the vanity or affected wall after an overflow, tell us where it is. Sewage cleanup and mold remediation need clearly identified scopes, even when they concern the same room.",
+    "links": [
+      "M1",
+      "M4"
+    ]
+  },
+  "S4": {
+    "heading": "Sewage cleanup and mold beneath the house",
+    "text": "A crawl space may have more than one cleanup concern. Share existing inspection findings about suspected mold on wood or other materials so that need can be distinguished from sewage removal.",
+    "links": [
+      "M6",
+      "M4"
+    ]
+  },
+  "F1": {
+    "heading": "If firefighting water also affected your kitchen",
+    "text": "If the response left cabinets or walls wet, include that water damage in the cleanup request. Any visible growth found during the work should be evaluated as an additional concern rather than attributed to smoke.",
+    "links": [
+      "M2",
+      "M3"
+    ]
+  },
+  "F2": {
+    "heading": "Smoke residue and mold need different evaluations",
+    "text": "Smoke odor or a dark mark alone does not establish that mold is present. If the property also experienced water damage and suspected growth, describe those conditions separately so the right cleanup scope can be discussed.",
+    "links": [
+      "M3",
+      "M4"
+    ]
+  },
+  "F3": {
+    "heading": "Additional findings during removal",
+    "text": "If removing fire-damaged materials reveals suspected mold, record that finding before extending the scope. The work may need a separate remediation plan in addition to fire-debris removal.",
+    "links": [
+      "M4",
+      "M3"
+    ]
+  },
+  "F4": {
+    "heading": "Belongings affected by more than smoke",
+    "text": "Mention any known moisture exposure or suspected mold when items are inventoried. A proposal for fire-related contents cleaning should explain separately how those additional findings will be handled.",
+    "links": [
+      "M7"
+    ]
+  },
+  "F5": {
+    "heading": "If there is also water damage",
+    "text": "Extinguisher residue does not by itself establish a mold problem. If your incident also involved water exposure and you have noticed suspected growth, include that concern when requesting the cleanup assessment.",
+    "links": [
+      "M3"
+    ]
+  },
+  "F6": {
+    "heading": "After temporary boarding",
+    "text": "Boarding damaged openings does not address water already inside the property. If you also have wet materials or suspected mold, arrange the next cleanup stage and identify any remediation needs separately.",
+    "links": [
+      "M3"
+    ]
+  },
+  "M1": {
+    "heading": "If the concern extends beyond the bathroom",
+    "text": "A bathroom request may also involve the concealed wall behind a fixture. If opening the area reveals more affected material, discuss the revised scope before repairs continue.",
+    "links": [
+      "M4",
+      "M3"
+    ]
+  },
+  "M2": {
+    "heading": "If the wall behind the cabinets is affected",
+    "text": "Kitchen cleanup can involve more than the cabinet box. Describe any affected wall material or belongings so those tasks are included in the appropriate scope.",
+    "links": [
+      "M4",
+      "M7"
+    ]
+  },
+  "M3": {
+    "heading": "Choose the affected area",
+    "text": "The location of growth helps narrow the remediation request. Cabinet interiors, bathroom walls, and concealed building materials each raise different access and repair questions.",
+    "links": [
+      "M2",
+      "M1",
+      "M4"
+    ]
+  },
+  "M4": {
+    "heading": "Where does the affected wall lead?",
+    "text": "Tell us which room contains the opening and whether the concern extends above or below it. That context helps connect wall-material removal with the rest of the property\u2019s remediation plan.",
+    "links": [
+      "M1",
+      "M2",
+      "M5"
+    ]
+  },
+  "M5": {
+    "heading": "If the concern reaches the ceiling below",
+    "text": "Attic findings and damage in the room beneath may need coordinated work. Identify both areas when requesting a scope rather than assuming the attic work includes the finished ceiling.",
+    "links": [
+      "M4",
+      "M3"
+    ]
+  },
+  "M6": {
+    "heading": "If belongings or interior materials are also affected",
+    "text": "Tell us about any separate concern inside the building as well as the findings beneath it. Each affected area should be identified in the proposal so its access and cleanup needs are clear.",
+    "links": [
+      "M4",
+      "M7"
+    ]
+  },
+  "M7": {
+    "heading": "Coordinate belongings and building cleanup",
+    "text": "If the room itself also needs remediation, coordinate contents handling with that work. Identify which provider is responsible for belongings and which scope covers affected walls, cabinets, or other building materials.",
+    "links": [
+      "M4",
+      "M2"
+    ]
+  }
+}

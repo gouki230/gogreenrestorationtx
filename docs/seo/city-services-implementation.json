@@ -1,0 +1,18 @@
+{
+  "status": "local review drafts; not production-ready",
+  "cities": 30,
+  "topics": 24,
+  "draft_pages": 720,
+  "uniqueness_threshold": 60,
+  "uniqueness_passed": 0,
+  "build_command": "npm run build:city-preview",
+  "production_build": "npm run build excludes all 720 draft routes",
+  "catalog": "/city-service-preview/",
+  "generated_image": {
+    "provider": "Higgsfield",
+    "job_id": "14c33d7f-5076-4fb0-bff6-ad8741a65a5e",
+    "path": "/images/service-guides/restoration-planning-higgsfield-1280.webp",
+    "use": "Labeled conceptual illustration; no claim of a real job"
+  },
+  "remaining": "Editorial rewriting of city-specific body copy to satisfy 60% minimum; factual local claims must be supported."
+}

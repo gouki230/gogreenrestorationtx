@@ -1,4 +1,6 @@
 ---
+interface Props { omitOfficeCopy?: boolean }
+const { omitOfficeCopy = false } = Astro.props;
 const currentYear = new Date().getFullYear();
 ---
 
@@ -14,7 +16,7 @@ const currentYear = new Date().getFullYear();
         <p class="text-brand-gray-200 text-sm mb-4">
           Bonded and insured restoration company serving the Dallas–Fort Worth metroplex with eco-friendly 24/7 emergency services.
         </p>
-        <p class="text-brand-gray-200 text-sm mb-4">Serving Dallas–Fort Worth from Wylie</p>
+        <p class="text-brand-gray-200 text-sm mb-4">Serving All Dallas–Fort Worth</p>
         <!-- Social Media -->
         <div class="flex gap-3">
           <a href="https://www.facebook.com/p/Go-Green-Restoration-Inc-100076639845534/" target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="w-9 h-9 rounded-full bg-brand-gray-800 hover:bg-brand-orange flex items-center justify-center transition-colors">
@@ -63,13 +65,13 @@ const currentYear = new Date().getFullYear();
         <a href="tel:+14697273217" class="text-2xl font-bold text-brand-orange hover:text-brand-orange-light transition-colors block mb-4">
           (469) 727-3217
         </a>
-        <div class="text-brand-gray-200 text-sm space-y-3 mb-4">
+        {!omitOfficeCopy && <div class="text-brand-gray-200 text-sm space-y-3 mb-4">
           <div>
             <p class="font-medium text-white">Wylie Office</p>
             <p>611 S State Hwy 78 Suite 133B</p>
             <p>Wylie, TX 75098</p>
           </div>
-        </div>
+        </div>}
         <ul class="space-y-2">
           <li><a href="/contact/" class="text-brand-gray-200 hover:text-white text-sm transition-colors">Contact Us</a></li>
           <li><a href="/about/" class="text-brand-gray-200 hover:text-white text-sm transition-colors">About Us</a></li>

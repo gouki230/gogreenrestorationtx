@@ -1,7 +1,11 @@
 ---
+import RealEstateLinks from '../../../components/RealEstateLinks.astro';
+import { compactServiceUrl } from '../../../utils/compact-city-pages';
+import { compactTopicsForArticle } from '../../../utils/compact-links';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import articles from '../../../data/blog-articles.json';
+import indexingArticleOverrides from '../../../data/indexing-article-overrides.json';
 import cities from '../../../data/cities-dfw-metro.json';
 
 const clusterData: Record<string, { name: string; serviceSlug: string | null; serviceName: string | null }> = {
@@ -16,11 +20,12 @@ const clusterData: Record<string, { name: string; serviceSlug: string | null; se
 export function getStaticPaths() {
   return articles.map((article) => ({
     params: { cluster: article.cluster, article: article.slug },
-    props: { article },
+    props: { article: { ...article, ...(indexingArticleOverrides as Record<string, { description: string; content: string; image: string; imageAlt: string; imageGenerated: boolean }>)[article.slug] } },
   }));
 }
 
 const { article } = Astro.props;
+const compactTopics = compactTopicsForArticle(article.slug);
 const cluster = { slug: article.cluster, ...clusterData[article.cluster] };
 const articleCity = [...cities].sort((a,b)=>b.slug.length-a.slug.length).find(c=>article.slug.endsWith(`-${c.slug}`));
 const relatedArticles = articles.filter(a => a.cluster === article.cluster && a.slug !== article.slug).sort((a,b) => Number(Boolean(articleCity && b.slug.endsWith(`-${articleCity.slug}`))) - Number(Boolean(articleCity && a.slug.endsWith(`-${articleCity.slug}`)))).slice(0, 3);
@@ -95,23 +100,26 @@ function renderContent(content: string): string {
         </div>
         <h1 class="font-heading text-3xl lg:text-4xl font-black text-brand-gray-900 mb-4">{article.title}</h1>
         {article.image && (
-          <img src={article.image} alt={article.imageAlt || article.title} class="w-full rounded-xl mb-6" loading="eager" width="1200" height="630" />
+          <img src={article.image} alt={article.imageAlt || article.title} class="w-full rounded-xl mb-6" loading="eager" width={article.imageGenerated ? 1280 : 1200} height={article.imageGenerated ? 716 : 630} />
         )}
+        {article.imageGenerated && <p class="text-sm text-brand-gray-600 mb-6">AI-generated service illustration; not a photograph of a completed local project.</p>}
         <p class="text-lg text-brand-gray-600 mb-8 border-b border-brand-gray-200 pb-8">{article.description}</p>
 
         {articleCity && cluster.serviceSlug && <aside class="bg-brand-warm rounded-xl p-5 mb-8">
-          <p>{cluster.slug === 'mold' ? 'Have a mold concern? Contact us for cleanup within our current scope of less than 25 contiguous square feet or help routing larger projects and independent assessment to the appropriate licensed provider.' : `Need help at a ${articleCity.name} property? Review the service scope and contact our Wylie-based team to discuss access and availability.`}</p>
+          <p>{cluster.slug === 'mold' ? 'Have a mold concern? Contact Go Green Restoration TX Inc about your property, the affected rooms and the next step.' : `Need help at a ${articleCity.name} property? Review the service scope and contact our team to discuss access and availability.`}</p>
           <a href={`/${cluster.serviceSlug}/${articleCity.slug}/`} class="inline-block mt-3 text-brand-brown underline">{cluster.slug === 'mold' ? 'Mold removal and remediation help' : cluster.serviceName} in {articleCity.name}</a>
         </aside>}
         {cluster.slug === 'hoa-property-management' && <p class="mb-8"><a href="/commercial/hoa-restoration-services/" class="text-brand-brown underline">HOA property restoration planning</a> · <a href="/commercial/property-management-restoration/" class="text-brand-brown underline">Restoration for property managers</a></p>}
         <div class="prose max-w-none" set:html={renderContent(article.content)} />
+        {compactTopics.length > 0 && <aside class="bg-brand-warm rounded-xl p-5 my-8"><h2 class="font-heading text-xl font-bold mb-3">Planning cleanup at your property?</h2><p class="mb-3">These service pages explain first-visit details, scope decisions, and information to share when requesting an estimate.</p><ul class="list-disc pl-5">{compactTopics.map(topic => <li><a class="text-brand-brown underline" href={compactServiceUrl(topic.slug,articleCity?.slug)}>{topic.name}</a></li>)}</ul></aside>}
 
+        {['hidden-water-damage-warning-signs-plano','structural-drying-and-mold-prevention-frisco','spotting-small-mold-problems-early-plano','rebuild-timeline-and-cost-frisco'].includes(article.slug) && <RealEstateLinks kind={article.cluster === 'mold' ? 'mold' : article.cluster === 'water-damage' ? 'water' : 'repair'} />}
         {articleCity && <p class="mt-8 text-brand-gray-600">For help with other damage at the same property, explore <a class="text-brand-brown underline" href={`/locations/dfw-metro/${articleCity.slug}/`}>restoration services in {articleCity.name}</a>.</p>}
 
         <!-- CTA -->
         <div class="mt-12 bg-brand-warm-100 rounded-xl p-8">
           <h2 class="font-heading text-xl font-bold text-brand-gray-900 mb-3">Need Professional Help?</h2>
-          <p class="text-brand-gray-600 mb-4">Go Green Restoration TX Inc serves Dallas–Fort Worth from Wylie. Contact us to discuss your property and the appropriate service scope.</p>
+          <p class="text-brand-gray-600 mb-4">Go Green Restoration TX Inc serves Dallas–Fort Worth. Contact us to discuss your property and the appropriate service scope.</p>
           <div class="flex flex-col sm:flex-row gap-4">
             <a href="tel:+14697273217" class="bg-brand-green hover:bg-brand-green-light text-white font-bold px-6 py-3 rounded-lg text-center transition-colors">Call (469) 727-3217</a>
             {cluster.serviceSlug && (

@@ -1,0 +1,14 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import topics from '../utils/commercial-expansion-topics';
+import cities from '../utils/commercial-service-cities';
+import {commercialCityCopies as copies} from '../utils/commercial-city-editorial';
+export function getStaticPaths() { return import.meta.env.COMMERCIAL_CITY_PREVIEW === '1' ? [{params:{commercialPreview:'commercial-expansion-preview'}}] : []; }
+---
+<BaseLayout title="Commercial expansion review drafts | Go Green Restoration TX Inc" description="Local commercial restoration draft directory for editorial review." noindex={true} omitOfficeCopy={true}>
+  <article class="max-w-5xl mx-auto px-4 py-10">
+    <h1 class="text-3xl font-bold mb-6">Commercial expansion review drafts</h1>
+    <p class="mb-8">Only written drafts appear here. The full assignment covers 206 cities and ten topics; this directory does not establish completion or publication readiness.</p>
+    {topics.map(topic => <section class="mb-8"><h2 class="text-2xl font-bold mb-4"><a class="underline" href={`/commercial/${topic.slug}/`}>{topic.name} — DFW owner</a></h2><ul class="grid grid-cols-2 sm:grid-cols-3 gap-3">{cities.filter(city => copies[`${topic.slug}/${city.slug}`]).map(city => <li><a class="underline" href={`/commercial/${topic.slug}/${city.slug}/`}>{city.name}</a></li>)}</ul></section>)}
+  </article>
+</BaseLayout>

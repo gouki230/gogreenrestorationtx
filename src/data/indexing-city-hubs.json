@@ -1,0 +1,76 @@
+{
+  "grand-prairie": {
+    "image": "structural-drying-services",
+    "intro": "Restoration services in Grand Prairie help when water, smoke, wastewater, or mold has damaged rooms you still need to use. You may have stopped a leak but found damp flooring in the next room, or you may be looking at open walls after cleanup. We will explain the condition, define the proposed work, and establish what has to happen before repairs begin.",
+    "sections": [
+      [
+        "Choose the service that matches the current problem",
+        "If water remains in the property, the first discussion is about the source, extraction, and the materials it reached. If the surface is dry but walls or floors remain damp, the next decision may concern structural drying. Visible growth after a leak needs a separate mold discussion rather than a promise that ordinary drying will resolve every affected material."
+      ],
+      [
+        "Account for occupied rooms and connected spaces",
+        "Tell us whether residents, tenants, or staff need to stay in part of the building while work proceeds. We will discuss access to affected rooms, equipment placement, and the person who can approve the scope. Include adjoining rooms or floors in your description so the evaluation is not limited to the first visible patch of damage."
+      ],
+      [
+        "Understand the difference between source repair and restoration",
+        "A repaired supply line, cleared drain, or extinguished fire leaves a second question: what happened to the building and its contents? We will identify the cleanup and removal needs within our proposed scope and explain responsibilities for separate trades or providers. That keeps the repair sequence clear when more than one company is involved."
+      ],
+      [
+        "Move toward reconstruction with a documented status",
+        "We will record progress and explain remaining cleanup, moisture, or material concerns before replacement finishes are installed. The estimate should identify included work and any decisions still outstanding. Share source-repair invoices, existing reports, and photographs when available so the next stage builds on work already completed."
+      ]
+    ],
+    "focused": [
+      [
+        "emergency-water-extraction",
+        "Standing water and emergency extraction"
+      ],
+      [
+        "structural-drying-services",
+        "Damp materials after the water is removed"
+      ],
+      [
+        "mold-remediation-after-water-damage",
+        "Mold concerns following a water loss"
+      ]
+    ],
+    "contact": "For your Grand Prairie property, send the address, affected rooms, and current source-repair status. We will confirm availability and an arrival estimate for the address."
+  },
+  "grapevine": {
+    "image": "smoke-damage-cleanup",
+    "intro": "Restoration services in Grapevine help when an incident leaves you deciding what can be cleaned, what needs removal, and when the property can be repaired. Soot on cabinets, wastewater across a floor, and a damp wall after a leak each need a different plan. We will review your situation and explain the service that fits the damage you are dealing with.",
+    "sections": [
+      [
+        "Start with what changed in the property",
+        "Describe the event and the condition you can see now, including work already performed. Smoke residue may involve belongings as well as room surfaces; water may have reached materials beneath a visible finish. We will use that information to prepare for the visit and explain which areas require evaluation before defining the scope."
+      ],
+      [
+        "Make decisions about materials before choosing finishes",
+        "A cleanup estimate and a reconstruction estimate answer different questions. The first addresses affected materials and the proposed cleaning, drying, or removal; the second sets out the repairs that follow. We will distinguish those stages so you can understand whether a cabinet, ceiling, floor, or wall is ready for replacement work."
+      ],
+      [
+        "Keep approvals and access organized",
+        "For a managed property, identify the contact who can authorize the work and the person who will provide entry. For an occupied home, tell us which rooms need to remain accessible and whether other repairs are scheduled. We will explain practical arrangements within the agreed scope, including access for equipment and coordination with separate providers."
+      ],
+      [
+        "Resolve remaining conditions before rebuilding",
+        "Progress will be recorded and the status explained as work proceeds. If a leak-related mold concern requires its own scope, that will be discussed before repaired finishes conceal the area. We will identify outstanding work and the sequence needed for reconstruction rather than assume that a room is ready because it looks cleaner."
+      ]
+    ],
+    "focused": [
+      [
+        "smoke-damage-cleanup",
+        "Smoke residue on rooms and belongings"
+      ],
+      [
+        "toilet-overflow-cleanup",
+        "Wastewater after a toilet overflow"
+      ],
+      [
+        "mold-removal-behind-drywall",
+        "Affected material behind a damaged wall"
+      ]
+    ],
+    "contact": "Include the Grapevine property address, the type of damage, and any access or approval arrangements. We will confirm current availability and explain the next step."
+  }
+}
