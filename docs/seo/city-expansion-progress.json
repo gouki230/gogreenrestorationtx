@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-04",
-  "status": "creation_paused_verified_subset_release_in_progress",
+  "status": "creation_paused_verified_subset_published",
   "automationId": "complete-go-green-dfw-city-expansion",
   "scope": {
     "cities": 206,
@@ -11,12 +11,13 @@
   "verifiedCompactPassed": 2328,
   "verifiedCompactRemaining": 2616,
   "qualityRule": "At least60% normalized rendered five-word phrase uniqueness, plus separate editorial usefulness review. No city swapping, spinning, invented evidence or metric exclusions to force passing.",
-  "publication": "October 6 user supersedes all-or-nothing restriction: publish verified subset now after integrated release checks. Preserve unverified drafts for October 13 resumption.",
+  "publication": "Verified subset published October 6 under explicit user authorization; remaining 2808 general-city pages paused until October 13, 4:40 PM America/Chicago.",
   "activeAssignments": [],
   "nextSteps": [
-    "Independently review Royse City six-record first draft before continuing its cohort.",
-    "Continue remaining general compact and core editorial content under exclusive assignments.",
-    "Final integrated review and publication only after both expansions and pending approved changes are complete."
+    "Resume October 13 at4:40PM America/Chicago; no new creation before then.",
+    "Review six Royse City drafts independently, then finish remaining general-city work.",
+    "Preserve expansion-release-manifest.json published allowlists. Extend only after verification; never treat published URLs as leaks in draft isolation checks.",
+    "Production verification scripts now support --mode production. Preview phrase checks and separate editorial review remain required for new drafts."
   ],
   "cities": [
     {
@@ -1669,8 +1670,15 @@
     }
   ],
   "completedAwaitingRenderedAudit": {
-    "paths": [],
-    "note": "Rosser six independently accepted and rendered verified."
+    "paths": [
+      "/locations/dfw-metro/royse-city/",
+      "/water-damage-restoration/royse-city/",
+      "/mold-remediation/royse-city/",
+      "/fire-smoke-damage-restoration/royse-city/",
+      "/sewage-backup-cleanup/royse-city/",
+      "/construction-remodeling/royse-city/"
+    ],
+    "note": "Six source drafts preserved, not independently reviewed or published."
   },
   "realEstateKeywordOwners": {
     "paths": [
@@ -2260,9 +2268,9 @@
       "note": "Independent five repair acceptance plus prior construction acceptance; full core phrase/technical/isolation checks passed. No throughput forecast from interrupted repair."
     }
   ],
-  "updatedUTC": "2026-10-06T21:25:07.880767+00:00",
+  "updatedUTC": "2026-10-06T21:51:27.138307+00:00",
   "coreEditorial": {
-    "authored": 1044,
+    "authored": 1050,
     "hubPhrasePassed": 174,
     "mainServicePhrasePassed": 870,
     "remainingEditorial": 192,
@@ -2331,5 +2339,16 @@
     "pending": "Integrate prepared hub/propertyowner copies, promote only after bothscopes complete and finalreview/liveverification."
   },
   "creationResumeAt": "2026-10-13T16:40:00-05:00",
-  "releaseManifest": "src/data/expansion-release-manifest.json"
+  "releaseManifest": "src/data/expansion-release-manifest.json",
+  "release": {
+    "status": "published_live_verified",
+    "commit": "f6e29c9",
+    "deployedAtUTC": "2026-10-06T21:51:27.138307+00:00",
+    "verifiedCityPagesPublished": 5432,
+    "corePages": 1044,
+    "compactPages": 2328,
+    "commercialCityPages": 2060,
+    "report": "docs/seo/verified-subset-release-report.md",
+    "liveVerification": "docs/seo/release-live-verification.json"
+  }
 }

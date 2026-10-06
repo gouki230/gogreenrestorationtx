@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-06",
-  "status": "commercial_drafts_verified_release_handoff_pending",
+  "status": "commercial_published_live_verified",
   "scope": {
     "cities": 206,
     "topics": 10,
@@ -5074,7 +5074,7 @@
   ],
   "authoredCityTopics": 2060,
   "commercialContentComplete": true,
-  "overallReleaseComplete": false,
+  "overallReleaseComplete": true,
   "finalDraftVerification": {
     "checkedAt": "2026-10-06T05:31:40.939082+00:00",
     "cityPages": 2060,
@@ -7219,5 +7219,14 @@
     "checkedAt": "2026-10-06T05:33:16.033797+00:00",
     "finalCoordination": "Source-owned complete-go-green-dfw-city-expansion and hourly-go-green-expansion-progress-review remain ACTIVE; overall release remains pending. Source owns final integrated publication and automation cleanup."
   },
-  "releaseScopeUpdate": "October 6 user authorized currently verified subset publication while remaining general creation pauses until October 13. Root integrates and verifies release."
+  "releaseScopeUpdate": "October 6 user authorized currently verified subset publication while remaining general creation pauses until October 13. Root integrates and verifies release.",
+  "release": {
+    "commit": "f6e29c9",
+    "verifiedAtUTC": "2026-10-06T21:51:27.138307+00:00",
+    "cityPages": 2060,
+    "regionalOwners": 10,
+    "overviewOwners": 2,
+    "liveReport": "docs/seo/release-live-verification.json",
+    "note": "Commercial scope published. General remaining expansion paused, not complete."
+  }
 }

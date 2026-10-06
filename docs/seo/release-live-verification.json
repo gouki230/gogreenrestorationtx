@@ -1,0 +1,109 @@
+{
+  "checkedAt": "2026-10-06T21:50:55.838355+00:00",
+  "commit": "f6e29c9",
+  "deployment": "feec8920-a882-400d-beeb-e388c8449a19",
+  "cloudflare": "success",
+  "liveSitemapUrls": 6249,
+  "approvedExpansionUrlsInLiveSitemap": 5442,
+  "missingApprovedUrls": 0,
+  "previewDirectoriesListed": false,
+  "unverifiedRoyseCoreListed": false,
+  "samples": [
+    {
+      "path": "/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/",
+      "robots": null,
+      "bodyBytes": 89461,
+      "workiz": null
+    },
+    {
+      "path": "/locations/dfw-metro/rosser/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/locations/dfw-metro/rosser/",
+      "robots": null,
+      "bodyBytes": 41593,
+      "workiz": null
+    },
+    {
+      "path": "/mold-remediation/dallas/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/mold-remediation/dallas/",
+      "robots": null,
+      "bodyBytes": 50569,
+      "workiz": null
+    },
+    {
+      "path": "/emergency-water-extraction/greenville/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/emergency-water-extraction/greenville/",
+      "robots": null,
+      "bodyBytes": 38799,
+      "workiz": null
+    },
+    {
+      "path": "/commercial/fire-sprinkler-water-damage-cleanup/white-settlement/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/commercial/fire-sprinkler-water-damage-cleanup/white-settlement/",
+      "robots": null,
+      "bodyBytes": 37392,
+      "workiz": null
+    },
+    {
+      "path": "/commercial/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/commercial/",
+      "robots": null,
+      "bodyBytes": 37634,
+      "workiz": null
+    },
+    {
+      "path": "/commercial/commercial-properties/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/commercial/commercial-properties/",
+      "robots": null,
+      "bodyBytes": 37515,
+      "workiz": null
+    },
+    {
+      "path": "/real-estate/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/real-estate/",
+      "robots": null,
+      "bodyBytes": 37428,
+      "workiz": null
+    },
+    {
+      "path": "/services/mold-remediation-before-closing/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/services/mold-remediation-before-closing/",
+      "robots": null,
+      "bodyBytes": 37989,
+      "workiz": null
+    },
+    {
+      "path": "/contact/",
+      "status": "200",
+      "canonical": "https://gogreenrestorationtx.com/contact/",
+      "robots": null,
+      "bodyBytes": 35640,
+      "workiz": true
+    },
+    {
+      "path": "/locations/dfw-metro/royse-city/",
+      "status": "404",
+      "canonical": "https://gogreenrestorationtx.com/404/",
+      "robots": null,
+      "bodyBytes": 29170,
+      "workiz": null
+    },
+    {
+      "path": "/city-service-preview/",
+      "status": "404",
+      "canonical": "https://gogreenrestorationtx.com/404/",
+      "robots": null,
+      "bodyBytes": 29170,
+      "workiz": null
+    }
+  ]
+}
