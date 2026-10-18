@@ -37,6 +37,16 @@ export default defineConfig({
       if (expandedCitySlugs.has(path.split('/').pop())) return false;
       return !compactTopics.some(topic => path.startsWith(`/${topic.slug}/`));
     },
+    // Chunks run after the publication filter above; unmatched URLs become
+    // sitemap-pages-0.xml (main website and regional service pages).
+    // Each URL belongs to exactly one group, with automatic size-based splitting.
+    chunks: {
+      'city-hubs': (item) => /^\/locations\/dfw-metro\/[^/]+\/$/.test(new URL(item.url).pathname) ? item : undefined,
+      'main-service-cities': (item) => /^\/(water-damage-restoration|fire-smoke-damage-restoration|mold-remediation|sewage-backup-cleanup|construction-remodeling)\/[^/]+\/$/.test(new URL(item.url).pathname) ? item : undefined,
+      'compact-service-cities': (item) => compactTopics.some(topic => new URL(item.url).pathname.startsWith(`/${topic.slug}/`)) ? item : undefined,
+      commercial: (item) => new URL(item.url).pathname.startsWith('/commercial/') ? item : undefined,
+      resources: (item) => new URL(item.url).pathname.startsWith('/resources/') ? item : undefined,
+    },
     changefreq: 'weekly',
     priority: 0.7,
     serialize(item) {

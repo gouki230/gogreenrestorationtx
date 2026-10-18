@@ -1,0 +1,44 @@
+{
+  "index": "sitemap-index.xml",
+  "totalUrls": 7569,
+  "baselineUrls": 7569,
+  "sitemaps": [
+    {
+      "file": "sitemap-city-hubs-0.xml",
+      "group": "city-hubs",
+      "urls": 206,
+      "bytes": 29134
+    },
+    {
+      "file": "sitemap-main-service-cities-0.xml",
+      "group": "main-service-cities",
+      "urls": 1030,
+      "bytes": 148042
+    },
+    {
+      "file": "sitemap-compact-service-cities-0.xml",
+      "group": "compact-service-cities",
+      "urls": 3456,
+      "bytes": 511414
+    },
+    {
+      "file": "sitemap-commercial-0.xml",
+      "group": "commercial",
+      "urls": 2072,
+      "bytes": 326537
+    },
+    {
+      "file": "sitemap-resources-0.xml",
+      "group": "resources",
+      "urls": 757,
+      "bytes": 132460
+    },
+    {
+      "file": "sitemap-pages-0.xml",
+      "group": "pages",
+      "urls": 48,
+      "bytes": 6996
+    }
+  ],
+  "errors": []
+}

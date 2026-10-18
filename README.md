@@ -71,3 +71,9 @@ All cities live in `src/data/cities-dfw-metro.json` and render under `/locations
 - **Collin County:** Plano, Frisco, McKinney, Allen, Prosper, Wylie
 - **Denton County:** Lewisville, Denton, Flower Mound, The Colony
 - **Rockwall County:** Rockwall
+
+## Grouped XML sitemaps
+
+`/sitemap-index.xml` remains the stable entry point advertised by robots.txt. Astro's sitemap integration groups already-filtered published URLs into city hubs, main service-city pages, compact service-city pages, commercial pages, resources, and remaining main/regional pages. Each group automatically splits at the integration's URL limit as the site grows. Publication allowlists and draft exclusions still run before grouping.
+
+Verification: `scripts/verify-sitemap-groups.py` compares the generated inventory with a prior production URL sitemap and checks duplication, file limits, approved coverage and held-route exclusions. October 18 grouping evidence: `docs/seo/organized-sitemap-verification.json`. Creation jobs remain paused.
