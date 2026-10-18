@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/krum": {
+    "intro": "Emergency water extraction in Krum can involve a leak that fills a lower room while water remains shallow in the adjoining hallway. We will collect the deeper accumulation and the thin water left along the higher floor as separate parts of extraction. Furniture and floor transitions can prevent one equipment pass from reaching both.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Krum: reach the lower floor safely",
+        "text": "We will identify the step, standing-water depth and utilities before setting the collection route. Contents blocking the low area will be moved to a protected dry location where their condition permits, with wet rugs kept apart from unaffected flooring."
+      },
+      {
+        "title": "Change the collection method as the water level falls",
+        "text": "Equipment that removes a deeper pool can leave a shallow film around furniture feet or at the step. We will follow with suitable surface extraction at reachable edges and corners rather than finish when the main pool disappears."
+      },
+      {
+        "title": "Check what the step and thresholds concealed",
+        "text": "We will inspect accessible trim and adjoining floor layers for water that remained behind the visible edge. Swollen material, trapped water and retained damp layers receive their own opening or drying decisions before furnishings return."
+      }
+    ],
+    "estimate": "Floor levels, water condition, furniture access and the layers adjoining the low area determine extraction and follow-up work.",
+    "checklist": [
+      "Describe steps or sunken areas within the wet rooms.",
+      "Identify heavy furniture and rugs in standing water.",
+      "Report the source and any electrical concerns."
+    ]
+  },
+  "burst-pipe-cleanup/krum": {
+    "intro": "Burst pipe cleanup in Krum can involve renewed water during plumbing checks after the first damaged section has been repaired. We will keep the affected area accessible, collect the new release and revise drying for any materials wetted again. The plumber controls supply restoration and investigates any additional failure.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Krum: coordinate access for the source check",
+        "text": "We will remove accessible standing water and arrange the opened work area so the plumber can inspect the repaired line. Dry replacement materials and contents will be kept away from a connection still awaiting its service check."
+      },
+      {
+        "title": "Respond to additional leakage before closing the opening",
+        "text": "If the plumbing check reveals another release, the plumber will control the source while restoration collects reachable water under safe conditions. Newly wet insulation or finishes will be assessed alongside the original damage, with unsuitable layers removed rather than left behind because the first repair was complete."
+      },
+      {
+        "title": "Restart material checks from the latest wetting",
+        "text": "Retained framing and floor layers will receive current readings after the source work is resolved. Earlier drying progress will not substitute for checking the materials reached by the new release, and wall closure will follow both the plumber’s repair status and the updated restoration findings."
+      }
+    ],
+    "estimate": "Additional release locations, plumbing access, newly wetted layers and the condition of retained materials determine the revised work.",
+    "checklist": [
+      "Share the original break and subsequent plumbing findings.",
+      "Describe water appearing during or after source checks.",
+      "Identify finishes or insulation that became wet again."
+    ]
+  },
+  "appliance-leak-cleanup/krum": {
+    "intro": "Appliance leak cleanup in Krum can be needed when repeated leakage from a portable humidifier has soaked a rug and the floor beneath it. We will separate the wet rug from the concealed floor contact and determine whether the building materials need more than surface drying. The appliance’s leak or operating problem receives its own correction.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Krum: distinguish a liquid spill from excess room moisture",
+        "text": "We will review where water appeared and inspect the surface beneath the unit and rug. A leaking reservoir and condensation elsewhere in the room need different source responses; the equipment manufacturer or service provider can address the unit without assuming all damp surfaces came from the same spill."
+      },
+      {
+        "title": "Lift the rug to expose the wet floor",
+        "text": "Included wet rugs and pads will be moved under handling suited to their condition, with contents cleaning assessed separately. Reachable water will be collected from the exposed floor, and the finish, seams and nearby base will be checked for moisture or damage hidden by the covering."
+      },
+      {
+        "title": "Return the covering only after the floor and rug are ready",
+        "text": "Suitable retained floor material will be cleaned as needed and dried, while swollen or unsuitable layers receive a repair decision. The rug and pad must also have an appropriate completed condition before they cover the floor again, with the humidifier source resolved separately."
+      }
+    ],
+    "estimate": "Length of repeated wetting, rug and pad condition, floor construction and the actual moisture source determine the cleanup scope.",
+    "checklist": [
+      "Describe the humidifier and where water was found.",
+      "Identify rugs or pads beneath the wet area.",
+      "Report repeated refilling, leaks or room condensation."
+    ]
+  },
+  "storm-water-damage-cleanup/krum": {
+    "intro": "Storm water damage cleanup in Krum can involve wind-driven rain through a window that was left open, soaking curtains, the sill and flooring below. We will collect the interior water and separate washable contents from wet building layers. An open window does not automatically mean the window assembly needs replacement.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Krum: establish how rain entered",
+        "text": "We will review the reported opening and inspect reachable sill, wall and floor surfaces once further entry is controlled. Damage or continuing leakage after the window is closed warrants a separate window-provider evaluation rather than an assumed frame defect."
+      },
+      {
+        "title": "Remove wet window furnishings to reach the receiving surfaces",
+        "text": "Included curtains or blinds will be handled according to their materials so water held against the sill or wall can be addressed. Reachable liquid and windblown debris will be collected before compatible cleaning of retained surfaces; fabric cleaning remains a separate contents task."
+      },
+      {
+        "title": "Dry the sill and floor edge before rehanging coverings",
+        "text": "Moisture checks will follow accessible trim, wall backing and floor layers below the opening. Softened board or unsuitable absorbent material will be removed where needed, while retained components dry without a wet curtain resting against them again."
+      }
+    ],
+    "estimate": "Rain entry, window furnishings, sill construction and the floor or wall layers reached determine cleanup and drying needs.",
+    "checklist": [
+      "Describe whether the window was open when rain entered.",
+      "Identify wet curtains, blinds and flooring.",
+      "Report continued entry after the opening was closed."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/krum": {
+    "intro": "AC leak water damage cleanup in Krum can involve water inside an air-handler closet that reaches the return-air opening and nearby wall base. We will treat the wet building surfaces while the HVAC provider evaluates the equipment and air path. Drying the closet floor does not establish the condition of material behind the return grille.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Krum: separate the closet from the air path",
+        "text": "We will collect reachable water and check the closet floor, lower wall and accessible grille surround. The HVAC provider determines whether the return assembly, insulation or equipment interior needs service and establishes any operating restrictions."
+      },
+      {
+        "title": "Open wet building layers without using the return as a drying duct",
+        "text": "Approved damaged trim or wallboard will be removed with controls that keep debris out of the air opening. We will clean and dry suitable exposed building surfaces, coordinating grille or equipment movement when that is needed to reach them."
+      },
+      {
+        "title": "Restore access and finishes after both scopes are addressed",
+        "text": "The HVAC provider confirms the condensate correction and any work within its equipment or air path. Restoration will report the closet materials treated, remaining moisture and repair needs before replacement finishes make those surfaces inaccessible."
+      }
+    ],
+    "estimate": "Closet construction, return-air access, wet wall layers and HVAC restrictions determine the building cleanup plan.",
+    "checklist": [
+      "Identify the air-handler closet and return grille location.",
+      "Describe where condensate reached the wall or floor.",
+      "Share HVAC findings and operating restrictions."
+    ]
+  },
+  "bathroom-mold-removal/krum": {
+    "intro": "Bathroom mold removal in Krum can involve affected material behind a bathtub’s removable access panel while the tiled face looks intact. We will use that access to define the material needing treatment and determine whether the opening is large enough to complete it. Plumbing and bath-panel work will be coordinated with the appropriate provider.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Krum: inspect through the available access",
+        "text": "The provider will examine the reachable floor, framing and backing around the tub connections. A dry panel face does not establish the condition below the bath, and an opening used for a valve repair may leave other affected surfaces out of reach."
+      },
+      {
+        "title": "Expand access only when treatment requires it",
+        "text": "Unsuitable porous backing or insulation will be removed under the selected remediation controls. Suitable retained surfaces will receive physical cleaning, with panel or surround release coordinated where the existing hatch does not allow the affected material to be reached."
+      },
+      {
+        "title": "Keep the bath enclosure open for the remaining checks",
+        "text": "The plumbing provider will verify its correction while connections remain accessible. Retained components will be checked for drying, and any required independent evaluation will precede replacement of the access panel or other enclosing finishes."
+      }
+    ],
+    "estimate": "Bath-enclosure access, affected backing, plumbing connections and the extent reachable through the panel determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Describe the tub access panel or other existing opening.",
+      "Identify plumbing work and recurring dampness beneath the tub.",
+      "Share assessment findings for concealed bathroom material."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/krum": {
+    "intro": "Kitchen cabinet mold removal in Krum can involve growth on drawer bottoms and the cabinet surfaces behind them after a leak. We will evaluate the removable drawers separately from the fixed cabinet so cleaning an exposed face does not leave affected material in the drawer openings. Recovery depends on each component’s construction and condition.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Krum: remove drawers to expose the cabinet interior",
+        "text": "Under the work controls, drawers will be identified and removed where their fittings permit safe release. The provider will inspect their undersides, the reachable cabinet partitions and the floor of each opening, including surfaces normally hidden when the drawer closes."
+      },
+      {
+        "title": "Separate cleanable finishes from damaged composite material",
+        "text": "Swollen fiberboard bottoms or affected absorbent liners may require removal rather than washing. Suitable retained cabinet surfaces and hardware will receive controlled particle collection and compatible cleaning, with the finish response checked before broader treatment."
+      },
+      {
+        "title": "Dry components before refitting the drawers",
+        "text": "Drawers and cabinet interiors will remain separated while suitable retained materials dry and the source is corrected. Replacement panels, damaged runners and any inaccessible rear material will have explicit repair or access decisions before the drawers conceal the cabinet again."
+      }
+    ],
+    "estimate": "Drawer construction, affected liners and bottoms, access behind the runners and fixed cabinet condition determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Describe which drawers or openings show changes.",
+      "Identify swollen bottoms, liners and fixed partitions.",
+      "Share the leak-repair and assessment findings."
+    ]
+  },
+  "mold-remediation-after-water-damage/krum": {
+    "intro": "Mold remediation after water damage in Krum can be needed when a room was dried but affected material is later found above an earlier flood-cut opening. We will review the new findings and treat the material actually involved, including any area the first opening did not reach. The earlier drying record remains useful without defining the new remediation boundary.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Krum: revisit the old opening",
+        "text": "The provider will compare the prior removal line with accessible wall backing and insulation above it. New findings may require a larger controlled opening, while unaffected sections will not be included solely because they share the same wall."
+      },
+      {
+        "title": "Treat the remaining layer rather than repeating the original surface pass",
+        "text": "Specified affected porous board or insulation will be removed and contained. Suitable exposed framing will receive physical cleaning through access that reaches the newly identified area; a treatment applied only below the old cut cannot address material still covered above it."
+      },
+      {
+        "title": "Resolve the revised scope before rebuilding",
+        "text": "The provider will record the additional material treated and confirm whether moisture correction remains necessary. Drying and independent assessment or applicable clearance will be addressed for the revised work before insulation and wallboard return."
+      }
+    ],
+    "estimate": "Previous cut height, newly identified material, insulation reach and current moisture conditions determine the revised remediation scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share records or photos of the original water cleanup.",
+      "Describe the location of newly reported growth.",
+      "Identify repairs already installed over earlier openings."
+    ]
+  },
+  "mold-removal-behind-drywall/krum": {
+    "intro": "Mold removal behind drywall in Krum can involve two layers of wallboard where removing the room-side sheet leaves another layer covering the cavity. We will distinguish the layers requiring removal from those that can remain and provide access to the material specified for treatment. Rebuilding the wall assembly is a separate finish and construction task.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Krum: identify each board layer",
+        "text": "The provider will inspect the existing opening and available construction information before extending it. Staggered seams or a second board layer can conceal affected backing even when the first sheet has been removed."
+      },
+      {
+        "title": "Expose the treatment area through the required layers",
+        "text": "Affected porous board will be removed under the selected controls and packaged as it is released. Suitable retained framing or other surfaces will receive physical cleaning only where access reaches them; cleaning the exposed second sheet does not establish that its hidden face or the cavity was treated."
+      },
+      {
+        "title": "Restore the specified wall construction after remediation",
+        "text": "Drying and required independent evaluation will be addressed while the treated area remains accessible. The repair provider will receive the layer arrangement and opening dimensions so any required fire, sound or structural assembly details are restored appropriately."
+      }
+    ],
+    "estimate": "Board-layer arrangement, affected backing, utility conflicts and the required repair assembly determine access and reconstruction needs. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Describe visible board layers at any existing opening.",
+      "Share available wall-construction or repair records.",
+      "Identify concealed utilities and prior assessment findings."
+    ]
+  },
+  "attic-mold-remediation/krum": {
+    "intro": "Attic mold remediation in Krum can involve growth on roof framing beside insulated HVAC ducts, raising a practical question about what needs treatment inside the air system. We will define the attic-surface work separately from the HVAC provider’s inspection. Growth on nearby wood does not by itself establish that every duct needs cleaning or replacement.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Krum: distinguish building growth from duct contamination",
+        "text": "The mold provider will identify the affected sheathing, framing and building insulation, while the HVAC provider examines any reported duct concern. The duct jacket, insulation and internal air surface are different components; an exterior mark does not establish the condition inside. Suspected system contamination requires the appropriate operating restrictions before work disturbs the area."
+      },
+      {
+        "title": "Replace confirmed wet or moldy duct insulation rather than coat it",
+        "text": "Where the HVAC findings identify wet or moldy duct insulation, that material requires removal and replacement rather than ordinary surface cleaning. The qualified HVAC provider will handle the affected duct components and their connections under the coordinated work controls. The scope will identify the sections involved instead of using nearby attic growth to justify replacement of the whole system."
+      },
+      {
+        "title": "Treat the attic surfaces exposed by the duct work",
+        "text": "With required duct movement coordinated, the mold provider will contain specified unsuitable building insulation and physically clean suitable reachable wood. Source correction, drying and any required independent evaluation will precede replacement materials that would cover those surfaces. The HVAC provider restores its insulation and connections and determines system readiness separately from completion of the attic-surface work."
+      }
+    ],
+    "estimate": "Attic-surface findings, confirmed duct-insulation condition and the access required around HVAC components determine the separate work scopes. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share the attic assessment and any HVAC inspection findings.",
+      "Identify whether concerns were reported on wood, duct exterior or internal insulation.",
+      "Describe system operating restrictions and moisture-source repairs."
+    ]
+  },
+  "crawl-space-mold-remediation/krum": {
+    "intro": "Crawl space mold remediation in Krum can involve affected insulation beneath the floor where an intact-looking facing hides the absorbent layer above it. We will assess the insulation and the wood it covers separately. Wiping the exposed facing does not treat growth within the insulation or on concealed floor surfaces.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Krum: assess the insulation as a layered material",
+        "text": "The provider will check accessible insulation edges, attachment and adjacent framing under suitable entry controls. Facing condition will be recorded separately from the insulation body and underside of the subfloor."
+      },
+      {
+        "title": "Remove unsuitable insulation to reach the wood",
+        "text": "Affected insulation that cannot be appropriately cleaned will be released and contained without shaking debris through the crawl space. The newly accessible joists and subfloor will be evaluated and suitable retained surfaces physically cleaned within the defined remediation area."
+      },
+      {
+        "title": "Keep replacement insulation out until the floor is ready",
+        "text": "Moisture correction and drying will be addressed while the wood is exposed, with independent evaluation where required. The installer will receive the treated boundary and remaining access limits before new insulation conceals the underside again."
+      }
+    ],
+    "estimate": "Insulation construction, attachment, safe crawl clearance and affected wood above the insulation determine the work. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Describe the insulation and any visible facing.",
+      "Report sagging sections, dampness or plumbing leaks.",
+      "Share assessment findings for the underside of the floor."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/krum": {
+    "intro": "Mold contaminated contents cleaning in Krum can involve curtains with affected hems or lining after they rested against a damp wall or sill. We will evaluate the face fabric, lining and hardware before deciding what treatment is suitable. Cleaning the fabric remains separate from correcting the wet surface behind it.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Krum: take down the affected window coverings",
+        "text": "Included coverings will be removed under the selected work controls without shaking deposits through the room. Labels, lining construction and visible damage will guide whether the fabric can be treated, needs specialist care or should be discarded."
+      },
+      {
+        "title": "Choose treatment for the complete curtain construction",
+        "text": "A washable face fabric does not establish that an attached lining, coating or decoration tolerates the same process. Accepted material will receive controlled particle removal and an appropriate textile-cleaning method, with a limited treatment evaluation where the response is uncertain."
+      },
+      {
+        "title": "Dry and inspect before rehanging",
+        "text": "The provider will check the accepted fabric for remaining damage and explain limitations that cleaning cannot reverse. Cleaned coverings will be appropriately dry before return, and the wall, sill and support hardware will have their own completed moisture and cleaning work so the fabric is not placed back against an unresolved surface."
+      }
+    ],
+    "estimate": "Fabric and lining construction, care labels, affected area and the practical treatment limits determine contents recovery. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Identify curtain fabrics, linings and care labels if available.",
+      "Describe contact with a damp wall or sill.",
+      "Flag valuable or delicate window coverings for specialist review."
+    ]
+  },
+  "crawl-space-water-removal/krum": {
+    "intro": "Crawl space water removal in Krum can require changing a temporary discharge route when pumped water collects outside and returns beneath the building. We will assess the intake and discharge ends together before continuing the same setup. A running pump cannot empty a space effectively while its own discharge is feeding the pool.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Krum: check where removed water goes",
+        "text": "We will review the water condition, permitted disposal destination and accessible route outside the crawl space. A wet area near the hose outlet will be checked for return toward the foundation rather than automatically attributed to a separate groundwater source."
+      },
+      {
+        "title": "Redirect collection through a suitable discharge route",
+        "text": "The temporary hose arrangement will be revised to reach the approved destination without releasing water beside the entry point. Hose capacity, elevation and routing must suit the selected equipment, with the outlet monitored rather than left where it can move back toward the building."
+      },
+      {
+        "title": "Confirm the pool responds after the outlet changes",
+        "text": "Reachable water levels will be checked while collection proceeds. Continued entry after the corrected arrangement may require drainage or plumbing work, and wet insulation or framing still receives its own material assessment and drying after extraction."
+      }
+    ],
+    "estimate": "Discharge destination, hose route, water condition and continuing entry determine the temporary collection arrangement.",
+    "checklist": [
+      "Describe where an existing pump discharges.",
+      "Report water pooling outside near the foundation.",
+      "Share source findings and any disposal restrictions."
+    ]
+  },
+  "crawl-space-sewage-cleanup/krum": {
+    "intro": "Crawl space sewage cleanup in Krum can involve wastewater lying on a ground cover and passing through its torn or open seams. We will distinguish contamination on the sheet from material reached beneath it. Replacing the cover alone cannot resolve sewage that escaped onto the ground.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Krum: inspect the cover and its edges",
+        "text": "After safe access and source control are established, we will identify pooled wastewater, damaged seams and reachable contact with supports or insulation. Ground hidden beneath intact-looking sheeting will remain unconfirmed until the agreed access exposes it."
+      },
+      {
+        "title": "Collect wastewater before removing the contaminated cover",
+        "text": "Accessible liquid and solids will be collected using appropriate controls and disposal arrangements. Covering designated for removal will be contained during handling, with suitable retained hard surfaces physically cleaned and disinfected as specified for the material and product."
+      },
+      {
+        "title": "Resolve below-cover contamination before replacement",
+        "text": "Exposed ground requiring additional treatment or removal will receive a qualified scope decision rather than being hidden under a new sheet. Wet retained building components will be dried, and the plumbing correction and ground-cover replacement will be coordinated after the contacted areas are addressed."
+      }
+    ],
+    "estimate": "Ground-cover condition, wastewater beneath seams, contacted building material and safe access determine cleanup and specialist needs.",
+    "checklist": [
+      "Describe tears, seams or pooled water on the ground cover.",
+      "Share the drain repair status.",
+      "Identify any wastewater visible beyond the covering."
+    ]
+  },
+  "toilet-overflow-cleanup/krum": {
+    "intro": "Toilet overflow cleanup in Krum can involve wastewater crossing a bathroom threshold into a linen closet or carpeted hall. We will treat the hard bathroom floor, absorbent adjoining flooring and stored belongings as different recovery decisions. The dry-looking threshold will not set the cleanup boundary.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Krum: follow contact into the adjoining space",
+        "text": "We will establish the release type and trace reachable water through the doorway and along the closet base. Towels, baskets and low shelves that absorbed the release will be separated from unaffected belongings under the cleanup controls."
+      },
+      {
+        "title": "Remove unsuitable absorbent layers before cleaning the base",
+        "text": "Wastewater and debris will be collected, and contacted porous flooring or padding that cannot be appropriately cleaned will be contained for removal. Suitable retained hard surfaces will be cleaned and disinfected with a method compatible with the finish and intended use."
+      },
+      {
+        "title": "Keep contents recovery separate from the floor repair",
+        "text": "The owner will receive item-specific cleaning, specialist or disposal decisions for affected stored goods. Exposed retained floor and wall materials will be dried before replacement finishes and approved belongings return, with fixture correction verified by the plumber."
+      }
+    ],
+    "estimate": "Wastewater contact beyond the doorway, carpet or padding, closet contents and lower-wall condition determine scope.",
+    "checklist": [
+      "Describe rooms reached beyond the bathroom.",
+      "Identify towels, baskets or other low stored items contacted.",
+      "Share whether the toilet blockage or source has been corrected."
+    ]
+  },
+  "fire-damaged-debris-removal/krum": {
+    "intro": "Fire damaged debris removal in Krum can involve broken glass mixed with ceiling fragments and ash across a room. We will collect the mixed debris with handling suited to sharp pieces and fine residue. Flooring beneath the debris receives a separate recovery decision after the released area is cleared.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Krum: distinguish loose fragments from unstable material",
+        "text": "Fire and structural access restrictions will be resolved before collection begins. We will identify hanging glass or damaged overhead components needing qualified release instead of pulling them into the loose debris pile."
+      },
+      {
+        "title": "Contain sharp waste during removal",
+        "text": "Approved glass and building fragments will be collected into containers suitable for their sharp edges and weight. Fine residue will receive controlled collection rather than dry sweeping across the room, with the carrying route protected from escaped fragments."
+      },
+      {
+        "title": "Inspect the floor after bulk debris is gone",
+        "text": "We will check accessible joints, edges and floor condition for remaining fragments and residue. Carpet or other porous material containing embedded debris may require removal, while suitable retained hard flooring receives further cleaning before it is treated as ready for use."
+      }
+    ],
+    "estimate": "Glass and fragment volume, overhead restrictions, floor type and the protected carrying route determine removal scope.",
+    "checklist": [
+      "Identify broken glazing and fallen building material.",
+      "Share access restrictions and released work areas.",
+      "Describe the floor beneath the debris."
+    ]
+  },
+  "fire-damaged-contents-cleaning/krum": {
+    "intro": "Fire damaged contents cleaning in Krum can include smoke-affected clothing that is also wet from the fire response. We will separate washable garments from items requiring dry cleaning or specialist care before processing. Heat damage, dye changes and persistent residue can limit recovery even when fabric can be washed.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Krum: sort garments by care requirements",
+        "text": "The contents provider will check labels, fabric condition and exposure before grouping garments for treatment. Dry-clean-only items, leather and fragile decorations will remain separate from ordinary washable clothing."
+      },
+      {
+        "title": "Evaluate cleaning on suitable garments before treating the group",
+        "text": "Accepted washable items will receive a compatible textile-cleaning process, with a limited trial where color or finish response is uncertain. The provider will evaluate remaining residue and odor rather than assume one wash cycle completes the work, and any repeat treatment will stay within the garment’s care limits."
+      },
+      {
+        "title": "Dry and protect clothing before packing",
+        "text": "Cleaned items will be dried appropriately before protected storage or return. Wet or untreated garments will not be mixed into completed loads, and damaged items will have a separate repair or disposal decision rather than being represented as restored."
+      }
+    ],
+    "estimate": "Garment quantity, care labels, water and soot exposure, and specialist needs determine the contents-cleaning plan.",
+    "checklist": [
+      "Identify priority garments and care-label restrictions.",
+      "Describe smoke, heat and water exposure.",
+      "Flag leather, delicate fabrics or decorated clothing."
+    ]
+  },
+  "smoke-damage-cleanup/krum": {
+    "intro": "Smoke damage cleanup in Krum can be needed after a wall was repainted while soot remained, leaving a changed finish and an unresolved residue problem. We will evaluate the coating and underlying surface before choosing further cleaning or removal. Another coat of paint will not be treated as proof that smoke deposits were addressed.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Krum: identify what was applied over the residue",
+        "text": "We will review the cleaning and coating history and make a limited finish assessment where appropriate. Blistering, peeling or discoloration can have several causes, so the appearance will not by itself determine which layers must come off."
+      },
+      {
+        "title": "Separate recoverable finish from coating that blocks treatment",
+        "text": "The work plan will identify whether suitable cleaning can reach the affected surface or whether an agreed finish layer requires removal. Suspect regulated materials require the appropriate evaluation before disturbance, and released surfaces will receive controlled residue collection and compatible cleaning."
+      },
+      {
+        "title": "Prepare for refinishing after the surface condition is resolved",
+        "text": "Remaining odor, staining and coating damage will be evaluated after accessible deposits are removed. The finish provider will receive the actual substrate condition and any moisture or preparation needs before priming or repainting, with concealed smoke sources retaining their own investigation."
+      }
+    ],
+    "estimate": "Coating history, finish adhesion, reachable residue and substrate condition determine the cleaning and refinishing boundary.",
+    "checklist": [
+      "Share paint products and any cleaning already attempted.",
+      "Describe peeling, discoloration or remaining odor.",
+      "Identify earlier fire and water exposure at the wall."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/krum": {
+    "intro": "Fire extinguisher residue cleanup in Krum can involve powder across a bed, its frame and the floor after a nearby discharge. We will separate washable bedding, the mattress and accessible hard surfaces before treatment. Cleaning the frame does not establish that powder inside the mattress has been removed.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Krum: identify the agent before handling bedding",
+        "text": "The extinguisher label and safety information will guide collection and handling controls. Loose bedding will be removed without shaking powder across the room, and each material group will remain identifiable for cleaning or a separate recovery decision."
+      },
+      {
+        "title": "Reach the frame and floor beneath the bed",
+        "text": "After suitable handling of the mattress and bedding, accessible powder on the frame, support surfaces and floor will be collected with equipment appropriate to the agent. Compatible detailed cleaning will address remaining deposits at joints and edges, without blowing them into mattress seams or neighboring furnishings."
+      },
+      {
+        "title": "Resolve the mattress separately from washable covers",
+        "text": "Accepted bedding follows its care requirements and the confirmed agent guidance through cleaning and drying. A mattress with affected inaccessible padding needs a specialist or disposal decision before return; a clean outer cover will not be used as proof that its interior is ready for use."
+      }
+    ],
+    "estimate": "Agent identification, bedding materials, mattress exposure and access beneath the bed determine the treatment and contents decisions.",
+    "checklist": [
+      "Provide the extinguisher label or agent name.",
+      "Describe powder on bedding, mattress seams and the frame.",
+      "Identify heat or smoke damage affecting the same items."
+    ]
+  },
+  "kitchen-fire-cleanup/krum": {
+    "intro": "Kitchen fire cleanup in Krum can involve soot inside cabinets even where their closed doors show little heat damage. We will empty the included cabinets and evaluate interior shelves and backs separately from the outside finish. Food and kitchenware require their own disposition or cleaning decisions.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Krum: expose the cabinet interiors",
+        "text": "Contents will be removed under an agreed handling plan so the shelf faces, corners and reachable backs can be inspected. Cabinet exteriors will not stand in for an examination of concealed residue inside the storage space."
+      },
+      {
+        "title": "Clean intact surfaces and identify heat-damaged parts",
+        "text": "Suitable retained surfaces will receive residue collection and compatible cleaning, including removable shelves where they provide better access. Lifted laminate, distorted panels or damaged coatings may need replacement even after soot is removed."
+      },
+      {
+        "title": "Keep food and utensils out until the storage area is ready",
+        "text": "The owner will receive separate decisions for exposed food and accepted kitchenware rather than a general declaration that everything in the cabinet is reusable. Cleaned cabinet parts will dry before refitting, and any appliance or concealed smoke-source work will remain visible in the repair scope."
+      }
+    ],
+    "estimate": "Interior soot reach, cabinet finish, removable shelves, heat damage and affected contents determine the kitchen scope.",
+    "checklist": [
+      "Identify cabinets nearest the fire and any visible interior residue.",
+      "Describe damaged laminate or warped shelves.",
+      "List food and kitchenware needing separate review."
+    ]
+  },
+  "emergency-board-up-after-fire/krum": {
+    "intro": "Emergency board up after fire in Krum can involve broken narrow glass panels beside a front door that must remain available for authorized entry. We will plan separate temporary closures for those openings while preserving the door’s required operation. Glass removal, attachment and access are assessed together before panels are fitted.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Krum: assess the door and neighboring openings",
+        "text": "The installer will check sound receiving structure after fire and structural restrictions are resolved. Loose glazing and damaged trim will be handled before a panel is placed, with door movement and required exit clearance included in the layout."
+      },
+      {
+        "title": "Fit each closure without trapping the working door",
+        "text": "Temporary panels will be sized and secured to the suitable support identified for each opening. The arrangement will avoid relying on loose decorative trim or extending across a required working door; an unsuitable frame needs a different attachment or repair plan."
+      },
+      {
+        "title": "Test the access arrangement and plan permanent glazing",
+        "text": "The installer will check the door’s opening and closing and inspect the temporary edges and attachments. The closure provides temporary protection while permanent frame and glazing repairs are arranged, without certifying occupancy or a permanent security rating."
+      }
+    ],
+    "estimate": "Glazing dimensions, remaining frame condition, attachment access and required door operation determine the temporary closure.",
+    "checklist": [
+      "Identify broken glass beside or above doors.",
+      "Share required entry, exit and investigation access.",
+      "Describe frame damage and site-release restrictions."
+    ]
+  },
+  "floor-water-damage-cleanup/krum": {
+    "intro": "Floor water damage cleanup in Krum can involve sheet vinyl that looks intact while water is trapped beneath an edge or at a damaged seam. We will evaluate the backing and supporting floor before deciding whether a local opening is enough. A continuous sheet may not lift and reset like separate floating planks.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Krum: identify the bond and backing",
+        "text": "The floor provider’s product information and accessible edges help distinguish the sheet, adhesive and underlying material. We will check where water entered and avoid treating the dry walking surface as evidence that the backing is dry."
+      },
+      {
+        "title": "Open only a section that can answer the moisture question",
+        "text": "Where lifting or removal is appropriate, the agreed opening will expose the wet backing and base for assessment. Unsuitable absorbent backing or damaged underlayment will be removed, while suitable retained substrate is cleaned as needed and monitored during drying."
+      },
+      {
+        "title": "Confirm the finish repair before closing the exposed floor",
+        "text": "The installer will determine whether the sheet can be repaired or needs replacement based on its product and condition. New adhesive or a seam repair will follow the substrate requirements and source correction, rather than seal moisture beneath the finish."
+      }
+    ],
+    "estimate": "Sheet-vinyl construction, bond condition, water entry and substrate access determine removal, drying and finish-repair needs.",
+    "checklist": [
+      "Identify the floor product if known.",
+      "Describe loose seams, lifted edges or water beneath the sheet.",
+      "Share source-repair and prior flooring information."
+    ]
+  },
+  "ceiling-water-damage-cleanup/krum": {
+    "intro": "Ceiling water damage cleanup in Krum can involve water concealed by decorative ceiling beams or coffers after the flat panels appear dry. We will assess the decorative pieces and the ceiling behind them separately before choosing access. A hollow trim box and a structural beam require different handling.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Krum: establish what the feature supports",
+        "text": "Available construction information and qualified inspection will guide whether a piece is removable decoration or part of the building’s support. We will check accessible joints and receiving edges without cutting through an unknown beam to investigate a stain."
+      },
+      {
+        "title": "Release suitable trim to reach wet backing",
+        "text": "Where authorized decorative sections can be safely removed, the opening will expose trapped water and wet ceiling layers for collection and assessment. Unsuitable board or insulation will be removed as scoped, while suitable retained surfaces receive cleaning and directed drying."
+      },
+      {
+        "title": "Check hollow pieces before refitting them",
+        "text": "The accessible inside faces of retained trim boxes will be checked as well as the ceiling they covered. Distorted or delaminated pieces may need repair or replacement after drying, and reinstatement will follow source correction and the readiness of both the backing and decorative assembly."
+      }
+    ],
+    "estimate": "Ceiling-feature construction, attachment, water reach and accessible backing determine removal, drying and repair needs.",
+    "checklist": [
+      "Describe the decorative beams or recessed ceiling pattern.",
+      "Share construction information if available.",
+      "Identify wet joints and the leak source above them."
+    ]
+  },
+  "structural-drying-services/krum": {
+    "intro": "Structural drying services in Krum can involve wet flooring beside finished wood cabinets that should not receive a concentrated stream of hot, dry equipment exhaust. We will arrange air movement and dehumidification to serve the wet materials while protecting adjacent finishes. More direct heat at a cabinet face is not automatically better drying.",
+    "sections": [
+      {
+        "title": "Structural drying services in Krum: distinguish the wet layer from neighboring finishes",
+        "text": "We will check the floor and cabinet components to identify what actually needs drying. Suitable retained wet material remains in the drying plan, while nearby finished surfaces are considered when equipment outlets and air paths are positioned."
+      },
+      {
+        "title": "Direct equipment output through the intended drying area",
+        "text": "Dehumidifier exhaust and air movers will be arranged according to the equipment guidance, avoiding concentrated outlet air directly against finished hard surfaces. Circulation will support the exposed wet floor without blocking the dehumidifier’s airflow or using a cabinet face as the stopping point for its discharge."
+      },
+      {
+        "title": "Check both moisture progress and finish condition",
+        "text": "Repeat readings will track the included wet layers, with the setup adjusted as the material response changes. Adjacent coatings and wood surfaces will also be observed for unwanted effects, and any damaged component will retain its separate repair decision before flooring or trim is reinstated."
+      }
+    ],
+    "estimate": "Wet-layer access, nearby finished wood, equipment airflow and material response determine placement and monitoring.",
+    "checklist": [
+      "Identify finished cabinets or furniture beside wet flooring.",
+      "Describe current equipment outlet positions.",
+      "Share moisture findings and any finish changes."
+    ]
+  }
+}

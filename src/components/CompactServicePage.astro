@@ -1,5 +1,6 @@
 ---
 import RealEstateLinks from './RealEstateLinks.astro';
+import auditDisclosures from '../data/compact-audit-disclosures.json';
 import serviceImages from '../data/compact-service-images.json';
 import moldContexts from '../data/compact-mold-context.json';
 import cities, { isCompactPathReleased, resolveCityLink } from '../utils/service-area-cities';
@@ -63,7 +64,7 @@ const breadcrumbs = [{name:'Home',url:'/'},{name:'Services',url:'/services/'},{n
     {city && !editorial && <section data-uniqueness class="mb-9"><h2>Planning the visit to your {city.name} property</h2><p>Tell us whether the property is occupied and whether we need a gate code, parking instructions, or coordination with a tenant or manager. Describe repairs already arranged so the cleanup provider and repair provider can agree on the sequence.</p><ul><li>Identify who will meet the team and authorize the scope.</li><li>Share any existing inspection findings and photographs.</li><li>Explain which spaces need to remain accessible during work.</li></ul><p>For broader service options, see <a href={resolveCityLink(`/${parent.slug}/${city.slug}/`)}>{parent.name.toLowerCase()} in {city.name}</a> or the <a href={resolveCityLink(`/locations/dfw-metro/${city.slug}/`)}>{city.name} restoration overview</a>.</p></section>}
 
 
-    {page.sections.map(section => <section data-uniqueness class="mb-9"><h2>{section.title}</h2><p>{section.text}</p></section>)}
+    {page.sections.map(section => <section data-uniqueness={auditDisclosures.some(disclosure => disclosure.title === section.title && disclosure.text === section.text) ? undefined : true} class="mb-9"><h2>{section.title}</h2><p>{section.text}</p></section>)}
     {moldContext && <section data-uniqueness class="mb-9"><h2>{moldContext.heading}</h2><p>{moldContext.text}</p>{!page.id.startsWith('M') && <p>Moisture can support mold growth, so source repair and drying matter. See the <a href="https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home">EPA’s guidance on moisture and mold</a>.</p>}<ul>{moldLinks.map(item => <li><a href={resolveCityLink(compactServiceUrl(item.slug,city?.slug))}>{item.name}{city ? ` in ${city.name}` : ''}</a></li>)}</ul></section>}
     <section data-uniqueness class="mb-9"><h2>What affects the estimate and timeline?</h2><p>{page.estimate}</p></section>
     {project && <section data-uniqueness class="mb-9 bg-brand-gray-50 p-6 rounded-xl"><h2>A completed Texas project</h2><p>{project.intro}</p><a href={resolveCityLink(`/projects/${project.caseSlug}/`)}>See the {project.city} project photos and reported outcome →</a></section>}

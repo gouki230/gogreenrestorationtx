@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/joshua": {
+    "intro": "Emergency water extraction in Joshua can use a suitable pneumatic wet-recovery system where the equipped provider has the required compressed-air supply. Expanding air in its ejector creates the low-pressure collection path rather than a rotating electric vacuum motor. We will establish the complete air and water arrangement before accepting that method for the actual release.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Joshua: establish the pneumatic recovery requirements",
+        "text": "The provider identifies the water condition, compatible wet collection equipment and accepted receiving route. The compressed-air source must deliver the required volume as well as operating pressure through the selected hose and connections. A pressure reading with the vacuum stopped does not establish adequate delivery while collection is running."
+      },
+      {
+        "title": "Match the ejector configuration to the available air supply",
+        "text": "For the selected system, the provider uses its supported injector arrangement and checks pressure during operation. Inadequate air delivery calls for a permitted lower-demand nozzle configuration or another suitable recovery setup; extra runtime cannot correct a starved ejector. Wet-use filtration, mist separation and the manufacturer’s specified drum strength remain part of the assembled collection unit."
+      },
+      {
+        "title": "Verify liquid pickup before completing the extraction",
+        "text": "The provider checks actual pickup at the floor and accounts for the air exhaust, noise and equipment routes during collection. Air is isolated and depressurized under the equipment instructions before its pressurized connections are released. Residual pools receive suitable detail recovery, while covered wet material retains its own opening and monitored drying requirements."
+      }
+    ],
+    "estimate": "Water suitability, air-source capacity, nozzle configuration and the waste destination determine feasibility. Equipped-provider pneumatic recovery and subsequent material drying are separately scoped.",
+    "checklist": [
+      "Identify the water source and standing liquid still present.",
+      "Share the proposed pneumatic unit and available air-supply arrangement.",
+      "Describe hose access, receiving capacity and any collection interruptions."
+    ]
+  },
+  "burst-pipe-cleanup/joshua": {
+    "intro": "Burst pipe cleanup in Joshua can proceed beside replacement of a failed plumbing section that uses threaded connections. Where the selected joint seals at its threads, compatible compound fills the thread path during assembly rather than serving as an outside patch. We will coordinate the plumber’s correction with removal of water already released into the building.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Joshua: identify where the replacement connection seals",
+        "text": "The plumber identifies the connection design, materials and required service conditions after isolating the failed source. A tapered pipe-thread connection differs from a compression or slip joint whose nut seats a separate sealing part. Compound is selected for the actual system rather than applied automatically to every visible threaded nut."
+      },
+      {
+        "title": "Prepare the male threads and seat the specified compound",
+        "text": "For an accepted thread-sealing joint, old compound, rust, scale and other deposits are removed from the thread profile. The selected compound is mixed as directed and applied evenly across the male threads so it reaches the gaps before the connection is assembled. Cross-threading or damaged threads require correction; adding another exterior coating does not remake a defective engagement."
+      },
+      {
+        "title": "Test the repaired source while treating the released water",
+        "text": "The plumber completes the prescribed assembly and leak checks before the joint is concealed. Restoration recovers accessible room water, removes specified unsuitable wet material and dries suitable retained backing. Source correction and the condition of the opened wall or floor remain separate findings before finish reinstatement."
+      }
+    ],
+    "estimate": "Thread condition, connection design and wet building layers shape the work. Qualified plumbing replacement and testing remain separate from extraction, drying and finish repair.",
+    "checklist": [
+      "Share the failed source location and plumber’s proposed connection.",
+      "Identify pipe and fitting materials where known.",
+      "Describe wet wall, cabinet or floor layers around the repair access."
+    ]
+  },
+  "appliance-leak-cleanup/joshua": {
+    "intro": "Appliance leak cleanup in Joshua can accompany repair of a leaking push-fit water connection serving a refrigerator or dispenser. Its toothed collet holds the tube while a separate O-ring seals against the tube surface. We will coordinate collection and drying around the qualified provider’s source repair, keeping the connection accessible for its required checks.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Joshua: confirm the connection and tube",
+        "text": "The appliance or plumbing provider isolates the supply and identifies the actual fitting, tube material and supported application. A scored, deformed or wrongly sized tube can prevent an accepted connection. Reachable released water is collected while wet cabinet, floor and wall layers receive their own access and retention decisions."
+      },
+      {
+        "title": "Restore full tube seating through the grip and seal",
+        "text": "For an eligible replacement, the provider makes a square, smooth tube end and uses any insert required for soft or thin-walled tubing. The tube passes through the collet and sealing contact to the fitting’s stop, followed by the specified pull check and system test. Initial resistance at the grip does not establish full seating through the O-ring. A damaged fitting or tube end is corrected under the selected system’s instructions."
+      },
+      {
+        "title": "Resolve the source test before appliance return",
+        "text": "Any supported disconnection occurs only after depressurization, with the collet held squarely against the fitting to release the tube. The provider checks the completed source repair before appliance return, while suitable exposed building material receives cleaning and monitored drying. Connection security does not establish that a wet cabinet core or covered floor layer can remain."
+      }
+    ],
+    "estimate": "Fitting eligibility, tube condition, appliance access and the water path determine sequencing. Appliance or plumbing service is separately assigned from building cleanup, drying and reconstruction.",
+    "checklist": [
+      "Share the appliance model and leaking connection photographs.",
+      "Identify tube damage or source work already performed.",
+      "Describe wet cabinet, floor and adjoining wall materials."
+    ]
+  },
+  "storm-water-damage-cleanup/joshua": {
+    "intro": "Storm water damage cleanup in Joshua can involve an eligible standing-seam metal roof panel damaged above wet interior material. On a supported symmetrical system, a roofer can replace an individual panel and mechanically form its matching seam cap. We will coordinate that source repair with cleanup and drying below the roof.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Joshua: identify the actual roof system",
+        "text": "The qualified roofer evaluates safe access, panel damage, clips and underlying support. Individual replacement depends on the installed system; a symmetrical capped profile is not treated as interchangeable with snap-lock or other roof joints. Wet insulation, damaged decking and interior finishes have their own removal and retention decisions."
+      },
+      {
+        "title": "Rebuild the seam with matched forming tools",
+        "text": "For an accepted replacement, the roofer uses the system’s supported release procedure and matching panel, cap and sealant arrangement. The receiving seams are engaged and cleared of interfering debris before prescribed hand crimping and folding prepare them for the approved powered seamer. That machine forms the remaining bends around the joint. A damaged profile or incorrectly formed seam requires correction under the roof-system instructions before the repair is accepted."
+      },
+      {
+        "title": "Complete the interior recovery after source work",
+        "text": "Roof-provider checks and any remaining weather protection are resolved separately from the wet building materials. Accessible interior liquid is extracted, unsuitable affected porous layers are removed and suitable retained construction receives cleaning and monitored drying. New interior finishes follow that material condition rather than the appearance of the replacement roof panel."
+      }
+    ],
+    "estimate": "The installed seam design, damage, receiving support and tool requirements determine the roof repair. Qualified roofing and any structural work remain separate from interior cleanup, drying and rebuilding.",
+    "checklist": [
+      "Provide the roof-system identity and roofer’s damage findings.",
+      "Describe existing temporary protection and recurring rain entry.",
+      "Identify wet ceiling, insulation and wall materials below."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/joshua": {
+    "intro": "AC leak water damage cleanup in Joshua can reveal an indoor coil with folded fins that obstruct its air passages. Cleaning deposits does not straighten those damaged passages. Where the HVAC provider confirms that fin repair is suitable, a correctly spaced fin comb can separate accepted folds alongside correction of the actual leak or overflow source.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Joshua: distinguish dirty passages from bent fins",
+        "text": "The HVAC provider isolates the equipment and evaluates the coil, refrigerant tubing, fins and drainage conditions. A leak is not attributed to fin damage without that mechanical diagnosis. Corroded, torn or leaking components may need another repair decision before cleaning or straightening is accepted."
+      },
+      {
+        "title": "Restore accepted fin spacing with the matched tool",
+        "text": "For repairable folds, the provider selects a fin-comb head matching the coil’s fin spacing and works within its permitted access. The teeth guide suitable fins back toward their intended spacing instead of flattening them with a broad brush or forcing an oversized tool through the pack. Cleaning and loosened-material collection remain distinct from reshaping the metal; inaccessible damage stays with the equipment provider."
+      },
+      {
+        "title": "Check equipment response and finish the building-water work",
+        "text": "The HVAC provider verifies the repaired passages and completes the required cooling, airflow and condensate checks. Restoration recovers accessible overflow and evaluates contacted ceiling, insulation and framing separately. Coil straightening does not dry the building or establish that an unrelated drain defect has been corrected."
+      }
+    ],
+    "estimate": "Coil condition, actual fin spacing and qualified access determine whether straightening is appropriate. Mechanical source correction, fin repair and operating checks are separate from building extraction and drying.",
+    "checklist": [
+      "Provide the equipment model and HVAC findings.",
+      "Describe damaged fin areas and earlier coil cleaning.",
+      "Identify overflow-contacted ceiling, insulation or platform materials."
+    ]
+  },
+  "bathroom-mold-removal/joshua": {
+    "intro": "Bathroom mold removal in Joshua can include coordination with qualified service of an existing humidity-sensing exhaust fan that no longer responds as intended. Its automatic trigger and run-on timer have different functions. We will keep correction of that moisture-control fault separate from treatment of affected building material.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Joshua: establish the moisture and material work",
+        "text": "The qualified provider evaluates the reported fan fault alongside leaks and other moisture sources. Remediation defines affected porous removal and physical cleaning of suitable retained surfaces, with mechanical openings addressed within its containment plan. A working fan does not establish that concealed material has received treatment."
+      },
+      {
+        "title": "Service the sensor without wetting its electronics",
+        "text": "Under the installed unit’s instructions and power isolation, the service provider removes sensor dust with an accepted dry method. Water, solvent and cleaning spray are kept away from the sensor, and its circuit board is protected from contact. The provider then uses the model’s supported humidity setting and delay adjustment; cleaning the grille alone does not correct a mis-set control."
+      },
+      {
+        "title": "Check automatic response before returning to normal use",
+        "text": "The provider checks the automatic response to changing humidity and the subsequent timed operation, distinguishing that behavior from manual fan activation. Continued abnormal cycling or failure receives equipment diagnosis rather than repeated blind adjustment. Material drying and applicable independent evaluation still precede finish closure. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with that provider identified before work begins; independent assessment and applicable clearance remain separate services."
+      }
+    ],
+    "estimate": "The installed control, diagnosed fault and affected material determine the scope. Electrical work, fan service and independent assessment remain separately assigned.",
+    "checklist": [
+      "Identify the fan model and automatic-control symptoms.",
+      "Share leak findings and prior equipment service.",
+      "Describe affected finishes and any existing assessment."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/joshua": {
+    "intro": "Kitchen cabinet mold removal in Joshua can leave an accepted cabinet panel needing a replacement edge finish after the leak and affected material have been addressed. A compatible pre-glued veneer band uses heat to activate its adhesive and pressure while hot to establish contact. We will distinguish that finish repair from remediation of the cabinet core.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Joshua: resolve the receiving panel first",
+        "text": "The remediation provider defines affected porous removal and physical cleaning of suitable retained surfaces. Swollen, crumbling or contaminated core selected for removal is not retained by covering its edge. The installer begins finish repair only on a dry, sound panel accepted for the specified banding."
+      },
+      {
+        "title": "Activate the band adhesive and press before it cools",
+        "text": "The installer prepares a smooth, dust-free edge and fits the compatible pre-glued band. Controlled heating activates the adhesive, followed by firm roller or block pressure while the band is still hot. Product instructions govern heat and finish compatibility."
+      },
+      {
+        "title": "Let the bond cool before trimming",
+        "text": "The band cools fully before excess material is trimmed and the edge finished. A loose section requires bond correction under the product instructions; trimming it while the adhesive is still soft can disturb the repair. Banding does not waterproof a failed cabinet or correct a continuing plumbing leak. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with that provider identified before work begins; independent assessment and applicable clearance remain separate services."
+      }
+    ],
+    "estimate": "Panel retention, remediation requirements and the compatible finish system determine the work. Cabinet finishing and plumbing correction are separately assigned.",
+    "checklist": [
+      "Share the leak repair and cabinet material findings.",
+      "Identify panels removed or accepted for retention.",
+      "Provide cabinet finish and edge-band product information."
+    ]
+  },
+  "mold-remediation-after-water-damage/joshua": {
+    "intro": "Mold remediation after water damage in Joshua can reveal localized decay in a wood finish member after assessed contamination has been treated. Where a qualified wood-repair provider accepts the surrounding material, a fitted solid-wood insert can replace the lost section. We will coordinate that separate repair after remediation instead of expecting surface cleaning to rebuild missing wood.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Joshua: establish what can remain",
+        "text": "Assessment defines affected porous removal and physical cleaning of suitable retained surfaces under the required controls. The repair provider evaluates decay depth, joints and receiving wood after the moisture cause is resolved. Extensive deterioration or a structural concern changes the replacement or design decision; a small visible defect alone does not establish suitability for a local insert."
+      },
+      {
+        "title": "Fit a wood patch to a prepared recess",
+        "text": "For an accepted repair, deteriorated wood is removed back to the prescribed sound receiving material with debris collection. A seasoned patch of compatible wood is shaped, its outline transferred to the retained member and the recess cut to receive it. The provider checks contact and profile before bonding with the specified wood-repair adhesive. A loose insert surrounded by excess filler is not treated as a fitted repair."
+      },
+      {
+        "title": "Finish after the bonded repair is ready",
+        "text": "After the adhesive reaches its required readiness, the new wood is trimmed or sanded flush and receives the agreed compatible finish. The repair preserves suitable surrounding material without representing replaced wood as remediation of an untreated contact. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance remain separate services."
+      }
+    ],
+    "estimate": "Assessed contamination, decay depth and sound receiving wood determine whether a local insert fits. Qualified wood repair, structural evaluation and finish matching remain separate from remediation.",
+    "checklist": [
+      "Share assessment findings and moisture-source corrections.",
+      "Identify localized decay, failed joints and previous repair compounds.",
+      "Provide the wood-repair provider’s retention and repair proposal."
+    ]
+  },
+  "mold-removal-behind-drywall/joshua": {
+    "intro": "Mold removal behind drywall in Joshua can expose a partition with an existing slotted deflection track at its head. Repairing that wall requires a connection that still permits the specified building movement. We will coordinate the physical remediation with a qualified wall installer so replacement board and fasteners do not lock the moving detail together.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Joshua: identify the movement connection",
+        "text": "The assessment defines affected material, while the responsible wall provider identifies the existing track and approved repair detail. This arrangement allows the stud top to move vertically within the track without taking axial load from the structure above. It is not assumed suitable for an unidentified bearing wall or substituted for the building’s specified connection."
+      },
+      {
+        "title": "Reinstate the slotted attachment without pinning the movement",
+        "text": "The licensed remediation provider removes specified unsuitable material and physically cleans suitable retained surfaces under its work controls. After drying and applicable independent evaluation, the wall installer replaces damaged connection components as specified. Approved stud fasteners are positioned at the required location within the vertical slots, with the designed stud-end gap maintained. Adding an ordinary screw outside the slot can defeat the intended movement."
+      },
+      {
+        "title": "Keep the wall finish clear of the moving detail",
+        "text": "The installer restores board fastening and the head joint to the selected assembly detail, rather than bridging the moving stud and track with an arbitrary fixing. Any rated joint retains its separately specified system. Inspection of the repair addresses the movement connection; it does not establish that uninspected adjoining cavities received remediation."
+      }
+    ],
+    "estimate": "Track identity, required movement and the approved wall detail affect coordinated access and repair. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Engineering, wall reconstruction and independent evaluation remain separate services.",
+    "checklist": [
+      "Share the wall-system drawings and specified deflection detail.",
+      "Identify track, slots and attachments visible at the existing opening.",
+      "Provide assessment findings and the responsible wall-repair contact."
+    ]
+  },
+  "attic-mold-remediation/joshua": {
+    "intro": "Attic mold remediation in Joshua can include qualified source work where a mechanical evaluation confirms that duct leakage needs correction. An accepted aerosol sealing process carries polymer particles to small leak edges inside the isolated duct system. We will coordinate that separate process after the specified physical treatment, keeping leakage reduction distinct from removal of attic growth.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Joshua: resolve cleaning and duct eligibility first",
+        "text": "Assessment defines the affected attic materials, while the HVAC provider determines whether duct leakage contributes to the moisture problem. Suitable retained surfaces receive specified physical cleaning and unsuitable affected material is removed under the remediation controls. Wet or contaminated ducts, major openings and incompatible construction require their appropriate treatment or repair before aerosol sealing is accepted."
+      },
+      {
+        "title": "Isolate equipment and build the seal at the leakage edges",
+        "text": "The equipped provider blocks the designated registers and protects the coil, fan and other components from the sealing zone before testing the isolated ducts. Under controlled pressure, injected particles accumulate at accepted leak edges and progressively bridge the openings from inside. The operator follows the system’s pressure, flow and injection limits; continuing to inject into a stalled flow can deposit sealant where it is not intended."
+      },
+      {
+        "title": "Remove temporary blocks and check the completed work independently",
+        "text": "The provider completes flushing, final leakage testing and restoration of the intended duct connections and openings. Any required duct insulation or larger mechanical repair retains its separate detail. Source correction, retained-material drying and applicable independent mold evaluation precede reinstatement; a lower duct-leakage result does not establish completed remediation."
+      }
+    ],
+    "estimate": "Duct suitability, confirmed leakage and the assessed attic treatment determine sequencing. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Aerosol sealing, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment and HVAC leakage findings.",
+      "Identify duct material, lining and any major openings.",
+      "Provide cleaning status and the proposed specialist sealing arrangement."
+    ]
+  },
+  "crawl-space-mold-remediation/joshua": {
+    "intro": "Crawl space mold remediation in Joshua can require separate source correction where liquid water passes through an eligible concrete foundation wall. A qualified waterproofing provider may specify a surface-applied crystalline treatment that forms insoluble crystals within concrete pores. We will coordinate that work with the assessed framing treatment; applying the slurry does not remove growth from timber.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Joshua: confirm the concrete and water source",
+        "text": "The waterproofing specialist establishes the entry route and whether the existing rigid concrete suits the proposed system. Moving cracks, failed joints, active leaks and pipe penetrations need their prescribed repairs first. A concrete treatment is not selected automatically for block, stone, exposed soil or water entering over the wall."
+      },
+      {
+        "title": "Prepare absorptive concrete and cure the reactive treatment",
+        "text": "For accepted work, the specialist removes incompatible coatings and surface contamination to reach clean, open-pore concrete. The specified surface is saturated without leaving standing water before the mixed slurry is scrubbed on at the supported coverage. The fresh treatment receives its required protection and wet curing so it develops properly. An early-dried or thin application is not released merely because the wall looks coated."
+      },
+      {
+        "title": "Evaluate water correction and remediation separately",
+        "text": "The licensed provider removes specified unsuitable affected material and physically cleans suitable retained framing under the required work controls, collecting deposits and residue. Concrete-treatment curing and the later crawl-space drying arrangement are coordinated rather than directing drying air onto a coating that still requires moisture. Continued entry, retained-material readings and applicable independent evaluation govern subsequent insulation and repair decisions."
+      }
+    ],
+    "estimate": "Concrete eligibility, entry diagnosis, preparation access and curing requirements determine the waterproofing option. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Waterproofing, structural repairs and independent evaluation remain separate services.",
+    "checklist": [
+      "Share waterproofing findings and the foundation-wall construction.",
+      "Describe entry at cracks, joints, penetrations or the wall top.",
+      "Provide assessment findings and crawl-space access restrictions."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/joshua": {
+    "intro": "Mold contaminated contents cleaning in Joshua can identify a valued book whose cover boards remain detached after the volume’s accepted treatment. Removing deposits does not reconnect a broken binding hinge. Where a book conservator accepts further recovery, we will coordinate separately approved board reattachment before the volume returns to ordinary handling.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Joshua: establish treatment and binding condition",
+        "text": "The responsible providers identify moisture, contamination, fragile media and the book’s structural condition before cleaning or repair. The volume stays supported, with its loose boards retained alongside it rather than taped back on. Accepted physical cleaning and drying precede permanent binding repair; unsuitable material is not covered by new lining."
+      },
+      {
+        "title": "Reconnect the boards through supported sewing extensions",
+        "text": "For an eligible sewn binding, the conservator determines whether the surviving sewing can remain. New support extensions can be sewn around the accepted original sewing supports and laced into the boards, with compatible attachment layers added where specified. This creates a flexible connection that carries the board as the book opens, rather than relying on a decorative spine cover to hold it together."
+      },
+      {
+        "title": "Restore opening movement and supported storage",
+        "text": "Where appropriate to the binding, a separately formed hollow spine allows the textblock to open without forcing the covering to follow every movement of the sewn spine. The conservator checks the repaired board attachment and defines the supported opening and storage arrangement. Rebinding does not remove mold staining or replace the receiving room’s moisture correction and remediation requirements."
+      }
+    ],
+    "estimate": "Binding construction, surviving sewing and the accepted cleaning result determine whether reattachment is suitable. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Book conservation and independent evaluation remain separate services.",
+    "checklist": [
+      "Identify detached boards or broken hinges without pulling the book apart.",
+      "Share the contents treatment findings and available binding history.",
+      "Describe the intended storage, display or access needs."
+    ]
+  },
+  "crawl-space-water-removal/joshua": {
+    "intro": "Crawl space water removal in Joshua can accompany correction of an existing eligible sump pump whose diaphragm level control no longer starts or stops reliably. That control responds to water pressure against a membrane and needs an unobstructed atmospheric air reference. We will coordinate qualified control service with collection of the water and treatment of the wetted building materials.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Joshua: confirm the pump and water conditions",
+        "text": "The equipment provider identifies the control and confirms that the installed pump suits the actual water and receiving route. A clear-water sump pump is not assigned muddy water, sewage or debris outside its limits. Accessible pooled water receives an appropriate recovery arrangement while electrical access and equipment service remain with qualified personnel."
+      },
+      {
+        "title": "Restore the diaphragm’s air reference before testing its movement",
+        "text": "With the equipment isolated, the service provider checks the control’s breather route for a pinched cord, kink or blocked opening. The membrane needs that open air path as basin pressure rises and falls. Supported cleaning or replacement addresses a fouled or failed diaphragm assembly. The selected manufacturer’s service procedure governs any bench test and reassembly."
+      },
+      {
+        "title": "Verify automatic collection and then dry the retained structure",
+        "text": "The provider uses the prescribed water-based operating test to check activation, drawdown and shutoff without running the pump dry. Continued failure receives further equipment diagnosis instead of leaving the pump continuously energized. Residual water, contacted insulation and reachable framing receive their own collection, material decisions and monitored drying; a working switch does not establish underside restoration completion."
+      }
+    ],
+    "estimate": "Water suitability, the installed diaphragm control, its air-reference route and the discharge arrangement determine service needs. Qualified pump repair and permanent drainage work remain separate from extraction and material drying.",
+    "checklist": [
+      "Identify the installed pump and automatic-control type.",
+      "Describe failure to start, continuous running or repeated cycling.",
+      "Share water-source findings and any sediment or sewage observations."
+    ]
+  },
+  "crawl-space-sewage-cleanup/joshua": {
+    "intro": "Crawl space sewage cleanup in Joshua can leave adherent soil on a suitable accessible concrete surface after bulk waste is recovered. Where clearance, surface condition and containment permit, a rotary pressure-cleaning head can loosen deposits while its enclosed recovery route collects the used liquid. We will accept that method only when it can remain controlled beneath the structure.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Joshua: accept the hard surface and recovery space",
+        "text": "The plumbing source, entry hazards and bulk wastewater are addressed first. Unsuitable contacted insulation and other porous material receive contained removal decisions. The provider checks concrete condition, working clearance, nearby utilities and whether added liquid can be kept away from vulnerable joints or untreated soil."
+      },
+      {
+        "title": "Keep rotating jets and wastewater within the accepted recovery arrangement",
+        "text": "For a suitable area, the operator uses the pressure cleaner’s matched nozzle kit and surface head, with the shroud kept close to the floor as its instructions require. The connected, secured recovery hose directs dirty liquid to the approved receiving arrangement within its delivery limits. Loss of rotation or pickup calls for stopping and correcting the head, nozzles, brush perimeter or blocked recovery path rather than continuing to spread washing water."
+      },
+      {
+        "title": "Complete the remaining cleaning and applicable disinfection",
+        "text": "Edges the head cannot reach receive their appropriate controlled cleaning method, with released soil and residual liquid collected. Suitable cleaned surfaces then follow any required product-directed disinfection and drying. Pressure washing is a soil-removal operation, not a sterilization claim or a substitute for replacing unsuitable contaminated material."
+      }
+    ],
+    "estimate": "Surface suitability, head clearance, pressure limits and liquid recovery determine whether rotary cleaning fits. Waste acceptance, plumbing correction and any soil or structural treatment remain separately assigned.",
+    "checklist": [
+      "Identify concrete surfaces and remaining adherent deposits.",
+      "Share crawl-space clearance, utility restrictions and the receiving route.",
+      "Describe bulk waste and porous material already removed."
+    ]
+  },
+  "toilet-overflow-cleanup/joshua": {
+    "intro": "Toilet overflow cleanup in Joshua can require a plumber to clear an eligible toilet trap with a guided flexible-cable auger. Its rotating head works the obstruction while the guide supports the cable at the fixture. We will coordinate contaminated-room recovery with that source service.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Joshua: establish the drain condition",
+        "text": "The plumbing provider checks the fixture, drain condition and any chemicals already introduced before choosing an auger and supported head. A broken pipe or obstruction beyond the tool’s capacity needs a different repair. Restoration personnel collect reachable overflow through the assigned waste route while the fixture remains out of use."
+      },
+      {
+        "title": "Support the rotating cable and respond to a stalled head",
+        "text": "The plumber seats the guide to support the cable through the trap and controls feed while the head rotates. A stalled head requires stopping and releasing the obstruction under the tool instructions; continued rotation can twist or kink the cable. The cable is fully retrieved and rotation stopped before the guide leaves the fixture."
+      },
+      {
+        "title": "Restore the room independently of drain clearance",
+        "text": "The plumbing provider completes the required flow checks before fixture return. Unsuitable contacted porous material is contained for removal, while suitable retained hard surfaces receive physical soil removal and appropriate label-directed disinfection. Required drying and floor repairs follow the actual wastewater contact; an open drain does not establish completion of room cleanup."
+      }
+    ],
+    "estimate": "Trap condition, obstruction location and continuing inflow affect sequencing. Plumbing service remains separate from wastewater cleanup, drying and repair.",
+    "checklist": [
+      "Identify overflow contact areas and continuing inflow.",
+      "Share drain chemicals used and plumbing findings.",
+      "Describe collection or material removal already performed."
+    ]
+  },
+  "fire-damaged-debris-removal/joshua": {
+    "intro": "Fire damaged debris removal in Joshua can use a suitable portable belt conveyor when released ordinary solid debris must cross a restricted carrying route. The driven belt carries supported loads toward the receiving point, including along an accepted incline. We will coordinate material eligibility, loading and collection before that temporary system is used.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Joshua: establish the permitted belt route",
+        "text": "Site release and material evaluation identify ordinary solid waste eligible for this handling method. Hot material, hazardous waste, liquids and unsuitable sharp or oversized loads receive another route. The qualified equipment provider establishes sound support, the permitted angle and load, guarded moving parts and a protected receiving area before operation."
+      },
+      {
+        "title": "Keep the belt carrying a controlled load",
+        "text": "The operator checks belt condition, tracking, controls and the supported feed arrangement before loading. Accepted pieces or contained loads are placed within the belt’s working width and capacity rather than piled into an obstructed discharge. Spillage, stalled movement or belt drift stops loading and requires correction under power-isolation procedures; hands do not guide a jam through moving rollers. Where units connect, their receiving and discharge rates must support the agreed transfer."
+      },
+      {
+        "title": "Collect carryback before the equipment leaves",
+        "text": "After the transfer, deposited fragments are collected at loading points, receiving points and beneath the return path. The stopped, isolated equipment receives its required cleaning before movement to another area. The exposed building footprint still needs its own soot, water and repair evaluation; completing bulk transport does not establish that retained surfaces are restored."
+      }
+    ],
+    "estimate": "Released waste characteristics, route width, support capacity and the conveyor arrangement determine suitability. Qualified equipment setup, restricted-waste handling and retained-surface restoration remain separately scoped.",
+    "checklist": [
+      "Share the released waste categories and material restrictions.",
+      "Identify the carrying route, receiving area and support limitations.",
+      "Flag wet mixtures, hot material or large sharp fragments requiring another method."
+    ]
+  },
+  "fire-damaged-contents-cleaning/joshua": {
+    "intro": "Fire damaged contents cleaning in Joshua can leave an accepted paper record too brittle for repeated unsupported handling. After the conservator’s cleaning and drying decisions, a suitable polyester L-sleeve can support an eligible sheet while its information is viewed or copied. We will coordinate that stabilization separately from soot removal; an enclosure does not restore burned text.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Joshua: determine whether film support is suitable",
+        "text": "The paper conservator evaluates heat damage, residue, moisture and media stability before choosing an enclosure. Polyester generates static that can lift loose or flaking media, so charcoal, pastel and unstable surfaces are excluded from this method. Wet or insufficiently cleaned records do not receive routine sleeving to conceal the remaining treatment need."
+      },
+      {
+        "title": "Introduce the supported sheet without dragging fragile edges",
+        "text": "For an accepted single-page record, the provider selects a suitable polyester sleeve sealed along two adjacent edges and larger than the sheet. The upper film is lifted over the supported lower layer for careful placement without forcing fragile edges through a tight opening. A compatible temporary paper carrier can help during insertion. The closed edges align with the sheet’s bottom and left edges."
+      },
+      {
+        "title": "Keep the record supported through access and imaging",
+        "text": "The accepted sheet stays within its sleeve for handling and digitization. Fragile pages are sleeved individually rather than stacked together for repeated withdrawal. The conservator defines remaining repair or restricted-access needs; film support does not strengthen weakened fibers."
+      }
+    ],
+    "estimate": "Paper strength, surface stability and the accepted treatment result determine whether sleeving is suitable. Conservation cleaning, imaging, further repair and building restoration remain separately scoped without a recovery guarantee.",
+    "checklist": [
+      "Identify fragile single-sheet records and any loose or flaking marks.",
+      "Share soot-cleaning, drying and conservation findings.",
+      "Describe the need for viewing, copying or supported storage."
+    ]
+  },
+  "smoke-damage-cleanup/joshua": {
+    "intro": "Smoke damage cleanup in Joshua can leave a cleaned wood furnishing with small dents or edge losses that still need a separate finish repair. For eligible sound material, a qualified finisher can flow a melted burn-in filler into the missing area and level it after cooling. We will distinguish that local repair from removing soot and addressing remaining odor.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Joshua: complete cleaning before cosmetic repair",
+        "text": "Included surfaces receive material-appropriate particle collection and cleaning, with suppression-water drying and unresolved odor reviewed separately. The finisher examines the cleaned wood, coating and defect before accepting a repair. Charred material, weak joints, extensive losses and valuable historic finishes can require another disposition or a conservator; filler does not restore structural strength."
+      },
+      {
+        "title": "Flow the supported filler into the prepared void",
+        "text": "For an accepted repair, the finisher removes loose fragments and prepares a clean, dry receiving area under the selected product instructions. A compatible filler color is selected and the solid stick melted onto the controlled heated blade, then flowed into the void with a slight allowance for leveling. The blade is not held in the fresh fill, where excessive heating can introduce bubbles and disturb the repair."
+      },
+      {
+        "title": "Cool, level and check the finished surface",
+        "text": "After the filler reaches the required cooled condition, the finisher levels the local repair without unnecessarily removing surrounding color or coating. Compatible finishing and sheen matching follow the accepted system where needed. The repaired furnishing is checked before handling or return, while its soot treatment and the receiving room’s cleanup retain their own completion requirements."
+      }
+    ],
+    "estimate": "Finish identity, sound receiving material, defect size and the specialist’s trial determine local repair suitability. Furniture finishing, conservation and building-surface smoke cleanup are separately scoped without promising an invisible repair or odor recovery.",
+    "checklist": [
+      "Identify remaining dents or edge losses after cleaning.",
+      "Share the finish type, prior repairs and any valuable historic features.",
+      "Describe residual odor, wetness or heat damage needing separate review."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/joshua": {
+    "intro": "Fire extinguisher residue cleanup in Joshua can proceed while the fire-protection provider evaluates a discharged rechargeable unit that is also due for cylinder testing. For an eligible unit, a hydrostatic proof test checks the pressure vessel separately from restoring its agent charge. We will keep that specialist service distinct from collecting the powder released into the room.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Joshua: establish whether the unit can be tested",
+        "text": "The confirmed agent and contacted materials define the building cleanup. Separately, the fire-protection provider identifies the unit, service history and test eligibility before handling its pressure vessel. A burned cylinder or one otherwise rejected for testing is removed from service rather than sent through a pressure test as a way to make it reusable."
+      },
+      {
+        "title": "Have the qualified tester use the prescribed liquid-pressure process",
+        "text": "After the supported depressurization and preparation, the tester performs the required internal examination and uses suitable hydrostatic equipment at the unit’s specified test pressure. A test pump applies liquid pressure through the supported fittings, with the required protective barrier and observation of the vessel. Compressed air or gas is not substituted for the hydrostatic test medium. A failure requires the prescribed rejection, not a patch followed by ordinary recharge."
+      },
+      {
+        "title": "Complete room cleanup independently of the test result",
+        "text": "Reachable loose agent receives suitable controlled collection before compatible cleaning, required rinsing and drying of accepted building surfaces. The waste stays separate from extinguisher recharge supplies. Passing a cylinder test does not establish the correct new agent charge, and servicing the unit does not remove deposits from the room. Remaining equipment service and affected-finish repairs retain their own scope."
+      }
+    ],
+    "estimate": "Agent spread, surface compatibility and the identified cylinder condition define separate tasks. Qualified fire-protection testing, recharge or replacement is separately assigned from building cleanup.",
+    "checklist": [
+      "Provide the extinguisher label and service-provider findings.",
+      "Share any known heat exposure or physical cylinder damage without handling it.",
+      "Identify residue-contact surfaces and cleaning already performed."
+    ]
+  },
+  "kitchen-fire-cleanup/joshua": {
+    "intro": "Kitchen fire cleanup in Joshua can include coordination with repair of a serviceable belt-driven commercial kitchen exhaust fan. When the qualified provider specifies a replacement belt, pulley alignment and supported tension determine how the drive transfers motion. We will separate that mechanical repair from removal of grease, soot and damaged kitchen materials.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Joshua: establish equipment eligibility first",
+        "text": "The qualified exhaust provider evaluates heat exposure, electrical condition, the fan and its connected duct before choosing repair or replacement. A new belt does not make a heat-distorted or otherwise rejected fan serviceable. Included kitchen finishes receive controlled deposit collection and compatible cleaning, while internal exhaust treatment remains with its responsible specialist."
+      },
+      {
+        "title": "Fit the belt without forcing it over the pulleys",
+        "text": "Under power isolation, the technician releases drive tension to remove the old belt and fits the matched replacement without prying or stretching its cords. The motor and fan pulleys are aligned, and the supported motor-base adjustment establishes tension. The provider checks the prescribed span deflection or other accepted measurement rather than tightening until the belt merely feels hard. Excess tension can load the bearings, while inadequate tension permits slipping."
+      },
+      {
+        "title": "Recheck the repaired drive and complete the kitchen work",
+        "text": "The provider restores guards and performs the required operating checks, with belt tension checked again after the specified initial running period. Abnormal noise, rubbing or continued slip requires correction rather than an improvised increase in fan speed. Exhaust and suppression-system return decisions remain separate from room cleaning, unsuitable porous removal and any firefighting-water drying."
+      }
+    ],
+    "estimate": "Fan eligibility, drive condition, qualified access and the kitchen residue footprint determine the sequence. Exhaust repair, internal duct cleaning, electrical work and suppression-system service are separately assigned.",
+    "checklist": [
+      "Identify the installed exhaust fan and qualified damage findings.",
+      "Share belt-drive service and internal exhaust-cleaning proposals.",
+      "Describe affected kitchen surfaces and water or extinguisher deposits."
+    ]
+  },
+  "emergency-board-up-after-fire/joshua": {
+    "intro": "Emergency board up after fire in Joshua can require a temporary closure fastened to accepted concrete or masonry where damaged framing cannot receive the attachment. A specified screw anchor cuts an interlocking thread into its prepared hole. We will coordinate the closure around sound receiving material and the supported anchoring detail.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Joshua: accept the receiving base",
+        "text": "Site release and loose-glass control precede temporary work. The responsible provider evaluates the opening, base condition, required loads and closure arrangement before selecting anchors. Heat-damaged or loose masonry is not accepted merely because a drill can enter it; the design also accounts for edges, spacing, concealed services and temporary exposure."
+      },
+      {
+        "title": "Prepare the hole and form the threaded engagement",
+        "text": "The installer drills the selected anchor’s required diameter and depth, using its supported dust-removal or overdrill arrangement. The screw passes through the receiving fixture and is driven so its cutting threads engage the base until the head bears as required. An oversized hole can defeat that interlock, and continued driving is not used to correct stripped receiving material. The anchor finish and installation equipment must suit the specified exposure and substrate."
+      },
+      {
+        "title": "Check the closure and preserve its removal plan",
+        "text": "The provider checks panel support, attachment and the agreed access route before leaving the temporary closure in place. Later removal follows the anchoring and panel-handling requirements, with reuse decided under the selected product’s instructions. Permanent opening repair and any required hole repairs are separately assigned; boarding does not establish structural or occupancy release."
+      }
+    ],
+    "estimate": "Base condition, approved anchor placement and the temporary panel arrangement determine feasibility. Structural evaluation, alternative attachment and permanent window or masonry repair remain separate.",
+    "checklist": [
+      "Share site-release and damaged-glass findings.",
+      "Identify the intended receiving base and known concealed services.",
+      "Provide access restrictions and the temporary-work attachment proposal."
+    ]
+  },
+  "floor-water-damage-cleanup/joshua": {
+    "intro": "Floor water damage cleanup in Joshua can leave a fixed tongue-and-groove hardwood floor needing selected board replacement after the wet assembly is resolved. With surrounding boards retained, a replacement may need a permitted change to its lower groove shoulder so it can enter the opening. We will coordinate that repair with the flooring installer after cleanup and drying.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Joshua: establish the retained floor and base",
+        "text": "Reachable water is collected and unsuitable affected material is removed within the agreed scope. The installer confirms that the supporting material and retained boards are ready for repair, including any remediation prerequisites. A fixed hardwood repair is not automatically appropriate for a floating locking floor or a product with different attachment requirements."
+      },
+      {
+        "title": "Fit the replacement without forcing the surrounding boards",
+        "text": "The installer matches the board profile and cuts the replacement to the opening. Where the supported repair permits it, the lower shoulder of the replacement groove is relieved so the board can seat around the retained tongue. Fit is checked before fastening, using protection when tapping the piece into position. A broken neighboring tongue or unsuitable base requires correction before the replacement is secured."
+      },
+      {
+        "title": "Fasten and finish the accepted repair",
+        "text": "For a repair using face fastening, pilot holes receive the specified finish nails and their heads are set below the face. Permitted sanding and finish work follow the flooring system and remaining wear thickness. Grain, age and finish differences may remain visible, so wider refinishing is separately agreed rather than promised as an invisible patch."
+      }
+    ],
+    "estimate": "Board construction, joint condition and the accepted attachment method determine the repair option. Water cleanup, drying, board replacement and wider finish matching are separately defined.",
+    "checklist": [
+      "Identify the floor product and installation method if known.",
+      "Provide spare boards and photographs of exposed edges.",
+      "Share source repair, drying and retained-base findings."
+    ]
+  },
+  "ceiling-water-damage-cleanup/joshua": {
+    "intro": "Ceiling water damage cleanup in Joshua can leave a section of plain plaster cornice too deteriorated to retain after a leak. A qualified ornamental plasterer can reproduce the missing profile with a guided template blade and fresh plaster. We will coordinate that specialty replacement after the wet ceiling and its support have been addressed.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Joshua: resolve the damaged support",
+        "text": "Overhead stability and source correction come first, with qualified support or controlled removal where needed. Reachable water and debris are collected, unsuitable wet material is removed and accepted retained construction receives cleaning and drying. The plaster specialist distinguishes repairable original work from the length requiring replacement."
+      },
+      {
+        "title": "Run a replacement profile from the surviving section",
+        "text": "The specialist obtains the original cross-section and makes a matching metal profile blade held in a guided stock. For a short replacement, successive passes along the same bench guide shape fresh gypsum-and-lime plaster to that profile. Consistent blade travel establishes the section; freehand filling alone does not reproduce the whole molding. The replacement is formed longer than needed for fitting."
+      },
+      {
+        "title": "Fit the new length to sound receiving material",
+        "text": "The plasterer cuts and fits the replacement, secures it to suitable studs, joists or blocking and points its joints to the retained work. Structural attachment is resolved before decorative finishing. Paint preparation follows the repair’s readiness requirements, with any old-coating restrictions addressed before disturbance; a new cornice does not resolve a continuing roof leak."
+      }
+    ],
+    "estimate": "Cornice retention, profile documentation, support condition and specialist fabrication affect the work. Ornamental plaster replacement, structural repair and decorative finishing remain separate from water cleanup.",
+    "checklist": [
+      "Share photographs or saved fragments showing the original profile.",
+      "Identify the leak repair and any overhead support findings.",
+      "Describe cornice or ceiling material already removed."
+    ]
+  },
+  "structural-drying-services/joshua": {
+    "intro": "Structural drying services in Joshua can use a pinless impedance survey to locate suspect damp areas in retained finishes before choosing targeted access. Surface electrodes send a low-frequency electrical field into suitable material without puncturing it. We will use the resulting pattern to guide confirmation and drying, with the limits of that survey recorded.",
+    "sections": [
+      {
+        "title": "Structural drying services in Joshua: establish a comparable reference",
+        "text": "Source correction, water recovery and the material-retention decisions come first. The provider selects the supported material scale and checks a known dry area of comparable construction. Density, coverings and the material within the sensing field affect the response, so readings from different assemblies are not treated as a single moisture scale."
+      },
+      {
+        "title": "Survey with consistent contact and identify unreliable areas",
+        "text": "The meter is placed with its base electrodes in proper contact at successive marked locations, using the supported depth setting. Comparative readings on drywall or plaster are recorded as relative values rather than moisture percentages. Conductive coverings, metal and wet surfaces can prevent a useful reading; an excluded area needs another suitable investigation method."
+      },
+      {
+        "title": "Let confirmed findings change the drying work",
+        "text": "Elevated survey areas direct appropriate confirmatory checks and any authorized access needed to reach the affected layer. Confirmed moisture can justify continued drying or revised access, while repeat surveys use the same locations and settings. A lower surface response does not release unchecked deeper material or replace the flooring system’s required acceptance test."
+      }
+    ],
+    "estimate": "Finish construction, usable electrode contact and the need for confirmation affect monitoring and access. Sampling, specialized testing and reconstruction retain their separate requirements.",
+    "checklist": [
+      "Identify the retained finish and any conductive backing or coverings.",
+      "Share marked readings with their instrument mode and depth setting.",
+      "Provide the proposed enclosure or flooring acceptance requirements."
+    ]
+  }
+}

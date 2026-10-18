@@ -43,7 +43,7 @@ for f in root.rglob('*.html'):
   if re.search(r'Local review draft|Draft preview|not for indexing',raw,re.I):errors.append([route,'draft notice'])
 for route in approved:
  if not (root/route.strip('/')/'index.html').exists():errors.append([route,'released route missing'])
-for route in ['/city-service-preview/','/commercial-expansion-preview/','/locations/dfw-metro/royse-city/','/water-damage-restoration/royse-city/']:
+for route in ['/city-service-preview/','/commercial-expansion-preview/']:
  if (root/route.strip('/')/'index.html').exists():errors.append([route,'unreleased route exists'])
 cities=json.loads(Path('src/data/cities-dfw-expanded.json').read_text())+json.loads(Path('src/data/cities-dfw-metro.json').read_text())
 slugs={c['slug'] for c in cities}

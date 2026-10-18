@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/haslet": {
+    "intro": "Emergency water extraction in Haslet can involve loose fragments or debris mixed with the standing water. We will separate the solid-material handling from liquid recovery so extraction does not push sharp or abrasive pieces across a finish intended to remain.",
+    "sections": [
+      {
+        "title": "Inspect what the water contains",
+        "text": "We will review the source and accessible debris before choosing collection equipment. Broken finish pieces, absorbent waste and fine deposits need different handling, and suspected sewage or another contamination concern changes the cleanup scope. An ordinary extraction tool will not be forced through material it cannot collect appropriately."
+      },
+      {
+        "title": "Clear obstructions without sweeping them through the room",
+        "text": "Agreed loose debris will be contained using a method suited to its condition, with suitable water recovery around it. Sharp pieces or unknown materials may require separate handling before collection proceeds. As the water level falls, we will check edges where settled material becomes visible rather than assume the first liquid pass cleared them."
+      },
+      {
+        "title": "Distinguish residual deposits from remaining moisture",
+        "text": "Exposed suitable surfaces will receive cleaning appropriate to the release, while retained wet layers receive separate moisture checks and drying decisions. Scratches, punctures or damaged flooring may remain after the liquid is gone. Those repair findings will be separated from places still requiring collection or access."
+      }
+    ],
+    "estimate": "Debris type, water condition, floor sensitivity and collection access affect the work. Solid waste handling and subsequent material drying are identified separately.",
+    "checklist": [
+      "Describe the water source and visible debris from a safe position.",
+      "Identify damaged finishes or sharp fragments.",
+      "Share any previous extraction or source-repair work."
+    ]
+  },
+  "burst-pipe-cleanup/haslet": {
+    "intro": "Burst pipe cleanup in Haslet can be needed when dripping continues from a ceiling after the supply line has reportedly been repaired. We will collect reachable water and inspect the wet assembly while the plumbing provider determines whether the source is controlled.",
+    "sections": [
+      {
+        "title": "Separate retained water from an unresolved source question",
+        "text": "Wet insulation or a cavity pocket can hold water, but continued dripping alone does not prove that this is the only cause. We will compare accessible observations with the repair findings and identify renewed collection during the work. The plumber remains responsible for checking the repaired system rather than having a drying visit certify it."
+      },
+      {
+        "title": "Release access to water held in building layers",
+        "text": "After overhead and utility conditions permit work, approved unsuitable board or insulation will be removed under room protection. We will collect reachable liquid and debris and inspect the exposed route. This access serves removal and treatment; it is not a reason for an occupant to puncture a sagging ceiling."
+      },
+      {
+        "title": "Use the exposed condition to change the next step",
+        "text": "Suitable retained components will be cleaned and measured for drying. Fresh wetting or continued flow needs renewed source coordination, while stable residual dampness can receive the agreed drying approach. The record will distinguish those findings before reconstruction closes the cavity."
+      }
+    ],
+    "estimate": "Overhead stability, retained water, insulation and source uncertainty influence the sequence. Plumbing investigation and ceiling reconstruction remain separate scopes.",
+    "checklist": [
+      "Share when the supply was stopped and the repair completed.",
+      "Describe where dripping continues without approaching unstable material.",
+      "Provide available plumbing findings."
+    ]
+  },
+  "appliance-leak-cleanup/haslet": {
+    "intro": "Appliance leak cleanup in Haslet can involve detergent residue as well as water after a washing-machine release. We will identify affected building surfaces and recover the liquid, then address the remaining film before flooring is covered or equipment returns.",
+    "sections": [
+      {
+        "title": "Describe the release before choosing treatment",
+        "text": "A supply connection and water released during a wash cycle can leave different material conditions. We will review appliance findings and available product information rather than assume that clear-looking liquid is residue-free. Source service remains with the appliance or plumbing provider."
+      },
+      {
+        "title": "Recover liquid and clean suitable surfaces",
+        "text": "Reachable water will be collected with equipment appropriate to the observed release. We will use compatible cleaning on included retained surfaces and recover cleaning moisture where needed, rather than spread residue into adjacent seams. Absorbent layers that cannot be effectively treated receive a separate removal decision."
+      },
+      {
+        "title": "Inspect the cleaned footprint before resetting the machine",
+        "text": "We will check for remaining film at accessible edges and measure retained wet material for drying. Surface cleaning cannot reverse swelling or loss of bond beneath the finish. Appliance handling, leveling and testing will follow the relevant provider\u2019s work, with any unfinished floor treatment still identified."
+      }
+    ],
+    "estimate": "Release type, residue, floor construction and appliance access determine treatment. Source repair and building cleaning or drying are separate tasks.",
+    "checklist": [
+      "Describe whether the release occurred during a wash cycle.",
+      "Share detergent or additive information if available.",
+      "Identify affected flooring and appliance-service findings."
+    ]
+  },
+  "storm-water-damage-cleanup/haslet": {
+    "intro": "Storm water damage cleanup in Haslet can involve a room reached by both an indoor pipe release and outdoor storm water. We will evaluate where those paths connect before treating a section as suitable for ordinary clean-water drying.",
+    "sections": [
+      {
+        "title": "Map the connected contact areas",
+        "text": "The reported first source does not describe every later release. We will review timing and reachable water paths, including floor transitions or cavities where the two may meet. A dry-looking dividing line or room label will not be used to establish that materials on one side escaped outdoor-water contact."
+      },
+      {
+        "title": "Change material handling when the exposure changes",
+        "text": "Reachable liquid and debris will be collected with methods suited to the observed condition. Specified unsuitable contacted porous layers will be contained for removal, and suitable retained surfaces physically cleaned before additional treatment as appropriate. Material initially proposed for retention may need a revised decision if the later exposure changes what can be adequately treated."
+      },
+      {
+        "title": "Dry the retained assembly after the contact work",
+        "text": "We will measure suitable retained components and identify inaccessible deposits or permanent damage. Indoor source repair and exterior protection have separate responsibilities, and both must be addressed where they affect the work. The handoff will describe the actual treated boundary rather than preserve the scope written before the second release."
+      }
+    ],
+    "estimate": "Connected water paths, exposure timing, debris and contacted materials influence removal and cleaning. Plumbing and exterior correction remain separate from interior restoration.",
+    "checklist": [
+      "Describe each known release and its timing.",
+      "Identify where water paths may have joined.",
+      "Share plumbing and exterior-repair findings."
+    ]
+  },
+  "structural-drying-services/haslet": {
+    "intro": "Structural drying services in Haslet can require a controlled drying area within a larger occupied room. We will determine whether a temporary enclosure can serve the retained wet material and reduce the effect of surrounding conditions without blocking necessary access.",
+    "sections": [
+      {
+        "title": "Define the material served by the enclosure",
+        "text": "The boundary will follow the wet assembly and available access, not simply the easiest rectangular space to cover. We will identify which faces can receive airflow and where moisture remains concealed. A drying enclosure is not automatically a remediation containment system; contamination findings require their own work controls."
+      },
+      {
+        "title": "Arrange equipment around the controlled area",
+        "text": "Suitable air movement and dehumidification will be arranged so the intended material is served, with equipment and utility requirements respected. Entry points and changes that open the enclosure can alter the conditions being maintained. We will adjust the setup when access needs or monitored response show that the chosen arrangement is not working as intended."
+      },
+      {
+        "title": "Check material response rather than enclosure appearance",
+        "text": "Repeat readings will track the retained components and distinguish progress from a merely warm or dry-feeling work area. Poor response may call for better access or a removal decision instead of simply keeping the barrier in place longer. Damaged material and installer requirements remain separate from the drying result."
+      }
+    ],
+    "estimate": "Affected assembly, enclosure size, usable equipment arrangement and access needs affect the plan. Any material removal or remediation controls require their own defined scope.",
+    "checklist": [
+      "Identify the wet materials and connected occupied space.",
+      "Describe doors or routes that must remain usable.",
+      "Share source-repair and earlier drying records."
+    ]
+  },
+  "floor-water-damage-cleanup/haslet": {
+    "intro": "Floor water damage cleanup in Haslet can involve a heated floor where access below the finish must account for concealed heating components. We will evaluate the floor layers and coordinate the system\u2019s location and condition before lifting, cutting or drilling into the assembly.",
+    "sections": [
+      {
+        "title": "Identify the system before choosing an opening",
+        "text": "Available installation information and the appropriate trade\u2019s findings will guide where access can be created. An exposed floor edge may reveal layers without establishing the full heating layout. The finish\u2019s wet appearance does not identify whether electrical or hydronic components are affected."
+      },
+      {
+        "title": "Recover water through an agreed access method",
+        "text": "Once suitable access is established, reachable liquid will be collected and specified unsuitable layers removed. Retained exposed surfaces will receive compatible cleaning and moisture checks. Heating components will not be cut, moved or operated as ordinary cleanup equipment to accelerate the work."
+      },
+      {
+        "title": "Separate a dry substrate from system approval",
+        "text": "Readings will guide drying of suitable retained material, while distortion or bond damage receives a repair decision. The heating provider evaluates operation and any repairs before the finish returns. A flooring installer must account for the intended system and product requirements; a dry surface alone does not settle either task."
+      }
+    ],
+    "estimate": "Heating layout, floor construction, safe access and damage determine the scope. System testing and replacement installation are separate from water recovery and drying.",
+    "checklist": [
+      "Share heating-system and floor installation details if available.",
+      "Identify existing openings or lifted areas.",
+      "Provide leak and system-inspection findings."
+    ]
+  },
+  "ceiling-water-damage-cleanup/haslet": {
+    "intro": "Ceiling water damage cleanup in Haslet can require handling loose-fill insulation piled above damaged board. We will plan controlled access and collection so opening the ceiling does not release an uncontained mass into the room below.",
+    "sections": [
+      {
+        "title": "Establish what the ceiling is carrying",
+        "text": "We will use safe available access to identify the insulation and affected area before disturbance. Wet material, ceiling instability and fixtures may limit how removal can proceed. Unknown or suspect material requires appropriate evaluation rather than being handled as ordinary insulation by appearance alone."
+      },
+      {
+        "title": "Remove the agreed overhead material in a controlled sequence",
+        "text": "Room protection and suitable collection arrangements will precede approved removal. Insulation that cannot remain or prevents treatment will be contained, with accessible loose material cleared from ledges and cavities. Merely moving wet fill onto another ceiling section does not resolve its condition or the load it places there."
+      },
+      {
+        "title": "Evaluate the cleared supports before refilling",
+        "text": "Exposed retained framing will be inspected, cleaned as needed and measured for drying. Damaged board edges or support require repair, while replacement insulation has its own installation scope. We will identify untreated pockets before new fill makes those locations difficult to inspect again."
+      }
+    ],
+    "estimate": "Insulation type, quantity, overhead access and ceiling condition affect containment and labor. Source correction and insulation reinstatement are separately identified.",
+    "checklist": [
+      "Share any known insulation type or attic photographs.",
+      "Describe bulging or loose ceiling areas from a safe location.",
+      "Identify nearby fixtures and source-repair findings."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/haslet": {
+    "intro": "AC leak water damage cleanup in Haslet can involve wet carpet around an equipment closet where the visible pile dries before the backing or pad. We will evaluate those layers separately and coordinate access without treating the HVAC repair as completion of the floor work.",
+    "sections": [
+      {
+        "title": "Inspect the carpet edge at the enclosure",
+        "text": "The reported condensate path and accessible carpet edge will guide the area checked. We will determine whether water reached the pad or substrate rather than rely on the feel of the pile. Source diagnosis and equipment correction remain with the HVAC provider."
+      },
+      {
+        "title": "Choose recovery according to the layer condition",
+        "text": "Suitable accessible carpet may receive extraction, while affected padding or failed backing may need removal to reach the base. We will explain any lifting needed and protect connected equipment and services. Water condition, delamination and material deterioration can change whether retention remains practical."
+      },
+      {
+        "title": "Dry and prepare the footprint before relaying",
+        "text": "Suitable exposed substrate will be cleaned as needed and monitored during drying. Carpet recovery and the condition of the base will be recorded separately; one acceptable layer cannot establish that all are ready to cover. Re-stretching, seam repair or replacement and HVAC operation checks belong to their respective providers."
+      }
+    ],
+    "estimate": "Carpet construction, pad condition, equipment access and the wet footprint affect the scope. HVAC service and flooring reinstallation remain separate.",
+    "checklist": [
+      "Describe damp carpet and any lifted edges near the unit.",
+      "Share condensate-repair findings.",
+      "Identify prior extraction or carpet-treatment work."
+    ]
+  },
+  "crawl-space-water-removal/haslet": {
+    "intro": "Crawl space water removal in Haslet can leave soft sediment after the standing water has been lowered. We will distinguish liquid recovery from removal of deposited material and inspect the building components that become accessible as the work proceeds.",
+    "sections": [
+      {
+        "title": "Assess the deposit before further disturbance",
+        "text": "Soft ground and accumulated material can affect footing and equipment access. We will review the source and reachable conditions, identifying contamination or foundation concerns that need separate evaluation. The deposit will not automatically be treated as clean soil simply because the water looked clear."
+      },
+      {
+        "title": "Collect material that ordinary pumping leaves behind",
+        "text": "Reachable water will be recovered using a suitable collection route, followed by the agreed handling of loose deposited material. Sediment that blocks inspection or holds liquid may need controlled removal rather than repeated pumping over its surface. Excavation or disturbance near supports requires the appropriate separate decision."
+      },
+      {
+        "title": "Evaluate wood and ground as different parts of the loss",
+        "text": "We will inspect reachable joists, subfloor and insulation for wetting and remove specified unsuitable debris. Suitable retained wood can receive monitored drying, while ground conditions and continuing inflow need their own findings. Covering the deposit with new material will not be presented as completed removal."
+      }
+    ],
+    "estimate": "Water depth, sediment condition, clearance and disposal quantities influence the work. Ground correction, drainage and foundation repairs are separately scoped.",
+    "checklist": [
+      "Describe visible pooling and deposits without entering.",
+      "Share known source or drainage findings.",
+      "Identify existing ground coverings and access limits if known."
+    ]
+  },
+  "bathroom-mold-removal/haslet": {
+    "intro": "Bathroom mold removal in Haslet can require removing repeated layers of sealant before the joint beneath a shower or tub edge can be evaluated. We will distinguish the replaceable seal from affected backing and retained hard surfaces before a new bead hides the same connection.",
+    "sections": [
+      {
+        "title": "Determine what earlier resealing covered",
+        "text": "Available findings and accessible joint condition will guide the boundary. An added bead can conceal older material without establishing whether moisture reached the backing. We will not diagnose the source or the presence of mold solely from the color of a sealant line."
+      },
+      {
+        "title": "Expose the joint without treating scraping as complete remediation",
+        "text": "Approved sealant removal will provide access under the relevant work controls. Suitable retained surfaces will receive appropriate particle collection and compatible cleaning, while specified unsuitable porous backing will be removed and contained. Aggressive scraping or an incompatible product can damage the retained finish, so the method must fit the surface."
+      },
+      {
+        "title": "Leave sealing to the completed repair condition",
+        "text": "We will identify moisture correction, drying and any required independent evaluation before resealing. The repair provider will address the intended joint and surrounding water-management details. New sealant cannot repair deteriorated backing or substitute for treatment of the surfaces it covers."
+      }
+    ],
+    "estimate": "Sealant layers, finish sensitivity and backing condition affect access and treatment. Mold work requiring a license is referred to an appropriately licensed partner with provider and scope identified before work begins.",
+    "checklist": [
+      "Describe previous resealing and recurrence.",
+      "Identify nearby leaks or loose finishes.",
+      "Share assessment and plumbing findings."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/haslet": {
+    "intro": "Kitchen cabinet mold removal in Haslet can involve a shelf liner bonded to a damp cabinet base. We will evaluate whether lifting the liner can expose a treatable surface or whether the underlying panel and attached layers require removal together.",
+    "sections": [
+      {
+        "title": "Inspect what the liner conceals",
+        "text": "A removable edge may reveal affected material while the adhered portion remains hidden. Available assessment findings and cabinet construction will guide further access. Adhesive residue, surface staining and material deterioration will not be treated as interchangeable findings."
+      },
+      {
+        "title": "Select a removal method that respects the cabinet surface",
+        "text": "The responsible provider will establish controls and evaluate a limited area where appropriate before broader liner removal. If peeling tears a thin finish or cannot expose affected porous material adequately, removal of the unsuitable panel may be more appropriate than repeated scraping. Suitable retained surfaces will receive particle collection and compatible cleaning; solvent use will not be assumed safe for every cabinet coating."
+      },
+      {
+        "title": "Do not use a new liner to hide the result",
+        "text": "We will identify remaining moisture work, physical damage and required independent evaluation after treatment. Adhesive removal or loss of finish may require separate cabinet repair even where retained material was cleaned. Re-covering a swollen or unresolved base does not complete that repair."
+      }
+    ],
+    "estimate": "Liner adhesion, cabinet coating, panel construction and concealed condition affect the approach. Licensed mold work is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Show existing liner edges without pulling them further.",
+      "Share moisture and source-repair history.",
+      "Identify cabinet material or liner information if known."
+    ]
+  },
+  "mold-remediation-after-water-damage/haslet": {
+    "intro": "Mold remediation after water damage in Haslet can become necessary when ordinary repair demolition uncovers affected material and leaves a mixed debris pile. We will define the remediation scope and handling controls before cleanup or reconstruction continues.",
+    "sections": [
+      {
+        "title": "Reassess the newly exposed work area",
+        "text": "Current assessment findings will guide the affected boundary and material decisions. The presence of one newly discovered area does not establish that the whole room or every waste item is contaminated. Earlier demolition and movement will be reviewed so the plan addresses relevant exposed surfaces rather than only the remaining wall."
+      },
+      {
+        "title": "Handle the affected waste under the revised controls",
+        "text": "The identified provider will separate specified affected porous waste for controlled packaging and removal. Suitable retained surfaces will receive appropriate particle collection and cleaning, including handling areas included by the findings. Sweeping the mixed pile through adjacent rooms or continuing ordinary demolition would not substitute for that defined process."
+      },
+      {
+        "title": "Return the repair area to a documented stage",
+        "text": "We will identify moisture correction, untreated sections and any required independent evaluation before the next trade resumes. Waste already removed and material still in place will retain distinct records. A clear floor after debris collection does not establish that retained building surfaces have completed remediation."
+      }
+    ],
+    "estimate": "Exposed materials, prior disturbance, waste condition and the revised treatment boundary affect the scope. Work requiring a mold license is referred to an appropriately licensed partner with provider and scope disclosed before work begins.",
+    "checklist": [
+      "Share what was opened and when work stopped.",
+      "Identify where removed material was placed.",
+      "Provide current assessment and earlier water-loss records."
+    ]
+  },
+  "mold-removal-behind-drywall/haslet": {
+    "intro": "Mold removal behind drywall in Haslet can involve a previously patched wall where joint compound covers damaged facing around the opening. We will use assessment findings to distinguish finish repair from the board and cavity material that actually need treatment.",
+    "sections": [
+      {
+        "title": "Inspect the repair layers before expanding the patch",
+        "text": "A new compound surface can hide the edge of older board without changing its condition. We will review accessible backing and the existing opening to define the affected components. The outline of the cosmetic patch will not automatically set the removal boundary."
+      },
+      {
+        "title": "Choose controlled board removal over unnecessary surface abrasion",
+        "text": "Specified unsuitable wallboard and attached finish layers will be removed under the remediation controls and contained. Grinding a broad patch merely to expose affected paper can create avoidable disturbance and may not reach the cavity needing treatment. Suitable reachable retained framing and connections will receive appropriate particle collection and cleaning."
+      },
+      {
+        "title": "Prepare a repair edge after the treatment decision",
+        "text": "We will identify remaining moisture correction, access limits and required independent evaluation before the wall returns. The finish provider can then plan backing, taping and blending around the treated opening. A smooth patch is an appearance result, separate from what was removed or cleaned behind it."
+      }
+    ],
+    "estimate": "Patch construction, affected board, utilities and cavity access determine removal quantities. Mold work requiring a license is referred to an appropriately licensed partner with provider and scope identified before work begins.",
+    "checklist": [
+      "Share the patch and original leak history.",
+      "Provide existing opening photographs and assessment findings.",
+      "Identify any unknown finish material requiring evaluation before disturbance."
+    ]
+  },
+  "attic-mold-remediation/haslet": {
+    "intro": "Attic mold remediation in Haslet can require investigating affected material at the edge of foam applied beneath the roof deck. We will distinguish the visible foam surface from concealed decking and define access before treatment or replacement insulation proceeds.",
+    "sections": [
+      {
+        "title": "Establish what is actually visible",
+        "text": "A foam face does not show the condition of the wood it covers. Available assessment and roof findings will guide whether selective access is needed, while unexplored areas remain stated as unknown. The presence of foam alone does not establish a moisture defect or justify removing the entire installation."
+      },
+      {
+        "title": "Coordinate selective removal and retained-surface treatment",
+        "text": "The appropriate providers will define removal needed to expose the scoped material, with work controls and protected handling before disturbance. Specified unsuitable waste will be contained, and suitable reachable retained wood will receive particle collection and the specified cleaning. Foam removal that damages the receiving surface creates a separate repair question rather than an automatic cleaning completion."
+      },
+      {
+        "title": "Keep reinsulation separate from remediation acceptance",
+        "text": "We will identify source correction, drying and any required independent evaluation while the exposed area remains available. The insulation and repair providers address the intended replacement assembly and product requirements. Applying more foam must not conceal an unresolved deck or an area the treatment never reached."
+      }
+    ],
+    "estimate": "Foam attachment, roof access, exposed wood condition and selective-removal limits influence the scope. Licensed mold work is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Share known foam installation information.",
+      "Provide assessment and roof-inspection findings.",
+      "Identify existing exposed edges from safe photographs."
+    ]
+  },
+  "crawl-space-mold-remediation/haslet": {
+    "intro": "Crawl space mold remediation in Haslet can involve rough or splintered underside wood that does not respond like a smooth finished surface. We will evaluate the retained material and choose treatment that reaches the included details without treating weakened wood as sound support.",
+    "sections": [
+      {
+        "title": "Distinguish surface texture from deterioration",
+        "text": "Assessment findings and accessible condition will guide the scope. Raised grain, splinters and damaged connections may limit contact with a cleaning tool or indicate a repair concern. We will identify where structural evaluation is needed rather than assume that removing visible deposits restores the member."
+      },
+      {
+        "title": "Match physical treatment to the retained wood",
+        "text": "Under the specified controls, appropriate particle collection and cleaning will address reachable faces, recesses and connections. Any abrasive or material-removing treatment must be appropriate to the member and agreed scope; excessive removal is not a substitute for a structural repair decision. Unsuitable porous waste will be contained for disposal."
+      },
+      {
+        "title": "Judge completion beyond color or smoothness",
+        "text": "Remaining discoloration or rough texture will be distinguished from treatment performed and material damage. We will identify moisture correction, drying, inaccessible faces and required independent evaluation before insulation returns. A smoother-looking surface alone will not establish remediation completion or load capacity."
+      }
+    ],
+    "estimate": "Wood condition, detail access, clearance and the specified treatment affect labor. Mold work requiring a license is referred to an appropriately licensed partner with provider and scope disclosed before work begins.",
+    "checklist": [
+      "Provide existing assessment and underside photographs.",
+      "Share moisture-source findings.",
+      "Identify any structural repair recommendation already received."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/haslet": {
+    "intro": "Mold contaminated contents cleaning in Haslet can require a limited recovery trial when a painted furnishing has a finish that may change during treatment. We will establish what the trial is meant to answer before cleaning a broad area or treating matching pieces the same way.",
+    "sections": [
+      {
+        "title": "Separate removable deposits from a changing finish",
+        "text": "We will inspect the item and any earlier treatment, then identify an appropriate limited area with the owner. Controlled collection and a compatible cleaning trial can show whether deposits are removable without unacceptable coating change. Color transfer, softening or loss of sheen needs evaluation rather than being assumed to show that more contamination is coming off."
+      },
+      {
+        "title": "Use the result to continue, change method or stop",
+        "text": "Where the finish remains suitable and the included surface can be treated, the provider will carry out the agreed collection and detail cleaning. A damaged or unstable coating may require specialist conservation, refinishing or exclusion from ordinary cleaning. Repeatedly strengthening the process to force a cosmetic result is not an automatic next step."
+      },
+      {
+        "title": "Keep the trial\u2019s limits attached to the actual component",
+        "text": "A result on a painted face will not establish recovery of unfinished backing, upholstered parts or another item with a different coating. We will identify those separate decisions and appropriately dry and protect accepted treated surfaces. The owner can then distinguish cleaning completed from appearance changes or specialist work still unresolved."
+      }
+    ],
+    "estimate": "Finish sensitivity, prior cleaning, component construction and the trial result affect the scope. Mold work requiring a license is referred to an appropriately licensed partner with provider and scope identified before work begins.",
+    "checklist": [
+      "Identify sensitive or valuable finishes before treatment.",
+      "Share any cleaning products or methods already used.",
+      "Describe affected components and items intended for trial review."
+    ]
+  },
+  "kitchen-fire-cleanup/haslet": {
+    "intro": "Kitchen fire cleanup in Haslet can involve metal cabinet hardware or appliance surrounds with deposits that resemble permanent finish damage. We will evaluate residue removal on a limited area before deciding whether further cleaning would damage the retained surface.",
+    "sections": [
+      {
+        "title": "Separate deposits from changes to the metal finish",
+        "text": "Heat, residue and prior cleaning can leave different visible effects. We will inspect the finish and use a compatible limited treatment where suitable. A stain remaining after cleaning does not automatically justify a stronger abrasive or establish that the whole component must be replaced."
+      },
+      {
+        "title": "Clean the accepted surfaces and recessed details",
+        "text": "Suitable loose-deposit collection will precede compatible cleaning of included faces, edges and hardware recesses. Authorized detachment may be needed for access, with appliance and electrical components handled by their appropriate providers. Polishing or refinishing changes the surface and requires a separate decision rather than being silently included as residue removal."
+      },
+      {
+        "title": "Stop when the remaining issue is repair",
+        "text": "We will record coating loss, corrosion or heat distortion that cleaning cannot reverse. Remaining suppression-water damage will receive its own treatment scope. The owner and repair provider can then choose replacement or finish work using the actual result, without repeated scrubbing being presented as assured restoration."
+      }
+    ],
+    "estimate": "Metal finish, heat exposure, deposits and detail access affect treatment. Equipment operation and decorative refinishing are separate from building-surface cleaning.",
+    "checklist": [
+      "Identify affected metal surfaces and any earlier cleaning.",
+      "Share appliance or electrical inspection findings.",
+      "Describe heat and water exposure."
+    ]
+  },
+  "smoke-damage-cleanup/haslet": {
+    "intro": "Smoke damage cleanup in Haslet can require cleaning a textured brick or stone surface after soot has settled into its joints. We will evaluate the material and coating before choosing a method, since a smooth painted wall\u2019s treatment may not suit the same room\u2019s masonry.",
+    "sections": [
+      {
+        "title": "Evaluate the face and joints separately",
+        "text": "Rough faces, mortar joints and any applied sealer can respond differently. We will inspect the accessible deposit and use a limited compatibility evaluation where appropriate. Loose or damaged material needs a repair decision before aggressive cleaning changes the surface further."
+      },
+      {
+        "title": "Collect deposits without driving them deeper",
+        "text": "Appropriate loose-particle collection will precede the compatible treatment selected for the included surface. Deep recesses may require detailed access and further evaluation rather than simply applying more moisture to the broad face. Adjacent finishes will be protected, and cleaning residues managed so the work does not transfer deposits elsewhere."
+      },
+      {
+        "title": "Distinguish the cleaned result from appearance restoration",
+        "text": "We will explain remaining staining, finish change or odor concerns after the physical treatment. Repointing, recoating or specialist masonry work may be separate choices. A uniform color is not a promised cleaning result, and coating over unresolved deposits does not replace their removal."
+      }
+    ],
+    "estimate": "Masonry type, texture, joints, coating and adjacent finishes influence testing and labor. Specialist repair or refinishing is separately identified.",
+    "checklist": [
+      "Identify the brick or stone surface and any known sealer.",
+      "Describe prior cleaning attempts.",
+      "Share the fire location and other affected materials."
+    ]
+  },
+  "toilet-overflow-cleanup/haslet": {
+    "intro": "Toilet overflow cleanup in Haslet can require opening sheet flooring when wastewater has reached a loose seam or perimeter. We will distinguish a cleanable exposed face from contamination beneath the sheet before deciding whether the covering can remain.",
+    "sections": [
+      {
+        "title": "Use contact findings rather than surface appearance",
+        "text": "An intact face may be washable while an open seam allows water to reach backing or the floor base. We will review the release and inspect accessible edges after collecting reachable wastewater. A dry sheet surface does not establish that its underside escaped contact."
+      },
+      {
+        "title": "Expose the contacted layer where cleaning cannot reach",
+        "text": "Specified unsuitable covering or backing will be removed and contained as needed to reach contamination. We will physically remove soil and residue from suitable retained surfaces before appropriate disinfection. Bonded flooring or unknown underlying material may require further evaluation; lifting will not be promised as a reversible salvage step."
+      },
+      {
+        "title": "Resolve the receiving base before another sheet covers it",
+        "text": "Suitable retained substrate will receive moisture checks and drying, with softness or remaining adhesive issues identified separately. The installer determines preparation and replacement requirements. A sealed new seam cannot remedy contamination or deterioration left beneath it."
+      }
+    ],
+    "estimate": "Seam condition, backing, attachment and actual wastewater contact affect removal. Plumbing repair and new flooring installation retain separate scopes.",
+    "checklist": [
+      "Describe the overflow and source-repair status.",
+      "Show loose seams or perimeter edges if accessible.",
+      "Share known flooring layers or earlier repairs."
+    ]
+  },
+  "fire-damaged-debris-removal/haslet": {
+    "intro": "Fire damaged debris removal in Haslet can involve hardware the owner wants retained while the burned material around it is discarded. We will determine whether controlled separation is practical before treating the entire attached assembly as one waste load.",
+    "sections": [
+      {
+        "title": "Identify retained pieces before destructive removal",
+        "text": "Handles, brackets or other requested components may still be connected to charred material. We will inspect accessible attachment and damage, with utilities or unstable support evaluated by the appropriate provider. A request to keep a piece will not establish that it remains suitable for reuse."
+      },
+      {
+        "title": "Separate salvage without spreading loose debris",
+        "text": "Where authorized and practical, suitable tools and controlled detachment will separate the agreed items from approved waste. Burned fragments will be contained, and reachable fasteners or sharp remnants collected from the work area. If removal would damage a fragile item or disturb an unsafe connection, that decision will be resolved before the assembly is broken apart."
+      },
+      {
+        "title": "Keep retained hardware out of the completed-cleaning category",
+        "text": "Recovered pieces will remain identifiable for residue cleaning, repair or specialist evaluation as needed. The cleared building surface may still require soot treatment or drying. Salvage from a debris load is a handling result, not proof that the item or its former mounting is ready to reinstall."
+      }
+    ],
+    "estimate": "Attachment, fragility, debris condition and requested salvage affect removal time. Cleaning or certifying retained items for reuse is separately scoped.",
+    "checklist": [
+      "Identify specific attached pieces to review before disposal.",
+      "Share site-release and inspection status.",
+      "Provide any insurer or specialist retention instructions."
+    ]
+  },
+  "fire-damaged-contents-cleaning/haslet": {
+    "intro": "Fire damaged contents cleaning in Haslet can involve a bicycle or similar assembled sporting item with soot on both its frame and moving components. We will distinguish exterior recovery from the mechanical inspection needed before it returns to use.",
+    "sections": [
+      {
+        "title": "Inspect exposed surfaces and enclosed mechanisms separately",
+        "text": "A cleanable frame finish does not describe bearings, cables, brakes or padded components. We will review visible heat and water damage before proposing treatment. Components whose function may be affected need the appropriate specialist rather than an operating assurance from surface cleaning."
+      },
+      {
+        "title": "Clean accepted exterior parts with the finish protected",
+        "text": "Suitable loose-residue collection will precede compatible detail cleaning on the agreed frame faces and accessible joints. Authorized removal of detachable accessories may improve access, with parts kept associated with the item. Cleaning products or moisture will not be introduced indiscriminately into enclosed mechanisms to chase hidden residue."
+      },
+      {
+        "title": "Hand off the item with its mechanical status explicit",
+        "text": "We will identify remaining corrosion, damaged padding or finish changes after cleaning and drying suitable surfaces. Lubrication, adjustment and safety checks belong with the relevant service provider. A cleaned frame can be ready for that inspection while the assembled item remains unapproved for use."
+      }
+    ],
+    "estimate": "Construction, finish, heat exposure and mechanical access influence treatment. Specialist service and replacement parts are separate from exterior cleaning.",
+    "checklist": [
+      "Identify assembled sporting items and attached accessories.",
+      "Describe fire and water exposure.",
+      "Share any existing mechanical inspection findings."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/haslet": {
+    "intro": "Fire extinguisher residue cleanup in Haslet can involve a liquid discharge that has collected beneath equipment or along floor seams. We will identify the agent before collecting the residue and choose treatment suited to both its form and the contacted surface.",
+    "sections": [
+      {
+        "title": "Confirm the agent before adding cleaning products",
+        "text": "The label and available product information will guide the approach. We will not treat an unidentified liquid as ordinary water or assume the process used for dry powder is suitable. Unknown or incompatible conditions may need further product or specialist guidance before cleaning proceeds."
+      },
+      {
+        "title": "Recover pooled material before detailing the edges",
+        "text": "Reachable liquid will be collected using suitable equipment and handling arrangements, then included retained surfaces will receive compatible cleaning. Any rinse or cleaning moisture used must also be managed rather than pushed beneath adjacent equipment. Absorbent backing or an inaccessible seam may need a separate removal or access decision."
+      },
+      {
+        "title": "Check residue and equipment condition separately",
+        "text": "We will inspect accessible treated edges for remaining deposits and record coating changes or other damage. Technical equipment interiors and operation remain with the appropriate provider. Extinguisher servicing and any fire or water restoration are distinct from the completed residue-cleaning boundary."
+      }
+    ],
+    "estimate": "Agent identification, pooled quantity, surface construction and access determine method and labor. Equipment servicing and damaged-finish repair are separately identified.",
+    "checklist": [
+      "Share the extinguisher label or incident record.",
+      "Describe where liquid collected or traveled.",
+      "Identify equipment and absorbent materials contacted."
+    ]
+  },
+  "emergency-board-up-after-fire/haslet": {
+    "intro": "Emergency board up after fire in Haslet can require replacing a temporary panel that has loosened or deteriorated before permanent repairs arrive. We will determine whether the failure is in the panel, its attachment or the receiving structure before simply fastening the same cover again.",
+    "sections": [
+      {
+        "title": "Find why the existing protection no longer holds",
+        "text": "We will inspect accessible panel condition, fastener locations and surrounding material under permitted site access. A warped panel and a damaged attachment edge need different corrections. Reusing a failed fixing point or adding screws without checking the receiving material may leave the same weakness unresolved."
+      },
+      {
+        "title": "Replace or refit according to the failed component",
+        "text": "Approved unstable material will be handled before the suitable replacement arrangement is fitted. A damaged panel may need replacement, while compromised support requires another attachment or qualified repair decision. The completed fit will be checked for movement and uncovered areas; panel replacement alone will not be represented as repairing the frame."
+      },
+      {
+        "title": "Identify changes that could invalidate the new arrangement",
+        "text": "We will record the revised protection and any remaining limitations for the repair provider. Later removal of surrounding frame material or another observed failure requires a new review rather than assuming the refitted cover remains suitable indefinitely. Temporary protection does not establish occupancy permission or permanent weatherproofing."
+      }
+    ],
+    "estimate": "Existing panel condition, failed attachments, opening access and receiving material affect the work. Structural repair and permanent replacement remain separate.",
+    "checklist": [
+      "Share safe photographs of the loose or damaged covering.",
+      "Describe any known change since it was installed.",
+      "Provide site-access authorization and pending repair details."
+    ]
+  },
+  "crawl-space-sewage-cleanup/haslet": {
+    "intro": "Crawl space sewage cleanup in Haslet can require evaluating powder or another product spread over a spill before professional treatment. We will identify that added material and the wastewater contact before deciding how to remove residue and clean the retained surfaces.",
+    "sections": [
+      {
+        "title": "Identify what was added before disturbing the deposit",
+        "text": "Product labels or prior-work information can affect safe handling and compatibility. We will not assume that an unknown powder disinfected the area or that it can be mixed with a cleaning product. If its identity or condition requires specialist evaluation, that prerequisite will be resolved before routine disturbance."
+      },
+      {
+        "title": "Remove the waste rather than cover it again",
+        "text": "Reachable wastewater and the specified deposited material will be collected with suitable controls. Unsuitable contaminated porous waste will be contained for disposal, while retained appropriate surfaces receive physical soil removal before compatible disinfection. Ground material needing further evaluation will have a separate decision rather than being described as treated because odor has changed."
+      },
+      {
+        "title": "Check the exposed building materials after collection",
+        "text": "Reachable joists, subfloor and insulation will be inspected for remaining contact and wetting, with suitable retained wood dried as needed. Source repair and any inaccessible sections remain explicit. New powder, covering or insulation must not conceal unremoved contamination or unresolved product residue."
+      }
+    ],
+    "estimate": "Added-product identity, contamination, access and disposal requirements influence the scope. Work beyond Go Green\u2019s authority is referred to an appropriately licensed provider, identified before work begins.",
+    "checklist": [
+      "Share labels or records for any product already applied.",
+      "Describe the sewage source and repair status.",
+      "Provide existing photographs without entering or disturbing the area."
+    ]
+  }
+}

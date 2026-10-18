@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/josephine": {
+    "intro": "Emergency water extraction in Josephine can stop at a wet vacuum’s protective tank limit while water remains on the floor. In a float-controlled unit, rising recovered liquid can close the suction path even though the motor still runs. We will restore the proper collection condition instead of treating motor noise as proof that the tool is recovering water.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Josephine: identify why collection stopped",
+        "text": "Water conditions and the required collection equipment are established before use. If delivery stops, the provider checks the selected unit’s tank level and protective shutoff under its instructions. A full-tank shutoff is distinguished from a hose obstruction or equipment fault; the floor is not assumed empty because suction stopped."
+      },
+      {
+        "title": "Empty the receiving tank without defeating its protection",
+        "text": "The unit is stopped and isolated as required before recovered liquid is emptied through the accepted waste route. The float or level-control arrangement is checked for free movement and the proper configuration before collection resumes. A stuck or damaged control needs appropriate service or replacement rather than being tied down so more water can enter the motor path."
+      },
+      {
+        "title": "Verify pickup again and finish the remaining water",
+        "text": "After the unit is properly reassembled, actual collection and tank response are checked at the remaining water. Filling limits continue to govern the setup, with another suitable collection method selected where the required volume exceeds its practical use. Covered wet layers retain their own access and drying decisions; restoring suction does not establish that the building is dry."
+      }
+    ],
+    "estimate": "Water condition, unit configuration, tank interruption and the receiving route determine collection. Equipment servicing and material drying are separately assigned.",
+    "checklist": [
+      "Identify the wet collection unit and observed shutoff behavior.",
+      "Describe water remaining when suction stopped.",
+      "Share the source-control and accepted disposal arrangements."
+    ]
+  },
+  "burst-pipe-cleanup/josephine": {
+    "intro": "Burst pipe cleanup in Josephine can proceed around a plumber’s cold-press repair of an eligible copper supply line. The fitting needs full insertion and a completed press cycle, rather than simply being pushed over the cut pipe. We will coordinate collection and building access with that repair so source testing remains available before the wet wall is closed.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Josephine: establish the pipe and repair access",
+        "text": "The plumber isolates the line and selects a press system supported for the actual tubing and application. Restoration collects reachable released water and opens the agreed damaged building layers, keeping the pipe ends and pressing clearance available. A fitting selected for another material or service is not assumed suitable because its nominal diameter matches."
+      },
+      {
+        "title": "Prepare and press the connection as a matched system",
+        "text": "The plumber prepares the tube ends, removes burrs that could damage the sealing element and marks the required insertion depth. The fitting is fully seated and pressed with the system-matched tool and jaw under its instructions. The witness mark helps reveal movement during assembly; a fitting sitting in place is not evidence that it was pressed."
+      },
+      {
+        "title": "Test the source before closing the dried material",
+        "text": "The plumber completes the supported connection and system checks, correcting an unpressed or failed joint before service is restored. Suitable exposed building material receives cleaning and monitored drying, while designated unsuitable wet layers are removed. The repair remains visible through its required checks, and framing dryness does not substitute for the pipe test."
+      }
+    ],
+    "estimate": "Tube condition, pressing clearance, required system checks and affected building layers determine the sequence. Press fitting installation and plumbing release are separately assigned from cleanup and reconstruction.",
+    "checklist": [
+      "Share the pipe identification and plumber’s proposed repair system.",
+      "Identify access needed for the press tool and connection checks.",
+      "Describe wet wall, floor or ceiling material already exposed."
+    ]
+  },
+  "appliance-leak-cleanup/josephine": {
+    "intro": "Appliance leak cleanup in Josephine can follow water spilling from a dishwasher drain air gap when its downstream route is obstructed. That fitting maintains an air break between the appliance and the receiving drain, so bypassing it can create another problem. We will coordinate correction of the actual drain arrangement with treatment of the cabinet and floor reached by the spill.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Josephine: identify where the air-gap discharge escaped",
+        "text": "The appliance or plumbing provider identifies the installed arrangement and determines whether the receiving hose, connection or drain is obstructed. Dishwasher operation is restricted as needed while accessible spilled water is recovered. The spill is not assumed to be clean supply water simply because it came from a countertop fitting."
+      },
+      {
+        "title": "Restore the receiving route without deleting the air break",
+        "text": "The responsible provider clears or replaces the supported obstructed component and restores the model-specific hose routing and connections. An installed air gap is not bypassed to hide visible discharge, and a required high loop is secured under the relevant installation instructions. These details control the drain path; an arbitrary hose extension or kinked downward run is not a repair."
+      },
+      {
+        "title": "Check drainage while the contacted materials remain accessible",
+        "text": "The equipment provider completes the supported draining and leak checks before the connections are concealed. Restoration removes designated unsuitable contacted porous material and physically cleans suitable retained cabinet, wall and floor surfaces, followed by material drying. Appliance drainage and building readiness remain separate conditions before the unit and storage area return to normal use."
+      }
+    ],
+    "estimate": "Air-gap arrangement, receiving-route obstruction, water contact and exposed layers determine the work. Appliance and plumbing service remain separate from material cleanup and reconstruction.",
+    "checklist": [
+      "Share the dishwasher model and installed drain arrangement.",
+      "Describe where discharge appeared and any previous bypass or hose change.",
+      "Identify cabinet, floor and wall surfaces reached by the water."
+    ]
+  },
+  "storm-water-damage-cleanup/josephine": {
+    "intro": "Storm water damage cleanup in Josephine can follow rain entering through a broken slate roof unit. An experienced slate roofer may replace an individual unit using a concealed repair fastening and a separate metal bib that shields the new nail opening. We will coordinate that source work with recovery of the water already inside, keeping the roof repair distinct from a coat of mastic over the break.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Josephine: establish whether individual slate repair is suitable",
+        "text": "The roofing provider evaluates safe access, surrounding slate, roof support and the extent of damage before selecting a localized repair. A generally deteriorated roof or unsound support can require broader work. Interior collection and affected-material access follow the actual water path rather than the number of visibly broken units."
+      },
+      {
+        "title": "Secure the replacement and shield its repair fastening",
+        "text": "For the accepted method, the slate roofer removes the failed unit and fasteners without treating adjacent slate as disposable support. The replacement is secured through the available overlying joint, then a properly fitted metal bib slides beneath that joint and over the repair nail. The bib sheds water from the new penetration; an exposed fastening or surface smear does not perform that layered detail."
+      },
+      {
+        "title": "Finish interior recovery after the source work is checked",
+        "text": "The roofing provider checks the completed repair and addresses displaced neighboring units or other entry found during access. Interior work collects reachable water, removes specified unsuitable wet layers and dries accepted retained construction. A restored slate detail does not establish dry insulation below it or authorize covering an unresolved interior moisture condition."
+      }
+    ],
+    "estimate": "Slate condition, fastening access and exposed roof support affect the source repair. Roofing, interior recovery and replacement finishes are separately assigned.",
+    "checklist": [
+      "Share the roofing provider’s findings on slate and underlying support.",
+      "Describe temporary protection and water entering below the roof.",
+      "Identify interior layers already opened or removed."
+    ]
+  },
+  "structural-drying-services/josephine": {
+    "intro": "Structural drying services in Josephine can need depth-specific wood checks when cleaning water or condensation leaves the exposed face damp. An uninsulated pin can respond along its wet contact path rather than isolate the interior being evaluated. We will use suitable insulated electrodes where appropriate and let the depth findings guide drying of retained timber.",
+    "sections": [
+      {
+        "title": "Structural drying services in Josephine: distinguish surface wetting from retained moisture",
+        "text": "Source correction, accessible water recovery and removal of unsuitable wet layers precede the retained-wood checks. The provider identifies permitted measurement locations, timber condition and any concealed-service restrictions. A shallow damp face is recorded separately from an interior finding, rather than dismissed or used to represent the entire member."
+      },
+      {
+        "title": "Measure at supported depths with insulated pins",
+        "text": "Where appropriate, insulated pins are introduced using their compatible electrode and prescribed method, with the exposed tips positioned at the intended depth. The insulated shafts reduce interference from wet wood nearer the surface. Material settings, wood temperature and treatment limitations still apply; insulation on a pin does not make every timber reading reliable."
+      },
+      {
+        "title": "Adjust drying to the wood actually checked",
+        "text": "Marked location and depth permit meaningful repeat comparisons as the retained wood dries. Confirmed deeper moisture can require continued drying or improved access, while a changed surface condition is evaluated separately. Repair follows the agreed material endpoint, with unchecked connections and structural deterioration left for their appropriate evaluation."
+      }
+    ],
+    "estimate": "Permitted pin access, member thickness, surface wetting and repeat depth readings affect the drying plan. Structural evaluation, source repair and reconstruction remain separate.",
+    "checklist": [
+      "Share earlier readings with their location and measurement depth.",
+      "Identify recently washed surfaces or condensation at the wood face.",
+      "Provide timber treatment information and concealed-service restrictions."
+    ]
+  },
+  "floor-water-damage-cleanup/josephine": {
+    "intro": "Floor water damage cleanup in Josephine can expose concrete whose remaining moisture vapor exceeds the replacement flooring system’s limits after the release is controlled. A flooring specialist may specify a bonded epoxy moisture-control course rather than claim the slab has become dry. We will complete collection and substrate cleanup first, with that separately designed vapor-control work governed by its actual preparation and cure requirements.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Josephine: establish a suitable receiving slab",
+        "text": "Source correction, collection and affected-layer removal precede the flooring provider’s substrate evaluation. The selected system requires sound, clean concrete and its specified moisture and surface conditions. Continued water entry, a wet receiving surface or a weak layer is resolved under that system’s requirements rather than concealed by coating."
+      },
+      {
+        "title": "Form the specified continuous resin course",
+        "text": "For an accepted system, the installer prepares the required concrete profile and collects bond-breaking residue before combining the premeasured resin and hardener. The freshly mixed material is spread within its working time to the prescribed film coverage, including edges and recesses. Thin spots, pinholes or an unreacted mixture do not perform the specified continuous vapor-control function."
+      },
+      {
+        "title": "Respect cure and the next layer’s bonding requirements",
+        "text": "The installer follows the course’s cure, movement-joint and subsequent primer or underlayment requirements before flooring returns. The bonded layer slows vapor emission; it does not extract water or establish that concrete beneath it is dry. Further drilling through it or substituting an unrelated adhesive can compromise the assembly, so later testing and repairs follow the selected system’s instructions."
+      }
+    ],
+    "estimate": "Slab condition, continuing moisture sources and the selected flooring assembly determine suitability. Moisture testing, bonded vapor-control installation and replacement flooring are separately assigned from water collection and cleanup.",
+    "checklist": [
+      "Share source-repair and slab-moisture findings.",
+      "Provide the proposed flooring and moisture-control system instructions.",
+      "Identify coatings, adhesive residue, cracks and embedded services."
+    ]
+  },
+  "ceiling-water-damage-cleanup/josephine": {
+    "intro": "Ceiling water damage cleanup in Josephine can leave retainable traditional plaster that has separated from sound wood lath after a leak. A qualified plaster provider may reattach that finish using a supported adhesive-and-clamp system after cleanup and drying. We will separate that attachment repair from moisture removal so a filled crack is not mistaken for a stable ceiling.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Josephine: evaluate the plaster and its support",
+        "text": "Source control and qualified evaluation determine whether the finish and lath can remain or need controlled removal. Unstable overhead material is addressed before work beneath it. Reachable water is collected, specified unsuitable layers are removed and suitable retained construction receives cleaning and drying before adhesive repair is considered."
+      },
+      {
+        "title": "Reach the plaster-to-lath gap without drilling through its support",
+        "text": "For an eligible repair, the plaster provider makes the prescribed access holes through the finish to the lath and collects drilling dust. The selected system’s conditioner and adhesive are introduced at those contacts. Holes missing the required backing are not treated as equivalent injection points, and forceful pressure does not replace the provider’s suitability decision."
+      },
+      {
+        "title": "Hold soft contact through the adhesive cure",
+        "text": "The provider uses the specified temporary clamps to bring the plaster and lath into supported contact while the adhesive cures. Released adhesive is collected from the face, and the clamps are removed only under the product’s readiness instructions. Filling access holes and decorative matching follow the attachment check; they do not resolve wet backing or unsound lath."
+      }
+    ],
+    "estimate": "Plaster retention, lath condition, access holes and supported clamping affect the repair option. Qualified plaster reattachment and finishing remain separate from water cleanup and source repair.",
+    "checklist": [
+      "Share source-repair findings and any exposed lath photographs.",
+      "Describe plaster movement from an already safe position.",
+      "Provide the plaster provider’s retention and attachment proposal."
+    ]
+  },
+  "bathroom-mold-removal/josephine": {
+    "intro": "Bathroom mold removal in Josephine can require source correction where a conventional mortar-bed shower has blocked drain weep passages. Water beneath the tile needs that drainage route as well as the visible outlet. We will coordinate the assessed material treatment with a qualified shower provider’s repair so new tile does not conceal the same retained-water condition.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Josephine: establish the actual shower construction",
+        "text": "Assessment identifies affected backing and framing, while the shower provider evaluates the liner, mortar bed and clamping drain. A blocked weep route is not diagnosed from grout color alone. Required access and removal are defined before the assembly is disturbed, with the remediation and waterproofing scopes separately assigned."
+      },
+      {
+        "title": "Restore and protect the subsurface drain passages",
+        "text": "Where the repair plan retains this conventional system, the shower provider corrects the specified drain and liner detail. Appropriate protection around the weep openings keeps the replacement mortar from obstructing them again. The pre-slope and drain connection must suit the selected assembly; this method is not transferred to a different bonded-membrane or linear-drain system."
+      },
+      {
+        "title": "Complete the affected materials before the bed is covered",
+        "text": "The licensed provider removes specified unsuitable affected porous material and physically cleans suitable retained surfaces under the required controls, collecting deposits and residue. The shower provider completes its required liner and drainage checks before reinstatement conceals the detail. Source correction, retained-material drying and applicable independent evaluation remain separate from the appearance of the finished grout."
+      }
+    ],
+    "estimate": "Shower construction, drain access and assessment findings determine the repair and treatment. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Shower rebuilding, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share the shower-system identification and drain inspection findings.",
+      "Provide assessment records for backing and framing.",
+      "Describe previous mortar-bed or liner repairs."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/josephine": {
+    "intro": "Kitchen cabinet mold removal in Josephine can need source correction at a leaking tubular drain slip joint beneath the sink. Its nut seats a correctly selected washer at the receiving connection; threads alone do not form the intended water seal. We will coordinate the plumber’s reassembly with the assessed cabinet treatment so a tightened nut does not become the only response to affected material.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Josephine: identify the joint and affected layers",
+        "text": "Assessment defines the cabinet, wall and floor material included in remediation, while the plumber identifies the actual leaking connection. A tapered slip-joint washer, reducing washer and flanged tailpiece washer serve different receiving details. The repair uses the component suited to that connection rather than another seal of approximately the same size."
+      },
+      {
+        "title": "Seat the specified washer without forcing misaligned tubing",
+        "text": "The plumber prepares the tube and assembles the nut and correct washer under the fitting instructions. In the supported tapered-washer arrangement, the bevel faces its receiving slip-joint connection and tightening seats the seal around the tube. Damaged sealing faces or unsuitable parts require correction; repeated tightening or an exterior sealant bead does not establish proper assembly."
+      },
+      {
+        "title": "Check the drain and complete physical cabinet treatment",
+        "text": "The plumber checks the reassembled drain during the supported test before normal sink use resumes. The licensed provider removes specified unsuitable affected porous layers and physically cleans suitable retained surfaces under the work controls, collecting deposits and residue. Cabinet reconstruction follows source correction, retained-material drying and applicable independent evaluation; the plumbing leak check does not establish the condition behind a retained panel."
+      }
+    ],
+    "estimate": "Drain-joint identification, seal condition and assessed cabinet access shape the sequence. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Plumbing, cabinet reconstruction, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment findings and the plumber’s joint identification.",
+      "Describe sink restrictions and repair access already present.",
+      "Identify wet cabinet layers and attempted joint repairs."
+    ]
+  },
+  "mold-remediation-after-water-damage/josephine": {
+    "intro": "Mold remediation after water damage in Josephine can need a separately specified exterior-masonry treatment where investigation confirms rain absorption through an otherwise repaired wall. An eligible penetrating silane/siloxane water repellent changes water uptake at the masonry without forming an ordinary surface film. We will coordinate that limited source work with the assessed interior remediation, rather than apply a coating over an unresolved roof, joint or rising-damp problem.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Josephine: establish whether masonry absorption is the source",
+        "text": "Assessment defines affected interior materials, while the qualified masonry provider evaluates rain entry, repairs and remaining moisture. Roof edges, caps, open joints, cracks and ground moisture receive their own corrections first. The provider tests the proposed treatment on the actual eligible above-grade masonry; historic material can require architectural-conservation review rather than automatic whole-wall application."
+      },
+      {
+        "title": "Apply the supported penetrating treatment to the prepared area",
+        "text": "For accepted treatment, the applicator cleans and prepares the specified masonry and resolves its drying condition before protecting adjacent surfaces. The selected product is applied by its supported method and coverage sequence, with penetration time observed and heavy unabsorbed runs addressed as instructed. Existing finishes, unsuitable stone or excessive moisture can prevent the intended uptake; more surface liquid is not treated as proof that the pores received the treatment."
+      },
+      {
+        "title": "Observe treatment development and complete interior remediation separately",
+        "text": "The exterior provider maintains the product-required protection from rain while its water-repellent properties develop. This treatment is not structural consolidation, remediation of interior deposits or a cure for water entering behind the treated face. The licensed provider removes specified unsuitable affected porous material and physically cleans suitable retained surfaces under the work controls, collecting deposits and residue before drying and applicable independent evaluation."
+      }
+    ],
+    "estimate": "Confirmed absorption, masonry eligibility and prior repairs determine the limited exterior treatment. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Masonry correction, architectural conservation, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment and qualified rain-entry findings.",
+      "Identify repaired joints, wall caps and previous exterior treatments.",
+      "Provide the proposed masonry product and trial-area findings."
+    ]
+  },
+  "mold-removal-behind-drywall/josephine": {
+    "intro": "Mold removal behind drywall in Josephine can require coordination with a plumber replacing an affected supply connection using an eligible cold-expansion PEX system. The expanded tube and ring retract around the inserted fitting through the material’s shape memory. We will keep the repair accessible while the assessed cavity receives physical treatment, rather than covering an unfinished connection with replacement wallboard.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Josephine: confirm the repair system and affected cavity",
+        "text": "Assessment establishes the affected wallboard, insulation and retained framing before disturbance. The plumber identifies the actual pipe and selects a supported expansion tube, ring, fitting and tool combination. Eligibility follows that system’s requirements; a plastic tube of matching diameter does not establish compatibility."
+      },
+      {
+        "title": "Allow the expanded tube and ring to recover around the seated fitting",
+        "text": "The plumber prepares the tube and ring and expands them using the required rotating-head procedure. The fitting is inserted to its prescribed stop while the assembly remains expanded, then the tube and ring contract onto it. Connection recovery and readiness for testing follow the product instructions and actual conditions, rather than an improvised heat or clamp treatment."
+      },
+      {
+        "title": "Complete source checks and cavity treatment before closure",
+        "text": "The licensed provider removes specified unsuitable affected porous layers and physically cleans suitable retained material under the remediation controls, collecting loosened deposits and residue. The plumber completes the required connection and system checks while access remains available. Source repair, retained-material drying and applicable independent evaluation remain separate findings before wall reconstruction."
+      }
+    ],
+    "estimate": "Expansion-tool access, pipe-system eligibility and assessed cavity layers determine the sequence. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Plumbing repair, reconstruction, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share the assessment and actual pipe-system identification.",
+      "Identify existing repair access and required tool clearance.",
+      "Provide the plumber’s connection and test requirements before wall closure."
+    ]
+  },
+  "kitchen-fire-cleanup/josephine": {
+    "intro": "Kitchen fire cleanup in Josephine can involve a cooking area protected by a fixed suppression system whose heat-sensitive detection links released during the fire. Cleaning the hood or refilling the agent container does not restore that mechanical detection path. We will coordinate qualified system service beside the room’s physical residue cleanup where this equipment is actually installed.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Josephine: identify the installed detection arrangement",
+        "text": "The authorized fire-protection provider identifies the system, heat exposure and applicable service instructions before cleaning or resetting affects its components. A fusible-link arrangement uses a temperature-rated release in a tensioned mechanical path; replacing it with an arbitrary connector changes its function. Cooking equipment and system operation remain restricted under the responsible providers’ directions."
+      },
+      {
+        "title": "Restore and test the heat-detection linkage separately from the agent charge",
+        "text": "For an accepted system requiring this work after fire actuation, the trained provider replaces the specified fusible links with approved, correctly rated parts and restores the supported linkage positions and tension. The manufacturer’s controlled test-link procedure verifies that release of the detection path actually actuates the mechanism before final resetting. A stationary-looking cable or a charged agent tank alone does not demonstrate that detection and release function together."
+      },
+      {
+        "title": "Complete the kitchen cleanup without interfering with the restored system",
+        "text": "Included loose residue is collected and accepted room surfaces receive finish-compatible physical cleaning. Internal exhaust cleaning, agent recharge and the system’s manual actuation and equipment checks remain separately qualified tasks. The fire-protection provider establishes return-to-service status after its required work; cleaned walls and cabinets do not establish cooking readiness."
+      }
+    ],
+    "estimate": "Installed system type, detection damage and permitted kitchen access define separate service and cleanup tasks. Suppression testing, recharge, internal exhaust work and appliance repairs are separately assigned.",
+    "checklist": [
+      "Share the installed suppression-system identification and actuation report.",
+      "Identify fire-protection service findings and restrictions on cooking equipment.",
+      "Describe hood, cabinet and wall surfaces already cleaned."
+    ]
+  },
+  "smoke-damage-cleanup/josephine": {
+    "intro": "Smoke damage cleanup in Josephine can include specialist hydraulic washing of suitable smoke-affected soft contents. In a supported compartmented system, the load is restrained while cylinder movement through the cleaning bath supplies hydraulic action. We will arrange an equipped contents provider where that process fits the actual items, separately from cleanup of the room.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Josephine: decide whether the contents suit hydraulic washing",
+        "text": "The provider examines heat damage, care information, fabric strength, color stability and attached components before accepting a load. Charred or weakened pieces may need another disposition, and delicate objects receive their appropriate specialist evaluation. A machine’s available program does not make every belonging recoverable."
+      },
+      {
+        "title": "Keep the load restrained while the bath provides the cleaning action",
+        "text": "In the supported four-pocket arrangement, accepted contents are secured within separate chambers that limit tumbling as the cylinder rotates through water and the specified detergents. The equipment’s matched recipe controls the water level, temperature, rotation and chemical delivery rather than substituting a hotter household wash. Supported flushing, draining and extraction collect the released soil and spent bath as part of that process."
+      },
+      {
+        "title": "Check treated items before returning them to the restored room",
+        "text": "The provider follows the accepted drying requirements and reassesses remaining residue, odor, shape and component damage. Further treatment or replacement may be needed when the condition exceeds the accepted process. Contents washing does not clean the building surfaces, restore heat-damaged components or establish whole-property air quality; the receiving room follows its own cleanup and repair requirements."
+      }
+    ],
+    "estimate": "Actual contents suitability, restrained loading and the equipped provider’s supported cycle determine feasibility. Specialist transport, textile repairs and building-surface smoke cleanup are separate scopes.",
+    "checklist": [
+      "Identify smoke-affected soft contents and their care labels.",
+      "Flag heat damage, weak seams, unstable colors and attached components.",
+      "Share prior washing and the contents provider’s proposed process."
+    ]
+  },
+  "toilet-overflow-cleanup/josephine": {
+    "intro": "Toilet overflow cleanup in Josephine can follow poor solids transfer in an existing grinder-pump sewage system with worn cutting components. Where the qualified equipment provider confirms that repair, its mating cutter and disc need restored faces and the prescribed running gap. We will coordinate room cleanup with that physical service rather than treat a turning motor as proof that the solids-handling stage works.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Josephine: identify the existing pumping arrangement",
+        "text": "The plumbing or wastewater-equipment provider identifies the installed system, fault and continuing inflow before source service. Cutter wear is distinguished from a downstream blockage, electrical fault or an unsuitable pumping design. The repair uses that unit’s supported parts and instructions rather than substituting another model’s gap or adjusting the cutter in an energized wet basin."
+      },
+      {
+        "title": "Restore the mating cutting faces and running clearance",
+        "text": "After appropriate isolation and equipment removal, the qualified provider removes and cleans the matched cutter and disc for service. Worn parts receive approved replacements or manufacturer-permitted machine-shop resurfacing; grinding is not improvised in the work area. Where resurfacing changes thickness, the provider corrects the specified shim arrangement and measures the reassembled running gap with shaft end play resolved. The checked clearance and fastener requirements restore the intended cutting relationship before system operating checks."
+      },
+      {
+        "title": "Treat the overflow footprint independently of equipment service",
+        "text": "Reachable room wastewater and soil are collected through the assigned waste route, with specified unsuitable contacted porous material contained for removal. Suitable retained hard surfaces receive physical cleaning and appropriate label-directed disinfection before required drying. Pump repair does not disinfect the transfer stream or establish that contaminated material beneath a floor edge has been treated."
+      }
+    ],
+    "estimate": "The installed pumping design, identified fault and wastewater contact determine sequencing. Grinder service, downstream drain clearing and plumbing release remain separate from building cleanup and repair.",
+    "checklist": [
+      "Share the installed pump identity and qualified fault findings.",
+      "Describe continuing overflow and whether equipment service has begun.",
+      "Identify wastewater-contact areas and any earlier collection or cleaning."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/josephine": {
+    "intro": "AC leak water damage cleanup in Josephine can follow failed condensate transfer in an existing peristaltic pump with a worn head tube. The rollers work against that replaceable tube, so a rotating drive does not establish that the liquid path is functioning. We will coordinate the HVAC provider’s tube service with recovery of water already released into the building.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Josephine: distinguish the pumping tube from the drain hoses",
+        "text": "The HVAC provider identifies the pump and evaluates its head tube, external connections and control arrangement. A tube selected merely for the same visible diameter is not assumed to have the required fit and pumping properties. Building-water collection uses a separate suitable arrangement while that equipment is isolated for service."
+      },
+      {
+        "title": "Refit the supported tube around the roller assembly",
+        "text": "Under the selected model’s service instructions, the HVAC provider isolates power, releases the head cover and disconnects the tube’s inlet and outlet fittings. The worn tube is removed from the roller assembly, and the matched replacement is seated with its connectors in their prescribed housings before the cover returns. Pinched routing, an unseated connection or an incorrect tube requires correction rather than relying on faster motor operation."
+      },
+      {
+        "title": "Check liquid transfer and finish the wet building layers",
+        "text": "The HVAC provider uses the supported test procedure to check the reassembled pump and actual condensate route before normal operation resumes. Restoration collects released water, removes specified unsuitable wet layers and dries suitable retained construction. A repaired pump tube does not dry an already wetted ceiling or establish that concealed insulation can remain."
+      }
+    ],
+    "estimate": "Pump identity, head-tube access and the wet building layers determine sequencing. Peristaltic tube service, controls and HVAC release remain separate from collection, material drying and finish repair.",
+    "checklist": [
+      "Share the installed pump model and HVAC findings.",
+      "Identify condensate released during the fault or earlier service.",
+      "Describe wet construction and access already opened."
+    ]
+  },
+  "crawl-space-water-removal/josephine": {
+    "intro": "Crawl space water removal in Josephine can need a diaphragm pump where shallow muddy water defeats the chosen centrifugal setup. A flexible diaphragm moves liquid in repeated displacement strokes rather than relying on an impeller to maintain the same collection condition. We will select the recovery method for the remaining mixture and depth, with the receiving route established before pumping.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Josephine: match the pump to the remaining mixture",
+        "text": "The provider evaluates safe access, water condition, solids and the suction route before choosing equipment. A suitable diaphragm unit can serve accepted shallow-water or slurry applications within its own limits. That selection does not make contaminated water suitable for outdoor discharge or eliminate the need to remove oversized debris."
+      },
+      {
+        "title": "Maintain the displacement path through the selected equipment",
+        "text": "The intake strainer, suction connections and discharge remain suited to the unit and the actual mixture. The reciprocating diaphragm and directional valves must continue moving water toward the receiving point; damaged components or an obstructed intake require appropriate service. Any combustion-powered unit stays outside, with its exhaust kept from building openings and the crawl-space work area."
+      },
+      {
+        "title": "Check delivery as collection approaches the bottom",
+        "text": "Actual outlet delivery is monitored as the water becomes shallower, rather than assuming a running drive proves collection. The operator follows the selected unit’s submerged-intake and operating limits and changes the residual-water method when needed. Collected sludge stays within the disposal arrangement, while contacted insulation and retained framing receive their separate material treatment and drying."
+      }
+    ],
+    "estimate": "Water depth, mixture, equipment limits and receiving capacity determine the recovery setup. Permanent drainage, pump servicing and underside material drying are separately assigned.",
+    "checklist": [
+      "Describe remaining shallow water, sludge and larger debris.",
+      "Identify the available suction route and outdoor equipment space.",
+      "Share the water source and accepted receiving arrangement."
+    ]
+  },
+  "attic-mold-remediation/josephine": {
+    "intro": "Attic mold remediation in Josephine can need source correction where a bath exhaust duct’s inner air-carrying liner has slipped from its collar while the insulated jacket still looks attached. Tightening the jacket alone leaves the intended air path unresolved. We will coordinate the qualified duct connection repair with assessed attic treatment so moist exhaust stays within the supported route to its exterior outlet.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Josephine: distinguish the air passage from its covering",
+        "text": "Assessment identifies affected insulation and timber, while the mechanical provider checks the actual liner, collar and discharge arrangement. A torn or unsuitable inner duct receives its own replacement decision. An attached outer jacket or running fan does not establish that exhaust reaches the exterior terminal."
+      },
+      {
+        "title": "Fasten and seal the air-carrying liner before restoring its covering",
+        "text": "For an eligible collar connection, the mechanical provider draws the inner liner over the prescribed retaining bead and secures it with the supported draw band and tensioning method. Compatible sealing bridges the liner-to-collar junction as specified. The bead and correctly positioned band resist withdrawal; a wrap around loose insulation is not substituted for attachment of the air-carrying core."
+      },
+      {
+        "title": "Check exhaust delivery and finish the assessed attic treatment",
+        "text": "The mechanical provider restores the specified covering without crushing its insulation and checks the repaired exhaust route under the equipment requirements. The licensed provider removes specified unsuitable affected porous material and physically cleans suitable retained timber under the work controls, collecting deposits and residue. Source correction, drying and applicable independent evaluation precede reinstatement; duct attachment does not establish that the neighboring wood has been remediated."
+      }
+    ],
+    "estimate": "Inner-liner condition, collar access and assessed attic layers shape the sequence. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Mechanical duct work, insulation replacement, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment findings and mechanical-provider connection information.",
+      "Describe the liner, jacket and exterior outlet from existing inspection records.",
+      "Identify attic access and any insulation already removed."
+    ]
+  },
+  "crawl-space-mold-remediation/josephine": {
+    "intro": "Crawl space mold remediation in Josephine can need separately designed drainage correction where groundwater continues reaching the foundation after cleanup. A perimeter drain collects liquid through a permeable aggregate bed, while suitable filter fabric keeps surrounding soil fines from filling that route. We will coordinate the assessed timber treatment with the drainage provider’s correction, rather than expecting new ground sheeting to carry groundwater away.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Josephine: establish the groundwater and treatment boundaries",
+        "text": "Assessment identifies the affected framing and insulation, while the qualified drainage provider evaluates groundwater entry, existing drain condition and a permitted receiving destination. Foundation configuration and access determine whether a perimeter-drain repair is appropriate. Excavation and any effect on foundation support follow that provider’s plan; remediation access alone does not authorize digging beside a footing."
+      },
+      {
+        "title": "Preserve flow through the repaired collection bed",
+        "text": "For an accepted repair, the drainage provider installs the specified perforated collection pipe and clean aggregate, with suitable filter fabric separating the drainage bed from surrounding fine soil. The fabric encloses the intended bed instead of leaving an open edge through which silt can enter. Pipe connections, elevations and the receiving route are checked before backfill conceals them; a wrapped pipe without an outlet cannot carry the collected water away."
+      },
+      {
+        "title": "Complete physical treatment and assess the corrected conditions",
+        "text": "The licensed provider removes specified unsuitable affected porous material and physically cleans suitable retained surfaces under the required controls, collecting deposits and residue. Drainage performance and retained-material moisture are evaluated separately from the cleaning result. Ground-cover replacement, insulation and reconstruction follow source correction and applicable independent evaluation rather than treating the new drain as proof of completed remediation."
+      }
+    ],
+    "estimate": "Groundwater findings, foundation access and the drainage destination shape the source plan. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Drainage excavation, structural support, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment and drainage-provider findings.",
+      "Describe recurring water and the existing collection or receiving route.",
+      "Identify foundation-access restrictions and earlier ground-cover work."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/josephine": {
+    "intro": "Mold contaminated contents cleaning in Josephine can leave a valued paper item with tears or weak margins after its appropriate physical treatment. Particle removal does not reconnect the surviving sheet across those breaks. Where a paper conservator accepts further recovery, separately approved tissue mending can reinforce cleaned tears before ordinary handling resumes.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Josephine: complete treatment before repairing the sheet",
+        "text": "The remediation provider and paper conservator define the cleaning, stabilization and repair stages for the actual item. Active growth, dampness, fragile media and weakened fibers affect those decisions. Contamination is not covered with a repair strip, and unsuitable disposable paper retains its removal decision rather than receiving an automatic conservation promise."
+      },
+      {
+        "title": "Bridge accepted tears with compatible conservation tissue",
+        "text": "After the required treatment, the conservator aligns surviving tear edges and selects long-fibered conservation tissue with a weight suited to the original sheet. A narrow strip is fitted across the break using an accepted reversible adhesive, such as wheat-starch paste where the paper and media tolerate moisture. Tissue placement and thickness preserve legible marks; ordinary pressure-sensitive tape is not substituted for the approved mend."
+      },
+      {
+        "title": "Dry the mend under support and review the remaining condition",
+        "text": "The repair dries with the specified release and blotting layers under controlled light weight, protecting the sheet while the bond forms. The conservator checks the repaired edge before supported rehousing. Mending does not remove residual mold staining, recreate missing information or complete treatment of the receiving room; that space retains its moisture correction and applicable remediation evaluation."
+      }
+    ],
+    "estimate": "Paper strength, media sensitivity and the accepted cleaning outcome determine whether tear repair is suitable. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Conservation mending, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Identify paper items with tears or weak margins without pulling fragments apart.",
+      "Share cleaning and stabilization findings from the responsible providers.",
+      "Flag fragile marks, earlier tape repairs and the intended storage conditions."
+    ]
+  },
+  "fire-damaged-debris-removal/josephine": {
+    "intro": "Fire damaged debris removal in Josephine can include a concrete section that the responsible structural provider has designated for demolition. Where a demolition specialist selects hydraulic splitting, a wedge acts inside prepared holes to divide the section into planned pieces. We will coordinate that release with debris collection rather than treating a cracked, reinforced mass as ordinary loose rubble.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Josephine: establish the permitted concrete release",
+        "text": "Structural evaluation defines the removal boundary, retained support and any required temporary stabilization. The demolition specialist identifies reinforcement, embedded services and the component geometry before choosing drilling and splitting. Fire exposure does not make a load-bearing or prestressed section safe to break without its qualified plan."
+      },
+      {
+        "title": "Apply the internal wedge force within the planned split sequence",
+        "text": "For the accepted system, the specialist prepares holes with the prescribed geometry and aligns the splitting assembly for the planned release. Hydraulic movement drives the central wedge between its opposing pieces, applying force from inside the concrete. Released sections remain controlled while reinforcement receives its separately specified separation; a visible crack does not prove a block is detached."
+      },
+      {
+        "title": "Collect released pieces and clean the exposed footprint",
+        "text": "The provider transfers the detached pieces through the planned receiving and disposal route without overloading retained floors or supports. Drilling dust, slurry and loose fragments are collected under the work controls rather than left beneath the removed section. Exposed retained material receives its separate soot, water and repair evaluation; demolition does not certify the remaining structure or finish the restoration."
+      }
+    ],
+    "estimate": "Component geometry, reinforcement, support requirements and planned piece handling determine demolition access. Structural evaluation, specialist splitting, reinforcement separation and reconstruction are separately assigned.",
+    "checklist": [
+      "Share structural findings and the approved demolition boundary.",
+      "Identify reinforcement or service information already available.",
+      "Describe collection access, receiving space and retained support restrictions."
+    ]
+  },
+  "fire-damaged-contents-cleaning/josephine": {
+    "intro": "Fire damaged contents cleaning in Josephine can include a valued paper item whose surviving sheet has gaps and fragile margins after burning. Cleaning soot does not replace the missing paper or make those edges safe to handle. Where a paper conservator accepts the item for wet treatment, separately approved leafcasting can deposit new fibers into losses after the appropriate cleaning and stabilization.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Josephine: establish the paper’s recovery limits",
+        "text": "The conservator evaluates charring, remaining strength, inks, pigments and earlier repairs before choosing treatment. Fragile fragments stay supported rather than being brushed or pulled free for routine packing. Cleaning, fragment stabilization and suitability for substantial water contact are resolved before a casting process is proposed."
+      },
+      {
+        "title": "Fill accepted losses through controlled fiber deposition",
+        "text": "In the specialist process, the supported sheet receives a measured suspension of suitable paper fibers. Controlled drainage through the support leaves fibers in the accepted gaps as water is removed, rather than attaching an ordinary adhesive patch across the image. Pulp amount and treatment boundaries must suit the original sheet, with legible marks protected from unnecessary covering."
+      },
+      {
+        "title": "Dry the treated sheet and distinguish reinforcement from restored content",
+        "text": "The conservator directs drying, any sizing and the final supported handling arrangement. The added fibers can reinforce accepted losses but do not recreate burned text or demonstrate that all soot staining was removed. Binding, framing, imaging or further conservation remain separately approved work; return to the room follows its completed restoration and the item’s own readiness findings."
+      }
+    ],
+    "estimate": "Charring, media sensitivity and sheet strength determine specialist suitability. Soot cleaning, fragment stabilization, leafcasting and framing or binding repair are separately evaluated, without promising recovery of missing information.",
+    "checklist": [
+      "Identify paper items with burned margins or missing areas.",
+      "Describe wetness and prior handling without opening fragile fragments.",
+      "Share conservation findings and any existing support or packaging."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/josephine": {
+    "intro": "Fire extinguisher residue cleanup in Josephine can proceed beside qualified servicing of the rechargeable dry-chemical unit used during the response. Refilling that unit requires the specified agent quantity as well as restored pressure; a pressure reading alone does not establish its powder charge. We will coordinate the separate equipment service while collecting the deposits already released onto the building surfaces.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Josephine: identify the discharged agent and serviceable unit",
+        "text": "The label and response information identify the agent used, while the fire-protection provider evaluates whether the unit is rechargeable and suitable for continued service. Heat-damaged or otherwise rejected cylinders receive that provider’s disposition. Loose building deposits stay in the cleanup waste stream rather than being returned to a serviceable extinguisher as recharge material."
+      },
+      {
+        "title": "Have the qualified provider restore the measured charge and pressure",
+        "text": "For an accepted stored-pressure dry-chemical unit, the service provider follows its supported depressurization, valve cleaning and worn-part replacement procedure. The specified dry agent is added by accurate weight, then the correctly assembled unit is charged using the prescribed regulated dry-nitrogen arrangement. Leakage checks and final assembled weight confirm separate pressure and agent-quantity requirements; an eyeballed fill or ordinary shop-air substitution does not perform that recharge process."
+      },
+      {
+        "title": "Finish the contacted room surfaces independently of the equipment recharge",
+        "text": "Suitable controlled collection removes reachable loose powder before agent-compatible cleaning of accepted retained finishes. Required washing, rinsing and drying follow the identified product and surface limits, with spent liquid and used media collected. Extinguisher service does not clean the room, and the room’s cleaned appearance does not establish that the serviced unit has passed its return-to-use requirements."
+      }
+    ],
+    "estimate": "Confirmed agent, contacted finishes and the extinguisher’s serviceability define separate tasks. Qualified fire-protection recharge, cylinder testing or replacement and affected-appliance service are distinct from building residue cleanup.",
+    "checklist": [
+      "Provide the extinguisher label and response-use information.",
+      "Share fire-protection service findings and any rejected equipment.",
+      "Identify powder-contact surfaces and cleaning products already used."
+    ]
+  },
+  "emergency-board-up-after-fire/josephine": {
+    "intro": "Emergency board up after fire in Josephine can use an accepted tension-clip panel where the released window has a sufficiently deep, sound recess. Clips on the panel’s opposing edges grip that recess as the fitted board is pressed into place. We will evaluate the actual opening before selecting that arrangement; damaged bearing material or a shallow casing requires another closure method.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Josephine: establish a suitable clip-bearing recess",
+        "text": "Site release, loose-glass control and required access are resolved before fitting the temporary panel. The provider checks recess depth, receiving-material condition, opening geometry and the selected clip system’s supported panel dimensions. Siding or charred trim is not assumed to provide the bearing the clips require."
+      },
+      {
+        "title": "Engage the tension legs against the receiving sides",
+        "text": "The provider fits the prescribed clips tightly onto opposing panel edges and inserts the sized panel with the teeth oriented under the system instructions. The flexed tension legs bear against the recess to retain the board, with the prescribed seating needed for their grip. Clip quantity, spacing and any required panel stiffening follow the selected system rather than an improvised board that bows away from its grip."
+      },
+      {
+        "title": "Maintain the retained panel and release its grip during planned removal",
+        "text": "The installed closure is checked for movement, edge gaps and interference with the agreed access or drying arrangement. Later removal supports the panel while the clip tension is deliberately released, instead of pulling against the engaged teeth. Temporary coverage does not repair heat-damaged framing, establish occupancy release or complete permanent glazing work."
+      }
+    ],
+    "estimate": "Sound recess depth, panel rigidity and system-specific clip engagement determine suitability. Structural repair, alternative fastening, permanent glazing and occupancy decisions remain separate.",
+    "checklist": [
+      "Share site-release and damaged-glass findings.",
+      "Identify the sound recessed opening and access restrictions.",
+      "Provide the selected panel-and-clip system and planned removal requirements."
+    ]
+  },
+  "crawl-space-sewage-cleanup/josephine": {
+    "intro": "Crawl space sewage cleanup in Josephine can proceed beside a plumber’s temporary pneumatic isolation of a failed waste line. The inflated plug holds a flow boundary only while its placement, restraint and pressures remain within the selected system’s limits. We will coordinate wastewater recovery with that maintained isolation instead of treating the stopped discharge as a completed pipe repair.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Josephine: establish the maintained isolation boundary",
+        "text": "The plumbing provider determines whether a plug is appropriate for the line, its internal condition and the sewage pressure it must hold. That provider establishes the required restraint, pressure monitoring and protected working positions. Crawl-space entry remains separately evaluated; a temporarily blocked drain does not release the space for ordinary access."
+      },
+      {
+        "title": "Collect the contacted material without disturbing the plug arrangement",
+        "text": "Within the released work area, reachable wastewater and solids are recovered through the assigned waste route. Specified unsuitable contacted insulation or other porous material is contained for removal, and suitable retained surfaces receive physical cleaning followed by appropriate disinfection. Plug hoses, gauges and restraint are kept under the plumbing provider’s control rather than moved to improve cleanup access."
+      },
+      {
+        "title": "Release retained pressure before ending the temporary block",
+        "text": "The plumber completes the required line repair and relieves retained pressure through the supported arrangement before deflating and removing the plug. Any released wastewater reaching the building work area receives collection and the necessary renewed surface treatment. Retained-material drying and reconstruction follow the cleanup findings independently of the line’s return to service."
+      }
+    ],
+    "estimate": "Line condition, retained sewage pressure, plug restraint and entry-dependent material access shape the work. Plumbing isolation and repair, restricted-entry arrangements and ground treatment are separately assigned. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share the plumbing provider’s temporary isolation and repair plan.",
+      "Identify plug equipment and the permitted work positions.",
+      "Describe wastewater contact and material already removed."
+    ]
+  }
+}

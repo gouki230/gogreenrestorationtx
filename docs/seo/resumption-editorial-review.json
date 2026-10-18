@@ -1,0 +1,807 @@
+{
+  "reviewedAt": "2026-10-16T07:00:51.135463+00:00",
+  "runawayBay": {
+    "accepted": 6,
+    "status": "Independent root source review accepted; rendered gates separate",
+    "reason": "Revisions develop expanded exposure controls, drying-zone boundaries, moving containment, previously coated fire surfaces, secondary wastewater transfer, and electrical-box depth decisions.",
+    "comparisons": [
+      "Royse City water and hub",
+      "Peaster fire",
+      "Copper Canyon sewage",
+      "Palmer sewage"
+    ]
+  },
+  "hackberry": {
+    "accepted": 24,
+    "status": "First23 rendered verified previously; cabinet revision requires current snapshot",
+    "cabinetReason": "Upper-cabinet supported detachment, hidden rail surfaces and mounting integrity replace Cross Roads rotating-shelf composition."
+  },
+  "haltomCity": {
+    "accepted": 22,
+    "held": 2,
+    "status": "17 of19 repairs accepted by root; prior5 retained. New rendered audit pending.",
+    "remainingHoldReasons": {
+      "kitchen-cabinet-mold-removal": "Pullout carriage repeats Cross Roads rotating-shelf removal/treatment/mounting sequence.",
+      "emergency-board-up-after-fire": "Arch shape repeats Hackberry recessed-opening geometry/support/fitting/access sequence."
+    }
+  },
+  "saginaw": {
+    "accepted": 0,
+    "held": 6,
+    "status": "Independent review found duplicate compositions vs Krugerville/McKinney,Rosser,Peaster,PilotPoint,Carrollton,PecanHill. Strong repair active; no completion credit."
+  },
+  "sanctuary": {
+    "accepted": 6,
+    "held": 0,
+    "status": "Root read finalsewage repair: driedadhered soil removal, controlledwetcleaning vs drydisturbance and treatmentintroducedmoisture are distinct from RunawayBaytransfer. Other5 accepted earlier. Rendered gates pending."
+  },
+  "haslet": {
+    "accepted": 24,
+    "held": 0,
+    "status": "Root read allrewrittenrecords. Methodbranches now materially develop solids/liquid handling, detergentrecovery,mixedexposures,heatedflooraccess,loosefill containment, bondedliner/materialretention, patchedboard removal,cleaningtrial stopping,liquidagent recovery and failedtemporaryprotection diagnosis. Rendered gatespending."
+  },
+  "hawkCove": {
+    "accepted": 24,
+    "held": 0,
+    "status": "Metal cabinet repair read: corrosion vs contamination, folded seam wet-treatment limits and structural cabinet repair distinguish earlier organizer collision. Pending rendered gates."
+  },
+  "sanger": {
+    "accepted": 6,
+    "held": 0,
+    "status": "Final hub cupping/late sanding and fire carpet/cushion treatment read and accepted, prior4 retained. Root corrected two keyword openings. Peaster hub full comparison broad wood retention does not develop cupping and premature sanding consequences."
+  },
+  "sansomPark": {
+    "accepted": 6,
+    "held": 0,
+    "status": "All6 root read; anchored storage stabilization, metal track reservoirs, electrical box access, HVAC inspection boundary, raised panel underside cleanup and stair geometry are consequential decisions. Rhome fire and Parker reconstruction full-record checks confirm distinction. Pending rendered gates."
+  },
+  "heath": {
+    "accepted": 24,
+    "held": 0,
+    "status": "Final floor-gap containment repair develops roomside barrier/access compatibility and controlled removal, replacing foam repeat. Root read and accepted; rendered pending."
+  },
+  "scurry": {
+    "accepted": 6,
+    "held": 0,
+    "status": "Root read repaired6; temporary protection, uninstalled stock, window drainage, incompatible-surface runoff, contaminated paving bedding and carpet reinstallation develop distinct physical decisions. Pending rendered gates."
+  },
+  "seagoville": {
+    "accepted": 6,
+    "held": 0,
+    "status": "Root read six repairs: damaged attic stair access, recessed electrical floorbox and finished floorfit, pipe covering/condensation reinstatement, sprinkler ceiling protection/ring access, internal washer sewage and coved-sheetfloor rebuilding. Removed stray Wylie positioning. Rendered pending."
+  },
+  "hebron": {
+    "accepted": 24,
+    "held": 0,
+    "status": "Root read finalcabinet: new wastewater exposure revises existingmold boundaries, retention/controls/disinfection/evaluation. Different consequential treatment from carousel access; pendingrender."
+  },
+  "sevenPoints": {
+    "accepted": 6,
+    "held": 0,
+    "status": "Root read all6: pooltable specialist disassembly/leveling, garage insulatedpanels, grabbar loss of support, priorcleanerfilm vs soot, curing levelingcompound sewage, suspendedvanity support/clearance. Removed Wylie positioning. Pending rendered gates."
+  },
+  "shadyShores": {
+    "accepted": 6,
+    "held": 0,
+    "status": "Root read6: exterior upstairs transfer, IGU vs building moisture, collected paint removal on masonry, heavy slider roller/seals, movementjoint disinfection/resealing, load-bearing removablefloorhatch. Pendingrender."
+  },
+  "hickoryCreek": {
+    "reviewedAt": "2026-10-14T03:56:52.765872+00:00",
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root read all13 changed records after stronger repair; accepts concrete material/access/treatment decisions including residual ice release, metal-related meter response, uncoupling membrane reinstatement, jetted-tub versus building treatment, counterbalanced cabinet mechanism, butcher-block thickness limits, acrylic damage, retained wet-vac wastewater, sediment collection without excavation, radiant-sheet handling, specialist battery/cylinder release, caked extinguisher deposits, and concealed liner termination cleanup. Earlier11 preserved and reviewed. Rendered cohort running.",
+    "verifiedAt": "2026-10-14T03:57:38.014171+00:00"
+  },
+  "springtown": {
+    "reviewedAt": "2026-10-14T04:26:30.733074+00:00",
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Independent reviewer repaired all6; root read final six. Supported wall-bed access, separate loose-fill wall compartments, sauna treatment/provider limits, structural char-removal limits, continuous coved floor wastewater contacts, and actual curb support/slope/waterproofing/enclosure installation accepted. Rendered gates pending.",
+    "verifiedAt": "2026-10-14T04:26:42.042603+00:00"
+  },
+  "highlandPark": {
+    "reviewedAt": "2026-10-14T05:41:17.474117+00:00",
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root fullread final7: cement paste setting/collection, flexible shower joint cutting/bondface/restoration, shellac chemistry, ductboard replacement versus liner, pump shutdown drainback, spent abrasive media waste, and pool debris/capture equipment. Earlier17 preserved. Accepted24 pending fresh rendered gates.",
+    "verifiedAt": "2026-10-14T05:42:16.584916+00:00"
+  },
+  "stPaul": {
+    "reviewedAt": "2026-10-14T06:26:17.266242+00:00",
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root fullread accepts final qualified coolingcoil passage cleaning, wash-water capture/pan/drain handling and separate fibrous insulation replacement. Prior5 accepted preserved. Six awaiting fresh rendered gates.",
+    "verifiedAt": "2026-10-14T06:26:46.658504+00:00"
+  },
+  "highlandVillage": {
+    "reviewedAt": "2026-10-14T07:42:59.559765+00:00",
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root read final cabinet correction of prior spray-only treatment; physical collection/removal differs from claimed killing/whitening. Previous23preserved. All24 accepted pending fresh rendered gates.",
+    "verifiedAt": "2026-10-14T07:44:07.252882+00:00"
+  },
+  "sunnyvale": {
+    "reviewedAt": "2026-10-14T08:14:14.339329+00:00",
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "verifiedAt": "2026-10-14T08:14:14.339329+00:00",
+    "evidence": "Independent reviewer repaired six; root fullread accepted usable circuit allocation, desiccant reactivation exhaust routing, veneer anchor/two-face access, door assembly closing/latching compatibility, internal porous duct contamination and chimney step/counterflashing integration. Fresh rendered phrase, technical and production isolation all pass."
+  },
+  "hudsonOaks": {
+    "reviewedAt": "2026-10-14T08:59:04.443314+00:00",
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Final back-face dustcontrol candidate rootreadaccepted: partialdepthcollection/handbackpapercompletion distinct from generic toolcapture. Prior23 preserved. Fresh fullcompact comparison2568passes and technical2568zeroerrors.",
+    "verifiedAt": "2026-10-14T09:01:22.067039+00:00"
+  },
+  "talty": {
+    "reviewedAt": "2026-10-14T08:43:03.032333+00:00",
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root read final outdoor-air/dehumidification boundary, overhead shared-return-plenum containment, exposedfood disposition; priorwater/sewage/tub-bearing preserved. Fresh completed-build rendered corephrase1128,technical1128,isolation1128 pass.",
+    "verifiedAt": "2026-10-14T08:59:04.443314+00:00"
+  },
+  "terrell": {
+    "reviewedAt": "2026-10-14T09:13:04.550428+00:00",
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Rootfullread final2: disinfectantbinding by compatibleapplicationtextiles and structuralexpansionjoint continuity through tilemembrane. Prior4preserved. Two renderedbrokenbloglinks corrected/rebuilt; freshphrase1134 technical1134 and isolation1134 pass.",
+    "verifiedAt": "2026-10-14T09:28:54.629822+00:00"
+  },
+  "hutchins": {
+    "reviewedAt": "2026-10-14T10:13:01.726207+00:00",
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Rootread final provideraccepted steam-assisted uncoatedmetal cleaning with physicalresidue/condensaterecovery and exclusions; prior23preserved. Fresh2592compactphrase/technical pass.",
+    "verifiedAt": "2026-10-14T10:28:54.697929+00:00"
+  },
+  "trophyClub": {
+    "reviewedAt": "2026-10-14T10:13:01.726207+00:00",
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Rootread finaldirectwoodsample gravimetricverification and continuousliner doubleclosure waste separation; prior4preserved. Fresh1140corephrase/technical/isolation pass.",
+    "verifiedAt": "2026-10-14T10:28:54.697929+00:00"
+  },
+  "unionValley": {
+    "reviewedAt": "2026-10-14T10:59:51.665033+00:00",
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "verifiedAt": "2026-10-14T10:59:51.665033+00:00",
+    "evidence": "Rootread securedfloorholecovers, hardwoodsuctionwaterseparator, pasteenzymesoftening/recovery, protectiveferrousfilm, diluteddisinfectantusablelife, tornfacingstabilization;1146corephrase/technical/isolationpass."
+  },
+  "italy": {
+    "reviewedAt": "2026-10-14T12:34:01.823509+00:00",
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "All24 root read. Final cabinet source correction uses material-compatible PVC solvent-weld assembly and cure. Activation evidence resolved using EPA live PPLS87508-3 Active registry, newest accepted label2024-11-21; residential hard nonporous use and complete intact-pouch activation supported. First rendered audit24/24 phrase pass minimum65.25%; technical found two intro hyphen mismatches, corrected before repeat verification.",
+    "sources": [
+      "https://ordspub.epa.gov/ords/pesticides/cswu/ppls/87508-3",
+      "https://www3.epa.gov/pesticides/chem_search/ppls/087508-00003-20241121.pdf"
+    ],
+    "verifiedAt": "2026-10-14T12:35:42.897680+00:00"
+  },
+  "universityPark": {
+    "reviewedAt": "2026-10-14T11:30:24.986649+00:00",
+    "authored": 6,
+    "verified": 6,
+    "evidence": "Independent hard revisions and root full read: mobile scaffold setup, submerged NM-B replacement access, penetrating wood-treatment eligibility, duct agitation with continuous collection, disinfectant surface temperature, SSD cement mortar preparation. Rendered uniqueness 84.34\u201388.39%; technical and production isolation zero errors."
+  },
+  "vanAlstyne": {
+    "reviewedAt": "2026-10-14T12:34:01.823509+00:00",
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "All6 root read. Final fire specialist-only glove-bag asbestos insulation operation distinct from general referral, excludes ordinary restoration abatement. Rendered core6 pass86.26\u201388.39%; technical/isolation1158 zero errors. Pending final cohort bookkeeping.",
+    "verifiedAt": "2026-10-14T12:35:42.897680+00:00"
+  },
+  "josephine": {
+    "reviewedAt": "2026-10-14T14:34:47.987864+00:00",
+    "authored": 24,
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "All24 root fully read. Final accepted qualified installed fusiblelink detection path restoration/test, restrained compartment hydraulic washing, conservation tissue mending after physical mold treatment. Historical manufacturer service reference supports bounded model-dependent kitchen method; no claim latest manual and current provider instructions control. No gas/sterilization claims. Await current rendered checks.",
+    "verifiedAt": "2026-10-14T14:35:46.500976+00:00",
+    "renderedEvidence": "All24 phrase pass; minimum62.90%, compact technical2640 zeroerrors."
+  },
+  "venus": {
+    "reviewedAt": "2026-10-14T13:03:02.266970+00:00",
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "All6 root fully read. Latest accepted TPO compatible aged membrane preparation/testweld/cooledseam probing, optional coil-directed UV accessory geometry/shielding/interlocks after physicalremediation with explicit EPA limits, and plumber backwaterflap/pivot/seat restoration after surcharge resolves. Prior3 preserved. Awaiting rendered core audit.",
+    "verifiedAt": "2026-10-14T13:03:30.112765+00:00",
+    "renderedEvidence": "86.91\u201389.77% uniqueness; technical and production isolation zero errors."
+  },
+  "watauga": {
+    "reviewedAt": "2026-10-14T13:48:01.347845+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root fully read final soldered copper capillaryflow/heatprotected source repair, formulated peroxide soil lift plus dirtyfoam recovery, separately generated detergentfoam-only upholstery cleaning. All6 substantively accepted; template unconditional pendinglicense disclosure retained. Await rendered checks.",
+    "verifiedAt": "2026-10-14T13:48:26.984912+00:00",
+    "renderedEvidence": "88.29\u201398.82% uniqueness; technical and production isolation zero errors."
+  },
+  "waxahachie": {
+    "reviewedAt": "2026-10-14T14:20:01.628944+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root fully read all6 replacements: GFCI actual interruption/reset, saturated-salt humidityprobe reference, drainpan lowspot correction, controlled leather humidification/shape support, CIPP inversion/inflation/cure/branch reopening, torque-controlled wedgeanchor. Independent primarysource and crossfamily review provided; awaiting rendered checks.",
+    "verifiedAt": "2026-10-14T14:20:27.423016+00:00",
+    "renderedEvidence": "91.01\u201398.89% uniqueness; technical and production isolation zero errors."
+  },
+  "weatherford": {
+    "reviewedAt": "2026-10-14T14:55:53.145741+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root fully read all6. Priming liquid charge distinct from Heath intake/routing; centrifuge extraction distinct from compression; wood consolidation after remediation; stitched permanent textile support; sewage pump level control restoration; adhesive injection/cure distinct from wedge anchors. Independent source and crossfamily review completed; rendered gates pending.",
+    "verifiedAt": "2026-10-14T14:57:02.745620+00:00",
+    "renderedEvidence": "Six phrase passes 91.34\u201398.95%; technical and production isolation zero errors."
+  },
+  "joshua": {
+    "reviewedAt": "2026-10-15T08:16:03.795194+00:00",
+    "authored": 24,
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root fullread book-board sewing-support extensions/lacing/hollow restoration after cleaning; rigidconcrete crystalline waterproofing prep/reactive wet cure coordinated with framing remediation; eligible cleaned/dry brittlepaper Lsleeve handling/imaging stabilization with media/static exclusions. These are useful separately scoped recovery steps, not substitutes for cleaning. Independent primarysource/fullnearest comparisons supplied. Prior20preserved; final smoke unresolved. All24 remain unverified until completed cohort render. Final smoke rootread accepted qualified thermoplastic burn-in fill melt/flow/cool/level after soot cleaning, soundmaterial constraints and separateodor scope. All24 now renderedverified.",
+    "verifiedAt": "2026-10-15T08:16:03.795194+00:00",
+    "renderedEvidence": "24 passes 66.5\u201372.2%;2664compacttechnical zeroerrors."
+  },
+  "westTawakoni": {
+    "reviewedAt": "2026-10-15T06:30:13.131434+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root fully read all6: copper flare formation, sealed-dish calciumchloride emission, stainedglass came bedding after source diagnosis, conservator suctiontable paper washing, pipeburst replacement, helical masonry crack stitching. Independent primarysource and full nearest comparison review supplied. Removed customer-facing CIPP comparison. Rendered checks pending.",
+    "verifiedAt": "2026-10-15T06:30:34.259095+00:00",
+    "renderedEvidence": "Six passes 95.38\u201399.13%;1188coretechnical/isolation zeroerrors."
+  },
+  "westlake": {
+    "reviewedAt": "2026-10-15T07:14:34.703094+00:00",
+    "authored": 6,
+    "verified": 6,
+    "held": 0,
+    "status": "Root fullyread scan/model/printfit replacementframeornament aftercompatiblecleaning, structural and authenticitylimitations clear; primarysource independentreview. Allsix accepted pendingrender.",
+    "acceptedCandidates": 6,
+    "verifiedAt": "2026-10-15T07:15:19.798695+00:00",
+    "renderedEvidence": "Six phrase passes 94.43\u201398.84%;1194coretechnical/isolation zeroerrors."
+  },
+  "weston": {
+    "reviewedAt": "2026-10-15T07:50:31.970226+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "verifiedAt": "2026-10-15T07:50:31.970226+00:00",
+    "evidence": "Root fullread all6 after independent primary-source and full nearest comparisons: calibrated enclosure airflow; paired acoustic pipe correlation; qualified PE electrofusion source repair; specialist eligible lacquer reflow; fresh wax seal controlled seating; engineered helical pile torque/load transfer. Separate restoration and specialist scopes retained.",
+    "renderedEvidence": "Six phrase passes 89.16\u201397.94%;1200coretechnical/isolation zeroerrors."
+  },
+  "westoverHills": {
+    "reviewedAt": "2026-10-15T08:16:03.795194+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root fullyread six repaired methods: isolateddrained pipe tracer gas; faucet seat/spring replacement; measured HRV balancing; conservator ferric-tannate surface reaction; sonde mainresponse location; epoxygrout mixing/packing/stagedwashing. Independent primarysource and fullnearest comparisons supplied. Removed customer-facing comparison to wax/rustbath.",
+    "verifiedAt": "2026-10-15T08:16:03.795194+00:00",
+    "renderedEvidence": "Six passes86.60\u201395.15%;1206coretechnical/isolation zeroerrors."
+  },
+  "westworthVillage": {
+    "reviewedAt": "2026-10-15T08:45:14.208033+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root fullread six replacements: lowvoltage membrane currentmapping; washer boot dualretainer alignment; diagnosed capillaryrise mortarcourse cream; negative mold/supportshell plastercasting; shielded nohub centralstop/alternatingtorque; continuousflow selflevelingunderlayment. Independent primarysources and fullnearest comparisons supplied. Removed unnecessary customerfacing resincomparison.",
+    "verifiedAt": "2026-10-15T08:45:14.208033+00:00",
+    "renderedEvidence": "Six passes88.1\u201390.53%;1212coretechnical/isolation zeroerrors."
+  },
+  "justin": {
+    "reviewedAt": "2026-10-15T10:16:06.284849+00:00",
+    "authored": 24,
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root fullread firstfour replacements and independentfullnearest/source handoff: inlinewetfilter load/seat/seal servicing with pickupconfirmation; supportedlocalized externalrepairclamp notendcoupling; controlledwasher residualdrain before largerfilteropening; vinylinterlock release and reinstatement with barrier/underlyingwetmaterial treatment. Four substantive candidates accepted, all24await finalcohort renderedgates. Remaining20reassigned. Rootread five new candidates: float free-travel/mount+manual/watertrip tests; compatibleblower clean/motorservice; sinkstructuralsupport beforeseal; requiredpump airrelief; removableheatblock passages/orientation/seals. Nine accepted, all24awaitfinalcohortrender. Rootread accepts four nextcandidates: hotmelt carpetseam adhesivebacking bond afterdrying; compatible flapper seat/chain closure withdrainresolved; eligibleceiling repairclips; conservator hideglue veneerrebond withreleasefilm/rigidcaul.13accepted11remaining, all24unverified. Rootfullyread4additional: soundbase secondaryvent raincollar; compatible thickwall castironhub compressiondonut; qualified detachedextinguisher dischargepassage service separatefromroomcleanup; eligibleglassceramic approvedcream/scraper residuepickup.17accepted7remaining, all24unverified. Rootfullread overflowassembly tubwall compressiongasket/elevatedwatertest and woodsash paneputtybed/glazingpoints accepted. Smoke paragraph shortened to4sentences whileownershipreleased.19accepted5remaining all24unverified. Final5 rootread accepted: supportedneutralizer jar saltcoating rinse versus exhaustedmedia; smoothmetal dryerduct airflowjoints/noinwardfasteners; specialistaccepted tromboneslide internalcleaning no playclearance; controlleddenailer expelledfastenercollection; headertrack/stud retainedmetalpanels. Three5sentence estimates shortened. Completecohort renderedverified.",
+    "verifiedAt": "2026-10-15T10:16:06.284849+00:00",
+    "renderedEvidence": "24passes67.70\u201375.99%;2688compacttechnical zeroerrors."
+  },
+  "whiteSettlement": {
+    "reviewedAt": "2026-10-15T09:16:19.583461+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root fullread six replacements: engineered temporaryprops/loadpath; current-sensing laundryshutoff; evidenceconfirmed irrigationrotor adjustment; conservatorselective varnishreduction; pressure-drop trapprimer actualdelivery; controlledcementitious slabjacking. Independent primarysource/fullnearest comparison supplied. Affirmativechecklists edited; six invalid blogpaths fixed.",
+    "verifiedAt": "2026-10-15T09:16:19.583461+00:00",
+    "renderedEvidence": "87.12\u201388.42% uniqueness;1218technical/isolation zeroerrors after link repair rebuild."
+  },
+  "willowPark": {
+    "reviewedAt": "2026-10-15T09:45:16.616815+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Rootfullread six replacements: doublethrow powersource isolation; forcedhydronic circuit purge; staggered individualstem packingrings; fanwheel secured correctionweights aftercleaning; one-way airadmittancevalve replacement; strapretained metalchanneltoggle. Independent primarysources/fullnearest comparisons supplied.",
+    "verifiedAt": "2026-10-15T09:45:16.616815+00:00",
+    "renderedEvidence": "85.79\u201388.05% uniqueness;1224coretechnical/isolation zeroerrors."
+  },
+  "wilmer": {
+    "reviewedAt": "2026-10-15T10:16:06.284849+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Rootfullyread6: vacuum-pad eligibleglasshandling; expansiontank unloadedprecharge; refrigerationvacuumdehydration; specialisteligiblemotorwinding ventilatedovendrying; pipebranch distributedsupport/grade; sashcord/counterweights. Independent primarysource and fullnearest comparisons supplied; grade restoration distinct supportcontactcleanup.",
+    "verifiedAt": "2026-10-15T10:16:06.284849+00:00",
+    "renderedEvidence": "85.97\u201387.71%;1230snapshotcoretechnical/isolation zeroerrors."
+  },
+  "wolfeCity": {
+    "reviewedAt": "2026-10-15T10:30:14.703621+00:00",
+    "authored": 6,
+    "acceptedCandidates": 6,
+    "held": 0,
+    "verified": 6,
+    "evidence": "Root full body review and independent full nearest comparisons with primary support: ceramic fragments; wet panel release; vinyl gypsum/cold diffuser; coated glass; wastewater toys; bifold pivots.",
+    "verifiedAt": "2026-10-15T10:30:14.703621+00:00",
+    "renderedEvidence": "95.40\u201398.43%;1236 core technical and production isolation zero errors."
+  },
+  "kaufman": {
+    "reviewedAt": "2026-10-15T11:15:28.167572+00:00",
+    "authored": 24,
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root read fourteen candidate bodies: compression sleeve; dishwasher float; step/kickout flashing; condensate inlet clearance; exhaust damper interference; disposer flange; humidifier panel; dry leather HEPA; macerator check valve; composite silver; bare wood particle lift; polycarbonate movement; linoleum weld; acoustical panel/backer/finish. Nine generic rejects plus centrifugal-pump priming overlap with Weatherford remain assigned for substantive repair. No partial cohort credit.",
+    "additionalEvidence": "Root read nine new bodies: split freezeless faucet; chimney cricket; filter-housing seal; water-powered backup supply purge; threaded cleanout; appliance refrigerant recovery; accepted burner ports; accepted oven inter-pane cleaning; isolated air-mover impeller. Full-drum float extraction rejected versus Josephine; sole remaining substantive repair assigned.",
+    "verifiedAt": "2026-10-15T11:15:28.167572+00:00",
+    "renderedEvidence": "66.91\u201371.43%;2736 phrase and technical passes,zeroerrors;Keene24 separately held.",
+    "finalRepair": "Full-drum float rejected versusJosephine; replaced with worn recovery squeegee wipingedge rotate/replace,evencontact/deflection and trailingwater verification. Rootfullread;Tennant primarysupport and Watauga fullcomparison."
+  },
+  "keene": {
+    "reviewedAt": "2026-10-15T11:44:29.011749+00:00",
+    "authored": 24,
+    "rootRead": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root fully read24 and six replacement bodies. Overlaps removed with vacuum-break/reseal, anti-siphon interruption, opened volute cleanout, connected-rod lint brush, sponge rebound/classification, floor scraper pitch. Conditional provider scopes preserved. Rendered checks pending.",
+    "acceptedCandidates": 24,
+    "comparisons": [
+      {
+        "target": "/ac-leak-water-damage-cleanup/keene",
+        "mechanism": "Condensate anti-siphon device above pump level",
+        "comparison": "Josephine peristaltic head tube, Westlake rotating shaft seal and Paradise generic pump loss differ from interrupting an unintended falling liquid column. Read Italy gravity siphon as inverse-function comparator; Wilmer pipe-support overlap removed.",
+        "source": "https://dam.aspenpumps.com/api/media/file/AW0012%20Silent%2B%20MINI%20WHITE%20MANUAL%2009-23%20Issue%207%20Print%20v2-7.pdf?prefix=media"
+      },
+      {
+        "target": "/appliance-leak-cleanup/keene",
+        "mechanism": "Refrigerator service-loop route at final roll-in position",
+        "comparison": "Kemp owns defrost source, Joshua owns fitting connection; Keene prevents roller pinch during placement.",
+        "source": "https://producthelp.whirlpool.com/Refrigeration/Full-Size_Refrigerators/Quad_Door_Refrigerator/Ice_and_Water_Concerns/Water_and_Dispenser_Concerns/Noise_While_Dispensing_-_Refrigerator"
+      },
+      {
+        "target": "/attic-mold-remediation/keene",
+        "mechanism": "Flattened flex exhaust duct bend/support correction",
+        "comparison": "Josephine owns inner liner collar connection, Saginaw duct material. Keene restores bend radius and support without cinching.",
+        "source": "https://basc.pnnl.gov/resource-guides/support-intervals-flex-ducts"
+      },
+      {
+        "target": "/bathroom-mold-removal/keene",
+        "mechanism": "Toilet condensation and anti-sweat mixing valve",
+        "comparison": "Kaufman owns exhaust damper, core Wilmer expansion tank, commercial Venus supply leak. Keene has mixed-water anti-condensation mechanism.",
+        "source": "https://www.watts.com/products/plumbing-flow-control-solutions/plumbing-specialties/anti-sweat-valves/was"
+      },
+      {
+        "target": "/burst-pipe-cleanup/keene",
+        "mechanism": "PEX copper crimp ring plus go/no-go gauge",
+        "comparison": "Josephine coldpress copper and cold-expansion topics do not perform circumferential ring gauging; core West Tawakoni flare differs.",
+        "source": "https://www.sharkbite.com/us/en/pex-pipe-connectors/pex-cutters-accessories/pex-crimp-tool"
+      },
+      {
+        "target": "/ceiling-water-damage-cleanup/keene",
+        "mechanism": "Decorative planks over an older ceiling, reverse row release",
+        "comparison": "Hudson Oaks stretch ceiling, Melissa flooring and DISH overlay records lack plank clip/track versus adhesive release decision.",
+        "source": "https://www.armstrongceilings.com/content/dam/armstrongceilings/residential/brochures/ceiling-and-wall-planks.pdf"
+      },
+      {
+        "target": "/crawl-space-mold-remediation/keene",
+        "mechanism": "Clockwise threaded-rod dryer duct brushing",
+        "comparison": "Justin builds new exhaust duct; Keene physically dislodges lint using rotating connected rods without unscrewing, collecting released lint. Saginaw and Ponder exterior scopes omit this technique. Italy vapor-jacket overlap removed.",
+        "source": "https://www.deflecto.com/wp-content/uploads/2023/06/DVBRUSH12Ktps.pdf"
+      },
+      {
+        "target": "/crawl-space-sewage-cleanup/keene",
+        "mechanism": "Sewage-contacted bonded spray foam",
+        "comparison": "Duncanville removable batts, Quinlan groundcover and Ferris cork do not require bonded insulation specialist separation from framing. Removal method is conditional, not an owned capability.",
+        "source": "https://www.cdc.gov/natural-disasters/safety/"
+      },
+      {
+        "target": "/crawl-space-water-removal/keene",
+        "mechanism": "Removable trash-pump casing and volute cleanout",
+        "comparison": "Josephine diaphragm selection, Weatherford priming and Venus generic ejector service do not perform opened-casing trapped-debris removal. Hickory Creek inlet/silt overlap removed.",
+        "source": "https://cdn.powerequipment.honda.com/pe/pdf/manuals/00X31YG06020.pdf"
+      },
+      {
+        "target": "/emergency-board-up-after-fire/keene",
+        "mechanism": "Roof tarp support battens and water-shedding laps",
+        "comparison": "Hutchins shrinkwrap, River Oaks rigid panels and Aledo generic board-up differ from batten-supported flexible cover.",
+        "source": "https://www.fema.gov/print/pdf/node/319276"
+      },
+      {
+        "target": "/emergency-water-extraction/keene",
+        "mechanism": "Vacuum-break lever releases sealed carpet head before movement",
+        "comparison": "Kemp grout direction, Venus carpet floating and Union Valley generic carpet extraction differ. Fully read HV compression extraction: shares carpet/head setting, but omits physical bypass-air release mechanism and restoring seal after reposition. Closest higher-order overlap for parent judgment. Glass overlap removed.",
+        "source": "https://www.legendbrands.com/products/extraction-tool"
+      },
+      {
+        "target": "/fire-damaged-contents-cleaning/keene",
+        "mechanism": "Friable pastel/charcoal image soot",
+        "comparison": "Highland Park framed art general handling shares object class; Keene specifically protects loose medium from rubbing and static, leaves image conservation distinct from frame cleaning.",
+        "source": "https://www.nedcc.org/assets/media/documents/Preservation%20Leaflets/2_5_Exhibition_2020_Print.pdf"
+      },
+      {
+        "target": "/fire-damaged-debris-removal/keene",
+        "mechanism": "Silica-bearing mineral debris dust and slurry collection",
+        "comparison": "Highland Park pool debris, Van Alstyne asbestos glovebag and Westover Hills mortar finish cleaning use different exposure/collection mechanisms.",
+        "source": "https://www.osha.gov/Publications/OSHA3902.pdf"
+      },
+      {
+        "target": "/fire-extinguisher-residue-cleanup/keene",
+        "mechanism": "Panel radiator convector-fin powder collection",
+        "comparison": "Greenville generic housings, St Paul wet coil fin cleaning and Duncanville decorative ceiling fins were read fully. Narrow radiator brush plus simultaneous dry collection and lower catch is the distinct procedure; shares fin-access geometry with core St Paul.",
+        "source": "https://www.stelrad.com/wp-content/uploads/2018/06/Cleaning-a-Stelrad-Elite-radiator.pdf"
+      },
+      {
+        "target": "/floor-water-damage-cleanup/keene",
+        "mechanism": "Adjustable blade pitch for bonded-floor scraping",
+        "comparison": "Glenn Heights and Roanoke generic adhered-layer removal differ from controlled scraper shear angle avoiding subfloor gouging. Lock disassembly overlap removed.",
+        "source": "https://nationalequipmentdirect.com/wp-content/uploads/2022/11/401862_550_RevK-1.pdf"
+      },
+      {
+        "target": "/kitchen-cabinet-mold-removal/keene",
+        "mechanism": "Tambour cabinet slat/fabric-back door",
+        "comparison": "Godley drawer, Ponder blind and Josephine rollup shutter comparisons differ by fabric-backed slats and guided roll removal without face-only remediation.",
+        "source": "https://www.rockler.com/maple-hardwood-tambour-kit"
+      },
+      {
+        "target": "/kitchen-fire-cleanup/keene",
+        "mechanism": "Anodized trim chemistry and controlled rinsing",
+        "comparison": "Haslet general metal and Maypearl anodized track overlap material; Keene specifies chemistry/coating damage and solution-drying mechanism rather than generic access.",
+        "source": "https://www.kawneer.us/kawneer_files/shared%20files/Finishes/Architectural%20Manual%20Section/GENERAL%20CLEANING%20INFORMATION.pdf?_t=1665391615"
+      },
+      {
+        "target": "/mold-contaminated-contents-cleaning/keene",
+        "mechanism": "Protective screen and controlled HEPA at fragile basket weave",
+        "comparison": "Hackberry also owns wicker. Keene now provides supported mesh barrier/nozzle technique, beyond Hackberry generic whole-item inspection/cleaning. Parent should review this nearby material overlap.",
+        "source": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/technical-bulletins/mould-prevention-collection-recovery.html"
+      },
+      {
+        "target": "/mold-remediation-after-water-damage/keene",
+        "mechanism": "Composite sponge abrasive rebound capture and classifier separation",
+        "comparison": "HV wet-to-dry cleanup, Trophy Club handheld soot sponge and Crowley generic heated floor differ. Compare Keene soda blasting and HV dry ice: sponge media compresses, retains debris on rebound and can be classified under approved conditions; soda pulverizes and ice sublimates. Wallpaper overlap removed.",
+        "source": "https://www.spongejet.com/wp-content/uploads/2013/03/Sponge-Jet_Introductory_Brochure_eng.pdf"
+      },
+      {
+        "target": "/mold-removal-behind-drywall/keene",
+        "mechanism": "Conditional specialist soda blasting and spent-media recovery",
+        "comparison": "Forney generic frame cleaning, Sanger final collection and Springtown wall opening do not describe bicarbonate impact breakup and retained waste. Also differs from Highland Village dry ice whose medium sublimates.",
+        "source": "https://www.armex.com/wp-content/uploads/2023/03/The-Proper-Use-of-Soda-Blasting-Equipment-Using-ARMEX.pdf"
+      },
+      {
+        "target": "/smoke-damage-cleanup/keene",
+        "mechanism": "Supported removable insect screen cleaning",
+        "comparison": "Hawk Cove storm glass, Wolfe City coated glazing and Farmersville decorative screen differ from flexible mesh support/both-face brush and dry frame channel.",
+        "source": "https://helpcenter.andersenwindows.com/aw/articles/Knowledge/Clean-Your-Andersen-Insect-Screen-s-Mesh-and-Frame"
+      },
+      {
+        "target": "/storm-water-damage-cleanup/keene",
+        "mechanism": "Window silltrack designed weep clearing",
+        "comparison": "Kemp sillpan reconstruction and core St Paul flashing differ from opening designated track discharge without drilling new outlets.",
+        "source": "https://www.jeld-wen.ca/en-CA/blogs/Windows---Installation-and-Maintenance"
+      },
+      {
+        "target": "/structural-drying-services/keene",
+        "mechanism": "Dehumidifier condensate hose lift/kink correction",
+        "comparison": "Hutchins defrost/end purge, Weatherford pump prime and Venus sewage ejector differ from hose head/routing on drying equipment.",
+        "source": "https://www.legendbrands.com/media/t1abmzxs/127074a_110128-110133dehuqsg.pdf"
+      },
+      {
+        "target": "/toilet-overflow-cleanup/keene",
+        "mechanism": "Sewage-contacted cork core under intact finish",
+        "comparison": "Grandview ceramic salvage and Oak Leaf layeredfloor generic differ in coated cork core absorption/removal. Commercial Ferris cork wall shares material, but floor source contact/recovery differs.",
+        "source": "https://www.epa.gov/mold/mold-remediation-schools-and-commercial-buildings-guide-chapter-5"
+      }
+    ],
+    "verifiedAt": "2026-10-15T11:45:14.832352+00:00",
+    "renderedEvidence": "65.71\u201371.39%;2760 compact phrase/technical passes zeroerrors;Kemp24 separately held."
+  },
+  "kemp": {
+    "reviewedAt": "2026-10-15T12:29:24.786989+00:00",
+    "authored": 24,
+    "rootRead": 24,
+    "acceptedCandidates": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root readall24. Three duplicates returned: capillarysolderWatauga;oveninterpaneKaufman;pumpheadHutchins. Cabinetstemkit comparison WillowPark pending. Other20 include paddedceramicwashing rootcompared directly with GraysPrairie fullbody; additional actual supported basinwashing beyond generic surfacecleaning. Independent reviewer owns file until release.",
+    "latestReview": "Root fullread final flexibleimpeller rotor replacement (hubshaftflat/lubrication/twistinginsertion/seal) and hingeplasticdowel/screw engagement in accepted soundpanel. Independent fullnearest comparisons and Jabsco/Rockler primarysupport. All24 sourcecandidates accepted; rendered pending.",
+    "verifiedAt": "2026-10-15T12:30:32.445807+00:00",
+    "renderedEvidence": "63.07\u201370.62%;2760 compact phrase/technical passes,zeroerrors."
+  },
+  "kennedale": {
+    "reviewedAt": "2026-10-15T13:29:53.853879+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root fullyread21 including pushfit sliptravel,doorgasket,openvalley,reversepumpflush,thresholdlip,pulldownhose,standpipeairbreak,compositewrap,ridgeslot,loadbearinginsulatedsupport,bookvacuumfreeze,supported centrifugalclearance,snapcut,carpetpuller,ironmechanicalrust,zeoliteinterleave,seasoning,coldvinylweld,tegularreveal,warmairmat,fillvalveflush. Final3 exactoverlaps returned versusJosephinefloat/Justinhose/Joshuaclips; no build yet.",
+    "rootRead": 24,
+    "acceptedCandidates": 24,
+    "latestReview": "Root fullyread reliefspring/lockingnut calibration (not headrelease), extinguisher internalvalvestemseat replacement (not hoseclearing), springtoothclip panel. Reviewer verified current Joshua masonryscrew owner distinct from retained springclips. Sourcecandidate acceptance complete;rendered pending.",
+    "verifiedAt": "2026-10-15T13:30:37.494995+00:00",
+    "renderedEvidence": "60.87\u201371.26%;2784compact phrase/technicalpasses zeroerrors."
+  },
+  "krugerville": {
+    "reviewedAt": "2026-10-15T14:30:34.907468+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Firstdraft source support incomplete; exactphrase searches do not establish distinct mechanisms. Independent hard reviewer assigned with specific knownowners for pushfit/washerboot/airgap/overflowfloat/cleanout/checkvalve/shieldcoupling/flapper/solar/drysponge/electronics/hoodfilter/boardclamp/floorunlock/plaster.",
+    "latestReview": {
+      "status": "Six revisions read and accepted by root after independent source/nearest review; remaining eighteen previously read.",
+      "verification": "24/24 rendered phrase passes62.41\u201369.76%; compact technical2808 pages zeroerrors.",
+      "scope": "No publication; production release checks remain separate."
+    }
+  },
+  "krum": {
+    "reviewedAt": "2026-10-15T16:00:29.711465+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root fullread plus independent focused comparisons; attic revised to evidence-based selective duct-insulation versus attic-surface treatment. Final rendered24/24 uniqueness60.70\u201368.97%, compacttechnical2832 zeroerrors.",
+    "assignment": "Ownership released; cohort accepted after fresh rendered gates.",
+    "focusedReview": {
+      "accepted": [
+        "crawl-space-mold-remediation",
+        "kitchen-cabinet-mold-removal",
+        "kitchen-fire-cleanup",
+        "fire-damaged-debris-removal",
+        "floor-water-damage-cleanup"
+      ],
+      "returned": [
+        "attic-mold-remediation"
+      ],
+      "rationale": "Accepted distinctions answer different customer treatment decisions; inherent shared restoration operations are permitted. Attic largely repeats Fairview cleanable versus deteriorated sheathing decision; targeted substantive revision assigned.",
+      "technical": "2832 rendered compact pages checked,zeroerrors; Krum24 phrasepass60.70\u201368.13%; still held pending revised attic and fresh gates."
+    }
+  },
+  "lakeBridgeport": {
+    "reviewedAt": "2026-10-15T16:30:41.455946+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Independent source/nearest fullbody substantive repairs followed by root fullread. Fresh rendered24/24 uniqueness61.88\u201367.62%; compacttechnical2856 zeroerrors. Production remains separate.",
+    "assignment": "Released; reviewed cohort accepted."
+  },
+  "lakeDallas": {
+    "reviewedAt": "2026-10-15T17:45:38.772181+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Fullrootread and independent source/fullnearest review plus targeted substantive repairs. Fresh rendered24/24 60.69\u201370.59%; compacttechnical2904 zeroerrors. Final publicationreview separate.",
+    "assignment": "Ownershipreleased; cohort accepted."
+  },
+  "lakeWorth": {
+    "reviewedAt": "2026-10-15T17:45:38.772181+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Ownershipreleased; cohort accepted.",
+    "evidence": "Fullrootread and independent source/fullnearest review plus targeted substantive repairs. Fresh rendered24/24 60.00\u201369.34%; compacttechnical2904 zeroerrors. Final publicationreview separate."
+  },
+  "lakeside": {
+    "reviewedAt": "2026-10-15T18:19:41.679904+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Independent full-nearest comparisons and repairs plus root fullread24; 24/24 rendered phrase scores62.43\u201374.16%; compacttechnical2928 zeroerrors. Customer decisions include persistent attic staining versus incomplete cleanup, supported subfloor access patch, artwork conservation, returning groundwater, liner underside sewage, carpet cutback repairability, damaged cabinet load support. Existing illustration/link template preserved; final integrated mobile/image/release checks remain."
+  },
+  "lakewoodVillage": {
+    "reviewedAt": "2026-10-15T19:15:58.981179+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Independent full-nearest review, root fullread24 and five targeted final substantive repairs. Fresh LV24/24 rendered60.18\u201372.63%, all LV technical checks pass; Lakeside24 restored. Global2 technical errors belong to held Lancaster. Final integrated visual/release checks outstanding.",
+    "assignment": "Released; verified draft."
+  },
+  "lancaster": {
+    "reviewedAt": "2026-10-15T20:00:51.799364+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released; verified draft.",
+    "evidence": "Root fullread24, independent fullnearest review and targeted revisions. Attic affected ceiling-paper treatment and angled bay-window temporary panels reviewed against closest full bodies. Fresh Lancaster24/24 rendered60.38\u201376.66%, technical2976 zeroerrors, no prior pass regressions. Final integrated visual/release checks remain."
+  },
+  "lavon": {
+    "reviewedAt": "2026-10-15T20:45:58.405572+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Independent fullnearest rewrite24, root fullread24, grammar corrections and three targeted substantive repairs. Fresh24/24 rendered60.06\u201367.28%, technical zeroerrors. Prior LV regression recovered; final integrated visual/release checks outstanding.",
+    "assignment": "Released; verified draft."
+  },
+  "littleElm": {
+    "reviewedAt": "2026-10-15T21:15:54.601202+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Independent fullnearest rewrite24, root fullread24, targeted crawlwater/boardup substantive revisions and three estimate paragraph corrections. Fresh rendered24/24 63.51\u201372.54%, technical3024 zeroerrors; no prior pass regressions. Final integrated visual/release checks remain.",
+    "assignment": "Released; verified draft."
+  },
+  "loneOak": {
+    "reviewedAt": "2026-10-16T01:32:07.302631+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "ACregression recovered61.06 afterMelissa rewrite; all24 again pass current rendered gates.",
+    "assignment": "Released"
+  },
+  "lowryCrossing": {
+    "reviewedAt": "2026-10-15T23:31:25.770240+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "All24 restored after Lucas repairs; current rendered60.00\u201366.22%, technical zeroerrors. No source changes.",
+    "assignment": "Released"
+  },
+  "lucas": {
+    "reviewedAt": "2026-10-15T23:31:25.770240+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Root read all final24 and targeted repairs. Fresh rendered24/24 phrasepasses60.31\u201375.79; technical zeroerrors. All three Lowry regressions restored and no new accepted regressions. Accepted drafts, not publication.",
+    "assignment": "Released"
+  },
+  "mabank": {
+    "reviewedAt": "2026-10-15T23:46:35.199610+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Full independent nearest/core/commercial comparison followed by root reading all24 revised bodies; grammar corrected. Isolated rendered24/24 62.25\u201374.39%; technical zeroerrors; no accepted regressions. Accepted drafts, not production promotion.",
+    "assignment": "Released"
+  },
+  "maypearl": {
+    "reviewedAt": "2026-10-16T01:32:07.302631+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "NewMelissa crawlmold regresses Maypearlcrawl59.90; not counted pendingMelissa repair. Sourceunchanged.",
+    "assignment": "Released",
+    "latestCoordinatorReview": {
+      "checkedAt": "2026-10-16T02:34:10.926769+00:00",
+      "status": "restored",
+      "note": "Crawl mold59.90 was dominated by scored legal disclosure. Exact-disclosure extraction correction restores68.15 on frozen corpus; fresh24allpass. Existingcopy unchanged; not newly authored."
+    }
+  },
+  "mclendonChisholm": {
+    "reviewedAt": "2026-10-16T01:01:50.871834+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Rootreadall24 plus targeted2repairs; fresh24/24 61.05\u201367.67; technicalzeroerrors. Accepted drafts, not publication.",
+    "assignment": "Released"
+  },
+  "melissa": {
+    "reviewedAt": "2026-10-16T02:34:10.926769+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted by root",
+    "evidence": "Full substantive review and comparison handoff read; fresh rendered phrase and technical checks passed. Exact legal-only extraction fix validated separately; source-only scores not used for acceptance."
+  },
+  "midlothian": {
+    "reviewedAt": "2026-10-16T02:34:10.926769+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted by root",
+    "evidence": "Full substantive review and comparison handoff read; fresh rendered phrase and technical checks passed. Exact legal-only extraction fix validated separately; source-only scores not used for acceptance."
+  },
+  "milford": {
+    "reviewedAt": "2026-10-16T02:34:10.926769+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted by root",
+    "evidence": "Full substantive review and comparison handoff read; fresh rendered phrase and technical checks passed. Exact legal-only extraction fix validated separately; source-only scores not used for acceptance."
+  },
+  "millsap": {
+    "reviewedAt": "2026-10-16T03:02:32.974356+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted byroot",
+    "evidence": "All24 fullrootread, independent fullnearest/citycore/commercial review; targeted substantive repairs and naturalheading corrections. Fresh rendered24/24 64.90\u201371.43, no regressions, technicalzeroerrors. Productionrelease unchanged."
+  },
+  "mineralWells": {
+    "reviewedAt": "2026-10-16T03:32:20.120294+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted byroot",
+    "evidence": "Full24 rootread and independent nearest/semantic/core/commercial comparisons; repaired duplicatedcity headings and substantive overlap. Fresh24/24 rendered64.63\u201373.22, technicalzeroerrors, no regressions. Release unchanged."
+  },
+  "mobileCity": {
+    "reviewedAt": "2026-10-16T04:02:21.753969+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted byroot",
+    "evidence": "Full24 rootread and independent nearest/semantic/core/commercial review. Repaired stale scenario remnants, H2 city omissions and semantic overlap. Fresh24/24rendered62.92\u201373.98, technicalzeroerrors, no regressions. Releaseunchanged."
+  },
+  "murphy": {
+    "reviewedAt": "2026-10-16T04:32:02.991493+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted byroot",
+    "evidence": "Full24 rootread and independent nearest/semantic/core/commercial review after fullrecordrewrite. Fresh24/24rendered64.38\u201371.99, technicalzeroerrors, no regressions. Releaseunchanged."
+  },
+  "nevada": {
+    "reviewedAt": "2026-10-16T05:04:03.973216+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted by root",
+    "evidence": "Root completed all24 substantive read after independent full nearest/semantic/core/commercial review. Corrected AC capitalization. Fresh isolated preview9060 routes; full rendered24/24 passed64.40\u201373.41, zero prior-pass regressions, technical3360 with zero errors. Only Nevada holds removed. Publication unchanged."
+  },
+  "newFairview": {
+    "reviewedAt": "2026-10-16T05:32:22.688036+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted by root",
+    "evidence": "Root fullread of all24 after independent full nearest, semantic, core6 and commercial10 review and repairs. Removed a distracting threshold/track contrast. Fresh9060-route preview;24/24 rendered60.97\u201369.63, zero priorpassing regressions; technical3384 with zero errors. Only New Fairview holds removed; release unchanged."
+  },
+  "newHope": {
+    "reviewedAt": "2026-10-16T06:02:11.849452+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted by root",
+    "evidence": "Root fullread of all24 after independent full nearest/targeted semantic/core6/commercial10 review and physical-content repairs. Fresh isolated preview and24/24 rendered64.23\u201371.93; zero priorpass regressions; technical3408 with zero errors. Only New Hope holds removed. Release unchanged."
+  },
+  "newark": {
+    "reviewedAt": "2026-10-16T06:47:15.931357+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "assignment": "Released and accepted by root",
+    "evidence": "Root read all24 revised records after independent full nearest/semantic/core6/commercial10 review. Seven exact compact disclosures restored. Fresh isolated preview;24/24 rendered62.33\u201370.23, no priorpass regressions, technical3432 with zero errors. Only Newark holds removed; release unchanged."
+  },
+  "neylandville": {
+    "reviewedAt": "2026-10-18T23:15:18.083895+00:00",
+    "authored": 24,
+    "held": 0,
+    "verified": 24,
+    "evidence": "Final release root reread all24 current records; prior rendered acceptance reconfirmed by fresh full-corpus audit and production-copy preservation."
+  }
+}

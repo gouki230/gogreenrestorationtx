@@ -1,0 +1,466 @@
+{
+  "emergency-water-extraction/lone-oak": {
+    "intro": "Emergency water extraction in Lone Oak removes pooled water from the surface and reachable low points before it spreads farther into the floor assembly. We will choose collection equipment for the depth and surface, then identify water that remains beneath a finish or obstruction.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Lone Oak: collect from depressions after the broad floor pass",
+        "text": "A shallow depression can hold water after the surrounding floor has been extracted. We will collect these reachable pockets with a surface tool suited to the finish, then check the adjoining wall base where water stood longest. A low spot beneath a fixed fixture needs access before it can be included in the completed collection area."
+      },
+      {
+        "title": "Separate wet contents from the collection surface",
+        "text": "Boxes or soft furniture resting in the pool can release more water when lifted. We will arrange approved movement over the affected area and collect that released liquid before cleaning or drying the exposed footprint. Their absorbent bases receive their own recovery decision; clearing the floor does not dry the belongings."
+      }
+    ],
+    "estimate": "Water depth, floor type, access and the amount of furniture handling affect the estimate. Extraction, selective removal and follow-up drying will be identified as separate tasks.",
+    "checklist": [
+      "Note the water source and whether it has stopped.",
+      "List affected floor types and blocked edges.",
+      "Share any items already moved or water removed."
+    ]
+  },
+  "burst-pipe-cleanup/lone-oak": {
+    "intro": "Burst pipe cleanup in Lone Oak addresses water released from a failed supply line after the leak is stopped. We will trace the wet path from the plumbing access point and separate water removal from the pipe repair and wall restoration.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Lone Oak: follow water where a wall plate interrupts its path",
+        "text": "A horizontal framing member can hold wet insulation above the lowest visible opening. We will inspect the accessible bays above and below it, removing specified saturated insulation so neither pocket remains covered. Extending a cut is justified by the material requiring access, not simply by the distance from the broken fitting."
+      },
+      {
+        "title": "Clear the ledge before directing drying into the bay",
+        "text": "Loose gypsum and insulation fragments can sit on framing ledges after board removal. We will collect these remnants and check retained wood and adjacent board separately. Equipment will serve the exposed wet surfaces; framing that divides the opening can require drying access on both sides."
+      }
+    ],
+    "estimate": "The estimate will separate extraction, access cuts, material removal and drying from plumbing service and reconstruction. Share the break location, plumber’s findings and rooms below or beside it.",
+    "checklist": [
+      "Confirm that the supply is shut off and identify the repair provider.",
+      "Describe the pipe opening and visible water path.",
+      "List wet rooms on adjacent floors."
+    ]
+  },
+  "appliance-leak-cleanup/lone-oak": {
+    "intro": "Appliance leak cleanup in Lone Oak can be needed when a machine leak runs behind flexible cove base along the utility-room wall. We will collect the water and determine whether the bonded trim is concealing wet wall facing that needs access before the appliance returns.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Lone Oak: release the wet wall-base edge",
+        "text": "A curled top edge can admit water behind a flexible base while its lower edge still looks sealed. We will inspect the accessible bond and propose release where it exposes wet backing. Pulling bonded trim can tear drywall paper, so preserving the strip and preserving the wall are separate material decisions."
+      },
+      {
+        "title": "Remove damp backing before bonding the base again",
+        "text": "We will collect accessible liquid and remove specified softened wall facing or unsuitable adhesive remnants without flooding the wall-floor junction. Suitable retained material receives cleaning and monitored drying. A sound base strip may be reusable if its reverse can be cleaned and the installer accepts it, but new adhesive cannot compensate for damp or damaged backing."
+      }
+    ],
+    "estimate": "Base attachment, wall-facing damage and the length needing release affect cleanup and finish preparation. Appliance source repair and the installer’s reattachment work remain separately identified.",
+    "checklist": [
+      "Describe the appliance release and whether the source has stopped.",
+      "Show loose or curled wall-base edges without pulling them away.",
+      "Identify wall material and any base already removed."
+    ]
+  },
+  "storm-water-damage-cleanup/lone-oak": {
+    "intro": "Storm water damage cleanup in Lone Oak removes interior water and debris after rain enters through a roof, window or low opening. We will define the indoor wet path and separate cleanup from work needed to stop further entry.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Lone Oak: remove water held in a rolled or folded rug",
+        "text": "A rug lifted during the storm can retain water against its backing and release it elsewhere when carried. We will arrange contained handling of approved wet rugs, extract the reachable floor beneath them and evaluate the rug separately for cleaning or disposal. Rain entry history and contact with outside contaminants guide retention decisions."
+      },
+      {
+        "title": "Check the floor beneath coverings left during the event",
+        "text": "An intact rug face can hide wet underlay or a transferred dye mark on the finish. Unsuitable underlay is removed, while suitable exposed floor receives cleaning and drying. Staining or finish damage is recorded separately so repeated wet cleaning does not become an attempt to reverse permanent color transfer."
+      }
+    ],
+    "estimate": "The estimate will distinguish water collection, debris handling, drying and material removal from roof, window or exterior repairs. Photos of the entry and temporary protection help define access.",
+    "checklist": [
+      "Describe the entry point and when rain entered.",
+      "List wet rooms, contents and visible debris.",
+      "Note temporary protection or exterior repair status."
+    ]
+  },
+  "structural-drying-services/lone-oak": {
+    "intro": "Structural drying services in Lone Oak address retained moisture in accessible framing, subfloor or wall material after water collection. We will set equipment for the identified assembly and use progress readings to decide whether it can remain in place.",
+    "sections": [
+      {
+        "title": "Structural drying services in Lone Oak: measure the junction between different retained materials",
+        "text": "A wood plate against concrete can remain damp while adjacent open framing responds to drying. We will select repeat measurement locations appropriate to each material and keep their results distinct. A reading on concrete cannot be substituted for the condition of the wood touching it."
+      },
+      {
+        "title": "Change access when the contact stays wet",
+        "text": "Where a retained finish blocks air from the wet junction, approved removal may be needed to expose it. We will clear unsuitable wet backing and position equipment for the revealed surfaces, checking whether the contact responds. Recurring wetness after source repair needs further investigation before more equipment time is assumed to be the answer."
+      }
+    ],
+    "estimate": "Equipment, monitoring visits, access openings and retained materials affect the estimate. Source repair, material removal and reconstruction will be described separately.",
+    "checklist": [
+      "Provide prior moisture readings if available.",
+      "List materials already removed or opened.",
+      "Identify rooms where equipment or access is restricted."
+    ]
+  },
+  "floor-water-damage-cleanup/lone-oak": {
+    "intro": "Floor water damage cleanup in Lone Oak addresses water trapped between a floor covering and its base. We will inspect the exposed edge or opening and decide whether the covering, underlayment or only the substrate needs removal.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Lone Oak: separate loose parquet pieces from the bonded field",
+        "text": "Small parquet pieces may lift individually while adjoining blocks remain attached. We will check the affected pattern and backing before approved removal, collecting loose pieces for a separate installer reuse decision. Water beneath detached blocks still needs extraction and substrate checks even where the remaining field feels firm."
+      },
+      {
+        "title": "Clear the released pockets before drying the base",
+        "text": "Loose backing and failed adhesive in the opened pockets receive an appropriate removal or preparation decision, with unknown materials evaluated before disturbance. We will collect trapped water and clean suitable exposed substrate without forcing water into the bonded adjoining field. The installer determines whether a local patch can be supported; drying does not restore failed block adhesion."
+      }
+    ],
+    "estimate": "Floor layers, adhesive, furniture moving and access below fixed cabinets affect the estimate. The proposal will state what is removed, retained and left for flooring installation.",
+    "checklist": [
+      "Name the floor covering and any visible separation or buckling.",
+      "Identify fixed cabinets or appliances over the affected area.",
+      "Share prior lifting, extraction or moisture checks."
+    ]
+  },
+  "ceiling-water-damage-cleanup/lone-oak": {
+    "intro": "Ceiling water damage cleanup in Lone Oak removes unstable overhead finish and wet insulation where needed to expose the ceiling cavity. We will protect the area below, define the opening and identify utilities or fixtures that constrain removal.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Lone Oak: account for a second ceiling beneath the leak",
+        "text": "An older ceiling hidden above a newer finish can hold wet debris between the layers. We will establish the assembly through available access and identify suspect materials for evaluation before cutting. The room-side stain alone cannot determine which overhead layers need removal."
+      },
+      {
+        "title": "Remove loose material from the space between layers",
+        "text": "Approved unstable board and wet insulation will be lowered through a controlled opening with the room below protected. Loose fragments resting on a retained ceiling layer need collection before it can be inspected and dried. Support, fixtures and any inaccessible upper layer receive a specific next step before the lower finish is repaired."
+      }
+    ],
+    "estimate": "Overhead access, room protection, insulation handling and the removal boundary influence cost. Electrical work, source repair and ceiling reconstruction are distinct unless specifically included.",
+    "checklist": [
+      "Identify the room and leak source above it.",
+      "Keep people clear of sagging or loose ceiling material.",
+      "List fixtures or utilities near the proposed opening."
+    ]
+  },
+  "bathroom-mold-removal/lone-oak": {
+    "intro": "Bathroom mold removal in Lone Oak addresses reported growth at a bathroom finish such as a vanity base, wall joint or flooring edge. We will use the available assessment and accessible conditions to define what is removed, cleaned or referred for further evaluation.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Lone Oak: separate the mirror from the wall treatment",
+        "text": "Suspected growth at a mirror edge may involve the wall covering behind it rather than the reflective surface. The provider will establish whether clips, adhesive or both secure the glass and arrange safe removal where the assessment requires access. A bonded mirror may not be recoverable intact, which must be considered before release."
+      },
+      {
+        "title": "Treat the wall exposed by mirror removal",
+        "text": "Specified affected porous backing is contained for disposal and suitable reachable surfaces receive physical cleaning under the work controls. Adhesive patches that retain affected paper need a removal decision suited to the substrate. Moisture correction and any separate independent clearance precede covering that wall again."
+      }
+    ],
+    "estimate": "The estimate will separate material removal and cleaning from plumbing, ventilation and finish repairs. Go Green Restoration TX Inc’s own Texas Mold Remediation Contractor license is pending. Work requiring licensure goes to an appropriate partner after applicable contractor and company credentials are verified and the responsible provider and scope are identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Provide any mold assessment and affected-location notes.",
+      "Share plumbing or ventilation repairs already completed.",
+      "Identify tile, cabinet or wall layers that remain closed."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/lone-oak": {
+    "intro": "Kitchen cabinet mold removal in Lone Oak focuses on the cabinet interior and the wall or floor concealed behind its base. We will assess whether the cabinet can be accessed in place or whether removal is needed to reach the identified material.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Lone Oak: open a corner cabinet for working reach",
+        "text": "A rotating shelf can expose stored items while still blocking the rear cabinet floor. The partner will arrange approved release of the shelf mechanism when needed to reach the material identified in the assessment. Hardware removal for access is separate from disposal of an affected cabinet component."
+      },
+      {
+        "title": "Clean reachable corners and evaluate the cabinet bottom",
+        "text": "With the mechanism clear, suitable sealed surfaces receive physical cleaning under the work controls, including reachable corners and mounting contacts. Swollen or affected composite bottom panels that cannot be adequately treated are contained for removal. Reinstallation requires suitable cabinet support as well as completed moisture and remediation work."
+      }
+    ],
+    "estimate": "Cabinet construction, countertop support, contents handling and the affected wall or floor boundary shape the estimate. Go Green Restoration TX Inc’s own Texas Mold Remediation Contractor license is pending. Work requiring licensure goes to an appropriate partner after applicable contractor and company credentials are verified and the responsible provider and scope are identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Empty the affected cabinet if safe to do so.",
+      "Identify sink, dishwasher or supply-line repairs.",
+      "Share assessment notes and cabinet construction details."
+    ]
+  },
+  "mold-remediation-after-water-damage/lone-oak": {
+    "intro": "Mold remediation after water damage in Lone Oak can be considered when suspected growth is found beneath interlocking exercise mats after a room leak. We will arrange evaluation of the mat undersides and the floor they covered, so a dry upper face does not decide whether either surface can remain.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Lone Oak: separate mats from the affected floor",
+        "text": "Within the partner’s selected controls, included mats are lifted and kept from contacting unaffected storage surfaces. Their material and condition determine whether the undersides and interlocking edges can be physically cleaned or require disposal. An affected absorbent core that cannot be reached is not recovered by wiping the top."
+      },
+      {
+        "title": "Clean the revealed floor before replacing the covering",
+        "text": "The partner will remove specified unsuitable mat material and physically clean suitable exposed floor surfaces, including deposits around the mat joints. Damaged flooring below the mats receives its own removal decision rather than being assumed cleanable because it is hard underfoot. Source correction, drying and required independent evaluation precede returning accepted or replacement mats to the floor."
+      }
+    ],
+    "estimate": "Mat construction, the exposed floor and the assessed treatment area determine removal and cleaning costs. Go Green Restoration TX Inc’s own Texas Mold Remediation Contractor license is pending. Work requiring licensure goes to an appropriate partner after applicable contractor and company credentials are verified and the responsible provider and scope are identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Share the leak and drying history plus any assessment findings.",
+      "Identify the mat product or material if known.",
+      "Describe what was found beneath lifted mats and where those pieces are now stored."
+    ]
+  },
+  "mold-removal-behind-drywall/lone-oak": {
+    "intro": "Mold removal behind drywall in Lone Oak requires a defined opening that reaches the reported wall cavity without removing unaffected finish by default. We will review the assessment, locate the affected section and explain the cut boundary before opening the wall.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Lone Oak: plan access around a pocket door cavity",
+        "text": "A sliding door can conceal wall faces when parked inside its pocket. The partner will review the assessed location and arrange door or trim release with the repair provider where needed for working reach. The door mechanism must stay supported, and the opening cannot be planned as though the pocket were an ordinary empty stud bay."
+      },
+      {
+        "title": "Reach the pocket surfaces included for treatment",
+        "text": "Specified affected board is removed under controls and suitable accessible supports receive physical cleaning. The door leaf and track have separate treatment or repair decisions if they were contacted. An untreated reverse face behind the mechanism remains an access limit until the agreed opening actually reaches it."
+      }
+    ],
+    "estimate": "Opening size, insulation, contents protection and concealed utilities affect the estimate. Go Green Restoration TX Inc’s own Texas Mold Remediation Contractor license is pending. Work requiring licensure goes to an appropriate partner after applicable contractor and company credentials are verified and the responsible provider and scope are identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Share the report location and any existing wall opening.",
+      "Identify plumbing or electrical services in the wall.",
+      "Provide leak-correction and drying records."
+    ]
+  },
+  "kitchen-fire-cleanup/lone-oak": {
+    "intro": "Kitchen fire cleanup in Lone Oak can be needed when a countertop appliance fire leaves a blackened laminate worktop and a lifted front edge. We will distinguish removable deposits from failed laminate and damaged core so cleaning does not conceal a counter that still needs repair.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Lone Oak: expose the counter beneath the appliance",
+        "text": "After equipment access is released, approved appliances and loose objects are moved for separate evaluation. We will collect loose deposits from the exposed worktop and examine the heat mark, edge band and nearby seams before selecting a limited cleaning trial. Electrical inspection and any internal appliance treatment remain with its qualified service provider."
+      },
+      {
+        "title": "Clean intact laminate without soaking the open edge",
+        "text": "On an accepted sound area, a compatible cleaning method lifts residue with controlled moisture and pickup. An open edge or lifted seam can admit cleaning liquid to the absorbent core, so flooding the worktop or repeatedly scrubbing the failed joint is not the treatment. Removable deposits are addressed where reachable; blackening that remains within heat-damaged material receives a repair decision."
+      },
+      {
+        "title": "Resolve the failed bond before the counter is covered again",
+        "text": "A loose edge strip may reveal soot beneath it or a swollen, crumbling core that cannot support reattachment. The countertop provider determines whether the edge can be repaired or a larger section needs replacement, with support and attached fixtures considered before removal. We will identify any untreated contact revealed by that release so a new strip is not bonded over unresolved residue."
+      }
+    ],
+    "estimate": "The length of lifted edging, condition of the core and access beneath the appliance determine the cleaning and removal work. Countertop fabrication, fixture disconnection and equipment service are separate quantities rather than assumed parts of a surface-cleaning price.",
+    "checklist": [
+      "Show the heat mark, lifted edge and nearby countertop seams if safely accessible.",
+      "Identify the appliance involved and any service or disconnection already completed.",
+      "Describe cleaners used and whether any edge strip or laminate has been removed."
+    ]
+  },
+  "smoke-damage-cleanup/lone-oak": {
+    "intro": "Smoke damage cleanup in Lone Oak removes soot from compatible surfaces and separates residue treatment from odor work. We will inspect the deposit and finish before choosing dry collection, detailed cleaning or material removal.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Lone Oak: open removable window treatments for separate handling",
+        "text": "Blinds and curtains can hold deposits against an otherwise cleanable window surround. We will arrange approved removal and keep their cleaning or specialist decisions separate from the building surfaces. Washing curtains does not address residue remaining on brackets, casing or the upper window recess."
+      },
+      {
+        "title": "Clean the surround before returning the treatment",
+        "text": "Loose residue is collected before a compatible method is tested on painted trim, glass and other included finishes. Reachable bracket contacts and the underside of the upper recess receive detail cleaning. Heat damage, stained coatings and odor retained in absorbent window treatments remain separate recovery findings before reinstallation."
+      }
+    ],
+    "estimate": "Surface type, soot loading, height and contents handling affect the estimate. Deodorizing, water extraction, structural removal and reconstruction will be identified separately.",
+    "checklist": [
+      "List surfaces and contents affected by smoke.",
+      "Describe cleaning or sealing already attempted.",
+      "Note whether firefighting water or heat damage is present."
+    ]
+  },
+  "toilet-overflow-cleanup/lone-oak": {
+    "intro": "Toilet overflow cleanup in Lone Oak addresses wastewater on bathroom surfaces and any porous material it contacted. We will identify the overflow path, remove affected material included in the scope and clean retained surfaces after the source is controlled.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Lone Oak: check a raised threshold on both sides",
+        "text": "A raised bathroom saddle can stop visible flow while its joints admit wastewater beneath the edge. We will use the release history and accessible contact evidence to decide whether approved threshold lifting is needed. Removing liquid from the tile face does not resolve contaminated bedding or adjoining porous floor layers."
+      },
+      {
+        "title": "Clean the opened threshold bed",
+        "text": "Specified contacted porous backing that cannot be adequately cleaned is contained for disposal. Suitable retained hard surfaces receive physical soil removal followed by appropriate disinfection, with drying for retained wet material. A reusable saddle is cleaned on its accessible underside before the flooring provider resets it over a completed receiving surface."
+      }
+    ],
+    "estimate": "The estimate depends on water type, floor layers, affected rooms and disposal needs. Plumbing, material removal, cleaning, drying and finish replacement will be separated.",
+    "checklist": [
+      "Say whether the toilet overflow involved wastewater or clean supply water.",
+      "Identify the drain or fixture repair status.",
+      "List floor transitions and rooms below the bathroom."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/lone-oak": {
+    "intro": "AC leak water damage cleanup in Lone Oak can involve a damp ring around the point where a condensate pipe passes through a wall. Water can travel along the pipe and soak the cut edges behind a decorative collar. We will examine that opening and arrange access to wet backing while the HVAC provider resolves the leak.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Lone Oak: reach wet trim around a condensate pipe penetration",
+        "text": "The stain and the pipe route help define the inspection area, but the visible ring does not show how far moisture extends behind the finish. We will release an accessible decorative collar where appropriate and check the exposed board edge and adjacent backing. A bonded seal or tight fitting is not pulled against the pipe; the HVAC provider handles any necessary pipe disconnection."
+      },
+      {
+        "title": "Remove absorbent remnants from the opening",
+        "text": "Softened gypsum and wet insulation designated for removal are collected from the exposed opening without using the pipe as a tool support. Where damage continues past the collar footprint, the opening may need to extend to sound, supported edges. Suitable retained backing receives moisture checks and drying while that access remains available."
+      },
+      {
+        "title": "Restore the wall detail after the opening is resolved",
+        "text": "The repair provider reinstates the required wall construction and the appropriate seal around the penetration. A decorative ring conceals an edge but does not replace damaged backing or a required assembly detail. Refit follows source correction and the material checks; the HVAC provider separately confirms the condensate connection and equipment operation."
+      }
+    ],
+    "estimate": "Collar attachment, the depth of wet backing and access on either side of the wall determine the opening and repair work. Include any HVAC findings about water following the pipe.",
+    "checklist": [
+      "Describe staining at the wall opening and on its opposite face.",
+      "Share whether the collar is loose, sealed or covered by cabinetry.",
+      "Identify completed condensate repairs and any continuing moisture."
+    ]
+  },
+  "crawl-space-water-removal/lone-oak": {
+    "intro": "Crawl space water removal in Lone Oak extracts accessible standing water beneath a building and identifies pools that cannot be reached from the available entry. We will review access and clearance before placing pumping or collection equipment.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Lone Oak: arrange collection without obstructing the only exit",
+        "text": "A narrow hatch may need to carry the extraction hose while remaining the worker access route. We will select a practical hose placement and collection position for that clearance, without routing weight or sharp bends over plumbing and wiring. If the opening cannot support safe movement, another access arrangement is needed before entry."
+      },
+      {
+        "title": "Recover water from the reachable end of the hose",
+        "text": "As the level falls, a collection point can lose contact with a shallow pool even while water remains nearby. We will reposition reachable pickup and clear suitable intake obstructions rather than keep running a dry collection point. Saturated debris removed from the pickup area receives its own disposal decision, and pools beyond safe reach remain excluded until access changes."
+      }
+    ],
+    "estimate": "Access height, water volume, debris and disposal influence cost. Pumping, material handling, drying and drainage work will be listed distinctly.",
+    "checklist": [
+      "Describe hatch location and known low-clearance areas.",
+      "Share whether water is still entering.",
+      "List visible standing water and any known hazards."
+    ]
+  },
+  "attic-mold-remediation/lone-oak": {
+    "intro": "Attic mold remediation in Lone Oak applies to roof sheathing, rafters or other materials identified for treatment in an assessment. We will locate the reported area relative to roof framing and define which surfaces can be reached safely.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Lone Oak: separate stored flooring from the surfaces beneath it",
+        "text": "An attic storage deck can block access to reported growth on joists or ceiling framing. The partner will distinguish loose storage panels from structural components and arrange approved panel release without using the ceiling below as a work surface. Stored belongings receive their own handling decision."
+      },
+      {
+        "title": "Treat the exposed top and side contacts",
+        "text": "Specified unsuitable insulation or affected porous decking is contained for removal, and suitable accessible timber receives physical cleaning under the work controls. A deck panel removed intact may still require treatment on its underside before reuse is considered. Moisture-source correction and any required independent clearance precede replacing the covering."
+      }
+    ],
+    "estimate": "Attic access, insulation handling, roof pitch and the defined treatment area affect pricing. Go Green Restoration TX Inc’s own Texas Mold Remediation Contractor license is pending. Work requiring licensure goes to an appropriate partner after applicable contractor and company credentials are verified and the responsible provider and scope are identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Provide the assessment and attic access details.",
+      "Share roof leak or ventilation repairs completed.",
+      "Identify insulation or stored items blocking the reported area."
+    ]
+  },
+  "crawl-space-mold-remediation/lone-oak": {
+    "intro": "Crawl space mold remediation in Lone Oak focuses on the underside of the floor assembly and coverings that may hide the reported material. We will establish reachable work areas and identify insulation or ground covering that must be removed to expose them.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Lone Oak: distinguish removable blocking from structural support",
+        "text": "Short pieces between joists can obscure a reported subfloor face, but they may also brace the floor. The partner will plan treatment from available reach and seek a qualified building decision before removing support for access. A piece cannot be discarded merely because its removal would make cleaning easier."
+      },
+      {
+        "title": "Clean reachable wood at the blocked bay",
+        "text": "Specified unsuitable insulation is contained and removed to expose the affected area. Suitable accessible wood receives physical cleaning, including reachable corners around blocking, with concealed contact faces explicitly identified. Structural release or replacement is arranged where treatment cannot otherwise reach the assessed material; source correction and independent clearance remain separate."
+      }
+    ],
+    "estimate": "Clearance, insulation handling, access and disposal determine the estimate. Go Green Restoration TX Inc’s own Texas Mold Remediation Contractor license is pending. Work requiring licensure goes to an appropriate partner after applicable contractor and company credentials are verified and the responsible provider and scope are identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Share the assessment and entry dimensions.",
+      "Identify plumbing, drainage or ground-moisture work completed.",
+      "Note coverings and utilities that restrict access."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/lone-oak": {
+    "intro": "Mold contaminated contents cleaning in Lone Oak sorts belongings by construction and cleanability before they are packed or treated. We will identify accessible surfaces, removable parts and porous sections that may not be recoverable through surface cleaning.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Lone Oak: separate a removable lining from a cleanable container",
+        "text": "A storage trunk may have a hard shell and an absorbent fabric or paper lining. The provider will review whether the lining can be released without damaging the shell and whether the inner joints are reachable. Cleaning the exterior does not recover an affected lining sealed inside."
+      },
+      {
+        "title": "Treat the exposed shell before replacement lining",
+        "text": "Specified unsuitable lining is contained for disposal under the selected controls. Suitable exposed shell surfaces and accessible seams receive physical cleaning with a method tested for the finish; adhesive that still holds affected fibers needs a further removal decision. Drying, any specialist repair and a suitable receiving location come before repacking the contents."
+      }
+    ],
+    "estimate": "Item construction, quantity, disassembly, finish sensitivity and packing affect price. Go Green Restoration TX Inc’s own Texas Mold Remediation Contractor license is pending. Work requiring licensure goes to an appropriate partner after applicable contractor and company credentials are verified and the responsible provider and scope are identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Group belongings by room and material type.",
+      "Identify delicate, valuable or electrically powered items.",
+      "Share the receiving location’s remediation status."
+    ]
+  },
+  "fire-damaged-debris-removal/lone-oak": {
+    "intro": "Fire damaged debris removal in Lone Oak clears only the burned or damaged material approved for disposal. We will identify attached components and protect retained property before dismantling and carrying debris through the agreed route.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Lone Oak: release attached floor debris before carrying it out",
+        "text": "A burned floor covering can remain connected by tack strip, adhesive or undamaged material at the edge. We will identify the approved cut boundary and any suspect materials requiring evaluation before disturbance. A loose-looking flap will not be pulled across retained flooring while still attached."
+      },
+      {
+        "title": "Contain the released floor layers",
+        "text": "Approved covering is cut or released in controlled sections, with sharp tack strip and loose fasteners handled separately from soft waste. Fragments and soot are collected from the exposed base as removal progresses. Heat-damaged subfloor, remaining adhesive and response-water moisture need separate cleaning, repair or drying decisions before a replacement floor conceals them."
+      }
+    ],
+    "estimate": "Attachment, material volume, carrying path and protection requirements affect the estimate. Demolition, disposal, soot cleaning and reconstruction will be distinguished.",
+    "checklist": [
+      "Mark material approved for disposal and items to retain.",
+      "Identify utilities and connected counters or cabinets.",
+      "Share site-access restrictions and debris route."
+    ]
+  },
+  "fire-damaged-contents-cleaning/lone-oak": {
+    "intro": "Fire damaged contents cleaning in Lone Oak evaluates belongings for soot, heat effects and construction details that surface wiping may miss. We will separate cleanable items from those needing repair, specialist review or an owner disposal decision.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Lone Oak: separate nested items before judging recovery",
+        "text": "Stacked pans or bowls can trap deposits between pieces even when the upper item looks clean. We will separate accepted items, inspect rims and contact faces and distinguish suitable hard surfaces from damaged coatings or porous handles. A heat-distorted pan or cracked vessel needs a disposal decision beyond soot removal."
+      },
+      {
+        "title": "Clean accessible handles and contact surfaces",
+        "text": "Loose residue is collected before compatible cleaning of accepted pieces, including reachable handle attachments and undersides. Deposits inside an inaccessible hollow handle or a damaged coating may prevent adequate recovery and need a further decision. Cleaning does not establish suitability for food use; retained food-contact items must meet their applicable care and sanitation requirements before use."
+      }
+    ],
+    "estimate": "Item count, construction, disassembly and packing needs shape the estimate. The scope will identify cleaning, storage or transport and any specialist evaluation separately.",
+    "checklist": [
+      "List priority items and their material or finish.",
+      "Describe prior wiping or attempted cleaning.",
+      "Identify items with electrical parts or heat distortion."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/lone-oak": {
+    "intro": "Fire extinguisher residue cleanup in Lone Oak removes discharge deposits from included surfaces while preserving limits around sensitive finishes and equipment. We will identify the agent from its label or incident information before selecting a collection and cleaning approach.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Lone Oak: reach deposits under removable floor mats",
+        "text": "The label or incident record identifies the discharged agent before equipment and cleaning methods are chosen. A mat can hold material on its face and underneath its curled edge. We will lift approved mats with controlled handling and evaluate their backing separately from the exposed floor."
+      },
+      {
+        "title": "Collect along the mat edge without spreading powder",
+        "text": "For an identified dry agent, appropriate filtered collection removes loose deposits from suitable reachable surfaces before compatible further cleaning. An absorbent or textured mat backing may retain material that cannot be adequately recovered, requiring a separate replacement decision. Floor finish response is checked before wet treatment; other agent types follow their own compatible method."
+      }
+    ],
+    "estimate": "Agent, surface finish, detail access and contents volume affect the estimate. The proposal will distinguish residue removal from electronics service, extinguisher service and broader fire restoration.",
+    "checklist": [
+      "Provide the extinguisher label or discharge record.",
+      "List affected rooms, surfaces and equipment.",
+      "Note any fire, smoke or response-water damage."
+    ]
+  },
+  "emergency-board-up-after-fire/lone-oak": {
+    "intro": "Emergency board up after fire in Lone Oak can be needed when adjacent panes are broken but a narrow center divider remains between them. We will assess the surrounding support and panel layout so temporary coverage does not rely on a damaged divider or bear against glass selected to remain.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Lone Oak: distinguish the divider from fastening support",
+        "text": "A narrow glazing bar may separate panes without providing suitable support for temporary panels. We will inspect the accessible perimeter and divider before choosing separate covers or a wider panel arrangement. If usable attachment cannot be established, appropriate support work is needed before boarding proceeds."
+      },
+      {
+        "title": "Fit the cover without loading retained glazing",
+        "text": "Approved loose fragments are handled under controlled access before panels are measured and fitted. The arrangement must clear retained glass and trim rather than press against them as the fasteners tighten. We will check attachment and the meeting edges of the coverage; glass replacement and repair of the divider remain separate, and temporary boarding does not establish occupancy safety."
+      }
+    ],
+    "estimate": "Pane arrangement, retained glass, support condition and safe working access determine the temporary installation. Glazing removal beyond the agreed preparation and permanent frame repairs are separate.",
+    "checklist": [
+      "Provide a wide view showing the full frame and its dividers if safely available.",
+      "Identify panes already removed and glass intended to remain.",
+      "Share site-release restrictions and authorized installation access."
+    ]
+  },
+  "crawl-space-sewage-cleanup/lone-oak": {
+    "intro": "Crawl space sewage cleanup in Lone Oak removes accessible wastewater and contaminated loose material beneath the floor, then cleans retained surfaces within the defined area. We will separate liquid collection from settled solids and identify portions beyond the available access.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Lone Oak: reach waste caught on a footing ledge",
+        "text": "After accessible wastewater collection, a raised footing or support base can retain sludge above the ground. We will inspect reachable ledges and collect settled material rather than treat the lowered water level as completion. Excavation or alteration around foundations requires its own qualified decision."
+      },
+      {
+        "title": "Clean the ledge and the material below it",
+        "text": "Suitable accessible hard surfaces receive physical residue removal and appropriate disinfection after approved contaminated debris is contained for disposal. Soil beneath the ledge and wastewater-contacted insulation retain separate removal decisions. Retained wet framing needs moisture checks and drying before replacement coverings return; a cleaned support face does not establish treatment of hidden ground."
+      }
+    ],
+    "estimate": "Access, wastewater extent, solid waste, disposal and retained-surface cleaning affect cost. The proposal will separate source repair, cleanup, drying and replacement work.",
+    "checklist": [
+      "Identify the sewer source and repair status.",
+      "Describe hatch access, standing liquid and visible debris.",
+      "Share prior pumping or material removal details."
+    ]
+  }
+}

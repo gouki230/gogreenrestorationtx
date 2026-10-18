@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/hawk-cove": {
+    "intro": "Emergency water extraction in Hawk Cove can involve water moving across a concrete slab and collecting in low joints beneath stored boxes. We remove reachable standing water, clear affected contents from the work area, and treat the slab and any contacted porous materials according to their condition.",
+    "sections": [
+      {
+        "title": "Separate pooled water from damp contents",
+        "text": "Water can remain in seams, along wall edges, or beneath items after the open floor looks clear. We move approved contents out of the wet footprint, collect pooled water with suitable extraction equipment, and pick up loose debris without spreading it across dry surfaces."
+      },
+      {
+        "title": "Reach water held at slab joints and edges",
+        "text": "We check accessible joints and perimeter transitions, then use a suitable tool to recover water gathered there. If water has entered wallboard, insulation, or a floor covering, surface extraction alone cannot address those materials; the affected section may need separate access, removal, or drying."
+      },
+      {
+        "title": "Leave the floor ready for the next task",
+        "text": "After collection, we clean the exposed hard surface and identify any retained material that still needs drying. The scope distinguishes water removal from contents handling, wall opening, and repairs so each task can be priced and completed on its own terms."
+      }
+    ],
+    "estimate": "Water volume, contents movement, joint access, and the type of material along the perimeter affect labor. Disposal and later repair are scoped separately.",
+    "checklist": [
+      "Identify where water collected and whether it is still entering.",
+      "List items that must remain in place or need careful handling.",
+      "Share any floor covering or wall-base materials that were wet."
+    ]
+  },
+  "burst-pipe-cleanup/hawk-cove": {
+    "intro": "Burst pipe cleanup in Hawk Cove can leave hollow interior doors wet along their bottom edges after released water crosses a hallway. We will extract the hallway water and evaluate the door leaves separately from their frames, because a dry painted face can conceal damaged core material.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Hawk Cove: separate the wet door from the frame",
+        "text": "With handling and access arranged, an approved door can be taken off its hinges so the bottom edge and both faces are reachable. We will inspect swelling, skin separation and the accessible core rather than assume a door that still swings can be dried and reused. The opening remains protected from unnecessary damage during removal."
+      },
+      {
+        "title": "Collect water without enclosing a failed core",
+        "text": "We will remove reachable water at the jamb and floor and clean suitable exposed surfaces. A hollow door with separated skins or inaccessible affected absorbent material may need replacement; drilling holes and blowing air through it will not be presented as an established recovery method. A sound frame can receive its own drying treatment even when the leaf cannot stay."
+      },
+      {
+        "title": "Refit against the condition of the whole opening",
+        "text": "Retained jambs and adjoining trim will be checked through drying. The carpenter can then evaluate hinge attachment, clearances and replacement needs. Trimming a swollen leaf to make it close does not resolve the material that caused the change."
+      }
+    ],
+    "estimate": "Door construction, removal handling and wet frame extent shape the cleanup. Plumbing repair, replacement doors and carpentry are separate.",
+    "checklist": [
+      "Identify doors reached by the released water.",
+      "Describe swollen edges or separated door skins.",
+      "Share pipe-repair status and any doors already removed."
+    ]
+  },
+  "appliance-leak-cleanup/hawk-cove": {
+    "intro": "Appliance leak cleanup in Hawk Cove can involve water held in a washer pedestal drawer as well as beneath the appliance. We will collect those separate pockets and inspect the floor without assuming that emptying the drawer has exposed the base under the machine.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Hawk Cove: empty the drawer without spreading its contents",
+        "text": "We will remove approved stored products and collect liquid from the accessible drawer before moving it through dry rooms. Leaking containers or unknown cleaning products need identification before the liquid is handled as ordinary appliance water. Stored absorbent items receive separate retention decisions."
+      },
+      {
+        "title": "Distinguish drawer access from supporting-base access",
+        "text": "Removing a drawer may reveal only part of the pedestal. The appliance provider handles any machine disconnection, lifting or pedestal dismantling needed to reach the floor beneath its supports. We will not loosen a load-bearing base while the washer remains on it merely to widen the cleanup opening."
+      },
+      {
+        "title": "Treat both receiving surfaces before reassembly",
+        "text": "Reachable water and debris will be collected from the agreed pedestal surfaces and floor. Suitable building material will be cleaned and dried; inaccessible base pockets and damaged flooring remain explicit. Equipment leveling, pedestal reassembly and reconnection follow through the appropriate service provider."
+      }
+    ],
+    "estimate": "Drawer contents, trapped liquid and access beneath the loaded pedestal affect labor. Appliance lifting, service and reinstallation are separate.",
+    "checklist": [
+      "Identify the washer and pedestal arrangement.",
+      "Describe liquid or damaged products inside the drawer.",
+      "Share the appliance service and source-repair findings."
+    ]
+  },
+  "storm-water-damage-cleanup/hawk-cove": {
+    "intro": "Storm water damage cleanup in Hawk Cove can leave grit and water inside a sliding exterior door track after rain enters the room. We will remove the deposits and evaluate the interior floor while keeping the door’s drainage passages for its repair provider to assess.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Hawk Cove: recover deposits from individual track channels",
+        "text": "Loose grit will be collected before compatible cleaning of accessible channels, corners and the interior sill. We will contain cleaning moisture rather than flush it into an unknown passage beneath the frame. A channel that looks clear from above may still end at an inaccessible pocket."
+      },
+      {
+        "title": "Keep the drainage route distinct from interior damage",
+        "text": "The door provider determines whether drainage openings are obstructed or the assembly needs repair. We will not drill new holes, seal existing passages or remove the track as an ordinary cleanup step. Wet trim or flooring beside the sill will be opened only where the agreed material findings justify access."
+      },
+      {
+        "title": "Inspect the contact beneath removable trim",
+        "text": "Approved unsalvageable trim will be removed so suitable exposed material can be cleaned and dried. Water under the frame remains a separate access issue if the retained installation blocks treatment. New interior trim follows that decision and source correction, rather than concealing a still-wet sill edge."
+      }
+    ],
+    "estimate": "Track depth, removable trim and water beneath the frame control access. Door drainage repair and frame removal have separate providers and scopes.",
+    "checklist": [
+      "Describe which track channels held water or grit.",
+      "Share door-repair findings and prior sealing attempts.",
+      "Identify adjoining flooring or trim that became wet."
+    ]
+  },
+  "structural-drying-services/hawk-cove": {
+    "intro": "Structural drying services in Hawk Cove can require evaluating water held in a hollow masonry wall after the room floor has been extracted. We will distinguish the accessible block faces from internal cells, then define drying around the material that can actually be reached and measured.",
+    "sections": [
+      {
+        "title": "Structural drying services in Hawk Cove: establish whether internal access is available",
+        "text": "Existing openings and available construction information can help identify the wall assembly. A surface reading will not establish that a block cell is empty, and an unexplored void will remain unresolved. A qualified building provider must address any proposed opening that could disturb reinforcement or a supporting wall."
+      },
+      {
+        "title": "Recover accessible trapped water before drying the wall",
+        "text": "Where suitable access has been authorized and made available, we will collect reachable water rather than expect room airflow to remove a standing pocket. Drying equipment will serve exposed suitable material, with observations tied to identified locations. No blind drilling or cutting is included as routine equipment setup."
+      },
+      {
+        "title": "Separate a drying result from readiness for a coating",
+        "text": "We will track the accessible material and explain any cells or layers that remain unexamined. Masonry repair and a finish provider’s moisture requirements are separate from the room air feeling dry. A new coating should not conceal an unresolved reservoir or continuing entry."
+      }
+    ],
+    "estimate": "Wall construction, existing openings and trapped-water access determine the approach. Masonry openings, structural evaluation and finish installation are separate.",
+    "checklist": [
+      "Share wall-construction or prior-opening information.",
+      "Identify the release source and accessible wet areas.",
+      "Provide earlier drying observations if available."
+    ]
+  },
+  "floor-water-damage-cleanup/hawk-cove": {
+    "intro": "Floor water damage cleanup in Hawk Cove can involve a continuous carpet runner that carries water from a landing onto several stair treads. We will evaluate the runner, pad and stair surfaces separately and plan removal so partly released carpet does not remain in the walking route.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Hawk Cove: plan a safe stopping point for runner removal",
+        "text": "The attachment beneath nosings and along the stair edges affects how a section can be released. We will identify the treads included and arrange an alternative route or restricted work area before lifting. A loose flap across a usable step is not an acceptable temporary endpoint for the cleanup."
+      },
+      {
+        "title": "Separate the runner from the wet pad and fasteners",
+        "text": "Approved affected padding will be removed and reachable water collected. Carpet retention depends on exposure and condition, including whether release damages the backing; a dry-looking pile does not settle that decision. Accessible tack strips, staples and damaged nosings receive removal or repair decisions so they are not left exposed for normal foot traffic."
+      },
+      {
+        "title": "Inspect the tread and riser before recovering them",
+        "text": "Suitable exposed stair material will be cleaned and checked through drying. Softness or loosened stair components require carpentry evaluation independently of carpet treatment. Reinstallation must restore secure attachment before the route is returned to ordinary use."
+      }
+    ],
+    "estimate": "Runner attachment, number of affected treads, padding and route restrictions affect labor. Carpet fitting and stair repairs are separate.",
+    "checklist": [
+      "Describe where water reached the runner.",
+      "Identify whether another stair or route is available.",
+      "Share any runner sections already lifted."
+    ]
+  },
+  "ceiling-water-damage-cleanup/hawk-cove": {
+    "intro": "Ceiling water damage cleanup in Hawk Cove can involve a plaster ceiling that has separated from its lath after wetting. We will keep the room below protected and distinguish loss of attachment from moisture that may still be suitable for drying.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Hawk Cove: evaluate attachment before relying on the visible face",
+        "text": "Bulging or loose plaster needs appropriate evaluation before work proceeds beneath it. Existing safe access may reveal failed attachment, but a surface that feels firmer after drying is not proof that it has reattached. Suspect finish materials require evaluation before disturbance."
+      },
+      {
+        "title": "Remove released sections without pulling down sound adjoining work",
+        "text": "Within the approved boundary and after stability concerns are resolved, damaged plaster will be removed in controlled portions with debris collected below. Lath intended to remain will be assessed separately from the plaster it supported. Loose adjoining edges need a defined stopping point rather than an arbitrary cut through an unstable area."
+      },
+      {
+        "title": "Dry exposed material before the plaster repair",
+        "text": "Suitable accessible wood will be cleaned as needed and monitored through drying. The repair provider determines attachment and support for the replacement ceiling. Drying does not substitute for rebuilding failed plaster keys or securing a compromised supporting layer."
+      }
+    ],
+    "estimate": "Attachment condition, plaster weight, lath and safe working height affect removal. Stabilization, material evaluation and ceiling reconstruction are separate.",
+    "checklist": [
+      "Describe sagging or cracked areas from a safe location.",
+      "Share the leak correction and known ceiling construction.",
+      "Identify existing openings or earlier plaster repairs."
+    ]
+  },
+  "bathroom-mold-removal/hawk-cove": {
+    "intro": "Bathroom mold removal in Hawk Cove can require reaching affected backing behind the flange of a retained bathtub. We will coordinate the access choice before wall removal cuts through a connection that the bathroom repair still needs. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Hawk Cove: locate the concealed flange before setting the opening",
+        "text": "Available assembly information and exposed edges will guide the access plan. Wall backing may overlap a tub flange, so scraping the visible joint alone cannot reach everything behind it. Fixture movement or removal belongs with the appropriate provider when the retained tub prevents access."
+      },
+      {
+        "title": "Treat reachable backing without calling the hidden overlap clean",
+        "text": "The licensed partner will contain approved affected porous material for removal and physically clean suitable exposed components. The flange, fasteners and adjacent wall have distinct access limits. Material still concealed behind the retained fixture requires another access decision rather than a claim that spraying the joint treated it."
+      },
+      {
+        "title": "Rebuild the water-management connection after treatment",
+        "text": "Remaining source correction, drying and any required evaluation will be identified before closure. The repair provider restores the backing and flange connection as part of the intended bathroom assembly. New sealant cannot replace an overlap or backing section removed for remediation."
+      }
+    ],
+    "estimate": "Tub attachment, flange access and concealed backing determine the work. Fixture service and rebuilding the wet-area assembly are separate.",
+    "checklist": [
+      "Identify the tub and any exposed flange or backing.",
+      "Share assessment and leak-repair findings.",
+      "Describe fixtures intended for retention."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/hawk-cove": {
+    "intro": "Kitchen cabinet mold removal in Hawk Cove can involve a metal cabinet with suspected growth and rust around its bottom seams. We will distinguish surfaces suitable for cleaning from corroded metal that needs cabinet repair or replacement, so removal of surface contamination is not mistaken for restoration of a weakened cabinet.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Hawk Cove: separate surface deposits from corrosion",
+        "text": "We will review available assessment findings, cabinet construction and the condition of the metal before selecting treatment. Discoloration alone does not establish mold, and rust staining will not be used as a measure of cleaning success. Flaking metal, holes or loose shelf supports need a cabinet specialist’s repair decision even if the surrounding surface can be cleaned."
+      },
+      {
+        "title": "Control cleaning moisture at folded seams",
+        "text": "The responsible provider will use appropriate work controls, particle collection and a cleaning method compatible with the metal and its finish. Folded bottom edges and overlapping joints can hold liquid beyond the reachable face, so flooding the cabinet is not a suitable substitute for detail cleaning. If affected deposits extend into a seam that cannot be reached and dried, the provider will identify the necessary disassembly or component replacement instead of treating the outside as the entire surface."
+      },
+      {
+        "title": "Complete treatment before rust repair or protective coating",
+        "text": "Accessible retained metal will be cleaned and dried, with remaining source correction and any required independent evaluation identified. Rust removal, metal patching and recoating belong in a separately defined cabinet repair scope. A fresh coating cannot establish that a closed seam was treated or restore load capacity lost to corrosion; the repair provider must resolve those conditions before the cabinet returns to loaded storage."
+      }
+    ],
+    "estimate": "Metal type, coating condition, folded-joint access and corrosion damage determine the cleaning and repair boundary. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Share accessible photographs of rusty seams or damaged supports.",
+      "Identify the cabinet material or manufacturer if known.",
+      "Describe the moisture source and any cleaners or rust treatments already used."
+    ]
+  },
+  "mold-remediation-after-water-damage/hawk-cove": {
+    "intro": "Mold remediation after water damage in Hawk Cove can require evaluating affected wood partly concealed by spray foam after a leak. We will coordinate selective access so cleaning a visible foam face is not mistaken for treatment of the wood bonded behind it. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Hawk Cove: define the wood that the assessment needs exposed",
+        "text": "Existing cut edges and assessment findings will guide the opening. Foam thickness or appearance alone will not establish the condition of the concealed wood. Removal that may damage a retained support needs coordination with the appropriate insulation or repair provider."
+      },
+      {
+        "title": "Separate foam removal from retained-wood cleaning",
+        "text": "Under the agreed controls, the licensed partner will contain the specified affected waste and physically clean suitable exposed wood. Residual bonded foam may continue to obstruct part of a surface. That area needs an explicit access or replacement decision rather than being included in a general cleaned-framing statement."
+      },
+      {
+        "title": "Keep the receiving surface available for the next decision",
+        "text": "Drying, source correction and any required independent evaluation occur before replacement insulation conceals the area. The repair provider addresses wood damaged during exposure or by the original loss. New foam application has its own surface and installation requirements."
+      }
+    ],
+    "estimate": "Foam adhesion, removal access and wood condition shape the remediation. Insulation replacement and structural repair are separate.",
+    "checklist": [
+      "Share assessment findings and the leak history.",
+      "Identify existing exposed wood or cut foam edges.",
+      "Provide known insulation installation information."
+    ]
+  },
+  "mold-removal-behind-drywall/hawk-cove": {
+    "intro": "Mold removal behind drywall in Hawk Cove can call for opening the wall from the adjoining closet side, where shelving gives access to the affected cavity. The finish wall may look intact while the back of the board or framing is affected. A licensed partner performs mold work requiring a license, with provider and scope disclosed before work begins.",
+    "sections": [
+      {
+        "title": "Use the accessible side to reach the cavity",
+        "text": "We identify whether closet shelving can be temporarily removed and whether the opposite wall face is suitable for an opening. Access is planned around wiring, plumbing, and retained finishes. The opening boundary follows the affected material and agreed scope rather than a cosmetic stain alone."
+      },
+      {
+        "title": "Remove affected board and clean exposed framing",
+        "text": "The licensed partner contains and removes scoped affected drywall, then physically cleans suitable exposed framing. Dust control and debris handling follow the work area. The closet-side opening is not described as complete treatment for any concealed space that remains inaccessible."
+      },
+      {
+        "title": "Resolve the wall before shelving returns",
+        "text": "The cavity is dried where suitable and any remaining wet or damaged material is identified. Wall repair and shelf reinstallation wait until the affected work is complete. If moisture originates from a plumbing or exterior issue, that correction remains a separate task."
+      }
+    ],
+    "estimate": "Access from either wall face, built-ins, utilities, and the affected cavity size shape the scope. Licensed mold work is referred to the disclosed partner.",
+    "checklist": [
+      "Describe the wall and any closet or built-ins beside it.",
+      "Share suspected moisture source and repair status.",
+      "Identify access restrictions and finishes to protect."
+    ]
+  },
+  "kitchen-fire-cleanup/hawk-cove": {
+    "intro": "Kitchen fire cleanup in Hawk Cove can leave cooled melted packaging bonded to a countertop beside the cooking area. We will separate removable fire residue from a damaged surface before scraping or solvent use makes a repair larger.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Hawk Cove: identify the deposit and receiving finish",
+        "text": "Available information about the burned item and countertop will guide a limited compatibility evaluation. A soft laminate, stone sealer and an uncoated hard surface may tolerate different handling. Unknown bonded material or a heat-damaged finish may require a specialist before removal is attempted."
+      },
+      {
+        "title": "Lift recoverable residue without treating the counter as disposable",
+        "text": "Loose burned fragments will be collected first, with retained adjoining surfaces protected. We will use an appropriate approved method for material that can be removed without unacceptable finish damage. Heating the deposit again or applying an unidentified solvent is not part of routine surface cleanup."
+      },
+      {
+        "title": "Stop at the boundary between cleaning and resurfacing",
+        "text": "A remaining mark may be a burned coating or damaged countertop rather than residue that more force will remove. We will identify that condition for repair, refinishing or replacement. Appliance inspection and food-contact item decisions remain separate from treating the fixed counter."
+      }
+    ],
+    "estimate": "Deposit adhesion, countertop material and treatment-trial results affect the scope. Countertop repair and appliance service are separate.",
+    "checklist": [
+      "Identify what melted if known.",
+      "Share the countertop material and any applied cleaner.",
+      "Describe nearby heat damage or loose fragments."
+    ]
+  },
+  "smoke-damage-cleanup/hawk-cove": {
+    "intro": "Smoke damage cleanup in Hawk Cove can require reaching residue between a removable interior storm panel and the window behind it. We will distinguish that accessible space from a sealed glazing unit that cannot be cleaned between panes as ordinary surface work.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Hawk Cove: identify which glass layers are removable",
+        "text": "We will review the panel arrangement and attachment before authorized movement. A glazing provider handles fragile, damaged or unfamiliar assemblies. Haze that appears between sealed panes needs its own evaluation rather than a promise that wiping either exterior face will remove it."
+      },
+      {
+        "title": "Clean the exposed gap without flooding the frame",
+        "text": "After approved panel removal, loose deposits will be collected from reachable frame channels and suitable surfaces before compatible cleaning. Cleaning liquid will be controlled around gaskets, coatings and absorbent trim. Both accessible faces of a removable panel receive the included treatment while its hardware stays associated with the opening."
+      },
+      {
+        "title": "Refit only after the concealed space is resolved",
+        "text": "Cleaned surfaces will be dried and reviewed before the panel returns. Damaged seals, cracked glazing or residue inside a sealed unit stay with the window provider. Reinstalling the panel should not conceal an untreated frame pocket or trap cleaning moisture."
+      }
+    ],
+    "estimate": "Panel removal, glazing condition, frame channels and finish sensitivity affect labor. Sealed-unit replacement and glazing repairs are separate.",
+    "checklist": [
+      "Describe removable panels and known window construction.",
+      "Identify haze, cracking or damaged seals.",
+      "Share previous cleaning or panel-removal work."
+    ]
+  },
+  "toilet-overflow-cleanup/hawk-cove": {
+    "intro": "Toilet overflow cleanup in Hawk Cove can require careful access when wastewater reaches a bathroom floor containing an electric heating system. We will remove contamination while coordinating electrical isolation and the limits on lifting or cutting the floor.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Hawk Cove: resolve electrical access before disturbing the floor",
+        "text": "The appropriate electrical provider addresses isolation and evaluation of the affected heating installation. Available layout information will guide any proposed opening. Surface dryness and a working thermostat will not be used as evidence that concealed electrical components are ready for operation."
+      },
+      {
+        "title": "Remove contaminated layers without blind cutting",
+        "text": "We will collect reachable wastewater, remove approved unsuitable porous material and physically clean suitable accessible surfaces before appropriate disinfection. Cutting or lifting around an embedded heating element requires a defined method and trade coordination. A section that cannot be reached without damaging the system remains an access decision, not a completed cleanup area."
+      },
+      {
+        "title": "Keep cleanup, floor repair and system return distinct",
+        "text": "Retained suitable building material will be dried and damaged layers identified for repair. The floor and electrical providers determine replacement and operating readiness for their respective work. Turning on the floor heating will not substitute for the agreed cleanup or drying plan."
+      }
+    ],
+    "estimate": "Heating layout, flooring layers and contamination beneath the finish affect access. Electrical evaluation, system replacement and flooring repair are separate.",
+    "checklist": [
+      "Identify the floor-heating system if known.",
+      "Share installation drawings or prior floor repairs.",
+      "Describe wastewater spread and plumbing correction."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/hawk-cove": {
+    "intro": "AC leak water damage cleanup in Hawk Cove can involve condensate that has soaked an insulated flexible duct lying below the leaking equipment. We will collect water from the surrounding building area while the HVAC provider determines whether the duct jacket, insulation or interior was reached.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Hawk Cove: distinguish a wet jacket from wet material inside it",
+        "text": "A wiped exterior does not show the condition of insulation enclosed by the jacket. The HVAC provider establishes the necessary access and retention decision for the duct assembly. We will not slit the jacket as ordinary water extraction or represent surface cleaning as treatment of concealed duct material."
+      },
+      {
+        "title": "Remove water beneath the duct without changing its support",
+        "text": "With service access arranged, we will extract reachable liquid and remove approved wet building debris. Duct lifting, disconnection and support changes remain with the appropriate provider. Wet framing or floor material beneath the duct needs its own treatment even if the entire duct section is replaced."
+      },
+      {
+        "title": "Dry the building before new duct material covers it",
+        "text": "Suitable exposed supports will receive cleaning and monitored drying. The HVAC provider addresses duct replacement, insulation continuity and system operation. Replacing a wet duct cannot establish that the ceiling or platform beneath it has dried."
+      }
+    ],
+    "estimate": "Duct position, enclosed insulation and access beneath the assembly influence work. Duct evaluation, movement and replacement are separate HVAC tasks.",
+    "checklist": [
+      "Identify the condensate source and repair status.",
+      "Describe wet duct jackets or surrounding insulation.",
+      "Share HVAC findings and areas still blocked by ductwork."
+    ]
+  },
+  "crawl-space-water-removal/hawk-cove": {
+    "intro": "Crawl space water removal in Hawk Cove may involve standing water resting on top of a plastic ground cover, with low spots holding pools after the source has stopped. We remove accessible water and separate the removable cover from underlying soil or building materials that need their own evaluation.",
+    "sections": [
+      {
+        "title": "Recover pools without pushing water under the cover",
+        "text": "We establish a safe access route and use suitable extraction equipment at accessible low points. Water on top of a ground cover can run toward seams when disturbed, so collection proceeds in controlled sections. Electrical hazards or unstable access are referred for appropriate evaluation."
+      },
+      {
+        "title": "Remove or retain the ground cover by condition",
+        "text": "A clean intact cover may be retained after water is removed and the reachable surface is cleaned. Torn or contaminated sections may need approved removal. We do not treat water beneath the sheet as resolved by extracting from its top; separate access may be required."
+      },
+      {
+        "title": "Check the space for remaining water sources",
+        "text": "The accessible soil, foundation edge, and plumbing routes are reviewed for continuing entry. We identify wet insulation or stored materials for separate handling and arrange drying of suitable surfaces. Drainage, plumbing, and vapor-control repairs are separate work."
+      }
+    ],
+    "estimate": "Water depth, access clearance, cover condition, and the extent of hidden pooling determine labor and equipment. Source and drainage repairs are separate.",
+    "checklist": [
+      "Describe access, standing water depth, and where it collects.",
+      "Share known plumbing leaks or exterior water entry.",
+      "Identify electrical equipment or stored materials in the space."
+    ]
+  },
+  "attic-mold-remediation/hawk-cove": {
+    "intro": "Attic mold remediation in Hawk Cove can require cleaning affected truss wood beside metal connector plates. We will define the reachable wood faces while keeping the plates and their structural connections outside ordinary removal for cleaning access. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Hawk Cove: map exposed wood and concealed connections separately",
+        "text": "Assessment findings will guide the area, including accessible wood beside each plate. The hidden contact beneath a plate cannot be evaluated from the outer metal face. Corrosion, lifted plates or damaged wood require qualified structural evaluation before the connection is disturbed."
+      },
+      {
+        "title": "Clean retained surfaces without altering the connector",
+        "text": "The licensed partner will use suitable physical cleaning on included reachable wood under the work controls. Connector plates will not be pried off, ground away or coated merely to create a uniformly clean-looking area. Material concealed by a connection remains a stated limitation with a separate access or repair decision."
+      },
+      {
+        "title": "Complete the material and support decisions before covering",
+        "text": "Moisture correction, drying and any required independent evaluation will be coordinated while the area is accessible. Structural repair, where needed, belongs to its qualified provider. A cleaned wood face does not establish that a damaged truss connection has recovered its function."
+      }
+    ],
+    "estimate": "Truss layout, plate locations and reachable wood faces affect treatment. Structural evaluation and connector repairs are separate.",
+    "checklist": [
+      "Provide existing assessment photographs of the affected truss area.",
+      "Share roof or condensation-source findings.",
+      "Identify any reported loose plate or damaged support."
+    ]
+  },
+  "crawl-space-mold-remediation/hawk-cove": {
+    "intro": "Crawl space mold remediation in Hawk Cove can involve suspected growth on masonry piers as well as nearby wood. We will establish the assessed material before choosing treatment, because a pale deposit on masonry is not by itself evidence of mold. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Hawk Cove: separate the masonry finding from the wood finding",
+        "text": "Available assessment and accessible observations will guide which surfaces enter the remediation scope. A masonry or assessment provider may need to distinguish deposits or deterioration that require another response. The pier will not be treated as ordinary removable debris or altered to improve access."
+      },
+      {
+        "title": "Treat included masonry without removing its supporting joint",
+        "text": "The licensed partner will physically clean suitable accessible surfaces under the agreed controls and collect removed residue. Friable mortar, cracks or loose masonry require a repair evaluation before a cleaning method damages the support further. Wood framing receives its own material-compatible treatment rather than the same method by default."
+      },
+      {
+        "title": "Keep moisture correction and pier repair visible",
+        "text": "We will identify remaining dampness and any required evaluation before nearby insulation or coverings return. Cleaning does not rebuild eroded mortar or correct ground-water entry. Hidden bearing surfaces remain outside a whole-pier treatment claim until an appropriate access decision resolves them."
+      }
+    ],
+    "estimate": "Masonry condition, assessed material and crawl-space clearance shape treatment. Foundation or mortar repair is separate from remediation.",
+    "checklist": [
+      "Share assessment findings for masonry and wood separately.",
+      "Describe known water entry without entering the crawl space.",
+      "Provide any existing pier or foundation inspection report."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/hawk-cove": {
+    "intro": "Mold contaminated contents cleaning in Hawk Cove can involve a set of plastic storage bins with residue on the lids and moisture trapped under their rims. We sort rigid cleanable items from absorbent contents and treat each included surface according to its material. Mold work requiring a license is handled by an appropriately licensed partner, disclosed before work begins.",
+    "sections": [
+      {
+        "title": "Empty and separate each bin",
+        "text": "Contents are removed in a controlled area and sorted by material, condition, and owner instructions. Damp cardboard, paper, and fabric may not be suitable for the same recovery process as intact plastic. Bins remain apart from untreated belongings while their undersides are checked."
+      },
+      {
+        "title": "Clean lid rims, handles, and interior corners",
+        "text": "The licensed partner physically cleans accepted rigid surfaces, paying attention to grooves, handles, and nested contact points where residue can remain. Cracked or porous bins that cannot be adequately cleaned are identified for discard. An item is not called clean based only on its broad outside face."
+      },
+      {
+        "title": "Dry and return only accepted contents",
+        "text": "Cleaned bins and suitable contents are dried before packing into an appropriate clean area. Items with inaccessible cavities, persistent odor, or material damage receive a separate decision. The record of the contents work remains distinct from treatment of the building surfaces."
+      }
+    ],
+    "estimate": "Bin design, contents mix, volume, and material condition affect handling and cleaning. Licensed mold work is performed by the disclosed partner.",
+    "checklist": [
+      "List the types and approximate quantity of stored items.",
+      "Describe moisture and visible residue on containers or contents.",
+      "Identify fragile, valuable, or absorbent belongings needing review."
+    ]
+  },
+  "fire-damaged-debris-removal/hawk-cove": {
+    "intro": "Fire damaged debris removal in Hawk Cove can include a wet mixture of ash and broken gypsum that no longer handles like dry rubble. We will recover the approved material in controlled loads and keep its liquid fraction from escaping along the removal route.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Hawk Cove: separate loose solids from pooled contaminated liquid",
+        "text": "Once the area is released, we will assess the accessible mixture and identify material needing further evaluation before handling. Recoverable liquid and heavy wet fragments may need different collection arrangements. Floor drains will not be used as a disposal route for fire debris or unidentified residue."
+      },
+      {
+        "title": "Choose containers that hold the actual load",
+        "text": "Approved wet waste will be transferred in suitable contained loads that account for weight, sharp fragments and leakage. Overfilled bags that can be carried when dry may fail with saturated gypsum inside. We will collect drips and fragments within the protected work route rather than leave a second residue path."
+      },
+      {
+        "title": "Inspect the floor after the mixture is gone",
+        "text": "The exposed base will be checked for remaining deposits, water damage and attached material requiring another decision. Detailed soot cleaning and drying have their own scopes after bulk recovery. Removing the slurry does not establish that an absorbent floor base is clean or ready for a new finish."
+      }
+    ],
+    "estimate": "Water content, waste weight, container handling and disposal conditions affect labor. Subsequent surface treatment and rebuilding are separate.",
+    "checklist": [
+      "Describe wet ash or saturated debris visible from a safe area.",
+      "Share site-release and material-inspection restrictions.",
+      "Identify drains or retained floor finishes nearby."
+    ]
+  },
+  "fire-damaged-contents-cleaning/hawk-cove": {
+    "intro": "Fire damaged contents cleaning in Hawk Cove can involve wooden dining chairs with smoke residue around joints and beneath upholstered seats. We separate cleanable frames from damaged upholstery, clean accessible wood surfaces, and track any component that needs replacement or specialist treatment.",
+    "sections": [
+      {
+        "title": "Remove seats and inspect each material",
+        "text": "Where the chair design permits, seat pads are detached for separate evaluation. Smoke film on finished wood, fabric backing, and foam can respond differently, so a successful result on one part does not establish that the full chair can be recovered."
+      },
+      {
+        "title": "Clean joints and undersides directly",
+        "text": "Loose residue is collected from the frame, including rails, joints, and the seat support area, before compatible surface cleaning. Fragile finish, heat checks, or loosened joints are identified before treatment. Upholstery receives only the process included in its scope."
+      },
+      {
+        "title": "Reassemble after dry and repair decisions",
+        "text": "Treated components are dried and inspected for remaining residue, odor, or finish damage. A furniture repairer can address loose joints or replacement seats before the chair returns to use. Cleaning does not establish that heat-damaged construction is structurally sound."
+      }
+    ],
+    "estimate": "Chair construction, finish, upholstery, and disassembly needs shape the scope. Furniture repair and textile replacement are separate.",
+    "checklist": [
+      "List furniture pieces and materials requiring evaluation.",
+      "Describe smoke, heat, and water exposure.",
+      "Note delicate finishes or prior repair concerns."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/hawk-cove": {
+    "intro": "Fire extinguisher residue cleanup in Hawk Cove can involve powder caught in the folds of a removable fabric window shade. We will distinguish cleanable surrounding trim from a textile whose coating, backing or mechanism may not tolerate ordinary wet cleaning.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Hawk Cove: keep the shade extended only as its condition permits",
+        "text": "We will review the agent information and visible deposits before moving the mechanism. Raising a loaded shade can press residue between folds and transfer it to previously less-affected faces. Fragile fabric, damaged cords or inaccessible upper components may require specialist handling before removal."
+      },
+      {
+        "title": "Evaluate textile recovery separately from the window surround",
+        "text": "A textile provider can assess suitable treatment or replacement for the shade’s material and construction. We will collect loose residue from the included accessible hard surfaces and clean the trim and sill using a compatible method. A successful wipe on painted trim will not be used to approve wet treatment of the shade."
+      },
+      {
+        "title": "Prevent refitting from recontaminating the cleaned opening",
+        "text": "Removed components remain separate until their own recovery decision is complete. We will identify powder still lodged in the headrail or mounting recess and any access requiring the shade provider. Cleaned trim is not a reason to reinstall a folded textile that still releases agent."
+      }
+    ],
+    "estimate": "Agent type, fabric construction, folded surfaces and removal needs determine scope. Textile processing and shade-mechanism service are separate.",
+    "checklist": [
+      "Share the extinguisher label if available.",
+      "Identify shade fabric or product details.",
+      "Describe whether the shade was raised after the discharge."
+    ]
+  },
+  "emergency-board-up-after-fire/hawk-cove": {
+    "intro": "Emergency board up after fire in Hawk Cove can be needed again when repair work removes the frame that supported an earlier temporary panel. We will reassess the newly exposed opening before deciding whether that panel can be reused or a different closure is needed.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Hawk Cove: review the support left after frame removal",
+        "text": "The old fastening pattern may end at material that no longer exists. We will measure the current opening and locate suitable sound support, with unresolved structural concerns referred before installation. The previous panel is not assumed to fit simply because it covered the same window before demolition."
+      },
+      {
+        "title": "Inspect reused panels before refitting",
+        "text": "Split edges, enlarged fastener holes, warping or insufficient overlap can prevent a removed panel from serving the new arrangement. We will replace unsuitable pieces and use an attachment method matched to the support now available. Fasteners will not be driven back into failed holes as a substitute for a secure fit."
+      },
+      {
+        "title": "Check the new closure against the remaining repair work",
+        "text": "Fitted edges and attachment will be checked for gaps and movement, and authorized access will remain coordinated. Later removal or another change to the supporting assembly may require another refit. Temporary closure does not replace frame reconstruction, permanent weather sealing or a separate occupancy decision."
+      }
+    ],
+    "estimate": "Changed opening dimensions, reusable-panel condition and new attachment locations affect labor. Frame rebuilding and permanent glazing are separate.",
+    "checklist": [
+      "Describe what was removed after the original board-up.",
+      "Share safe photographs of the current opening and old panel.",
+      "Identify the next repair visit and required access."
+    ]
+  },
+  "crawl-space-sewage-cleanup/hawk-cove": {
+    "intro": "Crawl space sewage cleanup in Hawk Cove can involve wastewater that contacted a short section of duct insulation below a floor register. We collect accessible sewage and debris, remove affected porous material within the approved area, and clean suitable retained surfaces. Work requiring a mold remediation license is referred to an appropriately licensed partner with provider and scope disclosed.",
+    "sections": [
+      {
+        "title": "Remove contacted duct insulation from the work area",
+        "text": "The affected insulation is contained for disposal rather than left above the crawl-space floor. Duct service or replacement is evaluated by the appropriate provider, particularly if contamination reached the interior. We protect the route used to carry removed material out."
+      },
+      {
+        "title": "Collect waste and physically clean the supporting surfaces",
+        "text": "Accessible wastewater and soil are removed from the included area, followed by physical cleaning of suitable framing and reachable surfaces. Disinfection follows cleaning where appropriate. Contaminated soil or inaccessible areas are identified for a separate method instead of being represented as cleaned."
+      },
+      {
+        "title": "Resolve the source and inspect the remaining route",
+        "text": "The failed plumbing or drain source is corrected by its provider before the area is returned to use. We identify remaining affected material, damaged supports, and any access limits. Replacement duct insulation and building repairs are separate tasks."
+      }
+    ],
+    "estimate": "Wastewater boundary, crawl-space access, porous materials, disposal, and duct condition influence the scope. Licensed mold work is performed by the disclosed licensed partner.",
+    "checklist": [
+      "Describe the sewage source and whether it has been repaired.",
+      "Identify affected duct, insulation, soil, or framing.",
+      "Share crawl-space access and any safety restrictions."
+    ]
+  }
+}

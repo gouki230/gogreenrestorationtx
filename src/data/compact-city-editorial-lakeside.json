@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/lakeside": {
+    "intro": "Emergency water extraction in Lakeside can be needed after a washing-machine drain hose slips loose and water runs from the laundry alcove beneath the nearby doorway. The immediate work is to remove accessible water and find how far it traveled under the floor edge.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Lakeside: from laundry alcove to doorway",
+        "text": "We will map the wet path from the washer standpipe and appliance feet to the doorway transition. If the machine needs to move, its disconnection and source repair remain with the appropriate appliance or plumbing provider."
+      },
+      {
+        "title": "Account for wash water beneath the doorway",
+        "text": "Once the source is stopped, we will collect water at the washer feet and doorway, then check the adjacent floor covering. A washer discharge can contain detergent and wash soil; the cleanup decision includes what the water carried, not just the amount on the floor. Affected absorbent underlayment may need removal, while suitable exposed hard flooring receives cleaning before drying."
+      },
+      {
+        "title": "Check the adjoining room before equipment comes out",
+        "text": "We will check both sides of the transition and the low wall edge after extraction. If water has traveled beneath the next room’s flooring, access and drying must follow that path; moving the washer and drying its visible footprint alone would leave the next layer unresolved."
+      }
+    ],
+    "estimate": "Water reach, floor construction, appliance access and the condition beneath the doorway affect extraction and drying scope.",
+    "checklist": [
+      "Identify when the washer leak stopped and who checked the hose.",
+      "Show the laundry-to-hall floor transition.",
+      "Note whether the machine or nearby contents have already moved."
+    ]
+  },
+  "burst-pipe-cleanup/lakeside": {
+    "intro": "Burst pipe cleanup in Lakeside may be needed when a split line above a garage ceiling wets the drywall and the framing around a stored-item shelf. Once the pipe is repaired, the cleanup decision is how to reach the damp cavity without disturbing unaffected storage.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Lakeside: above a garage shelf",
+        "text": "We will inspect the ceiling stain, joist direction and shelf supports to plan an opening that reaches the affected framing. The plumber’s repair location helps distinguish the source area from water that traveled along the ceiling cavity."
+      },
+      {
+        "title": "Open the ceiling around stored property",
+        "text": "We will clear and protect the storage immediately below the opening before removing failed ceiling board and wet insulation. A shelf fixed through the damaged ceiling must be supported or released by the appropriate installer before its fasteners are disturbed. The restoration opening then exposes joist faces for moisture checks and drying without treating the shelf as a safe work platform."
+      },
+      {
+        "title": "Dry the framing before shelving is reset",
+        "text": "The shelf boards receive their own condition check: a swollen composite shelf can need replacement even when the framing above can be dried. We will monitor retained framing and identify wet material still behind the shelf supports before the ceiling is patched. Reusing the shelving depends on its condition and attachment, separately from completing the ceiling drying."
+      }
+    ],
+    "estimate": "Ceiling height, contents protection, pipe repair status and the cavity access needed determine the cleanup scope.",
+    "checklist": [
+      "Share where the pipe was repaired and whether it has been pressure-checked.",
+      "Identify shelving or stored items below the stain.",
+      "Show any ceiling opening already made."
+    ]
+  },
+  "appliance-leak-cleanup/lakeside": {
+    "intro": "Appliance leak cleanup in Lakeside can be needed when a refrigerator supply leak leaves water beneath the front edge of a kitchen island. The visible puddle may stop at the toe kick while water continues under the cabinet base.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Lakeside: beneath an island refrigerator",
+        "text": "We will check the supply connection, appliance recess and exposed floor edge for signs of the water path. A qualified appliance or plumbing provider should disconnect and move the refrigerator when that is needed to reach the leak or floor safely."
+      },
+      {
+        "title": "Separate a decorative panel from a supporting base",
+        "text": "With safe appliance access established, we will collect water at the cabinet base and remove the accessible toe panel for inspection where suitable. A swollen base supporting a counter is different from a damaged decorative toe kick: it needs a cabinet-support decision before removal. Retainable hard flooring can be cleaned and dried once exposed, while deteriorated cabinet components are identified individually."
+      },
+      {
+        "title": "Separate wet material from appliance repair",
+        "text": "Returning the refrigerator requires a sound, dry recess and suitable support beneath it. We will check the concealed floor reached by appliance movement and the island base separately; a dry walkway does not show either condition. If the base has lost support, cabinet repair must precede appliance replacement even after accessible water is gone."
+      }
+    ],
+    "estimate": "Appliance movement, island construction, flooring access and the confirmed leak source affect the work plan.",
+    "checklist": [
+      "Share the appliance technician’s findings and repair status.",
+      "Point out where water appeared along the island base.",
+      "Note whether the refrigerator can be safely moved."
+    ]
+  },
+  "storm-water-damage-cleanup/lakeside": {
+    "intro": "Storm water damage cleanup in Lakeside can be needed when rain enters around a window and dampens the drywall below its sill. The interior cleanup has to account for the wall cavity while the exterior opening is corrected.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Lakeside: below a window sill",
+        "text": "We will record the sill, lower corners and interior wall marks separately from the outside entry point. Water can travel behind casing before appearing below the window, so visible staining alone does not set the removal boundary."
+      },
+      {
+        "title": "Decide whether the stained wall can remain",
+        "text": "The wall finish changes the decision below the sill. Intact material may be retained for monitored drying, while swollen drywall or separated seams require removal; a superficial stain alone does not justify stripping the whole wall. We will remove specified failed material and wet insulation, collect accessible water and dry suitable retained framing."
+      },
+      {
+        "title": "Recheck the sill area before finish repairs",
+        "text": "We will compare the condition below each window corner with a nearby unaffected area and repeat checks during drying. New moisture after rainfall calls for further exterior investigation, while a persistent cosmetic stain on otherwise resolved material is a finish-repair question. Painting waits until those two situations have been distinguished."
+      }
+    ],
+    "estimate": "Window access, wall assembly, exterior repair status and any wet insulation affect removal and drying.",
+    "checklist": [
+      "Mark where rain first appeared indoors.",
+      "Share exterior inspection or window-repair notes.",
+      "Identify trim or drywall already removed."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/lakeside": {
+    "intro": "AC leak water damage cleanup in Lakeside may be needed when a condensate drain overflows above a garage and wets the ceiling around a duct chase. The cleanup must reach the affected ceiling while leaving duct supports and electrical components for qualified trades to address.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Lakeside: around a garage duct chase",
+        "text": "We will trace the ceiling marks from the air-handler drain route and note nearby ducts, wiring and framing before opening the finish. The HVAC provider handles the condensate fault and equipment service; that source work is coordinated with the restoration access plan."
+      },
+      {
+        "title": "Open the ceiling to inspect the cavity",
+        "text": "The opening will expose the wet ceiling layer beside the chase without cutting duct hangers. We will remove affected insulation and failed board, collect accessible water and position drying for the retained framing. A chase can divide the ceiling into separate compartments, so an opening on one side does not establish that the other side is dry."
+      },
+      {
+        "title": "Keep the cavity accessible for drying checks",
+        "text": "Where a duct or chase wall blocks access, we will identify the material still unmeasured and coordinate safe access rather than aim equipment only at the visible opening. Follow-up readings at the reachable ceiling framing guide drying. The HVAC provider separately confirms the condensate correction and any duct-related work before ceiling replacement."
+      }
+    ],
+    "estimate": "Ceiling height, duct layout, insulation condition, equipment access and HVAC findings influence the work.",
+    "checklist": [
+      "Share the HVAC diagnosis and condensate repair status.",
+      "Show the ceiling area and nearby duct route from a safe position.",
+      "Note any prior opening or equipment shutoff."
+    ]
+  },
+  "structural-drying-services/lakeside": {
+    "intro": "Structural drying services in Lakeside can help when a plumbing leak has dampened the wall behind a built-in closet organizer. The shelves cover the lower wall and make it difficult to measure the affected area or direct air into an opening.",
+    "sections": [
+      {
+        "title": "Structural drying services in Lakeside: behind a closet organizer",
+        "text": "We will map the wall and floor edge that the organizer conceals and identify which shelves or rails obstruct access. Contents movement and removal of built-in components are discussed before work so the owner can approve the access needed."
+      },
+      {
+        "title": "Choose retention before setting equipment",
+        "text": "For an intact wall that can remain, we will remove obstructing contents and release approved organizer panels so air and moisture checks can reach the wall. Wet or swollen board that cannot remain is removed instead of being dried behind a solid panel. Dehumidification and directed airflow serve the exposed assembly, with equipment adjusted to repeated material checks."
+      },
+      {
+        "title": "Return storage after the wall work is complete",
+        "text": "Closet doors and solid organizer backs can interrupt the air route even with equipment running in the bedroom. We will keep the agreed drying path available and track the wall behind the shelves separately from room humidity. Refitting a solid backing waits until the retained wall is ready, so storage does not shut off drying prematurely."
+      }
+    ],
+    "estimate": "Organizer removal, wall finish, leak history and cavity access affect the drying and repair scope.",
+    "checklist": [
+      "Identify which shelves or rails are fixed in place.",
+      "Share when the plumbing leak was stopped.",
+      "List contents that need approved movement."
+    ]
+  },
+  "floor-water-damage-cleanup/lakeside": {
+    "intro": "Floor water damage cleanup in Lakeside may be needed when a dishwasher leak leaves a raised seam in click-lock flooring at the kitchen entry. The visible change can point to moisture beneath the planks, where the extent is not visible from above.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Lakeside: at a raised plank seam",
+        "text": "We will inspect the changed seam, nearby cabinet toe kick and floor transition to identify a practical inspection edge. Plank direction and locking joints affect whether sections can be lifted intact or need replacement after access."
+      },
+      {
+        "title": "Lift flooring to check the underlayment",
+        "text": "Once the leak is stopped and the access plan approved, we will remove the minimum flooring needed to inspect beneath it. We will extract trapped water and dry suitable underflooring; swollen or separated planks are assessed for replacement rather than pressed flat."
+      },
+      {
+        "title": "Plan the refit around the flooring system",
+        "text": "A broken locking edge can prevent a lifted plank from reconnecting even after the material dries. The flooring installer reviews the removed boards and replacement availability before deciding between resetting a section and a larger replacement. We will keep the underlayment and substrate accessible for drying rather than trap moisture beneath a replacement board chosen only to match the visible color."
+      }
+    ],
+    "estimate": "Plank type, seam condition, underlayment, appliance access and replacement availability shape the scope.",
+    "checklist": [
+      "Identify the flooring product if known.",
+      "Show the raised seam and dishwasher location.",
+      "Share the appliance repair findings."
+    ]
+  },
+  "ceiling-water-damage-cleanup/lakeside": {
+    "intro": "Ceiling water damage cleanup in Lakeside can be needed when a second-floor tub leak leaves a soft patch around a recessed light in the room below. The fixture and ceiling cavity need safe access before wet drywall or insulation is removed.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Lakeside: below a second-floor tub",
+        "text": "We will note the ceiling change and the corresponding bathroom fixture location above it. A plumber or electrician handles source and fixture work as needed; the ceiling opening is planned only after safe access is established."
+      },
+      {
+        "title": "Match cavity cleanup to the tub leak",
+        "text": "Once the electrician establishes safe fixture access, we will collect reachable water and remove failed ceiling board and wet insulation. The tub’s plumbing can leak at a supply, drain or overflow connection, so the plumber’s findings guide whether water-contact conditions require additional cleaning. Drying equipment is used only after the water source and affected materials have been evaluated."
+      },
+      {
+        "title": "Close the ceiling after cavity work",
+        "text": "A tub may stop dripping when empty yet leak again during use. The plumber establishes which fixture operation has been checked; we will keep the affected cavity available and note any renewed wetting before the drywall goes back. Retained framing receives monitored drying, and insulation or board replacement follows the material findings rather than the absence of a current drip."
+      }
+    ],
+    "estimate": "Fixture access, ceiling height, insulation, water path and the source repair sequence affect the work.",
+    "checklist": [
+      "Share the plumbing findings from the bathroom above.",
+      "Identify the light fixture and ceiling condition.",
+      "Move or protect items below the proposed opening."
+    ]
+  },
+  "bathroom-mold-removal/lakeside": {
+    "intro": "Bathroom mold removal in Lakeside may be considered when suspected growth is reported on the back of a vanity toe kick after a slow sink leak. The cabinet edge, wall behind it and moisture source each need a defined treatment decision.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Lakeside: behind a vanity toe kick",
+        "text": "We will review any assessment findings and inspect accessible cabinet and wall surfaces. Removing the toe kick can expose the lower wall without assuming that the entire vanity must be dismantled."
+      },
+      {
+        "title": "Define the affected cabinet and wall materials",
+        "text": "The partner provider will distinguish a mold-affected absorbent toe board from a cleanable sealed cabinet face. Specified unsuitable porous pieces are contained for removal, and suitable retained surfaces receive physical cleaning under the work controls. If the toe board is integral to vanity support, cabinet release must be planned before cutting rather than treating it as loose trim."
+      },
+      {
+        "title": "Correct the leak before restoring the cabinet",
+        "text": "The sink supply or drain repair is a separate plumbing task. Cabinet replacement and independent assessment or post-remediation clearance are distinct from the cleanup scope and should be identified separately."
+      }
+    ],
+    "estimate": "Cabinet access, assessment findings, wall construction and source correction affect the defined treatment area. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriate partner, with applicable contractor and company credentials verified and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Provide any assessment or protocol for the bathroom.",
+      "Share the sink leak repair and moisture-source status.",
+      "Identify cabinet parts already removed or replaced."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/lakeside": {
+    "intro": "Kitchen cabinet mold removal in Lakeside may be considered when suspected growth is reported on the underside of a sink-base shelf around an old cleaning-product spill. The shelf, cabinet floor and plumbing cutout may have different conditions and cleaning limits.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Lakeside: inspect the sink-base shelf",
+        "text": "The provider will distinguish suspected growth from residue or staining left by stored products; a spill mark alone does not identify mold. Containers and shelf liners are removed from the inspection area under the agreed handling plan so the shelf underside and raw cut edges can be evaluated."
+      },
+      {
+        "title": "Treat growth and stored-product residue separately",
+        "text": "A removable mold-affected shelf can be contained and replaced without automatically replacing the cabinet box. Suitable retained sealed surfaces receive compatible cleaning, while affected absorbent material that cannot be adequately cleaned is removed. Product residue requires its own identification before cleaners are selected; unidentified chemicals will not be mixed into mold treatment."
+      },
+      {
+        "title": "Resolve moisture before installing replacement panels",
+        "text": "A plumbing leak or recurring spill requires correction before new cabinet material goes in. Replacement panels and any independent assessment or clearance evaluation remain separate, clearly assigned work items."
+      }
+    ],
+    "estimate": "Cabinet layout, shelf removability, reported moisture source and assessment scope determine treatment and access. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriate partner, with applicable contractor and company credentials verified and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Provide any assessment or protocol covering the cabinets.",
+      "Share known plumbing or spill history.",
+      "List cabinet contents that need to be removed."
+    ]
+  },
+  "mold-remediation-after-water-damage/lakeside": {
+    "intro": "Mold remediation after water damage in Lakeside may be considered when suspected growth is reported on the underside of a carpet tack strip after a bedroom leak. The carpet edge and wall base need review before the floor covering is reinstalled.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Lakeside: beneath a carpet edge",
+        "text": "We will compare the reported concern with accessible tack strip, carpet backing and lower-wall conditions. The affected edge is documented so removal reaches the specified material without treating unseen rooms as affected by default."
+      },
+      {
+        "title": "Remove and clean within the defined boundary",
+        "text": "A replacement carpet would conceal the old tack strip and any remaining affected pad. The partner will remove specified mold-affected porous strip or padding under the work controls and physically clean suitable exposed floor and wall-base surfaces. Carpet backing receives its own retain-or-discard decision rather than being accepted because the visible pile was previously shampooed."
+      },
+      {
+        "title": "Review prior carpet cleaning before reinstalling it",
+        "text": "If the carpet was wet-cleaned after the leak, we will distinguish that cleaning history from the condition now found beneath it. The provider’s treatment must reach affected material under the edge before flooring is reinstalled, with source correction and drying also resolved. Required or selected independent assessment and clearance remain separate from both carpet cleaning and remediation."
+      }
+    ],
+    "estimate": "Carpet construction, tack-strip condition, wall access and the assessment-defined area affect the scope. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriate partner, with applicable contractor and company credentials verified and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Share the water-damage and leak-repair history.",
+      "Provide assessment or clearance documents already available.",
+      "Identify carpet or baseboard removed to expose the edge."
+    ]
+  },
+  "mold-removal-behind-drywall/lakeside": {
+    "intro": "Mold removal behind drywall in Lakeside may be considered when suspected growth is reported inside a wall beside a bathtub plumbing access panel. The opening should reach the identified wall material while keeping pipes and the tub connection protected.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Lakeside: beside a tub access panel",
+        "text": "We will review the assessment or reported location and inspect the existing panel and adjacent drywall. The access panel may provide a view of plumbing but may not expose the full affected wall layer."
+      },
+      {
+        "title": "Choose the side that reaches the affected wall face",
+        "text": "A panel large enough for valve service may leave the back of the adjacent drywall unreachable. The partner will set work controls, remove specified affected porous board and physically clean retained accessible framing. Plumbing fittings stay protected; opening from the opposite room may be considered when it reaches the affected wall face without dismantling the tub surround."
+      },
+      {
+        "title": "Coordinate wall closure with source repair",
+        "text": "The access choice will identify which finishes must be sacrificed and which wall faces treatment can actually reach. A plumbing repair visible through the panel does not establish cleaning of the back of the remaining board. Closure follows source correction, material treatment and any required separate independent clearance, with a usable future plumbing access considered during reconstruction."
+      }
+    ],
+    "estimate": "Wall layers, panel size, plumbing clearance and assessment scope determine access and removal. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriate partner, with applicable contractor and company credentials verified and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Provide the assessment or protocol describing the wall concern.",
+      "Share plumbing repair information and panel location.",
+      "Note any prior wall opening or treatment."
+    ]
+  },
+  "attic-mold-remediation/lakeside": {
+    "intro": "Attic mold remediation in Lakeside may be considered when roof decking remains discolored after an earlier cleanup and the owner is deciding whether more treatment is needed. We will review what was physically cleaned, the remaining moisture condition and any independent findings before another coating or cleaning is proposed.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Lakeside: review stains after prior work",
+        "text": "A remaining stain does not, by itself, establish whether remediation succeeded or whether growth remains. The partner will review the earlier treatment area and accessible wood, including surfaces that insulation or a duct may have concealed. A finish applied over the wood can limit that review and is identified before additional treatment is chosen."
+      },
+      {
+        "title": "Base repeat treatment on the material findings",
+        "text": "Where the defined findings call for additional remediation, the partner will physically clean suitable accessible wood and contain specified unsuitable material for removal under the work controls. Another coat of paint is not a substitute for removing remaining growth. Soft or deteriorated decking needs a repair evaluation rather than repeated cleaning intended to recover its strength."
+      },
+      {
+        "title": "Separate cosmetic appearance from independent evaluation",
+        "text": "The moisture source and retained wood condition are checked before insulation is reset or a new finish covers the area. Cleaning may leave permanent discoloration; the plan will distinguish that cosmetic limitation from an unresolved treatment area. Required or selected independent assessment and clearance stay separate from the remediation provider’s completion record."
+      }
+    ],
+    "estimate": "Prior treatment, coatings, access, wood condition and assessment findings affect the work. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriate partner, with applicable contractor and company credentials verified and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Share previous cleanup scope, photographs and any coating product used.",
+      "Provide independent assessment or clearance documents already available.",
+      "Identify the moisture repair and insulation replacement history."
+    ]
+  },
+  "crawl-space-mold-remediation/lakeside": {
+    "intro": "Crawl space mold remediation in Lakeside may be considered when suspected growth is reported on the subfloor near an open plumbing access cut. The cut edge and adjoining framing should be reviewed while keeping the crawl-space entry route clear.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Lakeside: around a plumbing access cut",
+        "text": "We will review the reported area and assessment scope, then distinguish the subfloor concern from loose debris on the ground. Access conditions and any plumbing work determine how the treatment area can be reached."
+      },
+      {
+        "title": "Define treatment around the subfloor opening",
+        "text": "The open cut exposes a board edge as well as the subfloor underside. The partner will contain and remove specified affected porous material, clean suitable retained wood and distinguish surface treatment from a weakened or separating subfloor that needs repair. A larger cut affecting floor support requires a qualified repair plan before removal, not simply a wider access hole."
+      },
+      {
+        "title": "Address moisture before closing the access",
+        "text": "We will keep the repair edge available until treatment and moisture correction are resolved. The replacement patch needs appropriate support from the repair provider; fastening a cover over a deteriorated edge is not a remediation completion step. Independent assessment and any clearance remain separately assigned before the agreed closure stage."
+      }
+    ],
+    "estimate": "Entry clearance, subfloor access, assessment findings and source correction affect the remediation scope. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriate partner, with applicable contractor and company credentials verified and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Provide the assessment and location of the access cut.",
+      "Share plumbing or moisture-source findings.",
+      "Identify crawl-space access restrictions from a safe position."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/lakeside": {
+    "intro": "Mold contaminated contents cleaning in Lakeside may be considered when suspected mold is reported on the back of a framed canvas stored against a damp closet wall. The frame, canvas and porous backing can require different handling decisions.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Lakeside: inspect a framed canvas",
+        "text": "We will document the item’s materials and reported exposure before recommending cleaning, specialist review or disposal. Valuable artwork should remain undisturbed until its owner decides whether a conservator evaluation is appropriate."
+      },
+      {
+        "title": "Protect the painted surface during contents handling",
+        "text": "The frame, backing and painted canvas will not receive a single blanket wet-cleaning treatment. A conservator determines whether the artwork can be handled or cleaned without damaging its surface; an unsuitable porous backing may have a separate replacement decision. Agreed items are isolated and handled to avoid transferring deposits to clean storage, with any frame cleaning kept distinct from conservation of the canvas."
+      },
+      {
+        "title": "Keep affected belongings out of the damp closet",
+        "text": "After the moisture source and room treatment are addressed, the item’s storage location should be reviewed before it is returned. Independent assessment or post-remediation clearance relates to the building scope and is separate from contents evaluation."
+      }
+    ],
+    "estimate": "Item materials, value, access, handling and specialist requirements affect the contents decision. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriate partner, with applicable contractor and company credentials verified and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "List affected items and identify fragile or valuable pieces.",
+      "Share the closet leak or moisture history.",
+      "Keep items separated from unaffected belongings pending review."
+    ]
+  },
+  "crawl-space-water-removal/lakeside": {
+    "intro": "Crawl space water removal in Lakeside can be needed when groundwater is visible at the low side of a crawl space after heavy rain. The first work is to identify the entry path and remove reachable standing water without disturbing wet electrical or structural components.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Lakeside: at the low side",
+        "text": "We will review safe access and trace visible water toward the low point and any nearby foundation opening. A drainage or plumbing provider handles the source correction; removal does not correct recurring entry on its own."
+      },
+      {
+        "title": "Distinguish a remaining pool from returning water",
+        "text": "We will extract reachable standing water and recheck the low area while access remains available. A falling pool that stays down presents a different drying plan from water that returns after extraction stops. We will document that change so the drainage provider can investigate continuing entry before a one-time pump-out is treated as complete."
+      },
+      {
+        "title": "Schedule drying around continuing entry",
+        "text": "Where water returns, the plan will identify any further collection needed while source work proceeds; insulation replacement and liner reset must not conceal a remaining pool. Suitable retained framing receives moisture checks and drying when the conditions allow, while damaged wet insulation is removed as specified. The completion decision distinguishes extracted water, remaining wet materials and unresolved inflow."
+      }
+    ],
+    "estimate": "Access clearance, water depth, source, contacted materials and removal method affect the crawl-space scope.",
+    "checklist": [
+      "Describe where water was seen without entering an unsafe space.",
+      "Share any drainage or plumbing inspection findings.",
+      "Report odors, discoloration or known wastewater involvement."
+    ]
+  },
+  "crawl-space-sewage-cleanup/lakeside": {
+    "intro": "Crawl space sewage cleanup in Lakeside may be needed when a cracked drain joint releases wastewater onto the ground liner beneath a bathroom. The cleanup must identify what the discharge contacted, including insulation or the subfloor above it.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Lakeside: beneath a drain joint",
+        "text": "We will review the plumbing repair and accessible observations to map the affected area. Do not enter or move contaminated material to collect details; the crawl-space approach and protective measures are set before removal begins."
+      },
+      {
+        "title": "Reach wastewater beneath liner folds",
+        "text": "Wastewater can run into folded liner seams and pass below a torn section. We will extract accessible liquid, contain specified contaminated liner or insulation for removal and expose the contacted area for cleaning. A clean upper liner face does not establish the condition beneath it; contaminated soil or inaccessible ground contact requires its own evaluated removal and disposal scope."
+      },
+      {
+        "title": "Dry and verify the area before replacing insulation",
+        "text": "Suitable retained hard surfaces are physically cleaned and disinfected as appropriate, followed by drying of retained building materials. We will identify where the liner was removed and whether underlying contact remains unresolved before replacement covers the ground. A repaired drain does not dispose of sewage left below the liner."
+      }
+    ],
+    "estimate": "Wastewater spread, access, insulation, subfloor condition and disposal requirements determine the cleanup plan.",
+    "checklist": [
+      "Share the drain repair location and plumber’s findings.",
+      "Identify any reported cleanup already performed.",
+      "Describe access limits without entering the crawl space."
+    ]
+  },
+  "toilet-overflow-cleanup/lakeside": {
+    "intro": "Toilet overflow cleanup in Lakeside can be needed when a bathroom overflow crosses the tile edge into a carpeted dressing area. The water source and what the spill contacted determine whether the carpet edge can be cleaned or needs removal.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Lakeside: from tile to carpet",
+        "text": "We will trace the spill line from the toilet base toward the transition strip and identify whether the overflow involved wastewater. The plumbing cause is handled separately, while the cleanup boundary follows contacted flooring and lower trim."
+      },
+      {
+        "title": "Lift the carpet edge to inspect what lies beneath",
+        "text": "When wastewater reaches carpet and pad, the affected absorbent material needs a removal decision; it will not be stretched back simply because extraction removes the liquid. We will lift the approved edge, contain unsuitable contaminated material and clean the exposed retained subfloor and transition components. Appropriate disinfection follows physical cleaning on suitable surfaces."
+      },
+      {
+        "title": "Dry before resetting the transition",
+        "text": "The cutback must leave a repairable carpet edge as well as reach the wastewater-contacted material. The installer determines whether a seam or replacement section is feasible, while our cleanup boundary follows contact findings rather than the size of a convenient patch. Retained subfloor and lower trim receive drying before a new pad or transition hides them."
+      }
+    ],
+    "estimate": "Overflow source, carpet construction, wastewater contact and floor access shape the cleanup and material decisions.",
+    "checklist": [
+      "Share whether the toilet released clean water or wastewater.",
+      "Identify the flooring transition and affected trim.",
+      "Provide plumbing repair or prior cleanup details."
+    ]
+  },
+  "fire-damaged-debris-removal/lakeside": {
+    "intro": "Fire damaged debris removal in Lakeside may be needed when a garage outlet fire leaves melted plastic fragments beneath a workbench. Loose debris can be removed to expose the floor and wall edge for the next cleanup decision.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Lakeside: below a workbench",
+        "text": "We will identify burned fragments and heat-damaged building material separately from stored tools and unaffected items. Electrical inspection and repair belong to a qualified electrician before damaged wiring or the outlet is handled."
+      },
+      {
+        "title": "Separate loose fragments from material bonded to the floor",
+        "text": "After electrical and site access are released, we will collect loose cooled fragments into suitable containers without pulling on attached wiring or burned fittings. Plastic bonded to the floor is assessed separately from loose debris so scraping does not become an unapproved removal of the floor finish. Suspected hazardous components are segregated for appropriate handling rather than mixed into ordinary debris."
+      },
+      {
+        "title": "Keep the workbench area available for inspection",
+        "text": "We will expose the workbench floor edge and identify remaining bonded residue, damaged finish or wall material. Those findings determine whether the next work is cleaning, floor repair or removal of a damaged component. Debris pickup ends with a visible treatment boundary rather than a claim that an electrically released area is fully restored."
+      }
+    ],
+    "estimate": "Debris volume, electrical release, workbench access and the condition of adjacent finishes affect removal.",
+    "checklist": [
+      "Share fire-department or electrician access instructions.",
+      "Identify loose debris and items to retain.",
+      "Note whether smoke or response water reached nearby areas."
+    ]
+  },
+  "fire-damaged-contents-cleaning/lakeside": {
+    "intro": "Fire damaged contents cleaning in Lakeside may be considered when smoke residue is reported on ceramic dishes inside a closed dining-room hutch. The cabinet exterior and stored items need separate inspection before a cleaning method is chosen.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Lakeside: inside a dining hutch",
+        "text": "We will inventory affected contents and distinguish washable dishware from wood, fabric or items with delicate finishes. The hutch can be inspected separately for residue along shelves, hinges and enclosed corners."
+      },
+      {
+        "title": "Sort contents by material and exposure",
+        "text": "Intact glazed dishware accepted for recovery receives a compatible cleaning process and separate review before food use. Cracked pieces, unglazed surfaces and delicate decorative finishes are held for an individual decision instead of being processed with ordinary washable items. A trial on one finish does not establish that every piece in a mixed set can tolerate the same treatment."
+      },
+      {
+        "title": "Return items after the cabinet is addressed",
+        "text": "We will clean the included hutch shelf surfaces before processed dishes are returned, keeping unprocessed items apart. Soot trapped beneath a shelf liner needs removal rather than being covered by freshly cleaned dishes. Any item whose food-use suitability remains uncertain stays out of use pending its own disposition; matching the original appearance is not a recovery guarantee."
+      }
+    ],
+    "estimate": "Item materials, count, residue exposure, hutch condition and any specialist handling affect the proposal.",
+    "checklist": [
+      "List items that are valuable, fragile or food-contact.",
+      "Share where the fire occurred and whether the hutch stayed closed.",
+      "Identify any contents already cleaned or discarded."
+    ]
+  },
+  "smoke-damage-cleanup/lakeside": {
+    "intro": "Smoke damage cleanup in Lakeside can be needed when a brief kitchen flare leaves a visible film inside the adjacent pantry door recess. Residue in the trim grooves may remain even when the flat door face looks clean.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Lakeside: in a pantry door recess",
+        "text": "We will inspect the door face, recessed panels, hinges and nearby pantry surfaces for deposited residue. A small test area helps determine whether the finish tolerates the proposed cleaning method before broader work."
+      },
+      {
+        "title": "Treat smeared residue without stripping sound paint",
+        "text": "We will collect loose deposits using a suitable method and clean the recessed trim with a finish-compatible process established by a small trial. If an earlier wet wipe has smeared the deposit or softened paint, that area needs a separate evaluation before more aggressive treatment. Grooves with failed coating may need finish repair after residue removal rather than repeated scrubbing."
+      },
+      {
+        "title": "Review the entry route after cleanup",
+        "text": "A cleaning trial on the flat door face does not establish the condition of thin paint on the molded edges. We will inspect those edges after treatment and separate remaining removable deposits from permanent finish damage before repainting is proposed. Exposed pantry food receives a separate disposal decision, and odor treatment cannot substitute for surface cleaning."
+      }
+    ],
+    "estimate": "Finish type, recess detail, residue spread and pantry contents affect cleaning time and handling.",
+    "checklist": [
+      "Identify surfaces already wiped or coated.",
+      "Note pantry food and contents needing protection.",
+      "Share whether the fire response introduced water or extinguisher residue."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/lakeside": {
+    "intro": "Fire extinguisher residue cleanup in Lakeside may be needed when powder remains on a laundry-room washer lid and adjacent painted cabinet doors. The extinguisher agent and each finish guide how the residue can be removed.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Lakeside: around laundry equipment",
+        "text": "We will identify the extinguisher label or agent and inspect residue on the washer exterior, cabinet faces and floor. Equipment interiors, electrical components and appliance operation are evaluated separately by qualified service providers."
+      },
+      {
+        "title": "Remove powder without spreading it across the room",
+        "text": "For identified dry chemical powder, we will collect loose deposits with equipment appropriate to the agent, then use compatible cleaning on included washable surfaces. Powder around the lid seam and recessed handles is collected without pushing it into the washer. Wet agent, unidentified material or powder inside appliance openings needs a different evaluated method rather than a generic damp wipe."
+      },
+      {
+        "title": "Check adjacent rooms for carried residue",
+        "text": "Clothing left beside the machine is kept separate from cleaned room surfaces until its own laundering or disposal decision is made. We will inspect the floor route for tracked deposits and clean the specified surfaces. Appliance operation and residue inside the washer remain with the service provider, so an exterior cleanup is not a reason to run a load through an unassessed machine."
+      }
+    ],
+    "estimate": "Agent identification, surface finishes, appliance condition and residue spread determine cleanup and provider assignments.",
+    "checklist": [
+      "Share the extinguisher label or a clear photo of it.",
+      "Identify cabinet, floor and appliance surfaces involved.",
+      "Note whether fire, smoke or water cleanup is also needed."
+    ]
+  },
+  "kitchen-fire-cleanup/lakeside": {
+    "intro": "Kitchen fire cleanup in Lakeside may be needed when a toaster fire leaves heat damage on the cabinet underside and soot along the backsplash seam. Cleanup must distinguish removable deposits from material that has been burned or warped.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Lakeside: at the cabinet and backsplash seam",
+        "text": "We will inspect the cabinet underside, backsplash joint and nearby appliance area for heat changes and residue. Electrical and appliance checks are assigned to qualified providers before affected equipment is used again."
+      },
+      {
+        "title": "Remove residue before choosing replacement material",
+        "text": "A small cleaning trial on the cabinet underside distinguishes removable soot from blistered coating or charred material. We will collect loose residue and clean suitable retained surfaces; heat-damaged cabinet pieces receive a defined repair or removal decision. At the backsplash seam, damaged sealant is addressed without assuming that replacing a caulk bead treats residue on adjoining surfaces."
+      },
+      {
+        "title": "Check adjoining cabinets for hidden deposits",
+        "text": "Heat damage on the cabinet bottom can affect its ability to support stored dishes even when the doors still open. We will identify deformation or separation for cabinet evaluation before contents return. Adjacent surfaces receive residue checks and cleaning as scoped, with any response-water drying completed before the cabinet is closed or refinished."
+      }
+    ],
+    "estimate": "Heat extent, cabinet layout, backsplash material, contents protection and electrical review affect the plan.",
+    "checklist": [
+      "Share fire-department and electrician findings.",
+      "Identify cabinets or backsplash already removed.",
+      "List appliances and stored items affected by heat or residue."
+    ]
+  },
+  "emergency-board-up-after-fire/lakeside": {
+    "intro": "Emergency board up after fire in Lakeside may be needed when a fire-damaged garage window is broken and leaves the opening exposed overnight. Temporary protection depends on the remaining frame, safe access and the inspection or repair work still pending.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Lakeside: at a garage window",
+        "text": "We will assess the opening dimensions, frame condition and safe approach before proposing temporary coverage. If fire officials or an insurer have restricted entry, their release and access instructions must be established first."
+      },
+      {
+        "title": "Attach protection without hiding damaged framing",
+        "text": "After safe access is released, loose glass is handled within the approved work area and a fitted temporary panel is secured to suitable support. Burned or weakened frame material cannot be assumed to hold fasteners. If sound attachment cannot be established without further support work, that condition must be resolved before the panel is installed."
+      },
+      {
+        "title": "Keep the garage door route clear",
+        "text": "A temporary window panel and its supports must not obstruct a nearby garage-door track or an access route the approved site plan needs. If those parts are also fire damaged, the appropriate provider determines whether operation or access is permitted before protection is arranged around them. We will explain how window-frame removal affects the temporary attachment so the opening does not become exposed during permanent replacement."
+      }
+    ],
+    "estimate": "Opening size, frame damage, height, site release and attachment support determine availability and scope.",
+    "checklist": [
+      "Share site-release and fire-official access instructions.",
+      "Identify the opening size and frame condition from a safe location.",
+      "Name the person authorized to approve temporary protection."
+    ]
+  }
+}

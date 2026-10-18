@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-10-18T23:15:18.083895+00:00",
+  "newPages": 1320,
+  "corePages": 192,
+  "compactPages": 1128,
+  "corePhrasePassed": 1236,
+  "approvedCompactPhrasePassed": 3456,
+  "unapprovedPhrasePassesNotPromoted": 24,
+  "loneOakRevision": "59.59% regression against Northlake repaired with coherent wall-penetration access, backing removal and reinstatement decisions; now69.41%.",
+  "editorialReview": "Prior independent batch reviews retained. Final root reread Neylandville24, Royse/Saginaw hub samples and WolfeCity6; checked current claim flags, pending-license disclosure and illustration attribution. No invented local projects/offices found in release review.",
+  "sourceChecks": [
+    "EPA mold course chapter4: wet paneling access and contaminated-water distinction",
+    "EPA children/flood guidance: contacted bottles/nipples/pacifiers disposal",
+    "Andersen HeatLock instructions: mild soapy water, no abrasive cleaners"
+  ],
+  "mobile": {
+    "viewport": "390x844",
+    "routes": [
+      "/ac-leak-water-damage-cleanup/lone-oak/",
+      "/mold-remediation/wolfe-city/",
+      "/locations/dfw-metro/royse-city/"
+    ],
+    "horizontalOverflow": false,
+    "imagesLoaded": true,
+    "mobileMenuOpened": true,
+    "compactOrder": "H1,intro,CTA,image"
+  },
+  "desktop": "Neylandville extraction screenshot reviewed; image loaded, readable heading and CTAs.",
+  "remainingCompactUnverified": 1488,
+  "publication": "awaiting deployment/live verification"
+}

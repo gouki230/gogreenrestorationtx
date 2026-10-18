@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/haltom-city": {
+    "intro": "Emergency water extraction in Haltom City can start with water that has run beneath a floating floor and spread beyond the wet surface you can see. We locate accessible edges and openings, recover loose water, and establish whether the floor assembly needs to be opened before drying can reach it.",
+    "sections": [
+      {
+        "title": "Find where water passed under the floating floor",
+        "text": "Water can travel beneath connected planks and emerge at a doorway or wall well away from the release. We compare the reported path with wet edges and accessible transitions, then mark the area that can be checked. The first visible puddle does not set the extraction boundary."
+      },
+      {
+        "title": "Lift only the floor area needed to reach trapped water",
+        "text": "If the floor can be taken apart without damage, the agreed opening can expose water and the underlayment beneath it. We collect reachable liquid and remove layers that are damaged or unsuitable to retain. A glued or otherwise fixed floor needs a different access decision; forcing up boards can turn a cleanup task into avoidable finish damage."
+      },
+      {
+        "title": "Check the subfloor before relaying boards",
+        "text": "We inspect the exposed base for swelling, seam separation, or moisture that remains after extraction. Suitable retained material can be measured during drying; a distorted or weakened base needs repair review before the floor goes back. Reinstalling planks is a separate finish task."
+      }
+    ],
+    "checklist": [
+      "Where the water first appeared and where it later emerged",
+      "Floor type and whether an edge or transition is already open",
+      "Any prior lifting, drying, or repairs in the affected area"
+    ],
+    "estimate": "Floor locking system, underlayment, access at edges, and the condition of the subfloor affect the scope. The proposal should separate extraction and drying from plank removal, base repair, and finish reinstallation."
+  },
+  "burst-pipe-cleanup/haltom-city": {
+    "intro": "Burst pipe cleanup in Haltom City can require reaching wet framing behind rigid insulation panels after a supply-line repair. We will inspect the accessible layers and explain what must move to recover water and dry suitable retained material.",
+    "sections": [
+      {
+        "title": "Identify the insulation before choosing the opening",
+        "text": "A rigid panel and loose or fibrous cavity insulation do not provide the same access. We will use the existing opening to identify accessible construction and wet edges, without assuming the visible face shows the condition behind it. Pipe and electrical connections remain with the appropriate trade."
+      },
+      {
+        "title": "Expose the concealed contact surfaces",
+        "text": "Approved selective removal may be needed where a panel blocks collection or drying of the wall behind it. We will recover reachable liquid, collect debris and clean suitable retained surfaces. A panel damaged during removal or found unsuitable to retain requires a replacement decision even if the framing can be dried."
+      },
+      {
+        "title": "Reinstate layers with their function understood",
+        "text": "Repeat readings will track the exposed retained material rather than the room surface alone. We will identify moisture and physical damage remaining before closure. The repair provider must restore the intended insulation and any associated air or moisture-control details; leaving an access gap or replacing a layer with an arbitrary material is not part of completing the drying task."
+      }
+    ],
+    "estimate": "Panel attachment, concealed framing, source access and removal consequences influence the work. Plumbing repair and insulation reinstatement are distinct from collection, cleaning and drying.",
+    "checklist": [
+      "Share the repaired line location and existing openings.",
+      "Identify insulation type if already known.",
+      "Provide source-repair and earlier drying information."
+    ]
+  },
+  "appliance-leak-cleanup/haltom-city": {
+    "intro": "Appliance leak cleanup in Haltom City can involve water trapped beneath an anti-vibration mat under a washing machine. We will arrange safe movement, collect the concealed liquid and evaluate the mat separately from the floor it covers.",
+    "sections": [
+      {
+        "title": "Check the covered footprint",
+        "text": "The open floor can be dry while the mat conceals moisture at its underside. We will review the release and accessible edges, then coordinate machine handling and disconnection with the appropriate provider. Pulling a connected washer across the wet area can strain services and damage the finish."
+      },
+      {
+        "title": "Lift the mat for separate material decisions",
+        "text": "Once access is arranged, we will collect reachable liquid and inspect the mat and flooring individually. A suitable washable mat may have different treatment options from an absorbent backing or damaged floor layer. Approved unsuitable material will be removed, and suitable exposed surfaces cleaned according to the water condition."
+      },
+      {
+        "title": "Reset onto a treated supporting surface",
+        "text": "We will measure retained wet flooring or substrate and identify swelling, softness or trapped moisture before the mat returns. Drying the top of the mat does not establish that its underside or the floor is ready to cover. Appliance leveling, reconnection and operating checks remain separate service tasks."
+      }
+    ],
+    "estimate": "Machine movement, mat construction, floor layers and water condition affect access and treatment. Appliance service and replacement flooring are separately identified.",
+    "checklist": [
+      "Describe the mat and where water appeared.",
+      "Share washer repair or leak-source findings.",
+      "Identify handling restrictions around the machine."
+    ]
+  },
+  "storm-water-damage-cleanup/haltom-city": {
+    "intro": "Storm water damage cleanup in Haltom City can be needed when rain passes a garage-door opening and wets the lower wall beside the track. We will recover water and treat contacted building layers while the door and exterior-water issues receive their own evaluation.",
+    "sections": [
+      {
+        "title": "Distinguish the concrete surface from the wall edge",
+        "text": "Water on a slab may also reach paper-faced wallboard, insulation or stored items along the perimeter. We will inspect the reported route and accessible bases instead of treating the whole event as a washable concrete floor. Outdoor debris and water condition will inform what can remain."
+      },
+      {
+        "title": "Work around the door mechanism",
+        "text": "Tracks, brackets and spring assemblies have their own support and service requirements. The appropriate door provider must address movement or disconnection needed for access. We will collect liquid and debris, remove approved unsuitable building material, and clean suitable reachable surfaces without loosening the door system as ordinary cleanup."
+      },
+      {
+        "title": "Resolve the receiving edge before finishing",
+        "text": "Retained wet components will be measured and dried where suitable. We will identify wall-base damage and inaccessible surfaces, while the responsible provider investigates seals, door operation or exterior drainage. Replacing interior trim alone cannot establish that another rain event will stay outside."
+      }
+    ],
+    "estimate": "Door-track interference, wall construction, stored contents and water condition shape the scope. Door servicing and exterior correction remain separate from interior restoration.",
+    "checklist": [
+      "Describe where rain crossed the opening.",
+      "Identify wet wall bases and stored belongings.",
+      "Share door or drainage inspection findings."
+    ]
+  },
+  "structural-drying-services/haltom-city": {
+    "intro": "Structural drying services in Haltom City can involve wet plaster over lath that an owner hopes to retain. We will evaluate material condition and accessible moisture before deciding whether monitored drying is practical or selective removal is needed.",
+    "sections": [
+      {
+        "title": "Check attachment as well as dampness",
+        "text": "A plaster face can remain in place while its bond or support has been affected. We will inspect accessible cracking, movement and backing condition, arranging appropriate evaluation where stability is uncertain. A moisture reading does not establish that a loosened finish is safe to keep."
+      },
+      {
+        "title": "Reach the retained backing",
+        "text": "Where the assembly is suitable to retain, drying access must serve the wet lath or supporting material rather than only the painted face. We will explain any controlled opening or removal needed, with protection below unstable areas. Suspect materials requiring evaluation will be addressed before disturbance; openings will not be made solely to extend equipment use."
+      },
+      {
+        "title": "Separate the drying result from plaster repair",
+        "text": "Repeat readings at appropriate accessible locations will track the retained materials, with limits stated where the backing remains hidden. Cracks, detached areas and finish damage may still require repair after moisture falls. A plaster specialist or repair provider can then evaluate reinstatement using the actual treated condition."
+      }
+    ],
+    "estimate": "Plaster attachment, backing access, coatings and monitoring needs affect the plan. Material evaluation and specialist finish repair are distinct from drying.",
+    "checklist": [
+      "Describe cracks, movement or visible damp areas.",
+      "Share known plaster construction and prior repairs.",
+      "Provide leak correction and existing reading records."
+    ]
+  },
+  "floor-water-damage-cleanup/haltom-city": {
+    "intro": "Floor water damage cleanup in Haltom City may require opening a small section of tile to determine whether water is trapped in the setting bed beneath it. Surface extraction cannot reach a concealed layer, and removing tile can affect adjacent pieces, so access should be tied to the construction and findings.",
+    "sections": [
+      {
+        "title": "Use an existing edge to inspect below the tile",
+        "text": "A doorway, broken tile, or removed threshold may reveal the tile bed and substrate without disturbing a broad area. We inspect that edge and the surrounding joints for water movement and material separation. A dark grout line does not by itself establish how far moisture traveled."
+      },
+      {
+        "title": "Choose an opening that reaches the wet layer",
+        "text": "If water is present beneath the finish, an agreed tile opening may be needed to reach the bed or underlayment. We collect accessible water and remove material that cannot be retained. The owner should understand that tile and grout may not be reusable after removal, especially where the bond has failed."
+      },
+      {
+        "title": "Check the substrate before new tile is installed",
+        "text": "We assess the exposed base for softening, movement, or separation and measure suitable retained material as it dries. A stable surface may still need preparation specified by the flooring installer. Regrouting or replacing tile before resolving the base condition can conceal a failed bond."
+      }
+    ],
+    "checklist": [
+      "Tile type and any loose, cracked, or missing pieces",
+      "Water source and the area of flooring reached",
+      "Any existing doorway or exposed edge for inspection"
+    ],
+    "estimate": "Tile bond, substrate, access at edges, and the extent of material that must be lifted affect labor. Extraction, substrate repair, and tile replacement should be priced as separate work."
+  },
+  "ceiling-water-damage-cleanup/haltom-city": {
+    "intro": "Ceiling water damage cleanup in Haltom City can involve tongue-and-groove boards with wet material concealed above them. We will determine how access can be created without assuming each board can be removed independently or reused afterward.",
+    "sections": [
+      {
+        "title": "Understand the interlocking finish",
+        "text": "An exposed end or existing opening can show attachment and the direction of the joined boards. We will inspect accessible wetting and condition before setting the removal boundary. A short damaged section may require a larger access arrangement because neighboring boards interlock."
+      },
+      {
+        "title": "Open the agreed section and collect overhead material",
+        "text": "With suitable protection below and trade coordination around fixtures, approved boards or unsuitable backing will be removed in a controlled sequence. We will collect debris and wet insulation as scoped, then inspect and clean suitable retained supports. A board selected for retention may still be damaged by required access; that consequence will be explained beforehand."
+      },
+      {
+        "title": "Evaluate boards and framing separately",
+        "text": "Moisture checks will guide drying of retained framing and suitable finish pieces. Warped boards, split tongues or failed attachment require their own repair decisions before reassembly. New finish should conceal a treated cavity with suitable support, rather than simply cover the original stain."
+      }
+    ],
+    "estimate": "Board direction, fastening, height and insulation affect access and labor. Finish salvage, replacement matching and source repair are separately identified.",
+    "checklist": [
+      "Share photographs of the ceiling and any exposed edge.",
+      "Identify fixtures in the affected area.",
+      "Provide source-repair findings and known finish details."
+    ]
+  },
+  "bathroom-mold-removal/haltom-city": {
+    "intro": "Bathroom mold removal in Haltom City may require reaching behind a loose shower threshold where water has affected the edge of the wall or floor. Cleaning the visible bead of caulk does not show whether the material beneath the threshold is sound or affected.",
+    "sections": [
+      {
+        "title": "Check the threshold and adjacent wall edge",
+        "text": "We review existing assessment information and inspect the accessible joint for loose trim, deteriorated backing, or prior repairs. The scope identifies whether removal of the threshold or nearby finish is needed to reach the reported material. Recaulking alone does not address a concealed affected surface."
+      },
+      {
+        "title": "Remove affected backing while protecting the bathroom",
+        "text": "Approved porous or damaged material is removed within the defined work area, with debris contained and retained reachable surfaces cleaned using methods suited to their material. Sound tile and compromised board behind it need separate retention decisions. Plumbing or shower-system work that requires disconnection is assigned to the appropriate provider."
+      },
+      {
+        "title": "Rebuild the wet-area joint after source correction",
+        "text": "The provider records the treated boundary and any moisture or repair concern that remains. A qualified repair trade should address the shower assembly before the threshold and finish are restored. Sealant and new trim are finish details, not proof that the concealed backing was addressed."
+      }
+    ],
+    "checklist": [
+      "Where the threshold or shower joint has loosened",
+      "Any shower leak or repair findings",
+      "Existing assessment notes and prior access openings"
+    ],
+    "estimate": "Threshold construction, tile attachment, plumbing access, and affected backing determine the work. Remediation, source repair, and shower reconstruction are distinct scopes."
+  },
+  "kitchen-cabinet-mold-removal/haltom-city": {
+    "intro": "Kitchen cabinet mold removal in Haltom City can require deciding whether a laminated cabinet panel is a cleaning candidate or needs replacement. We will evaluate the intact face, exposed edges and separating layers before a cosmetic repair conceals material that cannot be adequately treated.",
+    "sections": [
+      {
+        "title": "Compare the coated face with the exposed core",
+        "text": "Available assessment findings will guide which components need treatment. A smooth laminate face may allow a different approach from absorbent core material exposed at an edge or plumbing cutout. We will inspect those conditions separately rather than infer recovery of the whole panel from a cleanable outer surface."
+      },
+      {
+        "title": "Use a limited cleaning result without extending it to hidden layers",
+        "text": "Under appropriate controls, suitable retained faces will receive particle collection and compatible detail cleaning, with a limited treatment where finish sensitivity warrants it. If separation prevents access to affected material between layers, the provider will identify removal or replacement instead of repeatedly cleaning the outside. Peeling a bonded finish can damage the panel and is not an assumed step in ordinary surface treatment."
+      },
+      {
+        "title": "Keep refacing separate from remediation",
+        "text": "Specified unsuitable porous components will be contained for disposal, while suitable remaining surfaces receive the treatment within scope. Swelling or delamination can remain a replacement reason after moisture correction and drying. We will identify any required independent evaluation before cabinet refinishing; adhesive, paint or a new decorative skin must not hide unresolved material simply because it restores the appearance."
+      }
+    ],
+    "estimate": "Panel construction, affected edges, layer separation and the area suitable for retained-surface treatment determine the scope. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Show exposed edges or separating surfaces without peeling them.",
+      "Share moisture history and assessment findings.",
+      "Identify any proposed painting, refacing or panel replacement."
+    ]
+  },
+  "mold-remediation-after-water-damage/haltom-city": {
+    "intro": "Mold remediation after water damage in Haltom City can involve fabric-wrapped acoustic panels left on a wall during earlier drying. We will evaluate the panels and their mounting surface separately before deciding what can be treated or must be removed.",
+    "sections": [
+      {
+        "title": "Establish what the earlier work actually reached",
+        "text": "A room reading or photograph may describe the exposed wall while leaving the area behind a panel unexamined. We will review current assessment findings and accessible mounting details before removal. Panel fabric, absorbent core and the building surface do not automatically share the same recovery decision."
+      },
+      {
+        "title": "Expose the wall under appropriate controls",
+        "text": "The responsible provider will define handling of affected panels and specified porous waste before detachment. Suitable reachable retained building surfaces will receive appropriate particle collection and cleaning. Removing a decorative panel provides access; it does not itself treat the wall or establish that the panel core can be recovered."
+      },
+      {
+        "title": "Choose replacement only after the receiving area is resolved",
+        "text": "We will identify source correction, drying and any required independent evaluation before panels return. A recovered or replacement panel needs a suitable treated mounting surface. Acoustic performance, appearance and mounting repair remain product or installation decisions separate from the remediation result."
+      }
+    ],
+    "estimate": "Panel construction, fastening, area concealed and wall condition affect the scope. Licensed mold work is referred to an appropriately licensed partner, with provider and scope disclosed before work begins.",
+    "checklist": [
+      "Identify panels left in place during the original cleanup.",
+      "Provide current assessment and prior drying records.",
+      "Share known mounting or product details."
+    ]
+  },
+  "mold-removal-behind-drywall/haltom-city": {
+    "intro": "Mold removal behind drywall in Haltom City can involve affected backing inside a wall framed with metal studs. We will reach the identified material and the lower track, distinguishing retained metal surfaces from porous layers and damaged supporting components.",
+    "sections": [
+      {
+        "title": "Inspect the track as well as the wall face",
+        "text": "An opening may show a stud face while the channel at the floor contains debris or concealed backing. We will use available findings to define access around services and connecting layers. The metal framing will be identified from the property rather than assumed from the building type."
+      },
+      {
+        "title": "Remove porous waste and clean reachable metal details",
+        "text": "Under the work controls, specified affected board and unsuitable insulation will be removed and packaged. Suitable retained surfaces will receive appropriate particle collection and compatible cleaning, including reachable track recesses. Spraying across an opening does not replace removal of debris caught in the channel."
+      },
+      {
+        "title": "Check the supporting condition before closure",
+        "text": "Corrosion, distortion or damaged fastening points require repair evaluation separate from surface treatment. We will record remaining moisture correction, access limits and required independent evaluation before insulation or board returns. Cleaning the visible metal will not be described as restoring its structural capacity."
+      }
+    ],
+    "estimate": "Track access, wall layers, utilities and supporting condition affect removal and treatment. Mold work requiring a license is referred to an appropriately licensed partner with provider and scope identified before work begins.",
+    "checklist": [
+      "Share photographs of the existing opening.",
+      "Identify known services within the wall.",
+      "Provide assessment and leak-repair findings."
+    ]
+  },
+  "kitchen-fire-cleanup/haltom-city": {
+    "intro": "Kitchen fire cleanup in Haltom City can require a recovery decision for a wood countertop beside a cooking fire. We will evaluate deposits, finish condition and heat damage before proposing cleaning or referring the surface for repair.",
+    "sections": [
+      {
+        "title": "Compare the broad face with edges and joints",
+        "text": "Residue may sit on a coated face while unfinished edges or seams have different exposure. We will inspect the included surfaces and use a limited compatibility check where appropriate. Charring, split joints or a damaged finish will be distinguished from removable deposits."
+      },
+      {
+        "title": "Clean accepted surfaces without assuming sanding is cleanup",
+        "text": "Suitable loose-residue collection will precede compatible cleaning on material accepted into the scope. Removing a finish or sanding changes the countertop and requires a separate approved repair decision. Areas beneath attached equipment or inside joints that cannot be reached will remain explicit limitations."
+      },
+      {
+        "title": "Resolve intended reuse with the repair provider",
+        "text": "We will record remaining staining, heat damage and any moisture from the response. Refinishing, food-contact suitability and replacement decisions belong with the appropriate product or repair evaluation before use resumes. A cleaner appearance alone does not establish that the surface can return to every prior use."
+      }
+    ],
+    "estimate": "Wood construction, coating, joint condition and heat exposure influence evaluation. Residue cleaning, refinishing and countertop replacement are separately scoped.",
+    "checklist": [
+      "Identify the wood surface and finish if known.",
+      "Describe heat and extinguishing-water exposure.",
+      "Share any countertop or appliance inspection findings."
+    ]
+  },
+  "smoke-damage-cleanup/haltom-city": {
+    "intro": "Smoke damage cleanup in Haltom City can include a ceiling fan that continued to run after a nearby fire and spread residue across the room. The blades, motor housing, and ceiling around the mounting point may need different treatment and access decisions.",
+    "sections": [
+      {
+        "title": "Inspect the fan and surfaces beyond its sweep",
+        "text": "We review the reported use of the fan and check accessible blades, housing, and nearby ceiling for deposits. A residue pattern can guide inspection but does not prove the motor's internal condition. Electrical or mechanical evaluation is assigned to the appropriate provider before the fan is operated or dismantled."
+      },
+      {
+        "title": "Clean reachable surfaces without spreading deposits",
+        "text": "Suitable loose-particle collection comes before material-compatible cleaning of the fan's accessible exterior and nearby surfaces. Fragile finishes or deposits already smeared by wiping need a small test and a separate repair decision. Ceiling texture around the mounting point may require careful access rather than broad wiping."
+      },
+      {
+        "title": "Check for residue that settled above the room",
+        "text": "If odor or deposits remain after accessible surfaces are addressed, we look for other locations or belongings that may need evaluation. A fan treatment alone does not establish that return-air pathways or concealed components are clean. The closeout record identifies the surfaces reached and any unresolved equipment or finish concern."
+      }
+    ],
+    "checklist": [
+      "Whether the fan ran during or after the incident",
+      "Any prior wiping, repainting, or fan service",
+      "Rooms and ceiling surfaces where residue is visible"
+    ],
+    "estimate": "Ceiling height, fan access, surface finishes, and equipment evaluation affect the work. Surface cleaning, electrical service, and any concealed system cleaning are separately scoped."
+  },
+  "toilet-overflow-cleanup/haltom-city": {
+    "intro": "Toilet overflow cleanup in Haltom City can require access beneath the toilet itself when wastewater has reached an exposed floor edge at the base. We will coordinate fixture handling with the plumber and treat contacted building material before the toilet is reset.",
+    "sections": [
+      {
+        "title": "Define the contact beneath the fixture",
+        "text": "Visible water around the base does not show whether the release reached under the floor finish or came through a connection. We will review plumbing findings and accessible edges before proposing removal. The plumber evaluates the fixture, seal and flange; restoration follows the observed material contact."
+      },
+      {
+        "title": "Treat the footprint after authorized removal",
+        "text": "When the fixture is removed by the appropriate provider, we will collect reachable wastewater and contain specified unsuitable porous material. Suitable retained surfaces will have soil and residue physically removed before appropriate disinfection. The waste opening must remain managed by the plumbing provider during access and repair."
+      },
+      {
+        "title": "Give resetting a suitable floor base",
+        "text": "We will measure retained wet material and identify softness or damage around the opening that requires repair. A new seal cannot compensate for an unresolved building-support problem. The plumber handles resetting and testing after the relevant cleanup, drying and floor repair tasks are completed."
+      }
+    ],
+    "estimate": "Fixture access, floor layers, actual contamination and base condition affect the work. Plumbing removal, flange repair and resetting are separate from building treatment.",
+    "checklist": [
+      "Share overflow and plumbing-inspection details.",
+      "Describe changed flooring around the toilet base.",
+      "Identify whether the fixture has already been removed."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/haltom-city": {
+    "intro": "AC leak water damage cleanup in Haltom City can involve wet wall material along an insulated refrigerant-line route. We will treat affected building layers while the HVAC provider determines whether insulation, condensate drainage or another source needs correction.",
+    "sections": [
+      {
+        "title": "Use source findings rather than the stain alone",
+        "text": "Moisture beside a line does not establish that the refrigerant circuit is leaking or that the drain is responsible. We will review HVAC findings and inspect reachable building surfaces along the route. Equipment diagnosis and handling of connected lines remain with the HVAC provider."
+      },
+      {
+        "title": "Create building access without moving the line",
+        "text": "Approved affected wallboard or unsuitable cavity material will be removed with the connected services protected. We will collect reachable liquid and debris and clean suitable retained surfaces. If damaged line insulation blocks evaluation or needs replacement, that task will be coordinated before the building cavity is treated as complete."
+      },
+      {
+        "title": "Keep the line covering and wall repair in sequence",
+        "text": "Retained wet building components will receive readings and appropriate drying. The HVAC provider addresses the line covering and source condition, while weakened board or framing receives a separate repair decision. Closing the wall must not make an unresolved service section inaccessible again."
+      }
+    ],
+    "estimate": "Line location, enclosure construction and trade access influence scope. Refrigerant-line or insulation service remains distinct from building removal, cleaning and drying.",
+    "checklist": [
+      "Identify where moisture appears along the equipment route.",
+      "Share HVAC findings and any insulation repairs.",
+      "Provide photographs of existing openings if available."
+    ]
+  },
+  "crawl-space-water-removal/haltom-city": {
+    "intro": "Crawl space water removal in Haltom City can help when an existing sump installation stops controlling water beneath the floor. We will recover accessible accumulation and evaluate affected building material while the pump system receives separate service.",
+    "sections": [
+      {
+        "title": "Do not assume the existing pump can be used",
+        "text": "Electrical condition, a blocked discharge or another failure may need qualified evaluation before the installed equipment operates. We will establish suitable access and a separate collection arrangement where appropriate. Water outside the sump may remain in isolated low sections even after the basin empties."
+      },
+      {
+        "title": "Collect the spread beyond the basin",
+        "text": "We will recover reachable pools and identify debris or displaced ground covering that obstructs access. Specified unsuitable wet insulation or debris will be removed with handling appropriate to the water condition. An ordinary water-removal scope must change if sewage or another contamination concern is found."
+      },
+      {
+        "title": "Distinguish system repair from the retained-material result",
+        "text": "We will check reachable joists and subfloor for wetting and arrange drying where suitable. The pump provider addresses operation and discharge performance; our record will identify water removed, continuing inflow and inaccessible areas. A repaired pump does not establish that wet building components have dried."
+      }
+    ],
+    "estimate": "Pool distribution, safe access, water condition and existing equipment restrictions determine the work. Pump replacement, electrical service and permanent drainage correction are separately scoped.",
+    "checklist": [
+      "Share the reported pump failure and service findings.",
+      "Describe visible water without entering.",
+      "Identify affected insulation or prior drainage work if known."
+    ]
+  },
+  "attic-mold-remediation/haltom-city": {
+    "intro": "Attic mold remediation in Haltom City can involve the attic-facing side of a short wall beside a finished room. We will evaluate that knee-wall assembly and its insulation, keeping treatment of concealed backing separate from the condition of the room-side finish.",
+    "sections": [
+      {
+        "title": "Identify the faces needing access",
+        "text": "An intact painted wall inside the room does not show the condition of its attic-facing backing. Available assessment findings will guide which studs, board or insulation need attention. Tight roof clearance or a storage platform may limit access and require an explicit handling decision."
+      },
+      {
+        "title": "Expose and treat the included assembly",
+        "text": "The responsible provider will establish work controls and remove specified unsuitable insulation or porous layers. Appropriate particle collection and cleaning will address suitable reachable retained material, including included connections at the wall base. Removing insulation does not by itself treat the wall surface it covered."
+      },
+      {
+        "title": "Restore the enclosure after moisture work",
+        "text": "We will record source correction, drying and any required independent evaluation before the wall is covered again. The repair provider will address the intended insulation and enclosure details, along with damaged supports or finishes. Work on this wall does not imply that every roof surface or the finished room was remediated."
+      }
+    ],
+    "estimate": "Roof clearance, wall construction, insulation and storage obstructions influence scope. Licensed mold work is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Identify the wall and adjacent finished room.",
+      "Share accessible photographs and assessment findings.",
+      "Describe prior moisture or insulation work."
+    ]
+  },
+  "crawl-space-mold-remediation/haltom-city": {
+    "intro": "Crawl space mold remediation in Haltom City can require evaluating a coated or membrane-covered underside where affected material has been reported. We will establish what is visible and what needs access before adding another covering over the existing assembly.",
+    "sections": [
+      {
+        "title": "Distinguish the covering from the wood behind it",
+        "text": "A coating or membrane can obscure a joint or support surface even where its exposed face looks intact. Available findings and construction information will guide the evaluation. We will not assume that every covered component is affected or that an existing covering establishes completed remediation."
+      },
+      {
+        "title": "Define removal needed for actual treatment",
+        "text": "The responsible provider will identify any approved opening or covering removal required to reach scoped surfaces. Specified unsuitable material will be contained for disposal, and suitable reachable retained wood will receive appropriate particle collection and cleaning. Compatibility and disturbance concerns must be resolved before treating an unknown coating as routine removable waste."
+      },
+      {
+        "title": "Choose reinstatement after the condition is known",
+        "text": "We will identify source correction, moisture work, repair needs and required independent evaluation while the affected area remains accessible. Applying another coating or membrane cannot substitute for unresolved removal or cleaning. Any new enclosure system is a separate installation decision with its own requirements."
+      }
+    ],
+    "estimate": "Covering type, attachment, access and underlying condition influence evaluation and treatment. Mold work requiring a license is referred to an appropriately licensed partner with provider and scope disclosed before work begins.",
+    "checklist": [
+      "Share known coating or membrane installation information.",
+      "Provide assessment findings and accessible photographs.",
+      "Describe moisture history and prior treatment."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/haltom-city": {
+    "intro": "Mold contaminated contents cleaning in Haltom City can involve folding tables or furniture with tubular supports after damp storage. We will evaluate the tabletop, hinges and enclosed frame separately before deciding whether the item can be cleaned and returned.",
+    "sections": [
+      {
+        "title": "Inspect the underside and folded connections",
+        "text": "Stored folding furniture can hide affected surfaces where parts touch. We will arrange supported opening where condition permits and inspect the accessible underside, joints and feet. Laminate, absorbent backing and coated metal require separate recovery decisions."
+      },
+      {
+        "title": "Clean suitable surfaces and state enclosed limits",
+        "text": "Accepted surfaces will receive controlled particle collection and compatible detail cleaning, with sensitive coatings evaluated first. Accessible hinge faces and removable feet may need separate handling. A hollow support with suspected internal contamination cannot be described as fully treated merely because its exterior was wiped; additional access, specialist evaluation or exclusion may be needed."
+      },
+      {
+        "title": "Keep structural damage separate from the cleaning result",
+        "text": "Swollen tabletops, corroded joints or failed locking hardware require repair or replacement decisions. Appropriately dried accepted items will be kept apart from unresolved property and packed for a suitable receiving space. Successful surface cleaning does not establish that a folding mechanism can safely carry its former load."
+      }
+    ],
+    "estimate": "Item construction, folded access, coating and concealed cavities affect treatment. Mold work requiring a license is referred to an appropriately licensed partner with provider and scope identified before work begins.",
+    "checklist": [
+      "List folding items and known material types.",
+      "Describe damp storage and visible underside findings.",
+      "Identify damaged or stuck mechanisms without forcing them."
+    ]
+  },
+  "fire-damaged-debris-removal/haltom-city": {
+    "intro": "Fire damaged debris removal in Haltom City can include wet burned carpet and padding still attached around the room perimeter. We will separate approved floor-covering removal from the condition of the base, fasteners and contents that remain.",
+    "sections": [
+      {
+        "title": "Plan manageable removal sections",
+        "text": "A saturated covering can be difficult to handle and may conceal sharp fragments. We will establish the approved area and protected route, then select a controlled cutting or sectioning method appropriate to the condition. Retained belongings and inspection samples remain outside the waste load."
+      },
+      {
+        "title": "Remove the backing and perimeter remnants",
+        "text": "Approved carpet and unsuitable padding will be contained for transfer rather than dragged through retained rooms. Tack strips, staples or bonded remnants need an explicit removal decision and suitable handling. We will collect reachable loose fragments left by the work, while suspect materials receive appropriate evaluation before disturbance."
+      },
+      {
+        "title": "Review the base after the covering is gone",
+        "text": "The exposed substrate may still need soot cleaning, drying or repair. We will identify those tasks and any inaccessible section before replacement flooring is planned. Clearing the covering is not a finding that the support is sound or that odor treatment is complete."
+      }
+    ],
+    "estimate": "Wet material weight, attachment, sharp debris and the carrying route affect labor and disposal. Substrate restoration and new flooring are separately scoped.",
+    "checklist": [
+      "Identify floor coverings approved for removal.",
+      "Share site-release and inspection status.",
+      "List retained contents and access restrictions."
+    ]
+  },
+  "fire-damaged-contents-cleaning/haltom-city": {
+    "intro": "Fire damaged contents cleaning in Haltom City can involve table lamps whose shades and bases have different smoke and heat exposure. We will separate cleanable exterior material from fabric, wiring and enclosed electrical components before proposing recovery.",
+    "sections": [
+      {
+        "title": "Evaluate the base and shade individually",
+        "text": "A ceramic or metal base may permit surface treatment while a fabric shade has absorbent layers or heat damage. We will inspect accessible condition and identify cracks, loose parts or fragile finishes before handling. Shade retention will not be inferred from a useful result on the base."
+      },
+      {
+        "title": "Clean accepted exterior components",
+        "text": "With appropriate electrical precautions and any required qualified disconnection, suitable loose-residue collection and compatible cleaning will address included exterior faces and details. Detachable pieces will remain associated with the lamp. No wet process or tool will be introduced into electrical internals as ordinary contents cleaning."
+      },
+      {
+        "title": "Separate return condition from operating approval",
+        "text": "We will record remaining staining, odor, breakage or shade-replacement needs after treatment. An appropriate electrical provider evaluates wiring, sockets and operation before reuse. Cleaned items will be appropriately dry and protected, with unresolved electrical status kept distinct from completed exterior work."
+      }
+    ],
+    "estimate": "Lamp material, fragile parts, shade construction and electrical evaluation needs affect the estimate. Shade replacement, wiring repair and operation checks are separate from surface cleaning.",
+    "checklist": [
+      "Identify lamps and removable shades to evaluate.",
+      "Describe heat, smoke and response-water exposure.",
+      "Note valuable finishes or existing electrical-inspection findings."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/haltom-city": {
+    "intro": "Fire extinguisher residue cleanup in Haltom City may involve dry chemical powder inside an electrical outlet or switch opening near the discharge area. Surface dust can be cleaned as part of a defined scope, while electrical components need inspection before they are cleaned or energized.",
+    "sections": [
+      {
+        "title": "Identify the powder and mark electrical openings",
+        "text": "We review the extinguisher label or product information and note outlets, switches, and equipment exposed to discharge. The label helps identify the agent but does not establish how it behaves on every material. We keep residue in electrical openings untouched until the appropriate electrical provider evaluates them."
+      },
+      {
+        "title": "Clean surrounding surfaces with controlled collection",
+        "text": "Accessible wall, floor, and furnishing surfaces can be addressed using a method suited to the confirmed residue and finish. Broad dry wiping can move fine powder into seams or smear it across coatings. We define the surface boundary and identify enclosed or fragile items needing separate evaluation."
+      },
+      {
+        "title": "Coordinate electrical inspection before restoring service",
+        "text": "The record distinguishes surfaces cleaned from outlets and devices still awaiting inspection. An electrician can determine whether components need cleaning or replacement before power is restored. Residue cleanup does not confirm equipment operation or replace servicing the extinguisher."
+      }
+    ],
+    "checklist": [
+      "Extinguisher label or model information",
+      "Outlets, switches, and equipment near the discharge",
+      "Whether power has been shut off and inspected"
+    ],
+    "estimate": "Agent, surface types, openings, and equipment exposure affect scope. Building-surface cleanup, electrical service, appliance evaluation, and extinguisher replacement should be separated."
+  },
+  "emergency-board-up-after-fire/haltom-city": {
+    "intro": "Emergency board up after fire in Haltom City can need a planned pass-through when restoration equipment must exhaust through a damaged opening. We will coordinate a temporary closure that protects the remaining opening while preserving the equipment provider\u2019s required route.",
+    "sections": [
+      {
+        "title": "Define the equipment opening before closing the wall",
+        "text": "The restoration provider will identify the intended duct route and its operating requirements before temporary coverage is fitted. We will distinguish that planned opening from an accidental gap around a panel. Required building access and other ventilation restrictions must also be resolved; covering an opening must not obstruct a route another provider depends on."
+      },
+      {
+        "title": "Separate duct support from the temporary barrier",
+        "text": "A duct should not be assumed supported simply because it fits through a cutout. The agreed arrangement will provide suitable support and a compatible connection around the pass-through, with remaining gaps addressed as part of the temporary closure. Equipment movement or strain that could pull the connection loose needs correction before the setup is used; equipment selection and operation remain with its provider."
+      },
+      {
+        "title": "Close the pass-through when equipment leaves",
+        "text": "Equipment removal changes the protective condition even if the surrounding panel remains attached. We will identify the return task needed to close the vacated opening, using a suitable secured repair or replacement panel according to its condition. An open duct hole will not be counted as completed coverage, and the temporary installation does not establish permanent weatherproofing or occupancy permission."
+      }
+    ],
+    "estimate": "Equipment routing, required support, panel arrangement and the later closure task influence materials and labor. Arrival timing is confirmed for the address; equipment operation and permanent repair retain separate scopes.",
+    "checklist": [
+      "Share the restoration provider\u2019s proposed equipment route.",
+      "Identify the damaged opening and current site restrictions.",
+      "State when equipment installation and removal are expected."
+    ]
+  },
+  "crawl-space-sewage-cleanup/haltom-city": {
+    "intro": "Crawl space sewage cleanup in Haltom City can include the access hatch and its frame when contaminated water or removed waste has contacted the entry. We will define that boundary separately from the work farther beneath the floor.",
+    "sections": [
+      {
+        "title": "Inspect the entry surfaces before declaring the route clean",
+        "text": "A hatch, sill or nearby floor may have different contact from the main spill below. We will review observed exposure and inspect reachable edges, including the underside of a removable panel. Areas merely near the entry will not automatically be included as contaminated."
+      },
+      {
+        "title": "Treat the contacted opening and handling area",
+        "text": "Reachable wastewater and soil will be collected, with specified unsuitable porous edging or panel material contained for removal. Suitable retained surfaces will be physically cleaned before appropriate disinfection. The transfer arrangement will protect unaffected areas, and accessible handling residue will be collected as work progresses rather than left for ordinary housekeeping."
+      },
+      {
+        "title": "Restore the hatch after its supporting edge is resolved",
+        "text": "We will check suitable retained wood for moisture and arrange drying where needed. Swollen panels, weakened fastener points or inaccessible contacts require repair or access decisions before the opening is closed. Entry cleanup will be documented separately from the spill boundary, source repair and any unfinished work beneath the building."
+      }
+    ],
+    "estimate": "Hatch construction, observed contact, access and panel condition influence the scope. Work beyond Go Green\u2019s authority is referred to an appropriately licensed provider, identified before work begins.",
+    "checklist": [
+      "Describe the access opening and any known contact there.",
+      "Share the sewage source and repair status.",
+      "Provide existing photographs without entering the affected space."
+    ]
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/hickory-creek": {
+    "intro": "Emergency water extraction in Hickory Creek can involve water beneath a raised access floor whose removable panels stand on individual supports. We will arrange a safe panel-opening sequence and collect from the base below rather than treat extraction across the panel tops as completion.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Hickory Creek: establish the usable floor before lifting panels",
+        "text": "The floor-system and electrical providers identify panel handling, concealed services and the sections that can be opened. Removed panels can leave unsupported edges or a fall opening. The access route and equipment positions are established on suitable support before collection begins."
+      },
+      {
+        "title": "Recover water from the lower compartments",
+        "text": "Approved panels are lifted with suitable handling and kept supported outside the collection route. Equipment reaches the exposed base and separately serves areas divided by pedestals, partitions or cables. Services are not dragged through the water or moved as ordinary extraction access."
+      },
+      {
+        "title": "Evaluate the panels and their supports before reset",
+        "text": "Panel undersides, absorbent cores and pedestal contacts receive separate cleaning, drying or replacement decisions. A dry top face cannot establish the condition below it. The floor installer resolves softened panels, corroded supports and secure seating before the walking surface returns."
+      }
+    ],
+    "estimate": "Panel construction, underfloor services and safe opening limits affect equipment and labor. Electrical service and access-floor repair are separate.",
+    "checklist": [
+      "Share access-floor and concealed-service information.",
+      "Identify panels already lifted or damaged.",
+      "Describe the source and water visible at existing openings."
+    ]
+  },
+  "burst-pipe-cleanup/hickory-creek": {
+    "intro": "Burst pipe cleanup in Hickory Creek can follow a hot-water line failure that leaves both wet material and heat-related finish damage. We will coordinate safe entry and source control before separating what can dry from coatings or bonded layers that no longer remain sound.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Hickory Creek: establish safe conditions before collecting hot liquid",
+        "text": "The plumbing provider isolates the release and establishes the relevant system restrictions. The response accounts for liquid temperature, steam and affected electrical equipment before entry or handling. Room access is not based solely on whether the pipe has stopped flowing."
+      },
+      {
+        "title": "Collect the release and examine softened layers",
+        "text": "Suitable collection equipment recovers reachable liquid under the established conditions. Loose flooring, softened adhesive or a changed cabinet finish receives its own material evaluation before tools or hoses pass across it. Approved unsuitable layers are removed with debris collection, exposing retained surfaces for cleaning and drying."
+      },
+      {
+        "title": "Separate lower moisture from recovery of the finish",
+        "text": "Repeated material checks guide drying, while the finish provider evaluates loss of bond, blistering or distortion. Those changes are not promised to reverse as the assembly cools or dries. Plumbing return to service and replacement coatings follow their separate requirements."
+      }
+    ],
+    "estimate": "Temperature restrictions, finish changes and affected layers influence access and recovery. Hot-water system repair and refinishing are separate.",
+    "checklist": [
+      "Identify the hot-water source and isolation findings.",
+      "Describe steam or changed finishes from a safe location.",
+      "Share plumbing service and earlier extraction information."
+    ]
+  },
+  "appliance-leak-cleanup/hickory-creek": {
+    "intro": "Appliance leak cleanup in Hickory Creek can involve continued meltwater from an iced freezer after power has been disconnected. Stopping the equipment does not remove the ice still inside it. We will coordinate controlled collection during appliance service so a second flow does not rewet the floor already being dried.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Hickory Creek: account for the water still held as ice",
+        "text": "The appliance provider identifies the defrost and drain arrangement and controls access to the equipment. Ice is not chipped away from coils or heated as an improvised restoration step. The collection plan accounts for water released during the provider’s work, not only the puddle present at arrival."
+      },
+      {
+        "title": "Collect meltwater while exposing the floor contact",
+        "text": "Reachable room water is extracted and subsequent discharge is collected in the agreed arrangement. Authorized appliance movement exposes the footprint for cleaning, moisture checks and removal of specified unsuitable floor layers. Stored food and internal appliance sanitation remain separate from building treatment."
+      },
+      {
+        "title": "Keep drying separate from the end of defrosting",
+        "text": "Retained floor and wall material receives monitored drying while the appliance provider confirms the remaining source tasks. Fresh meltwater is recorded as renewed wetting and collected before the setup is adjusted. A quiet or unplugged freezer is not the endpoint for floor restoration."
+      }
+    ],
+    "estimate": "Ice remaining, service access and the floor construction affect collection. Defrost servicing, food decisions and appliance repair are separate.",
+    "checklist": [
+      "Share appliance findings and whether defrosting is still underway.",
+      "Describe water appearing after power was disconnected.",
+      "Identify flooring and the accessible appliance footprint."
+    ]
+  },
+  "storm-water-damage-cleanup/hickory-creek": {
+    "intro": "Storm water damage cleanup in Hickory Creek can involve runoff mixed with spilled garage products, leaving a separate oily film after the water recedes. We will identify the reported products and establish suitable collection before washing spreads the mixed residue into clean floor areas.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Hickory Creek: identify the mixed release",
+        "text": "Product containers and available incident information help the responsible provider determine handling requirements. An unidentified spill or condition outside ordinary restoration needs the appropriate specialist. The liquid is not treated as routine rainwater simply because it entered during a storm."
+      },
+      {
+        "title": "Recover the mixture without washing it through the garage",
+        "text": "Under the agreed handling plan, suitable equipment and absorbent materials collect accessible liquid and residue for the assigned disposal route. Contaminated absorbent building layers receive separate removal decisions. Accepted hard surfaces are physically cleaned with a compatible process and the resulting liquid recovered rather than pushed toward a yard or drain."
+      },
+      {
+        "title": "Check the film and wet building material separately",
+        "text": "A surface can remain slippery or coated after standing water is gone. Remaining residue needs further compatible treatment or a material decision before retained wet wall bases and floor edges proceed through drying. Product-spill handling, exterior drainage correction and finish repair retain distinct scopes."
+      }
+    ],
+    "estimate": "Product identification, mixed residue and disposal requirements determine scope. Specialist spill response may be needed before ordinary building restoration.",
+    "checklist": [
+      "Identify products stored in the contacted area without handling damaged containers.",
+      "Share storm-entry and spill-response findings.",
+      "Describe prior washing and where collected liquid was discharged."
+    ]
+  },
+  "structural-drying-services/hickory-creek": {
+    "intro": "Structural drying services in Hickory Creek can require distinguishing moisture in a wall from a meter response caused by concealed metal lath or fasteners. We will identify the assembly and establish suitable measurement locations before extending demolition or declaring drying complete.",
+    "sections": [
+      {
+        "title": "Structural drying services in Hickory Creek: verify what a high reading represents",
+        "text": "A broad scan can locate an area for investigation without identifying every material behind the face. Available openings and construction information help distinguish wet backing from nearby metal. We will use checks suited to the actual material rather than interpret every repeated high signal as trapped water."
+      },
+      {
+        "title": "Dry the confirmed wet material through usable access",
+        "text": "Approved removal of unsuitable covering or wet insulation exposes the retained components that need treatment. Reachable liquid and debris are collected, then air movement and dehumidification are arranged around those components. Utilities and metal supports are not cut simply to create another test point."
+      },
+      {
+        "title": "Compare like materials as drying progresses",
+        "text": "Repeat observations use identified material and measurement locations, with appropriate reference areas where available. A stubborn reading at a metal corner does not by itself justify removing more wall. Conversely, a dry finish face cannot close an unresolved wet backing area; the handoff states what the checks actually established."
+      }
+    ],
+    "estimate": "Wall construction, suitable measurement access and confirmed wet material determine the drying setup. Finish repair and separate installation testing are excluded unless specified.",
+    "checklist": [
+      "Share wall-construction details and existing openings.",
+      "Provide previous readings with their locations if available.",
+      "Describe the source repair and layers already removed."
+    ]
+  },
+  "floor-water-damage-cleanup/hickory-creek": {
+    "intro": "Floor water damage cleanup in Hickory Creek can involve water beneath tile installed over an uncoupling membrane. The tile, mortar-filled recesses, membrane and substrate are distinct layers; lifting a tile may damage the membrane that would otherwise be needed for the repair.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Hickory Creek: identify the membrane before selecting an opening",
+        "text": "Product information and an accessible edge guide the flooring provider’s access plan. Grout lines are not assumed to provide a drainage route through the bonded assembly. Any embedded heating or other concealed service requires its qualified access restrictions before cutting."
+      },
+      {
+        "title": "Expose the wet layers and collect material from the recesses",
+        "text": "Approved tile and unsuitable bonded layers are removed in controlled sections, with liquid and mortar debris collected as the base becomes reachable. Suitable retained substrate receives cleaning and moisture checks. A clean membrane face does not establish the condition of its bonded underside."
+      },
+      {
+        "title": "Separate dry substrate from a reusable membrane",
+        "text": "Drying is monitored at the exposed retained material. Torn fleece, detached bonding or a damaged membrane requires the installer’s repair decision even after moisture is resolved. Replacement must follow the selected system’s connection requirements rather than setting a tile back over an access-damaged patch."
+      }
+    ],
+    "estimate": "Tile bond, membrane construction and substrate access affect removal. System reinstatement and tile matching are separate flooring work.",
+    "checklist": [
+      "Share tile-system or membrane product information.",
+      "Identify loose tile and any openings already made.",
+      "Report source correction and concealed heating if known."
+    ]
+  },
+  "ceiling-water-damage-cleanup/hickory-creek": {
+    "intro": "Ceiling water damage cleanup in Hickory Creek can follow a bathroom leak that has left water on top of a suspended ceiling’s plastic vapor sheet. We will inspect the sheet and the cavity above it before opening the ceiling, since puncturing it can release pooled water into the room.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Hickory Creek: locate pooled water above the membrane",
+        "text": "The leak source is corrected and the ceiling assembly identified. We establish a controlled collection point and support the membrane before releasing water; no unplanned puncture is made over occupied space."
+      },
+      {
+        "title": "Drain and remove affected layers in a controlled order",
+        "text": "Pooled liquid is collected, then wet insulation and damaged board are removed within the approved boundary. The framing and membrane edges are inspected for retained moisture or tears."
+      },
+      {
+        "title": "Dry the cavity before closing the ceiling",
+        "text": "Drying checks include the upper cavity and adjacent framing. A torn vapor layer or plumbing defect receives the responsible trade’s repair before ceiling replacement."
+      }
+    ],
+    "estimate": "Membrane layout, pooled volume and ceiling access affect the work. Plumbing and ceiling reconstruction are separate.",
+    "checklist": [
+      "Share source-repair details.",
+      "Describe ceiling type and any membrane visible.",
+      "Identify fixtures or rooms below the leak."
+    ]
+  },
+  "bathroom-mold-removal/hickory-creek": {
+    "intro": "Bathroom mold removal in Hickory Creek can involve reported residue from a jetted tub as well as suspected growth on building material behind its access panel. Those findings need separate evaluation: servicing the water-circulation system does not remediate a wet wall, and wall cleaning does not treat the internal jet piping.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Hickory Creek: distinguish the equipment concern from the building finding",
+        "text": "The tub-service provider evaluates the jet circuit, pump and operating restrictions. Assessment findings and accessible moisture observations define any building-material remediation. Residue emerging from a jet alone does not justify opening an otherwise unexamined wall."
+      },
+      {
+        "title": "Treat the released access compartment",
+        "text": "After qualified service access is established, the remediation provider contains specified unsuitable porous backing or insulation for removal. Suitable reachable framing and the included exterior surfaces receive particle collection and compatible physical cleaning. Internal hoses, pump parts and circulation passages remain in the tub provider’s service scope."
+      },
+      {
+        "title": "Keep the service opening usable through completion",
+        "text": "Source correction, drying and applicable independent evaluation precede reconstruction. The installer restores a removable panel that permits the required pump and connection access instead of sealing the compartment permanently. Equipment return to operation is determined separately from the building treatment result."
+      }
+    ],
+    "estimate": "Tub construction, assessment findings and service access affect the scope. Internal jet-system servicing and equipment replacement are separate. Go Green’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner, with credentials and scope confirmed and the provider identified before work.",
+    "checklist": [
+      "Describe jet discharge and wall findings separately.",
+      "Share assessment and tub-service information.",
+      "Identify the access panel and any backing already removed."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/hickory-creek": {
+    "intro": "Kitchen cabinet mold removal in Hickory Creek can require access behind a lift-up cabinet door operated by a counterbalanced mechanism. The door and spring hardware need controlled support before detachment; they cannot be treated like a loose shelf pulled out for cleaning.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Hickory Creek: release the door through its installer’s method",
+        "text": "The cabinet provider identifies the lift mechanism and supports or releases it according to its requirements. A heavy door is not left hanging on one arm while the other mounting is opened. Assessment findings determine which cabinet contacts need treatment after that access is available."
+      },
+      {
+        "title": "Clean exposed mounting faces and decide on concealed hardware",
+        "text": "The remediation provider packages specified unsuitable porous cabinet material and physically cleans suitable exposed box and mounting surfaces. Reachable hardware receives compatible treatment only within the permitted access. Deposits inside a closed spring or pivot housing require a service or replacement decision rather than spraying cleaner into it."
+      },
+      {
+        "title": "Restore the mounting before adjusting door travel",
+        "text": "Source correction, drying and applicable independent evaluation precede refitting. The cabinet provider resolves weakened screw seats and reinstalls the mechanism with its required adjustment. A cleaned door cannot return to a damaged mounting that no longer controls its weight or travel."
+      }
+    ],
+    "estimate": "Lift construction, supported removal and cabinet-core condition affect treatment. Mechanism servicing, adjustment and repair are separate. Go Green’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner, with credentials and scope confirmed and the provider identified before work.",
+    "checklist": [
+      "Provide the cabinet or lift-mechanism information if available.",
+      "Identify the affected mounting surfaces.",
+      "Share moisture history and assessment findings."
+    ]
+  },
+  "mold-remediation-after-water-damage/hickory-creek": {
+    "intro": "Mold remediation after water damage in Hickory Creek may involve growth on the underside of a stair landing where a bathroom overflow soaked the ceiling below. We will assess both sides of the floor assembly and establish stair restrictions before opening the affected ceiling.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Hickory Creek: map the connected floor cavity",
+        "text": "Assessment findings guide the affected floor and ceiling surfaces; a qualified provider evaluates any concern about the stair support. Containment and overhead removal may require closing the stair. An appropriate access arrangement must be established before work blocks the route between floors."
+      },
+      {
+        "title": "Contain removal above the restricted stair area",
+        "text": "Affected ceiling board and insulation are removed in controlled sections. The upper floor finish is checked at accessible edges; removal does not extend into sound flooring without evidence and approval."
+      },
+      {
+        "title": "Clean exposed framing and verify hidden edges",
+        "text": "Suitable reachable framing receives particle collection and physical cleaning, with attention to joist ends and blocking around the landing. Source correction, drying and any applicable independent evaluation precede enclosure. Stair-support repair and return to use remain separate decisions rather than consequences of a clean ceiling cavity."
+      }
+    ],
+    "estimate": "Stair access, floor construction and the connected cavity affect the containment plan. Go Green’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner, with credentials and scope confirmed and the provider identified before work.",
+    "checklist": [
+      "Describe the stair route and bathroom source.",
+      "Share any floor or ceiling openings.",
+      "Identify source correction and prior cleanup."
+    ]
+  },
+  "mold-removal-behind-drywall/hickory-creek": {
+    "intro": "Mold removal behind drywall in Hickory Creek may be needed when a capped plumbing leak left growth on the back of a wallboard section beside a shower niche. We will open enough of the wall to expose the niche framing and waterproofing transition, not stop at the visible stain.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Hickory Creek: locate the niche transition",
+        "text": "The leak repair and shower-wall construction are reviewed before cutting. The niche’s waterproofing layer may extend beyond the stained room-side board, so the opening follows the assembly detail and observed moisture."
+      },
+      {
+        "title": "Remove affected board while protecting the shower assembly",
+        "text": "Affected board is removed and contained without cutting through the waterproofing membrane blindly. If the membrane or substrate is compromised, a tile or waterproofing provider defines the repair boundary."
+      },
+      {
+        "title": "Clean the exposed cavity before wall repair",
+        "text": "Suitable exposed framing receives particle collection and physical cleaning around the niche corners. Source correction, drying and any applicable independent evaluation precede closure. The waterproofing provider establishes the repair connection; a clean room-side cavity cannot certify the shower membrane."
+      }
+    ],
+    "estimate": "Niche construction, tile attachment and concealed membrane condition affect access. Go Green’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner, with credentials and scope confirmed and the provider identified before work.",
+    "checklist": [
+      "Share shower installation or leak-repair findings.",
+      "Identify tile and niche locations.",
+      "Describe previous wall opening or treatment."
+    ]
+  },
+  "kitchen-fire-cleanup/hickory-creek": {
+    "intro": "Kitchen fire cleanup in Hickory Creek can involve smoke deposits on an unfinished or oiled butcher-block counter. Removing visible residue, recovering the wood finish and deciding on future food-contact use are separate tasks. We will evaluate the surface and joints before accepting a cleaning method.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Hickory Creek: identify the finish and depth of damage",
+        "text": "Product information and a limited compatible trial help distinguish removable deposits from scorching, coating changes or absorbed staining. Open end grain and glue joints can respond differently from the broad face. The counter is not assumed washable like a sealed stone or laminate surface."
+      },
+      {
+        "title": "Collect residue without saturating the wood",
+        "text": "Suitable loose-particle collection precedes controlled, material-compatible cleaning of accepted surfaces, with released residue recovered. Liquids are kept out of open joints and cutouts as the method requires. Charred or deeply affected material needs a repair or replacement decision rather than repeated wet scrubbing."
+      },
+      {
+        "title": "Let the refinisher decide whether the working surface can be restored",
+        "text": "Sanding or planing changes thickness and can affect sink edges, joints and fit, so that work needs a separate supported proposal. Appropriate drying and the selected finish’s preparation and curing requirements precede return to use. Cleaning alone is not a blanket food-contact suitability claim."
+      }
+    ],
+    "estimate": "Wood construction, finish, absorbed damage and joint condition affect recovery. Refinishing, replacement and food-contact decisions are separately identified.",
+    "checklist": [
+      "Share the counter’s wood and finish information.",
+      "Describe scorching, open joints and prior cleaners.",
+      "Identify sink cutouts or edges within the affected area."
+    ]
+  },
+  "smoke-damage-cleanup/hickory-creek": {
+    "intro": "Smoke damage cleanup in Hickory Creek can involve residue on the room-facing surface of an acrylic skylight. A cleaner suited to ordinary glass may damage plastic glazing, while dry rubbing can scratch a soot-covered face. We will identify the glazing and access method before treatment.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Hickory Creek: establish the plastic glazing and its condition",
+        "text": "Product guidance and the skylight provider’s findings determine compatible cleaning and whether the unit can remain in place. Cracking, crazing or heat distortion requires a separate glazing decision. Safe overhead access is established without placing weight on the skylight or using it as a support."
+      },
+      {
+        "title": "Remove accepted residue with a compatible process",
+        "text": "Suitable loose-particle collection and a limited approved treatment precede wider cleaning. Tools and cloths are kept appropriate to the scratch-sensitive surface, and released residue is recovered without flooding frame joints. A dull patch caused by surface damage will not be repeatedly scrubbed as if it were loose soot."
+      },
+      {
+        "title": "Review the frame and glazing separately",
+        "text": "Included reachable frame and ceiling details receive their own material-compatible cleanup. Moisture from firefighting or cleaning is addressed before trim returns. Replacement of damaged acrylic and repair of seals remain with the glazing provider rather than being implied by a clearer room-facing surface."
+      }
+    ],
+    "estimate": "Glazing identity, scratch sensitivity and overhead access affect treatment. Skylight replacement and exterior sealing are separate.",
+    "checklist": [
+      "Share skylight product information if available.",
+      "Describe cracks, haze and heat exposure.",
+      "Identify cleaners or tools already used."
+    ]
+  },
+  "toilet-overflow-cleanup/hickory-creek": {
+    "intro": "Toilet overflow cleanup in Hickory Creek can include a household wet vacuum used during the initial response and then set on another floor. Wastewater may remain in its tank, hose or filter after the bathroom puddle is gone. We will identify those contacts while separating equipment recovery from building cleanup.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Hickory Creek: locate the original spill and later equipment contacts",
+        "text": "Plumbing findings establish the reported release and source correction. We will document where the vacuum was used, emptied or stored without running it to demonstrate operation. The manufacturer or suitable equipment provider determines whether its internal parts can be recovered or require disposal."
+      },
+      {
+        "title": "Contain remaining waste before moving the equipment",
+        "text": "Any agreed transfer or emptying follows an appropriate controlled handling arrangement so retained wastewater does not leak along the route. Equipment treatment is explicitly assigned; an exterior wipe does not clean its hose, filter or motor area. Specified contaminated porous building material is packaged for removal."
+      },
+      {
+        "title": "Clean both the bathroom and verified transfer areas",
+        "text": "Reachable wastewater and soil are collected from affected building surfaces, followed by appropriate label-directed disinfection of suitable retained hard material. Retained wet substrate receives drying checks. An additional equipment-storage contact gets its own treatment rather than being included in a claim that only the original bathroom was cleaned."
+      }
+    ],
+    "estimate": "Original contact, equipment handling and any secondary spill determine scope. Vacuum recovery or disposal and plumbing repair are separate.",
+    "checklist": [
+      "Describe where the vacuum was used, emptied and stored.",
+      "Identify the model and filter arrangement if known.",
+      "Share the overflow source and any later leakage."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/hickory-creek": {
+    "intro": "AC leak water damage cleanup in Hickory Creek may follow condensate backing up into a ceiling cassette unit with a drain pan above a finished ceiling. We will coordinate system shutdown and access to the pan before removing ceiling material beneath active equipment.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Hickory Creek: stop condensate and access the pan",
+        "text": "The HVAC provider establishes isolation, pan access and any equipment movement. The cassette’s independent suspension and nearby services are identified before opening the ceiling. Neither the unit nor its connections are used to support protection or drying equipment."
+      },
+      {
+        "title": "Collect water from the cassette and ceiling cavity",
+        "text": "The HVAC provider handles water retained within the equipment; restoration collects accessible water in the released building cavity. Specified unsuitable insulation and ceiling material are removed, and suitable exposed framing receives cleaning and moisture checks. Equipment service does not establish the condition above the decorative cassette surround."
+      },
+      {
+        "title": "Dry retained materials after drain correction",
+        "text": "Moisture checks continue after drain correction. HVAC service and ceiling restoration are coordinated as separate work so the cavity is not closed around a recurring overflow."
+      }
+    ],
+    "estimate": "Unit access, ceiling support and drain routing affect labor. HVAC repair and ceiling reconstruction are separate.",
+    "checklist": [
+      "Share HVAC diagnosis and shutdown status.",
+      "Identify cassette location and ceiling type.",
+      "Report prior condensate clearing."
+    ]
+  },
+  "crawl-space-water-removal/hickory-creek": {
+    "intro": "Crawl space water removal in Hickory Creek can involve fine silt suspended in shallow water over soft ground. Collection must suit that mixture and the ground supporting the building. We will recover reachable water and assigned sediment without turning routine extraction into uncontrolled excavation.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Hickory Creek: separate suspended material from the supporting ground",
+        "text": "Safe access and source findings establish the reachable work area. The collection method accounts for sediment rather than assuming a clear-water pickup will handle the mixture. Erosion, voids or support concerns require the appropriate qualified evaluation before further disturbance."
+      },
+      {
+        "title": "Collect the mixture without scouring a new pit",
+        "text": "Suitable equipment and inlet placement recover the accessible water and assigned loose material while limiting disturbance of the ground below. Sediment that requires separate collection is contained for the agreed disposal route. We will not dig around a footing simply to create a deeper intake location."
+      },
+      {
+        "title": "Inspect the exposed ground and underside after collection",
+        "text": "Remaining deposited silt and standing water receive separate observations, including areas the initial inlet did not serve. Ground removal beyond the approved loose deposit needs its own evaluated boundary. Reachable wet wood and insulation are assessed for drying or removal, while permanent drainage and ground repair remain separately assigned."
+      }
+    ],
+    "estimate": "Silt load, ground stability, clearance and disposal affect collection. Foundation evaluation and excavation are separate from temporary water removal.",
+    "checklist": [
+      "Describe sediment and water from a safe location.",
+      "Share source and foundation findings if available.",
+      "Identify previous pumping, digging or ground disturbance."
+    ]
+  },
+  "attic-mold-remediation/hickory-creek": {
+    "intro": "Attic mold remediation in Hickory Creek can involve a stapled radiant-barrier sheet across the faces that need treatment. Releasing a broad sheet can drag its dirty underside across retained insulation or leave strips pinched beneath attachments. The removal plan must control the sheet itself as well as expose the wood.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Hickory Creek: identify attachments and the removal path",
+        "text": "Assessment findings define the wood and covering included in treatment. The installer identifies attachment lines, overlapping sheets and service conflicts before release. Electrical conflicts require qualified resolution; the foil is not pulled blindly across wiring or cut around an unidentified service."
+      },
+      {
+        "title": "Release manageable sections into containment",
+        "text": "Under remediation controls, approved sections are supported and released into contained handling rather than pulled loose as one trailing sheet. The provider collects affected offcuts and resolves strips held beneath accessible staples or overlapping edges. Specified unsuitable covering is packaged, and suitable exposed wood receives particle collection and physical cleaning before another sheet conceals it."
+      },
+      {
+        "title": "Resolve retained sheet edges before restoring the assembly",
+        "text": "A retained overlap needs treatment of its included concealed contact, not merely a clean reflective face. Source correction, drying and applicable independent evaluation precede reinstatement. The installer restores the specified placement, attachments and air space without covering untreated trapped strips or using torn foil as the receiving edge."
+      }
+    ],
+    "estimate": "Barrier attachment, service conflicts and concealed wood affect access. Radiant-barrier installation and roof repairs are separate. Go Green’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner, with credentials and scope confirmed and the provider identified before work.",
+    "checklist": [
+      "Share assessment findings and visible barrier arrangement.",
+      "Identify sheets already moved or torn.",
+      "Provide source-repair and installer information."
+    ]
+  },
+  "crawl-space-mold-remediation/hickory-creek": {
+    "intro": "Crawl space mold remediation in Hickory Creek may involve growth on the underside of floor joists above a sagging belly wrap. We will support and open the loose wrap in controlled sections so contaminated debris is not dropped onto stored equipment or spread through the crawl space.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Hickory Creek: assess the loose floor wrap",
+        "text": "Safe access and structural conditions are established before disturbing the sagging material. Stored items below are cleared or protected, and the work area is contained for controlled debris handling."
+      },
+      {
+        "title": "Remove contaminated wrap in manageable sections",
+        "text": "The wrap is lowered in sections with residue and insulation collected together where appropriate. The joist faces and blocking are exposed rather than left hidden behind folded material."
+      },
+      {
+        "title": "Clean joists and review the moisture source",
+        "text": "Suitable exposed joist faces and blocking receive particle collection and physical cleaning. Source correction, drying and any applicable independent evaluation precede replacement. The installer restores the specified wrap and insulation without folding untreated material back into the underside."
+      }
+    ],
+    "estimate": "Crawl clearance, wrap condition and stored contents affect access. Go Green’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner, with credentials and scope confirmed and the provider identified before work.",
+    "checklist": [
+      "Describe crawl height and stored items.",
+      "Share plumbing or ground-moisture findings.",
+      "Identify insulation or wrap already removed."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/hickory-creek": {
+    "intro": "Mold contaminated contents cleaning in Hickory Creek may involve a fabric sofa with removable cushion covers but a fixed foam deck. We will assess the cover seams and the concealed deck separately, since laundering the covers does not treat growth embedded in foam.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Hickory Creek: inspect removable covers and fixed foam",
+        "text": "The upholstery provider or conservator reviews fabric care, dye stability and frame construction before covers are removed. The fixed deck is inspected through existing access where possible."
+      },
+      {
+        "title": "Clean recoverable surfaces and remove unsuitable components",
+        "text": "Accepted covers are cleaned with a compatible process; affected foam that cannot be cleaned is removed and contained if the frame remains suitable. The exposed frame receives material-compatible physical cleaning."
+      },
+      {
+        "title": "Decide whether the sofa can return to use",
+        "text": "Items dry separately and are reassessed before reassembly. Foam replacement and upholstery work are identified as separate decisions; a clean cover is not proof that the sofa interior is recoverable."
+      }
+    ],
+    "estimate": "Fabric, foam accessibility and frame condition affect recovery. Go Green’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner, with credentials and scope confirmed and the provider identified before work.",
+    "checklist": [
+      "Share care labels and fabric details.",
+      "Identify removable and fixed cushion parts.",
+      "Flag sentimental or high-value items before handling."
+    ]
+  },
+  "fire-damaged-debris-removal/hickory-creek": {
+    "intro": "Fire damaged debris removal in Hickory Creek can involve damaged batteries or pressurized containers discovered among ordinary burned garage contents. Those items cannot enter the routine debris load with broken shelves or wallboard. We will keep the removal boundary intact while the appropriate specialist determines their handling.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Hickory Creek: resolve special items before routine loading",
+        "text": "Site-release information and the accessible inventory guide the first removal stage. Suspected damaged batteries or cylinders are left for qualified evaluation and removal rather than crushed, opened or tested by the debris crew. Nearby ordinary waste may also need to remain undisturbed until that provider releases the area."
+      },
+      {
+        "title": "Collect released building debris in separate loads",
+        "text": "After the special-item restriction is resolved, approved ordinary debris is contained and transferred using packaging suited to its weight and sharp edges. Retained belongings and specialist-managed waste stay outside that load. Fine fragments are collected rather than swept back into an unidentified pile."
+      },
+      {
+        "title": "Inspect the cleared footprint for remaining residue",
+        "text": "The newly exposed floor receives a separate review for soot, liquid or other deposits. An unidentified spill may require further specialist work before ordinary surface cleaning. The handoff distinguishes released debris removal from hazardous-item handling, retained-surface cleanup and reconstruction."
+      }
+    ],
+    "estimate": "Special-item evaluation, released access and waste segregation affect the sequence. Specialist handling and disposal are separately assigned.",
+    "checklist": [
+      "Share site-release and specialist restrictions.",
+      "Identify known batteries or cylinders from an already safe location.",
+      "List ordinary debris approved for removal and items to retain."
+    ]
+  },
+  "fire-damaged-contents-cleaning/hickory-creek": {
+    "intro": "Fire damaged contents cleaning in Hickory Creek may involve a wooden dresser with smoke residue inside its drawer runners and a heat-warped top veneer. We will decide whether the drawer hardware can be removed and whether the finish can tolerate cleaning before treating the exterior as recoverable.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Hickory Creek: inspect the runners and veneer",
+        "text": "The furniture conservator reviews veneer adhesion, finish type and runner construction. Heat distortion or loose veneer can make ordinary wiping destructive, and drawers are not forced from a swollen carcass."
+      },
+      {
+        "title": "Clean reachable residue without lifting unstable finish",
+        "text": "Approved drawers are removed and residue collected from runners and interior corners. Compatible cleaning reaches stable surfaces; loose finish or damaged substrate is referred for conservation rather than scrubbed through."
+      },
+      {
+        "title": "Separate contents cleaning from furniture repair",
+        "text": "The dresser is dried and checked for remaining residue before hardware is reset. Veneer repair and finish matching are separate restoration tasks."
+      }
+    ],
+    "estimate": "Finish stability, drawer access and heat damage determine recovery. Conservation and refinishing are separate.",
+    "checklist": [
+      "Share furniture material and finish details.",
+      "Identify drawers that bind or veneer that lifts.",
+      "Describe prior cleaning attempts."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/hickory-creek": {
+    "intro": "Fire extinguisher residue cleanup in Hickory Creek can involve dry-chemical agent that became a damp cake after contact with response water. The remaining crust needs a method based on the actual agent and surface; it cannot automatically be brushed away like loose powder or treated as ordinary soot.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Hickory Creek: identify the agent and earlier water contact",
+        "text": "The extinguisher label and response history guide compatibility and collection decisions. We will distinguish loose dry deposits from wet material and bonded crust. An unidentified agent or mixture needing specialist evaluation is resolved before another cleaner is applied."
+      },
+      {
+        "title": "Recover loose and caked material by their condition",
+        "text": "Appropriate collection addresses the loose fraction, while accepted damp deposits are lifted or cleaned with a compatible controlled method. Released material and liquid are recovered instead of flushed into floor seams. Abrasion that removes a coating along with the crust calls for a different repair decision."
+      },
+      {
+        "title": "Check the contacted base after the deposit is removed",
+        "text": "Porous backing, metal and coated finishes have separate recovery limits once exposed. Residue that moved into an inaccessible joint needs further access or replacement evaluation, not a clean-surface claim. Drying and any corrosion or finish repair remain distinct from bulk-agent collection."
+      }
+    ],
+    "estimate": "Agent identity, moisture exposure and adhesion affect the process. Specialist material evaluation and refinishing are separate.",
+    "checklist": [
+      "Keep available extinguisher identification.",
+      "Describe water used during response or earlier cleanup.",
+      "Identify crusted areas, porous layers and exposed metal."
+    ]
+  },
+  "emergency-board-up-after-fire/hickory-creek": {
+    "intro": "Emergency board up after fire in Hickory Creek may be needed for a patio slider whose glass is broken while the frame remains locked in place. We will establish how the panel can be secured from the safe side without forcing the damaged door or drilling into its track.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Hickory Creek: assess frame and locking hardware",
+        "text": "Fire department release and glass hazards are confirmed. The door provider checks frame stability and whether the damaged panel can remain in place; loose shards are handled before temporary coverage is fitted."
+      },
+      {
+        "title": "Cover the opening with support that avoids the track",
+        "text": "A temporary barrier is secured to suitable surrounding structure with the track and frame protected. The solution accounts for the door’s threshold and weather exposure rather than relying on tape over broken glazing."
+      },
+      {
+        "title": "Plan removal when replacement glass is ready",
+        "text": "The glazing provider receives the attachment details and access plan for the replacement unit. Temporary board-up is revisited if weather or the repair schedule changes."
+      }
+    ],
+    "estimate": "Opening size, frame condition and safe attachment points affect materials. Door repair and replacement glazing are separate.",
+    "checklist": [
+      "Share safe photos of the frame and opening.",
+      "Identify fire release and glass hazards.",
+      "Provide the glazing provider’s timing and access needs."
+    ]
+  },
+  "crawl-space-sewage-cleanup/hickory-creek": {
+    "intro": "Crawl space sewage cleanup in Hickory Creek can require opening a wall-liner termination where wastewater collected behind the liner rather than only on its visible face. We will coordinate the release of the attachment so trapped liquid is collected before the liner is pulled away from the foundation.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Hickory Creek: locate the trapped contact before releasing the liner",
+        "text": "Source findings and accessible observations guide the liner section needing access. The liner installer identifies termination bars, sealants and any attachment that must be released. A dry room-facing sheet does not establish the condition of its concealed wall contact."
+      },
+      {
+        "title": "Capture liquid and remove the affected lining",
+        "text": "Under the cleanup controls, authorized release is sequenced with collection of reachable trapped wastewater. Specified contaminated liner and unsuitable backing are contained for disposal. Suitable exposed foundation faces and attachment recesses receive physical soil removal before appropriate label-directed disinfection."
+      },
+      {
+        "title": "Restore the liner termination on a treated base",
+        "text": "Adhesive or sealant that prevents access to a contaminated contact must be removed within the approved method or left as an unresolved treatment limit. Suitable exposed material is cleaned before appropriate disinfection. The installer reinstates the attachment and seal after cleanup, drying and source correction; a new strip must not bridge over an untreated old bond line."
+      }
+    ],
+    "estimate": "Termination construction, trapped liquid and foundation-face access determine treatment. Liner installation, foundation repair and drainage correction are separate.",
+    "checklist": [
+      "Share source correction and liner installation information.",
+      "Describe water visible behind lifted or loose edges without entering.",
+      "Identify any termination strips or sheets already removed."
+    ]
+  }
+}

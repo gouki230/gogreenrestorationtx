@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/lakewood-village": {
+    "intro": "Emergency water extraction in Lakewood Village may be needed after a dishwasher supply line leaks into the kitchen toe space and water reaches the dining threshold. The first decision is how far liquid traveled below the cabinets and across the floor joint.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Lakewood Village: Trace the cabinet toe space",
+        "text": "We will collect accessible water and inspect the toe-kick edge, floor seams and threshold. Cabinet removal or appliance disconnection requires approved access and the appropriate trade when needed."
+      },
+      {
+        "title": "Reach the water under the dishwasher",
+        "text": "Once the supply is stopped and appliance access is safe, we will extract water from the recess and exposed toe space before checking the dining-side transition. Water held against an unfinished cabinet bottom can require access beneath that panel even when the adjacent tile has no visible damage. The supply leak history and actual water condition guide which contacted layers can remain."
+      },
+      {
+        "title": "Set the drying boundary",
+        "text": "The scope will distinguish exposed hard flooring that can be cleaned and dried from swollen trim or underlayment that needs removal. We will report areas still hidden by fixed cabinets."
+      }
+    ],
+    "estimate": "Water reach, cabinet construction, appliance access and floor transitions affect extraction and drying scope.",
+    "checklist": [
+      "Share when the dishwasher line was shut off and repaired.",
+      "Point out the toe-kick and dining threshold.",
+      "Note whether cabinetry or flooring has already been opened."
+    ]
+  },
+  "burst-pipe-cleanup/lakewood-village": {
+    "intro": "Burst pipe cleanup in Lakewood Village can be needed when a split pipe above a utility-room ceiling wets the framing around a pull-down attic stair. The opening must provide access without leaving the stair assembly unsupported.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Lakewood Village: Plan access around the attic stair",
+        "text": "We will locate the pipe repair and map the ceiling marks around the stair frame. The plumber handles the line repair; the access plan accounts for the stair supports before ceiling material is cut."
+      },
+      {
+        "title": "Remove wet ceiling layers selectively",
+        "text": "After the area is safe to open, we will remove failed board and wet insulation where specified, then inspect reachable joists. If the stair frame blocks a damp section, we will mark that uninspected area rather than assume it dried."
+      },
+      {
+        "title": "Dry the stair enclosure before it closes",
+        "text": "The folded stair and its closed cover can obstruct the wet framing around the ceiling opening. With the installer’s access restrictions established, we will dry reachable timber and recheck the stair frame separately from the surrounding joists. A distorted cover or binding stair receives an installer’s repair decision; forcing it shut is not part of drying the ceiling."
+      }
+    ],
+    "estimate": "Pipe location, stair framing, ceiling height and insulation condition determine access and cleanup scope.",
+    "checklist": [
+      "Share the plumber’s repair location and status.",
+      "Identify whether the attic stair can be taken out of service.",
+      "Show any ceiling opening already made."
+    ]
+  },
+  "appliance-leak-cleanup/lakewood-village": {
+    "intro": "Appliance leak cleanup in Lakewood Village may be needed when a refrigerator drip pan overflows behind a built-in refrigerator and reaches the adjacent pantry floor. A clear kitchen path does not show whether water remains under the appliance recess.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Lakewood Village: Establish safe refrigerator access",
+        "text": "We will inspect visible edges and the supply connection area; an appliance technician or plumber handles disconnection and movement when required. We will keep the proposed work within safely accessible surfaces until the unit can be moved."
+      },
+      {
+        "title": "Expose the pan overflow footprint",
+        "text": "Once the refrigerator is safely released, we will extract water and check the recess beneath the drain pan as well as the pantry-side edge. A residue-bearing pan overflow calls for cleaning of the contacted surfaces before drying; a supply-line repair alone would not address that source. Swollen composite side panels receive a removal decision while sound accessible floor material can be retained."
+      },
+      {
+        "title": "Coordinate return of the appliance",
+        "text": "The recess and floor need their own drying checks before the refrigerator is returned. Appliance function and the cause of overflow remain a separate service decision."
+      }
+    ],
+    "estimate": "Refrigerator movement, recess dimensions, floor construction and the source repair affect the work plan.",
+    "checklist": [
+      "Share any appliance-service findings.",
+      "Identify the route water took toward the pantry.",
+      "Note whether the refrigerator can be moved safely."
+    ]
+  },
+  "storm-water-damage-cleanup/lakewood-village": {
+    "intro": "Storm water damage cleanup in Lakewood Village may be needed when wind-driven rain enters beneath a patio door and leaves water at the interior floor track. The threshold, nearby trim and wall base may hold water after the room surface is wiped.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Lakewood Village: Separate entry correction from interior cleanup",
+        "text": "We will record the door track, jamb corners and interior wet edge. A door or exterior contractor addresses the entry point; cleanup access depends on that opening being safe and the water no longer entering."
+      },
+      {
+        "title": "Inspect beneath the threshold edge",
+        "text": "Where removal is approved, we will lift the affected trim or flooring edge to check the concealed layer. Wet insulation or deteriorated wallboard may need selective removal; stable material can be retained for monitored drying."
+      },
+      {
+        "title": "Keep door drainage and floor drying separate",
+        "text": "We will dry the exposed interior layers and compare readings along the jamb and threshold during follow-up checks. The door provider evaluates the track drainage and entry correction; an interior bead of sealant must not be treated as that repair. A swollen trim end may need replacement even if the adjoining sill can remain, and new wetting after rain reopens the source investigation."
+      }
+    ],
+    "estimate": "Door construction, rain entry status, floor type and hidden wall-base conditions affect removal and drying.",
+    "checklist": [
+      "Mark where water first appeared indoors.",
+      "Share any door or exterior inspection notes.",
+      "Identify flooring and trim already removed."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/lakewood-village": {
+    "intro": "AC leak water damage cleanup in Lakewood Village may be needed when condensate backs up above a hallway and stains the ceiling beside a smoke detector. The ceiling cavity and nearby electrical device need safe access before material removal.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Lakewood Village: Coordinate HVAC and electrical access",
+        "text": "We will map the ceiling stain and note the detector location before opening. An HVAC provider diagnoses the drain fault, and an electrician handles device disconnection or inspection when needed."
+      },
+      {
+        "title": "Open the affected ceiling bay",
+        "text": "Once trades release the work area, we will remove specified wet board and insulation while keeping wiring and device mounts undisturbed. A partition or duct can divide the cavity, so we will identify portions that remain inaccessible."
+      },
+      {
+        "title": "Dry the cavity without compromising alarm coverage",
+        "text": "Exposed framing receives monitored drying while the qualified provider addresses the affected detector and wiring. If temporary detector removal is needed, the responsible provider must establish the required alarm arrangement while the ceiling remains open. A device that appears dry does not establish either its operating condition or dryness of the surrounding cavity insulation."
+      }
+    ],
+    "estimate": "Device location, ceiling assembly, condensate repair and trade access influence the work.",
+    "checklist": [
+      "Share the HVAC diagnosis and repair status.",
+      "Point out the detector and ceiling stain from a safe position.",
+      "Note whether the circuit or air handler has been shut off."
+    ]
+  },
+  "structural-drying-services/lakewood-village": {
+    "intro": "Structural drying services in Lakewood Village can help when a sink leak wets the wall behind a fixed pantry cabinet and the floor beneath its kick plate. Cabinet access determines which framing and subfloor can be measured.",
+    "sections": [
+      {
+        "title": "Structural drying services in Lakewood Village: Mark the concealed cabinet boundary",
+        "text": "We will inspect the exposed side edges and identify where the fixed cabinet prevents wall or floor access. Contents can be moved by arrangement; built-in cabinet release needs owner approval and may require a cabinet installer."
+      },
+      {
+        "title": "Expose both the cabinet backing and floor",
+        "text": "We will release approved removable panels and remove swollen backing where it cannot remain, then direct drying at the exposed wall and subfloor. Dehumidification controls room moisture while repeat material checks track the cabinet footprint. The pantry shelves can block circulation even after the toe plate is off, so an open toe space alone is not treated as access to the whole rear wall."
+      },
+      {
+        "title": "Track hidden areas separately",
+        "text": "We will record readings at accessible framing and note any cavity still unmeasured behind the cabinet. Replacement backing or cabinet parts wait until retained materials are ready and the source repair is complete."
+      }
+    ],
+    "estimate": "Cabinet attachment, leak history, wall assembly and subfloor access affect the drying method.",
+    "checklist": [
+      "Share the sink repair status and leak duration.",
+      "Identify cabinet panels that are fixed or removable.",
+      "List pantry contents that need approved movement."
+    ]
+  },
+  "floor-water-damage-cleanup/lakewood-village": {
+    "intro": "Floor water damage cleanup in Lakewood Village may be needed when a water heater leak buckles the edge of floating laminate at the closet doorway. The raised seam can conceal water beneath the boards and along the wall plate.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Lakewood Village: Expose the floor edge carefully",
+        "text": "We will inspect the buckled seam, closet jamb and nearby baseboard to choose an access point. Click-lock boards may lift differently from glued flooring; the installer can advise whether removed boards can be reset."
+      },
+      {
+        "title": "Check the underlayment and wall base",
+        "text": "With approved access, we will remove trapped water and assess the underlayment and exposed subfloor. Swollen laminate generally needs a replacement decision rather than pressing it flat; retained substrate can be dried if condition permits."
+      },
+      {
+        "title": "Separate floor access from water-heater movement",
+        "text": "A laminate run may extend beneath a fixed water heater or its drain pan. We will keep that covered portion identified and coordinate any equipment movement with the qualified trade rather than pull flooring against loaded equipment. The installer receives the actual lifted boundary and damaged locking edges before choosing replacement boards; the heater’s reconnection remains separate from substrate drying."
+      }
+    ],
+    "estimate": "Flooring system, water-heater source, underlayment and doorway transitions shape the cleanup scope.",
+    "checklist": [
+      "Share the water-heater repair status.",
+      "Identify the flooring type if known.",
+      "Show the raised seam and closet threshold."
+    ]
+  },
+  "ceiling-water-damage-cleanup/lakewood-village": {
+    "intro": "Ceiling water damage cleanup in Lakewood Village may be needed when a bathroom overflow above leaves a soft ceiling patch around a ventilation grille. The grille opening alone may not expose damp insulation or the framing edge.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Lakewood Village: Confirm safe access above the ceiling",
+        "text": "We will note the patch and grille location before removal. A plumber establishes the fixture or drain repair, and electrical or ventilation components are handled by qualified trades as appropriate."
+      },
+      {
+        "title": "Remove wet layers without sending debris into ventilation",
+        "text": "After safe access and water-contact conditions are established, we will collect reachable water and remove failed board or insulation under the agreed controls. The grille opening is protected during overhead removal, and the ventilation provider evaluates wet duct lining or components separately. A bathroom overflow involving wastewater needs a contact-based cleanup decision before drying equipment is used."
+      },
+      {
+        "title": "Check the full bay before patching",
+        "text": "We will inspect accessible framing and the cavity perimeter during drying. A dry grille face is not evidence that the insulation beyond it is ready for a ceiling repair."
+      }
+    ],
+    "estimate": "Ceiling height, fixture access, insulation and plumbing findings affect removal and drying.",
+    "checklist": [
+      "Share the bathroom fixture and plumbing findings.",
+      "Identify the grille and ceiling change.",
+      "Move belongings below the proposed opening."
+    ]
+  },
+  "bathroom-mold-removal/lakewood-village": {
+    "intro": "Bathroom mold removal in Lakewood Village can involve suspected growth on a detachable tub access cover while the surrounding tile remains intact. We will evaluate whether the cover can be treated off the wall or needs replacement, while the cavity behind it receives its own remediation decision.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Lakewood Village: distinguish the cover from the surround",
+        "text": "A plastic access cover, painted wood panel and tiled removable panel have different handling and recovery limits. Before release, the partner will establish the work controls and determine which fasteners or sealed edges can be removed without pulling on the tub surround. A heavy or bonded panel needs suitable installer assistance; it is not pried free as if it were a loose plastic hatch."
+      },
+      {
+        "title": "Clean reachable faces or remove unsuitable backing",
+        "text": "A suitable detachable cover can be contained for movement and treated on both sides using a compatible process. Swollen composite backing or other affected porous pieces identified for disposal are removed from the work area; cleaning the decorative face alone does not resolve them. The exposed opening lets the partner collect debris and physically clean the included reachable cavity surfaces, with any obstruction beneath the tub identified before broader work is proposed."
+      },
+      {
+        "title": "Refit a usable cover after the cavity work",
+        "text": "The replacement or retained cover must fit the repaired opening without trapping damp material behind it. Plumbing correction, remediation and applicable independent review are completed at their assigned stages before the installer restores the closure. A reusable cover can still need new attachment hardware or finish repair, which is assessed separately from cleaning its faces."
+      }
+    ],
+    "estimate": "Cover weight and construction, detachable versus bonded attachment, cavity reach and repair needs influence treatment and replacement choices. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriately licensed partner; applicable contractor and company credentials will be verified, and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Identify whether the tub cover lifts out, unscrews or is bonded in place.",
+      "Share photographs of both faces only if it has already been safely removed.",
+      "Describe any leak repairs and whether you intend to reuse the cover."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/lakewood-village": {
+    "intro": "Kitchen cabinet mold removal in Lakewood Village may be considered when suspected growth is reported beneath a sink after a disposer connection has leaked into the cabinet base. The cabinet floor, sink supports and wall behind the plumbing need separate access decisions.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Lakewood Village: Check the sink base construction",
+        "text": "We will review available assessment information and inspect accessible surfaces around the leak path. A cabinet bottom that supports plumbing or a counter needs an installer’s input before cutting or removal."
+      },
+      {
+        "title": "Reach the cabinet beneath the disposer",
+        "text": "The partner will contain specified affected porous cabinet pieces for removal and physically clean suitable exposed framing or sealed surfaces. The disposer and drain connections can obstruct the rear corner, so qualified plumbing release may be needed to reach it. Removing the cabinet bottom must preserve any necessary counter or sink support until the installer provides a repair plan."
+      },
+      {
+        "title": "Address the leak before replacing the base",
+        "text": "The plumber corrects the disposer or drain connection. Cabinet reconstruction and independent assessment or clearance are separate from remediation."
+      }
+    ],
+    "estimate": "Assessment findings, cabinet support, plumbing access and the extent of concealed material guide the defined scope. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriately licensed partner; applicable contractor and company credentials will be verified, and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Share any assessment and disposer repair notes.",
+      "Identify stored items or fixed supports below the sink.",
+      "Note whether the cabinet base has been opened."
+    ]
+  },
+  "mold-remediation-after-water-damage/lakewood-village": {
+    "intro": "Mold remediation after water damage in Lakewood Village may be considered when a prior roof leak leaves suspected growth at the edge of a bedroom closet ceiling. The repair question is whether only the ceiling finish was affected or the insulation and framing also need access.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Lakewood Village: Compare the reported area with the leak record",
+        "text": "We will review the water-loss timeline, source correction and any assessment information. A ceiling stain alone does not set the remediation boundary or confirm what remains behind the finish."
+      },
+      {
+        "title": "Treat the ceiling edge and closet contents separately",
+        "text": "The partner will remove specified affected ceiling board or insulation under the work controls and physically clean suitable exposed timber. Closet shelving and clothing below the opening are protected or moved by arrangement before overhead removal. Belongings with reported growth receive their own contents decision; treating the ceiling does not establish their condition."
+      },
+      {
+        "title": "Sequence drying, remediation and repair",
+        "text": "Roof repair and any remaining moisture correction precede closing the assembly. Independent assessment and post-remediation clearance, when specified, are separate services and are not represented as part of the remediation."
+      }
+    ],
+    "estimate": "Assessment or protocol, roof repair status, ceiling construction and insulation access shape the plan. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriately licensed partner; applicable contractor and company credentials will be verified, and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Share the roof repair and leak timeline.",
+      "Provide assessment or protocol documents if available.",
+      "Identify ceiling material already removed."
+    ]
+  },
+  "mold-removal-behind-drywall/lakewood-village": {
+    "intro": "Mold removal behind drywall in Lakewood Village can be needed when a refrigerator-line leak has affected a wall that was already patched once. We will use the available assessment to plan access through the repair and determine whether old board remains behind the newer surface.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Lakewood Village: examine the previous repair",
+        "text": "A fresh patch can overlap older paper-faced board or conceal a narrow strip at the floor. The partner will review how the repair was made and identify the layers that need to be exposed for treatment. Refrigerator movement and supply-line isolation are arranged with the appropriate provider before work starts in the restricted space."
+      },
+      {
+        "title": "Remove affected backing instead of covering it again",
+        "text": "Under the required work controls, the partner will take out specified affected gypsum pieces and collect loose debris within the work area. Retainable framing receives physical cleaning after board scraps and fasteners obstructing the included surface are addressed. Where an old patch edge crosses a stud, treatment must reach the relevant exposed wood rather than leave a strip hidden merely to preserve the patch."
+      },
+      {
+        "title": "Give the wall repair a usable starting surface",
+        "text": "Retained timber must meet the project’s drying and treatment requirements before new board is fitted. The repair provider determines support for the replacement edges; a second overlay is not used to bury unresolved paper backing. Any remaining refrigerator connection work is completed without concealing a renewed leak, and independent assessment or required clearance stays separately assigned."
+      }
+    ],
+    "estimate": "Prior patch construction, layers needing removal, restricted appliance clearance and condition of the exposed wood determine this scope. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriately licensed partner; applicable contractor and company credentials will be verified, and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Describe when the wall was previously patched and whether old board was removed.",
+      "Provide available assessment findings and refrigerator-line repair details.",
+      "Identify who will move the refrigerator and repair the wall opening."
+    ]
+  },
+  "attic-mold-remediation/lakewood-village": {
+    "intro": "Attic mold remediation in Lakewood Village may be considered when suspected growth is reported on roof sheathing near a bathroom exhaust duct. The duct termination, insulation and roof surface are separate parts of the investigation.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Lakewood Village: Review the attic access and reported area",
+        "text": "We will consider assessment information and visible conditions from a safe, accessible position. The roof leak or exhaust discharge source must be investigated independently; attic entry and walking surfaces are evaluated before access."
+      },
+      {
+        "title": "Reach the sheathing beyond the duct",
+        "text": "The partner will handle specified affected insulation under the work controls and physically clean suitable retained sheathing and framing. A duct lying against the sheathing can leave a narrow untreated strip; qualified release is needed before that covered wood can be reached. Soft or separating sheathing receives a roof-repair evaluation rather than a stronger cleaning treatment."
+      },
+      {
+        "title": "Keep insulation from hiding the roof-deck work",
+        "text": "Insulation moved to reach the work is kept out of the treatment area until cleaning, drying and applicable independent review are resolved. The mechanical provider checks exhaust routing and the roof provider investigates any leak; either source can coexist with the reported concern. Replacement insulation must follow the intended ventilation arrangement rather than being piled against the sheathing to cover a cleaned spot."
+      }
+    ],
+    "estimate": "Attic access, roof condition, duct route, insulation depth and assessment findings determine the work boundary. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriately licensed partner; applicable contractor and company credentials will be verified, and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Share the roof or ventilation inspection findings.",
+      "Provide assessment information and the attic access location.",
+      "Do not enter an unsafe or restricted attic to gather details."
+    ]
+  },
+  "crawl-space-mold-remediation/lakewood-village": {
+    "intro": "Crawl space mold remediation in Lakewood Village may be considered when suspected growth is reported on floor framing near a plumbing access point. The observed joist, insulation and ground cover are different materials with different access needs.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Lakewood Village: Establish safe access and reported limits",
+        "text": "We will review assessment information and the available entry route before planning work. We will not assume a visible joist defines the full area where insulation or a vapor retarder conceals framing."
+      },
+      {
+        "title": "Reach the joist sides behind insulation",
+        "text": "The partner will remove specified affected insulation under the work controls and clean suitable retained framing, including the joist faces previously covered by batts. A clear strip beside the plumbing opening does not show the condition farther along the insulated bay. Any deteriorated wood affecting support receives a qualified repair evaluation separately from surface cleaning."
+      },
+      {
+        "title": "Restore insulation only after the bay is resolved",
+        "text": "The plumber needs access to the repair while the partner needs working space along the affected framing; those routes are arranged before removal. Clean retained wood is dried as required before insulation conceals it again. Ground-cover damage or pooled water receives its own source and material decision, with independent assessment and clearance kept separate from remediation."
+      }
+    ],
+    "estimate": "Entry clearance, framing access, insulation coverage, ground moisture and assessment findings shape the scope. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriately licensed partner; applicable contractor and company credentials will be verified, and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Share assessment and plumbing or drainage findings.",
+      "Describe access limits without entering the crawl space.",
+      "Identify insulation or ground cover already disturbed."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/lakewood-village": {
+    "intro": "Mold contaminated contents cleaning in Lakewood Village may be requested when clothing packed damp after a leak develops suspected growth inside a storage tote. We will evaluate the garments and arrange suitable textile treatment, with damp bundles kept separate from clothing already cleaned and dried.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Lakewood Village: unpack for controlled evaluation",
+        "text": "We will identify the affected groups and arrange handling without shaking garments through the home. A dry garment at the top of the tote does not establish the condition of tightly folded clothing below. Care labels, fabric deterioration and earlier wash attempts guide whether an item can receive treatment or needs specialist review or authorized disposal."
+      },
+      {
+        "title": "Treat accepted garments according to their construction",
+        "text": "The textile provider will separate washable items from garments needing another compatible process, remove accessible deposits under the selected controls and clean accepted items. Linings, trims and unstable dyes can prevent a garment from sharing a wash process with otherwise similar clothing. Fragrance or a fresh outer bag is not a substitute for treatment, and stains or weakened fabric may remain after removable contamination is addressed."
+      },
+      {
+        "title": "Dry the full garment before clean packing",
+        "text": "Accepted clothing is dried using a compatible method before it is folded or packed, including thick seams, waistbands and lined sections that can remain damp longer than exposed fabric. The tote receives its own cleaning or replacement decision rather than automatically returning with the garments. Cleaned items stay separate from untreated loads, and the receiving closet’s moisture or remediation work remains a separate prerequisite for return."
+      }
+    ],
+    "estimate": "Garment quantity, care requirements, condition, prior treatment and textile-provider needs determine the recovery proposal. Go Green’s own Texas mold-remediation contractor license remains pending. Work requiring licensure will be referred to an appropriately licensed partner; applicable contractor and company credentials will be verified, and the provider and scope identified before work begins. Independent assessment and any post-remediation clearance are separate services.",
+    "checklist": [
+      "Identify damp bundles and any clothes already washed.",
+      "Share care labels and flag delicate or irreplaceable garments.",
+      "Describe when the clothes were packed and the proposed return location."
+    ]
+  },
+  "crawl-space-water-removal/lakewood-village": {
+    "intro": "Crawl space water removal in Lakewood Village may be needed when rainwater stands beside a low foundation vent after a storm. The removal plan needs to distinguish a remaining pool from water continuing to enter.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Lakewood Village: Review access and visible water extent",
+        "text": "We will assess the access route and observations available without entering an unsafe space. A drainage or foundation provider evaluates the entry source; extraction alone does not correct recurring inflow."
+      },
+      {
+        "title": "Reach pools divided by ground cover",
+        "text": "We will extract accessible water at the low vent and inspect reachable folds or depressions in the ground cover for separate pools. A pump placed in one low spot may leave water trapped on the opposite side of a raised fold. Any approved liner movement is coordinated with the drainage findings, and soil contact beneath a torn section receives its own evaluation."
+      },
+      {
+        "title": "Dry the wet building materials above the pool",
+        "text": "Once standing water is removed and continued entry addressed, we will check reachable lower framing and insulation rather than assume pumping dried the crawl space. Specified damaged wet insulation is removed and suitable retained wood receives monitored drying. The vent’s permanent drainage or exterior correction remains with the appropriate provider; resetting ground cover must not conceal water still present."
+      }
+    ],
+    "estimate": "Access, water depth, continuing inflow, contacted materials and electrical conditions affect the removal plan.",
+    "checklist": [
+      "Describe where water was observed without entering.",
+      "Share drainage or foundation inspection findings.",
+      "Report any known wastewater or electrical involvement."
+    ]
+  },
+  "toilet-overflow-cleanup/lakewood-village": {
+    "intro": "Toilet overflow cleanup in Lakewood Village may be needed when a backed-up toilet sends wastewater into a tiled bathroom and beneath the vanity kick plate. The spill boundary follows contacted surfaces, including concealed edges, rather than the visible pool alone.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Lakewood Village: Trace the contact path",
+        "text": "We will identify the overflow source, whether wastewater was involved and the route toward the vanity and doorway. Plumbing repair is a separate task; affected contents are kept out of the work path."
+      },
+      {
+        "title": "Distinguish the vanity legs from its absorbent panels",
+        "text": "We will extract reachable wastewater and remove specified contaminated absorbent kick material under the work controls. A vanity on separate legs may allow cleaning underneath after the panel is released; a solid plinth may require qualified cabinet movement to reach its footprint. Suitable exposed hard surfaces receive physical cleaning followed by appropriate label-directed disinfection."
+      },
+      {
+        "title": "Check cabinet support before closing the toe space",
+        "text": "Swollen side panels can compromise a vanity even after contacted floor tile is cleaned. We will distinguish sound supports that can remain from damaged cabinet material requiring repair, and dry retainable exposed layers before closure. The plumber handles the backup correction and any fixture reconnection separately."
+      }
+    ],
+    "estimate": "Overflow source, wastewater contact, cabinet construction and floor-edge access determine cleanup and removal.",
+    "checklist": [
+      "Share whether the overflow involved wastewater.",
+      "Identify plumbing repair status and the route to the doorway.",
+      "Note cabinet or trim already removed."
+    ]
+  },
+  "fire-damaged-debris-removal/lakewood-village": {
+    "intro": "Fire damaged debris removal in Lakewood Village may be needed when a small garage fire leaves charred shelving fragments and loose debris on a concrete floor. Electrical release and the distinction between loose debris and attached building material set the removal boundary.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Lakewood Village: Confirm release and separate debris types",
+        "text": "We will review fire-official and electrician instructions before handling the area. Loose cooled fragments, attached burned trim and stored property are identified separately so removal does not pull on wiring or disturb items outside the scope."
+      },
+      {
+        "title": "Unload unstable shelving before collecting floor debris",
+        "text": "Once the area is released, unstable shelf components need controlled removal before loose fragments beneath them are collected. We will separate salvage-review tools or belongings from specified charred shelf debris and package the debris without pulling attached electrical parts. Containers of chemicals or pressurized products found among garage contents receive appropriate separate handling rather than ordinary debris disposal."
+      },
+      {
+        "title": "Expose the edge for next-stage work",
+        "text": "We will leave the floor and wall perimeter accessible for residue cleaning or repair planning. Debris pickup documents what was removed and any damaged material left for another trade."
+      }
+    ],
+    "estimate": "Debris volume, site release, electrical findings and material attachment affect the removal scope.",
+    "checklist": [
+      "Share fire-department and electrician access instructions.",
+      "Identify items to retain or have moved by their owner.",
+      "Note smoke, extinguisher residue or response water nearby."
+    ]
+  },
+  "fire-damaged-contents-cleaning/lakewood-village": {
+    "intro": "Fire damaged contents cleaning in Lakewood Village may be considered when smoke residue settles on framed family photographs kept on an open shelf near a kitchen fire. Glass, frame finish, paper and image surface need separate handling choices.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Lakewood Village: Document item types before cleaning",
+        "text": "We will inventory the affected pieces and note visible heat or soot exposure. Valuable or delicate photographs may need a conservator’s review before any surface treatment is proposed."
+      },
+      {
+        "title": "Avoid pressing soot onto the photograph",
+        "text": "We will collect removable residue from suitable frame and glass surfaces using a compatible method without forcing deposits beneath the glazing. A photograph stuck to glass, rippled backing or an image exposed directly to soot needs specialist review before disassembly or wet cleaning. An intact glass face can be cleanable while the image behind it remains unresolved."
+      },
+      {
+        "title": "Keep cleaned items out of the work area",
+        "text": "Processed contents remain separate until nearby residue cleanup is complete. Cleaning feasibility and replacement or conservation decisions are recorded without promising restoration of the original appearance."
+      }
+    ],
+    "estimate": "Item materials, soot exposure, heat damage and conservation needs affect handling and recovery decisions.",
+    "checklist": [
+      "List fragile or valuable items before movement.",
+      "Share where the fire occurred and how smoke reached the shelf.",
+      "Identify any items already wiped or discarded."
+    ]
+  },
+  "smoke-damage-cleanup/lakewood-village": {
+    "intro": "Smoke damage cleanup in Lakewood Village may be needed when a cooking flare leaves a fine film inside a recessed ceiling light trim and on nearby painted ceiling texture. Residue removal must account for both the finish and the fixture opening.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Lakewood Village: Inspect the ceiling finish and fixture edge",
+        "text": "We will identify accessible residue and note prior wiping around the trim. A qualified electrician handles fixture removal or internal inspection when required; the ceiling surface can be tested separately for cleaning compatibility."
+      },
+      {
+        "title": "Remove deposits from fragile ceiling texture",
+        "text": "We will collect loose residue with a suitable method and trial cleaning on a small area of the painted texture. If the texture crumbles or paint lifts, repeated scrubbing can enlarge the repair area; that surface needs a finish-repair decision after feasible residue removal. Once the electrician releases removable trim, its reverse and the exposed ceiling rim can be evaluated separately from fixture internals."
+      },
+      {
+        "title": "Check adjacent surfaces and contents",
+        "text": "We will inspect nearby cabinet tops and wall edges for settled residue and include only agreed surfaces. Odor treatment, if needed, follows physical residue work and does not replace it."
+      }
+    ],
+    "estimate": "Finish type, ceiling texture, fixture access and residue spread influence the cleaning method.",
+    "checklist": [
+      "Identify surfaces already wiped or repainted.",
+      "Share electrician findings if the fixture was affected.",
+      "List nearby contents needing protection."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/lakewood-village": {
+    "intro": "Fire extinguisher residue cleanup in Lakewood Village may be needed when dry chemical powder settles on a home-office printer, desk and carpet edge after a small fire. The extinguisher agent and equipment openings affect how residue is handled.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Lakewood Village: Identify the agent and sensitive equipment",
+        "text": "We will check the extinguisher label and map deposits on the desk, floor and printer exterior. Electronics service and internal printer inspection belong to a qualified provider; the equipment is not operated to test it."
+      },
+      {
+        "title": "Recover powder without spreading it through the printer",
+        "text": "For an identified dry agent, we will collect loose powder with suitable equipment and then clean compatible desk surfaces. We will not use the printer’s fans or feed mechanism to clear deposits. Paper in an exposed input tray is kept separate for an item decision, and internal powder remains with the equipment provider while carpet deposits receive their own cleaning evaluation."
+      },
+      {
+        "title": "Separate carpet and device decisions",
+        "text": "The carpet edge is assessed for embedded powder and cleaning access, while the printer receives its own service decision. Room cleaning does not establish that electronics are safe to power on."
+      }
+    ],
+    "estimate": "Agent identity, electronics exposure, carpet type and powder spread guide the cleanup plan.",
+    "checklist": [
+      "Share the extinguisher label or a clear photo.",
+      "Identify equipment openings and affected floor surfaces.",
+      "Note whether fire, smoke or response water also reached the room."
+    ]
+  },
+  "kitchen-fire-cleanup/lakewood-village": {
+    "intro": "Kitchen fire cleanup in Lakewood Village can involve soot on cabinet fronts and firefighting water collected inside the lower drawers. We will separate residue cleaning from wet cabinet-material decisions so a cleaned front does not hide a swollen drawer bottom or damp cabinet base.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Lakewood Village: check the wet storage below the fire",
+        "text": "After safe access is established, we will inspect the drawer interiors, cabinet base and adjoining floor for response water and residue. Stored utensils or food-contact items receive separate handling decisions before the drawer is emptied. Qualified appliance and electrical providers address affected equipment independently of the storage cleanup."
+      },
+      {
+        "title": "Remove water before cleaning retained drawer surfaces",
+        "text": "We will collect accessible liquid before approved drawers are moved through unaffected rooms, then expose the cabinet interiors they covered. Swollen composite bottoms or separated drawer joints may require replacement, while suitable intact finished surfaces receive compatible soot cleaning and drying. Removing the drawer does not expose all wet material beneath a fixed cabinet base; that footprint receives its own access decision."
+      },
+      {
+        "title": "Check refit after cleaning and drying",
+        "text": "A drawer that binds after drying may have a distorted box, damaged runners or a changed cabinet opening. The repair provider determines which parts can be retained rather than forcing the drawer into place or trimming away damage during cleanup. We will keep the underlying cabinet and floor accessible until their moisture work is complete, and restocking follows both the storage-surface work and the separate contents decisions."
+      }
+    ],
+    "estimate": "Water held in drawers, cabinet construction, residue extent, access beneath the base and repair needs determine the scope. Appliance service and replacement cabinet parts are separately identified.",
+    "checklist": [
+      "Describe where firefighting water collected.",
+      "Identify drawers already emptied or removed.",
+      "Share fire-official restrictions and any appliance inspection findings."
+    ]
+  },
+  "emergency-board-up-after-fire/lakewood-village": {
+    "intro": "Emergency board up after fire in Lakewood Village may be needed when a garage side door is damaged and no longer closes securely. Temporary protection depends on the jamb condition and whether fire officials have released the area.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Lakewood Village: Check the opening and access release",
+        "text": "We will assess the door leaf, jamb and surrounding wall from a safe position. Fire-official restrictions and any electrician access take priority before temporary work proceeds."
+      },
+      {
+        "title": "Plan a closure that preserves the usable route",
+        "text": "If the side door is required for exit or authorized access, the temporary arrangement must preserve that function rather than simply cover the doorway with a fixed panel. For an opening that can be closed, we will measure and secure suitable temporary protection to sound support after site release. A damaged latch area and a weakened wall jamb require different repair decisions before attachment."
+      },
+      {
+        "title": "Coordinate the side door with garage access",
+        "text": "The main overhead door may also be restricted after the fire, leaving the side opening important for approved repair access. We will establish the permitted entry route before fitting temporary protection and explain how it will be opened or removed for the next trade. Board-up does not authorize operating a damaged garage door or occupying the building."
+      }
+    ],
+    "estimate": "Opening dimensions, jamb stability, site release and required emergency access affect availability and scope.",
+    "checklist": [
+      "Share fire-official access instructions.",
+      "Identify damage to the door frame from a safe location.",
+      "Name the person authorized to approve temporary protection."
+    ]
+  },
+  "crawl-space-sewage-cleanup/lakewood-village": {
+    "intro": "Crawl space sewage cleanup in Lakewood Village can require taking down sewage-soaked insulation suspended beneath a laundry floor. We will plan controlled removal of those wet overhead materials and clean the contacted wood before fresh insulation hides the underside of the floor.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Lakewood Village: assess the hanging insulation",
+        "text": "The team will establish safe entry and confirm that the failed drain is controlled before approaching sagging batts. Insulation supports, nearby cables and pipe hangers are identified so cutting an insulation restraint does not disturb a utility support. Property occupants should describe the condition from existing photographs or the entry area, without crawling beneath the saturated material."
+      },
+      {
+        "title": "Lower contaminated batts into controlled collection",
+        "text": "Liquid held in a sagging section can spill when the insulation is released. We will recover accessible liquid and lower designated waste into suitable collection containers in manageable sections, keeping it from dragging along unaffected framing on the exit route. Each exposed bay is checked for remaining insulation fragments and deposits at joist sides or subfloor joints before its cleaning method is finalized."
+      },
+      {
+        "title": "Treat the wood that was covered",
+        "text": "Reachable retained wood receives removal of sewage deposits, compatible cleaning and appropriate label-directed disinfection. Moisture checks then guide drying of those building materials; a visibly cleared ground surface does not establish the condition of the floor above. Contamination that also reached earth or ground covering has a separately evaluated disposal scope, and damaged insulation restraints are replaced only after the overhead cleanup and drying are resolved."
+      }
+    ],
+    "estimate": "Insulation saturation, overhead utility obstructions, waste transfer distance and the wood surfaces reached after removal determine the work and disposal arrangements.",
+    "checklist": [
+      "Describe how much insulation is hanging or visibly wet from a safe location.",
+      "Supply the plumber’s findings about the failed drain and source control.",
+      "Identify crawl-entry dimensions and any utilities reported near the affected batts."
+    ]
+  }
+}

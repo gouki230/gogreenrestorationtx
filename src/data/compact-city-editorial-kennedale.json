@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/kennedale": {
+    "intro": "Emergency water extraction in Kennedale can be interrupted when a recovery unit’s vacuum relief valve opens at the wrong setting. The equipment provider must restore the specified protective opening point before that unit returns to collection. We will arrange suitable recovery while the faulty equipment receives its supported service.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Kennedale: distinguish relief operation from poor floor pickup",
+        "text": "The operator checks the recovery path and observed vacuum against the selected machine’s instructions. A leak, obstructed hose or full tank requires its own correction; a relief adjustment is not a general way to increase extraction power. Water condition, floor compatibility and safe equipment placement still govern which unit can be used."
+      },
+      {
+        "title": "Set the relief spring tension through the prescribed service check",
+        "text": "For an eligible Dri-Eaz HVE Large Loss unit, the equipment technician uses the manufacturer’s controlled inlet test and gauge reading to determine whether adjustment is needed. The machine is shut down before the relief valve’s locking-nut tension is changed, then restarted for the next check against its specified opening point. The lock nut and cotter pin are secured after adjustment. Hands or other body parts are never used to block the inlet during the test."
+      },
+      {
+        "title": "Return the checked unit to collection and complete material work",
+        "text": "The technician confirms the protective relief response before returning the machine to use. Actual liquid recovery at the floor tool is then checked, with collected waste directed to an accepted destination. Accessible floor edges and covered wet layers retain their own extraction, removal or drying decisions; a corrected gauge response does not establish a dry assembly."
+      }
+    ],
+    "estimate": "Water condition, floor access and equipment availability determine collection. Relief-valve calibration belongs with the qualified equipment provider and does not replace material drying.",
+    "checklist": [
+      "Identify the water source and affected floor coverings.",
+      "Share equipment findings and any interrupted collection.",
+      "Identify covered floor edges and adjoining wet materials."
+    ]
+  },
+  "burst-pipe-cleanup/kennedale": {
+    "intro": "Burst pipe cleanup in Kennedale can accompany a plumber’s repair with a push-fit slip coupling when a short damaged copper section must be removed without spreading the remaining pipe ends. We will collect the release while preserving access for the connection and its leak check.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Kennedale: confirm the pipe and allowable repair length",
+        "text": "The plumber isolates the line, identifies the pipe and selects a coupling approved for that material and application. The removed length must fit the selected product’s limits. Sound, straight receiving tube is required; a long split or badly corroded pipe needs another repair."
+      },
+      {
+        "title": "Slide past the gap and return to the insertion marks",
+        "text": "For the eligible SharkBite slip fitting, the plumber cuts and deburrs the ends and marks both insertion depths. The slip end travels fully over one pipe before a disconnect tool depresses its release collar and permits the fitting to slide back onto the opposite end. Both marks are checked so bridging the gap does not leave one side insufficiently engaged."
+      },
+      {
+        "title": "Keep the repair exposed through testing and drying",
+        "text": "The plumber restores water and checks the connection before enclosure. We recover accessible liquid and treat the wet wall, floor or cabinet layers according to condition. Unsuitable porous material is removed, and retained construction receives drying checks independently of the pipe result."
+      }
+    ],
+    "estimate": "Pipe condition, approved gap length, receiving-end access and affected building layers determine the sequence.",
+    "checklist": [
+      "Share pipe material and the failed section’s location.",
+      "Provide the plumber’s repair findings.",
+      "Describe wet layers already opened or still concealed."
+    ]
+  },
+  "appliance-leak-cleanup/kennedale": {
+    "intro": "Appliance leak cleanup in Kennedale may follow a dishwasher door seal that has hardened, split or pulled from its channel. Replacing that seal requires correct seating around the opening. We will coordinate appliance service with water recovery from the floor and cabinet perimeter.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Kennedale: distinguish a gasket leak from overfilling",
+        "text": "The appliance provider identifies the model and checks leveling, loading, suds and the actual escape point. A damaged tub or leaking pump does not receive a door-gasket repair. We follow the escaped water beneath accessible toe areas rather than treating the front puddle as its whole extent."
+      },
+      {
+        "title": "Clean the channel and press in the matching gasket",
+        "text": "On an accepted Whirlpool arrangement, the provider removes the failed seal and cleans its receiving channel with a compatible mild cleaner. The specified replacement is pressed into that channel and the door is closed for the manufacturer’s seating period. Stretching an incorrect seal or adding a bead over the old one does not restore the intended door contact."
+      },
+      {
+        "title": "Check the cycle before returning the appliance",
+        "text": "The provider checks closure and leakage under the model procedure. Authorized appliance movement allows collection and inspection below its footprint, with swollen underlayment or cabinet edges receiving separate removal decisions. Retained flooring dries before the appliance conceals it again."
+      }
+    ],
+    "estimate": "Gasket design, appliance movement and water beneath cabinet edges affect scope; appliance testing remains separate from building drying.",
+    "checklist": [
+      "Provide the dishwasher model and leak timing.",
+      "Describe visible gasket damage and excess suds.",
+      "Identify water beneath adjacent cabinets or flooring."
+    ]
+  },
+  "storm-water-damage-cleanup/kennedale": {
+    "intro": "Storm water damage cleanup in Kennedale can follow leakage at an open metal roof valley whose attachment or overlap has failed. The valley carries water between two roof slopes. We will coordinate interior recovery with a roofer’s repair of that channel.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Kennedale: expose the actual valley detail",
+        "text": "The roofer checks the roof covering, valley metal, underlayment and receiving deck. A damaged valley, roof-wall junction and shingle defect require different corrections. Interior extraction and material decisions follow the observed water path below the roof."
+      },
+      {
+        "title": "Restore valley metal without arbitrary punctures",
+        "text": "For a compatible GAF asphalt-shingle detail, the roofer restores the prescribed valley metal and laps over suitable underlayment. Its standard edge-fastening method places nail heads to retain the metal without puncturing the drainage field, with the manufacturer’s separate top-corner fastening detail observed. Alternative through-fastened details have specific metal, barrier, slope and coverage requirements; they are not interchanged casually."
+      },
+      {
+        "title": "Check drainage and dry the interior assembly",
+        "text": "The roofing provider checks the completed channel and adjacent roof laps. We collect reachable interior water, remove specified unsuitable wet insulation or lining and dry suitable retained material. Restored valley drainage does not establish that the ceiling below it is ready to close."
+      }
+    ],
+    "estimate": "Valley construction, roof access, metal condition and the interior wet path determine the work.",
+    "checklist": [
+      "Share roofer findings about the valley.",
+      "Describe interior leakage during rain.",
+      "Identify opened ceilings and affected insulation."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/kennedale": {
+    "intro": "AC leak water damage cleanup in Kennedale may follow poor condensate-pump delivery with deposits inside its discharge passage. A supported reverse flush can reach the pump’s wet end after the outlet fitting is removed. We will coordinate that HVAC service with treatment of water beneath and beside the equipment.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Kennedale: identify the restricted wet-end passage",
+        "text": "The HVAC provider identifies the pump and controls power and retained discharge water before service. Excessive lift, a failed switch and obstruction inside the wet end require different corrections. We inspect the wet platform and surrounding finishes independently of the pump diagnosis."
+      },
+      {
+        "title": "Backwash through the opened discharge port",
+        "text": "For a supported Little Giant VCMA procedure, the provider removes the check valve to open the discharge port and directs the prescribed backwash through that port into the volute over a suitable collection point. This reverses the normal outlet route to clear the accessible pump passage. The removed valve and adjoining tubing receive their separate inspection and compatible cleaning before the assembly returns; a damaged part requires replacement."
+      },
+      {
+        "title": "Observe actual discharge and finish the wet footprint",
+        "text": "The HVAC provider tests start, actual delivery and shutoff after reassembly. We collect remaining escaped water, remove unsuitable affected porous support material and dry retained construction. Backwashing does not correct an undersized pump or establish dryness beneath the air handler."
+      }
+    ],
+    "estimate": "Pump design, outlet access, discharge conditions and wet building layers determine scope.",
+    "checklist": [
+      "Provide the pump model and discharge route.",
+      "Describe overflow and whether the pump ran.",
+      "Identify wet platform, wall or floor materials."
+    ]
+  },
+  "bathroom-mold-removal/kennedale": {
+    "intro": "Bathroom mold removal in Kennedale can follow repeated shower leakage past a threshold seal installed in the wrong orientation. The enclosure’s flexible lip has to meet the correct side of the track. We will coordinate source correction with treatment of the assessed bathroom materials.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Kennedale: identify the enclosure and leak route",
+        "text": "The shower provider checks the door model, track and seal rather than assuming every wet bathroom edge comes from a plumbing leak. Assessment separately defines the affected board, trim and supporting material. Cracked glass or loose hardware requires its own qualified service."
+      },
+      {
+        "title": "Reseat the threshold lip over its intended track",
+        "text": "For the Kohler Prevail arrangement, the provider places the soft threshold seal with its front lip toward the front of the shower. A lip folded underneath is returned to its intended position over the front of the bottom track, while the back fits over the center guide. A damaged seal receives a model-matched replacement; filling the track indiscriminately with caulk can alter its designed operation."
+      },
+      {
+        "title": "Treat the material already wetted",
+        "text": "The shower provider checks the corrected enclosure under its supported water test. The remediation provider contains specified unsuitable porous material for removal and physically cleans suitable retained surfaces, collecting the released deposits. Drying and applicable independent evaluation precede new trim or wall finishes."
+      }
+    ],
+    "estimate": "Enclosure identification, seal condition and affected bathroom layers determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share the shower-door model and leak location.",
+      "Describe folded or missing seal sections.",
+      "Provide assessment findings and exposed-material photographs."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/kennedale": {
+    "intro": "Kitchen cabinet mold removal in Kennedale may follow a leaking retractable faucet hose that wets the cabinet whenever the spray wand is used. We will coordinate the plumber’s hose replacement with treatment of the cabinet layers reached by that repeated release.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Kennedale: identify the retractable hose connection",
+        "text": "The plumber distinguishes the spray hose from the faucet’s supply lines and confirms its connection style. A leak at the wand, hose body or under-deck connector needs its correct replacement part. The remediation assessment follows water to the cabinet base and adjoining wall rather than stopping at the visibly wet hose loop."
+      },
+      {
+        "title": "Release the quick connector and route a matching hose",
+        "text": "For an eligible Moen built-in quick-connect design, the plumber removes the hose weight and uses the connector’s release tab before withdrawing the hose through the faucet. The matching hose and wand washer are installed under the model instructions, the connector is locked and its engagement checked with a gentle tug. The weight returns to its specified location with clearance for travel instead of dragging across stored items or pipework."
+      },
+      {
+        "title": "Check the hose through its travel",
+        "text": "The plumber tests the connection while extending and returning the wand. The remediation provider removes specified unsuitable cabinet material and physically cleans suitable retained faces and joints under the work controls. The base dries and receives any applicable independent evaluation before contents or repaired panels conceal it."
+      }
+    ],
+    "estimate": "Hose design, travel clearance and affected cabinet construction determine the work. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share faucet model or connector photographs.",
+      "Describe whether leakage follows spray-wand use.",
+      "Identify cabinet base, wall and floor materials reached."
+    ]
+  },
+  "mold-remediation-after-water-damage/kennedale": {
+    "intro": "Mold remediation after water damage in Kennedale can follow a washing-machine drain hose that has come out of its standpipe and discharged onto the laundry floor. Its reinstatement needs a secured, supported bend and the correct insertion depth. We will coordinate that correction with treatment of affected building layers.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Kennedale: check the hose outlet and drain capacity",
+        "text": "The appliance or plumbing provider checks the hose form, standpipe and evidence of a separate drain restriction. Pushing the hose deeper cannot clear a blocked drain. Assessment defines the wet wall base, floor layers and adjacent trim that require remediation."
+      },
+      {
+        "title": "Fit the hose form without sealing away the air gap",
+        "text": "For the applicable Maytag installation, the provider uses the prescribed U-shaped hose form and secures the hose so it cannot pull out during discharge. Only the specified length enters the standpipe, and the opening remains loose enough for its required air break. A taped airtight joint or excess hose pushed to the bottom can introduce siphoning rather than make a sound installation."
+      },
+      {
+        "title": "Test discharge before closing the laundry edge",
+        "text": "The provider observes a supported drain-cycle check and addresses any standpipe backup separately. The remediation provider contains unsuitable affected porous layers for removal and physically cleans suitable retained construction. Drying and applicable independent evaluation precede reinstatement beneath and behind the machine."
+      }
+    ],
+    "estimate": "Hose retention, standpipe condition and affected laundry layers determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Describe hose movement and the reported discharge.",
+      "Provide washer identification and drain-service findings.",
+      "Share assessment records for the laundry wall and floor."
+    ]
+  },
+  "mold-removal-behind-drywall/kennedale": {
+    "intro": "Mold removal behind drywall in Kennedale can expose a small pipe defect for which a plumber proposes an approved resin-and-fiberglass repair wrap. The proposed system must suit the pipe, service and defect. We will coordinate cavity treatment while keeping the repair accessible for its required checks.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Kennedale: decide whether a composite repair is eligible",
+        "text": "The plumber evaluates pipe condition, service pressure, temperature and the product’s accepted applications. Extensive corrosion, unsuitable potable-water approval or a defect outside the system limits can require pipe replacement. The remediation provider defines the affected lining, insulation and framing independently of that plumbing decision."
+      },
+      {
+        "title": "Activate and consolidate the specified wrap",
+        "text": "For an eligible RectorSeal system, the plumber prepares the pipe and applies the specified epoxy putty where required before wrapping with the water-activated resin-coated fiberglass. Successive tight overlaps build the prescribed coverage, and the resin is worked back into the weave under the product procedure. A loose bandage or unqualified adhesive tape does not provide the same cured composite repair."
+      },
+      {
+        "title": "Allow curing and verify the repair before enclosure",
+        "text": "Cure conditions and the plumbing provider’s leak check are completed before the opening is closed. Under the assessed controls, unsuitable affected porous material is removed and suitable retained framing is physically cleaned and dried. Any unresolved pipe limitation or required independent evaluation remains part of the closure decision."
+      }
+    ],
+    "estimate": "Pipe eligibility, repair-system limits and affected cavity materials govern the work. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share the pipe material and plumber’s proposed repair.",
+      "Identify corrosion or previous patches.",
+      "Provide assessment findings for the opened cavity."
+    ]
+  },
+  "attic-mold-remediation/kennedale": {
+    "intro": "Attic mold remediation in Kennedale may accompany correction of a ridge vent installed above an inadequate roof-deck opening. A vent cover alone cannot provide exhaust through solid decking. We will coordinate a roofer’s ventilation correction with assessed treatment of the attic materials.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Kennedale: confirm the ventilation design before cutting",
+        "text": "The roofer checks intake provision, roof slope, ridge construction and the selected vent system. Roof leaks and indoor air leakage still need their own correction; enlarging a slot is not a universal mold remedy. Assessment identifies the included decking, framing and insulation for treatment."
+      },
+      {
+        "title": "Form the specified ridge opening and refit the vent",
+        "text": "On an eligible GAF Cobra assembly, the roofer cuts the deck opening to the selected system’s detail, accounting for the presence of a ridge board and required uncut end sections. The vent is centered over the slot, its sections connected and fastened through the designated locations, and compatible cap shingles installed. Structural members are not cut merely to obtain a wider opening."
+      },
+      {
+        "title": "Complete attic treatment below the roof work",
+        "text": "The remediation provider contains specified unsuitable insulation for removal and physically cleans suitable retained wood while collecting deposits. Source correction, drying and applicable independent evaluation precede insulation replacement. A correctly installed ridge vent does not establish that affected surfaces beneath it were treated."
+      }
+    ],
+    "estimate": "Roof design, slot condition, intake and assessed attic layers determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share roofing or ventilation findings.",
+      "Identify the ridge vent and intake arrangement if known.",
+      "Provide attic assessment and source-repair records."
+    ]
+  },
+  "crawl-space-mold-remediation/kennedale": {
+    "intro": "Crawl space mold remediation in Kennedale can follow recurring condensation where a cold pipe’s metal hanger crushes its insulation. A load-bearing insulated support can preserve the thermal separation at that contact. We will coordinate the qualified support repair with treatment of affected crawl-space material.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Kennedale: inspect the pipe support and wet materials",
+        "text": "The plumbing and insulation providers distinguish a line leak from condensation at an exposed or compressed hanger. Pipe weight, support spacing and insulation thickness guide the replacement detail. The remediation assessment separately identifies affected subfloor, framing and insulation; an altered hanger does not treat existing growth."
+      },
+      {
+        "title": "Carry the pipe on the support’s load-bearing inserts",
+        "text": "For an eligible ArmaFix arrangement, the qualified provider supports the pipe during hanger work and fits the correctly sized split insulated support around it. Its closure is pressed together and the bracket positioned so the designated load-bearing PET segments carry the load. The neighboring insulation joins the support under its vapor-seal detail, instead of a metal clamp compressing ordinary soft insulation against the cold line."
+      },
+      {
+        "title": "Check the support and treat the underside independently",
+        "text": "The plumbing provider verifies the supported line and connections after the change. Under the remediation controls, unsuitable affected porous layers are contained for removal and suitable retained construction is physically cleaned, with loosened deposits collected. Drying and applicable independent evaluation precede replacing insulation that would conceal the treated wood."
+      }
+    ],
+    "estimate": "Pipe load, support access, insulation thickness and affected crawl-space layers determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Describe moisture at pipe hangers and any known line leak.",
+      "Share pipe and insulation specifications if available.",
+      "Provide underside assessment findings and access dimensions."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/kennedale": {
+    "intro": "Mold contaminated contents cleaning in Kennedale may involve wet, mold-affected books that cannot tolerate ordinary page-by-page air drying. A conservator may select vacuum freeze-drying for accepted volumes before controlled removal of remaining mold deposits. We will keep drying, contamination treatment and building remediation as separate tasks.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Kennedale: select books that can enter the vacuum process",
+        "text": "The conservator evaluates paper, inks, binding, wetness and existing growth. Photographic and audiovisual formats are not automatically included with paper books. Frozen stabilization preserves time for a decision but does not itself dry or clean a volume."
+      },
+      {
+        "title": "Remove frozen water by sublimation",
+        "text": "For accepted materials, the recovery specialist maintains the books frozen in a vacuum chamber while controlled energy drives ice directly into vapor. The process avoids passing that water back through a liquid stage in the page block. Ordinary vacuum thermal drying can thaw material and cause different distortion, so it is not substituted as an equivalent process."
+      },
+      {
+        "title": "Remove mold deposits after the drying stage",
+        "text": "Drying does not sterilize books or remove the particles left on them. The conservator specifies controlled physical surface cleaning for the now-stable paper and covers, with unsuitable items retaining a disposal or further-conservation decision. Bindings, staining and any stuck pages are evaluated before accepted volumes return to a suitably restored room."
+      }
+    ],
+    "estimate": "Paper and binding stability, freezing history and specialist chamber acceptance govern recovery. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Identify wet books, coated pages and valuable volumes.",
+      "Describe freezing or drying already attempted.",
+      "Share suspected-growth observations without opening fragile books."
+    ]
+  },
+  "crawl-space-water-removal/kennedale": {
+    "intro": "Crawl space water removal in Kennedale can slow when wear increases the clearance inside a centrifugal collection pump. A running engine does not prove that the pump can still deliver its intended flow. We will use suitable operating equipment while a service provider checks the worn assembly.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Kennedale: rule out the external collection faults",
+        "text": "The operator checks water condition, suction strainer, hose integrity and delivery height before attributing poor flow to internal wear. Any combustion-powered pump stays outdoors with exhaust kept away from openings. An unsuitable mixture or inaccessible pool calls for another recovery method."
+      },
+      {
+        "title": "Adjust the impeller-to-insert clearance with supported shims",
+        "text": "On an eligible Wacker Neuson PT2/PT3 arrangement, the service provider stops and drains the pump before opening its housing. The impeller and insert are inspected, and the specified shims adjust their clearance under the model procedure. Worn parts beyond adjustment require replacement; reducing the gap until the impeller binds is not a repair."
+      },
+      {
+        "title": "Verify delivery before continuing the drawdown",
+        "text": "The housing is reassembled before operation, and actual discharge is observed at the accepted receiving point. We recover remaining accessible pools and address wet insulation or retained framing separately. Restored pumping performance does not establish that the crawl-space assembly has dried."
+      }
+    ],
+    "estimate": "Pump wear, suction route, water mixture and the remaining underside materials determine recovery needs.",
+    "checklist": [
+      "Describe remaining water and sediment.",
+      "Identify pump performance changes or interrupted collection.",
+      "Share access and approved receiving arrangements."
+    ]
+  },
+  "crawl-space-sewage-cleanup/kennedale": {
+    "intro": "Crawl space sewage cleanup in Kennedale may require coordination with removal of a failed cast-iron drain section. A chain-style soil-pipe cutter can separate an eligible supported pipe without sawing through it. We will collect wastewater and protect treated surfaces while the plumber removes the rejected section.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Kennedale: control flow and support the drain",
+        "text": "The plumber isolates the affected run and supports both the retained pipe and the section to be removed. Material identification matters because a soil-pipe snap cutter is not suitable for every metal or suspect cement product. Cleanup establishes a controlled route for wastewater, solids and contaminated porous material."
+      },
+      {
+        "title": "Align the cutter wheels around the intended break",
+        "text": "For the supported RIDGID cutter, the plumber wraps the cutting chain squarely around the pipe and engages the correct chain pin. Tightening applies the cutter wheels around the circumference until the brittle pipe separates. The work area accounts for fragments and the released pipe weight rather than relying on a nearby hanger to catch a falling section."
+      },
+      {
+        "title": "Collect repair debris and finish the contacted surfaces",
+        "text": "The replacement drain receives the plumber’s supported connections and testing. Restoration collects additional release and fragments, physically cleans suitable retained hard surfaces and completes applicable label-directed disinfection. Retained wood dries before insulation conceals the repaired area."
+      }
+    ],
+    "estimate": "Pipe condition, supports, cutter clearance and the wastewater-contacted materials determine scope.",
+    "checklist": [
+      "Share the plumber’s failed-pipe findings.",
+      "Identify support and access restrictions.",
+      "Describe contaminated insulation, soil and framing."
+    ]
+  },
+  "fire-damaged-debris-removal/kennedale": {
+    "intro": "Fire damaged debris removal in Kennedale can include rejected glue-down carpet that retains enough backing strength for a powered puller. The tool peels a clamped strip from its bond. We will select that method only after fire release and confirmation that the work area meets the equipment’s dry-location requirements.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Kennedale: accept the carpet and anchoring area",
+        "text": "The provider checks backing strength, seams, adhesive and the supporting floor, with suspect hazardous materials resolved before disturbance. Loose debris is collected from the machine’s receiving area. Severely charred backing that will not hold a clamp requires another removal method."
+      },
+      {
+        "title": "Clamp a released edge and pull in line with the machine",
+        "text": "For an eligible National 71 setup, the operator scores manageable strips and releases enough edge to seat the carpet fully through the pull bar before tightening its clamps. The specified low-stretch rope draws the bar toward the secured machine with guards in place and people outside the tensioned path. Strip width or the supported pulling arrangement is revised if the carpet tears or the machine stalls; cable is not substituted for its specified rope."
+      },
+      {
+        "title": "Contain the released strips and inspect the exposed bond",
+        "text": "Tension is released before repositioning or handling the pulled material. Rejected strips are contained, while residual adhesive and the exposed base receive their own removal, cleaning and moisture decisions. Peeling off carpet does not produce a finished substrate for replacement flooring."
+      }
+    ],
+    "estimate": "Backing strength, bond, dry working conditions and safe pulling space determine whether the specialist method is eligible.",
+    "checklist": [
+      "Identify glue-down carpet and visible backing damage.",
+      "Share scene-release and material-testing records.",
+      "Describe available pulling space and remaining wet areas."
+    ]
+  },
+  "fire-damaged-contents-cleaning/kennedale": {
+    "intro": "Fire damaged contents cleaning in Kennedale may include bright-finished iron tools with light rust after firefighting-water exposure. After soot and soil removal, a conservator can decide whether controlled mechanical rust reduction preserves the original surface. We will distinguish that treatment from restoring an item’s strength or working function.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Kennedale: confirm the finish and corrosion depth",
+        "text": "The specialist checks heat effects, plating, paint and attached wood or other materials. Extensive flaking corrosion, valuable machinery or weakened metal needs a different conservation decision. A blackened historical finish is not polished simply because brighter metal is visible beneath it."
+      },
+      {
+        "title": "Reduce light rust along the original machining marks",
+        "text": "For an accepted originally bright iron surface, CCI describes very fine steel wool with a light lubricating oil. The specialist works with the existing tool-mark direction and collects the loosened residue without chasing every gray remnant of corrosion. More aggressive polishing can erase marks and remove sound metal, so a persistent patch is not automatic permission to continue."
+      },
+      {
+        "title": "Evaluate the cleaned object before return",
+        "text": "The specialist removes treatment residues and defines suitable protection and dry storage for the object. Dimensional accuracy, cutting edges, handles and safe operation remain separate from surface conservation. The receiving room must also finish its soot and moisture work before recovered belongings return."
+      }
+    ],
+    "estimate": "Original finish, corrosion depth and heat damage govern specialist acceptance; functional repair is separately evaluated.",
+    "checklist": [
+      "Identify iron or steel objects and their intended use.",
+      "Describe soot and firefighting-water exposure.",
+      "Flag plating, paint, wood handles and valuable historic items."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/kennedale": {
+    "intro": "Fire extinguisher residue cleanup in Kennedale can accompany repair of a discharged dry-chemical unit whose operating valve will not seal. Deposits or damage at the internal stem seat require the fire-protection provider’s evaluation. We will collect room residue while that provider handles the separate pressure-containing equipment.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Kennedale: identify the agent and leaking assembly",
+        "text": "The extinguisher label identifies the agent and model, and the qualified provider determines whether the cylinder and valve remain serviceable. Leakage through the operating valve is distinguished from a hose obstruction or a leak around the cylinder collar. The provider completes the required depressurization before disassembly; a gauge reading alone is not permission to remove the valve."
+      },
+      {
+        "title": "Clean the valve seat and fit the specified stem assembly",
+        "text": "Under the applicable Amerex dry-chemical procedure, the provider dismantles the valve to reach its spring, stem and seating area. A soft brush or cloth removes deposits from the disassembled parts, while scratches or damage receive the required replacement decision. The matched replacement stem assembly restores the internal sealing component, with lubricant confined to the specified O-rings and kept off the stem seal. This changes the sealing parts inside the valve rather than merely clearing its discharge hose."
+      },
+      {
+        "title": "Verify equipment service and finish contacted room surfaces",
+        "text": "The provider completes the required reassembly, recharge and leakage checks before deciding whether the extinguisher can return to service. Separately, reachable room powder is collected with suitable controls, followed by agent-compatible cleaning of accepted retained surfaces and removal of spent cleaning material. Porous finishes and affected appliances receive their own recovery decisions; valve repair does not remove their deposits."
+      }
+    ],
+    "estimate": "Agent identity, contacted materials and valve condition define separate scopes. Qualified extinguisher repair, recharge and any cylinder testing remain distinct from room restoration.",
+    "checklist": [
+      "Provide the extinguisher label and discharge history.",
+      "Share the fire-protection provider’s valve findings.",
+      "Identify residue-contacted finishes and affected appliances."
+    ]
+  },
+  "smoke-damage-cleanup/kennedale": {
+    "intro": "Smoke damage cleanup in Kennedale may include dry books whose odor remains after accepted soot cleaning. A paper conservator may try a zeolite-bearing interleaving material to reduce that odor. We will keep this limited treatment separate from particle removal and any claim that the book is decontaminated.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Kennedale: clean and stabilize the book before odor treatment",
+        "text": "The conservator checks that the paper, binding and media are dry and stable enough for handling. Wet, mold-affected or fragile volumes need their own treatment first. Smoke odor alone does not identify which residues remain, and neither fragrance nor a new cover removes deposited soot."
+      },
+      {
+        "title": "Place odor-sorbing sheets at distributed locations",
+        "text": "NEDCC identifies MicroChamber paper containing zeolite molecular traps as an odor-reduction option. For an accepted book, the specialist places suitable thin sheets near the boards and at spaced intervals within the text block, then closes the volume for the treatment period. Sheets may be replaced and moved to new positions as the response is reviewed; the binding is not forced open with excessive interleaving."
+      },
+      {
+        "title": "Review odor response without promising complete recovery",
+        "text": "The conservator checks the result and decides whether further treatment is useful. Adsorbent interleaving does not erase stains, repair charred edges or establish safe use of a chemically affected object. Building soot removal and moisture control continue independently before accepted books return to storage."
+      }
+    ],
+    "estimate": "Book stability, prior cleaning and odor response govern whether this specialist trial is appropriate; odor elimination is not guaranteed.",
+    "checklist": [
+      "Identify dry books and valuable editions.",
+      "Describe soot cleaning and any prior deodorizing treatment.",
+      "Report wetness or visible growth before interleaving is considered."
+    ]
+  },
+  "kitchen-fire-cleanup/kennedale": {
+    "intro": "Kitchen fire cleanup in Kennedale may leave an accepted cast-iron griddle needing its seasoning restored after deposits and corrosion have been removed. The replacement oil film must be heated under the manufacturer’s method. We will coordinate that limited item recovery with cleaning of the kitchen.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Kennedale: confirm that the griddle can be retained",
+        "text": "The appliance provider identifies bare cast iron versus enamel, nonstick coating or aluminum and checks warping, cracks and the fire exposure. Unknown extinguisher residues require their own compatibility decision. Routine care instructions do not by themselves establish that fire-exposed cookware is fit for food contact."
+      },
+      {
+        "title": "Rebuild the seasoning only after accepted cleaning",
+        "text": "For a suitable GE cast-iron griddle, the provider completes the specified cleaning and dries it thoroughly. A thin oil coat is then heated and cooled through the manufacturer’s reseasoning cycle, using a separately cleared appliance. Thick pooled oil or seasoning over unresolved soot does not restore a suitable cooking surface."
+      },
+      {
+        "title": "Keep cookware acceptance separate from the room",
+        "text": "Remaining corrosion, distortion or residue can still rule out return to use. Kitchen soot is collected and compatible retained surfaces cleaned, while unsuitable charred or wet porous materials receive removal decisions. A newly seasoned accessory does not establish that the range’s controls or surrounding cabinetry survived the fire."
+      }
+    ],
+    "estimate": "Griddle material, fire exposure and the appliance provider’s acceptance determine the item pathway.",
+    "checklist": [
+      "Provide the griddle and appliance identification.",
+      "Describe cracks, distortion and suppression-agent contact.",
+      "Identify nearby cabinet and floor damage."
+    ]
+  },
+  "emergency-board-up-after-fire/kennedale": {
+    "intro": "Emergency board up after fire in Kennedale may use clip-retained plywood at a sound recessed masonry opening when the temporary protection plan accepts that system. The spring clips grip the opening without drilling its face. We will confirm the receiving masonry and required access before selecting that closure.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Kennedale: check the recess and temporary-use requirements",
+        "text": "Fire and structural release precede measuring the opening. The installer checks recess depth, masonry condition, panel dimensions and the chosen clip’s material and size limits. Loose brick, damaged stucco or a required exit can rule out this arrangement."
+      },
+      {
+        "title": "Fit the panel with the spring teeth facing the masonry",
+        "text": "For an eligible Plylox installation, the installer cuts the specified plywood to its required clearance and places matching clips on the panel edges. The panel is pushed into the recess with the clip teeth bearing against the casing as the product directs. A panel held by friction against crumbling masonry is not an acceptable substitute for sound engagement."
+      },
+      {
+        "title": "Check retention and preserve authorized entry",
+        "text": "The installer checks seating and retention, with removal and access assigned under the temporary-work plan. Hurricane-product instructions do not establish a fire-damaged opening’s security, weather or occupancy approval. Permanent glazing, framing and masonry repairs remain separately assessed."
+      }
+    ],
+    "estimate": "Recess geometry, sound masonry, clip eligibility and authorized access determine whether this temporary method is appropriate.",
+    "checklist": [
+      "Share opening measurements and site-release findings.",
+      "Identify required exits and utility access.",
+      "Describe loose masonry or damaged receiving surfaces."
+    ]
+  },
+  "floor-water-damage-cleanup/kennedale": {
+    "intro": "Floor water damage cleanup in Kennedale can leave compatible sheet vinyl needing a cold-welded seam after the wet base has been restored. The liquid weld acts at tightly fitted sheet edges. We will coordinate that finish work after extraction, removal decisions and substrate drying.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Kennedale: confirm the vinyl product and receiving base",
+        "text": "The installer identifies the sheet and approved seam system. Loose bonding, contaminated backing or unresolved substrate moisture can rule out a local seam repair. Wet layers receive restoration before a new seam conceals their edge."
+      },
+      {
+        "title": "Protect the face and feed liquid into the tight joint",
+        "text": "For an eligible Tarkett cold-welding method, the installer prepares tightly matched edges and centers protective masking tape over the seam. The tape is cut along the joint, and the applicator needle delivers the specified welding liquid into the seam rather than leaving it on the walking surface. Tape removal and cure follow the product procedure; heat-weld rod is not added to this liquid-weld detail."
+      },
+      {
+        "title": "Check the joint after the required cure",
+        "text": "The installer observes the prescribed waiting period before traffic and checks continuity and adjacent bonding. A welded edge cannot correct delamination farther beneath the sheet. We retain the separate moisture and exposed-base findings for the areas restored before the finish repair."
+      }
+    ],
+    "estimate": "Vinyl identity, edge fit, bonding and substrate condition determine seam eligibility.",
+    "checklist": [
+      "Provide flooring product and installation information.",
+      "Describe open seams or lifted areas.",
+      "Share substrate findings and removed-layer photographs."
+    ]
+  },
+  "ceiling-water-damage-cleanup/kennedale": {
+    "intro": "Ceiling water damage cleanup in Kennedale may require a replacement border tile whose recessed edge must sit correctly on the wall molding. A plain square cut changes that fit. We will coordinate the ceiling repair after the wet cavity and grid have been evaluated.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Kennedale: identify the panel profile and overhead condition",
+        "text": "The installer distinguishes a tegular suspended panel from a clip-mounted tile or gypsum board. Wet backing and insulation receive separate restoration decisions, with electrical and suspect-material questions resolved before disturbance. Distorted grid cannot be corrected by trimming a tile to hide it."
+      },
+      {
+        "title": "Cut the border reveal in two directions",
+        "text": "For an eligible Armstrong tegular panel, the installer trims the overall size and marks the wall-molding line during a trial fit. A face-side cut partway through the panel is followed by a horizontal cut from the edge to release the strip and form the reveal. This leaves the face at the intended elevation while the cut edge rests on the molding."
+      },
+      {
+        "title": "Return the panel only after the open bay is ready",
+        "text": "Source repair, included removal and drying precede the final fit. The installer checks support and alignment without forcing the panel into a distorted opening. A matching ceiling face does not establish the condition of insulation beyond the accessed bay."
+      }
+    ],
+    "estimate": "Panel profile, grid condition and overhead wet layers determine restoration and replacement work.",
+    "checklist": [
+      "Share ceiling-panel identification and edge photographs.",
+      "Describe the leak and visible sagging.",
+      "Identify wet insulation or fixtures above the grid."
+    ]
+  },
+  "structural-drying-services/kennedale": {
+    "intro": "Structural drying services in Kennedale can use a supported warm-air mat over suitable retained material when targeted surface airflow is needed. The mat distributes conditioned air across the included area. We will check material limits and provide moisture removal alongside the added heat.",
+    "sections": [
+      {
+        "title": "Structural drying services in Kennedale: accept the material before covering it with a mat",
+        "text": "The provider checks contamination, deterioration, moisture location and finish sensitivity. Unsuitable porous layers are removed rather than covered to avoid demolition. Heat-sensitive flooring or an inaccessible wet underside can require a different drying plan."
+      },
+      {
+        "title": "Connect the distribution mat to controlled warm airflow",
+        "text": "For an eligible Drymatic arrangement, the provider secures the mat connection to the supported heat-and-air system and lays out connected sections over the intended surface. The mat’s internal passages spread warm air across the material instead of concentrating a heater at one spot. Temperature and airflow remain within the equipment and material limits, with dehumidification or an appropriate exhaust route handling released vapor."
+      },
+      {
+        "title": "Measure beneath the treated footprint as drying proceeds",
+        "text": "The provider checks consistent material locations and revises the layout when the response is uneven or concealed layers remain wet. A warm surface or lower room relative humidity alone does not establish completion. The mat is removed and the affected assembly reviewed before replacement finishes or contents cover it."
+      }
+    ],
+    "estimate": "Material compatibility, mat access, electrical capacity and the vapor-removal arrangement determine setup.",
+    "checklist": [
+      "Identify floor or wall construction and sensitive finishes.",
+      "Share source correction and prior moisture findings.",
+      "Describe the area available for the mat and moisture-removal equipment."
+    ]
+  },
+  "toilet-overflow-cleanup/kennedale": {
+    "intro": "Toilet overflow cleanup in Kennedale can involve continuing water admission from a fill valve that will not shut off as well as a separate bowl blockage. We will coordinate the plumber’s correction while recovering the water that actually escaped into the bathroom.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Kennedale: distinguish tank filling from drain restriction",
+        "text": "The plumber checks the fill valve, flush mechanism and drain before selecting service. Water reaching the tank overflow tube is not itself evidence that wastewater crossed the floor. Cleanup classification follows the actual source and contacts, including any bowl contents released during the event."
+      },
+      {
+        "title": "Flush debris beneath an eligible fill-valve cap",
+        "text": "For a supported Fluidmaster valve, the plumber isolates the supply and removes the cap assembly under the model procedure. A controlled flush with the prescribed splash-control method clears debris from the opened passage before the matching seal and cap are refitted. A worn seal or damaged valve receives replacement rather than repeated flushing or forcing the float down."
+      },
+      {
+        "title": "Test shutoff and restore the contacted floor layers",
+        "text": "The plumber checks refill shutoff and resolves any drain obstruction before normal use. We collect reachable water and solids, remove unsuitable affected porous material and physically clean suitable retained surfaces before any applicable disinfection. Drying addresses retained floor and wall edges separately from the repaired fill valve."
+      }
+    ],
+    "estimate": "Actual overflow source, valve condition, drain findings and contacted floor layers determine scope.",
+    "checklist": [
+      "Describe whether water escaped from the bowl, tank or supply.",
+      "Provide fixture and fill-valve identification if known.",
+      "Share drain-service findings and affected floor materials."
+    ]
+  }
+}

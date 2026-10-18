@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/hackberry": {
+    "intro": "Emergency water extraction in Hackberry helps when a floor-level supply register has received water from a room leak. We will collect water from the room and determine whether the opening leads to another affected space, with duct inspection handled separately from floor cleanup.",
+    "sections": [
+      {
+        "title": "Keep the floor opening in the extraction boundary",
+        "text": "A puddle that disappears through a register has moved rather than been recovered. We will inspect the accessible opening and surrounding floor layers, protect the work area, and extract liquid reachable with suitable equipment. A wet grille alone does not establish how far water traveled inside the duct."
+      },
+      {
+        "title": "Separate a washable grille from concealed duct material",
+        "text": "An accessible metal grille, absorbent duct lining, and the floor edge around the opening need different decisions. We will clean suitable included surfaces and identify any flooring or underlayment that must be lifted to reach trapped liquid. An HVAC provider will evaluate water or affected lining beyond the accessible opening; ordinary room extraction will not be described as duct restoration."
+      },
+      {
+        "title": "Dry the floor without concealing the remaining route",
+        "text": "We will measure retained floor material around the opening and arrange drying appropriate to its condition. Any equipment or utility concern must be resolved before operation. The handoff will identify the floor work completed and the duct portion still awaiting inspection, so replacing a grille does not hide an unfinished part of the loss."
+      }
+    ],
+    "estimate": "The register location, floor construction, accessible water and need for HVAC access affect the scope. Floor extraction, concealed duct work and replacement finishes will have separate boundaries.",
+    "checklist": [
+      "Identify any floor opening that received water.",
+      "Describe the source and whether the supply has stopped.",
+      "Share HVAC findings without reaching into the opening."
+    ]
+  },
+  "burst-pipe-cleanup/hackberry": {
+    "intro": "Burst pipe cleanup in Hackberry can involve wet pipe insulation as well as the wall around a repaired supply line. We will reach the affected cavity, remove water-damaged building layers as needed, and coordinate access to wrapped pipe so concealed moisture is not simply enclosed again.",
+    "sections": [
+      {
+        "title": "Distinguish the pipe covering from wall insulation",
+        "text": "A repaired fitting may be visible while adjacent pipe remains wrapped and the wall cavity holds wet insulation. We will inspect the accessible wall, lower plate and floor junction, collect reachable water, and identify the building material that obstructs treatment. Unknown or suspect pipe coverings need appropriate evaluation before disturbance."
+      },
+      {
+        "title": "Arrange access beneath wet wrapping",
+        "text": "Where pipe insulation is affected, its removal and replacement will be coordinated with the appropriate trade. Exposing the wall face alone does not reveal moisture retained against the wrapped section. We will remove specified unsuitable wallboard or cavity insulation, clear debris and clean suitable retained building surfaces without treating pipe service as part of ordinary demolition."
+      },
+      {
+        "title": "Restore the two insulation systems separately",
+        "text": "Repeat material readings will guide drying of retained framing and backing. The plumbing provider addresses the line and its covering requirements, while replacement wall insulation follows the completed building treatment. We will identify remaining softness, distortion or inaccessible material before wallboard conceals the repair."
+      }
+    ],
+    "estimate": "Pipe-covering condition, wall layers and access around the repaired connection affect treatment. Pipe service and insulation reinstatement are distinguished from building removal, cleaning and drying.",
+    "checklist": [
+      "Share the repaired pipe location and plumber findings.",
+      "Identify visible pipe wrapping without disturbing it.",
+      "Describe wet walls or flooring below the connection."
+    ]
+  },
+  "appliance-leak-cleanup/hackberry": {
+    "intro": "Appliance leak cleanup in Hackberry helps when a washing-machine pan contains water but the floor outside it is also wet. We will inspect the pan perimeter and underlying building materials, then recover accessible liquid and establish what must be exposed before the machine returns.",
+    "sections": [
+      {
+        "title": "Do not use the pan as the damage boundary",
+        "text": "Water may have overflowed a pan or traveled outside it from a connection behind the machine. We will compare the reported release with wet floor edges and lower wall material. Source diagnosis and pan or drain inspection remain with the appliance or plumbing provider; a pan that is empty at the visit does not prove the floor beneath it stayed dry."
+      },
+      {
+        "title": "Reach the underside without straining the installation",
+        "text": "Moving a washer or lifting a pan may require disconnection and handling of its drain connection. We will coordinate that access before disturbing the installation. Reachable liquid will be collected, unsuitable affected floor layers removed as agreed, and the exposed retained base cleaned according to the release conditions."
+      },
+      {
+        "title": "Check the support before resetting the pan",
+        "text": "We will measure and dry suitable retained substrate, then identify swelling or weakened material that requires repair. A new pan can cover the same damaged base unless that work is completed first. Leveling, appliance reconnection and testing are separate installation tasks; the restoration record will show the condition of the treated footprint."
+      }
+    ],
+    "estimate": "Machine handling, pan attachment, drain access and floor construction determine the work. Pan replacement, source repair and building restoration are separately identified.",
+    "checklist": [
+      "Describe where water appeared inside and outside the pan.",
+      "Share whether the washer or pan drain has been serviced.",
+      "Identify access restrictions around the laundry installation."
+    ]
+  },
+  "storm-water-damage-cleanup/hackberry": {
+    "intro": "Storm water damage cleanup in Hackberry helps when rain entering at a masonry exterior has wet the inside wall. We will treat affected interior materials while the exterior provider determines the entry and drainage problem; a dry room face alone cannot establish that the wall behind it is ready for repair.",
+    "sections": [
+      {
+        "title": "Trace the interior wetting without diagnosing the exterior by stain size",
+        "text": "Water can appear at a baseboard below an entry higher in the wall. We will check accessible trim, wallboard and insulation and use exterior inspection findings to guide interior access. We will not assume that the visible indoor mark identifies a single crack or that the masonry itself is the only affected layer."
+      },
+      {
+        "title": "Expose and clean the wet interior assembly",
+        "text": "Approved saturated or unsuitable board and insulation will be removed with room protection and debris collection. We will inspect reachable sheathing, framing and lower connections, cleaning suitable retained surfaces before arranging measured drying. Access that would disturb exterior drainage components needs coordination with the exterior repair provider."
+      },
+      {
+        "title": "Preserve drainage details when the wall is rebuilt",
+        "text": "An exterior wall may include a drainage space, flashing or openings intended to release water. Interior cleanup must not substitute filling those features for source correction. We will record treated components and remaining wet or damaged areas, while the qualified exterior provider specifies repairs before replacement insulation and interior finishes conceal the connection."
+      }
+    ],
+    "estimate": "Interior layer construction, access and water condition affect removal and drying. Masonry or exterior-envelope diagnosis and repair remain distinct from the interior cleanup estimate.",
+    "checklist": [
+      "Share exterior inspection findings or temporary repairs.",
+      "Describe when indoor wetting appears during rain.",
+      "Identify affected inside wall and floor edges."
+    ]
+  },
+  "structural-drying-services/hackberry": {
+    "intro": "Structural drying services in Hackberry can require a different approach when wet wallboard sits behind vinyl wallcovering. We will evaluate the backing and finish together, then explain whether retained material can be reached for drying or needs removal before decorating resumes.",
+    "sections": [
+      {
+        "title": "Check behind the finish where access is available",
+        "text": "A dry-looking wallcovering can conceal wet paper backing or board. We will compare appropriate readings at accessible affected and reference locations, accounting for the construction when interpreting them. Seams, an existing opening or an authorized test area may reveal whether the covering is separating and whether the board remains suitable to retain."
+      },
+      {
+        "title": "Choose access based on the retained material",
+        "text": "A low-permeance covering can restrict evaporation from the wall face. Where the underlying material is suitable to retain, we will explain a workable access and drying arrangement rather than simply extending room equipment time. A covering that must come off may not survive removal; softened board or unsuitable affected backing needs its own removal decision."
+      },
+      {
+        "title": "Separate moisture response from redecorating readiness",
+        "text": "Follow-up readings will track the material served by the drying setup. Adhesive residue, torn facing or a failed bond can remain after moisture decreases and may require surface repair. We will identify that condition and unresolved source work before a finish installer decides how to prepare the wall for a new covering."
+      }
+    ],
+    "estimate": "Wallcovering type, accessible backing, board condition and removal consequences influence the plan. Drying and preparation for replacement decoration are separate tasks.",
+    "checklist": [
+      "Identify the wallcovering and any loose seams if known.",
+      "Share the leak source and existing material readings.",
+      "Describe previous attempts to peel, patch or dry the wall."
+    ]
+  },
+  "floor-water-damage-cleanup/hackberry": {
+    "intro": "Floor water damage cleanup in Hackberry can involve water beneath a wood floor carried on sleepers above a slab. We will identify the accessible construction and reach the affected space below the boards, keeping treatment of the wood separate from decisions about the slab and replacement flooring.",
+    "sections": [
+      {
+        "title": "Confirm the space beneath the boards",
+        "text": "Where an exposed edge shows wood supports above concrete, water may occupy spaces that surface extraction cannot reach. We will inspect available openings and identify the layers and reachable compartments before proposing selective lifting. The presence and arrangement of sleepers will be established from the property, not assumed for every wood floor."
+      },
+      {
+        "title": "Collect water from the exposed compartments",
+        "text": "Agreed flooring access will allow collection of reachable liquid and debris between supports. Wet or unsuitable underlayment and other affected layers will receive separate retention decisions. We will clean suitable exposed surfaces and identify sections still blocked by fixed installations instead of describing the entire concealed floor as treated from one opening."
+      },
+      {
+        "title": "Evaluate wood support and installation requirements separately",
+        "text": "Moisture checks will guide drying of retained wood, while softened supports or loose connections require repair evaluation. The slab and the intended replacement product may have their own testing and preparation requirements for the flooring installer. We will report the treated assembly and access limits without treating a dry wood reading as approval to install every finish over the concrete."
+      }
+    ],
+    "estimate": "The sleeper arrangement, removable floor area, concealed layers and support condition influence access and monitoring. Slab preparation, support repairs and replacement installation are separately scoped.",
+    "checklist": [
+      "Share any known floor construction or exposed-edge photographs.",
+      "Describe where water entered and any previous lifting.",
+      "Identify fixed cabinets or other obstructions over the affected floor."
+    ]
+  },
+  "ceiling-water-damage-cleanup/hackberry": {
+    "intro": "Ceiling water damage cleanup in Hackberry helps when wet tiles sit in a suspended ceiling and water may remain above the grid. We will evaluate the removable panels and accessible overhead space separately, then collect water and treat affected building material before replacement tiles hide it.",
+    "sections": [
+      {
+        "title": "Use removable panels to inspect the space above",
+        "text": "A stained tile shows where water reached the ceiling, but nearby tiles or insulation may also be wet. We will arrange safe access, remove approved unstable or saturated panels with protection below, and inspect the reachable cavity. Lights, cables and other services need appropriate trade attention before work disturbs them."
+      },
+      {
+        "title": "Treat what replacement tiles would conceal",
+        "text": "We will collect loose debris and accessible water, remove specified unsuitable insulation, and clean suitable retained surfaces according to the release conditions. The metal grid and the material above it have separate retention decisions. Bent, loose or corroded grid components need repair evaluation rather than being hidden beneath a new panel."
+      },
+      {
+        "title": "Check the overhead assembly before closing the grid",
+        "text": "Material readings will guide drying of retained wood or other suitable wet components. We will identify any inaccessible section and remaining source or support repairs. Replacing the visible tiles completes the finish only after the included overhead treatment is resolved; it does not itself dry the space above."
+      }
+    ],
+    "estimate": "Ceiling height, tile condition, service obstructions and the material above the grid determine access and treatment. Electrical work and grid repair are separately scoped.",
+    "checklist": [
+      "Describe affected tiles and what is above the ceiling if known.",
+      "Identify lights or services near the wet area.",
+      "Share source-repair findings without lifting unstable panels."
+    ]
+  },
+  "bathroom-mold-removal/hackberry": {
+    "intro": "Bathroom mold removal in Hackberry can involve a tiled shower bench with affected backing revealed at an opening. We will evaluate the accessible bench and adjoining wall, then define treatment that reaches the affected material before the shower enclosure is repaired.",
+    "sections": [
+      {
+        "title": "Distinguish the tile face from the bench interior",
+        "text": "An intact-looking seat does not show the condition of its backing or enclosed support. Available assessment and moisture findings will guide access, including whether affected material extends to the wall or floor connection. We will not infer the bench construction or a waterproofing failure solely from surface discoloration."
+      },
+      {
+        "title": "Remove affected layers without losing the support decision",
+        "text": "The responsible provider will establish controls and remove specified unsuitable porous material for contained disposal. Reachable retained framing and junctions will receive suitable particle collection and cleaning. A weakened support or opening that changes the bench structure requires repair planning with the appropriate provider before further dismantling or reuse."
+      },
+      {
+        "title": "Rebuild water protection after treatment",
+        "text": "We will identify moisture correction, drying and any required independent evaluation before the bench is enclosed again. Waterproofing continuity and tile reinstatement are reconstruction responsibilities, distinct from cleaning retained surfaces. Applying new grout over an unresolved interior will not complete that work."
+      }
+    ],
+    "estimate": "Bench construction, access, adjoining wet layers and support condition affect the scope. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope disclosed before work begins.",
+    "checklist": [
+      "Describe the bench opening and nearby affected finishes.",
+      "Share leak or shower-repair history.",
+      "Provide assessment findings or existing photographs."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/hackberry": {
+    "intro": "Kitchen cabinet mold removal in Hackberry can involve an upper cabinet with affected backing or wall material around its hanging points. We will coordinate supported removal when needed, treat the exposed surfaces, and separate the cabinet recovery decision from the wall attachment required for reinstallation.",
+    "sections": [
+      {
+        "title": "Establish how the cabinet is supported before opening the wall",
+        "text": "An upper cabinet may be secured through its back or carried on a mounting rail connected to the wall. We will identify the accessible arrangement and have the appropriate installer establish support before fasteners or affected backing are disturbed. Emptying the cabinet does not make it safe to loosen an unknown attachment."
+      },
+      {
+        "title": "Treat the detached cabinet and exposed wall separately",
+        "text": "Under the remediation controls, specified unsuitable porous backing or wallboard will be removed and packaged. Suitable reachable retained surfaces will receive appropriate particle collection and compatible cleaning, including the wall face previously concealed by the cabinet. Affected material behind a rail may require coordinated detachment; cleaning around its visible perimeter does not establish treatment of the surface it covers."
+      },
+      {
+        "title": "Give reinstallation a sound receiving connection",
+        "text": "We will identify moisture correction, drying and any required independent evaluation before the cabinet returns. A swollen cabinet back or deteriorated wall attachment may need repair even after surface treatment. The installer must establish a suitable repaired mounting arrangement, with cabinet retention, wall repair and load-bearing attachment treated as separate decisions."
+      }
+    ],
+    "estimate": "Cabinet size, height, hanging method, wall construction and affected backing influence access and handling. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Identify the affected upper cabinet and existing openings.",
+      "Share leak history and available assessment findings.",
+      "Provide installation details or mounting photographs if already available."
+    ]
+  },
+  "mold-remediation-after-water-damage/hackberry": {
+    "intro": "Mold remediation after water damage in Hackberry can involve trim removed during the original cleanup and set aside for reuse. We will evaluate affected stored pieces and the exposed room separately, so reinstalling old material does not undo the treatment planned for the building.",
+    "sections": [
+      {
+        "title": "Compare the stored trim with its receiving location",
+        "text": "Baseboards or casing may have been stacked while damp, with their backs concealed from view. We will review available findings, accessible condition and the original water path before deciding what belongs in the remediation scope. A clean-looking front is not evidence that the backing or adjacent wall is unaffected."
+      },
+      {
+        "title": "Treat retained pieces and building surfaces as separate groups",
+        "text": "The responsible provider will establish controls, remove specified unsuitable porous material and clean suitable reachable retained surfaces. Accepted detachable pieces need access to included rear faces and joints, while the wall or floor connection receives its own treatment. Composite trim that has swollen or separated may require replacement even if surface deposits can be removed."
+      },
+      {
+        "title": "Keep completed material separate until refitting",
+        "text": "We will identify drying, source correction and any required independent evaluation before pieces return. Treated trim will be kept apart from unresolved material, with remaining repair needs recorded. Reinstallation should close a completed assembly rather than conceal an untreated backing because the piece still matches the room."
+      }
+    ],
+    "estimate": "The quantity and construction of stored trim, treatment space and condition of the receiving assembly affect the plan. Mold work requiring a license is referred to an appropriately licensed partner with provider and scope disclosed before work begins.",
+    "checklist": [
+      "Identify removed pieces saved for reuse and where they were stored.",
+      "Share the original loss and drying records.",
+      "Provide current assessment findings and source-repair status."
+    ]
+  },
+  "mold-removal-behind-drywall/hackberry": {
+    "intro": "Mold removal behind drywall in Hackberry can require access beside a pocket door, where the sliding panel occupies part of the wall cavity. We will define the affected material and safe treatment access before wallboard or door trim closes the pocket again.",
+    "sections": [
+      {
+        "title": "Account for the door inside the cavity",
+        "text": "A small opening may reveal affected backing while the door hides another face when retracted. We will review findings and the accessible construction to establish the treatment boundary. Door movement, track access and nearby services need coordination before removal reaches that space."
+      },
+      {
+        "title": "Reach the pocket without treating the door as framing",
+        "text": "The responsible provider will establish controls and remove specified unsuitable board or insulation. Suitable reachable retained surfaces will receive appropriate particle collection and cleaning. Door removal needed for access belongs in an agreed handling plan; affected door faces or hardware require their own treatment or specialist decision."
+      },
+      {
+        "title": "Preserve clearance when the wall is repaired",
+        "text": "We will record treated surfaces, inaccessible sections, moisture correction and required independent evaluation. The repair provider must restore suitable backing and fastening without intruding into the door path. A working sliding door does not establish that the cavity behind it has completed remediation."
+      }
+    ],
+    "estimate": "Pocket construction, door handling, access and the affected wall layers influence labor. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Identify the pocket door and existing opening.",
+      "Share leak history and assessment findings.",
+      "Note whether the door or track has already been removed."
+    ]
+  },
+  "kitchen-fire-cleanup/hackberry": {
+    "intro": "Kitchen fire cleanup in Hackberry helps when soot and grease deposits surround a range hood after a cooking fire. We will separate cleaning of accessible building finishes from the hood, filters and concealed exhaust components that need equipment evaluation.",
+    "sections": [
+      {
+        "title": "Define the surfaces around the hood",
+        "text": "Cabinet undersides, wall finishes and the outside of a hood can carry different deposits and heat effects. We will inspect the accessible surfaces and test compatible cleaning where appropriate. A clean metal exterior will not establish the condition of a filter, fan or enclosed duct."
+      },
+      {
+        "title": "Remove deposits without pushing them into openings",
+        "text": "Suitable loose-residue collection will precede compatible cleaning of included fixed surfaces and details. We will protect adjacent finishes and identify authorized removal needed to reach a concealed wall face. Filter handling, connected equipment movement and internal servicing will be assigned to an appropriate provider before those tasks proceed."
+      },
+      {
+        "title": "Distinguish a cleaned surround from equipment readiness",
+        "text": "We will identify permanent coating damage, charred material and any suppression-water treatment still needed in the building. The equipment provider determines required internal cleaning, repair or replacement and operating checks. Returning the kitchen to service requires those separate decisions rather than relying on the appearance of the hood surround."
+      }
+    ],
+    "estimate": "Hood arrangement, accessible finish types, residue and equipment-movement requirements affect the estimate. Building cleanup and exhaust-equipment service have distinct scopes.",
+    "checklist": [
+      "Identify the cooking appliance and hood arrangement.",
+      "Share incident and equipment-inspection information.",
+      "Note areas reached by smoke or extinguishing water."
+    ]
+  },
+  "smoke-damage-cleanup/hackberry": {
+    "intro": "Smoke damage cleanup in Hackberry can involve plantation shutters with deposits on both sides of the louvers and inside the window recess. We will evaluate the finish and arrange access for cleaning the included faces, rather than judge the whole installation from the side visible in the room.",
+    "sections": [
+      {
+        "title": "Inspect the moving parts and sheltered faces",
+        "text": "Louvers, hinges and the shutter frame can conceal residue when the panels remain closed. We will review accessible deposits and test a suitable method on sensitive finishes. Swelling, heat distortion or a damaged coating will be distinguished from material that cleaning can remove."
+      },
+      {
+        "title": "Clean the included details without forcing the mechanism",
+        "text": "Appropriate loose-particle collection will precede compatible detail cleaning. Authorized opening or removal may be needed to reach rear faces and the window surround; fragile or damaged hardware needs a repair decision before movement. We will identify any surface that cannot be reached with the agreed access."
+      },
+      {
+        "title": "Review the recess and shutter separately before refitting",
+        "text": "The surrounding trim and sill receive their own cleaning scope, while detached components remain identifiable. We will report remaining odor, finish damage or mechanical problems after treatment. Rehanging a panel does not show that enclosed deposits were removed or that damaged hinges are ready for use."
+      }
+    ],
+    "estimate": "Panel count, finish sensitivity, louver construction and removal access influence labor. Hardware repair or specialist treatment is separate from included surface cleaning.",
+    "checklist": [
+      "Identify affected shutters and nearby window finishes.",
+      "Describe any heat, water or operating damage.",
+      "Note previous wiping or cleaning products used."
+    ]
+  },
+  "toilet-overflow-cleanup/hackberry": {
+    "intro": "Toilet overflow cleanup in Hackberry can require checking beneath a bathtub apron when wastewater has reached an access panel or open edge. We will trace the actual contact and separate treatment of the visible floor from any contamination inside the tub enclosure.",
+    "sections": [
+      {
+        "title": "Use the access point to establish the concealed boundary",
+        "text": "Water beside a tub does not prove the entire enclosure was reached. We will inspect accessible edges and available openings, review the source conditions and collect reachable wastewater. Any further access will be based on findings rather than automatic removal of the tub."
+      },
+      {
+        "title": "Expose contacted materials without disturbing tub support",
+        "text": "Approved access panels or unsuitable affected layers may need removal to reach contaminated backing and floor surfaces. Tub supports, plumbing and connected fixtures require appropriate trade decisions before movement. We will contain specified porous waste and physically remove soil and residue from suitable retained surfaces before appropriate disinfection."
+      },
+      {
+        "title": "Resolve the enclosed floor before replacing the apron",
+        "text": "Moisture checks will guide drying of suitable retained components. We will identify weakened support, remaining contamination or inaccessible sections before panels conceal the space. Plumbing correction, tub repairs and finishing remain distinct from the cleanup performed beneath the enclosure."
+      }
+    ],
+    "estimate": "Actual wastewater contact, panel access, floor layers and tub-support constraints determine the work. Plumbing or fixture movement is separately coordinated.",
+    "checklist": [
+      "Describe the overflow source and affected floor edges.",
+      "Identify any tub access panel without entering the enclosure.",
+      "Share plumbing findings and earlier cleanup details."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/hackberry": {
+    "intro": "AC leak water damage cleanup in Hackberry can involve wet building material beside a return-air opening. We will evaluate the condensate path and affected enclosure, with HVAC inspection kept separate from treatment of the wall and floor around that opening.",
+    "sections": [
+      {
+        "title": "Check the opening and the building layers around it",
+        "text": "A wet filter or grille may accompany water in adjacent board, trim or platform material. We will use accessible observations and HVAC findings to trace the building exposure. Neither replacing the filter nor wiping the grille establishes that the surrounding construction has dried."
+      },
+      {
+        "title": "Coordinate access before disturbing the return enclosure",
+        "text": "The HVAC provider will identify equipment or airflow-path work needed before building removal proceeds. We will collect reachable liquid, remove specified unsuitable building layers and clean suitable exposed surfaces. Duct lining, equipment interiors and filter replacement retain separate service decisions; restoration debris must be controlled during the work."
+      },
+      {
+        "title": "Return a treated enclosure to the HVAC provider",
+        "text": "We will measure retained wet material and arrange drying, noting permanent swelling or weakened support. Remaining openings and repair needs will be communicated before the enclosure is rebuilt. The HVAC provider addresses system condition and operation; the building cleanup record does not establish that the air path is ready for service."
+      }
+    ],
+    "estimate": "Return-opening configuration, nearby equipment and affected wall or floor layers influence access. HVAC internals, source repair and building restoration are separately identified.",
+    "checklist": [
+      "Identify the return opening and condensate equipment location.",
+      "Describe where moisture appeared.",
+      "Share HVAC inspection or source-repair findings."
+    ]
+  },
+  "crawl-space-water-removal/hackberry": {
+    "intro": "Crawl space water removal in Hackberry can require collecting pools divided by piers, footings or low foundation sections. We will identify reachable compartments and recover water from them without assuming that clearing the area nearest the entry clears the whole underside.",
+    "sections": [
+      {
+        "title": "Map where supports interrupt the collection route",
+        "text": "A low point behind a footing may retain liquid after a neighboring section empties. We will inspect the accessible layout and choose hose or collection positions suited to those spaces. Structural supports will not be cut or altered to connect pools; inaccessible areas require a separate access decision."
+      },
+      {
+        "title": "Collect water without eroding the surrounding ground",
+        "text": "We will select a suitable collection and discharge arrangement for the observed conditions, keeping removed water from returning to the space. Soil movement, unexpected voids or exposed support concerns require appropriate evaluation before further disturbance. Contaminated water or debris changes the handling plan rather than being treated as an ordinary clear-water pool."
+      },
+      {
+        "title": "Inspect each cleared section for remaining building effects",
+        "text": "As access improves, we will examine reachable insulation, joists and subfloor and remove specified unsuitable debris. Suitable retained wood will receive moisture checks and drying where needed. The record will distinguish sections reached, continuing inflow and support concerns that pumping alone cannot resolve."
+      }
+    ],
+    "estimate": "Compartment layout, clearance, collection distance and ground condition affect equipment and labor. Drainage and foundation repair are separate from water removal.",
+    "checklist": [
+      "Describe the entry and visible pooling without entering.",
+      "Share any known pier or footing access restrictions.",
+      "Provide plumbing, drainage or foundation findings if available."
+    ]
+  },
+  "attic-mold-remediation/hackberry": {
+    "intro": "Attic mold remediation in Hackberry can involve affected material on an insulated access hatch and the surrounding ceiling frame. We will evaluate the movable panel and fixed opening separately, then coordinate treatment before the hatch is sealed or insulation is replaced.",
+    "sections": [
+      {
+        "title": "Inspect both the hatch and its receiving frame",
+        "text": "The room-side finish may look unaffected while the upper panel, insulation or frame needs attention. Available findings will guide the scope and moisture investigation. We will not identify the source from staining alone or assume that replacing the hatch treats nearby attic framing."
+      },
+      {
+        "title": "Control debris while working above the occupied room",
+        "text": "The responsible provider will establish appropriate controls and a protected handling route. Specified unsuitable insulation or porous components will be removed and packaged; reachable retained surfaces will receive suitable particle collection and cleaning. The panel may need authorized detachment to reach its edges without dropping debris through the opening."
+      },
+      {
+        "title": "Reinstate insulation and closure after treatment",
+        "text": "Moisture correction, drying and required independent evaluation will be identified before the assembly is covered. Damaged hinges, supports or panel edges need separate repair. The appropriate repair provider will address the intended insulation and sealing arrangement without using new covering to hide untreated material."
+      }
+    ],
+    "estimate": "Opening height, hatch construction, insulation attachment and nearby affected surfaces determine the scope. Licensed mold work is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Share photographs of the hatch and accessible surrounding area.",
+      "Describe prior roof, condensation or hatch concerns.",
+      "Provide assessment and moisture findings if available."
+    ]
+  },
+  "crawl-space-mold-remediation/hackberry": {
+    "intro": "Crawl space mold remediation in Hackberry can require reaching affected blocking between floor joists. We will define the faces and connecting joints included in treatment and explain access limits before replacement insulation hides those short supporting members.",
+    "sections": [
+      {
+        "title": "Look beyond the visible bottom edge",
+        "text": "A blocking member can conceal a rear face or a joint against the subfloor. Available assessment findings and reachable observations will guide the treatment area. The provider will identify insulation or other obstacles that must move; structural components will not be detached merely to improve cleaning access without appropriate evaluation."
+      },
+      {
+        "title": "Treat the included faces and connections",
+        "text": "Under the work controls, specified unsuitable porous waste will be removed and packaged. Suitable retained wood will receive appropriate particle collection and cleaning at reachable faces and joints. Where a connection remains inaccessible, the next access or repair decision will be stated instead of describing the entire member as treated."
+      },
+      {
+        "title": "Separate cleaning from the condition of the support",
+        "text": "Deteriorated wood or failed attachment may need structural repair regardless of the cleaning result. We will identify remaining moisture correction, drying and required independent evaluation. Insulation returns after those relevant tasks, with any untreated section kept visible in the handoff."
+      }
+    ],
+    "estimate": "Blocking arrangement, clearance, insulation and reachable faces affect labor. Mold work requiring a license is referred to an appropriately licensed partner with provider and scope identified before work begins.",
+    "checklist": [
+      "Provide existing underside photographs or assessment findings.",
+      "Describe insulation and access restrictions if known.",
+      "Share moisture-source or structural-repair information."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/hackberry": {
+    "intro": "Mold contaminated contents cleaning in Hackberry can help evaluate woven baskets or wicker furniture after damp storage. We will distinguish accessible finished surfaces from absorbent strands, liners and joints that may prevent effective treatment before proposing recovery.",
+    "sections": [
+      {
+        "title": "Examine the weave and removable lining separately",
+        "text": "A basket may combine coated strands, unfinished edges and a fabric insert with different conditions. We will review the item and available exposure findings before choosing treatment. A washable liner does not establish that the woven body can receive the same process, and visible condition alone may leave concealed intersections uncertain."
+      },
+      {
+        "title": "Use limited treatment to judge a suitable item",
+        "text": "For accepted material, appropriate particle collection and compatible cleaning will address the included reachable surfaces. Sensitive coatings or fragile strands may need a limited trial or specialist evaluation before broader work. We will not assume that cleaning the outer face reaches every overlap inside a tight weave."
+      },
+      {
+        "title": "Make the recovery decision before repacking",
+        "text": "Items that cannot be adequately reached or are structurally deteriorated need a separate recovery or disposal decision with the owner. Accepted cleaned pieces will be appropriately dried and separated from untreated liners or packaging. Valuable or delicate objects may warrant conservation review rather than further routine cleaning."
+      }
+    ],
+    "estimate": "Weave density, coating, fragility, liners and item quantity influence evaluation and treatment. Mold work requiring a license is referred to an appropriately licensed partner with scope disclosed before work begins.",
+    "checklist": [
+      "List woven items and whether they have removable liners.",
+      "Identify valuable or fragile pieces.",
+      "Share storage and moisture history."
+    ]
+  },
+  "fire-damaged-debris-removal/hackberry": {
+    "intro": "Fire damaged debris removal in Hackberry can include broken window glass mixed with burned finishes and wet debris. We will define the approved removal area and handle sharp fragments separately from components still attached to the opening.",
+    "sections": [
+      {
+        "title": "Resolve hanging material before clearing the floor",
+        "text": "Glass or damaged trim remaining overhead can affect safe access beneath it. We will identify the need for glazing, structural or utility assistance before debris is disturbed. Removing fallen pieces alone will not be presented as securing the opening or making the surrounding frame sound."
+      },
+      {
+        "title": "Contain fragments along the removal route",
+        "text": "Approved sharp debris will be collected with suitable tools and packaging that accounts for its condition. Retained belongings, inspection samples and disputed salvage remain outside the waste load. We will protect the transfer route and collect reachable fragments from the work area instead of dragging mixed debris across finishes intended to stay."
+      },
+      {
+        "title": "Inspect the newly exposed edge for the next task",
+        "text": "After approved bulk removal, we will identify remaining loose material, soot and moisture treatment needs. Fragments inside inaccessible frame pockets or other cavities require an additional access decision. Temporary closure and replacement glazing have separate scopes; a cleared floor does not establish that the opening is ready for either."
+      }
+    ],
+    "estimate": "Fragment distribution, attached material, access and disposal requirements affect the work. Site release and appropriate safety or trade evaluations must precede disturbance.",
+    "checklist": [
+      "Share site-release and inspection status.",
+      "Identify damaged openings and approved debris areas.",
+      "List belongings or samples that must be retained."
+    ]
+  },
+  "fire-damaged-contents-cleaning/hackberry": {
+    "intro": "Fire damaged contents cleaning in Hackberry can involve furniture assembled from laminated composite panels. We will evaluate the faces, exposed edges and connecting joints before deciding whether residue cleaning offers a useful recovery path.",
+    "sections": [
+      {
+        "title": "Separate a washable face from the panel beneath it",
+        "text": "A laminate surface may carry removable soot while an exposed edge has swollen from firefighting water. We will inspect representative areas and identify heat distortion, separating layers or damaged joints. Surface cleaning cannot restore the strength of a deteriorated panel."
+      },
+      {
+        "title": "Choose disassembly only when the construction permits it",
+        "text": "Authorized removal of detachable parts can reveal deposits at joints and rear faces. Repeatedly undoing connectors in weakened material may cause further damage, so the handling plan must reflect the item condition. Accepted surfaces will receive suitable loose-residue collection and compatible cleaning, with inaccessible interiors identified."
+      },
+      {
+        "title": "Review the result before reassembly or return",
+        "text": "A limited treatment can inform whether similar components merit further work. We will report remaining staining, odor and attachment damage, keeping repair or disposal approval separate from cleaning. Completed suitable parts will be appropriately dry and protected; a clean front will not establish that the assembled furniture is stable."
+      }
+    ],
+    "estimate": "Panel construction, edge damage, safe disassembly and component quantity affect the estimate. Furniture repair or specialist evaluation may be needed beyond residue cleaning.",
+    "checklist": [
+      "Identify affected furniture and visible edge or joint damage.",
+      "Share heat and firefighting-water exposure if known.",
+      "Note pieces that should not be disassembled without approval."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/hackberry": {
+    "intro": "Fire extinguisher residue cleanup in Hackberry can require cleaning movable carts after discharged agent reaches their wheels and the floor below. We will identify the agent and control movement before rolling contaminated parts into an otherwise unaffected room.",
+    "sections": [
+      {
+        "title": "Inspect the wheel assembly before moving the cart",
+        "text": "Residue may sit on wheel treads, around forks or beneath lower shelves. We will review agent information and the accessible surfaces, then plan a protected handling route. The amount visible on a shelf does not establish what the wheels could transfer along the floor."
+      },
+      {
+        "title": "Collect deposits from the included parts",
+        "text": "Suitable agent-specific collection will precede compatible cleaning of accessible treads, supports and shelf undersides. Safe lifting or authorized detachment may be needed for access and will be planned according to the equipment. Enclosed bearings, brakes or powered components need appropriate technical evaluation rather than an exterior-cleaning claim."
+      },
+      {
+        "title": "Clean the footprint before returning movable storage",
+        "text": "We will treat included floor deposits and distinguish cleaned cart surfaces from unresolved internal mechanisms. Coating changes, corrosion or operating problems remain repair questions. The cart will return only under the agreed handling arrangement, with inaccessible parts and any remaining treatment recorded."
+      }
+    ],
+    "estimate": "Agent type, cart construction, wheel access and the affected floor route influence the scope. Mechanical servicing and equipment testing are separate from residue cleanup.",
+    "checklist": [
+      "Photograph the extinguisher label if safe.",
+      "Identify carts and the routes used after discharge.",
+      "Note brakes, powered parts or lifting restrictions."
+    ]
+  },
+  "emergency-board-up-after-fire/hackberry": {
+    "intro": "Emergency board up after fire in Hackberry can require temporary coverage over a recessed opening with projecting trim. We will measure the actual exposure and usable support so the panel can be secured without relying on decorative material that cannot carry it.",
+    "sections": [
+      {
+        "title": "Measure the support plane as well as the opening",
+        "text": "A deep recess or projecting surround can prevent a flat panel from seating where expected. We will inspect accessible perimeter condition and identify sound fixing locations. Loose or weakened decorative trim needs an appropriate handling decision before coverage is fitted."
+      },
+      {
+        "title": "Fit temporary coverage to the observed geometry",
+        "text": "The agreed method may require a suitably planned support arrangement rather than forcing a panel against uneven trim. Appropriate materials will be cut, positioned and fastened to suitable support, then checked for movement and uncovered gaps. Structural stabilization remains a separate task when the remaining opening cannot support temporary coverage."
+      },
+      {
+        "title": "Keep later repair access in the fitting plan",
+        "text": "We will identify how authorized inspection or replacement work can proceed without unintentionally leaving the exposure open. Temporary panels do not establish permanent weatherproofing, structural safety or occupancy permission. Changes to the remaining frame may require the closure to be refitted as repair work advances."
+      }
+    ],
+    "estimate": "Recess depth, projecting features, opening height and usable attachment affect labor and materials. Availability is confirmed for the address; permanent reconstruction has a separate scope.",
+    "checklist": [
+      "Share the opening dimensions and photographs from a safe location.",
+      "Identify projecting trim or damaged perimeter sections.",
+      "Provide site-release status and the authorized access contact."
+    ]
+  },
+  "crawl-space-sewage-cleanup/hackberry": {
+    "intro": "Crawl space sewage cleanup in Hackberry can involve wastewater among loose gravel beneath the floor. We will distinguish reachable liquid, contaminated ground material and affected building components before proposing removal and retained-surface treatment.",
+    "sections": [
+      {
+        "title": "Evaluate the loose ground layer separately",
+        "text": "Gravel can conceal settled material or liquid below its visible surface. We will review accessible contact and source findings before defining the work area. The scope will state whether additional ground-layer evaluation or removal is needed; a cleaner-looking upper surface will not establish that the underlying material was treated."
+      },
+      {
+        "title": "Collect wastewater and handle contaminated material",
+        "text": "Reachable wastewater and specified affected debris will be collected using suitable controls and transfer arrangements. Ground material designated for removal needs an agreed method and disposal plan, with excavation or disturbance near foundations requiring appropriate evaluation. Suitable retained building surfaces will have soil and residue physically removed before appropriate disinfection."
+      },
+      {
+        "title": "Keep ground findings separate from the floor structure",
+        "text": "We will inspect reachable joists, subfloor and insulation for contact and identify removal or drying needed there. Replacing a ground covering or adding fresh gravel must not hide unresolved contamination. The handoff will distinguish completed building treatment, ground work and areas not reached, with plumbing correction separately recorded."
+      }
+    ],
+    "estimate": "Ground-layer condition, access, contamination extent and disposal quantities affect the scope. Work beyond Go Green\u2019s authority is referred to an appropriately licensed provider, identified before work begins.",
+    "checklist": [
+      "Describe the visible ground covering without entering.",
+      "Share the drain-line source and repair status.",
+      "Provide existing inspection photographs or access information."
+    ]
+  }
+}

@@ -1,82 +1,114 @@
 {
   "royse-city": {
     "keyword": "Property damage restoration in Royse City",
-    "description": "Property damage restoration in Royse City plans access, material removal, cleaning, drying, and the repair handoff around the affected room.",
+    "description": "Property damage restoration in Royse City separates debris removal, retained-surface treatment, and the return of cleaned items so later work does not undo cleanup.",
     "image": "appliance-leak-cleanup",
     "imageAlt": "Property damage restoration in Royse City: AI-generated illustration of a water-affected kitchen cabinet, not a completed Royse City project",
-    "intro": "Property damage restoration in Royse City may start with a room where a cabinet, flooring, and wall base meet. We will identify which parts need access, which can be cleaned and dried in place, and which must be removed before replacement work begins.",
+    "intro": "Property damage restoration in Royse City can involve taking damaged material out through rooms that will remain in use. We will plan the removal route, protect retained finishes, and separate outgoing waste from items ready to return. That arrangement affects how the room is cleaned, dried, and put back together.",
     "sections": [
       {
-        "title": "Property damage restoration in Royse City begins at the material boundary",
+        "title": "Property damage restoration in Royse City includes the route out of the work area",
         "paragraphs": [
-          "A damp cabinet toe kick can hide a wet wall edge or leave water trapped beneath the finished floor. We will inspect accessible surfaces and establish what the reported source affected before choosing an opening. Removing trim or a cabinet panel can make the assembly reachable; it does not by itself establish that the material behind it is ready to remain."
+          "An opened ceiling or removed cabinet produces fragments that must leave the property, while hoses and equipment may use the same doorway. We will identify a workable path before removal and place suitable protection where handling could soil or damage retained finishes. Protection will be arranged so it can be removed without dropping collected debris onto the surface beneath it."
         ]
       },
       {
-        "title": "Remove what blocks treatment and clean what can remain",
+        "title": "Keep removal ahead of the final surface cleaning",
         "paragraphs": [
-          "Where the agreed scope calls for removal, affected porous material is separated and collected so its debris does not spread across the room. Suitable retained surfaces are physically cleaned, and drying equipment is arranged to reach the exposed assembly. If a cabinet must be detached to reach the wall or floor edge, that access and the cabinet’s later reset are separate decisions in the work plan."
+          "Specified waste is contained at the work area before transport. Reachable liquid, loose fragments, and deposits are collected with methods appropriate to the exposure; retained surfaces then receive their included detailed treatment. If another opening is needed after an area has been cleaned, its debris handling and subsequent cleaning must be included in that change.",
+          "Drying equipment needs an arrangement suited to the materials and work controls. Ordinary room circulation will not be used to carry dust out of an active removal area. Mold work requiring a license is referred to an appropriately licensed partner identified before work begins; Go Green Restoration TX Inc’s Texas mold-remediation contractor license application is pending."
         ]
       },
       {
-        "title": "Set the repair handoff from the exposed condition",
+        "title": "Return items without crossing unfinished work",
         "paragraphs": [
-          "Before the opening is covered, the responsible provider checks the retained materials and records any remaining source correction or repair need. Go Green Restoration TX Inc’s Texas mold-remediation contractor license application is pending; work requiring that license is referred to an appropriately licensed partner, identified before work begins. Assessment or independent clearance is a separate service when applicable."
+          "Cleaned belongings and replacement materials need a receiving area clear of ongoing debris handling and unresolved moisture. We will identify when the removal route can be cleaned and its protection taken up, and which room surfaces still need treatment before reset. A finished room can require another cleaning pass if later repair work carries dust back through it; that task will be distinguished from the earlier restoration."
         ]
       }
     ],
-    "checklistTitle": "Details that help define a room restoration",
+    "checklistTitle": "Details that affect removal and return",
     "checklist": [
-      "Which surfaces or cabinet parts feel damp or show damage.",
-      "Whether the leak or other source has been corrected.",
-      "Any flooring, trim, or wall material already opened or removed."
+      "Which doorway provides access to the affected room.",
+      "Retained flooring or furnishings along the route.",
+      "Belongings already cleaned, moved, or stored for return."
     ],
     "links": [
-      { "href": "/water-damage-restoration/royse-city/", "label": "Water damage restoration in Royse City" },
-      { "href": "/mold-remediation/royse-city/", "label": "Mold remediation in Royse City" },
-      { "href": "/fire-smoke-damage-restoration/royse-city/", "label": "Fire and smoke damage restoration in Royse City" },
-      { "href": "/sewage-backup-cleanup/royse-city/", "label": "Sewage backup cleanup in Royse City" },
-      { "href": "/construction-remodeling/royse-city/", "label": "Reconstruction after property damage in Royse City" },
-      { "href": "/real-estate/", "label": "Restoration services for real estate agents" }
+      {
+        "href": "/water-damage-restoration/royse-city/",
+        "label": "Water damage restoration in Royse City"
+      },
+      {
+        "href": "/mold-remediation/royse-city/",
+        "label": "Mold remediation in Royse City"
+      },
+      {
+        "href": "/fire-smoke-damage-restoration/royse-city/",
+        "label": "Fire and smoke damage restoration in Royse City"
+      },
+      {
+        "href": "/sewage-backup-cleanup/royse-city/",
+        "label": "Sewage backup cleanup in Royse City"
+      },
+      {
+        "href": "/construction-remodeling/royse-city/",
+        "label": "Reconstruction after property damage in Royse City"
+      },
+      {
+        "href": "/real-estate/",
+        "label": "Restoration services for real estate agents"
+      }
     ]
   },
   "water-damage-restoration/royse-city": {
     "keyword": "Water damage restoration in Royse City",
-    "description": "Water damage restoration in Royse City checks beneath floating flooring to decide what can dry in place and what needs removal for access.",
+    "description": "Water damage restoration in Royse City investigates wet materials that stop responding to drying and changes the setup or access based on the cause.",
     "image": "floor-water-damage-cleanup",
     "imageAlt": "Water damage restoration in Royse City: AI-generated illustration of water-affected flooring, not a completed Royse City project",
-    "intro": "Water damage restoration in Royse City may be needed when water reaches the edge of floating flooring and disappears beneath the planks. We will determine whether the surface can be lifted selectively to inspect the underlayment and slab, then set a drying plan around the materials that remain.",
+    "intro": "Water damage restoration in Royse City may need a change of approach when equipment is running but the same wall or floor stays wet. We will compare material readings with the drying conditions, check for renewed water, and identify whether the next useful step is adjusting the setup or reaching another layer.",
     "sections": [
       {
-        "title": "Water damage restoration in Royse City follows water beneath the floor",
+        "title": "Water damage restoration in Royse City checks why progress has slowed",
         "paragraphs": [
-          "A dry-looking plank can cover damp underlayment or moisture at the slab edge. We will review the floor construction, the water source, and accessible readings before deciding whether to remove a threshold or open a small section. That opening should reach the layer needing inspection without assuming the entire floor needs replacement."
+          "A reading needs a consistent location and a method suitable for the material if it is to show a trend. We will revisit the affected points and compare them with the surrounding assembly. A persistently wet pocket calls for investigation; a single changed reading from a different surface does not establish that the original location improved."
         ]
       },
       {
-        "title": "Lift the floor where trapped water cannot be reached",
+        "title": "Correct the setup before simply adding more equipment",
         "paragraphs": [
-          "If water is beneath interlocking planks, the affected run may need to be lifted so liquid and debris can be collected and the underlayment evaluated. Material that is swollen, delaminated, or unsuitable for drying is removed within the agreed boundary. A sound retained slab and reusable flooring are cleaned as appropriate, with air movement and dehumidification directed into the exposed area rather than across an unopened surface."
+          "We will check the operating arrangement, including air reaching the wet surface and the removal of moisture from the drying area. An obstructed air path, an open connection to another space, or a problem with equipment drainage may need correction. The adjustment will address the condition found rather than add another fan to an unchanged arrangement.",
+          "If the room conditions improve while a covered layer remains wet, selective access or removal may be needed. Reachable water will be extracted and unsuitable material removed within the approved scope. New moisture after a source was reportedly repaired requires renewed source investigation as well as treatment of the wetted material."
         ]
       },
       {
-        "title": "Confirm the floor assembly before putting it back",
+        "title": "Use the response to choose the next step",
         "paragraphs": [
-          "Follow-up checks consider the exposed underlayment and slab, along with any remaining source or subfloor repair. Replacement flooring depends on a suitable receiving surface and material availability; reusing lifted planks is a separate condition decision. For a property already under contract, the repair sequence and progress record can support the authorized contacts’ planning without promising a closing date."
+          "Follow-up checks will show whether the corrected arrangement reaches the retained components. Material that has lost its integrity still requires a replacement decision even if its moisture condition improves. Before equipment is removed, we will explain remaining wet locations, access limits, and repair dependencies rather than use elapsed drying time as the completion measure."
         ]
       }
     ],
-    "checklistTitle": "Details about water beneath flooring",
+    "checklistTitle": "Details about drying already underway",
     "checklist": [
-      "Flooring type and the edge or doorway where water appeared.",
-      "Whether planks, underlayment, or baseboards have been lifted.",
-      "Known source repairs and any prior moisture checks."
+      "When equipment was installed or stopped.",
+      "Locations and dates of available material readings.",
+      "Source repairs, equipment interruptions, or new water noticed since setup."
     ],
     "links": [
-      { "href": "/floor-water-damage-cleanup/royse-city/", "label": "Water affecting a finished floor" },
-      { "href": "/structural-drying-services/royse-city/", "label": "Drying exposed building materials" },
-      { "href": "/construction-remodeling/royse-city/", "label": "Floor repair after water cleanup" },
-      { "href": "/services/water-damage-repair-before-closing/", "label": "Water damage repair before closing" }
+      {
+        "href": "/floor-water-damage-cleanup/royse-city/",
+        "label": "Water affecting a finished floor"
+      },
+      {
+        "href": "/structural-drying-services/royse-city/",
+        "label": "Drying exposed building materials"
+      },
+      {
+        "href": "/construction-remodeling/royse-city/",
+        "label": "Reconstruction after drying"
+      },
+      {
+        "href": "/services/water-damage-repair-before-closing/",
+        "label": "Water damage repair before closing"
+      }
     ]
   },
   "fire-smoke-damage-restoration/royse-city": {
@@ -112,127 +144,178 @@
       "Which rooms and belongings have visible residue or odor."
     ],
     "links": [
-      { "href": "/smoke-damage-cleanup/royse-city/", "label": "Smoke residue cleanup" },
-      { "href": "/fire-damaged-debris-removal/royse-city/", "label": "Fire-damaged material removal" },
-      { "href": "/construction-remodeling/royse-city/", "label": "Rebuilding after fire cleanup" },
-      { "href": "/real-estate/", "label": "Restoration coordination for real estate agents" }
+      {
+        "href": "/smoke-damage-cleanup/royse-city/",
+        "label": "Smoke residue cleanup"
+      },
+      {
+        "href": "/fire-damaged-debris-removal/royse-city/",
+        "label": "Fire-damaged material removal"
+      },
+      {
+        "href": "/construction-remodeling/royse-city/",
+        "label": "Rebuilding after fire cleanup"
+      },
+      {
+        "href": "/real-estate/",
+        "label": "Restoration coordination for real estate agents"
+      }
     ]
   },
   "mold-remediation/royse-city": {
     "keyword": "Mold remediation in Royse City",
-    "description": "Mold remediation in Royse City evaluates a damp wall around plumbing before cutting, removing affected board, and cleaning retained framing.",
-    "image": "bathroom-mold-removal",
-    "imageAlt": "Mold remediation in Royse City: AI-generated bathroom wall treatment illustration, not a completed Royse City project",
-    "intro": "Mold remediation in Royse City may be considered when growth is reported on a bathroom wall near a plumbing connection. We will identify the source and affected assembly, then decide how much wallboard must be opened to remove unsuitable material and reach the retained surfaces for cleaning and drying.",
+    "description": "Mold remediation in Royse City distinguishes cleaning retained framing from staining, deterioration, and repair needs before the wall is rebuilt.",
+    "image": "mold-removal-behind-drywall",
+    "imageAlt": "Mold remediation in Royse City: AI-generated opened-wall restoration illustration, not a completed Royse City project",
+    "intro": "Mold remediation in Royse City may involve exposed framing that remains discolored after affected wallboard has been removed. We will define the physical cleaning needed and distinguish deposits from damage that cleaning cannot repair. The condition of the wood and any applicable independent evaluation will guide what happens before enclosure.",
     "sections": [
       {
-        "title": "Mold remediation in Royse City defines the opening from the wall assembly",
+        "title": "Mold remediation in Royse City evaluates whether the framing can remain",
         "paragraphs": [
-          "A small visible patch beside a pipe can extend behind the wall finish or into insulation. The source, available assessment findings, and construction details guide the work boundary. We will plan a controlled opening that exposes the affected layers and pipe-side edges, while keeping plumbing repair and any independent assessment as distinct responsibilities."
+          "Assessment findings and the accessible assembly guide the included work. Softened wood, splitting, or damaged connections require a repair decision; repeated surface treatment cannot restore their support. The responsible provider will identify those concerns before a cleaning result is treated as permission to fasten new board to the framing."
         ]
       },
       {
-        "title": "Remove affected board and clean reachable retained surfaces",
+        "title": "Clean the retained surface without making color the sole target",
         "paragraphs": [
-          "Under the applicable work controls, specified unsuitable drywall and insulation are removed and packaged. Debris at the cut edges and around the pipe opening is collected; accessible retained framing is physically cleaned and dried after the moisture source is addressed. If an obstruction prevents treatment behind a fitting, the plan needs an access decision instead of describing the hidden surface as cleaned."
+          "Within the specified work controls, loose particles and remaining fragments are collected and accepted framing receives detailed physical cleaning. Where surface preparation is included, its method must suit the wood condition and the treatment plan. Removing more sound material solely to chase a uniform color can change the component without establishing a better remediation result.",
+          "A stain that remains after treatment needs an explained disposition. It will not automatically be labeled active growth, and a newly pale surface will not by itself establish completion. Any proposed coating follows the specified cleaning and evaluation; it does not replace work on deposits or conceal a support defect."
         ]
       },
       {
-        "title": "Review the exposed wall before replacement",
+        "title": "Resolve treatment and support as separate requirements",
         "paragraphs": [
-          "The responsible provider checks the retained assembly and documents work completed and remaining conditions within scope. Go Green Restoration TX Inc’s Texas mold-remediation contractor license application is pending; work requiring that license is referred to an appropriately licensed partner identified before work begins. Independent assessment or clearance, when applicable, remains separate from remediation records."
+          "The work record will identify treated surfaces and locations needing repair or further evaluation. Moisture correction, drying, and applicable independent review remain prerequisites to rebuilding. Go Green Restoration TX Inc’s Texas mold-remediation contractor license application is pending; work requiring that license is referred to an appropriately licensed partner identified before work begins. Assessment or independent clearance remains separate from remediation records."
         ]
       }
     ],
-    "checklistTitle": "Details about a bathroom wall concern",
+    "checklistTitle": "Details about exposed framing",
     "checklist": [
-      "Visible area, plumbing location, and known leak history.",
-      "Assessment findings, if an independent provider has evaluated it.",
-      "Whether the wall is open and what materials were removed."
+      "Assessment findings and the reason the wall was opened.",
+      "Cleaning, sanding, or coating already performed.",
+      "Soft areas, splitting, or damaged fastening locations observed."
     ],
     "links": [
-      { "href": "/mold-removal-behind-drywall/royse-city/", "label": "Mold removal behind drywall" },
-      { "href": "/bathroom-mold-removal/royse-city/", "label": "Mold concerns in bathrooms" },
-      { "href": "/services/mold-remediation-before-closing/", "label": "Mold remediation before closing" },
-      { "href": "/services/pre-listing-mold-removal/", "label": "Pre-listing mold removal" },
-      { "href": "/real-estate/", "label": "Restoration support for real estate agents" }
+      {
+        "href": "/mold-removal-behind-drywall/royse-city/",
+        "label": "Mold removal behind drywall"
+      },
+      {
+        "href": "/construction-remodeling/royse-city/",
+        "label": "Reconstruction after the retained assembly is ready"
+      },
+      {
+        "href": "/services/mold-remediation-before-closing/",
+        "label": "Mold remediation before closing"
+      },
+      {
+        "href": "/services/pre-listing-mold-removal/",
+        "label": "Pre-listing mold removal"
+      },
+      {
+        "href": "/real-estate/",
+        "label": "Restoration support for real estate agents"
+      }
     ]
   },
   "sewage-backup-cleanup/royse-city": {
     "keyword": "Sewage backup cleanup in Royse City",
-    "description": "Sewage backup cleanup in Royse City removes affected baseboard and wall material where wastewater reached a tiled room perimeter.",
+    "description": "Sewage backup cleanup in Royse City matches hard-surface cleaning and disinfection to the contacted material, product requirements, and drying sequence.",
     "image": "toilet-overflow-cleanup",
     "imageAlt": "Sewage backup cleanup in Royse City: AI-generated toilet overflow cleanup illustration, not a completed Royse City project",
-    "intro": "Sewage backup cleanup in Royse City may be needed when wastewater crosses a tiled floor and reaches the wall base. We will map the contact area, remove affected porous trim or wall material where required, and clean the tile and reachable joints after the release has stopped.",
+    "intro": "Sewage backup cleanup in Royse City requires more than spraying the floor after wastewater is collected. We will remove soil and unsuitable porous material, then apply a compatible disinfection process to accepted hard surfaces. Product contact requirements and the condition of each surface affect when drying and ordinary use can follow.",
     "sections": [
       {
-        "title": "Sewage backup cleanup in Royse City follows the liquid to the wall edge",
+        "title": "Sewage backup cleanup in Royse City prepares a surface that can be treated",
         "paragraphs": [
-          "A tile surface may be nonporous while grout, the bottom of the baseboard, or drywall behind it has absorbed wastewater. We will identify the reported path, floor transitions, and any material that contacted the release. The plumbing source must be corrected before cleanup is treated as complete."
+          "Reachable wastewater and solids are collected before detailed cleaning. Material designated for disposal is contained and removed; retained hard surfaces receive physical soil removal, including accessible texture and joints. If deposits remain in a recess, the next step is additional cleaning or an access decision, not covering them with another product application."
         ]
       },
       {
-        "title": "Remove porous material and clean the hard surface beneath it",
+        "title": "Keep the disinfection step consistent with the selected product",
         "paragraphs": [
-          "Affected baseboard and specified wall material are detached and contained to expose the lower wall edge. Reachable wastewater and solids are collected; tile and accessible grout are physically cleaned with compatible methods, followed by appropriate disinfection under product directions. Applying disinfectant over soil or across the visible tile alone does not replace removal and cleaning of affected porous material."
+          "We will choose treatment suited to the surface and follow its directions for application, contact, and any required rinse. A process that needs a wet contact period cannot be completed by immediately wiping the surface dry. Different finishes may require separate methods, and products already applied will be identified before another is selected.",
+          "Treatment of an accessible face does not establish that an absorbent backing or concealed contact was disinfected. If the surface cannot receive the intended process without damage, we will explain the removal or alternative-treatment decision instead of promising recovery from spraying alone."
         ]
       },
       {
-        "title": "Dry the exposed edge before resetting the room",
+        "title": "Move from treatment to drying and reset",
         "paragraphs": [
-          "The opened wall base and retained framing are checked and dried before new trim or wallboard is installed. Damaged grout, loose tile, or plumbing repairs are identified for the appropriate repair provider. The handoff describes what was removed, cleaned, and still needs repair so new finish work does not conceal an unfinished edge."
+          "After the required treatment steps, retained materials are checked for remaining moisture and drying needs. Equipment placement and access will reflect that sequence, including product directions for use of the area. The handoff will distinguish completed cleanup from plumbing correction, damaged finishes, and any untreated locations still requiring access."
         ]
       }
     ],
-    "checklistTitle": "Details about wastewater at a tiled wall base",
+    "checklistTitle": "Details that affect the cleaning method",
     "checklist": [
-      "How far the release traveled and when it was stopped.",
-      "Whether baseboard or wall material has been removed.",
-      "Tile, grout, thresholds, or belongings that contacted wastewater."
+      "Flooring and other surfaces contacted by wastewater.",
+      "Names of cleaners or disinfectants already used, if known.",
+      "Porous items removed and inaccessible areas along the spill path."
     ],
     "links": [
-      { "href": "/toilet-overflow-cleanup/royse-city/", "label": "Toilet overflow cleanup" },
-      { "href": "/crawl-space-sewage-cleanup/royse-city/", "label": "Sewage cleanup below the floor" },
-      { "href": "/construction-remodeling/royse-city/", "label": "Repairing the opened wall base" }
+      {
+        "href": "/toilet-overflow-cleanup/royse-city/",
+        "label": "Toilet overflow cleanup"
+      },
+      {
+        "href": "/crawl-space-sewage-cleanup/royse-city/",
+        "label": "Sewage cleanup below the floor"
+      },
+      {
+        "href": "/construction-remodeling/royse-city/",
+        "label": "Repairing finishes after wastewater cleanup"
+      }
     ]
   },
   "construction-remodeling/royse-city": {
     "keyword": "Reconstruction after property damage in Royse City",
-    "description": "Reconstruction after property damage in Royse City fits replacement drywall to the opened wall, restores its seams, and prepares the finish for paint.",
+    "description": "Reconstruction after property damage in Royse City restores the specified layers and connections of an opened wall or ceiling before its visible finish.",
     "image": "ceiling-water-damage-cleanup",
-    "imageAlt": "Illustration of an opened wall assembly for reconstruction after property damage in Royse City",
-    "intro": "Reconstruction after property damage in Royse City may begin with a wall opening left after damaged board was removed. We will check that the retained framing is ready, add support where cut edges lack backing, and fit replacement drywall so the repair plane meets the surrounding wall.",
+    "imageAlt": "Reconstruction after property damage in Royse City: AI-generated illustration of an opened ceiling with exposed insulation and drying equipment, not a completed Royse City project",
+    "intro": "Reconstruction after property damage in Royse City can require more than filling an opening with one sheet of drywall. An existing wall or ceiling may contain multiple board layers, insulation, or details that serve a fire or sound separation. We will establish the repair assembly before ordering material or closing the cavity.",
     "sections": [
       {
-        "title": "Reconstruction after property damage in Royse City starts with the opening",
+        "title": "Reconstruction after property damage in Royse City starts with the layers removed",
         "paragraphs": [
-          "Before new board goes up, the exposed framing and cavity must be ready for enclosure, with source repairs and required restoration review complete. We will measure the opening, locate studs, and add backing at unsupported seams or corners. If the framing is bowed or the cut crosses a stud, adjusting the support now helps prevent a soft edge or a visible ridge later."
+          "We will inspect accessible edges and review available plans or records to identify board thickness, layer count, and the supporting arrangement. Where a required assembly cannot be established from the opening, the relevant building professional or authority must resolve that requirement before replacement. A similar-looking board face is not enough to select the concealed repair."
         ]
       },
       {
-        "title": "Fit, fasten, and finish the replacement board",
+        "title": "Build the replacement in the specified sequence",
         "paragraphs": [
-          "Replacement drywall is cut to fit the opening, leaving supported edges for fastening. Screws are set without breaking the paper face, then joints and fasteners are taped and coated in stages. Once dry, the repair is sanded and checked against the surrounding plane; additional skim work may be needed where the old wall texture makes a narrow patch stand out."
+          "Once prior restoration and required review are complete, damaged support included in the repair is corrected and specified cavity materials are installed. Replacement board is fitted and fastened to suitable support in the required layers. Joint locations and treatment between layers follow the selected assembly rather than the outline of the final visible patch.",
+          "Pipes, cables, and other penetrations also need the appropriate details and trade coordination. Ordinary finish compound around a service opening will not be substituted for a required assembly detail. These connections need to be completed while access remains available."
         ]
       },
       {
-        "title": "Match the finish across the repair boundary",
+        "title": "Finish after the concealed work is resolved",
         "paragraphs": [
-          "Primer and paint follow surface preparation, with the agreed finish boundary determining whether only the patch or a larger wall section is coated. Baseboard, tile, cabinets, and other adjoining materials may need separate reset or trade work. The estimate should identify those interfaces so a completed drywall patch is not mistaken for completion of every connected repair."
+          "Any required inspection is coordinated before the work it must evaluate is covered. The outer seams and fasteners then receive their specified finishing, followed by the agreed texture, primer, and paint. We will separate restoring the required construction from an owner’s choice to extend the decorative finish across a larger wall or ceiling."
         ]
       }
     ],
-    "checklistTitle": "Details that shape a drywall repair",
+    "checklistTitle": "Details for rebuilding a layered assembly",
     "checklist": [
-      "Opening dimensions and whether the cut edges meet framing.",
-      "Source correction, drying, and any required independent review status.",
-      "Existing texture, paint, baseboard, or adjoining finish to match."
+      "Photographs of the opening and materials removed.",
+      "Available plans, assembly information, or inspection requirements.",
+      "Services crossing the opening and trades still needing access."
     ],
     "links": [
-      { "href": "/water-damage-restoration/royse-city/", "label": "Water cleanup before rebuilding" },
-      { "href": "/mold-remediation/royse-city/", "label": "Mold work before new wallboard" },
-      { "href": "/services/water-damage-repair-before-closing/", "label": "Water damage repair before closing" },
-      { "href": "/real-estate/", "label": "Restoration services for real estate agents" }
+      {
+        "href": "/water-damage-restoration/royse-city/",
+        "label": "Water cleanup before rebuilding"
+      },
+      {
+        "href": "/mold-remediation/royse-city/",
+        "label": "Mold work before new wallboard"
+      },
+      {
+        "href": "/services/water-damage-repair-before-closing/",
+        "label": "Water damage repair before closing"
+      },
+      {
+        "href": "/real-estate/",
+        "label": "Restoration services for real estate agents"
+      }
     ]
   }
 }

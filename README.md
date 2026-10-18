@@ -15,9 +15,11 @@ Sister project to [gogreenrestorationinc](https://github.com/gouki230/gogreenres
 - **Phone:** (469) 727-3217
 - **GA4:** G-D00HT24X3E
 
-## October 6 release scope
+## October 18 release scope
 
-The approved production subset is pinned in `src/data/expansion-release-manifest.json`. It contains 1,044 reviewed city hub/main pages, 2,328 compact city pages and 2,060 commercial city pages. Unapproved drafts remain excluded from ordinary builds. Creation is paused until October 13; do not publish additional records merely because their source files exist.
+The production subset is pinned in `src/data/expansion-release-manifest.json`: 1,236 reviewed city hub/main pages, 3,456 compact city pages and 2,060 commercial city pages. The user authorized publishing 1,320 additional pages on October 18. All remaining drafts stay excluded; creation and recurring automations remain paused until the user resumes them.
+
+October 18 inventory and checks: `docs/seo/oct18-release-url-inventory.txt`, `oct18-release-review.json`, `oct18-release-technical-review.json` and `oct18-release-copy-preservation.json`.
 
 Current licensing and partner wording is governed by `docs/seo/project-brief.md` (October 4 owner update), which supersedes the historical restriction below. Final release evidence is recorded in `docs/seo/verified-subset-release-report.md`.
 

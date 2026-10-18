@@ -1,0 +1,570 @@
+{
+  "emergency-water-extraction/lake-dallas": {
+    "intro": "Emergency water extraction in Lake Dallas can be needed when water crosses a garage-to-house threshold and collects beneath stored items. We will clear the approved route, collect accessible water and check the sill and adjoining floor before the threshold is covered again.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Lake Dallas at a garage entry",
+        "text": "We will move approved boxes and mats out of the collection path, recover standing water and check both sides of the threshold. The entry history matters: water that crossed a garage floor may have contacted stored products or other contaminants, so it is not automatically handled as an ordinary indoor supply leak."
+      },
+      {
+        "title": "Keep wet storage separate from the dry staging area",
+        "text": "Saturated cardboard and affected belongings receive their own handling or disposal decision before they are carried into the house. We will collect water beneath their footprints and clean included retained floor surfaces according to the release conditions. The door or drainage provider addresses continuing entry, while interior trim or floor layers that cannot be reached for drying receive a proposed access opening."
+      },
+      {
+        "title": "Confirm the sill before replacing stored items",
+        "text": "We will record which floor and trim surfaces were reached and what still needs drying or access. Items return after the receiving area is ready, so storage does not conceal an unresolved wet sill or wall edge."
+      }
+    ],
+    "estimate": "Water depth, stored contents, floor and sill construction, access, and any continuing entry affect the extraction and follow-up scope.",
+    "checklist": [
+      "Identify the garage threshold and visible water path.",
+      "List stored items that require movement or separate handling.",
+      "Share door, drainage, or source-repair findings."
+    ]
+  },
+  "burst-pipe-cleanup/lake-dallas": {
+    "intro": "Burst pipe cleanup in Lake Dallas can be needed after a line breaks above a finished ceiling and water appears along a light opening. We will collect accessible water and coordinate safe access before affected ceiling material is removed.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Lake Dallas below an upstairs line",
+        "text": "The plumber controls the line and identifies the repair location. We will map the ceiling marks and nearby wall edges, while an electrician addresses any fixture or wiring concerns before restoration works around them."
+      },
+      {
+        "title": "Remove wet insulation around the fixture opening",
+        "text": "After electrical access is released, we will collect reachable water and remove specified damaged ceiling board and wet insulation. Insulation above a small light opening can remain wet beyond the visible drip, so the approved opening follows material findings rather than the fixture outline. Exposed framing is checked and suitable retained material receives drying, with the fixture and wiring kept outside that work."
+      },
+      {
+        "title": "Keep the cavity available through the repair test",
+        "text": "A plumbing pressure test or renewed leak can change the affected area. We will document new wetting and the materials reached before ceiling repair proceeds, with electrical and finish work handed to the appropriate providers."
+      }
+    ],
+    "estimate": "The ceiling assembly, insulation, fixture access, source repair, and approved opening size determine extraction and removal needs.",
+    "checklist": [
+      "Share the pipe repair and test schedule.",
+      "Identify affected lights or wiring for electrician review.",
+      "Describe ceiling marks and rooms below the line."
+    ]
+  },
+  "appliance-leak-cleanup/lake-dallas": {
+    "intro": "Appliance leak cleanup in Lake Dallas can be needed when a washing machine hose leaks into a recessed laundry pan and water escapes at the wall. We will address the room materials separately from the machine and its supply or drain connections.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Lake Dallas around a laundry pan",
+        "text": "The appliance or plumbing provider identifies and repairs the leaking connection. After safe movement is arranged, we will check the pan, wall base, and floor perimeter for water that the machine concealed."
+      },
+      {
+        "title": "Distinguish a leaking pan from water behind the washer box",
+        "text": "The plumbing findings will establish whether water escaped over the pan or behind the wall at a connection. We will extract reachable liquid and expose specified wet floor or wall layers where the pan blocks access. The pan cannot serve as the collection boundary if water bypassed it inside the wall, and lifting it must account for any connected drain before movement."
+      },
+      {
+        "title": "Restore the footprint before the machine returns",
+        "text": "Suitable exposed floor and wall material receives cleaning and drying checks; swollen backing or weakened support receives a separate removal or repair decision. We will identify any inaccessible area left beneath the pan rather than declare the whole footprint dry. The appliance provider handles reconnection and operation checks after the room work no longer needs that access."
+      }
+    ],
+    "estimate": "Machine movement, pan construction, floor type, wall access, and the connection repair sequence affect the scope.",
+    "checklist": [
+      "Identify the machine and pan type.",
+      "Share the hose, drain, or plumbing findings.",
+      "Describe changes at the floor and wall edges."
+    ]
+  },
+  "storm-water-damage-cleanup/lake-dallas": {
+    "intro": "Storm water damage cleanup in Lake Dallas can be needed when rain enters at a window and reaches the sill, wall finish, and floor below. We will separate interior cleanup from the window or exterior repair needed to correct the entry.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Lake Dallas beneath a window",
+        "text": "We will inspect the sill, lower wall, and floor edge along the reported path. Blinds or furnishings may need authorized movement so the area behind them can be included in the assessment."
+      },
+      {
+        "title": "Check the sill ends before sealing the trim",
+        "text": "Water at the lower window corners may be hidden where the sill meets the side casing. We will lift approved damaged trim, collect remaining liquid and check the exposed wall backing and insulation. Suitable retained material receives cleaning and drying, while softened trim or wet insulation that cannot remain is removed within the agreed boundary. Interior caulk must wait until those joints no longer need to stay exposed."
+      },
+      {
+        "title": "Coordinate interior drying with exterior correction",
+        "text": "The window or building-envelope provider addresses continuing water entry. Interior surfaces remain available for drying checks until the agreed material work is complete; replacing trim or repainting does not correct a leak at the exterior assembly."
+      }
+    ],
+    "estimate": "Window construction, wall and floor materials, contents access, affected area, and exterior repair timing shape the cleanup estimate.",
+    "checklist": [
+      "Show where water first appeared at the window.",
+      "Identify furnishings or window treatments limiting access.",
+      "Share any window or exterior inspection findings."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/lake-dallas": {
+    "intro": "AC leak water damage cleanup in Lake Dallas can be needed when condensate reaches an attic platform and stains the ceiling below. We will address affected building materials while the HVAC provider checks the drain, pan, and equipment.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Lake Dallas above a ceiling stain",
+        "text": "The HVAC provider determines the equipment and condensate source status. We will document the ceiling location and accessible attic-side materials, keeping any wiring, equipment, or platform restrictions visible in the access plan."
+      },
+      {
+        "title": "Use attic access before enlarging the room-side opening",
+        "text": "If safe attic access reaches the affected bay, we will assess insulation and the upper ceiling surface there before proposing a larger opening from the room. Specified wet insulation or damaged ceiling finish is removed and suitable retained framing receives drying checks. The air-handler platform must remain supported; any equipment movement or support repair is arranged with the appropriate providers before restoration removes material beneath it."
+      },
+      {
+        "title": "Decide whether stained ceiling board can stay",
+        "text": "A stain alone does not require replacement of the whole ceiling, but swollen board or failed seams change the retention decision. After reviewing the water exposure and duration, we will distinguish board suitable for drying in place from damaged pieces requiring removal; suspected growth or contaminated water needs a different treatment evaluation. Wet fiberglass or cellulose insulation is identified for removal separately, even where the ceiling board below can remain. We will collect the specified insulation, make retained surfaces accessible for drying and check their progress before replacement insulation covers them."
+      },
+      {
+        "title": "Resolve both sides before closing the ceiling",
+        "text": "The HVAC provider handles drain correction and equipment operation. Restoration records drying and material work by the areas actually reached, so the ceiling repair follows both the source work and the exposed assembly decision."
+      }
+    ],
+    "estimate": "Equipment location, platform construction, ceiling access, affected layers, and HVAC restrictions affect the restoration sequence.",
+    "checklist": [
+      "Share HVAC findings about the condensate system.",
+      "Identify the equipment and ceiling location.",
+      "Describe when the leak began, any ceiling swelling, and prior openings."
+    ]
+  },
+  "structural-drying-services/lake-dallas": {
+    "intro": "Structural drying services in Lake Dallas can be needed when water reaches a wall behind a built-in vanity and remains at the cabinet toe space. We will plan access to the concealed wall base and floor edge before deciding whether the finish can remain.",
+    "sections": [
+      {
+        "title": "Structural drying services in Lake Dallas behind a vanity",
+        "text": "We will identify which vanity panels are removable and which parts support the countertop or plumbing. The access plan will protect those connections and state which wall and floor surfaces remain hidden until the appropriate provider releases them."
+      },
+      {
+        "title": "Check whether the concealed footprint responds to drying",
+        "text": "After authorized access, we will measure the exposed wall base and floor, place drying equipment for the reachable assembly and compare follow-up readings at those locations. A dry room or cabinet face does not establish that the backing is responding. If retained layers stay wet or cannot be reached, we will explain the added access or removal needed rather than continue drying an enclosed footprint without a way to check it."
+      },
+      {
+        "title": "Return the cabinet after access questions are resolved",
+        "text": "We will document areas reached, materials addressed, and any remaining moisture or repair needs before the vanity is reset. Plumbing reconnection and cabinet repair remain identifiable tasks in the return-to-use sequence."
+      }
+    ],
+    "estimate": "Vanity attachment, plumbing access, wall construction, drying access, and retained or removed material determine the plan.",
+    "checklist": [
+      "Share photos of the vanity and any existing opening.",
+      "Identify plumbing or countertop movement restrictions.",
+      "Describe the leak repair and drying already completed."
+    ]
+  },
+  "floor-water-damage-cleanup/lake-dallas": {
+    "intro": "Floor water damage cleanup in Lake Dallas can be needed when water runs beneath a floating floor and appears at a doorway transition. We will assess the affected edge and explain whether the floor can be lifted for drying or needs selective removal.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Lake Dallas at a doorway",
+        "text": "We will map changed seams and inspect the transition, nearby baseboard, and adjoining room. Water at one doorway does not by itself show how far it traveled below the surface."
+      },
+      {
+        "title": "Determine whether the doorway separates two floor runs",
+        "text": "A transition may cover two independent floor edges or one continuous installation. We will establish the product and release method before approved lifting, then remove specified affected underlayment and collect water on the exposed base. That arrangement affects how much flooring must be disturbed for access and whether intact boards can be retained for the installer; reuse is not promised merely because the floor floats."
+      },
+      {
+        "title": "Set the replacement edge after the base is ready",
+        "text": "The exposed subfloor receives the agreed cleanup or drying work before new boards cover it. The flooring installer can assess matching and reuse based on product condition and its installation requirements."
+      }
+    ],
+    "estimate": "Floor product, installation, transition length, subfloor access, and the source correction determine removal and drying needs.",
+    "checklist": [
+      "Identify the floor product if known.",
+      "Show the doorway and changed seams.",
+      "Share source-repair and flooring-installer findings."
+    ]
+  },
+  "ceiling-water-damage-cleanup/lake-dallas": {
+    "intro": "Ceiling water damage cleanup in Lake Dallas can be needed when a roof leak follows a sloped ceiling and collects above a built-in closet. We will coordinate the roof repair and plan an opening that reaches the affected ceiling assembly without treating the whole room as one area.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Lake Dallas above a closet",
+        "text": "We will document the visible stain, ceiling slope, and closet boundary, then identify safe access needs before removal. A roof provider locates and corrects the exterior source; the stain location alone does not establish the path above the ceiling."
+      },
+      {
+        "title": "Reach above the closet without leaving wet insulation boxed in",
+        "text": "Closet shelving and the sloped ceiling can limit access from below even after a stain is opened. We will protect or move approved contents, remove specified damaged board and insulation, and check the exposed wood for drying. Where fixed shelving still blocks the affected edge, the proposal will explain its release or an alternative access route before ceiling repair conceals the remaining pocket."
+      },
+      {
+        "title": "Keep the roof test and ceiling repair connected",
+        "text": "If rain or a roof test changes the opening, we will record new findings before repair. The finish provider receives the actual removal boundary and remaining drying or source work before installing new ceiling material."
+      }
+    ],
+    "estimate": "Ceiling angle, closet access, insulation, opening size, and roof repair timing affect the removal and drying work.",
+    "checklist": [
+      "Share roof inspection or repair details.",
+      "Identify contents beneath the affected ceiling.",
+      "Describe whether the leak is active or has stopped."
+    ]
+  },
+  "bathroom-mold-removal/lake-dallas": {
+    "intro": "Bathroom mold removal in Lake Dallas may be considered when growth is reported at a vanity backsplash and the wall joint behind the sink remains concealed. We will define the accessible surface and any proposed opening while the plumbing provider addresses the moisture source.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Lake Dallas at a vanity joint",
+        "text": "The assessment will distinguish the backsplash surface, sealant joint, and wall material the vanity hides. Cleaning an exposed joint does not establish the condition of material behind a fixed cabinet."
+      },
+      {
+        "title": "Decide whether the backsplash can be retained during wall treatment",
+        "text": "A bonded backsplash may not lift intact when affected wall backing needs removal. The provider will explain that access loss before controlled removal, contain specified unsuitable material and physically clean suitable retained surfaces. A reusable counter or cabinet will be protected where the treatment can reach the joint without dismantling it; plumbing disconnection remains with its responsible trade."
+      },
+      {
+        "title": "Correct moisture before restoring the backsplash",
+        "text": "The plumber addresses a leaking connection or fixture joint. The work record identifies treatment surfaces and remaining access limits before new sealant, backsplash, or cabinet finish covers the area; independent evaluation, when required, is separate from remediation."
+      }
+    ],
+    "estimate": "Vanity design, joint condition, affected backing, access, source repair, and any required evaluation determine the scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Share photos of the sink, backsplash, and visible changes.",
+      "Provide plumbing or leak-repair findings.",
+      "Identify vanity parts you hope to retain."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/lake-dallas": {
+    "intro": "Kitchen cabinet mold removal in Lake Dallas may be considered when a dishwasher leak leaves suspected growth at the cabinet end panel beside the sink base. We will assess the shared panel and adjacent floor separately so access work follows the materials involved.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Lake Dallas beside a dishwasher",
+        "text": "The provider will identify the cabinet panel, sink base, and flooring that can be reached without assuming the same condition across the entire run. The appliance or plumbing provider addresses the leak and any needed disconnection."
+      },
+      {
+        "title": "Separate a decorative end skin from the supporting cabinet side",
+        "text": "The cabinet provider identifies whether the exposed panel is a replaceable skin or part of the cabinet support before release. The remediation scope then defines controlled removal of affected porous material and physical cleaning of suitable reachable surfaces, including the reverse exposed by that release. A new cover panel should not conceal affected material left on the structural cabinet side."
+      },
+      {
+        "title": "Keep cabinet repair distinct from treatment",
+        "text": "The record will describe treated surfaces and any concealed portion that remains outside the access. The cabinet provider receives the actual panel and floor boundary before rebuilding, and independent evaluation, when required, remains separate."
+      }
+    ],
+    "estimate": "Panel construction, dishwasher access, affected cabinet base, floor edge, and source correction shape the work. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Identify the dishwasher and cabinet section involved.",
+      "Share source-repair and prior opening information.",
+      "Describe panels or flooring you hope to retain."
+    ]
+  },
+  "mold-remediation-after-water-damage/lake-dallas": {
+    "intro": "Mold remediation after water damage in Lake Dallas may be considered when a repaired ceiling leak is followed by suspected growth at the edge of new paint. We will review the repair history and accessible material before defining any treatment boundary.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Lake Dallas at a repainted ceiling",
+        "text": "The new paint and earlier leak are useful history, but neither alone identifies what is beneath the finish. The provider will use current observations and any assessment information to determine whether an opening is justified and what material it should reach."
+      },
+      {
+        "title": "Treat backing identified beneath the new paint",
+        "text": "Where the findings require opening, the provider will contain and remove specified affected ceiling board or insulation and physically clean suitable exposed framing. Intact board taken out solely for access is recorded separately from material identified as affected. A fresh coating is not a treatment for growth beneath it; the source and drying work must also be resolved before another finish is applied."
+      },
+      {
+        "title": "Document the revised assembly before repainting",
+        "text": "The record will describe opened areas, surfaces addressed, and remaining access questions. Any required independent evaluation is separate from remediation, and finish repair follows the actual treatment and source-correction work."
+      }
+    ],
+    "estimate": "Earlier leak and repair records, ceiling layers, access, current findings, and source correction affect the scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Share leak, drying, and repainting records.",
+      "Identify where the ceiling changed after repair.",
+      "Provide any assessment notes or photographs."
+    ]
+  },
+  "mold-removal-behind-drywall/lake-dallas": {
+    "intro": "Mold removal behind drywall in Lake Dallas may be considered when a plumbing repair leaves an open wall cavity with suspected growth around a pipe penetration. We will describe the material reached and coordinate access around the plumber’s remaining work.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Lake Dallas at a pipe opening",
+        "text": "The open cavity can expose drywall edges, framing, and the pipe-side surface while leaving other portions concealed. The provider will use available findings to identify the agreed work area rather than assume the full wall is affected."
+      },
+      {
+        "title": "Reach the reverse of the board around the pipe",
+        "text": "A plumbing cutout may expose framing but leave affected paper backing around the opening beyond cleaning reach. The appropriately licensed provider will enlarge access only as scoped, contain removed unsuitable material and physically clean suitable exposed surfaces under the work controls. Pipe fittings and supports stay with the plumber; an opening convenient for pipe repair is not automatically sufficient for the material treatment."
+      },
+      {
+        "title": "Keep the cavity accessible through source and review",
+        "text": "The pipe correction, drying, and any required independent evaluation are tracked separately. The repair provider receives the treated boundary and unresolved access details before installing new wallboard."
+      }
+    ],
+    "estimate": "Wall layers, pipe access, opening size, affected material, and source-test timing shape the work. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Share the plumbing repair and test schedule.",
+      "Identify which wall sections are already open.",
+      "Provide assessment notes and photos if available."
+    ]
+  },
+  "attic-mold-remediation/lake-dallas": {
+    "intro": "Attic mold remediation in Lake Dallas may be considered when suspected growth is reported on roof sheathing near an insulated attic hatch. We will define the accessible surfaces and coordinate any roof or ventilation source investigation before the area is enclosed.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Lake Dallas near the access hatch",
+        "text": "The provider will identify reachable sheathing and framing and note which surfaces remain hidden by insulation or stored items. The hatch and surrounding insulation are assessed separately from the roof assembly and any ventilation concern."
+      },
+      {
+        "title": "Protect the room below the hatch during material handling",
+        "text": "The hatch is also the removal route into the finished home. The provider will establish work controls and contain specified discarded insulation before transfer, then physically clean suitable included sheathing and framing. Insulation merely moved for access retains its own reuse decision. Any deteriorated wood needs a repair evaluation rather than an assumption that surface cleaning restores its strength."
+      },
+      {
+        "title": "Include the hatch lid when it is part of the affected area",
+        "text": "The removable lid, its insulation backing and the surrounding wood trim need individual decisions if findings include them in the treatment area. The provider will separate specified unsuitable absorbent backing for contained disposal and physically clean suitable retained lid and trim surfaces, including edges exposed when the lid is lifted. A new insulation pad should not be attached over deposits or damp material on the old lid. Any air-seal or insulation repair is assigned after treatment, with the building provider checking the hatch fit rather than assuming nearby growth proves a roof leak."
+      },
+      {
+        "title": "Resolve source work before replacing insulation",
+        "text": "A roofing or ventilation provider addresses the applicable source question. The remediation record identifies treated areas and remaining limits, while independent assessment, if required, remains separate from provider work."
+      }
+    ],
+    "estimate": "Hatch clearance, insulation placement, roof access, sheathing condition, and source investigation determine the proposed work. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Share roof or ventilation inspection findings.",
+      "Identify reported surfaces and hatch access limits.",
+      "Describe the hatch lid and insulation backing, including repairs or added seals."
+    ]
+  },
+  "crawl-space-mold-remediation/lake-dallas": {
+    "intro": "Crawl space mold remediation in Lake Dallas may be considered when suspected growth is reported on floor framing beside an access hatch. We will distinguish reachable framing from surfaces hidden by insulation, ductwork, or plumbing before defining the work.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Lake Dallas at the hatch",
+        "text": "The provider will record the joist and subfloor faces that can be reached and identify obstructions that limit inspection. The hatch location does not establish the extent of material beyond the accessible area."
+      },
+      {
+        "title": "Treat the entry-side framing before covering it again",
+        "text": "The provider will control the work at the hatch so removal does not leave affected insulation along the access route. Specified insulation is contained for disposal, and suitable exposed joist and subfloor faces receive physical cleaning. The plan must distinguish a cleaned downward face from the adjoining surface still blocked by ductwork or plumbing; moving that obstruction requires its own approved access arrangement."
+      },
+      {
+        "title": "Collect fallen material before restoring the ground covering",
+        "text": "Insulation fragments and loosened deposits from overhead work must be collected from the included area below, not left under a new ground sheet. The provider will contain discarded pieces and complete the specified final particle cleanup after retained materials are dry, including reachable surfaces where work debris settled. An existing covering that cannot be adequately cleaned receives its own removal decision rather than being folded over the residue. Installing or repairing a moisture barrier remains a separate task and does not substitute for cleaning the joists above it."
+      },
+      {
+        "title": "Keep moisture and structural questions separate",
+        "text": "The appropriate plumbing or drainage provider addresses a leak or recurring entry. Any soft or damaged framing receives a building-repair evaluation, while independent assessment or required clearance remains a separate step."
+      }
+    ],
+    "estimate": "Entry clearance, framing layout, insulation, access obstructions, affected area, and source repair shape the proposed scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "Describe crawl-space access and obstructions.",
+      "Share leak or drainage repair information.",
+      "Identify insulation, equipment, or ground covering within the reported area."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/lake-dallas": {
+    "intro": "Mold contaminated contents cleaning in Lake Dallas may be requested for upholstered dining chairs stored beside a damp wall. We will inventory the agreed items and explain which materials can be evaluated for cleaning and which need a separate specialist or disposition decision.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Lake Dallas for upholstered chairs",
+        "text": "We will record chair frames, cushions, fabric, and visible condition separately before handling. Different components may have different cleaning options, and an appearance check alone cannot establish the condition inside padding."
+      },
+      {
+        "title": "Decide whether to retain the whole chair or only its frame",
+        "text": "A sound hard frame and deeply affected padding need different recovery decisions. Accepted cleanable surfaces receive controlled deposit removal and a material-compatible cleaning method; upholstery that cannot be adequately treated receives a specialist or disposal recommendation. If the owner wants to keep the frame, upholstery removal and replacement must be assigned explicitly, so a cleaned exterior is not presented as recovery of inaccessible cushion material."
+      },
+      {
+        "title": "Protect loose finish while reaching the chair underside",
+        "text": "Before cleaning a retained frame, we will identify lifting veneer or flaking finish that could come away with the deposits. Stable accessible wood receives controlled particle collection across the included surfaces, including the underside, rather than attention only to visible spots. Loose veneer or fragile decorative finishes need a furniture conservator’s handling decision before brushing or contact cleaning proceeds. Seat removal may expose additional frame surfaces, but any upholstery release must be agreed before fasteners or fabric are disturbed."
+      },
+      {
+        "title": "Return contents to a ready room",
+        "text": "We will keep evaluated, treated, and referred items identifiable. Building remediation and the receiving room’s readiness are handled separately so cleaned contents are not returned to an unresolved work area."
+      }
+    ],
+    "estimate": "Item count, fabric and cushion construction, condition, handling, and any specialist review determine the contents scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and any required clearance are separate services.",
+    "checklist": [
+      "List chairs or other items for evaluation.",
+      "Identify sentimental pieces, lifting veneer, or fragile finishes before handling.",
+      "Share the room’s moisture history and any specialist contacts."
+    ]
+  },
+  "crawl-space-water-removal/lake-dallas": {
+    "intro": "Crawl space water removal in Lake Dallas can be needed when standing water remains in a low bay behind a duct trunk. We will identify a safe collection route and track the areas reached as water is removed around the obstruction.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Lake Dallas behind ductwork",
+        "text": "The entry, clearance, utilities, and possible contamination guide whether the area can be approached. We will distinguish visible water near the hatch from a separate pool hidden beyond the duct."
+      },
+      {
+        "title": "Collect the hidden pool without using the duct as support",
+        "text": "We will pump or extract reachable standing water, repositioning collection where the duct separates one low bay from another. Neither the worker nor the collection equipment should bear on ductwork to gain reach. If wet or displaced duct material blocks the route, the HVAC provider must arrange that access; water removal does not include pulling down the duct or treating its interior."
+      },
+      {
+        "title": "Address the source after collection",
+        "text": "A plumbing or drainage provider handles a continuing leak or entry route. The estimate identifies whether follow-up drying or material work is included and keeps permanent drainage or foundation repair separately scoped."
+      }
+    ],
+    "estimate": "Water depth, crawl-space clearance, duct layout, contamination, collection route, and source status affect the work.",
+    "checklist": [
+      "Describe the water location using safe observations or existing photos.",
+      "Identify duct or utility obstructions.",
+      "Share whether sewage or another contaminant may be involved."
+    ]
+  },
+  "crawl-space-sewage-cleanup/lake-dallas": {
+    "intro": "Crawl space sewage cleanup in Lake Dallas may be needed when a waste-line leak releases wastewater onto soil beneath the access opening. We will coordinate source repair and define cleanup for contacted insulation, soil, and reachable framing as separate materials.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Lake Dallas beneath the access",
+        "text": "The plumber controls and repairs the waste line. The work plan records where wastewater reached and how the route from the crawl-space entry can be protected from tracked material."
+      },
+      {
+        "title": "Establish a clean transfer route at the contaminated hatch",
+        "text": "Wastewater at the entrance can be tracked through the house before the farther crawl space is addressed. We will collect reachable liquid and settled waste, contain specified contaminated insulation or debris, and clean suitable accessible hard surfaces using the selected cleanup and disinfection procedure. Contacted soil needs a separate evaluation and handling scope; pumping the pool does not remove contamination held in the ground."
+      },
+      {
+        "title": "Keep source correction tied to the closeout",
+        "text": "We will document material removed, accessible surfaces addressed, and any remaining drying or access needs. Replacing insulation or closing the access follows source repair and the applicable review requirements, with unresolved areas identified rather than grouped into a general completion statement."
+      }
+    ],
+    "estimate": "Wastewater extent, insulation, soil contact, crawl-space access, disposal, and plumbing repair timing determine the scope.",
+    "checklist": [
+      "Share plumber findings and repair status.",
+      "Describe crawl-space access and known affected materials.",
+      "Keep people and pets away from the affected entry area."
+    ]
+  },
+  "toilet-overflow-cleanup/lake-dallas": {
+    "intro": "Toilet overflow cleanup in Lake Dallas can be needed when wastewater reaches beneath a bathroom vanity toe-kick after crossing the floor. We will identify the release source and contacted materials before setting the removal and cleaning boundary.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Lake Dallas beside a vanity",
+        "text": "The plumber evaluates the toilet or drain and stops the backup. We will assess floor seams, baseboard, and the accessible vanity edge, keeping any concealed cabinet or wall contact as an access question until it can be checked."
+      },
+      {
+        "title": "Remove wastewater residue beneath the vanity",
+        "text": "We will extract reachable wastewater, remove specified unsuitable porous toe-kick or floor layers and physically clean suitable exposed surfaces before the appropriate label-directed disinfection. A fixed cabinet may need plumbing disconnection and authorized movement to reach the contacted footprint. The visible bathroom floor can be complete while that concealed portion still needs work, which will remain explicit before cabinet reset."
+      },
+      {
+        "title": "Check the floor before replacing the toe-kick",
+        "text": "We will document remaining moisture, material condition, and any support repair need before cabinetry closes the edge. The plumber handles the fixture and drain repair; cabinet rebuilding follows the actual exposed boundary."
+      }
+    ],
+    "estimate": "Release source, floor type, vanity access, contacted materials, and plumbing repair affect the cleanup and repair sequence.",
+    "checklist": [
+      "Identify whether water came from the bowl, supply, or drain.",
+      "Describe how far wastewater traveled.",
+      "Share plumbing findings and any prior material removal."
+    ]
+  },
+  "fire-damaged-debris-removal/lake-dallas": {
+    "intro": "Fire damaged debris removal in Lake Dallas can help when water-soaked cabinet fragments and broken household items cover a kitchen floor after a fire response. We will separate approved disposal from retained belongings and remove the debris without concealing water damage underneath.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Lake Dallas on a wet kitchen floor",
+        "text": "Before loading, we will identify loose broken pieces, attached cabinetry and items held for investigation or owner review. The condition of the floor and the carrying route affect how debris can be moved; a clear doorway does not establish that the wet supporting floor is ready for repeated loading."
+      },
+      {
+        "title": "Contain wet debris before carrying it through clean rooms",
+        "text": "Approved wet fragments and loose residue will be contained for removal so drips and small broken pieces are not left along the carrying route. Attached panels require a separate detachment decision and any necessary utility review. Materials held for inspection remain identifiable and outside the disposal load, even when they obstruct faster removal."
+      },
+      {
+        "title": "Inspect the floor newly exposed by removal",
+        "text": "We will collect included loose particles and identify standing water, swollen floor layers or unstable material exposed beneath the debris. Extraction, detailed soot cleaning and floor repair receive their own scopes. Removing the load makes the floor available for evaluation; it does not establish that the wet floor can be covered or reused."
+      }
+    ],
+    "estimate": "Debris volume, retained items, water contact, floor condition, carrying route and disposal requirements affect the removal scope.",
+    "checklist": [
+      "Describe response water and the floor beneath the debris.",
+      "Identify belongings or components held for inspection.",
+      "Name who can approve disposal and the carrying route."
+    ]
+  },
+  "fire-damaged-contents-cleaning/lake-dallas": {
+    "intro": "Fire damaged contents cleaning in Lake Dallas may be needed when soot settles on books and small electronics inside a closed home office. We will inventory the agreed items and distinguish cleanable materials from items needing a qualified electronics or conservation review.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Lake Dallas inside an office",
+        "text": "We will record paper, finished furniture, and electronic items by type and condition before cleaning. Loose soot should not be rubbed across the item during sorting, and devices remain unpowered until their condition is reviewed by an appropriate provider."
+      },
+      {
+        "title": "Separate document recovery from ordinary surface cleaning",
+        "text": "A book with soot only on a stable closed cover has a different handling decision from loose papers or deposits within pages. Accepted items receive controlled loose-residue removal and compatible cleaning; fragile paper or bound volumes needing internal treatment go to a conservation specialist. Electronics receive separate qualified evaluation, and cleaning a case does not establish operating safety or recovery of stored data."
+      },
+      {
+        "title": "Return contents after the room is ready",
+        "text": "We will keep cleaned, pending, and referred items identifiable. The receiving office and its cabinet or shelving surfaces need their own building-cleaning status before contents are returned."
+      }
+    ],
+    "estimate": "Item count, material, soot level, packing, and specialist review affect the contents estimate; room cleaning is separate.",
+    "checklist": [
+      "List books, devices, and furniture for evaluation.",
+      "Identify priority or sensitive items.",
+      "Share room-cleaning and return timing."
+    ]
+  },
+  "smoke-damage-cleanup/lake-dallas": {
+    "intro": "Smoke damage cleanup in Lake Dallas can be needed when smoke odor remains inside a closed pantry after a nearby kitchen fire. We will assess the pantry surfaces and stored contents as a separate room boundary before selecting cleaning work.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Lake Dallas inside a pantry",
+        "text": "We will inspect shelf undersides, door edges, and stored packaging for residue or odor sources. Cleaning the adjacent kitchen does not establish the condition inside a closed cabinet or pantry."
+      },
+      {
+        "title": "Empty the pantry before treating shelf details",
+        "text": "Food exposed to fire effects needs a food-safety disposition, not a promise that wiping the package makes it usable. We will separate designated discard items from belongings accepted for cleaning, then remove loose residue and clean included shelf faces, undersides and door edges with a compatible method. Affected liners or failed shelf finishes receive a removal or repair decision rather than being covered by returned supplies."
+      },
+      {
+        "title": "Return items to the cleaned space",
+        "text": "We will document included surfaces and any remaining source or HVAC questions. Pantry contents return after the receiving surfaces are ready and items have their own disposition decision."
+      }
+    ],
+    "estimate": "Pantry size, shelf materials, contents, residue distribution, and any separate HVAC or specialist review affect the cleanup scope.",
+    "checklist": [
+      "Identify the pantry and shelves affected.",
+      "List contents needing a separate decision.",
+      "Share fire-source and HVAC findings."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/lake-dallas": {
+    "intro": "Fire extinguisher residue cleanup in Lake Dallas may be needed when powder remains in a bathroom exhaust grille and on the surrounding ceiling after a small fire response. We will identify the extinguisher agent and separate reachable building surfaces from duct and fan service.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Lake Dallas at an exhaust grille",
+        "text": "The product label or discharge information guides the cleanup plan. The grille, ceiling finish, fan housing, and duct interior are separate areas, and the HVAC or electrical provider handles equipment access and service."
+      },
+      {
+        "title": "Collect the identified agent from the grille and ceiling",
+        "text": "Once equipment access is released, we will collect reachable loose deposits using a method suited to the identified agent and follow with compatible surface cleaning where appropriate. Authorized grille removal can expose its reverse and the ceiling rim, but it does not provide access to every fan or duct surface. We will keep the equipment opening protected under the agreed controls while its responsible provider handles internal deposits and return to service."
+      },
+      {
+        "title": "Record the cleaned surface and equipment handoff",
+        "text": "We will identify surfaces reached and any remaining deposits or equipment review needs before the fan returns to service. A qualified provider handles inspection and operating status for the ventilation system."
+      }
+    ],
+    "estimate": "Agent type, residue spread, grille access, ceiling finish, and fan or duct service needs shape the estimate.",
+    "checklist": [
+      "Photograph the extinguisher label if available.",
+      "Identify the grille and nearby surfaces affected.",
+      "Share HVAC or electrical service instructions."
+    ]
+  },
+  "kitchen-fire-cleanup/lake-dallas": {
+    "intro": "Kitchen fire cleanup in Lake Dallas can be needed after a small oven fire leaves soot inside the cabinet above the range. We will distinguish residue on cabinet surfaces from heat or smoke concerns inside the appliance and exhaust system.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Lake Dallas above the range",
+        "text": "We will assess the cabinet underside, nearby wall, and ceiling for residue and visible heat effects. A clean cabinet face does not establish the condition inside the oven, hood, wiring, or duct."
+      },
+      {
+        "title": "Clean the cabinet interior as well as the underside",
+        "text": "We will move approved stored items for separate review, collect loose deposits and test a compatible cleaning method on the cabinet finish before treating included surfaces. Shelf edges, hinges and the underside can retain residue after the door face looks clean. Charred material, blistered finish or a failed panel receives a repair or removal decision; coating over it is not completion of the cleaning."
+      },
+      {
+        "title": "Have the appliance and exhaust checked before use",
+        "text": "An appliance or electrical provider evaluates heat-related operating concerns, and the appropriate provider handles the exhaust system. We will record cleaned surfaces and remaining repair needs before finishes conceal them."
+      }
+    ],
+    "estimate": "Cabinet finish, residue location, heat effects, appliance access, and exhaust-system review determine cleanup and follow-up work.",
+    "checklist": [
+      "Describe the fire location and response.",
+      "Identify surfaces already wiped or painted.",
+      "Share appliance, fire-service, or HVAC findings."
+    ]
+  },
+  "emergency-board-up-after-fire/lake-dallas": {
+    "intro": "Emergency board up after fire in Lake Dallas can be needed when an improvised cover has loosened over a broken kitchen window and rain is reaching the sill. We will assess the existing cover and receiving frame, then fit agreed temporary protection while the window replacement is arranged.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Lake Dallas when a cover has failed",
+        "text": "The existing sheet or panel must be inspected before it is removed, including loose glass, unstable trim and the support available for new attachment. We will measure the opening and confirm safe access on the working side. A replacement panel cannot rely on damaged trim simply because the earlier cover was fastened there."
+      },
+      {
+        "title": "Replace the cover without trapping wet interior material",
+        "text": "After appropriate access is established, we will remove the approved failed covering and secure the fitted panel to suitable support, accounting for required exits and service access. Water already on the sill or within the wall remains a separate cleanup and drying task. The temporary cover should not be described as repair of that wet interior or the damaged frame."
+      },
+      {
+        "title": "Plan the opening for the measurement and replacement visits",
+        "text": "The window provider will need to know where the panel is attached and what must be released for measurement. We will identify who removes and restores temporary coverage if the replacement cannot be fitted on that visit. The protection remains temporary, with its attachment and access limits communicated before the property is left between trades."
+      }
+    ],
+    "estimate": "Existing-cover removal, opening size, frame condition, attachment support, safe access and return visits affect the temporary protection scope.",
+    "checklist": [
+      "Describe the existing cover and any water passing it.",
+      "Share site access or fire-investigation restrictions.",
+      "Provide the window provider’s measurement and replacement schedule."
+    ]
+  }
+}

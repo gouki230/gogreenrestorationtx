@@ -1,7 +1,7 @@
 {
   "method": "Normalized directional five-word phrase coverage against sibling cities. Unmarked legacy content remains unreviewed and supplies comparisons only.",
   "total": 1236,
-  "phrasePassed": 1044,
+  "phrasePassed": 1236,
   "pages": [
     {
       "path": "/locations/dfw-metro/dallas/",
@@ -1538,8 +1538,8 @@
       "city": "parker",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 98.24,
-      "closestComparison": "north-richland-hills",
+      "uniquePercent": 97.94,
+      "closestComparison": "royse-city",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -1718,8 +1718,8 @@
       "city": "rosser",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 97.47,
-      "closestComparison": "rowlett",
+      "uniquePercent": 95.25,
+      "closestComparison": "royse-city",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -1728,8 +1728,8 @@
       "city": "rowlett",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 97.12,
-      "closestComparison": "peaster",
+      "uniquePercent": 96.79,
+      "closestComparison": "royse-city",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -1738,9 +1738,9 @@
       "city": "royse-city",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
+      "uniquePercent": 94.43,
       "closestComparison": "runaway-bay",
-      "phrasePass": false,
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1748,9 +1748,9 @@
       "city": "runaway-bay",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
+      "uniquePercent": 94.6,
       "closestComparison": "royse-city",
-      "phrasePass": false,
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1768,9 +1768,9 @@
       "city": "saginaw",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 93.27,
+      "closestComparison": "sanctuary",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1778,9 +1778,9 @@
       "city": "sanctuary",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 91.85,
+      "closestComparison": "sanger",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1788,9 +1788,9 @@
       "city": "sanger",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 92.67,
+      "closestComparison": "sanctuary",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1798,9 +1798,9 @@
       "city": "sansom-park",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 94.78,
+      "closestComparison": "scurry",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1808,9 +1808,9 @@
       "city": "scurry",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 92.5,
+      "closestComparison": "springtown",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1818,9 +1818,9 @@
       "city": "seagoville",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 94.42,
+      "closestComparison": "st-paul",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1828,9 +1828,9 @@
       "city": "seven-points",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 92.86,
+      "closestComparison": "shady-shores",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1838,9 +1838,9 @@
       "city": "shady-shores",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 92.95,
+      "closestComparison": "seven-points",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1848,9 +1848,9 @@
       "city": "springtown",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.86,
+      "closestComparison": "terrell",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1858,9 +1858,9 @@
       "city": "st-paul",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 92.12,
+      "closestComparison": "venus",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1868,9 +1868,9 @@
       "city": "sunnyvale",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.59,
+      "closestComparison": "university-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1878,9 +1878,9 @@
       "city": "talty",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.15,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1888,9 +1888,9 @@
       "city": "terrell",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.25,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1898,9 +1898,9 @@
       "city": "trophy-club",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.87,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1908,9 +1908,9 @@
       "city": "union-valley",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.83,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1918,9 +1918,9 @@
       "city": "university-park",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.84,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1928,9 +1928,9 @@
       "city": "van-alstyne",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.13,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1938,9 +1938,9 @@
       "city": "venus",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.81,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1948,9 +1948,9 @@
       "city": "watauga",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.79,
+      "closestComparison": "van-alstyne",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1958,9 +1958,9 @@
       "city": "waxahachie",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.94,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1968,9 +1968,9 @@
       "city": "weatherford",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.68,
+      "closestComparison": "st-paul",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1978,9 +1978,9 @@
       "city": "west-tawakoni",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 94.02,
+      "closestComparison": "weston",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1988,9 +1988,9 @@
       "city": "westlake",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.86,
+      "closestComparison": "westover-hills",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -1998,9 +1998,9 @@
       "city": "weston",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 90.6,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -2008,9 +2008,9 @@
       "city": "westover-hills",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.12,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -2018,9 +2018,9 @@
       "city": "westworth-village",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.16,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -2028,9 +2028,9 @@
       "city": "white-settlement",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.42,
+      "closestComparison": "westworth-village",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -2038,9 +2038,9 @@
       "city": "willow-park",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.37,
+      "closestComparison": "wilmer",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -2048,9 +2048,9 @@
       "city": "wilmer",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.56,
+      "closestComparison": "willow-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -2058,9 +2058,9 @@
       "city": "wolfe-city",
       "group": "hub",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 95.95,
+      "closestComparison": "seagoville",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3678,8 +3678,8 @@
       "city": "princeton",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 97.73,
-      "closestComparison": "red-oak",
+      "uniquePercent": 96.82,
+      "closestComparison": "sansom-park",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -3748,8 +3748,8 @@
       "city": "rio-vista",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 96.8,
-      "closestComparison": "red-oak",
+      "uniquePercent": 95.89,
+      "closestComparison": "seven-points",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -3798,9 +3798,9 @@
       "city": "royse-city",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "runaway-bay",
-      "phrasePass": false,
+      "uniquePercent": 98.43,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3808,9 +3808,9 @@
       "city": "runaway-bay",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.62,
+      "closestComparison": "grandview",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3828,9 +3828,9 @@
       "city": "saginaw",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.67,
+      "closestComparison": "rosser",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3838,9 +3838,9 @@
       "city": "sanctuary",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.66,
+      "closestComparison": "seven-points",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3848,9 +3848,9 @@
       "city": "sanger",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.37,
+      "closestComparison": "st-paul",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3858,9 +3858,9 @@
       "city": "sansom-park",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.18,
+      "closestComparison": "princeton",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3868,9 +3868,9 @@
       "city": "scurry",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.98,
+      "closestComparison": "lucas",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3878,9 +3878,9 @@
       "city": "seagoville",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.68,
+      "closestComparison": "quinlan",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3888,9 +3888,9 @@
       "city": "seven-points",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.52,
+      "closestComparison": "rio-vista",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3898,9 +3898,9 @@
       "city": "shady-shores",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.4,
+      "closestComparison": "rhome",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3908,9 +3908,9 @@
       "city": "springtown",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.21,
+      "closestComparison": "red-oak",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3918,9 +3918,9 @@
       "city": "st-paul",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.39,
+      "closestComparison": "sanger",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3928,9 +3928,9 @@
       "city": "sunnyvale",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
+      "uniquePercent": 98.75,
       "closestComparison": "royse-city",
-      "phrasePass": false,
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3938,9 +3938,9 @@
       "city": "talty",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.02,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3948,9 +3948,9 @@
       "city": "terrell",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.94,
+      "closestComparison": "double-oak",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3958,9 +3958,9 @@
       "city": "trophy-club",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.9,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3968,9 +3968,9 @@
       "city": "union-valley",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.4,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3978,9 +3978,9 @@
       "city": "university-park",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.05,
+      "closestComparison": "talty",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3988,9 +3988,9 @@
       "city": "van-alstyne",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.27,
+      "closestComparison": "talty",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -3998,9 +3998,9 @@
       "city": "venus",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.86,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4008,9 +4008,9 @@
       "city": "watauga",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.82,
+      "closestComparison": "northlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4018,9 +4018,9 @@
       "city": "waxahachie",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.89,
+      "closestComparison": "rio-vista",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4028,9 +4028,9 @@
       "city": "weatherford",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.95,
+      "closestComparison": "garrett",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4038,9 +4038,9 @@
       "city": "west-tawakoni",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.84,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4048,9 +4048,9 @@
       "city": "westlake",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.84,
+      "closestComparison": "west-tawakoni",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4058,9 +4058,9 @@
       "city": "weston",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.66,
+      "closestComparison": "westover-hills",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4068,9 +4068,9 @@
       "city": "westover-hills",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.22,
+      "closestComparison": "weston",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4078,9 +4078,9 @@
       "city": "westworth-village",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.75,
+      "closestComparison": "willow-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4088,9 +4088,9 @@
       "city": "white-settlement",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.69,
+      "closestComparison": "westworth-village",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4098,9 +4098,9 @@
       "city": "willow-park",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.12,
+      "closestComparison": "westworth-village",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4108,9 +4108,9 @@
       "city": "wilmer",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.9,
+      "closestComparison": "westworth-village",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -4118,9 +4118,9 @@
       "city": "wolfe-city",
       "group": "water-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.19,
+      "closestComparison": "seven-points",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5728,8 +5728,8 @@
       "city": "post-oak-bend",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 96.3,
-      "closestComparison": "colleyville",
+      "uniquePercent": 95.83,
+      "closestComparison": "royse-city",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -5858,9 +5858,9 @@
       "city": "royse-city",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "runaway-bay",
-      "phrasePass": false,
+      "uniquePercent": 96.42,
+      "closestComparison": "seagoville",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5868,9 +5868,9 @@
       "city": "runaway-bay",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.77,
+      "closestComparison": "sachse",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5888,9 +5888,9 @@
       "city": "saginaw",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.96,
+      "closestComparison": "crandall",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5898,9 +5898,9 @@
       "city": "sanctuary",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.26,
+      "closestComparison": "wilmer",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5908,9 +5908,9 @@
       "city": "sanger",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.29,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5918,9 +5918,9 @@
       "city": "sansom-park",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.84,
+      "closestComparison": "cross-roads",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5928,9 +5928,9 @@
       "city": "scurry",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.63,
+      "closestComparison": "roanoke",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5938,9 +5938,9 @@
       "city": "seagoville",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
+      "uniquePercent": 97.42,
       "closestComparison": "royse-city",
-      "phrasePass": false,
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5948,9 +5948,9 @@
       "city": "seven-points",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.6,
+      "closestComparison": "princeton",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5958,9 +5958,9 @@
       "city": "shady-shores",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.87,
+      "closestComparison": "mclendon-chisholm",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5968,9 +5968,9 @@
       "city": "springtown",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.62,
+      "closestComparison": "princeton",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5978,9 +5978,9 @@
       "city": "st-paul",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.57,
+      "closestComparison": "midlothian",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5988,9 +5988,9 @@
       "city": "sunnyvale",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.32,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -5998,9 +5998,9 @@
       "city": "talty",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.78,
+      "closestComparison": "pecan-hill",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6008,9 +6008,9 @@
       "city": "terrell",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.61,
+      "closestComparison": "crandall",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6018,9 +6018,9 @@
       "city": "trophy-club",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.16,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6028,9 +6028,9 @@
       "city": "union-valley",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.41,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6038,9 +6038,9 @@
       "city": "university-park",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.41,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6048,9 +6048,9 @@
       "city": "van-alstyne",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.87,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6058,9 +6058,9 @@
       "city": "venus",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.91,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6068,9 +6068,9 @@
       "city": "watauga",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.82,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6078,9 +6078,9 @@
       "city": "waxahachie",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.53,
+      "closestComparison": "scurry",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6088,9 +6088,9 @@
       "city": "weatherford",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 96.65,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6098,9 +6098,9 @@
       "city": "west-tawakoni",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.23,
+      "closestComparison": "princeton",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6108,9 +6108,9 @@
       "city": "westlake",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 96.6,
+      "closestComparison": "weatherford",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6118,9 +6118,9 @@
       "city": "weston",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.06,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6128,9 +6128,9 @@
       "city": "westover-hills",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 93.12,
+      "closestComparison": "willow-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6138,9 +6138,9 @@
       "city": "westworth-village",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.35,
+      "closestComparison": "willow-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6148,9 +6148,9 @@
       "city": "white-settlement",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.11,
+      "closestComparison": "wilmer",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6158,9 +6158,9 @@
       "city": "willow-park",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 85.79,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6168,9 +6168,9 @@
       "city": "wilmer",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 85.97,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6178,9 +6178,9 @@
       "city": "wolfe-city",
       "group": "fire-smoke-damage-restoration",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.36,
+      "closestComparison": "princeton",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -6188,8 +6188,8 @@
       "city": "dallas",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 97.88,
-      "closestComparison": "royse-city",
+      "uniquePercent": 98.46,
+      "closestComparison": "arlington",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -7918,9 +7918,9 @@
       "city": "royse-city",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
+      "uniquePercent": 92.09,
       "closestComparison": "runaway-bay",
-      "phrasePass": false,
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -7928,9 +7928,9 @@
       "city": "runaway-bay",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
+      "uniquePercent": 92.71,
       "closestComparison": "royse-city",
-      "phrasePass": false,
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -7948,9 +7948,9 @@
       "city": "saginaw",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 96.36,
+      "closestComparison": "talty",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -7958,9 +7958,9 @@
       "city": "sanctuary",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 93.78,
+      "closestComparison": "sanger",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -7968,9 +7968,9 @@
       "city": "sanger",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 93.58,
+      "closestComparison": "sanctuary",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -7978,9 +7978,9 @@
       "city": "sansom-park",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 91.86,
+      "closestComparison": "scurry",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -7988,9 +7988,9 @@
       "city": "scurry",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 92.19,
+      "closestComparison": "sansom-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -7998,9 +7998,9 @@
       "city": "seagoville",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 96.0,
+      "closestComparison": "shady-shores",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8008,9 +8008,9 @@
       "city": "seven-points",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.1,
+      "closestComparison": "springtown",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8018,9 +8018,9 @@
       "city": "shady-shores",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.84,
+      "closestComparison": "seven-points",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8028,9 +8028,9 @@
       "city": "springtown",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.37,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8038,9 +8038,9 @@
       "city": "st-paul",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 91.06,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8048,9 +8048,9 @@
       "city": "sunnyvale",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.45,
+      "closestComparison": "springtown",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8058,9 +8058,9 @@
       "city": "talty",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.36,
+      "closestComparison": "terrell",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8068,9 +8068,9 @@
       "city": "terrell",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.81,
+      "closestComparison": "talty",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8078,9 +8078,9 @@
       "city": "trophy-club",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.63,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8088,9 +8088,9 @@
       "city": "union-valley",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.66,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8098,9 +8098,9 @@
       "city": "university-park",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.24,
+      "closestComparison": "talty",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8108,9 +8108,9 @@
       "city": "van-alstyne",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.13,
+      "closestComparison": "watauga",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8118,9 +8118,9 @@
       "city": "venus",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.09,
+      "closestComparison": "watauga",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8128,9 +8128,9 @@
       "city": "watauga",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.29,
+      "closestComparison": "venus",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8138,9 +8138,9 @@
       "city": "waxahachie",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 91.01,
+      "closestComparison": "springtown",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8148,9 +8148,9 @@
       "city": "weatherford",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 91.34,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8158,9 +8158,9 @@
       "city": "west-tawakoni",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 94.64,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8168,9 +8168,9 @@
       "city": "westlake",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.88,
+      "closestComparison": "westover-hills",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8178,9 +8178,9 @@
       "city": "weston",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.16,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8188,9 +8188,9 @@
       "city": "westover-hills",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.6,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8198,9 +8198,9 @@
       "city": "westworth-village",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.89,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8208,9 +8208,9 @@
       "city": "white-settlement",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.12,
+      "closestComparison": "wilmer",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8218,9 +8218,9 @@
       "city": "willow-park",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.05,
+      "closestComparison": "westworth-village",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8228,9 +8228,9 @@
       "city": "wilmer",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.22,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -8238,9 +8238,9 @@
       "city": "wolfe-city",
       "group": "mold-remediation",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 95.4,
+      "closestComparison": "sanger",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -9978,9 +9978,9 @@
       "city": "royse-city",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "runaway-bay",
-      "phrasePass": false,
+      "uniquePercent": 98.35,
+      "closestComparison": "venus",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -9988,9 +9988,9 @@
       "city": "runaway-bay",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.86,
+      "closestComparison": "reno",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10008,9 +10008,9 @@
       "city": "saginaw",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.57,
+      "closestComparison": "post-oak-bend",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10018,9 +10018,9 @@
       "city": "sanctuary",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 99.03,
+      "closestComparison": "princeton",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10028,9 +10028,9 @@
       "city": "sanger",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.92,
+      "closestComparison": "oak-leaf",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10038,9 +10038,9 @@
       "city": "sansom-park",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.01,
+      "closestComparison": "scurry",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10048,9 +10048,9 @@
       "city": "scurry",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 96.97,
+      "closestComparison": "sansom-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10058,9 +10058,9 @@
       "city": "seagoville",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.4,
+      "closestComparison": "weatherford",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10068,9 +10068,9 @@
       "city": "seven-points",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.59,
+      "closestComparison": "hurst",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10078,9 +10078,9 @@
       "city": "shady-shores",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.35,
+      "closestComparison": "runaway-bay",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10088,9 +10088,9 @@
       "city": "springtown",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.61,
+      "closestComparison": "scurry",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10098,9 +10098,9 @@
       "city": "st-paul",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 91.23,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10108,9 +10108,9 @@
       "city": "sunnyvale",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.11,
+      "closestComparison": "terrell",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10118,9 +10118,9 @@
       "city": "talty",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.87,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10128,9 +10128,9 @@
       "city": "terrell",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.25,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10138,9 +10138,9 @@
       "city": "trophy-club",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 82.31,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10148,9 +10148,9 @@
       "city": "union-valley",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 82.88,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10158,9 +10158,9 @@
       "city": "university-park",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 84.34,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10168,9 +10168,9 @@
       "city": "van-alstyne",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.26,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10178,9 +10178,9 @@
       "city": "venus",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.24,
+      "closestComparison": "trophy-club",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10188,9 +10188,9 @@
       "city": "watauga",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.67,
+      "closestComparison": "rhome",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10198,9 +10198,9 @@
       "city": "waxahachie",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.14,
+      "closestComparison": "reno",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10208,9 +10208,9 @@
       "city": "weatherford",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.17,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10218,9 +10218,9 @@
       "city": "west-tawakoni",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 95.6,
+      "closestComparison": "westlake",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10228,9 +10228,9 @@
       "city": "westlake",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 95.89,
+      "closestComparison": "west-tawakoni",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10238,9 +10238,9 @@
       "city": "weston",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.83,
+      "closestComparison": "westover-hills",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10248,9 +10248,9 @@
       "city": "westover-hills",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.92,
+      "closestComparison": "weston",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10258,9 +10258,9 @@
       "city": "westworth-village",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.77,
+      "closestComparison": "willow-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10268,9 +10268,9 @@
       "city": "white-settlement",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.41,
+      "closestComparison": "willow-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10278,9 +10278,9 @@
       "city": "willow-park",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.06,
+      "closestComparison": "wilmer",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10288,9 +10288,9 @@
       "city": "wilmer",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.99,
+      "closestComparison": "willow-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -10298,9 +10298,9 @@
       "city": "wolfe-city",
       "group": "sewage-backup-cleanup",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.43,
+      "closestComparison": "scurry",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -11658,8 +11658,8 @@
       "city": "millsap",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 97.38,
-      "closestComparison": "melissa",
+      "uniquePercent": 96.86,
+      "closestComparison": "royse-city",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -11848,8 +11848,8 @@
       "city": "peaster",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 98.08,
-      "closestComparison": "midlothian",
+      "uniquePercent": 97.76,
+      "closestComparison": "west-tawakoni",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -12018,8 +12018,8 @@
       "city": "rosser",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 97.46,
-      "closestComparison": "rio-vista",
+      "uniquePercent": 96.38,
+      "closestComparison": "venus",
       "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
@@ -12038,9 +12038,9 @@
       "city": "royse-city",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "runaway-bay",
-      "phrasePass": false,
+      "uniquePercent": 98.03,
+      "closestComparison": "millsap",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12048,9 +12048,9 @@
       "city": "runaway-bay",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.07,
+      "closestComparison": "reno",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12068,9 +12068,9 @@
       "city": "saginaw",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.73,
+      "closestComparison": "pelican-bay",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12078,9 +12078,9 @@
       "city": "sanctuary",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.33,
+      "closestComparison": "pecan-hill",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12088,9 +12088,9 @@
       "city": "sanger",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.34,
+      "closestComparison": "godley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12098,9 +12098,9 @@
       "city": "sansom-park",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.71,
+      "closestComparison": "grand-prairie",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12108,9 +12108,9 @@
       "city": "scurry",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.13,
+      "closestComparison": "pecan-hill",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12118,9 +12118,9 @@
       "city": "seagoville",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.95,
+      "closestComparison": "seven-points",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12128,9 +12128,9 @@
       "city": "seven-points",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.44,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12138,9 +12138,9 @@
       "city": "shady-shores",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.87,
+      "closestComparison": "seagoville",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12148,9 +12148,9 @@
       "city": "springtown",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.48,
+      "closestComparison": "venus",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12158,9 +12158,9 @@
       "city": "st-paul",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.12,
+      "closestComparison": "sunnyvale",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12168,9 +12168,9 @@
       "city": "sunnyvale",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 89.31,
+      "closestComparison": "st-paul",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12178,9 +12178,9 @@
       "city": "talty",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.71,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12188,9 +12188,9 @@
       "city": "terrell",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.36,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12198,9 +12198,9 @@
       "city": "trophy-club",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.37,
+      "closestComparison": "union-valley",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12208,9 +12208,9 @@
       "city": "union-valley",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.84,
+      "closestComparison": "talty",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12218,9 +12218,9 @@
       "city": "university-park",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 88.39,
+      "closestComparison": "terrell",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12228,9 +12228,9 @@
       "city": "van-alstyne",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.17,
+      "closestComparison": "venus",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12238,9 +12238,9 @@
       "city": "venus",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.04,
+      "closestComparison": "talty",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12248,9 +12248,9 @@
       "city": "watauga",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.09,
+      "closestComparison": "rosser",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12258,9 +12258,9 @@
       "city": "waxahachie",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 96.0,
+      "closestComparison": "weatherford",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12268,9 +12268,9 @@
       "city": "weatherford",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 96.07,
+      "closestComparison": "waxahachie",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12278,9 +12278,9 @@
       "city": "west-tawakoni",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.81,
+      "closestComparison": "peaster",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12288,9 +12288,9 @@
       "city": "westlake",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 98.02,
+      "closestComparison": "sachse",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12298,9 +12298,9 @@
       "city": "weston",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.94,
+      "closestComparison": "richland-hills",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12308,9 +12308,9 @@
       "city": "westover-hills",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 93.93,
+      "closestComparison": "willow-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12318,9 +12318,9 @@
       "city": "westworth-village",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.93,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12328,9 +12328,9 @@
       "city": "white-settlement",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.61,
+      "closestComparison": "willow-park",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12338,9 +12338,9 @@
       "city": "willow-park",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 86.79,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12348,9 +12348,9 @@
       "city": "wilmer",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 87.71,
+      "closestComparison": "white-settlement",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     },
     {
@@ -12358,9 +12358,9 @@
       "city": "wolfe-city",
       "group": "construction-remodeling",
       "markedCopy": true,
-      "uniquePercent": 0.0,
-      "closestComparison": "royse-city",
-      "phrasePass": false,
+      "uniquePercent": 97.9,
+      "closestComparison": "st-paul",
+      "phrasePass": true,
       "editorialStatus": "requires_separate_review"
     }
   ]

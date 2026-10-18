@@ -1,0 +1,582 @@
+{
+  "emergency-water-extraction/milford": {
+    "intro": "Emergency water extraction in Milford can stall when a damaged recovery hose draws air while water remains on the floor. We will check the collection path and restore effective pickup before treating a running motor as evidence that extraction is working.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Milford: check the recovery path under safe operating conditions",
+        "text": "The water source, electrical access and suitability of the equipment are established first. Connections, hose condition and the receiving container are checked when collection is weak. A loose coupling or split hose can interrupt pickup even when the floor tool is positioned correctly."
+      },
+      {
+        "title": "Correct the leak and confirm actual liquid recovery",
+        "text": "The operator stops the equipment as required before reseating a permitted coupling or replacing an unsuitable hose. The corrected setup is checked at the wet surface and receiving point using the equipment’s operating guidance. A damaged connection is not held together by hand while water is collected."
+      },
+      {
+        "title": "Complete the missed floor areas",
+        "text": "The crew returns to areas where ineffective pickup left liquid, including reachable edges and recesses. Floor layers that remain wet receive separate retention and drying decisions after recovery. Equipment correction does not establish that water beneath a finish was reached."
+      }
+    ],
+    "estimate": "Hose access, floor-tool reach and the affected materials determine collection needs. Share the release source and any earlier extraction that left visible water.",
+    "checklist": [
+      "Identify areas still holding liquid after pickup.",
+      "Describe previous equipment or collection problems.",
+      "Share floor materials and source-control status."
+    ]
+  },
+  "burst-pipe-cleanup/milford": {
+    "intro": "Burst pipe cleanup in Milford can involve soaked pipe insulation left around a repaired line inside an opened wall. We will distinguish that wrapping from wall insulation and remove specified wet material without pulling on the new plumbing connection.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Milford: identify the wet wrapping and repaired connection",
+        "text": "The plumber confirms the source repair and identifies any wrapping that belongs to the pipe assembly. Unknown older insulation receives necessary evaluation before disturbance; a dark or wet jacket is not torn off simply to inspect beneath it."
+      },
+      {
+        "title": "Release wet insulation in supported sections",
+        "text": "Approved covering is opened along an accessible seam while the wet section is supported and contained. The wrapping is separated from pipe supports and fittings through the agreed trade access, rather than dragged along the pipe. Reachable liquid and loose fibers are collected from the cavity below."
+      },
+      {
+        "title": "Dry the surrounding construction before rewrapping",
+        "text": "Suitable exposed wall framing receives moisture checks and directed drying after unsuitable cavity insulation is removed. The pipe provider determines replacement insulation and any required joint access. New wrapping and wallboard follow the completed material work instead of enclosing a wet support or pocket of debris."
+      }
+    ],
+    "estimate": "Wrapping type, pipe supports and the extent of wet cavity insulation determine access. Share the plumber’s repair details and existing opening photographs.",
+    "checklist": [
+      "Identify insulation still surrounding the repaired pipe.",
+      "Describe accessible supports and fittings.",
+      "Share material evaluations and source-repair findings."
+    ]
+  },
+  "appliance-leak-cleanup/milford": {
+    "intro": "Appliance leak cleanup in Milford can require cleaning beneath a refrigerator’s removable drain pan after leaked water has reached the floor. We will coordinate pan access with appliance service and collect the floor water separately from residue inside the pan.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Milford: confirm how the pan can be reached",
+        "text": "The service provider isolates the appliance and identifies whether the pan slides out or remains attached near operating components. Contents of an accessible pan are collected before it is tilted or carried. We keep its dirty underside from being placed on a cleared floor."
+      },
+      {
+        "title": "Clean the exposed pan seat and floor",
+        "text": "Removable debris and reachable water are collected from the agreed access area. For an accepted detached pan, compatible cleaning works deposits out of accessible molded ribs and corners while dirty liquid is collected away from the floor. Cracked plastic or damaged attachment points require replacement, and inaccessible appliance components remain with service personnel."
+      },
+      {
+        "title": "Recheck the footprint after movement",
+        "text": "Any authorized movement reveals floor edges that the pan opening alone may not expose. Wet floor layers receive their own removal or drying decision before the unit returns. The appliance provider checks drainage and pan placement so a clean pan is not mistaken for a corrected leak."
+      }
+    ],
+    "estimate": "Pan attachment, appliance clearance and wet floor construction affect the work. Provide the model and service findings where available.",
+    "checklist": [
+      "Describe the pan and access opening.",
+      "Identify water beneath or beyond the refrigerator.",
+      "Share appliance drainage findings."
+    ]
+  },
+  "storm-water-damage-cleanup/milford": {
+    "intro": "Storm water damage cleanup in Milford can leave a thin layer of wet silt across an interior hard floor after rainwater is removed. We will recover the settled material before broad drying airflow turns loose deposits into dust around the room.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Milford: separate retained flooring from loose storm deposits",
+        "text": "The entry source and water condition guide handling, with necessary evaluations for unfamiliar debris. Loose items are lifted from the wet path without dragging grit over retained finishes. Damaged joints or porous flooring have their own removal decisions."
+      },
+      {
+        "title": "Lift bulk silt and collect cleaning residue",
+        "text": "Suitable tools gather the heavier deposit without grinding it against the floor. Compatible controlled cleaning then loosens the remaining film in manageable areas while the dirty liquid is recovered. Fresh tools or clean contact surfaces prevent the next pass from spreading the same residue back across the room."
+      },
+      {
+        "title": "Inspect low joints before drying equipment returns",
+        "text": "Reachable perimeter recesses and joints are checked for sediment after the broad surface is cleared. Wet backing and floor layers remain subject to access and drying decisions. Drying air is directed at suitable retained material after loose contamination in the work area has been addressed, with exterior entry repairs separately confirmed."
+      }
+    ],
+    "estimate": "Silt thickness, floor sensitivity and affected joints determine cleaning and waste recovery. Share where rain entered and whether soil or outdoor debris came with it.",
+    "checklist": [
+      "Identify settled silt and sensitive floor finishes.",
+      "Describe water beneath edges or damaged joints.",
+      "Share entry-control and prior cleaning information."
+    ]
+  },
+  "structural-drying-services/milford": {
+    "intro": "Structural drying services in Milford can address a wet masonry hearth whose exposed face dries sooner than its joints and adjoining floor edge. We will distinguish the masonry readings from nearby timber so a dry room does not become the completion test for both materials.",
+    "sections": [
+      {
+        "title": "Structural drying services in Milford: establish comparable monitoring locations",
+        "text": "The source and water path are reviewed before equipment placement. Accessible mortar joints, masonry faces and adjacent wood are identified separately, using measurement methods suitable for each material. Salt deposits or metal trim can complicate a reading and require interpretation rather than a direct comparison with wood."
+      },
+      {
+        "title": "Keep drying air in contact with the wet surfaces",
+        "text": "Movable coverings are removed as appropriate and equipment arranged to reach the hearth perimeter without directing uncontrolled dust into the room. Air movement and moisture removal are adjusted to the observed response. Crumbling mortar or loose facing receives a repair evaluation instead of repeated drying as a cure."
+      },
+      {
+        "title": "Check the floor junction before finish work",
+        "text": "The exposed edge is rechecked where water could have passed beneath neighboring flooring. Further access is proposed where an enclosed wet layer cannot respond to the current setup. Repointing, floor replacement and fireplace operating decisions remain separate from the measured drying work."
+      }
+    ],
+    "estimate": "Masonry thickness, accessible joints and neighboring floor construction affect monitoring. Share water history and any existing masonry repair findings.",
+    "checklist": [
+      "Identify the wet hearth and adjacent floor material.",
+      "Describe loose joints or removed coverings.",
+      "Share prior drying and source-control information."
+    ]
+  },
+  "floor-water-damage-cleanup/milford": {
+    "intro": "Floor water damage cleanup in Milford can require removal of a swollen thin underlayment fastened over a sound subfloor. We will separate the damaged sheet from the base without leaving hidden staples or fragments beneath the next floor.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Milford: identify the sheet and fastener pattern",
+        "text": "The floor assembly and necessary material evaluations are established before disturbance. We locate the approved removal edges and distinguish the thin sheet from structural decking so a cut does not carry through both layers."
+      },
+      {
+        "title": "Lift the sheet and recover remaining fasteners",
+        "text": "Supported sections are released in manageable pieces, collecting brittle edges as they separate. Staples that remain in the base are removed or addressed by the floor provider’s repair method, rather than concealed beneath a patch. Adhesive or unfamiliar residue receives its own evaluation before scraping or grinding."
+      },
+      {
+        "title": "Inspect and dry the exposed base",
+        "text": "Reachable water and loose particles are collected before moisture checks on the retained subfloor. Splintered areas or damaged seams need repair, while suitable wet wood receives drying. The flooring installer confirms the receiving surface and replacement underlayment requirements after that work."
+      }
+    ],
+    "estimate": "Sheet thickness, fastener density and underlying damage affect removal. Share flooring installation information and the water source.",
+    "checklist": [
+      "Identify thin underlayment beneath the finish.",
+      "Describe swelling and areas already lifted.",
+      "Share known adhesive or material information."
+    ]
+  },
+  "ceiling-water-damage-cleanup/milford": {
+    "intro": "Ceiling water damage cleanup in Milford can involve a wet ceiling edge tucked behind a decorative cornice. We will release the affected edge in a supported sequence so removing softened board does not pull the adjoining wall finish down with it.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Milford: identify what the cornice is attached to",
+        "text": "Source control and safe overhead access come first. The finish provider checks whether the cornice is fixed to the wall, ceiling or both, and whether it bridges the approved opening. Necessary material evaluations precede cutting coatings or older finishes."
+      },
+      {
+        "title": "Separate the joint before lowering damaged material",
+        "text": "Included trim is supported while approved finish bridges and attachments are released. Failed board is lowered in controlled sections, collecting wet crumbs from the cornice recess rather than brushing them onto the wall. Soaked insulation above the edge receives its own removal decision."
+      },
+      {
+        "title": "Reach the upper wall and ceiling support",
+        "text": "The opened junction permits cleaning and moisture checks on suitable retained construction. The cornice reverse is evaluated separately for damage and drying, with broken or distorted pieces referred to the finish provider. Reinstallation follows the source repair and condition of both receiving surfaces."
+      }
+    ],
+    "estimate": "Cornice attachment, fragility and access above the ceiling edge affect removal. Share existing opening photographs and source-repair findings.",
+    "checklist": [
+      "Identify trim crossing the damaged ceiling edge.",
+      "Describe sagging board or loose cornice.",
+      "Share overhead access and leak information."
+    ]
+  },
+  "bathroom-mold-removal/milford": {
+    "intro": "Bathroom mold removal in Milford can involve deposits inside a removable shower-door sweep and along the glass edge it grips. We will separate the flexible strip from the rigid enclosure surfaces so a clean outer lip does not conceal an affected channel.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Milford: confirm which seal can be released",
+        "text": "The assessment identifies the included contacts, and the enclosure provider confirms the strip’s attachment. A brittle or split sweep is assigned replacement instead of forced off the glass. Structural glazing seals and fixed door supports are not treated as removable cleaning strips."
+      },
+      {
+        "title": "Clean the channel and its receiving edge",
+        "text": "Under the agreed controls, an accepted removable strip is opened enough to reach its inner groove without stretching or tearing it. Physical cleaning collects deposits from the groove and both accessible lips, with compatible rinsing and drying as the material permits. Suitable exposed glass receives separate cleaning along the former contact line."
+      },
+      {
+        "title": "Resolve residue that remains inside the strip",
+        "text": "A bonded deposit or inaccessible interior can make replacement the practical choice even if the exterior wipes clean. The installer returns an accepted dry strip after moisture causes and applicable review are addressed. Wall backing implicated by the assessment retains its own treatment scope."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Strip construction, removability and the assessed glass or wall contacts affect the scope. Share enclosure information and prior cleaning attempts.",
+    "checklist": [
+      "Identify removable sweeps or fixed glazing seals.",
+      "Describe cracking and deposits inside the groove.",
+      "Share assessment and leak-correction findings."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/milford": {
+    "intro": "Kitchen cabinet mold removal in Milford can involve a rotating corner-cabinet tray that hides deposits beneath its rim and around the center mount. We will arrange access to both tray faces and the cabinet base instead of treating rotation past the opening as full cleaning.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Milford: unload and release the tray as its design permits",
+        "text": "The cabinet provider identifies the retaining hardware and whether each tray can be removed without destabilizing the assembly. Stored items leave through the agreed handling route before the affected parts are disturbed. The assessment distinguishes the tray, center support and surrounding porous cabinet panels."
+      },
+      {
+        "title": "Clean the underside and central recess",
+        "text": "An accepted tray is supported outside the cabinet while loose deposits are collected from its rim, underside ribs and mounting recess. Compatible physical cleaning reaches the exposed contours without flooding bearing components or absorbent edges. A swollen wood tray or inaccessible affected assembly receives a replacement decision."
+      },
+      {
+        "title": "Treat the stationary cabinet before reassembly",
+        "text": "With the tray removed, included cabinet-base material is removed or physically cleaned as specified. Retained components are dried and reviewed through the applicable independent process. The installer restores the mount and checks clearance after treatment, keeping lubricant or mechanical repair separate from surface cleanup."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Tray diameter, release mechanism, cabinet material and access to the rear corner affect handling. Share product details and assessment photographs.",
+    "checklist": [
+      "Identify rotating trays and center supports.",
+      "Describe underside access and swollen parts.",
+      "Share assessment and moisture-source findings."
+    ]
+  },
+  "mold-remediation-after-water-damage/milford": {
+    "intro": "Mold remediation after water damage in Milford can involve a wall with small access holes left by earlier cavity drying. We will use the current assessment to decide whether those openings provide treatment access, rather than assume that air once passing through them established a cleaned cavity.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Milford: inspect the earlier openings and the material between them",
+        "text": "Prior drying information helps locate the wet assembly but does not define the present remediation boundary. The provider identifies included backing, insulation and framing, with necessary material evaluations before enlargement. Plugs or covers are removed within the controls where they obstruct the assessed opening."
+      },
+      {
+        "title": "Create an opening that permits physical removal",
+        "text": "Where specified, the board between existing holes is released as supported sections rather than broken into the cavity. Affected porous material and loose fragments are contained, exposing the included surfaces for direct physical cleaning and collection. Spray or a hose inserted through a small hole is not represented as equivalent access to the full face."
+      },
+      {
+        "title": "Review the cavity before patching the holes",
+        "text": "The provider checks the accessible corners and bottom for remnants from both the earlier work and current removal. Source correction, retained-material drying and applicable independent review precede closure. The repair boundary follows the completed opening, including weak perforated edges that cannot support a sound patch."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Hole spacing, concealed layers and the assessed area determine whether a larger opening is needed. Share the earlier drying method and current findings.",
+    "checklist": [
+      "Identify existing drying holes or plugs.",
+      "Provide earlier opening and drying records.",
+      "Share the current assessment and source-repair status."
+    ]
+  },
+  "mold-removal-behind-drywall/milford": {
+    "intro": "Mold removal behind drywall in Milford can involve a wall with staggered studs, where the first exposed row does not reveal every timber face. We will map the assessed contacts across the wall depth and establish which sides can actually be cleaned from the authorized opening.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Milford: identify the two attachment planes",
+        "text": "The opened edge and available construction information establish the framing layout. Necessary material evaluations and utility checks precede removal of specified board and insulation. A clear view between the near studs is not recorded as access to the reverse of the far row."
+      },
+      {
+        "title": "Clean each included face with room to collect debris",
+        "text": "The provider physically removes deposits from reachable sound timber while collecting loosened material within the controls. Insulation fragments lodged between the rows are removed where included, rather than pushed deeper into the wall. Where a required face cannot be reached, a defined additional opening is proposed instead of reaching blindly around services."
+      },
+      {
+        "title": "Inspect the treated depth before relining",
+        "text": "The completion record identifies treated faces and any access still unresolved. Source correction, drying and applicable independent evaluation occur while the relevant openings remain available. The repair provider restores the specified wall assembly without using leftover affected insulation to fill the deeper spaces."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Framing depth, utility routes and the assessed faces determine whether access from one side is sufficient. Share construction details and photographs of existing openings.",
+    "checklist": [
+      "Identify staggered or separate rows of studs if known.",
+      "Describe insulation and utilities between the rows.",
+      "Share assessment and source-repair information."
+    ]
+  },
+  "kitchen-fire-cleanup/milford": {
+    "intro": "Kitchen fire cleanup in Milford can involve soot on removable cooktop grates whose underside feet and crossings remain dirty after the top bars are wiped. We will coordinate appliance release and clean accepted grates separately from burner and control service.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Milford: inspect the grate coating and support points",
+        "text": "The appliance provider establishes a cool, isolated work area and evaluates heat distortion. Enamel, bare metal and attached foot pads can have different cleaning limits. A cracked or rocking grate requires a replacement decision rather than cleaning followed by routine reuse."
+      },
+      {
+        "title": "Reach the underside without damaging the coating",
+        "text": "Accepted grates are lifted onto a protected work surface and loose residue collected. Compatible cleaning addresses the bar crossings, underside and feet, with the part turned under support rather than scraped across the counter. Immersion or aggressive abrasion is not assumed suitable for every coating or attached pad."
+      },
+      {
+        "title": "Dry the grate and keep burner service separate",
+        "text": "Remaining deposits and coating loss are checked after the accepted part dries. The receiving cooktop surface receives its own compatible cleaning before the grate returns to the correct position. Burner ports, ignition and appliance operating approval remain with the service provider."
+      }
+    ],
+    "estimate": "Grate weight, coating, foot-pad condition and heat effects determine recovery. Share the cooktop model and appliance evaluation.",
+    "checklist": [
+      "Identify removable grates and damaged coatings.",
+      "Describe residue beneath crossings and feet.",
+      "Share appliance-provider findings."
+    ]
+  },
+  "smoke-damage-cleanup/milford": {
+    "intro": "Smoke damage cleanup in Milford can involve soot on a bifold closet door, including the narrow faces that meet when its panels fold. We will clean the moving faces in supported positions so the closed door does not conceal untreated edges.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Milford: test the finish before working the folds",
+        "text": "The released work area and door condition are checked before handling. A compatible trial distinguishes removable deposits from softened coating or heat distortion. Loose hinges or a damaged track need a door-provider decision before the panels are moved repeatedly."
+      },
+      {
+        "title": "Expose the meeting edges without spreading residue",
+        "text": "Loose soot is collected with the panels supported at suitable angles. Accepted faces and narrow meeting edges receive compatible cleaning using fresh contact surfaces as soil transfers. Hinges are detailed without flooding their joints or drawing dirty liquid into an absorbent door edge."
+      },
+      {
+        "title": "Check the contact faces as the panels move",
+        "text": "The cleaned panels are moved through their permitted range to inspect previously hidden strips and collect residue revealed at the fold. Finish damage remains a repair issue. Closet contents and the wall behind the door receive separate treatment decisions before the opening returns to normal use."
+      }
+    ],
+    "estimate": "Panel construction, finish stability and hinge access affect treatment. Share photographs of both the closed door and accessible folded edges.",
+    "checklist": [
+      "Identify bifold doors in the smoke path.",
+      "Describe sticking panels or damaged finish.",
+      "List closet contents needing separate review."
+    ]
+  },
+  "toilet-overflow-cleanup/milford": {
+    "intro": "Toilet overflow cleanup in Milford can involve wastewater beneath a freestanding toilet-paper holder or small bathroom accessory. We will remove affected movable items before cleaning their feet and the floor contacts they concealed.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Milford: collect wastewater before moving the item",
+        "text": "The overflow source and contact history establish handling. Reachable liquid is recovered first, then the accessory is lifted into contained handling rather than dragged across the floor. A weighted base may hold absorbent material beneath its decorative shell."
+      },
+      {
+        "title": "Expose the foot and backing materials",
+        "text": "Contacted felt, foam or other unsuitable porous pads receive removal and disposal decisions. Suitable retained hard bases and floor surfaces are physically cleaned, including reachable recesses, before label-directed disinfection. A closed weighted base that has admitted wastewater needs a replacement or specialist decision if its interior cannot be reached."
+      },
+      {
+        "title": "Dry the floor before replacing the contact pad",
+        "text": "The floor beneath receives moisture checks and any necessary access to affected layers. Accepted accessories dry separately and receive suitable replacement pads only after the base is resolved. Plumbing correction and damaged-floor repair remain distinct from the surface cleanup."
+      }
+    ],
+    "estimate": "Base construction, porous pads and concealed wastewater determine item recovery. Share overflow findings and identify accessories that were standing in the spill.",
+    "checklist": [
+      "Identify weighted or padded accessory bases.",
+      "Describe wastewater contact and any earlier movement.",
+      "Share plumbing-source and floor information."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/milford": {
+    "intro": "AC leak water damage cleanup in Milford can involve condensate that ran behind a surface-mounted cable cover on a wall. We will coordinate electrical access and treat the wet wall strip without pulling the cables out with the cover.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Milford: establish safe access to the cable route",
+        "text": "The HVAC provider addresses the condensate source while the electrical provider determines isolation and cable handling. The cover’s attachment is identified before release; adhesive and clip-mounted sections can expose different amounts of wall backing."
+      },
+      {
+        "title": "Collect water behind the released cover",
+        "text": "With authorized access, reachable liquid is recovered from the cover and its lower end. Softened wall paper or other unsuitable finish is removed where specified, and included retained surfaces receive cleaning. Electrical components and cable condition remain with the responsible service provider."
+      },
+      {
+        "title": "Dry the strip before closing the channel",
+        "text": "The exposed wall and adjacent base receive moisture checks beyond the visible drip line. A cover is not snapped back over damp backing merely because the AC has stopped leaking. Reattachment follows the receiving-wall repair, with any new adhesive or fasteners selected by the installer."
+      }
+    ],
+    "estimate": "Cover attachment, electrical access and wet wall extent shape the scope. Share HVAC findings and photographs of the installed cable route.",
+    "checklist": [
+      "Identify cable covers along the wet path.",
+      "Describe dampness at the channel’s lower end.",
+      "Share HVAC and electrical access information."
+    ]
+  },
+  "crawl-space-water-removal/milford": {
+    "intro": "Crawl space water removal in Milford can require moving a pickup hose between separate pools beyond low plumbing runs. We will plan the hose route so reaching the water does not load or pull on the services that cross the crawl space.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Milford: establish a route independent of the utilities",
+        "text": "Safe entry, source status and electrical conditions are established before collection. The crew identifies supported access and the pipes or cables crossing the path. A service line is not used as a step or a convenient rest for heavy collection equipment."
+      },
+      {
+        "title": "Feed the hose to each pool without dragging across pipes",
+        "text": "The hose is guided through the approved clearance with slack controlled from the accessible side. Suitable independent protection or support is used where the route requires it, rather than tightening a loaded hose around a fitting. Reachable water is collected from each pocket, with equipment repositioned through the planned route as levels fall."
+      },
+      {
+        "title": "Withdraw the setup without releasing water into cleared areas",
+        "text": "Retained liquid is managed through the equipment’s recovery arrangement before the hose is moved back across the access route. The crew checks the pools and crossing points for remaining or newly released water. Wet insulation and timber receive separate treatment decisions after collection; a cleared hose route does not establish dry building material."
+      }
+    ],
+    "estimate": "Utility crossings, crawl clearance and the number of separate pools affect setup and movement. Share safe access photographs and source findings.",
+    "checklist": [
+      "Identify plumbing or cable crossings along the access route.",
+      "Describe separate pools beyond those obstructions.",
+      "Share source-control and utility restrictions."
+    ]
+  },
+  "attic-mold-remediation/milford": {
+    "intro": "Attic mold remediation in Milford can involve loose insulation packed against the lower edge of affected roof boards. We will remove the included insulation from the contact line before cleaning the timber, while protecting the insulation that remains outside the assessed work.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Milford: set a controlled edge for insulation removal",
+        "text": "The assessment identifies the affected roof area and insulation requiring disposal. Supported access and utility protection are established before handling. Temporary separation keeps displaced fibers from spreading into adjacent insulation during the opening."
+      },
+      {
+        "title": "Clear the timber contact before physical cleaning",
+        "text": "Included loose fill is collected in controlled portions rather than raked through the attic. Fibers still clinging to the wood are captured before the provider physically cleans the exposed board faces and lower edges. Debris released during that work is collected from the protected receiving area instead of left in retained insulation."
+      },
+      {
+        "title": "Inspect the cleaned wood before refilling",
+        "text": "The contact line remains exposed for moisture checks and applicable independent review. Roof or ventilation correction is coordinated with drying of retained timber. Replacement insulation is installed only after remaining fragments and treatment debris have been removed from the receiving space."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Loose-fill depth, the roof contact line and supported working reach affect removal. Share assessment photographs and any insulation product information.",
+    "checklist": [
+      "Identify insulation touching the assessed roof boards.",
+      "Describe safe attic access and clearance.",
+      "Share moisture-source and roof findings."
+    ]
+  },
+  "crawl-space-mold-remediation/milford": {
+    "intro": "Crawl space mold remediation in Milford can involve deposits on both the vertical faces and underside of a deep floor beam. We will clean in a sequence that captures material falling from the higher faces before completing the lower edge.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Milford: identify the included beam surfaces",
+        "text": "The assessment distinguishes the exposed beam from adjacent joists and any concealed bearing contacts. Safe reach is established along the assessed length, with utilities protected and necessary insulation removal completed first. Structural deterioration receives a qualified repair decision before contact cleaning."
+      },
+      {
+        "title": "Collect deposits from the upper working edge downward",
+        "text": "On suitable retained wood, controlled particle collection precedes the specified contact cleaning. The higher accessible faces are worked before the underside, with loosened material captured at the tool and on protected ground below. Corners receive detail collection so brushing a broad face does not leave a ridge of debris along the lower arris."
+      },
+      {
+        "title": "Finish the lower face and remove fallout",
+        "text": "The underside is cleaned after work above it, then checked for material deposited during earlier passes. Collected waste is removed before ground protection or insulation is reinstated. Moisture correction, drying and required independent evaluation remain prerequisites to concealment; an inaccessible bearing face remains explicitly unresolved."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Beam depth, accessible faces and crawl clearance determine the cleaning position and collection setup. Share assessment locations and structural findings if available.",
+    "checklist": [
+      "Identify deep beams and included faces.",
+      "Describe utilities or supports limiting reach.",
+      "Share assessment and moisture-correction findings."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/milford": {
+    "intro": "Mold contaminated contents cleaning in Milford can involve a coated wire storage rack whose joints and plastic sleeves retain deposits. We will dismantle only the parts designed for release and clean the connections separately from the open wire faces.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Milford: unload the rack and identify removable joints",
+        "text": "The contents scope distinguishes shelves, posts, sleeves and stored belongings. The rack is unloaded and supported before its fittings are released, with parts kept associated with their original assembly. Corroded wire or failing coating needs a recovery decision before wet cleaning."
+      },
+      {
+        "title": "Reach the wire crossings and post sleeves",
+        "text": "Accepted hard components receive controlled deposit collection followed by compatible physical cleaning. Removable sleeves are treated on their inner faces as well as outside, and wire intersections receive detail work where a flat wipe bridges the recess. A split sleeve or affected inaccessible joint is replaced rather than returned as a cleaned part."
+      },
+      {
+        "title": "Dry components before rebuilding storage",
+        "text": "Rinse or cleaning moisture is removed from accepted joints before reassembly, as the selected method requires. The receiving room must have its moisture problem and applicable remediation review addressed. The rack’s load capacity and damaged-part replacement remain separate from the cleaning result."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Rack construction, joint release and coating condition affect recovery. Share an inventory and assessment photographs of representative connections.",
+    "checklist": [
+      "Identify removable shelves and sleeves.",
+      "Describe corrosion or peeling coatings.",
+      "List stored contents requiring separate assessment."
+    ]
+  },
+  "fire-damaged-debris-removal/milford": {
+    "intro": "Fire damaged debris removal in Milford can involve a damaged wall-mounted mirror whose backing and fixings remain attached after the room is released for cleanup. We will arrange controlled glazing removal so pulling the frame does not scatter broken mirror behind retained furnishings.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Milford: identify the mirror’s remaining attachments",
+        "text": "The glazing provider evaluates cracks, clips, adhesive and safe handling before release. The surrounding work area and carrying route are protected, and salvageable nearby items are removed. A frame that looks loose is not evidence that the glass has separated from the wall."
+      },
+      {
+        "title": "Contain glazing before removing the backing",
+        "text": "Approved glass sections are supported and contained through the glazier’s removal method. Released fragments receive appropriate rigid handling, with contaminated soft backing separated from sharp waste. Adhesive or suspect older backing materials are evaluated before scraping the exposed wall."
+      },
+      {
+        "title": "Clear the ledges and floor footprint",
+        "text": "Remaining reachable shards and soot are collected from the mounting ledge and protected floor. The revealed wall is checked for heat damage and suppression-water wetting before its next cleaning or repair task. Detailed wall restoration and replacement glazing remain separately scoped."
+      }
+    ],
+    "estimate": "Mirror size, breakage, adhesive attachment and carrying access affect removal. Share the site release and glazing findings.",
+    "checklist": [
+      "Identify wall-mounted mirrors approved for removal.",
+      "Describe cracked glass and remaining fixings.",
+      "Share access restrictions and items to retain."
+    ]
+  },
+  "fire-damaged-contents-cleaning/milford": {
+    "intro": "Fire damaged contents cleaning in Milford can involve ceramic tableware with soot inside decorative relief and on unglazed foot rings. We will distinguish cleanable glazed surfaces from cracks or porous contacts that need a different recovery decision.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Milford: inspect the glaze and hidden contact areas",
+        "text": "Items are separated for inspection without sliding gritty bases over clean glaze. Heat cracks, crazing and chipped edges are recorded before treatment. Food-contact suitability or valuable decorative pieces may require specialist review; appearance alone does not establish recovery."
+      },
+      {
+        "title": "Clean the relief without flooding porous areas",
+        "text": "Loose deposits are collected from accepted pieces before a compatible cleaning method is applied. Detail work follows raised patterns and recessed handles while controlling contact with an absorbent foot ring. A cracked glaze or inaccessible affected interior is not subjected to repeated soaking to chase a uniform appearance."
+      },
+      {
+        "title": "Dry and inspect each base before packing",
+        "text": "Accepted items are positioned to let cleaned recesses and bases dry, then checked individually for remaining residue. Protective packing separates the pieces so rough feet do not abrade glazed faces. Contents are returned to completed storage, with any unresolved use or conservation decision recorded separately."
+      }
+    ],
+    "estimate": "Glaze condition, decorative relief and porous bases determine handling. Share item photographs and note pieces intended for food use or conservation.",
+    "checklist": [
+      "Identify cracked or crazed ceramics.",
+      "Describe soot on bases and recessed patterns.",
+      "List items requiring individual specialist review."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/milford": {
+    "intro": "Fire extinguisher residue cleanup in Milford can leave powder inside the perforations of a removable pegboard panel. We will collect deposits from both faces and the holes so wiping the room-facing surface does not leave powder ready to fall from the back.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Milford: identify the agent and release the panel safely",
+        "text": "The extinguisher label and finish condition guide treatment. Stored tools and hooks are removed through the agreed handling plan, and the installer determines whether the panel can be released without damaging its backing or nearby wiring."
+      },
+      {
+        "title": "Collect through the holes without blowing powder across the room",
+        "text": "For an accepted dry agent, suitable filtered collection and gentle detail work address the perforations from accessible faces. The panel is supported during handling so flexing does not shake powder onto cleaned contents. An absorbent or damaged board that cannot tolerate the required cleaning receives a replacement decision."
+      },
+      {
+        "title": "Clean the stand-off space before refitting",
+        "text": "The exposed wall and supports are inspected and included deposits collected before the panel returns. Accepted hooks receive separate cleaning, with residue in their bends removed before they pass through cleaned holes. Electrical equipment and heat-damaged contents retain their own service decisions."
+      }
+    ],
+    "estimate": "Panel material, hole density, attachment and the agent determine handling. Share label information and photographs of the storage arrangement.",
+    "checklist": [
+      "Identify removable pegboard and stored items.",
+      "Describe powder behind the panel if known.",
+      "Share extinguisher-agent information."
+    ]
+  },
+  "emergency-board-up-after-fire/milford": {
+    "intro": "Emergency board up after fire in Milford can require a temporary panel prepared away from damaged glazing before it is lifted into place. We will transfer the opening and support measurements to the panel so cutting and hole preparation do not disturb retained glass at the window.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Milford: measure both coverage and attachment locations",
+        "text": "Site release and loose-glass control precede the survey. The installer records the usable surrounding support, required panel overlap and any retained projection. Required entry or exit arrangements are resolved before the piece is cut."
+      },
+      {
+        "title": "Prepare the panel on a supported work surface",
+        "text": "The selected sheet is supported while its outline is cut, with offcuts controlled so the edge does not split as the cut finishes. Where the attachment method calls for prepared panel holes, their positions follow the surveyed receiving members. A wrong hole location is corrected in the fitting plan rather than used to drive a fastener into unsupported trim."
+      },
+      {
+        "title": "Lift, fit and check before final securing",
+        "text": "The panel is supported at the opening while coverage and attachment alignment are checked. Necessary trimming returns to a suitable cutting position instead of using the damaged window as a workbench. Final fastening and perimeter checks follow the accepted fit, with permanent glazing and frame repairs separately assigned."
+      }
+    ],
+    "estimate": "Panel dimensions, lifting access and the available receiving members affect preparation. Share safe opening photographs and site restrictions.",
+    "checklist": [
+      "Identify opening dimensions and retained glazing.",
+      "Describe available space for panel preparation.",
+      "State authorized access requirements."
+    ]
+  },
+  "crawl-space-sewage-cleanup/milford": {
+    "intro": "Crawl space sewage cleanup in Milford can involve wastewater on the underside of a service walkway built over the crawl-space ground. We will arrange supported access to both the deck and the ground below, keeping contaminated boards from becoming the carrying route for cleaned equipment.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Milford: establish an alternate working route",
+        "text": "The walkway construction, supports and source status are evaluated before sections are lifted. A qualified provider determines which boards can be released without losing necessary access or support. Tools and waste handling are arranged from an approved route outside the contaminated surface."
+      },
+      {
+        "title": "Remove affected boards and recover wastewater beneath",
+        "text": "Specified unsuitable porous decking is contained during controlled release, with the contacted underside kept within the waste route. Reachable sewage below is recovered and affected liner or soil receives its own evaluated disposition. Suitable retained hard supports are physically cleaned before the specified disinfection step."
+      },
+      {
+        "title": "Resolve the receiving area before rebuilding the walkway",
+        "text": "The exposed footprint is inspected for wastewater trapped at support contacts. Retained building material receives drying where needed, and source repair is confirmed separately. Replacement boards are fitted only after the cleanup beneath them is addressed; new decking is not a cover for unresolved ground contamination."
+      }
+    ],
+    "estimate": "Walkway support, alternate access and contamination beneath the boards determine removal. Share plumbing findings and safe photographs of the entry route.",
+    "checklist": [
+      "Identify a service walkway over the affected ground.",
+      "Describe alternate crawl-space access.",
+      "Share source repair and contaminated-material findings."
+    ]
+  }
+}

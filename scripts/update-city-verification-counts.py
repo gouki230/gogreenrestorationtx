@@ -34,6 +34,7 @@ def authored(pattern):
     return len(records)
 progress.update(updatedUTC=datetime.datetime.now(datetime.timezone.utc).isoformat(), verifiedCompactPassed=len(compact_pass), verifiedCompactRemaining=4944-len(compact_pass), verifiedCityHubs=len(hubs), verifiedMainServiceCityPages=sum(main.values()), remainingCityHubs=206-len(hubs), remainingMainServiceCityPages=1030-sum(main.values()))
 progress['coreEditorial'].update(authored=authored('city-core-editorial-*.json'), hubPhrasePassed=len(hubs), mainServicePhrasePassed=sum(main.values()), remainingEditorial=1236-len(core_pass), verifiedDrafts=len(core_pass))
+progress['coreEditorial']['authoredPendingVerification'] = progress['coreEditorial']['authored'] - len(core_pass)
 compact_authored = authored('compact-city-editorial*.json')
 progress['compactEditorial'].update(authored=compact_authored, verifiedDrafts=len(compact_pass), authoredPendingVerification=compact_authored-len(compact_pass))
 (docs/'city-expansion-progress.json').write_text(json.dumps(progress, indent=2)+'\n')

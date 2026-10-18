@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/heath": {
+    "intro": "Emergency water extraction in Heath can involve water below removable access-floor panels while the walking surface looks nearly dry. We will arrange safe panel access and collect water from the lower base without treating the raised floor as an ordinary solid surface.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Heath: establish access beneath the walking panels",
+        "text": "The floor provider identifies the panel system and a safe lifting arrangement. Cables or electrical equipment in the void require appropriate isolation before collection proceeds. Open panel positions need barriers and a supported working route; removing neighboring panels indiscriminately can eliminate the route needed to reach the water."
+      },
+      {
+        "title": "Collect from the lower base and check the panels separately",
+        "text": "With access established, suitable equipment will recover reachable liquid from the void. Removed panels will be handled according to their weight and construction, and their undersides and edges evaluated for wetting or deterioration. An intact top finish does not establish that an absorbent panel core can be retained."
+      },
+      {
+        "title": "Restore the walking surface only after its receiving system is ready",
+        "text": "We will clean suitable exposed base surfaces and identify material requiring drying or removal. The floor provider evaluates pedestals, panel support and damaged pieces before reset. Electrical reinstatement, load capacity and panel leveling remain separate from extraction; replacing a panel must not hide a pool left below it."
+      }
+    ],
+    "estimate": "Void depth, panel weight, utilities and available supported access affect collection. Access-floor repair and electrical work are separate.",
+    "checklist": [
+      "Identify the removable floor system and any known utilities below it.",
+      "Share the source status and existing access openings.",
+      "Describe loose panels without lifting or entering the void."
+    ]
+  },
+  "burst-pipe-cleanup/heath": {
+    "intro": "Burst pipe cleanup in Heath can continue after a plumbing repair leaves an opened slab channel and wet flooring along its edges. We will distinguish water released by the failed supply line from material left by the access work, then treat reachable building surfaces before the opening is repaired.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Heath: establish the condition of the repair opening",
+        "text": "The plumbing provider identifies source correction and any pipe protection or access that must remain. We will inspect accessible wet floor edges and distinguish loose cutting debris from retained substrate. An open channel is restricted from ordinary foot traffic; restoring that route requires more than collecting visible water."
+      },
+      {
+        "title": "Collect liquid and loose debris without filling the opening",
+        "text": "Reachable water and approved loose material will be recovered using suitable collection arrangements. We will not push debris into the channel or bury wet flooring edges beneath a temporary fill. Pipe disturbance, excavation and backfilling remain with the appropriate repair provider."
+      },
+      {
+        "title": "Resolve the floor edge before the slab patch",
+        "text": "Suitable retained surrounding material will be cleaned and checked through drying. Damaged adhesive, underlayment or floor edges need their own removal decision. The concrete and flooring providers receive the treated boundary and remaining access limits before patching closes the view."
+      }
+    ],
+    "estimate": "Channel access, cutting debris, flooring layers and restricted movement affect labor. Plumbing, slab repair and new flooring are separate.",
+    "checklist": [
+      "Share the source repair and slab-opening location.",
+      "Identify floor layers exposed beside the channel.",
+      "Describe temporary covers and access restrictions."
+    ]
+  },
+  "appliance-leak-cleanup/heath": {
+    "intro": "Appliance leak cleanup in Heath can involve continuing meltwater mixed with food residue after a freezer failure. Switching the unit off does not collect water from ice still thawing inside it. We will coordinate the thawing source and building cleanup so a cleared floor is not immediately wetted again.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Heath: account for ice that has not melted yet",
+        "text": "We will review what escaped, how long it remained and which floor or wall materials it contacted. The appliance provider handles electrical condition, movement and controlled emptying of the freezer. Remaining frozen material and its meltwater need a collection arrangement before the surrounding floor can be treated as having a stopped source."
+      },
+      {
+        "title": "Collect food remnants before treating the contacted floor",
+        "text": "Approved loose solids and liquid will be collected with suitable containment. Porous floor layers reached by the release receive a condition-based retention or removal decision. Accepted exposed hard surfaces will be physically cleaned, with any further treatment selected for the contact and material; fragrance or a dry-looking floor will not replace removal of the residue."
+      },
+      {
+        "title": "Do not confuse a repaired freezer with a resolved spill",
+        "text": "We will inspect reachable floor seams and lower trim for remaining deposits and distinguish new thaw water from moisture retained in the floor. Suitable building material can be dried once continuing release is controlled. Appliance cleaning, operation and food decisions retain their own providers; moving a still-draining unit must not create a second affected footprint."
+      }
+    ],
+    "estimate": "Release composition, dwell time, food-remnant handling and absorbent flooring affect scope. Food disposal, equipment service and flooring replacement are separately identified.",
+    "checklist": [
+      "Describe remaining ice, thawed food and water escaping the freezer.",
+      "Share the approximate failure and discovery times.",
+      "Identify prior mopping, product use and appliance-service arrangements."
+    ]
+  },
+  "storm-water-damage-cleanup/heath": {
+    "intro": "Storm water damage cleanup in Heath can involve rainwater and grit beneath interlocking garage-floor tiles. We will separate the removable tile faces from their undersides and the slab below, so a clean walking surface does not cover wet deposits held in the tile pattern.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Heath: lift a controlled section after collecting surface water",
+        "text": "We will identify the tile connections and agreed removal area before lifting. Loose water will be collected first so panels are not carried dripping through retained space. Brittle or damaged interlocks may prevent reuse even when a tile face remains intact."
+      },
+      {
+        "title": "Clean the underside and slab as separate surfaces",
+        "text": "Accessible grit and water will be collected from the exposed base. Accepted tiles will receive compatible cleaning on included underside ribs and joining edges as well as their faces, with removed soil and cleaning liquid contained. Deposits beyond a fixed cabinet or inaccessible tile section remain a separate access question."
+      },
+      {
+        "title": "Reset only resolved pieces on a ready base",
+        "text": "The slab and tile components will be checked for remaining deposits and moisture before reassembly. Broken connectors, coating damage and exterior entry repair remain distinct decisions. Cleaned tiles stay apart from untreated pieces until the receiving area is ready."
+      }
+    ],
+    "estimate": "Panel construction, interlock condition and underside deposits influence labor. Garage-door correction and replacement tiles are separate.",
+    "checklist": [
+      "Identify modular flooring and any loose panels.",
+      "Describe sediment or water beneath lifted edges.",
+      "Share the status of the rain-entry repair."
+    ]
+  },
+  "structural-drying-services/heath": {
+    "intro": "Structural drying services in Heath can require separate access to wet cavity sections divided by solid blocking. Air introduced at one opening may not reach the section beyond that interruption. We will map accessible material and design the drying arrangement around the actual compartments.",
+    "sections": [
+      {
+        "title": "Structural drying services in Heath: identify which section an opening serves",
+        "text": "Existing openings and construction information will guide the initial review. We will distinguish material directly accessible from another pocket beyond blocking rather than assign one moisture status to the whole wall. Utility and support locations affect any additional access."
+      },
+      {
+        "title": "Create another drying route without cutting the divider",
+        "text": "Where justified, a separate authorized finish opening can expose the wet pocket. Structural blocking will not be drilled or removed simply to connect airflow between sections. Unsuitable insulation or damaged board will be removed as scoped, while suitable retained surfaces receive directed air and dehumidification."
+      },
+      {
+        "title": "Monitor each compartment before closure",
+        "text": "Measurements will follow identifiable material in the separately served sections. Improvement beside the first opening does not establish progress in the other pocket. Remaining dampness, inaccessible surfaces and reconstruction needs will be explained before both openings are closed."
+      }
+    ],
+    "estimate": "Compartment layout, finish access and monitoring locations affect setup. Support alterations and finish reconstruction are separate.",
+    "checklist": [
+      "Share existing opening locations.",
+      "Identify known blocking or concealed services.",
+      "Provide earlier moisture readings and source-repair findings."
+    ]
+  },
+  "floor-water-damage-cleanup/heath": {
+    "intro": "Floor water damage cleanup in Heath can involve loosened parquet blocks after water reaches their adhesive bed. We will evaluate the blocks, bond and substrate separately before deciding whether a recoverable section can be lifted for treatment or needs replacement.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Heath: record the pattern before lifting blocks",
+        "text": "The existing layout and removal boundary will be recorded where reuse is being considered. We will inspect loose edges without forcing sound neighboring blocks out of the floor. Unknown adhesive or older underlying material requires appropriate evaluation before disturbance."
+      },
+      {
+        "title": "Expose the wet bed without assuming every block survives",
+        "text": "Approved affected blocks will be lifted with suitable handling, and reachable liquid and loose debris collected. Split blocks, failed backing or adhered residue can limit reuse. Suitable exposed substrate receives cleaning and monitored drying rather than being covered as soon as the upper pieces are gone."
+      },
+      {
+        "title": "Separate salvage from readiness to relay",
+        "text": "Retained blocks will remain identifiable and separate from discarded or untreated pieces. A flooring provider evaluates their dimensions, bond preparation and the repaired base before relaying the pattern. Matching an unavailable block is a finish decision beyond drying the original wet section."
+      }
+    ],
+    "estimate": "Block adhesion, pattern, salvage condition and base access determine labor. Adhesive preparation and relaying are separate flooring work.",
+    "checklist": [
+      "Photograph the parquet pattern before removal.",
+      "Describe loose or swollen blocks.",
+      "Share floor age, adhesive information and source correction."
+    ]
+  },
+  "ceiling-water-damage-cleanup/heath": {
+    "intro": "Ceiling water damage cleanup in Heath can involve wet ceiling material above a decorative medallion surrounding a light fixture. We will distinguish the medallion attachment from the ceiling’s condition and coordinate safe removal before an unstable decoration obstructs access to the wet cavity.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Heath: resolve fixture and decoration support before opening",
+        "text": "The electrical provider handles isolation and fixture work. The medallion may have adhesive, mechanical attachments or both; its handler must establish suitable support before release. A surface that dries does not prove that a weakened adhesive bond will hold an overhead piece."
+      },
+      {
+        "title": "Expose the ceiling behind the retained decoration",
+        "text": "After approved removal, we will collect debris and take out specified unsuitable ceiling material or insulation. Suitable reachable framing will receive cleaning as needed and monitored drying. The decorative piece gets its own salvage decision, including wet backing or damage concealed on its rear face."
+      },
+      {
+        "title": "Rebuild attachment as well as appearance",
+        "text": "The repair provider addresses sound backing and the intended fastening method before the medallion and light return. A painted front cannot establish that the piece is secure or the concealed ceiling is dry. Electrical reinstatement and decorative repair remain separate from cavity cleanup."
+      }
+    ],
+    "estimate": "Medallion weight, attachment, fixture access and wet cavity extent influence handling. Electrical and decorative installation are separate.",
+    "checklist": [
+      "Identify the decoration and any known attachment method.",
+      "Describe sagging or separation from a safe position.",
+      "Share source correction and electrician arrangements."
+    ]
+  },
+  "bathroom-mold-removal/heath": {
+    "intro": "Bathroom mold removal in Heath can involve suspected growth on marble or other acid-sensitive stone beside discolored grout. We will separate removable deposits from etched finish damage and select treatment that does not turn a surface-cleaning task into a stone repair.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Heath: identify the stone and previous products",
+        "text": "Available assessment findings and material information will guide the work. A dull patch can reflect a damaged polish rather than material that more scrubbing will remove. We will record previous descaling or stain treatments and identify uncertain stone or finish conditions for a specialist before broader application."
+      },
+      {
+        "title": "Use compatible treatment on the accepted surfaces",
+        "text": "The responsible provider will establish work controls and physically clean suitable accessible stone using a method compatible with its composition and finish. Acidic descalers are not a routine mold-cleaning method for marble. Grout, sealant and affected porous backing receive their own decisions; a successful result on stone does not establish treatment of those neighboring materials."
+      },
+      {
+        "title": "Stop cleaning where finish repair begins",
+        "text": "Remaining deposits, moisture and any required independent evaluation will be identified separately from loss of polish or permanent staining. Honing, polishing and resealing belong to a stone specialist’s repair scope after remediation needs are resolved. Repeated abrasive cleaning will not be used to make an etched patch resemble the surrounding finish."
+      }
+    ],
+    "estimate": "Stone identification, coating condition, prior chemical use and adjoining material determine the approach. Stone refinishing and source correction are separate. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Identify the stone or share supplier information if available.",
+      "List cleaners and descaling products already used.",
+      "Provide assessment findings and photographs of dull or discolored areas."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/heath": {
+    "intro": "Kitchen cabinet mold removal in Heath can involve affected material on a countertop underside that includes both stone and attached backing. We will distinguish those surfaces before treating the underside as one washable slab. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Heath: identify the underside layers without releasing support",
+        "text": "The licensed partner will review accessible stone, backing and cabinet contact points against the assessment. Attached wood or another absorbent layer may have different recovery limits from the stone itself. A countertop provider handles lifting or support changes needed to expose hidden contact surfaces."
+      },
+      {
+        "title": "Treat the material actually reached",
+        "text": "Specified unsuitable porous backing will be removed within the coordinated scope and contained under the work controls. Suitable reachable retained surfaces will receive compatible physical cleaning. Treatments suitable for a polished top will not automatically be applied to an unfinished underside, adhesive or attached reinforcement."
+      },
+      {
+        "title": "Resolve retained backing and contact points before reset",
+        "text": "Drying and applicable evaluation will identify what can remain. Bonded material that prevents access needs a countertop or replacement decision rather than an unsupported claim of whole-slab cleaning. Cabinet support, countertop resetting and plumbing return follow their separate scopes."
+      }
+    ],
+    "estimate": "Underside construction, bonded layers and safe support govern access. Countertop handling and rebuilding are separately assigned.",
+    "checklist": [
+      "Share views of the accessible underside.",
+      "Identify backing or support material if known.",
+      "Provide assessment findings and countertop-handling arrangements."
+    ]
+  },
+  "mold-remediation-after-water-damage/heath": {
+    "intro": "Mold remediation after water damage in Heath can involve affected material in a wall whose layered construction must be restored after removal. We will coordinate remediation access with the repair provider before treating a second board layer or joint detail as disposable decoration. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Heath: identify the assembly before opening more layers",
+        "text": "Available plans, exposed edges and assessment findings will guide which board, insulation and framing require access. Where the wall has a specified protective function, the appropriate provider identifies its reconstruction requirements. The first exposed layer does not establish the condition of the layer behind it."
+      },
+      {
+        "title": "Reach affected faces in the defined layered section",
+        "text": "The licensed partner will contain specified unsuitable porous material for removal and physically clean suitable exposed framing and retained surfaces. Each obstructing layer has an access decision; removing the outer sheet alone may leave the assessed face hidden. Services and support remain protected through coordinated trade work."
+      },
+      {
+        "title": "Rebuild the required assembly after remediation",
+        "text": "Source correction, drying and any required independent evaluation precede reinstatement. The repair provider restores the specified layers, joints and penetrations rather than filling the opening with whichever board is available. The remediation record identifies treated material without certifying the performance of the rebuilt wall."
+      }
+    ],
+    "estimate": "Layer count, required assembly details and access affect removal. Design verification and reconstruction are separate.",
+    "checklist": [
+      "Provide available wall-construction information.",
+      "Share assessment and previous drying findings.",
+      "Identify layers already removed and planned reconstruction."
+    ]
+  },
+  "mold-removal-behind-drywall/heath": {
+    "intro": "Mold removal behind drywall in Heath can involve drywall fixed to narrow furring strips over masonry. We will distinguish the back of the board, strips and masonry faces, because a shallow opening may reveal only one channel between the strips. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Heath: map the narrow channels behind the board",
+        "text": "Assessment findings and exposed edges will guide the opening. Masonry irregularities and furring can prevent tools from reaching sideways behind retained drywall. An accessible channel will not be used as evidence that neighboring covered sections were inspected or cleaned."
+      },
+      {
+        "title": "Expose and physically treat the specified surfaces",
+        "text": "The licensed partner will remove scoped affected porous board and unsuitable wood under containment, then clean suitable exposed retained surfaces. Methods must fit the wood and masonry separately. Damaged mortar, unstable attachment or a concealed service requires the appropriate repair decision before access expands."
+      },
+      {
+        "title": "Resolve moisture and attachment before replacement",
+        "text": "Remaining dampness, source correction and any required evaluation will be identified while the channels are open. Replacement furring and board need suitable receiving surfaces and attachment. A fresh lining cannot substitute for treatment of an affected masonry face left behind it."
+      }
+    ],
+    "estimate": "Furring spacing, masonry condition and access behind the lining affect treatment. Masonry repair and wall rebuilding are separate.",
+    "checklist": [
+      "Identify masonry behind the wall if known.",
+      "Provide assessment and exposed-edge photographs.",
+      "Share source correction and previous lining repairs."
+    ]
+  },
+  "kitchen-fire-cleanup/heath": {
+    "intro": "Kitchen fire cleanup in Heath can involve cabinet doors whose wrapped surface film has lifted from the core near a range. We will distinguish soot on intact film from contamination under a failed bond before deciding whether surface cleaning can preserve the door.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Heath: check the film edge before wet cleaning",
+        "text": "An intact face and a lifted edge do not offer the same access or cleaning tolerance. We will evaluate a limited area and identify where cleaning liquid could enter behind the film. Heat-softened or distorted material may need replacement rather than a stronger cleaning pass."
+      },
+      {
+        "title": "Clean accepted surfaces without peeling the covering as access",
+        "text": "Loose residue will be collected from suitable accessible faces and profiles before compatible cleaning. We will not pull back a bonded skin and promise to restore its original attachment afterward. Deposits beneath a failed wrap remain a cabinet repair or replacement decision if they cannot be reached within an appropriate recovery method."
+      },
+      {
+        "title": "Keep matching separate from the recovery boundary",
+        "text": "Hardware and other retained components receive their own condition decisions. The cabinet provider can assess replacement doors and finish matching after the included surfaces are treated. A clean door front does not establish recovery of a swollen core or a failed film bond."
+      }
+    ],
+    "estimate": "Film condition, edge separation and underlying damage affect recovery. Rewrapping, door replacement and broader finish matching are separate.",
+    "checklist": [
+      "Describe lifted edges and the area nearest the fire.",
+      "Share cabinet material information if available.",
+      "Identify cleaners or scraping already used."
+    ]
+  },
+  "smoke-damage-cleanup/heath": {
+    "intro": "Smoke damage cleanup in Heath can require a different approach when loose acoustic ceiling texture sheds during contact. We will determine whether the finish can tolerate treatment before washing spreads soot or strips material from the ceiling.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Heath: establish the finish before disturbing it",
+        "text": "The finish history, accessible condition and any required material evaluation come before abrasion or removal. Unknown older ceiling material will not be treated as ordinary dust. We will distinguish firmly attached texture from flaking or water-softened areas before selecting a limited cleaning trial."
+      },
+      {
+        "title": "Use the trial to decide between retention and removal",
+        "text": "On an appropriate evaluated surface, a controlled trial can show whether loose residue can be collected without pulling off the texture or embedding deposits further. If the finish sheds or cannot be adequately cleaned, further wiping is not the next automatic step. Approved removal requires its own controlled work scope and room protection."
+      },
+      {
+        "title": "Treat the revealed ceiling before a new finish",
+        "text": "Removed texture can expose a base with remaining soot, staining or suppression-water damage. We will identify cleaning and drying required on suitable retained material. Replacement texture or paint follows those decisions; a new sprayed finish cannot establish that the underlying smoke residue was addressed."
+      }
+    ],
+    "estimate": "Finish stability, material-evaluation prerequisites, overhead protection and the treatment trial affect scope. Ceiling resurfacing is separate.",
+    "checklist": [
+      "Share ceiling age or finish information if available.",
+      "Describe shedding and prior wet wiping without scraping the surface.",
+      "Identify any ceiling wetting during fire response."
+    ]
+  },
+  "toilet-overflow-cleanup/heath": {
+    "intro": "Toilet overflow cleanup in Heath can require access to a wall pocket after wastewater follows a sliding bathroom door into it. We will separate the movable door from the concealed floor and wall contact before treating a cleaned doorway as a completed cleanup.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Heath: stop the door from carrying residue through its pocket",
+        "text": "We will review the release path and identify contacted door faces, the bottom guide and accessible pocket entrance. Sliding an untreated door back and forth can transfer residue to additional contact points. Door removal or hardware adjustment needed for access will be coordinated with the appropriate provider."
+      },
+      {
+        "title": "Expose the contacted base without using the door slot as a cleaning opening",
+        "text": "Reachable wastewater will be collected and specified unsuitable porous trim or wall material contained for removal. An agreed wall opening may be necessary when the narrow slot cannot provide physical access to the pocket floor. Suitable exposed surfaces receive soil removal before appropriate disinfection under product directions; spraying into a closed pocket is not the same treatment."
+      },
+      {
+        "title": "Resolve the door and cavity before reassembly",
+        "text": "Retained suitable materials will be checked for moisture, and swollen door edges or damaged guides identified for repair. The door has its own treatment decision before it reenters the cleaned pocket. Wall closure and hardware reinstatement follow the resolved material condition and plumbing correction."
+      }
+    ],
+    "estimate": "Pocket construction, door handling and concealed contact affect access and labor. Door repair, wall reconstruction and plumbing work are separate.",
+    "checklist": [
+      "Describe whether the door moved after the overflow.",
+      "Identify the pocket opening and affected door faces.",
+      "Share plumbing correction and any door-removal arrangements."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/heath": {
+    "intro": "AC leak water damage cleanup in Heath can involve wet insulation around a ceiling register boot after condensate reaches the opening. We will distinguish the ceiling material from the metal connection and enclosed duct insulation before replacement hides the affected junction.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Heath: identify what the grille opening exposes",
+        "text": "The HVAC provider evaluates the source and duct connection. We will inspect accessible ceiling edges and nearby insulation without treating the grille opening as a complete view of the assembly. Water marks do not by themselves establish whether the source is a drain failure or another equipment condition."
+      },
+      {
+        "title": "Coordinate boot support before opening the finish",
+        "text": "A boot may be attached to ceiling material or nearby support that removal would disturb. The HVAC provider handles repositioning or support changes before the agreed building opening is enlarged. We will collect reachable water, remove specified unsuitable insulation and clean suitable exposed building surfaces."
+      },
+      {
+        "title": "Dry the building junction before reconnection and patching",
+        "text": "Retained framing and finish edges will receive appropriate moisture checks and drying. Duct lining, exterior jacket and system operation remain separate HVAC decisions. New board and the grille follow a resolved attachment and material condition rather than concealing a wet insulation pocket."
+      }
+    ],
+    "estimate": "Boot attachment, duct access and insulation extent affect work. HVAC repair and ceiling reconstruction are separate.",
+    "checklist": [
+      "Identify the wet register and source-repair status.",
+      "Share HVAC photographs of the boot or insulation.",
+      "Describe nearby lights or services in the ceiling."
+    ]
+  },
+  "crawl-space-water-removal/heath": {
+    "intro": "Crawl space water removal in Heath can be needed when a temporary pump stops delivering water even though a pool remains below the floor. We will evaluate the collection setup as well as the pool, so a quiet discharge hose is not mistaken for an emptied crawl space.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Heath: compare the intake location with the remaining water",
+        "text": "We will review reachable water levels, hose routing and equipment limitations before continuing collection. A pickup above the pool, a restricted hose or an unsuitable lift can interrupt removal while water remains. Electrical or access hazards require appropriate resolution before equipment is repositioned."
+      },
+      {
+        "title": "Change the collection arrangement to suit the route",
+        "text": "Suitable equipment and hose placement will be selected for the available access and elevation change. We will check the route for kinks and pinch points and monitor actual delivery at the agreed discharge destination. Temporary extraction will not depend on repeatedly restarting a setup that cannot reach or move the remaining water."
+      },
+      {
+        "title": "Verify removal at the pool rather than only at the outlet",
+        "text": "Accessible low points will be checked as collection proceeds, including sections that the first intake did not serve. Continuing inflow will be distinguished from an equipment interruption. Wet building material still needs evaluation and drying; permanent sump service and drainage correction remain separate tasks."
+      }
+    ],
+    "estimate": "Lift, hose length, access and pool distribution affect temporary equipment selection. Permanent pumping-system repairs and underside drying are separately scoped.",
+    "checklist": [
+      "Describe the remaining pool and where the pump was placed.",
+      "Share temporary equipment and hose-route information.",
+      "Report whether flow stopped while water was still visible."
+    ]
+  },
+  "attic-mold-remediation/heath": {
+    "intro": "Attic mold remediation in Heath can involve roof wood covered by an earlier coating that is now peeling around suspected growth. We will review the coating and underlying material before deciding whether the existing film can remain or must be removed to reach the assessed surface.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Heath: establish what the earlier coating covered",
+        "text": "Prior product and work records can help identify the film and its intended use. The responsible provider will compare the current condition with assessment findings rather than treat a painted surface as evidence of earlier remediation. Unknown coating material or a proposed disturbance may require further evaluation first."
+      },
+      {
+        "title": "Resolve coating removal before cleaning through it",
+        "text": "Under the specified controls, approved loose or obstructing film will be removed using a method suited to the substrate. Broad aggressive abrasion will not be assumed appropriate for thin roof sheathing. Where the required surface cannot be reached without unacceptable wood damage, the provider will identify a repair or replacement decision instead of repeatedly stripping the same area."
+      },
+      {
+        "title": "Judge the exposed wood before applying another film",
+        "text": "Suitable reachable retained wood will receive the specified physical cleaning, drying and any required independent evaluation. Weak or delaminated decking needs its own repair decision. A fresh coating, if separately specified, follows the resolved substrate condition rather than hiding peeling layers or unexamined material."
+      }
+    ],
+    "estimate": "Coating identity, adhesion, sheathing thickness and the required access method determine treatment. Roof-deck repair and any later coating application are separately defined. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Share prior coating labels or work records.",
+      "Provide existing assessment photographs of peeling areas.",
+      "Identify roof repair and moisture-source findings."
+    ]
+  },
+  "crawl-space-mold-remediation/heath": {
+    "intro": "Crawl space mold remediation in Heath can require protection above the work when gaps between floorboards connect the affected underside to the room. We will coordinate a temporary separation that limits particle movement while leaving the wood faces accessible for physical treatment.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Heath: account for openings into the room above",
+        "text": "Assessment findings and accessible floor construction will guide the work boundary. Board gaps, removed registers and service openings may prevent the floor from acting as a continuous separation. The licensed partner will establish the required barriers and air controls before disturbing affected material; a closed crawl-space hatch alone does not resolve those routes."
+      },
+      {
+        "title": "Keep the treatment face accessible while protecting the adjoining space",
+        "text": "Where appropriate, a protected room-side covering can close a transfer route without taping over the affected underside. The arrangement must suit the floor finish and remain intact during work. Specified unsuitable porous waste will be contained for removal, and suitable exposed wood will receive physical particle collection and cleaning; an attachment that conceals an included edge needs staged access rather than being left permanently untreated."
+      },
+      {
+        "title": "Remove temporary protection in the cleanup sequence",
+        "text": "The provider will collect deposited residue and handle the temporary covering under the work controls rather than shake it loose into the room. Drying, source correction and any required independent evaluation remain part of completion. Permanent floor-gap or register repairs are separate from temporary containment, and treating the underside does not establish that unassessed room surfaces were remediated."
+      }
+    ],
+    "estimate": "Floor openings, access from both sides, finish-sensitive barrier attachment and controlled removal affect setup and labor. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Share existing photographs of board gaps or removed registers.",
+      "Identify floor finishes and access to the room above.",
+      "Provide assessment findings and moisture-source repair information."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/heath": {
+    "intro": "Mold contaminated contents cleaning in Heath can begin with a white bloom on stored leather that needs identification before treatment. Some leather deposits are not mold. We will arrange the appropriate item review and separate a supported cleaning decision from repeated solvent wiping that could damage the finish.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Heath: review the deposit and leather history",
+        "text": "Moisture exposure, earlier dressings and available care information matter when evaluating the bloom. Appearance alone will not establish the cause. Valuable or fragile leather will be directed to a conservation specialist, with suspected mold kept within the applicable assessment and provider scope."
+      },
+      {
+        "title": "Limit treatment when the color or finish changes",
+        "text": "For an accepted item, the responsible provider will choose compatible controlled particle collection and any further cleaning justified by the findings. A limited evaluation must account for dye transfer, finish loss and brittle material. Unexpected change is a reason to stop and revise the recovery decision, not to apply more solvent until the leather looks uniform."
+      },
+      {
+        "title": "Return the item according to its actual treatment status",
+        "text": "Linings, stitching recesses and padding remain separate access and recovery questions where present. Specialist findings may call for a non-mold care approach, further treatment or an owner-approved disposal decision. Dressing the leather or masking its appearance will not be counted as remediation, and accepted treated items need suitable dry storage."
+      }
+    ],
+    "estimate": "Leather condition, deposit identification, prior dressings and specialist evaluation determine scope. Conservation and finish restoration are separate. Mold work requiring a license is referred to an appropriately licensed partner, with provider and scope identified before work begins.",
+    "checklist": [
+      "Describe moisture exposure and when the bloom appeared.",
+      "Identify leather dressings, solvents or cleaners already applied.",
+      "Flag valuable items and share available care information."
+    ]
+  },
+  "fire-damaged-debris-removal/heath": {
+    "intro": "Fire damaged debris removal in Heath can involve loosened brick facing with attached courses still above the fallen rubble. We will distinguish material ready for collection from masonry that requires support and a specialist dismantling plan before the work area can be cleared.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Heath: resolve the standing masonry before working beneath it",
+        "text": "Site-release information and qualified evaluation will guide the approach. A damaged veneer can remain attached in some places while separating in others. Fallen pieces will not be collected from beneath an unresolved unstable section merely because they are already on the floor."
+      },
+      {
+        "title": "Do not remove a lower section that supports material above",
+        "text": "The masonry or structural provider establishes any stabilization and removal sequence. We will collect and contain approved material as it is released under that plan. Pulling out convenient lower bricks or loading debris against the remaining wall can change the condition the plan depends on and is not routine rubble collection."
+      },
+      {
+        "title": "Manage dense loads and inspect the exposed backing",
+        "text": "Released masonry will be transferred in manageable contained loads without stockpiling excessive weight on an unevaluated floor. After clearance, the exposed backing may need soot treatment, drying or repair. Removal does not certify the retained wall or authorize reconstruction before the responsible provider resolves its condition."
+      }
+    ],
+    "estimate": "Wall stability, specialist release, masonry weight and floor loading affect handling. Shoring, engineered dismantling and rebuilding are separate.",
+    "checklist": [
+      "Share structural or masonry inspection restrictions.",
+      "Identify attached brickwork from an already safe location.",
+      "Provide the approved removal boundary and debris route."
+    ]
+  },
+  "fire-damaged-contents-cleaning/heath": {
+    "intro": "Fire damaged contents cleaning in Heath can involve a musical instrument inside a smoke-affected hard case. We will treat the case and instrument as separate items, with delicate instrument surfaces and internal parts reserved for the appropriate technician.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Heath: have the instrument removed through an appropriate handling plan",
+        "text": "Instrument type, heat or water contact and attachment inside the case affect removal. The technician handles disassembly or adjustment requiring specialist knowledge. The empty case will remain identifiable with its instrument without putting the untreated item onto a cleaned receiving surface."
+      },
+      {
+        "title": "Evaluate the hard shell and lining separately",
+        "text": "Suitable accepted exterior surfaces will receive loose-residue collection and compatible cleaning. Absorbent lining, foam and enclosed seams may retain material that exterior treatment cannot reach. Removing bonded lining can change fit and protection, so that recovery or replacement decision belongs in the agreed case scope."
+      },
+      {
+        "title": "Return the instrument only to a resolved enclosure",
+        "text": "The cleaned case will be reviewed for remaining residue, odor and material damage. Instrument servicing, delicate finish recovery and tuning remain with the specialist. A serviced instrument should not be placed back into an unresolved lining merely because the exterior shell looks clean."
+      }
+    ],
+    "estimate": "Case construction, absorbent lining and instrument handling determine scope. Instrument repair and case re-lining are separate.",
+    "checklist": [
+      "Identify the instrument and case construction.",
+      "Describe smoke, heat and water contact.",
+      "Share technician handling or transfer instructions."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/heath": {
+    "intro": "Fire extinguisher residue cleanup in Heath can involve powder lodged in removable textured stair-tread covers. We will distinguish residue in the walking-surface pattern from material beneath the cover and its attachment before returning the stair to use.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Heath: restrict the route before releasing covers",
+        "text": "We will review the agent information and cover attachment before approved removal. Loose or partly detached tread covers must not remain in normal foot traffic. An alternative route or controlled work area is arranged while the affected pieces are off."
+      },
+      {
+        "title": "Collect deposits from the texture and exposed base",
+        "text": "Agent-compatible loose collection will precede cleaning suited to the tread material. Accepted undersides and the exposed stair surface receive their own treatment; powder beneath a retained edge is not removed by wiping the top. Cleaning solutions must not be selected in a way that unnecessarily damages the cover or its adhesive."
+      },
+      {
+        "title": "Resolve attachment before normal use",
+        "text": "Cleaned parts will be dried and reviewed for deposits, deterioration and attachment damage. Replacing adhesive or damaged covers is a separate installation decision. A clean tread cover that slides or lifts is not ready to return to the walking route."
+      }
+    ],
+    "estimate": "Agent type, textured detail and attachment method affect removal and cleaning. Cover replacement and installation are separate.",
+    "checklist": [
+      "Save the extinguisher identification.",
+      "Describe tread material and loose edges.",
+      "Identify another route available during treatment."
+    ]
+  },
+  "emergency-board-up-after-fire/heath": {
+    "intro": "Emergency board up after fire in Heath can require a temporary closure wider than one available panel. We will establish support at panel joints before installation, because two sheets meeting across an open span do not form a supported closure simply by covering the full width.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Heath: locate the support for each sheet",
+        "text": "We will measure the opening, available sound perimeter and practical sheet layout. A joint may land over empty space even when the outer panel edges can be fastened. The proposed arrangement must give each sheet suitable attachment without treating damaged door tracks, decorative trim or the adjacent sheet alone as structural backing."
+      },
+      {
+        "title": "Support the joint before fastening the panels",
+        "text": "An appropriate temporary support arrangement will be established for the observed opening before the sheets are secured. Where stabilization or design exceeds ordinary board-up, its qualified provider must resolve that prerequisite. Panels will be handled and fastened in a sequence that does not leave a partly installed sheet hanging from an unsupported seam."
+      },
+      {
+        "title": "Check joint movement as well as perimeter coverage",
+        "text": "The completed closure will be checked at the shared joint, sheet edges and fastening locations for gaps or movement. Authorized access and later panel removal need a plan that preserves the remaining support. Permanent framing and door replacement remain separate; a wide opening being covered does not establish occupancy readiness."
+      }
+    ],
+    "estimate": "Opening span, sheet layout, joint support and handling access determine materials and labor. Structural stabilization, design and permanent replacement are separate.",
+    "checklist": [
+      "Share safe photographs showing the complete opening and surround.",
+      "Identify any remaining center support or damaged door tracks.",
+      "Describe access required before permanent replacement."
+    ]
+  },
+  "crawl-space-sewage-cleanup/heath": {
+    "intro": "Crawl space sewage cleanup in Heath can involve wastewater caught between a drain pipe and its supporting straps. We will treat reachable contamination while coordinating any support movement needed to expose contact surfaces, rather than loosen a hanger and risk changing the pipe alignment.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Heath: identify contaminated supports before disturbance",
+        "text": "Plumbing findings and accessible inspection will guide which straps, brackets and adjacent wood were contacted. A support may still be carrying the repaired line. Its attachment will not be released as ordinary cleaning access; the plumbing provider must establish how the pipe remains supported."
+      },
+      {
+        "title": "Expose contacts in the supported repair sequence",
+        "text": "With any required support work completed, reachable wastewater and deposits will be collected. Specified unsuitable contaminated porous material will be contained for removal, and accepted retained surfaces physically cleaned before appropriate disinfection under product directions. Cleaning the outside of a strap does not reach residue trapped between it and the pipe or wood."
+      },
+      {
+        "title": "Restore support only after the contacted surfaces are resolved",
+        "text": "If a contact cannot be exposed, the provider will identify a replacement or access decision rather than describe the hidden face as treated. Suitable retained building material will receive moisture checks and drying as needed. Plumbing support, alignment and leak testing remain the plumber’s responsibilities before the area is covered again."
+      }
+    ],
+    "estimate": "Support spacing, contaminated contact points and coordinated pipe handling influence access and labor. Plumbing support changes and replacement insulation are separate.",
+    "checklist": [
+      "Share the repaired drain location and plumber findings.",
+      "Provide existing photographs of affected hangers or brackets.",
+      "Identify any temporary support already installed."
+    ]
+  }
+}

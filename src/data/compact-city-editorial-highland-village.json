@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/highland-village": {
+    "intro": "Emergency water extraction in Highland Village requires a controlled drawdown plan when a below-grade room is flooded while the surrounding ground remains saturated. Removing the indoor water too quickly can change the pressure acting on the walls and floor. We will coordinate structural guidance before choosing the pumping sequence.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Highland Village: resolve the pressure condition first",
+        "text": "Safe entry, utilities and any signs of wall movement are evaluated before equipment placement. The appropriate structural provider determines whether pumping can proceed and establishes the permitted drawdown and monitoring conditions. A powerful pump does not make an unstable below-grade enclosure suitable for immediate emptying."
+      },
+      {
+        "title": "Lower the water under the agreed limits",
+        "text": "The collection setup uses a suitable discharge route and allows the water level to be checked as pumping progresses. Work follows the provider’s limits rather than a fixed promise to empty the room in one pass. Rebound, new cracking or movement calls for stopping and reassessment instead of increasing pump capacity."
+      },
+      {
+        "title": "Treat the exposed room after controlled removal",
+        "text": "As the permitted drawdown exposes surfaces, water conditions and material contact guide debris collection, cleaning and porous-material removal. Retained materials receive drying after access is safe. Foundation repair and the external water condition remain separate from the amount of water the pump has recovered."
+      }
+    ],
+    "estimate": "Depth, outside water conditions, structural restrictions and discharge arrangements determine extraction. Structural evaluation and foundation repair are separately assigned.",
+    "checklist": [
+      "Describe indoor and outdoor water levels from a safe location.",
+      "Share structural and utility release information.",
+      "Identify any movement, new cracks or water returning after pumping."
+    ]
+  },
+  "burst-pipe-cleanup/highland-village": {
+    "intro": "Burst pipe cleanup in Highland Village can leave solid hardwood boards cupped after the visible water is gone. Sanding the raised edges while the lower wood remains wet can leave a crowned surface as the boards finish drying. We will address retained moisture before the flooring specialist decides whether sanding or replacement is appropriate.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Highland Village: inspect the floor after source control",
+        "text": "The plumber controls the failed line while accessible water is collected. Floor construction, attachment and water conditions determine whether the boards can remain. Loose, buckled or otherwise unsafe sections receive their own removal decision; a solid-wood drying approach is not automatically suitable for a thin engineered wear layer."
+      },
+      {
+        "title": "Dry the boards and supporting layers without sanding away the distortion",
+        "text": "Suitable checks follow the flooring and accessible subfloor rather than relying on a dry top face. Drying serves the wet assembly, with further access where trapped moisture prevents progress. The flooring provider evaluates differences through the board thickness before an abrasive repair removes the raised edges."
+      },
+      {
+        "title": "Make the refinishing decision after moisture stabilizes",
+        "text": "Once the retained wood and supporting material reach the required condition, the flooring specialist reassesses shape, attachment and remaining thickness. Some distortion may remain and require replacement or permitted refinishing. Sanding is a repair decision at that point, not a way to make wet boards appear dry or a guarantee that every cupped board can be saved."
+      }
+    ],
+    "estimate": "Wood construction, moisture distribution and remaining sanding thickness affect recovery. Plumbing correction and refinishing are separately assigned.",
+    "checklist": [
+      "Identify solid or engineered flooring if known.",
+      "Describe cupping, lifting and any sanding already performed.",
+      "Share moisture observations and source-repair records."
+    ]
+  },
+  "appliance-leak-cleanup/highland-village": {
+    "intro": "Appliance leak cleanup in Highland Village can include wool carpet reached by an appliance supply-line release. If the water history and carpet condition support recovery, the fiber and dye need a suitable extraction and cleaning process. A bleach-cleanable synthetic carpet method cannot simply be transferred to wool.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Highland Village: establish whether the wool carpet is recoverable",
+        "text": "The appliance provider stops and repairs the source. We will distinguish supply water from wash water or another contaminated release, then examine carpet construction, backing, cushion and the floor below. A wool label does not establish that a contaminated or damaged carpet can be retained; those conditions receive a separate removal decision."
+      },
+      {
+        "title": "Extract accepted carpet with a wool-compatible process",
+        "text": "For accepted material, the carpet specialist selects compatible equipment and cleaning products using manufacturer guidance and a limited colorfastness check. Excess water is recovered without unnecessary repeated wetting or harsh agitation. Strong alkaline products and bleach are not substituted for wool-compatible chemistry; dye transfer or fiber damage changes the treatment proposal before cleaning expands."
+      },
+      {
+        "title": "Check the backing and floor before resetting the installation",
+        "text": "Drying addresses the accepted carpet construction and the exposed underlying materials, not only the pile. Shrinkage, backing separation or persistent color movement requires specialist review rather than more aggressive cleaning. Any removed cushion has its own replacement decision; carpet resetting follows the material findings and source repair."
+      }
+    ],
+    "estimate": "Water history, carpet construction, dye stability and underlying damage govern recovery. Appliance repair, specialist carpet treatment and replacement are separately identified.",
+    "checklist": [
+      "Share carpet fiber and manufacturer information.",
+      "Identify the appliance source and whether wash water was involved.",
+      "Describe color transfer, shrinkage or cleaners already used."
+    ]
+  },
+  "storm-water-damage-cleanup/highland-village": {
+    "intro": "Storm water damage cleanup in Highland Village can leave a second cleanup task after rain-wet brick dries: loose salt deposits on its face. Repeated wet washing can dissolve those deposits again. We will distinguish removable efflorescence from damaged brick or mortar and select a collection method before recoating is considered.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Highland Village: resolve the wetting before deposit removal",
+        "text": "The appropriate exterior provider addresses the rain-entry route. Included interior water and damaged absorbent materials receive their own removal and drying work. White deposits alone do not identify mold or establish that the masonry is dry; the material and moisture history must support the proposed treatment."
+      },
+      {
+        "title": "Collect loose deposits from suitable dry brick",
+        "text": "Where the masonry provider identifies ordinary loose efflorescence on sound, dry brick, a compatible nonmetallic brush and vacuum collection can remove it without an initial water wash. Collection keeps the released powder out of adjoining finishes. Adhered deposits, friable mortar or a surface that sheds brick material need another specialist method rather than harder brushing or an improvised acid wash."
+      },
+      {
+        "title": "Watch for renewed deposits before applying a finish",
+        "text": "Fresh deposits after cleaning can mean more salts are reaching the face with moisture. That response prompts another source and material review before a coating covers the surface. Any further wet cleaning must suit the brick and include the necessary protection, rinsing and drying; mortar repair and coating selection remain separate work."
+      }
+    ],
+    "estimate": "Brick condition, deposit adhesion, moisture entry and adjoining finishes affect treatment. Exterior repair, specialist masonry cleaning and recoating are separately assigned.",
+    "checklist": [
+      "Describe the brick, coating and rain-entry history.",
+      "Share source-repair findings and earlier washing products.",
+      "Note whether deposits return after the surface dries."
+    ]
+  },
+  "structural-drying-services/highland-village": {
+    "intro": "Structural drying services in Highland Village can use a suction setup to draw damp air out of a suitable retained wall cavity. That approach needs an actual air path through the wet space and collection of the exhaust; attaching a hose to one hole does not establish that the whole cavity is drying.",
+    "sections": [
+      {
+        "title": "Structural drying services in Highland Village: confirm that cavity drying is suitable",
+        "text": "Water conditions, retained-material condition and the cavity construction are checked first. Unsuitable insulation, contaminated material requiring removal or deteriorated board are not kept merely to avoid an opening. Service locations and blocking guide authorized access points before any drilling."
+      },
+      {
+        "title": "Draw air through the wet space instead of pressurizing it",
+        "text": "A compatible suction system, collection arrangement and inline filtration are configured under equipment requirements. Air enters at the intended locations and leaves through the extraction path; a nearby unsealed gap can short-circuit that route. Hoses, seals and filter condition are checked when airflow drops rather than assuming additional operating time will correct the problem."
+      },
+      {
+        "title": "Use material response to revise the setup",
+        "text": "Checks follow the included retained material, not only the air leaving the hose. A bay that remains wet may need revised access or removal if blocking prevents useful airflow. Suspected mold changes the remediation scope; suction drying does not physically remove growth or justify closing an untreated cavity."
+      }
+    ],
+    "estimate": "Retainability, cavity divisions, airflow access and filtration affect setup. Required removal, mold work and wall repair are separate decisions.",
+    "checklist": [
+      "Share water-source and material findings.",
+      "Identify cavity insulation, blocking and known services.",
+      "Describe prior drying access and areas that remain wet."
+    ]
+  },
+  "floor-water-damage-cleanup/highland-village": {
+    "intro": "Floor water damage cleanup in Highland Village can involve compression extraction where clean-water conditions and carpet construction support retaining both carpet and cushion. The extraction head must recover water from the cushion beneath the pile. We will evaluate whether that approach works before treating a drier carpet face as a reason to keep the layers underneath.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Highland Village: establish whether retention is supported",
+        "text": "Source, elapsed conditions and accessible backing guide the decision before equipment selection. Carpet with unsuitable contamination, delamination or damaged cushion does not become a retention candidate simply because water can be extracted. The floor must also support the selected equipment and its operating load."
+      },
+      {
+        "title": "Extract through the carpet and cushion in controlled passes",
+        "text": "Suitable compression-extraction equipment is operated according to its requirements, with collection checked as the tool moves across the affected area. Edges, seams and places the larger head cannot reach receive an appropriate detail method. More pressure is not automatically better where it would damage a seam or unsuitable backing."
+      },
+      {
+        "title": "Verify the lower layer before completing drying",
+        "text": "An accessible edge or other suitable check establishes the condition of the cushion and receiving floor after extraction. Remaining trapped water or unsuitable backing can change the decision to lifting and removal. Retained layers still need monitored drying; extraction does not by itself establish readiness for furniture or a completed floor repair."
+      }
+    ],
+    "estimate": "Carpet construction, contamination, cushion response and equipment access determine whether compression extraction is useful. Removal and replacement remain alternatives when retention is unsupported.",
+    "checklist": [
+      "Identify the water source and when it occurred.",
+      "Share carpet and cushion product information if available.",
+      "Describe loose seams, delamination or areas already lifted."
+    ]
+  },
+  "ceiling-water-damage-cleanup/highland-village": {
+    "intro": "Ceiling water damage cleanup in Highland Village needs a different debris-cleaning sequence when the ceiling coating is confirmed to contain lead. Removing wet board can leave paint chips and dust on the protected room surfaces. Drying the framing does not complete that cleanup or its required verification.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Highland Village: assign lead-safe removal before disturbance",
+        "text": "Available coating findings and the proposed disturbance are reviewed with the appropriately certified renovation provider. That provider establishes the required containment, protected collection route and lead-safe work practices. Ordinary uncontrolled cutting, sanding or sweeping is not used for the affected finish; leak and electrical correction remain with their qualified providers."
+      },
+      {
+        "title": "Collect chips, then complete the lead-dust cleaning sequence",
+        "text": "The responsible provider contains removed ceiling material and collects debris without spreading it into the occupied room. Required HEPA vacuuming and wet cleaning address the protected work surfaces and remaining settled dust. Cleaning cloths, collected debris and protective sheeting are handled through the defined waste process; blowing dust away with drying equipment is not a cleaning step."
+      },
+      {
+        "title": "Complete the applicable verification as well as material drying",
+        "text": "The certified provider completes the required post-work cleaning verification or applicable clearance process, including recleaning where needed. Moisture checks on retained framing serve a separate purpose and cannot substitute for that result. Ceiling reconstruction follows source correction, material readiness and the relevant lead-work completion requirements."
+      }
+    ],
+    "estimate": "Coating findings, ceiling condition, protected area and the applicable lead-safe work requirements shape the scope. Certified renovation work, any independent testing, source repair and rebuilding are separately assigned.",
+    "checklist": [
+      "Share coating-test results or prior lead-work records.",
+      "Identify ceiling damage and any material already disturbed.",
+      "Provide leak-repair and electrical-provider findings."
+    ]
+  },
+  "bathroom-mold-removal/highland-village": {
+    "intro": "Bathroom mold removal in Highland Village can require revising containment when an existing exhaust fan or HVAC opening prevents the planned air boundary from working. The remediation provider must control where air enters and leaves while affected material is disturbed, rather than assume a closed bathroom door contains the work.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Highland Village: establish the controlled air route",
+        "text": "The licensed provider defines containment from assessment findings and the work required. Supply, return and bathroom-exhaust openings are addressed within that plan, with qualified mechanical help where needed. The household fan is not used as an improvised route for carrying demolition dust through an unassessed duct."
+      },
+      {
+        "title": "Maintain containment while removing and cleaning material",
+        "text": "The provider establishes and checks inward airflow with the specified filtered extraction arrangement and a suitable exhaust destination. If an opened door, failed seal or equipment problem defeats that condition, disturbance stops while the control is restored. Specified unsuitable porous material is contained for removal, and suitable retained surfaces receive detailed physical cleaning under those controls."
+      },
+      {
+        "title": "Clean the enclosure before removing the boundary",
+        "text": "Final collection includes the work surfaces and deposits on the containment interior before dismantling. Source correction, retained-material drying and applicable independent evaluation remain prerequisites to closure. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with that provider identified before work begins."
+      }
+    ],
+    "estimate": "Containment layout, mechanical openings and required removal affect the work. Mechanical changes, independent assessment and bathroom reconstruction remain separate.",
+    "checklist": [
+      "Share assessment findings and the planned removal area.",
+      "Identify bathroom exhaust and HVAC openings.",
+      "Describe prior containment or cleaning work."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/highland-village": {
+    "intro": "Kitchen cabinet mold removal in Highland Village can be needed after an earlier treatment sprayed the cabinet but left affected material on its surfaces. A product’s mold-killing claim or a lighter stain does not establish physical removal. We will arrange treatment of the remaining assessed material instead of treating another spray cycle as the missing cleanup step.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Highland Village: establish what the earlier treatment removed",
+        "text": "The assessment and available treatment records distinguish surfaces that were physically cleaned from surfaces only sprayed or fogged. Product identity and any remaining chemical residue inform the next compatible cleaning method. A report about a product’s effect on mold does not establish that particles were collected; any sampling result is interpreted by the independent assessment provider within its actual limits."
+      },
+      {
+        "title": "Collect the remaining material rather than repeating the chemical treatment",
+        "text": "Under the required work controls, the remediation provider uses suitable HEPA collection for dry loose deposits and compatible damp wiping or other specified physical cleaning on accepted cabinet surfaces. Released material is captured in the cleaning media and removed from the work area. Cleaner is not simply sprayed onto the deposits and left to dry again. Required product-residue removal is completed without flooding panel edges, and unsuitable affected porous material is contained for disposal."
+      },
+      {
+        "title": "Judge the completed work by removal and condition",
+        "text": "The provider checks the included surfaces for remaining deposits and completes further cleaning where the prescribed method has not removed them. Persistent material that cannot be reached or cleaned requires a changed removal or component-replacement decision; it is not accepted because a biocide was applied. Conversely, remaining wood discoloration does not by itself justify repeated bleaching. Source correction, drying and applicable independent evaluation precede refinishing or returning stored items."
+      }
+    ],
+    "estimate": "Earlier product use, remaining deposits, cabinet material and the physical cleaning still needed determine the scope. Refinishing and replacement are separate. Go Green’s Texas Mold Remediation Contractor license is pending. Work requiring that license is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work.",
+    "checklist": [
+      "Share the previous product label and treatment description.",
+      "Identify whether wiping, vacuum collection or material removal occurred.",
+      "Provide assessment findings and the moisture-source repair status."
+    ]
+  },
+  "mold-remediation-after-water-damage/highland-village": {
+    "intro": "Mold remediation after water damage in Highland Village requires a different collection sequence when assessed material is still wet. Liquid recovery and dry HEPA finishing are not interchangeable steps. We will coordinate removal of unsuitable material and treatment of retained surfaces without sending water through equipment intended for dry dust collection.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Highland Village: select equipment for the material condition",
+        "text": "The licensed provider uses assessment findings to establish work controls and the retained-material boundary. Suitable wet collection may address standing water on accepted hard surfaces, but wet vacuuming is not used to justify keeping mold-affected porous material that the scope requires removing. Ordinary air movement does not begin across untreated growth."
+      },
+      {
+        "title": "Remove wet waste and physically clean retained surfaces",
+        "text": "Specified unsuitable board, insulation or other porous material is contained for disposal. Reachable liquid is recovered with equipment designed for that use, and suitable retained surfaces receive the specified physical cleaning. A wet-vacuum pass alone does not establish removal of mold from an absorbent material."
+      },
+      {
+        "title": "Complete drying before the specified dry-particle finish",
+        "text": "After physical treatment and drying, the provider performs the required HEPA collection of residual settled material using dry-service equipment suited to the task. Equipment and waste are handled under the work controls. Moisture-source correction and applicable independent evaluation precede rebuilding; the change of collection tool is part of the treatment sequence, not a completion claim by itself."
+      }
+    ],
+    "estimate": "Wetness, porous-material disposition and the cleaning method determine equipment and sequencing. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins.",
+    "checklist": [
+      "Share assessment findings and current wet conditions.",
+      "Identify standing water and material already removed.",
+      "Describe drying or vacuum equipment previously used."
+    ]
+  },
+  "mold-removal-behind-drywall/highland-village": {
+    "intro": "Mold removal behind drywall in Highland Village can involve a wall cavity that was being used as a return-air passage. Opening that wall also opens a route into the heating and cooling system. The work needs coordinated HVAC isolation and a suitable replacement air path, as well as removal of affected drywall and treatment of retained framing.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Highland Village: isolate the actual return path",
+        "text": "The HVAC provider identifies the cavity connections and establishes isolation before the remediation provider disturbs affected material. Closing the visible grille alone may leave other connections open. Assessment determines the included mold work; findings within connected ducts or equipment require their own evaluation rather than an assumption that wall cleaning treats the system."
+      },
+      {
+        "title": "Remove affected lining and clean included retained components",
+        "text": "Under the applicable containment, specified affected porous board and unsuitable lining are removed and contained. Suitable exposed framing and accessible retained metal receive physical cleaning within the treatment scope. Any pan, support or service component needing trade removal is released by its provider so that hidden contact surfaces can actually be reached."
+      },
+      {
+        "title": "Build and check the replacement air passage before closing the wall",
+        "text": "Following source correction, drying and applicable independent evaluation, the HVAC provider designs and installs the appropriate duct or return assembly using suitable materials. Simply putting new drywall over the same leaky cavity is not the proposed repair. Connections and airflow are checked, with required leakage testing completed while access remains available, before finish restoration."
+      }
+    ],
+    "estimate": "Air-path connections, affected lining and the replacement return design determine access and repair. HVAC work and wall reconstruction are separate. Go Green’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work.",
+    "checklist": [
+      "Share HVAC drawings or findings about the return cavity.",
+      "Identify connected grilles and any prior wall opening.",
+      "Provide assessment and moisture-source repair information."
+    ]
+  },
+  "kitchen-fire-cleanup/highland-village": {
+    "intro": "Kitchen fire cleanup in Highland Village can leave an absorbed oil stain in natural stone after loose soot and cooking grease are removed. Repeated surface wiping may not draw oil back out of the pores. We will separate ordinary residue cleaning from a stone specialist’s decision to use a compatible absorbent poultice.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Highland Village: distinguish absorbed oil from surface damage",
+        "text": "The stone and any sealer are identified before treatment. Initial compatible cleaning removes loose soot and surface grease so remaining discoloration can be evaluated. Heat damage, etching and a changed sealer are not automatically treated as an oil stain that a poultice will remove."
+      },
+      {
+        "title": "Have the specialist extract a supported stain with a compatible poultice",
+        "text": "A limited trial establishes whether the selected stain-removal chemistry and absorbent carrier suit the stone. The specialist applies and manages the poultice under the product process, then collects the spent material without spreading it over adjacent finishes. Acid-sensitive stone and coated surfaces do not receive an improvised universal mixture."
+      },
+      {
+        "title": "Evaluate after the treated stone dries",
+        "text": "The result is assessed after the treatment moisture has cleared; a damp dark patch can obscure the actual response. Further treatment depends on improvement and material tolerance rather than repeated application without a limit. Polishing, resealing and unresolved permanent discoloration remain separate from the completed soot-cleaning scope."
+      }
+    ],
+    "estimate": "Stone type, stain depth and trial response affect the specialty work. Complete stain removal is not guaranteed; resurfacing and appliance service are separate.",
+    "checklist": [
+      "Identify stone and sealer products if known.",
+      "Describe cooking-oil contact and earlier cleaners.",
+      "Share photographs of the dry surface after initial cleanup."
+    ]
+  },
+  "smoke-damage-cleanup/highland-village": {
+    "intro": "Smoke damage cleanup in Highland Village can involve removable blinds proposed for ultrasonic immersion cleaning. That method uses a cleaning bath and vibration, so it is suitable only when the product’s materials and mechanisms can tolerate it. We will obtain a product-specific recovery decision before treating immersion as a universal solution for smoke residue.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Highland Village: confirm that immersion is permitted",
+        "text": "The blind specialist identifies the product, finish, fabric or slat construction, and any bonded or powered components. Manufacturer exclusions govern the method; a washable-looking face does not establish that the complete assembly can enter a tank. Heat-damaged parts and products without a supported cleaning method receive another recovery decision."
+      },
+      {
+        "title": "Clean accepted components through the specialist process",
+        "text": "Authorized removal keeps components supported and associated with their opening. The specialist controls the bath chemistry and ultrasonic process for the accepted product, with any required separation of components before immersion. The surrounding brackets, window frame and sill receive their own compatible residue cleaning while the covering is away."
+      },
+      {
+        "title": "Complete required rinsing and drying before refitting",
+        "text": "The specialist follows the product’s post-cleaning requirements and checks for remaining deposits, finish changes and failed bonds. Accepted components are adequately dried before reassembly; powered mechanisms and operating checks remain with their service provider. Unresolved residue or damaged material is not hidden by simply rehanging the covering."
+      }
+    ],
+    "estimate": "Product eligibility, disassembly and controlled immersion affect recovery. Replacement and powered-system service are separate.",
+    "checklist": [
+      "Identify the blind manufacturer and product.",
+      "Describe heat damage and prior cleaning.",
+      "Note powered controls or bonded decorative components."
+    ]
+  },
+  "toilet-overflow-cleanup/highland-village": {
+    "intro": "Toilet overflow cleanup in Highland Village can require changing the drying setup while disinfectant is being applied to cleaned hard surfaces. Air movers can dry a treatment film before the product’s required contact time is complete. We will sequence soil removal, disinfection and material drying so one operation does not interrupt another.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Highland Village: remove the wastewater and soil first",
+        "text": "The plumbing source is controlled, accessible wastewater is collected and specified unsuitable contacted porous material is contained for removal. Suitable retained hard surfaces are physically cleaned before disinfection. The selected product must be appropriate for those surfaces and the required treatment; existing cleaner residues are resolved before application."
+      },
+      {
+        "title": "Keep the treatment wet for the label-directed time",
+        "text": "Air movement directed across the treated face is adjusted while preserving the work area’s required controls. Product is applied according to its label and checked for premature drying; any necessary reapplication follows those instructions. A quick spray followed immediately by a drying fan does not supply the required wet-contact period."
+      },
+      {
+        "title": "Resume drying after completing the treatment sequence",
+        "text": "Required rinsing or other product steps are completed before the drying arrangement returns to the retained building materials. Remaining wetness in backing receives material checks rather than being inferred from evaporation of the disinfectant film. Plumbing repair and replacement finishes remain separate from cleanup."
+      }
+    ],
+    "estimate": "Affected materials, product requirements and the drying arrangement affect sequencing. Source repair and reconstruction are separate.",
+    "checklist": [
+      "Describe wastewater contact and source correction.",
+      "Identify products already used.",
+      "Share where air movers or heaters have been operating."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/highland-village": {
+    "intro": "AC leak water damage cleanup in Highland Village can stall when a cold duct or line keeps condensing moisture beside material being dried. A repaired drain does not stop condensation on an exposed cold surface. We will coordinate the HVAC correction with control of the surrounding air before counting new surface moisture as water left from the original leak.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Highland Village: distinguish a continuing drip from condensation",
+        "text": "The HVAC provider evaluates the equipment, cold surfaces and insulation condition. Restoration observations compare surface temperature with surrounding temperature and humidity where appropriate. Moisture appearing on a cold surface during operation needs that source evaluation rather than an assumption that the same puddle is simply taking longer to dry."
+      },
+      {
+        "title": "Correct the cold-surface condition while treating wet building material",
+        "text": "The HVAC provider determines operating changes and insulation or vapor-control repairs needed to prevent continued condensation. Accessible liquid is collected and unsuitable wet building layers are removed as scoped. Drying equipment is arranged to serve retained material without directing humid air at an unresolved cold surface."
+      },
+      {
+        "title": "Check for renewed condensation under the intended operating conditions",
+        "text": "Material readings track the exposed building assembly while the HVAC provider checks its repair and system operation. A dry period while cooling is off does not by itself establish that the original condensation condition is resolved. Wall or ceiling replacement follows the receiving material’s readiness and the corrected mechanical detail."
+      }
+    ],
+    "estimate": "Surface conditions, insulation defects and wet building layers affect the work. Refrigerant, equipment operation and insulation service remain HVAC responsibilities.",
+    "checklist": [
+      "Share HVAC source and insulation findings.",
+      "Describe when moisture returns relative to cooling operation.",
+      "Identify wet wall, ceiling or platform material."
+    ]
+  },
+  "crawl-space-water-removal/highland-village": {
+    "intro": "Crawl space water removal in Highland Village can require a second collection method after a submersible pump reaches its minimum operating depth. A shallow film and isolated puddles may remain even though the pump no longer moves useful water. We will finish accessible liquid recovery without forcing the pump to run below its intended level.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Highland Village: match the pump to depth and ground conditions",
+        "text": "Safe access, electrical conditions and a suitable discharge route are established before pumping. The selected equipment’s intake and minimum-water requirements guide placement and shutdown. Digging an improvised deeper hole beside a foundation support is not an ordinary way to keep a pump submerged."
+      },
+      {
+        "title": "Change tools when the remaining water is too shallow",
+        "text": "Once the bulk-water stage ends, suitable shallow-water pickup or wet-extraction tools collect reachable puddles the original intake cannot recover. The approach protects any ground cover and avoids dragging soil into equipment intended for liquid. Water below an inaccessible cover or support remains a separate access question."
+      },
+      {
+        "title": "Check the low points after the equipment stops",
+        "text": "The collection area is checked for residual pools and renewed entry after shutdown. Wet insulation and retained framing receive their own removal or drying decisions; an empty pump discharge is not the drying endpoint. Continuing inflow and permanent drainage repairs remain with their responsible providers."
+      }
+    ],
+    "estimate": "Initial depth, intake limitations, ground condition and shallow-water access determine the collection stages. Drainage and foundation work are separate.",
+    "checklist": [
+      "Describe water depth and remaining shallow pools.",
+      "Identify the pump used and where it stopped collecting.",
+      "Share safe access and ground-cover conditions."
+    ]
+  },
+  "attic-mold-remediation/highland-village": {
+    "intro": "Attic mold remediation in Highland Village can include specialist dry-ice blasting when the assessed wood and work area support that method. The ice becomes gas, but the removed mold and other debris remain. We will coordinate gas control and particle collection before treating a process with no spent grit as one that leaves nothing to clean up.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Highland Village: confirm method and ventilation suitability",
+        "text": "The licensed provider and blasting specialist evaluate the wood, coatings, utilities and access before a controlled trial. Ventilation and carbon-dioxide monitoring must suit the enclosed work area; a HEPA filter captures particles but does not remove carbon dioxide. If the space cannot support those controls, another treatment method is required."
+      },
+      {
+        "title": "Treat accepted wood with controlled settings and deposit capture",
+        "text": "The specialist uses a process appropriate to the accepted material and stops if it damages the surface. Containment and collection address released deposits at the work face and receiving surfaces. Disappearing dry-ice pellets do not mean removed growth has disappeared, and the method does not substitute for removal of unsuitable porous insulation."
+      },
+      {
+        "title": "Collect residual deposits before the completion evaluation",
+        "text": "The provider completes specified particle collection and physical cleaning of included retained surfaces after blasting. Wood deterioration and concealed contacts retain separate decisions. Moisture correction, drying and applicable independent evaluation precede reinsulation; no sterilization or universal recovery claim is made for the blasting process."
+      }
+    ],
+    "estimate": "Material suitability, specialist ventilation and deposit collection determine whether this method is appropriate. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins.",
+    "checklist": [
+      "Share assessment findings and wood condition.",
+      "Describe attic access and available ventilation.",
+      "Identify coatings, insulation and utilities near the work."
+    ]
+  },
+  "crawl-space-mold-remediation/highland-village": {
+    "intro": "Crawl space mold remediation in Highland Village can require stopping removal when loaded filters reduce the collection system’s airflow. A running fan does not establish that the intended air movement is being maintained. We will coordinate filter service under the work controls before further disturbance adds deposits the system cannot adequately capture.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Highland Village: check the collection system under working conditions",
+        "text": "The licensed provider establishes the required airflow arrangement and uses the equipment’s indicators and operating instructions to monitor performance. Obstructed hoses, loaded prefilters and damaged seals require different corrections. Increasing fan speed is not treated as a substitute for diagnosing a restricted or leaking system."
+      },
+      {
+        "title": "Change contaminated filters without reopening an uncontrolled dust source",
+        "text": "Disturbance pauses while the provider follows the equipment’s filter-service procedure and maintains the required work boundary. Removed filters and collected waste are contained; filters are not shaken out in the crawl space or bypassed to restore suction. Correct replacement parts and seals are installed before the system is checked again."
+      },
+      {
+        "title": "Resume material treatment after collection is restored",
+        "text": "Specified unsuitable porous material is removed under restored controls, followed by physical cleaning of suitable retained wood and final deposit collection. Source correction, drying and applicable independent evaluation remain necessary. A filter change maintains the treatment process; it does not establish that the surfaces have been remediated."
+      }
+    ],
+    "estimate": "Dust loading, equipment access and filter-service requirements affect sequencing. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins.",
+    "checklist": [
+      "Share the remediation area and affected materials.",
+      "Describe collection equipment already operating.",
+      "Identify restricted access for equipment and contained waste removal."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/highland-village": {
+    "intro": "Mold contaminated contents cleaning in Highland Village can require supported cleaning of a fragile textile whose fibers could be pulled into a vacuum nozzle. A lace panel or weakened fabric needs a different physical collection method from a hard furnishing. We will arrange textile-specialist evaluation before suction, brushing or washing damages material the owner hopes to retain.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Highland Village: check fiber strength before treatment",
+        "text": "The specialist evaluates dampness, fiber condition, dyes, finishes and attached decorations. Wet or unstable material receives a stabilization plan before mechanical cleaning. An item selected for conservation is kept supported during transfer; shaking it out or hanging it by a weakened edge can spread deposits and tear the textile."
+      },
+      {
+        "title": "Support the fabric while collecting surface deposits",
+        "text": "For a suitable dry textile, the specialist can use controlled HEPA collection through a protective screen with suction appropriate to its strength. The screen keeps fabric away from the nozzle while accessible deposits are collected from the included faces. Loose trim, torn areas and unstable decoration require a modified method rather than stronger suction."
+      },
+      {
+        "title": "Decide on further treatment before repacking",
+        "text": "Washing or dry cleaning follows only when the specialist finds the fibers, dyes and construction suitable; surface collection does not establish that embedded contamination is resolved. Stains or weakened fibers may remain despite treatment. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending; work requiring that license is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins."
+      }
+    ],
+    "estimate": "Fragility, support needs, construction and conservation options affect recovery. Textile conservation and treatment of the receiving room are separately scoped.",
+    "checklist": [
+      "Identify textile materials and attached decoration if known.",
+      "Describe dampness, tears and previous cleaning.",
+      "Flag pieces requiring conservation before handling."
+    ]
+  },
+  "fire-damaged-debris-removal/highland-village": {
+    "intro": "Fire damaged debris removal in Highland Village can leave loose nails and screws scattered after burned timber is carried out. Bulk removal alone may leave a route that punctures footwear or equipment tires. We will collect the remaining fasteners and other sharp fragments before that route is used for restoration traffic.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Highland Village: remove the large pieces without scattering fasteners",
+        "text": "The area must be released for work and any unstable material addressed before handling. Approved timber and attached debris are transferred in controlled loads with exposed points contained. Fasteners still embedded in a piece are not shaken loose over the cleared floor to reduce its load."
+      },
+      {
+        "title": "Recover loose steel separately from nonmagnetic fragments",
+        "text": "Where the surface and access permit, a magnetic collection tool can recover ferrous fasteners left after bulk removal. Collected points are transferred into a suitable puncture-resistant container. The magnet cannot collect every hazard: glass, aluminum and other nonmagnetic fragments require their own careful collection and detailed surface cleanup."
+      },
+      {
+        "title": "Inspect the route before moving equipment through it",
+        "text": "Edges, floor joints and the unloading route are checked for remaining sharp debris, with further access identified where fragments entered a gap. A magnetic pass is not treated as proof that the whole floor is clear. Embedded objects that require floor removal or repair receive a separate decision before normal traffic resumes."
+      }
+    ],
+    "estimate": "Debris attachment, floor texture and the transfer route affect collection. Floor repairs and structural work remain separate from loose-debris recovery.",
+    "checklist": [
+      "Identify burned timber and loose fasteners observed safely.",
+      "Describe the floor and route used for prior debris movement.",
+      "Note glass or other sharp material mixed with the load."
+    ]
+  },
+  "fire-damaged-contents-cleaning/highland-village": {
+    "intro": "Fire damaged contents cleaning in Highland Village can involve books with glossy coated pages soaked by firefighting water. Those pages can adhere as they dry, so ordinary room drying may close off a recovery option. We will coordinate prompt conservator-directed stabilization before treating soot on covers or packing the books for routine storage.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Highland Village: identify wet coated paper early",
+        "text": "The contents specialist separates dry soot-affected books from wet volumes and identifies coated paper, bleeding media and heat damage. Wet page blocks are supported without forcing pages apart. A book that has already dried with adhered pages needs conservation review rather than an attempt to pull the leaves free."
+      },
+      {
+        "title": "Stabilize accepted books for the selected drying process",
+        "text": "Where the specialist specifies freezing, books are packed and transferred under that provider’s instructions before the coated pages dry together. Freezing is stabilization, not soot removal or completed drying. The specialist determines whether freeze-drying or another recovery method suits the binding, media and actual exposure."
+      },
+      {
+        "title": "Clean and assess after the stabilization decision",
+        "text": "Soot cleaning is selected for the cover and paper condition without rubbing deposits into wet pages. Binding repair, remaining staining and pages that cannot be separated remain individual recovery decisions. Accepted dry volumes return to suitable storage only after their treatment and the receiving room’s restoration are resolved."
+      }
+    ],
+    "estimate": "Paper coating, wetness, heat damage and required stabilization drive recovery. Specialist freezing, drying and binding repair are separately identified.",
+    "checklist": [
+      "Identify books still wet and any glossy pages.",
+      "Describe firefighting-water and soot contact.",
+      "Flag valuable volumes before opening or separating pages."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/highland-village": {
+    "intro": "Fire extinguisher residue cleanup in Highland Village changes when the discharge was a Class D agent used on burning metal. The collected material may include reactive metal as well as extinguishing powder. We will coordinate specialist release of that mixture before routine room cleaning introduces water or uses ordinary collection equipment.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Highland Village: identify both agent and burned material",
+        "text": "The extinguisher label, product information and fire-response findings identify the agent and metal involved. A fire or hazardous-material specialist determines when the material is cool and stable and specifies its handling. Class D residue is not assumed to behave like ordinary multipurpose extinguisher powder."
+      },
+      {
+        "title": "Remove the restricted mixture through its specialist method",
+        "text": "The specialist establishes suitable collection tools, containers and disposal for the actual mixture. Routine wet washing, compressed-air dispersal or household vacuuming does not proceed through material still awaiting that decision. Extinguishing powder mixed with metal fragments is kept within that handling scope rather than diluted into a general cleaning bucket."
+      },
+      {
+        "title": "Clean the released surrounding surfaces",
+        "text": "After the restricted material is removed and the area released, included building surfaces receive residue collection and finish-compatible cleaning under the established method. The remaining treatment may differ by surface and residual agent. Fire damage repair and extinguisher replacement remain separate from the specialist’s material removal."
+      }
+    ],
+    "estimate": "Metal identity, agent, cooling status and specialist disposal govern the initial work. Surrounding surface cleanup begins within the released boundary.",
+    "checklist": [
+      "Share the extinguisher label and fire-response report.",
+      "Identify the metal or process involved if known.",
+      "Describe material already moved or wetted without disturbing it further."
+    ]
+  },
+  "emergency-board-up-after-fire/highland-village": {
+    "intro": "Emergency board up after fire in Highland Village can require a temporary operable entrance for authorized crews while the surrounding opening is closed. A panel that must be unscrewed for every visit does not provide that function. We will coordinate an approved temporary door arrangement with suitable support and the property’s access restrictions.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Highland Village: establish the permitted entrance",
+        "text": "Fire-authority restrictions and the condition of the opening determine whether a temporary entrance is appropriate. The plan identifies any required exit function before choosing the assembly. Temporary closure does not authorize occupancy or replace a required rated door; those conditions need their responsible provider’s direction."
+      },
+      {
+        "title": "Build the closure around a supported operable door",
+        "text": "Suitable temporary framing carries the door and surrounding infill independently of fire-damaged trim or glazing. The installer fits the leaf, hinges, latch and weather protection to the approved arrangement. The assembly must withstand ordinary opening and closing without loosening its attachment or dragging across the threshold."
+      },
+      {
+        "title": "Check operation and maintain the temporary enclosure",
+        "text": "Door swing, latching and authorized access are checked after installation, with any required egress function preserved. Loose framing, a binding leaf or failed weather seal requires correction rather than repeated forcing. Permanent door installation follows its own measurement and repair work when the temporary assembly is removed."
+      }
+    ],
+    "estimate": "Opening condition, approved access function and temporary framing determine the scope. Rated-door requirements and permanent replacement remain separately assigned.",
+    "checklist": [
+      "Share authority restrictions and the authorized access purpose.",
+      "Identify any required exit through the opening.",
+      "Describe usable surrounding structure and planned permanent repair."
+    ]
+  },
+  "crawl-space-sewage-cleanup/highland-village": {
+    "intro": "Crawl space sewage cleanup in Highland Village can require removing a defined area of sewage-contaminated earth after wastewater collection. Ground soil cannot be treated as a washable hard floor. We will arrange a site-specific soil-removal decision that accounts for the contamination and nearby footings before new ground covering is installed.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Highland Village: define the ground-removal limits",
+        "text": "The plumbing provider controls the release, and entry conditions are evaluated before collection begins. Reachable wastewater and solids are recovered; contacted disposable covering and unsuitable insulation are contained for removal. The responsible environmental professional determines the soil treatment or removal boundary from site conditions, without assuming one excavation depth fits every release."
+      },
+      {
+        "title": "Remove specified earth without undermining supports",
+        "text": "Included contaminated soil is collected in controlled sections and transferred through a protected route into suitable waste containers. Digging does not extend beneath footings or around supports simply to follow a stain. Where the proposed removal could affect bearing soil or services, the appropriate structural or utility provider establishes the method before work proceeds. Spraying disinfectant over the ground does not replace the specified removal."
+      },
+      {
+        "title": "Treat retained building surfaces before replacing the ground cover",
+        "text": "Reachable retained hard surfaces are physically cleaned of sewage residue and appropriately disinfected according to the selected product instructions. Subfloor and framing selected for retention receive moisture checks and drying. Any required ground restoration follows the approved soil work; new sheeting and insulation must not conceal unfinished removal or untreated building components."
+      }
+    ],
+    "estimate": "Soil extent, support locations, entry conditions and disposal requirements affect the scope. Plumbing, environmental or structural services and rebuilding are separately assigned. If licensed mold work is required, Go Green’s Texas Mold Remediation Contractor license is pending; an appropriately licensed partner performs that work after credentials and scope are confirmed and the provider is identified.",
+    "checklist": [
+      "Provide plumbing repair and release-history information.",
+      "Describe ground covering, soil conditions and support locations.",
+      "Share any environmental evaluation or earlier soil removal."
+    ]
+  }
+}

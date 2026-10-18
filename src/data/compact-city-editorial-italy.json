@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/italy": {
+    "intro": "Emergency water extraction in Italy can use an automatic pump-out arrangement that transfers recovered water from an extractor’s waste tank. That second transfer has to keep working while the extraction tool continues collecting liquid. We will coordinate the approved receiving route and watch the tank and discharge together rather than assume automatic operation removes the need for oversight.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Italy: establish the complete recovery route",
+        "text": "Water conditions, equipment suitability and the accepted disposal destination are identified before connection. The extractor’s recovery tank and its pump-out system are different parts of the transfer. A suitable drain connection is confirmed for the actual waste; a manufacturer’s sewer example does not authorize every recovered mixture to enter that route."
+      },
+      {
+        "title": "Coordinate collection with the automatic tank transfer",
+        "text": "The provider follows the model’s pump-out installation and operating requirements, securing the discharge arrangement and checking actual transfer. Float-activated pumping does not establish that a blocked hose or rejected destination is accepting liquid. Collection is paused when the receiving side cannot keep up, rather than overrunning the tank while the floor tool remains in use."
+      },
+      {
+        "title": "Finish the tank operation as well as the floor collection",
+        "text": "The provider completes the prescribed emptying and equipment-cleaning process after accessible room water is recovered. Remaining liquid at floor edges receives the appropriate detail tool, and affected covered layers retain their own opening and drying decisions. Continuous pump-out reduces tank interruption only when the complete route is functioning; it does not establish material dryness."
+      }
+    ],
+    "estimate": "Water suitability, extractor configuration and the approved receiving route determine whether automatic pump-out fits. Equipment servicing, waste acceptance and retained-material drying remain separately assigned.",
+    "checklist": [
+      "Identify the extractor and proposed pump-out equipment.",
+      "Share water-source and disposal-route information.",
+      "Describe tank filling, discharge interruption or prior overflow."
+    ]
+  },
+  "burst-pipe-cleanup/italy": {
+    "intro": "Burst pipe cleanup in Italy can involve a pressurized water tank that still feeds a failed line after the pump is switched off. Stored water and pressure need the plumbing provider’s controlled release, not simply another electrical shutdown. We will coordinate collection around that source operation before treating the pipe area as released for ordinary material drying.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Italy: identify stored water behind the failed line",
+        "text": "The plumbing provider identifies the pressure tank, valves and remaining connected supply. Pump shutdown and a tank drained of water pressure are separate states. Restoration personnel do not loosen a fitting or adjust the tank’s gas charge to make the release stop."
+      },
+      {
+        "title": "Collect water during the controlled depressurization",
+        "text": "The plumbing provider isolates the system and uses its prescribed drain arrangement to release retained water and pressure. That outlet is directed to suitable receiving capacity instead of across a floor already being cleared. Restoration recovers accessible building water within the released boundary and accounts for additional liquid from that controlled source task."
+      },
+      {
+        "title": "Dry the building after source repair and release",
+        "text": "The plumbing provider repairs and checks the system before any required return to operation. Suitable retained building surfaces receive cleaning and measured drying, while unsuitable contacted layers have their own removal decision. An empty pressure gauge reading does not establish the moisture condition of a wall or floor, and a dry floor does not certify tank integrity."
+      }
+    ],
+    "estimate": "Stored-water volume, controlled drainage and contacted building materials affect sequencing. Pressure-tank isolation, service and repair remain with the qualified plumbing provider.",
+    "checklist": [
+      "Identify any pressure tank connected to the failed line.",
+      "Share pump shutdown and plumbing-isolation findings.",
+      "Describe the controlled drain destination and water entering the room."
+    ]
+  },
+  "appliance-leak-cleanup/italy": {
+    "intro": "Appliance leak cleanup in Italy can require relocating a front-loading washer whose suspended drum needs transport restraints. Moving the cabinet without securing its internal suspension can damage the machine while the floor is being exposed. We will coordinate the appliance provider’s model-specific transport preparation before the unit leaves the affected footprint.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Italy: prepare the washer for the required movement",
+        "text": "The appliance provider isolates water and power, drains retained liquid and determines the movement required for restoration access. Model instructions establish whether transport bolts or another specified restraint must be fitted. A towel wedged inside the drum is not substituted for the prescribed internal suspension support."
+      },
+      {
+        "title": "Move the prepared unit and treat the exposed footprint",
+        "text": "The appropriate handlers relocate the prepared appliance using its supported orientation and handling method. Accessible floor water and deposits are collected, unsuitable affected layers receive removal decisions and suitable retained material is cleaned and dried. Transport preparation protects the machine; it does not determine which wetted floor components can remain."
+      },
+      {
+        "title": "Remove transport restraints before operational checks",
+        "text": "After the receiving floor is ready, the appliance provider resets the unit and removes restraints that must not remain during operation. Reconnection, leveling and the supported leak or function checks follow that provider’s process. A floor-drying result does not authorize operation of an appliance with transport hardware still locking its suspension."
+      }
+    ],
+    "estimate": "Model-specific transport preparation, handling distance and floor construction determine the sequence. Appliance restraint installation, servicing and reconnection are separately assigned from building cleanup.",
+    "checklist": [
+      "Share the washer model and planned relocation.",
+      "Identify available transport hardware and appliance-service instructions.",
+      "Describe the wet footprint and the source-isolation findings."
+    ]
+  },
+  "storm-water-damage-cleanup/italy": {
+    "intro": "Storm water damage cleanup in Italy can need specialist temporary flood protection while continuing exterior water threatens a building already being cleaned. A supported membrane barrier carries water load differently from loose sheeting or a pile of debris. We will coordinate the selected barrier’s footprint and installation limits while interior recovery continues within its released area.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Italy: establish whether a supported barrier fits",
+        "text": "The temporary-protection specialist evaluates ground conditions, expected water loading and the available footprint before selecting a system. The proposed route accounts for entrances, utilities and where water will move around the protection. A barrier is not improvised against damaged siding or treated as a structural repair to the building."
+      },
+      {
+        "title": "Install the frame and membrane as the selected system",
+        "text": "The specialist sets the prescribed support and continuous liner under the system’s installation requirements. In systems designed to use water pressure, the load helps hold the membrane against its receiving surface; folds, damaged fabric or unsuitable ground still require correction. Restoration equipment and waste containers do not replace the specified frame or attachment arrangement."
+      },
+      {
+        "title": "Monitor the protection and treat the interior separately",
+        "text": "The specialist maintains the temporary system within its operating limits while incoming conditions change. Interior water, deposits and unsuitable wet materials receive their own collection and removal work, followed by drying of suitable retained construction. Barrier removal follows its controlled sequence after the water load recedes; protection does not establish completed interior cleanup or permanent drainage correction."
+      }
+    ],
+    "estimate": "Ground suitability, water loading, barrier footprint and specialist installation determine temporary protection. Permanent drainage or envelope repair and interior restoration remain separately assigned.",
+    "checklist": [
+      "Share the continuing water-entry and exterior-provider findings.",
+      "Identify space available for specialist temporary protection.",
+      "Provide the proposed barrier system and its operating restrictions."
+    ]
+  },
+  "structural-drying-services/italy": {
+    "intro": "Structural drying services in Italy need more than a falling relative-humidity percentage when heaters warm the room. Warmer air can show lower relative humidity without losing its water vapor. We will compare temperature and air-moisture conditions with retained-material response before interpreting that change as successful moisture removal.",
+    "sections": [
+      {
+        "title": "Structural drying services in Italy: interpret humidity with temperature",
+        "text": "The provider records temperature and humidity at identified locations and uses suitable moisture measures such as dew point or humidity ratio to interpret the air. Comparing percentages from differently heated locations can obscure what happened to the vapor load. Material readings remain separate from those air measurements."
+      },
+      {
+        "title": "Pair evaporation with an actual moisture-removal arrangement",
+        "text": "Heating, where suitable, is controlled for the retained assembly and equipment conditions. Dehumidification or another supported moisture-removal route handles vapor released from the material; adding heat alone is not treated as collection of that vapor. The setup is revised when air conditions or material response show that the present arrangement is not producing useful progress."
+      },
+      {
+        "title": "Check the material through changing room conditions",
+        "text": "Repeat observations follow the included retained layers rather than ending the work at a preferred room percentage. Cooling a room can raise its relative humidity again even without a new liquid release, so that change is interpreted alongside the vapor and material records. Source correction and measured material readiness govern the drying endpoint and subsequent enclosure."
+      }
+    ],
+    "estimate": "Temperature changes, vapor removal and assembly response affect the drying arrangement. Equipment selection, utility work and reconstruction retain their separate requirements.",
+    "checklist": [
+      "Share temperature and humidity readings taken together.",
+      "Identify heaters, dehumidifiers and changes in their use.",
+      "Provide material-reading locations and the remaining wet boundary."
+    ]
+  },
+  "floor-water-damage-cleanup/italy": {
+    "intro": "Floor water damage cleanup in Italy can require a flooring provider’s specified calcium-carbide moisture test on a retained screed before replacement proceeds. That test uses a removed material sample and a pressure vessel rather than an electrical surface reading. We will coordinate authorized sampling and the test’s actual acceptance requirements separately from the floor-cleanup result.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Italy: confirm the required test and sample location",
+        "text": "The flooring provider confirms whether the proposed system accepts this test and identifies the material and sampling requirements. Services, reinforcement and sampling damage are resolved before a sample is removed. A generic moisture percentage from another method is not substituted for the specified test result."
+      },
+      {
+        "title": "Have the qualified tester preserve and measure the sample",
+        "text": "The tester obtains and handles the representative sample under the selected procedure, including its required mass and preparation. In the sealed test vessel, the carbide reaction produces a pressure response used to determine sample moisture under that method. Handling, temperature and equipment requirements remain with the qualified tester; no improvised reaction or universal floor limit is used."
+      },
+      {
+        "title": "Relate the finding to the retained floor and next installation",
+        "text": "Included exposed material receives its own cleaning and drying, while the installer interprets the test for the selected floor system. Unrepresented locations or layers do not become accepted because one sample met its requirement. Sampling repair, additional checks and any further drying are resolved before the replacement assembly covers the base."
+      }
+    ],
+    "estimate": "Specified test acceptance, representative sampling and floor-service restrictions affect the sequence. Specialty testing, sampling repair and replacement-floor acceptance are separately assigned.",
+    "checklist": [
+      "Share the replacement system’s specified moisture-test requirements.",
+      "Identify screed construction and known concealed services.",
+      "Provide previous readings with their method and sample locations."
+    ]
+  },
+  "ceiling-water-damage-cleanup/italy": {
+    "intro": "Ceiling water damage cleanup in Italy can include a water-affected ceiling fan whose blades changed shape or whose assembly needs reassessment after the leak. Adding balance weights does not straighten a warped blade or repair wet electrical components. We will coordinate fixture release and the fan provider’s mechanical decision before treating ceiling repair as permission to run the fan.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Italy: resolve the fixture before opening beneath it",
+        "text": "The electrical and fixture providers establish isolation, support and any authorized removal. Blade condition, attachments and the mounting arrangement are evaluated independently of the stained ceiling face. A fan is not run to dry itself or used as a support for temporary ceiling protection."
+      },
+      {
+        "title": "Treat the wet building while the fan components are assessed",
+        "text": "Approved damaged ceiling layers and unsuitable wet insulation are removed with controlled debris collection. Suitable exposed construction receives cleaning and monitored drying. Warped or damaged fan blades receive the manufacturer-supported replacement decision; a balancing kit is not used to compensate for those defects."
+      },
+      {
+        "title": "Separate blade balancing from water-damage release",
+        "text": "For an otherwise accepted assembly, the fan provider resolves fastening and blade alignment before any permitted weight-balancing procedure. A matching replacement set and model-specific checks can be required rather than mixing an unmatched blade into the rotating assembly. Electrical release, mechanical operation and the retained ceiling’s drying result remain separate prerequisites to completion."
+      }
+    ],
+    "estimate": "Fixture condition, blade eligibility and wet ceiling access affect the sequence. Electrical evaluation, fan replacement or balancing and ceiling reconstruction are separately assigned.",
+    "checklist": [
+      "Identify the fan model and blades reached by the leak.",
+      "Describe changed blade shape or mounting concerns without operating it.",
+      "Share electrical and fixture-provider release findings."
+    ]
+  },
+  "bathroom-mold-removal/italy": {
+    "intro": "Bathroom mold removal in Italy can involve a stone specialist’s proposal for gel-supported cleaning of biological deposits on suitable retained stone. A gel keeps the selected cleaning liquid at the working face, but still releases moisture and leaves material that must be removed. We will coordinate a licensed-provider and stone-specialist evaluation before that conservation method is used in the assessed bathroom work.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Italy: establish the stone and gel suitability",
+        "text": "Assessment defines the affected material while the stone specialist identifies the substrate, coating and proposed cleaning system. A limited trial evaluates the deposit response and material tolerance. A gel demonstrated on another stone does not establish suitability here, and deteriorated material or concealed wet backing retains its separate decision."
+      },
+      {
+        "title": "Control contact and collect the spent cleaning material",
+        "text": "For an accepted process, the specialist manages the gel’s application, contact and removal under its prescribed method. The gel is collected with released deposits rather than left as a new surface layer. Further residue cleaning or rinsing follows the selected system; adding an unverified biocide or increasing contact time is not an improvised improvement."
+      },
+      {
+        "title": "Resolve introduced moisture and the remaining assessed work",
+        "text": "The provider checks the accepted face for residual gel and deposits and addresses treatment moisture before any finish returns. Source correction and included concealed materials remain in the licensed remediation scope, with applicable independent evaluation separately arranged. A cleaner stone face does not establish sterilization, completed cavity treatment or universal recovery."
+      }
+    ],
+    "estimate": "Stone suitability, trial response and spent-gel removal determine whether this specialty method fits. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Stone conservation, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Identify stone and coating products if known.",
+      "Share assessment findings and the proposed specialist cleaning system.",
+      "Describe prior gels, sealers or cleaning products applied."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/italy": {
+    "intro": "Kitchen cabinet mold removal in Italy can need source correction where inspection confirms a leaking solvent-welded PVC drain connection beneath the sink. The plumber’s replacement joint needs its supported assembly and cure process before sink use resumes. We will coordinate that repair with assessed cabinet removal and physical cleaning, keeping a sound drain connection separate from the condition of the wetted cabinet.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Italy: establish the affected material and failed joint",
+        "text": "Assessment defines affected cabinet, wall and floor material and the required remediation controls. The plumber identifies the drain material, failed connection and replacement access, with sink use restricted as needed. A painted bead over the old joint is not treated as a substitute for the plumber’s supported pipe repair."
+      },
+      {
+        "title": "Build the replacement solvent-weld joint under the product requirements",
+        "text": "The plumber prepares the replacement pipe and socket, checks fit and uses the primer and cement appropriate to the actual plastic and application. The prepared parts are assembled while the cement remains workable and held against push-out as prescribed. Excess pooled cement and a partly seated connection are not left to become acceptable merely by waiting longer."
+      },
+      {
+        "title": "Respect joint cure and complete the cabinet treatment before return",
+        "text": "Handling strength and readiness for a supported leak check are separate stages, governed by the selected cement, joint and actual conditions. The licensed provider removes specified unsuitable affected porous material and physically cleans suitable retained surfaces under the work controls, collecting deposits and residue. Source repair, retained-material drying and applicable independent evaluation precede cabinet rebuilding and return to normal sink use."
+      }
+    ],
+    "estimate": "Drain material, replacement joint access, cure conditions and assessed cabinet layers shape the sequence. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Plumbing repair, cabinet reconstruction, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment findings and the plumber’s failed-joint identification.",
+      "Describe sink-use restrictions and existing repair access.",
+      "Provide the replacement product instructions and cabinet material findings."
+    ]
+  },
+  "mold-remediation-after-water-damage/italy": {
+    "intro": "Mold remediation after water damage in Italy can require controlled dust suppression when affected material has dried before its approved removal. Light misting can reduce deposits released during disturbance, but soaking the assembly creates another water load. We will have the licensed provider establish that removal process before ordinary demolition or airflow scatters the material.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Italy: plan suppression for the actual disturbance",
+        "text": "Assessment identifies the material designated for removal and the required work controls. The provider checks adjacent surfaces, utilities and the planned release method before choosing whether limited misting is appropriate. This is a temporary disturbance-control measure, not an attempt to wash growth through a wall or disinfect the room."
+      },
+      {
+        "title": "Dampen the released material without flooding retained layers",
+        "text": "Where specified, the provider uses controlled light misting before handling the affected material, maintaining the approved containment and collection arrangement. Material is not soaked until liquid runs into unaffected joints or electrical openings. Approved portions are released and contained for disposal rather than smashed into an uncontrolled pile or left wet in the room."
+      },
+      {
+        "title": "Collect residue and resolve introduced moisture",
+        "text": "The provider physically collects remaining deposits and completes specified cleaning of suitable retained surfaces under the work controls. Moisture introduced by suppression is accounted for in the retained-material checks and drying, separately from the original leak. Source correction and applicable independent evaluation precede repair; reduced dust during removal does not establish completed remediation."
+      }
+    ],
+    "estimate": "Material dryness, permitted misting and controlled removal determine the disturbance plan. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Source repair, reconstruction, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment findings and material designated for removal.",
+      "Describe earlier drying and demolition already performed.",
+      "Identify utilities and retained surfaces beside the removal area."
+    ]
+  },
+  "mold-removal-behind-drywall/italy": {
+    "intro": "Mold removal behind drywall in Italy can expose an actively leaking crack in concrete or masonry behind the affected lining. A qualified waterproofing provider may use a water-reactive injection system to stop that entry before the remediated wall is closed. The treatment must fit the actual crack and water condition; wall drying alone cannot seal the flow path.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Italy: expose the leak under the remediation plan",
+        "text": "Assessment defines the affected lining and required removal controls. The licensed provider removes specified unsuitable porous layers and physically treats suitable exposed surfaces, while the waterproofing provider evaluates the revealed crack. Structural movement and loose masonry require their own qualified evaluation before any injection system is selected."
+      },
+      {
+        "title": "Use water-reactive foam as the specified water stop",
+        "text": "For an eligible active leak, the waterproofing specialist establishes injection access and applies the selected resin using its required equipment and preparation. Contact with water triggers the resin’s foaming reaction within the leak path. A temporary water-stopping foam may require a subsequent permanent sealing treatment; foam at the opening is not proof of structural bonding or a finished permanent repair."
+      },
+      {
+        "title": "Check the water stop before drying and closing the lining",
+        "text": "The specialist checks the treated leak and completes the specified sealing system while the wall remains accessible. Remediation residue and unsuitable material are collected, and retained layers receive moisture checks and drying separately from the injection result. Source repair and applicable independent evaluation precede replacement lining; concealed or continuing entry remains an unresolved condition."
+      }
+    ],
+    "estimate": "Leak activity, crack condition, access and the selected injection system determine the waterproofing work. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Waterproofing, structural repair, reconstruction, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment findings and the exposed wall construction.",
+      "Describe whether water is still entering the crack.",
+      "Provide existing waterproofing or structural inspection findings."
+    ]
+  },
+  "kitchen-fire-cleanup/italy": {
+    "intro": "Kitchen fire cleanup in Italy can include durable removable kitchenware proposed for a supported dishwasher cleaning and sanitizing cycle after exposure evaluation. A normal or rinse-only cycle does not provide the same result as the appliance’s designated sanitizing option. We will separate accepted-item washing from heat damage, soot removal and the condition of the dishwasher itself.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Italy: identify which items can enter the process",
+        "text": "The contents provider evaluates item material, heat damage and deposited residue before accepting a washing method. Cracked, melted, fragile or unsuitable porous pieces receive another recovery decision. The appliance provider must release the dishwasher if the fire or response reached it; a working display is not that evaluation."
+      },
+      {
+        "title": "Use the accepted cleaning cycle and its actual sanitizing option",
+        "text": "Included loose residue and incompatible materials are handled before accepted items are loaded under their care requirements. The provider selects the supported detergent, loading and cycle arrangement for that appliance and those items. Where a sanitizing option is appropriate, its added heat and time must complete; an interrupted cycle or ordinary rinse is not assigned the same result."
+      },
+      {
+        "title": "Check the items and the cycle outcome separately",
+        "text": "The appliance’s specified completion indication is checked alongside remaining deposits, cracks and material changes on the items. A sanitizing indicator concerns that cycle’s supported performance, not every chemical contaminant or the recovery of heat-damaged ware. Accepted items are kept apart from untreated contents while fixed kitchen surfaces receive their separate fire-cleaning work."
+      }
+    ],
+    "estimate": "Item eligibility, appliance release and supported cycle requirements affect treatment. Appliance repair, specialty contents recovery and fixed-surface cleaning are separately assigned.",
+    "checklist": [
+      "List kitchenware materials and visible heat damage.",
+      "Share the dishwasher model and fire-exposure findings.",
+      "Identify prior washing and any interrupted sanitizing cycle."
+    ]
+  },
+  "smoke-damage-cleanup/italy": {
+    "intro": "Smoke damage cleanup in Italy can include a professional thermal-fogging proposal for an odor stage after physical source cleaning. A liquid formulated for a thermal fogger is not interchangeable with an ordinary misting cleaner. We will coordinate the product, equipment and released treatment area before that specialty application proceeds.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Italy: define what the odor stage can address",
+        "text": "Included soot, grease and damaged source material receive their physical cleaning or removal decisions first. The odor specialist reviews the remaining condition and the proposed product’s permitted use. Fogging is not assigned the task of removing accessible deposits, restoring charred material or providing independent air-quality clearance."
+      },
+      {
+        "title": "Use the prescribed thermal application in its controlled area",
+        "text": "The specialist uses a compatible thermal-fogging unit and the selected product’s application requirements. Occupants and pets remain outside the treatment area, ignition conditions are resolved and sensitive contents are removed or protected as directed. The application stays within its allowed route; a room treatment is not extended into HVAC ductwork contrary to the product instructions."
+      },
+      {
+        "title": "Complete the required ventilation before the area returns",
+        "text": "The specialist follows the label’s treatment, ventilation and re-entry process rather than shortening it because fragrance is less noticeable. Any product contact needing follow-up and remaining odor sources receive their specified decisions. Physical fire cleanup, contents recovery and the odor application remain separate results, with unresolved material still addressed before repairs conceal it."
+      }
+    ],
+    "estimate": "Product eligibility, treatment volume, contents protection and ventilation requirements determine whether thermal fogging fits. Specialist application, HVAC work and remaining physical fire restoration are separately assigned.",
+    "checklist": [
+      "Share the proposed thermal-fogging product and equipment.",
+      "Identify occupied areas, pets and sensitive contents.",
+      "Provide source-cleaning findings and the planned ventilation route."
+    ]
+  },
+  "toilet-overflow-cleanup/italy": {
+    "intro": "Toilet overflow cleanup in Italy can require coordination with a plumber’s water-jetting operation when deposits in a drain need more than a temporary opening through the blockage. Jetting introduces water while the building already has a contaminated spill. We will keep the plumbing operation and room recovery coordinated so another discharge does not rewet treated material.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Italy: establish the permitted drain-cleaning operation",
+        "text": "The plumbing provider identifies the obstruction, pipe condition and suitable access before selecting jetting. Chemicals already introduced and any damaged or uncertain pipe remain part of that provider’s evaluation. Restoration personnel do not improvise pressure, nozzle selection or access through an unstable fixture connection."
+      },
+      {
+        "title": "Keep the jetting return controlled while recovering the room",
+        "text": "The plumber controls the hose and pressure under the equipment requirements, with the nozzle retained within the drain during operation. The work arrangement accounts for water and material returning at the service opening. Restoration collects reachable room wastewater through its assigned waste route and keeps the active plumbing area separate from surfaces already treated."
+      },
+      {
+        "title": "Finish the room after the drain operation is released",
+        "text": "The plumber determines whether the drain has received its required cleaning and flow checks before fixture return. Contacted unsuitable porous building material is contained for removal, while suitable retained surfaces receive physical soil removal and appropriate disinfection. Drying and any floor repair follow those material conditions; a drain passing water does not establish that the overflow footprint is restored."
+      }
+    ],
+    "estimate": "Plumbing access, pipe suitability and the active cleaning-water arrangement affect sequencing. Jetting, drain evaluation and fixture service remain plumbing work, separate from building cleanup and repair.",
+    "checklist": [
+      "Share the plumber’s obstruction and pipe-condition findings.",
+      "Identify the planned jetting access and any drain chemicals used.",
+      "Describe renewed water at the opening or affected room surfaces."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/italy": {
+    "intro": "AC leak water damage cleanup in Italy can involve condensation forming at a cold metal duct where its insulation and exterior vapor jacket no longer function together. Clearing a condensate drain does not correct that surface condition. We will coordinate the HVAC provider’s thermal and vapor-control repair while contacted building material receives its own cleanup and drying.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Italy: confirm where the water forms",
+        "text": "The HVAC provider distinguishes equipment drain overflow from water forming on or within the duct insulation. Duct temperature, surrounding moisture and jacket condition inform that diagnosis. A torn outer facing alone does not establish the source or which wet building layers can remain."
+      },
+      {
+        "title": "Restore the insulation and vapor jacket as separate functions",
+        "text": "The HVAC provider removes unsuitable wet insulation and restores the specified thermal layer without gaps or damaging compression. Its vapor-retarding exterior is made continuous at the required seams, ends and penetrations using the system’s compatible details. Foil tape alone does not replace missing insulation; insulation without its required jacket does not complete the selected moisture-control arrangement."
+      },
+      {
+        "title": "Treat the building and check renewed condensation separately",
+        "text": "Authorized HVAC work exposes included water contacts for collection, removal of unsuitable porous layers and cleaning of suitable retained material. Retained construction is measured through drying while the HVAC provider checks the repaired assembly under its operating conditions. Duct service, room-material readiness and any continued moisture-source work remain separate before the area is enclosed."
+      }
+    ],
+    "estimate": "Confirmed condensation location, insulation eligibility and vapor-jacket continuity affect the sequence. HVAC diagnosis and insulation repair are separately assigned from building treatment and reconstruction.",
+    "checklist": [
+      "Share the HVAC condensation-versus-drain findings.",
+      "Identify duct insulation and jacket products if known.",
+      "Describe wet building materials and earlier insulation or facing repairs."
+    ]
+  },
+  "crawl-space-water-removal/italy": {
+    "intro": "Crawl space water removal in Italy can sometimes use gravity siphoning when an accepted discharge point is genuinely below the collected water surface. The filled hose carries water over its high point and down to that lower destination. We will establish whether that route can work before selecting it, rather than assuming any hose laid outside the access will drain the crawl space.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Italy: establish a usable gravity route",
+        "text": "Safe access, water condition and the permitted receiving route are established first. The provider checks the source water level, hose high point and outlet elevation as one arrangement. An outlet above the source needs an appropriate powered collection method; a siphon does not supply unlimited lift or authorize outdoor disposal."
+      },
+      {
+        "title": "Maintain the continuous liquid path",
+        "text": "Where the assessed route supports siphoning, suitable tubing is filled through an appropriate equipment-assisted preparation method without mouth contact. The intake remains in the water and connections preserve the liquid path, while the outlet is controlled at the accepted receiving location. Air entry, a trapped air pocket or a collapsed hose can interrupt delivery even while water remains."
+      },
+      {
+        "title": "Reassess flow as the water level falls",
+        "text": "Source level and actual outlet delivery are monitored together as collection proceeds. Falling head or an exposed intake can end siphon flow before all reachable water is removed, requiring a suitable residual-water method. The hose is stopped and secured before removal so collected water does not spill back; wet insulation and retained framing still need separate material evaluation and drying."
+      }
+    ],
+    "estimate": "The actual elevation difference, hose route, water condition and receiving destination determine whether siphoning is appropriate. Residual extraction, permanent drainage correction and material drying remain separate tasks.",
+    "checklist": [
+      "Describe the source level and proposed receiving location.",
+      "Share the available hose route and access restrictions.",
+      "Identify water remaining after earlier collection and any continuing entry."
+    ]
+  },
+  "attic-mold-remediation/italy": {
+    "intro": "Attic mold remediation in Italy can need source correction where a leaky recessed light carries moisture-laden indoor air into a cold attic. An accepted air-barrier enclosure can interrupt that path while preserving the fixture’s required heat clearance. We will coordinate that qualified correction with the assessed removal and cleaning, rather than treating another roof vent as the automatic answer.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Italy: evaluate the light and the air-leak path",
+        "text": "Assessment defines the affected roof wood and insulation, while the electrical and building providers evaluate the recessed fixture, wiring, lamp and air leakage. The provider determines whether replacement with an appropriate airtight fixture or a supported enclosure is suitable. The appearance of growth does not establish that a particular light is the only moisture source."
+      },
+      {
+        "title": "Fit an air barrier without trapping fixture heat",
+        "text": "Where an enclosure is appropriate, the qualified provider uses the required fire-rated construction, fixture clearances and heat-dissipation detail. Its perimeter and service penetrations are sealed at the prescribed surfaces, with sealant kept away from the hot fixture. Insulation is arranged around the completed detail as allowed; packing it against an incompatible can or covering the required heat-release area is not air sealing."
+      },
+      {
+        "title": "Complete remediation and check the corrected arrangement",
+        "text": "Under the required controls, the licensed provider removes specified unsuitable affected material and physically cleans suitable retained surfaces, collecting deposits and residue. The building and electrical providers check their corrected air-barrier and fixture arrangement separately from remediation and retained-material drying. Source correction and applicable independent evaluation precede insulation reinstatement, leaving any continuing roof or mechanical moisture issue unresolved until addressed."
+      }
+    ],
+    "estimate": "Fixture type, electrical condition, enclosure eligibility and assessed material reach determine the work. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Electrical replacement, air-barrier work, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment findings and attic moisture-source observations.",
+      "Identify recessed fixture models and prior electrical changes.",
+      "Provide insulation depth and any existing air-sealing proposal."
+    ]
+  },
+  "crawl-space-mold-remediation/italy": {
+    "intro": "Crawl space mold remediation in Italy can involve affected timber at a direct bearing contact with damp masonry. During a separately designed sill repair, the qualified structural provider may restore a capillary break at that contact to interrupt liquid wicking into replacement wood. That source correction has a different task from covering soil or cleaning the accessible timber faces.",
+    "sections": [
+      {
+        "title": "Crawl-space mold remediation in Italy: evaluate the bearing contact",
+        "text": "Assessment identifies included timber and accessible deposits, while the structural provider evaluates the masonry contact, attachments and any damaged bearing material. The work plan determines whether a sill repair provides appropriate access for a protective membrane. Supporting timber is not pried away merely to slide a barrier underneath it."
+      },
+      {
+        "title": "Restore separation within the qualified sill repair",
+        "text": "When included in the repair design, the structural provider installs the specified protective membrane between the masonry and replacement sill before restoring the designed bearing and attachment. The interruption of direct capillary contact limits liquid transfer across that interface. Drainage, plumbing entry and soil evaporation require their own corrections; a sill membrane does not perform those functions."
+      },
+      {
+        "title": "Treat assessed material and verify the repaired interface",
+        "text": "The licensed provider removes specified unsuitable affected material and physically cleans suitable retained surfaces under the required work controls, collecting deposits and treatment residue. The structural provider checks the rebuilt bearing and attachment, while remediation and retained-material moisture findings are evaluated separately. Insulation and coverings return after source correction and applicable independent evaluation, rather than treating the membrane as proof of completed remediation."
+      }
+    ],
+    "estimate": "Bearing condition, qualified repair access, moisture source and assessment findings shape the work. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Structural sill repair, drainage work, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share assessment findings and known timber-to-masonry contacts.",
+      "Provide structural repair or foundation inspection documents.",
+      "Describe plumbing entry, drainage and previous moisture corrections."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/italy": {
+    "intro": "Mold contaminated contents cleaning in Italy can involve a magnetic recording tape that needs controlled cleaning before replay. A fast rewind can damage a distorted reel or move deposits through the playback machine. We will coordinate audiovisual-preservation handling that separates loose contamination collection from guided spooling and the recording’s recovery.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Italy: assess the tape before winding",
+        "text": "The specialist identifies the tape format, reel or cassette condition and any binder or carrier deterioration. Accepted loose deposits are collected under the applicable contamination controls before spooling. A distorted reel or sticking tape receives its stabilization or replacement decision before the recording is forced through a machine."
+      },
+      {
+        "title": "Use the specialist’s guided cleaning path",
+        "text": "For accepted tape, the specialist manages spooling and tension and, where specified, uses a suitable tape-cleaning machine with a soft lint-free cleaning surface. A sharp scraping system intended to strip recorded oxide for tape reuse is not used for preservation of the existing recording. Improvised fast winding or household solvent wiping does not replace the controlled process."
+      },
+      {
+        "title": "Separate clean transport from playback and data recovery",
+        "text": "The specialist checks the carrier and the actual recording through its supported transfer process, with equipment contamination addressed independently. A cleaned cassette shell does not establish that the wound tape was treated or that all recorded information can be recovered. Accepted treated material returns to suitable storage after receiving-area conditions are resolved; no complete recovery or sterilization is promised."
+      }
+    ],
+    "estimate": "Carrier stability, reel condition and controlled cleaning or spooling determine recovery options. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Audiovisual preservation, independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Identify tape formats and valuable recordings.",
+      "Describe reels, sticking or prior playback without rewinding them.",
+      "Share moisture and suspected-growth observations."
+    ]
+  },
+  "fire-damaged-debris-removal/italy": {
+    "intro": "Fire damaged debris removal in Italy may require controlled hoisting when a released heavy fragment cannot be carried through the available route. A qualified lifting provider must secure that irregular load before it leaves its support. We will coordinate the lift with debris collection so a sling does not slip, cut against a sharp edge or pull an attached building member into the waste stream.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Italy: establish the released load",
+        "text": "Site release and the responsible structural provider define which material is detached and ready for collection. The lifting provider establishes the load weight, lifting arrangement, equipment capacity and receiving location. A charred connection or convenient projecting edge is not assumed to be a rated lifting point."
+      },
+      {
+        "title": "Protect the rigging and control the suspended fragment",
+        "text": "The qualified provider uses inspected, appropriately rated rigging and the required protection at sharp load edges. The load is balanced and secured against slipping within the selected arrangement; makeshift shortening or a sudden jerk is not used to free a snag. The lift route and exclusion area are maintained while the fragment is moved, with movement stopped if attachment or balance is unresolved."
+      },
+      {
+        "title": "Land the load before releasing its restraints",
+        "text": "The fragment is placed on the prepared receiving support and made stable before the rigging is released. Broken edges and loose pieces enter the appropriate contained debris route, followed by collection of residue from the former support and landing area. Hoisting does not dismantle an unreleased structural connection or complete soot cleaning of retained building material."
+      }
+    ],
+    "estimate": "Released load weight, shape, sharp edges, lifting access and receiving support determine the handling method. Qualified rigging, structural release and restricted-material disposal are separately assigned.",
+    "checklist": [
+      "Share the released removal boundary and structural restrictions.",
+      "Identify large fragments and available lifting access.",
+      "Describe the receiving area and items that must remain in place."
+    ]
+  },
+  "fire-damaged-contents-cleaning/italy": {
+    "intro": "Fire damaged contents cleaning in Italy can include lightly wet books with uncoated pages that a conservator accepts for supported air drying. Sparse absorbent interleaving can draw water from the page block, while too much added paper can distort the binding. We will coordinate that physical drying arrangement before soot cleaning or routine storage handling proceeds.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Italy: identify books suitable for air drying",
+        "text": "The conservator distinguishes paper coating, media stability, wetness and binding condition before choosing the process. Saturated, adhered, fragile or mold-affected books can need another treatment; glossy coated pages are not assigned the uncoated-paper method. Pages are supported without forcing a stuck block open."
+      },
+      {
+        "title": "Use supported drying with replaceable absorbent interleaving",
+        "text": "For accepted volumes, the conservator directs book support and limited interleaving with suitable absorbent material. Wet interleaving is changed under that process so it continues to take up moisture instead of remaining inside as a saturated layer. The book is not overstuffed or exposed to a concentrated drying jet that distorts or tears the leaves."
+      },
+      {
+        "title": "Separate page drying from soot and binding treatment",
+        "text": "After the supported drying stage, soot cleaning and remaining paper or binding repairs receive their own conservation decisions. Pressing or resetting the binding follows the conservator’s readiness requirements rather than trapping damp interleaving under weight. Accepted dry books return to suitable storage after their treatment and the receiving room’s work are resolved."
+      }
+    ],
+    "estimate": "Paper, wetness, binding strength and supervised interleaving affect whether this process is suitable. Conservation, alternate stabilization and binding repair are separately assigned.",
+    "checklist": [
+      "Identify volumes with uncoated pages and their current wetness.",
+      "Describe soot, bleeding media or stuck pages without separating them.",
+      "Flag valuable or fragile books before packing."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/italy": {
+    "intro": "Fire extinguisher residue cleanup in Italy can require specialist processing of electronic modules reached by dry chemical discharge. An accepted circuit assembly may need disassembly, controlled agitation, rinsing and monitored drying to remove contamination around components. We will keep that technical process separate from wiping the equipment enclosure and cleaning the surrounding room.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Italy: establish the technical recovery decision",
+        "text": "The equipment specialist identifies the agent exposure, circuit construction and manufacturer requirements after the electrical supply and stored energy are addressed. Inspection determines whether an assembly is eligible for treatment or needs replacement. General restoration does not open, wash or operate a controller merely because exterior powder has been collected."
+      },
+      {
+        "title": "Process accepted circuitry through the supported sequence",
+        "text": "For eligible modules, the specialist disassembles the required components and uses a compatible controlled agitation and rinse process. Required monitored drying follows before reassembly; adding heat until the outside feels dry is not a substitute for the accepted process. Sensitive parts or assemblies that cannot tolerate that sequence retain a separate replacement or specialist-treatment decision."
+      },
+      {
+        "title": "Verify contamination removal separately from equipment operation",
+        "text": "The specialist evaluates residual contamination using suitable analytical checks where required, rather than relying only on visual powder removal. Testing, repair and recalibration follow the technical recovery plan before the responsible provider releases the equipment. Room surfaces receive their own agent-compatible collection and cleaning, and that result does not certify a treated electronic module."
+      }
+    ],
+    "estimate": "Circuit construction, agent exposure, disassembly and supported processing determine technical recovery. Electronic restoration, analytical evaluation, repair and equipment release are separately assigned from room cleanup and extinguisher servicing.",
+    "checklist": [
+      "Share the extinguisher label and equipment model.",
+      "Provide manufacturer or equipment-specialist recovery findings.",
+      "Identify earlier cleaning, operation or technical treatment."
+    ]
+  },
+  "emergency-board-up-after-fire/italy": {
+    "intro": "Emergency board up after fire in Italy can need a designed weather-seal joint at a temporary closure whose perimeter cannot simply be overlapped. Where the accepted detail uses sealant, backing controls its depth and keeps it from bonding to the bottom of the gap. We will coordinate that flexible joint with the supported closure instead of treating a deep plug of caulk as its attachment.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Italy: establish a sealable perimeter",
+        "text": "Site release, glass hazards and the panel’s independent attachment are resolved first. The temporary-work provider checks whether the joint faces are sound, accessible and compatible with the chosen sealant system. Charred or crumbling material needs another supported detail; a weather seal cannot hold a loose panel or repair a damaged frame."
+      },
+      {
+        "title": "Back the gap and tool the sealant against its bond faces",
+        "text": "For an approved sealant detail, suitable backing is fitted to control bead depth and prevent adhesion to the joint bottom. The specified sealant is placed and tooled onto the prepared side faces, preserving the intended flexible shape. Filling the entire cavity or bonding all three sides can restrict movement and undermine the joint when the temporary panel moves."
+      },
+      {
+        "title": "Check the seal without closing required paths",
+        "text": "Product-specific cure and adhesion requirements are observed before the weather seal is relied upon. The installer checks perimeter continuity while preserving the designated drainage, ventilation and access details. Later panel removal follows the supported dismantling plan and controlled release of the sealant bond, with permanent opening repair separately assigned."
+      }
+    ],
+    "estimate": "Joint geometry, surface compatibility, backing and cure conditions affect temporary weather protection. Panel support, structural work and permanent envelope repair remain separate.",
+    "checklist": [
+      "Share the damaged opening and proposed temporary closure detail.",
+      "Identify perimeter materials and any retained drainage or ventilation paths.",
+      "Describe inspection access and later panel-removal requirements."
+    ]
+  },
+  "crawl-space-sewage-cleanup/italy": {
+    "intro": "Crawl space sewage cleanup in Italy can use a selected water-activated liquid disinfectant that must finish generating its working solution before application. Adding the packet to water is only the beginning of that preparation. We will complete the product’s prescribed activation process before treating suitable cleaned hard surfaces beneath the building.",
+    "sections": [
+      {
+        "title": "Crawl-space sewage cleanup in Italy: clean the eligible contact surfaces",
+        "text": "Source control and the responsible provider’s entry arrangement precede wastewater and solids collection. Specified unsuitable contacted porous material is removed, while eligible retained hard surfaces receive physical soil removal. The selected liquid product’s current label must support the actual surface and application; its preparation process does not make contaminated insulation or soil recoverable."
+      },
+      {
+        "title": "Complete activation rather than treating with an unfinished mixture",
+        "text": "For an accepted pouch-based formulation, the intact inner pouch is placed in the specified water volume and preparation container. Required agitation and the full activation interval are completed before the solution is dispensed. Cutting the inner pouch, substituting another container or applying the liquid immediately is not used to accelerate a product whose instructions require controlled generation."
+      },
+      {
+        "title": "Apply the activated liquid under its own surface instructions",
+        "text": "The usable liquid is applied with the permitted surface method for the required wet contact period and any specified finish step. A liquid disinfectant pouch is not substituted for a gas-generating room treatment or used to claim disinfection of an unreachable surface. Retained-material moisture checks and drying follow the included treatment, with plumbing and any ground replacement remaining separate."
+      }
+    ],
+    "estimate": "Entry conditions, surface eligibility, activation time and the chosen product’s application requirements determine the process. Restricted-entry work, plumbing and ground treatment are separately assigned. Go Green’s Texas Mold Remediation Contractor license is pending; license-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance remain separate services.",
+    "checklist": [
+      "Share source control and crawl-space entry findings.",
+      "Keep the selected product label and packet information available.",
+      "Identify hard surfaces already cleaned and earlier product preparation."
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-04",
-  "status": "creation_paused_verified_subset_published",
+  "status": "creation_paused_oct18_subset_release_in_progress",
   "automationId": "complete-go-green-dfw-city-expansion",
   "scope": {
     "cities": 206,
@@ -8,16 +8,14 @@
     "mainServiceCityPages": 1030,
     "compactCityPages": 4944
   },
-  "verifiedCompactPassed": 2328,
-  "verifiedCompactRemaining": 2616,
+  "verifiedCompactPassed": 3456,
+  "verifiedCompactRemaining": 1488,
   "qualityRule": "At least60% normalized rendered five-word phrase uniqueness, plus separate editorial usefulness review. No city swapping, spinning, invented evidence or metric exclusions to force passing.",
-  "publication": "Verified subset published October 6 under explicit user authorization; remaining 2808 general-city pages paused until October 13, 4:40 PM America/Chicago.",
+  "publication": "October18 user explicitly authorized1320 additional reviewed pages. Production checks passed; deployment/live verification pending. Creation remains paused.",
   "activeAssignments": [],
   "nextSteps": [
-    "Resume October 13 at4:40PM America/Chicago; no new creation before then.",
-    "Review six Royse City drafts independently, then finish remaining general-city work.",
-    "Preserve expansion-release-manifest.json published allowlists. Extend only after verification; never treat published URLs as leaks in draft isolation checks.",
-    "Production verification scripts now support --mode production. Preview phrase checks and separate editorial review remain required for new drafts."
+    "Verify October18 release live.",
+    "Keep creation and recurring automations paused until user resumes."
   ],
   "cities": [
     {
@@ -801,7 +799,7 @@
       "slug": "hackberry",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -809,7 +807,7 @@
       "slug": "haltom-city",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -817,7 +815,7 @@
       "slug": "haslet",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -825,7 +823,7 @@
       "slug": "hawk-cove",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -833,7 +831,7 @@
       "slug": "heath",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -841,7 +839,7 @@
       "slug": "hebron",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -849,7 +847,7 @@
       "slug": "hickory-creek",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -857,7 +855,7 @@
       "slug": "highland-park",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -865,7 +863,7 @@
       "slug": "highland-village",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -873,7 +871,7 @@
       "slug": "hudson-oaks",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -881,7 +879,7 @@
       "slug": "hutchins",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -889,7 +887,7 @@
       "slug": "italy",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -897,7 +895,7 @@
       "slug": "josephine",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -905,7 +903,7 @@
       "slug": "joshua",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -913,7 +911,7 @@
       "slug": "justin",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -921,7 +919,7 @@
       "slug": "kaufman",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -929,7 +927,7 @@
       "slug": "keene",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -937,7 +935,7 @@
       "slug": "kemp",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -945,7 +943,7 @@
       "slug": "kennedale",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -953,7 +951,7 @@
       "slug": "krugerville",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -961,7 +959,7 @@
       "slug": "krum",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -969,7 +967,7 @@
       "slug": "lake-bridgeport",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -977,7 +975,7 @@
       "slug": "lake-dallas",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -985,7 +983,7 @@
       "slug": "lake-worth",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -993,7 +991,7 @@
       "slug": "lakeside",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1001,7 +999,7 @@
       "slug": "lakewood-village",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1009,7 +1007,7 @@
       "slug": "lancaster",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1017,7 +1015,7 @@
       "slug": "lavon",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1025,7 +1023,7 @@
       "slug": "little-elm",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1033,7 +1031,7 @@
       "slug": "lone-oak",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1041,7 +1039,7 @@
       "slug": "lowry-crossing",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1049,7 +1047,7 @@
       "slug": "lucas",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1057,7 +1055,7 @@
       "slug": "mabank",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1065,7 +1063,7 @@
       "slug": "maypearl",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1073,7 +1071,7 @@
       "slug": "mclendon-chisholm",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1081,7 +1079,7 @@
       "slug": "melissa",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1089,7 +1087,7 @@
       "slug": "midlothian",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1097,7 +1095,7 @@
       "slug": "milford",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1105,7 +1103,7 @@
       "slug": "millsap",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1113,7 +1111,7 @@
       "slug": "mineral-wells",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1121,7 +1119,7 @@
       "slug": "mobile-city",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1129,7 +1127,7 @@
       "slug": "murphy",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1137,7 +1135,7 @@
       "slug": "nevada",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1145,7 +1143,7 @@
       "slug": "new-fairview",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1153,7 +1151,7 @@
       "slug": "new-hope",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1161,7 +1159,7 @@
       "slug": "newark",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1169,7 +1167,7 @@
       "slug": "neylandville",
       "hub": "reviewed_draft",
       "mainServices": "five_reviewed_drafts",
-      "compactPassed": 0,
+      "compactPassed": 24,
       "compactTotal": 24
     },
     {
@@ -1407,16 +1405,16 @@
     {
       "city": "Royse City",
       "slug": "royse-city",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Runaway Bay",
       "slug": "runaway-bay",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
@@ -1431,254 +1429,247 @@
     {
       "city": "Saginaw",
       "slug": "saginaw",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Sanctuary",
       "slug": "sanctuary",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Sanger",
       "slug": "sanger",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Sansom Park",
       "slug": "sansom-park",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Scurry",
       "slug": "scurry",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Seagoville",
       "slug": "seagoville",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Seven Points",
       "slug": "seven-points",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Shady Shores",
       "slug": "shady-shores",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Springtown",
       "slug": "springtown",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "St. Paul",
       "slug": "st-paul",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Sunnyvale",
       "slug": "sunnyvale",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Talty",
       "slug": "talty",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Terrell",
       "slug": "terrell",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Trophy Club",
       "slug": "trophy-club",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Union Valley",
       "slug": "union-valley",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "University Park",
       "slug": "university-park",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Van Alstyne",
       "slug": "van-alstyne",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Venus",
       "slug": "venus",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Watauga",
       "slug": "watauga",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Waxahachie",
       "slug": "waxahachie",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Weatherford",
       "slug": "weatherford",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "West Tawakoni",
       "slug": "west-tawakoni",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Westlake",
       "slug": "westlake",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Weston",
       "slug": "weston",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Westover Hills",
       "slug": "westover-hills",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Westworth Village",
       "slug": "westworth-village",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "White Settlement",
       "slug": "white-settlement",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Willow Park",
       "slug": "willow-park",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Wilmer",
       "slug": "wilmer",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     },
     {
       "city": "Wolfe City",
       "slug": "wolfe-city",
-      "hub": "needs_editorial_review",
-      "mainServices": "needs_editorial_review",
+      "hub": "reviewed_draft",
+      "mainServices": "five_reviewed_drafts",
       "compactPassed": 0,
       "compactTotal": 24
     }
   ],
   "completedAwaitingRenderedAudit": {
-    "paths": [
-      "/locations/dfw-metro/royse-city/",
-      "/water-damage-restoration/royse-city/",
-      "/mold-remediation/royse-city/",
-      "/fire-smoke-damage-restoration/royse-city/",
-      "/sewage-backup-cleanup/royse-city/",
-      "/construction-remodeling/royse-city/"
-    ],
-    "note": "Six source drafts preserved, not independently reviewed or published."
+    "paths": [],
+    "note": "Weatherford6 rendered checks complete. Active writer files remain unverified."
   },
   "realEstateKeywordOwners": {
     "paths": [
@@ -1692,7 +1683,13 @@
   "executionMode": "Back-to-back editorial batches with overlapping verification;15-minute recovery schedule, no deliberate hourly wait",
   "throughputMeasurementStartedUTC": "2026-10-05T04:20:52.549456+00:00",
   "throughputNote": "Measure verified pages over completed batches; no finish-date estimate established.",
-  "lastVerification": "Rosser six independently accepted; full core rendered phrase 1044/1236, technical 1044 with zero errors, production isolation 1044 with zero errors. Compact remains 2328. No publication.",
+  "lastVerification": {
+    "checkedAt": "2026-10-18T23:15:18.083895+00:00",
+    "coreVerified": 1236,
+    "compactVerified": 3456,
+    "report": "docs/seo/oct18-release-review.json",
+    "note": "Northlake24 remains unverified even though phrase proxy passes. No expansion creation authorized."
+  },
   "finalDeploymentAuthorization": {
     "date": "2026-10-04",
     "instruction": "User authorized final revision and publication when everything is finished. Root parent task owns final integrated review and deployment. Do not publish partial batches.",
@@ -2266,38 +2263,473 @@
       "scope": "Rosser six after recovery",
       "renderedVerifiedPages": 6,
       "note": "Independent five repair acceptance plus prior construction acceptance; full core phrase/technical/isolation checks passed. No throughput forecast from interrupted repair."
+    },
+    {
+      "checkedAt": "2026-10-13T22:12:01.483198+00:00",
+      "scope": "Royse six substantive repairs and preserved fire",
+      "renderedVerifiedPages": 6,
+      "buildSeconds": 12.7,
+      "note": "Build timing only; not end-to-end authoring throughput or ETA."
+    },
+    {
+      "checkedAt": "2026-10-13T22:27:20.032073+00:00",
+      "scope": "Hackberry24 repaired cohort",
+      "renderedVerifiedPages": 23,
+      "heldPages": 1,
+      "note": "Cabinet new upper-cabinet repair accepted editorially after snapshot; requires next rendered check. No end-to-end ETA inferred."
+    },
+    {
+      "checkedAt": "2026-10-13T22:42:07.156917+00:00",
+      "scope": "RunawayBay6 + Hackberry1 + Haltom24 checkpoint",
+      "renderedVerifiedPages": 12,
+      "heldPages": 19,
+      "note": "All technical checks zeroerrors. Editorial holds override phrase passes; no cost or ETA estimate."
+    },
+    {
+      "checkedAt": "2026-10-13T23:12:19.037967+00:00",
+      "scope": "Haltom19 repair checkpoint",
+      "renderedVerifiedPages": 17,
+      "heldPages": 2,
+      "note": "Independent root usefulnessreview + fullrenderedphrase/technical. No reliable end-to-end repair duration; no ETA extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-13T23:27:09.407821+00:00",
+      "scope": "Saginaw6 + Haltom2 final repairs",
+      "renderedVerifiedPages": 8,
+      "heldPages": 0,
+      "note": "Full rendered comparisons and technical gates, root substantive review; no ETA from partial timing."
+    },
+    {
+      "checkedAt": "2026-10-14T00:12:19.642401+00:00",
+      "scope": "Sanctuary6 + Haslet24 substantive repairs",
+      "renderedVerifiedPages": 30,
+      "heldPages": 0,
+      "note": "Independent root editorial acceptance +fullrendered gates. No reliable end-to-end timing forecast."
+    },
+    {
+      "checkedAt": "2026-10-14T00:57:34.957318+00:00",
+      "scope": "Hawk Cove24 stronger repair review",
+      "renderedVerifiedPages": 23,
+      "heldPages": 1,
+      "note": "Full rendered comparison and technical checks passed; independent semantic cabinet hold overrides phrase score. No end-to-end ETA inferred."
+    },
+    {
+      "checkedAt": "2026-10-14T01:13:17.288966+00:00",
+      "scope": "Sanger6 SansomPark6 HawkCove cabinet",
+      "renderedVerifiedPages": 13,
+      "heldPages": 0,
+      "note": "One link repair required rebuild and technical recheck. Full body phrase scores unchanged; no reliable authoring ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T01:57:44.482204+00:00",
+      "scope": "Scurry6 and Heath23 accepted repairs",
+      "renderedVerifiedPages": 29,
+      "heldPages": 1,
+      "note": "Full rendered corpus and technical checks; semantic foam-access hold overrides phrase pass. No ETA inferred."
+    },
+    {
+      "checkedAt": "2026-10-14T02:12:52.571677+00:00",
+      "scope": "Seagoville6 and Heath1 final repairs",
+      "renderedVerifiedPages": 7,
+      "heldPages": 0,
+      "note": "Full corpus rendered/technical checks; authoring and repair timing not sufficient for reliable ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T03:13:58.577644+00:00",
+      "scope": "SevenPoints6 + Hebron23",
+      "renderedVerifiedPages": 29,
+      "heldPages": 7,
+      "note": "Full rendered checks; six ShadyShores and one Hebroncabinet source holds override technical/phrase passes."
+    },
+    {
+      "checkedAt": "2026-10-14T03:29:43.906209+00:00",
+      "scope": "Hebron final cabinet + Shady Shores six",
+      "renderedVerifiedPages": 7,
+      "heldPages": 0,
+      "note": "Root substantive acceptance and fresh rendered comparison/technical/isolation gates. No end-to-end ETA inferred."
+    },
+    {
+      "checkedAt": "2026-10-14T03:57:38.014171+00:00",
+      "scope": "Hickory Creek24 repaired cohort",
+      "renderedVerifiedPages": 24,
+      "heldPages": 0,
+      "note": "Independent usefulness review, root read, fresh preview and fullcompact phrase/technical checks. No reliable end-to-end ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T04:26:42.042603+00:00",
+      "scope": "Springtown six substantive repairs",
+      "renderedVerifiedPages": 6,
+      "heldPages": 0,
+      "note": "Full core rendered comparisons/technical/production retention-exclusion checks. Variable substantive repair prevents reliable ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T05:42:16.584916+00:00",
+      "scope": "Highland Park24 repaired cohort",
+      "renderedVerifiedPages": 24,
+      "heldPages": 0,
+      "note": "Fresh fullcompact rendered comparison and technical checks after independent and root semantic review. Multiple repair passes; no reliable completion ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T06:26:46.658504+00:00",
+      "scope": "St.Paul six repaired core pages",
+      "renderedVerifiedPages": 6,
+      "heldPages": 0,
+      "note": "Full core rendered phrase/technical/isolation; independent and root usefulness review. No reliable end-to-end ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T07:44:07.252882+00:00",
+      "scope": "Highland Village24 repaired compact cohort",
+      "renderedVerifiedPages": 24,
+      "heldPages": 0,
+      "note": "Fullcompact rendered phrase/technical checks after independent/root usefulness review. Multiple repair passes; no reliable ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T08:14:14.339329+00:00",
+      "cities": [
+        "sunnyvale"
+      ],
+      "scope": "core hub+5main",
+      "renderedVerifiedPages": 6,
+      "heldPages": 0,
+      "note": "Fresh six-page coherent repaired cohort; no source-only completion credit. End-to-end writing/review elapsed not reliably isolated."
+    },
+    {
+      "checkedAt": "2026-10-14T08:59:04.443314+00:00",
+      "cities": [
+        "talty"
+      ],
+      "scope": "core hub+5main",
+      "renderedVerifiedPages": 6,
+      "heldPages": 0,
+      "note": "Full six-record independent/root editorial review and completed-build rendered gates. Preview build12.11seconds; end-to-end writing/repair time not isolated."
+    },
+    {
+      "checkedAt": "2026-10-14T09:01:22.067039+00:00",
+      "cities": [
+        "hudson-oaks"
+      ],
+      "scope": "compact24",
+      "renderedVerifiedPages": 24,
+      "heldPages": 0,
+      "note": "Complete repaired cohort with root fullread and fresh rendered comparison/technical checks. End-to-end elapsed includes asynchronous review and not isolated for ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T09:28:54.629822+00:00",
+      "cities": [
+        "terrell"
+      ],
+      "scope": "core6",
+      "renderedVerifiedPages": 6,
+      "heldPages": 0,
+      "note": "Fullreview and freshgates after2brokenlinks corrected. Rebuild10.96seconds; editorial elapsed not isolated for ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T10:28:54.697929+00:00",
+      "cities": [
+        "trophy-club",
+        "hutchins"
+      ],
+      "scope": "core6+compact24",
+      "renderedVerifiedPages": 30,
+      "heldPages": 0,
+      "note": "Complete30-page repairedcohort; preview12.53seconds, fullphrase/technical checks passed. End-to-end editorial timing not isolated for ETA."
+    },
+    {
+      "checkedAt": "2026-10-14T10:59:51.665033+00:00",
+      "cities": [
+        "union-valley"
+      ],
+      "scope": "core6",
+      "renderedVerifiedPages": 6,
+      "heldPages": 0,
+      "note": "Independent/rootfullreview and completedbuild renderedgates; editorialelapsed notisolated forETA."
+    },
+    {
+      "completedAt": "2026-10-14T11:30:24.986649+00:00",
+      "batch": "university-park-core-6",
+      "verifiedPages": 6,
+      "note": "Verified in this recovery run; timing includes review and integration, not an end-to-end writing throughput estimate."
+    },
+    {
+      "completedAt": "2026-10-14T12:35:42.897680+00:00",
+      "batch": "italy24-van-alstyne6",
+      "verifiedPages": 30,
+      "note": "Final integrated review/build/audits in this run; multi-run drafting and substantive repairs prevent a reliable wall-clock throughput estimate."
+    },
+    {
+      "completedAt": "2026-10-14T13:03:30.112765+00:00",
+      "batch": "venus-core6",
+      "verifiedPages": 6,
+      "note": "Final root review and rendered verification this run; drafting and hard revisions span multiple runs, not reliable completion-ETA throughput."
+    },
+    {
+      "completedAt": "2026-10-14T13:48:26.984912+00:00",
+      "batch": "watauga-core6",
+      "verifiedPages": 6,
+      "note": "Final root review/rendered checks this run; writing and repair span multiple runs, not reliable completion-ETA throughput."
+    },
+    {
+      "completedAt": "2026-10-14T14:20:27.423016+00:00",
+      "batch": "waxahachie-core6",
+      "verifiedPages": 6,
+      "note": "Final rootread/render this run; drafting and revisions span multiple runs, no reliable completion ETA."
+    },
+    {
+      "completedAt": "2026-10-14T14:35:46.500976+00:00",
+      "batch": "josephine-compact24",
+      "verifiedPages": 24,
+      "note": "Final rootread/rendered checks this run; multiple earlier substantive revision runs, not reliable completion-ETA throughput."
+    },
+    {
+      "completedAt": "2026-10-14T14:57:02.745620+00:00",
+      "batch": "weatherford-core6",
+      "verifiedPages": 6,
+      "note": "Final root review and rendered checks this run; multi-run drafting/revisions do not provide reliable completion ETA."
+    },
+    {
+      "completedAt": "2026-10-15T06:30:34.259095+00:00",
+      "batch": "west-tawakoni-core6",
+      "verifiedPages": 6,
+      "note": "Full rootread and renderedgates after independent repairs; usage interruption prevents reliable elapsed throughput."
+    },
+    {
+      "completedAt": "2026-10-15T07:15:19.798695+00:00",
+      "batch": "westlake-core6",
+      "verifiedPages": 6,
+      "note": "Rootfullread and renderedgates after independentfire replacement; no reliable endtoend throughput."
+    },
+    {
+      "completedAt": "2026-10-15T07:50:31.970226+00:00",
+      "batch": "weston-core6",
+      "verifiedPages": 6,
+      "note": "Root fullread and fresh preview/full rendered checks this run. Multi-run hard revision timing prevents reliable completion ETA."
+    },
+    {
+      "completedAt": "2026-10-15T08:16:03.795194+00:00",
+      "batch": "joshua24-westover-hills6",
+      "verifiedPages": 30,
+      "note": "Root final fullread and fresh rendered checks in this run; multi-run substantive repair duration prevents reliable completion ETA."
+    },
+    {
+      "completedAt": "2026-10-15T08:45:14.208033+00:00",
+      "batch": "westworth-village-core6",
+      "verifiedPages": 6,
+      "note": "Root fullread plus fresh rendered checks after independent six replacements; editorial timing spans runs, insufficient reliable ETA."
+    },
+    {
+      "completedAt": "2026-10-15T09:16:19.583461+00:00",
+      "batch": "white-settlement-core6",
+      "verifiedPages": 6,
+      "note": "Rootread, affirmativechecklist edits, rendered checks; six brokenarticlepaths fixed/rebuilt and technical rerun. Multi-run hardrevisions prevent reliable ETA."
+    },
+    {
+      "completedAt": "2026-10-15T09:45:16.616815+00:00",
+      "batch": "willow-park-core6",
+      "verifiedPages": 6,
+      "note": "Root fullread following independent replacements; fresh rendered core gates. Multi-run editorial timing does not support reliable ETA."
+    },
+    {
+      "completedAt": "2026-10-15T10:16:06.284849+00:00",
+      "batch": "justin24-wilmer6",
+      "verifiedPages": 30,
+      "note": "Final root fullread and completecohort build/rendered checks; three estimate paragraphs shortened. Multi-run repairs prevent reliable ETA."
+    },
+    {
+      "completedAt": "2026-10-15T14:30:51.672033+00:00",
+      "batch": "krugerville24",
+      "verifiedPages": 24,
+      "previewBuildSeconds": 16.47,
+      "note": "Drafting and substantive repairs span multiple runs; elapsed writer runtime not continuously measured. Build time is not editorial throughput and does not support completion ETA."
+    },
+    {
+      "completedAt": "2026-10-15T16:00:29.711465+00:00",
+      "batch": "krum24",
+      "verifiedPages": 24,
+      "note": "Source revisions and independent comparisons spanned multiple runs; wall-clock runtime not continuously measured, so no reliable completion ETA."
+    },
+    {
+      "completedAt": "2026-10-15T16:30:41.455946+00:00",
+      "batch": "lake-bridgeport24",
+      "verifiedPages": 24,
+      "previewBuildSeconds": 13.72,
+      "note": "Multirun draft/review; continuous writer elapsed runtime not measured. Buildtime is not editorial throughput; no reliableETA."
+    },
+    {
+      "completedAt": "2026-10-15T17:45:38.772181+00:00",
+      "batch": "lake-dallas24-lake-worth24",
+      "verifiedPages": 48,
+      "note": "Multiple source/review and corpus-repair runs; continuous editorialruntime not measured, no reliableETA. Shared fresh snapshot passes all48."
+    },
+    {
+      "completedAt": "2026-10-15T18:19:41.679904+00:00",
+      "cohort": "Lakeside24",
+      "verifiedPages": 24,
+      "note": "Completed across firstdraft and independent repair runs; build/audit runtime is not editorial throughput or reliable ETA."
+    },
+    {
+      "completedAt": "2026-10-15T19:15:58.981179+00:00",
+      "cohort": "Lakewood Village24",
+      "verifiedPages": 24,
+      "note": "Multiple independent repair rounds, fresh rendered pass plus prior Lakeside regression recovery; no reliable elapsed editorial throughput estimate."
+    },
+    {
+      "completedAt": "2026-10-15T20:00:51.799364+00:00",
+      "cohort": "Lancaster24",
+      "verifiedPages": 24,
+      "note": "Multiple substantive revision rounds; fresh full rendered pass. Build/audit time is not total editorial throughput."
+    },
+    {
+      "completedAt": "2026-10-15T20:45:58.405572+00:00",
+      "cohort": "Lavon24",
+      "verifiedPages": 24,
+      "note": "Full independent rewrite and three targeted repairs; fresh rendered pass and prior regression recovery. No reliable throughput ETA."
+    },
+    {
+      "completedAt": "2026-10-15T21:15:54.601202+00:00",
+      "cohort": "Little Elm24",
+      "verifiedPages": 24,
+      "note": "Full independent rewrite and five targeted corrections; fresh rendered pass with no regressions. No reliable total editorial throughput estimate."
+    },
+    {
+      "completedAt": "2026-10-15T22:33:25.970147+00:00",
+      "cohort": "Lone Oak and Lowry Crossing",
+      "pagesVerified": 48,
+      "note": "Multirun revisions; no reliable elapsed editorial time attributable to this final verification. Build and fresh rendered audit passed; no prior accepted regressions."
+    },
+    {
+      "completedAt": "2026-10-15T23:31:25.770240+00:00",
+      "cohort": "Lucas",
+      "pagesVerified": 24,
+      "restoredPreviouslyVerified": 3,
+      "note": "Multi-run root review and targeted revisions; final rendered audit and technical checks pass. No reliable continuous editorial duration available."
+    },
+    {
+      "completedAt": "2026-10-15T23:46:35.199610+00:00",
+      "cohort": "Mabank",
+      "pagesVerified": 24,
+      "note": "Multi-run independent rewrite and root review; final rendered24/24 62.25\u201374.39 with zero technical errors and no accepted regressions. Continuous editorial duration unavailable."
+    },
+    {
+      "completedAt": "2026-10-16T00:17:08.304962+00:00",
+      "cohort": "Maypearl",
+      "pagesVerified": 24,
+      "note": "Multirun substantive rewrite and root review; final24/24 63.64\u201369.98, zero technical errors, no regressions. Initial ENOSPC recovered and build retried successfully. Continuous editorial duration unavailable."
+    },
+    {
+      "completedAt": "2026-10-16T01:01:50.871834+00:00",
+      "cohort": "McLendon-Chisholm",
+      "pagesVerified": 24,
+      "restoredPreviouslyVerified": 2,
+      "note": "Rootreadall24 plus targeted2repairs; fresh24/24 phrase61.05\u201367.67 and technicalzeroerrors. Separate Melissa draft introduces LoneOakAC regression. Continuous editorial duration unavailable."
+    },
+    {
+      "checkedAt": "2026-10-16T02:04:42.735269+00:00",
+      "cohort": "Melissa/Midlothian handoff integration",
+      "verifiedNewPages": 0,
+      "note": "Completed full Midlothian24 root read, Melissa crawl followup read, isolated build/rendered phrase/technical check. Two phrase failures remain. Multi-turn editorial elapsed time not established; no throughput extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-16T02:34:10.926769+00:00",
+      "cohort": "Melissa/Midlothian/Milford72",
+      "verifiedNewPages": 72,
+      "restoredPriorPages": 1,
+      "note": "Back-to-back integration completed all72 fullread and rendered gates. Editorial work spans prior turns; no total drafting elapsed estimate claimed."
+    },
+    {
+      "checkedAt": "2026-10-16T03:02:32.974356+00:00",
+      "cohort": "Millsap24",
+      "verifiedNewPages": 24,
+      "renderedMin": 64.9,
+      "renderedMax": 71.43,
+      "note": "Root integration began heartbeat03:00:15Z; drafting/review completed across earlierturns. Do not extrapolate full editorial throughput from integration elapsedtime."
+    },
+    {
+      "checkedAt": "2026-10-16T03:32:20.120294+00:00",
+      "cohort": "Mineral Wells24",
+      "verifiedNewPages": 24,
+      "renderedMin": 64.63,
+      "renderedMax": 73.22,
+      "note": "Integration began03:30:15Z heartbeat; drafting and hard review across prior turns not counted as continuous integration time. No end-to-end throughput extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-16T04:02:21.753969+00:00",
+      "cohort": "Mobile City24",
+      "verifiedNewPages": 24,
+      "renderedMin": 62.92,
+      "renderedMax": 73.98,
+      "note": "Integration began04:00:15Z heartbeat; source creation and review spanned prior turns. No end-to-end throughput extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-16T04:32:02.991493+00:00",
+      "cohort": "Murphy24",
+      "verifiedNewPages": 24,
+      "renderedMin": 64.38,
+      "renderedMax": 71.99,
+      "note": "Integration began04:30:15Z heartbeat; source creation and full rewrite/review spanned prior turns. No end-to-end throughput extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-16T05:04:03.973216+00:00",
+      "cohort": "Nevada24",
+      "verifiedNewPages": 24,
+      "renderedMin": 64.4,
+      "renderedMax": 73.41,
+      "note": "Integration began05:00:15Z heartbeat; drafting and independent revisions spanned preceding turns. No end-to-end throughput extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-16T05:32:22.688036+00:00",
+      "cohort": "New Fairview24",
+      "verifiedNewPages": 24,
+      "renderedMin": 60.97,
+      "renderedMax": 69.63,
+      "note": "Integration began05:30:15Z heartbeat; drafting and full independent review spanned preceding turns. No end-to-end throughput extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-16T06:02:11.849452+00:00",
+      "cohort": "New Hope24",
+      "verifiedNewPages": 24,
+      "renderedMin": 64.23,
+      "renderedMax": 71.93,
+      "note": "Integration began06:00:15Z heartbeat; drafting and independent review spanned earlier turns. No end-to-end throughput extrapolation."
+    },
+    {
+      "checkedAt": "2026-10-16T06:47:15.931357+00:00",
+      "cohort": "Newark24",
+      "verifiedNewPages": 24,
+      "renderedMin": 62.33,
+      "renderedMax": 70.23,
+      "note": "Integration began06:45:15Z heartbeat; drafting and comprehensive rewrite spanned prior turns. No end-to-end throughput extrapolation."
     }
   ],
-  "updatedUTC": "2026-10-06T21:51:27.138307+00:00",
+  "updatedUTC": "2026-10-18T23:15:18.083895+00:00",
   "coreEditorial": {
-    "authored": 1050,
-    "hubPhrasePassed": 174,
-    "mainServicePhrasePassed": 870,
-    "remainingEditorial": 192,
+    "authored": 1236,
+    "hubPhrasePassed": 206,
+    "mainServicePhrasePassed": 1030,
+    "remainingEditorial": 0,
     "report": "docs/seo/city-core-copy-review.json",
     "verification": "docs/seo/city-core-verification.json",
     "productionIsolation": "docs/seo/city-core-production-isolation.json",
     "status": "Writer review and root editorial sampling complete for current verified drafts; final integrated semantic/editorial review remains. Counts require rendered phrase, technical and production-isolation agreement. Later source additions remain unverified.",
-    "verifiedDrafts": 1044
+    "verifiedDrafts": 1236,
+    "authoredPendingVerification": 0
   },
   "repairAssignments": [],
-  "verifiedCityHubs": 174,
-  "verifiedMainServiceCityPages": 870,
-  "remainingCityHubs": 32,
-  "remainingMainServiceCityPages": 160,
+  "verifiedCityHubs": 206,
+  "verifiedMainServiceCityPages": 1030,
+  "remainingCityHubs": 0,
+  "remainingMainServiceCityPages": 0,
   "queuedAssignments": [],
   "compactEditorial": {
-    "authored": 2328,
-    "verifiedDrafts": 2328,
+    "authored": 3456,
+    "verifiedDrafts": 3456,
     "authoredPendingVerification": 0,
     "technicalReport": "docs/seo/compact-city-technical-review.json"
   },
   "editorialQualityNote": "No minimum word count. Workers instructed to remove additions made solely to reach 350 words. Such later source revisions require a new rendered snapshot. Phrase scores do not establish semantic distinctness or final release readiness.",
   "executionRecovery": {
-    "checkedAt": "2026-10-06T21:25:07.825358+00:00",
-    "status": "Existing repair agent retry succeeded; Rosser repairs completed and verified. Next exclusive lower-cost Royse City trial dispatched.",
-    "previousInterruption": "Usage-limit agent failure; queued heartbeat ticks did not establish execution.",
-    "eta": "No reliable completion ETA; account still reports ordinary allowance exhausted despite successful retry."
+    "checkedAt": "2026-10-16T07:15:29.331637+00:00",
+    "status": "Neylandville24 fullnearest substantive review/repairs remains active with exclusive millsap_review ownership. No released cohort ready; preserved all24holds and avoided duplicate dispatch/build/detailed polling per efficiency policy. Counts unchanged:compact3432verified,24authoredpending,1512remaining;hubs206/main1030;overall6728/8240;published5432,1296verified awaiting release.",
+    "eta": "No reliable ETA; active substantive review has not been released."
   },
   "efficiencyPolicy": {
     "approvedAt": "2026-10-06T03:06:43.684449+00:00",
@@ -2308,7 +2740,7 @@
       200
     ],
     "scopeUnchanged": true,
-    "handoffStatus": "Both original compact workers stopped after DISH/Farmersville. Lower-cost core_efficient_01 owns its16-city core cohort then96compact pages in Double Oak,Duncanville,Edgecliff Village,Fate.",
+    "handoffStatus": "Oct13: first Hackberry cheap draft handed off; stronger bounded repair and Royse repair active. No duplicate draft dispatch.",
     "qualityObservation": "Second compact cohort41of48failed rendered phrase and caused19priorFate regressions. New lower-cost drafting stopped before writing furtherfiles; strongerhardrepairs underway. No cost-saving claim justified."
   },
   "editorialRejections": {
@@ -2328,15 +2760,40 @@
       "result": "Two rewritten pilots useful and coherent on manual read, still pending rendered verification. Bounded remaining28record Krugerville/Fate rewrite assigned."
     }
   },
-  "editorialHoldPaths": [],
+  "editorialHoldPaths": [
+    "/ac-leak-water-damage-cleanup/northlake/",
+    "/appliance-leak-cleanup/northlake/",
+    "/attic-mold-remediation/northlake/",
+    "/bathroom-mold-removal/northlake/",
+    "/burst-pipe-cleanup/northlake/",
+    "/ceiling-water-damage-cleanup/northlake/",
+    "/crawl-space-mold-remediation/northlake/",
+    "/crawl-space-sewage-cleanup/northlake/",
+    "/crawl-space-water-removal/northlake/",
+    "/emergency-board-up-after-fire/northlake/",
+    "/emergency-water-extraction/northlake/",
+    "/fire-damaged-contents-cleaning/northlake/",
+    "/fire-damaged-debris-removal/northlake/",
+    "/fire-extinguisher-residue-cleanup/northlake/",
+    "/floor-water-damage-cleanup/northlake/",
+    "/kitchen-cabinet-mold-removal/northlake/",
+    "/kitchen-fire-cleanup/northlake/",
+    "/mold-contaminated-contents-cleaning/northlake/",
+    "/mold-remediation-after-water-damage/northlake/",
+    "/mold-removal-behind-drywall/northlake/",
+    "/smoke-damage-cleanup/northlake/",
+    "/storm-water-damage-cleanup/northlake/",
+    "/structural-drying-services/northlake/",
+    "/toilet-overflow-cleanup/northlake/"
+  ],
   "editorialReviewQueue": {
-    "result": "Earlyreview acceptsRosserconstructiononly;5otherrecords genericcompositionholds. Fullrenderdeferreduntilrepair ratherthanpaying forrejectedcohortchecks. Strongerrepair5assigned; lowercostwriter idle."
+    "result": "Rootread all finalJustin5 and Wilmer6; substantive candidates accepted, fresh rendered gates passed for snapshoteligible pages. NewWolfeCity source/phrase not credited. Justin estimates corrected toparagraphlimit."
   },
   "commercialHandoff": {
-    "status": "2060citydrafts verified; source-owned finalrelease pending",
+    "status": "2060 commercial city pages published and live verified October6; no commercial creation remaining.",
     "inventory": "docs/seo/commercial-expansion-full-url-inventory.txt",
     "report": "docs/seo/commercial-expansion-verification-report.md",
-    "pending": "Integrate prepared hub/propertyowner copies, promote only after bothscopes complete and finalreview/liveverification."
+    "pending": "No independent commercial deployment required; preserve published subset."
   },
   "creationResumeAt": "2026-10-13T16:40:00-05:00",
   "releaseManifest": "src/data/expansion-release-manifest.json",
@@ -2350,5 +2807,45 @@
     "commercialCityPages": 2060,
     "report": "docs/seo/verified-subset-release-report.md",
     "liveVerification": "docs/seo/release-live-verification.json"
-  }
+  },
+  "resumedAtUTC": "2026-10-13T21:41:01.371296+00:00",
+  "verificationTooling": {
+    "updatedAt": "2026-10-13T21:59:08.046550+00:00",
+    "change": "Core and compact verifiers support explicit mixed mode using release allowlists; core isolation checks published owners separately from draft exclusion.",
+    "evidence": [
+      "Python compilation passed for three changed scripts.",
+      "Core mixed fixture accepted published/draft split and rejected accidentally indexable draft.",
+      "Compact mixed fixture accepted split and rejected draft sitemap leak.",
+      "Existing production1044 core snapshot isolation recheck: zero errors, /tmp/gogreen-mixed-isolation.json."
+    ],
+    "limitation": "No new full rendered cohort build performed; source work under editorial repair.",
+    "disclosureExtractionFinding": {
+      "checkedAt": "2026-10-16T02:34:10.926769+00:00",
+      "status": "corrected and validated",
+      "implementation": "CompactServicePage.astro omits data-uniqueness only when BOTH exact heading and exact fulltext match compact-audit-disclosures.json; all63 legal blocks remain visible. Substantive changes under the same heading fail closed and remain counted.",
+      "evidence": "scripts/test-compact-disclosure-extraction.py passed216renderedpages/63disclosureblocks, adjacent substantive sections, intro, checklist, estimate, scheduling content and nested/void parser fixture. Independent frozen-corpus analysis3238\u21923240 phrasepasses only Maypearl/Milfordcrawl; final freshbuild includes Milfordrewrite and3240pass, no regressions.",
+      "limitation": "12 mixed substantive paragraphs with appended disclosure remain conservatively counted; no entire mixed section excluded.",
+      "completionAccounting": "Maypearl eligibility restoration is measurement correction, not new editorial creation. Milford remains accepted only after separate full rewrite and review."
+    }
+  },
+  "productionPreservationCheck": {
+    "checkedAt": "2026-10-16T02:34:10.926769+00:00",
+    "build": ".astro/release-isolation-check",
+    "htmlPages": 6251,
+    "heldPathsChecked": 96,
+    "heldRouteOrSitemapLeaks": 0,
+    "note": "Normal production build passed in isolated output; ordinarydist/release manifest untouched. Allheldroutes absent fromHTML/sitemap. No deploy."
+  },
+  "recoveryEvents": [
+    {
+      "at": "2026-10-15T06:14:23.140393+00:00",
+      "event": "Resumed two exclusive editorial review assignments after usage-limit failures; fresh usage availability confirmed.",
+      "verifiedPageGain": 0
+    },
+    {
+      "checkedAt": "2026-10-16T02:34:10.926769+00:00",
+      "event": "PreviewENOSPC recovered",
+      "action": "Removed only ignored generatedHTML outputs commercial-production-check1052,real-estate-production1052,commercial-preview3061; retained reports/screenshots/source/ordinarydist. Fresh preview and isolated production build passed."
+    }
+  ]
 }

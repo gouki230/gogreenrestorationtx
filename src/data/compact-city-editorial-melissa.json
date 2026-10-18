@@ -1,0 +1,582 @@
+{
+  "emergency-water-extraction/melissa": {
+    "intro": "Emergency water extraction in Melissa can leave water in recessed grout lines after a floor tool has cleared the high faces of tile. We will adjust collection to the surface relief and inspect the joints before treating visible pickup as complete.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Melissa: check tool contact against the tile profile",
+        "text": "The water source and electrical conditions are addressed before collection. A textured or uneven tiled floor can admit air beneath a broad extraction head while water stays in lower joints. We select a compatible tool that can recover that water without scraping a vulnerable finish."
+      },
+      {
+        "title": "Work the lower joints as well as the tile faces",
+        "text": "Bulk water is removed first, followed by controlled passes along reachable grout recesses and perimeter corners. Pickup is checked at the actual wet surface instead of inferred from motor noise. Cracked joints or loose tiles are recorded separately where water may have entered the bed beneath."
+      },
+      {
+        "title": "Evaluate the assembly after surface recovery",
+        "text": "Remaining moisture below the tile needs its own investigation and drying or opening decision. We do not cut grout solely to improve a collection pass. The floor installer evaluates failed tile or bonding material while restoration follows the affected substrate where access is justified."
+      }
+    ],
+    "estimate": "Tile relief, grout depth, finish sensitivity and evidence of water below the surface affect the work. Share source details and any pre-existing loose tiles.",
+    "checklist": [
+      "Describe textured tile and recessed joints.",
+      "Identify cracks or loose sections.",
+      "Share the water source and earlier extraction."
+    ]
+  },
+  "burst-pipe-cleanup/melissa": {
+    "intro": "Burst pipe cleanup in Melissa can expose wet insulation tangled around a newly repaired pipe inside an open wall. We will remove unsuitable insulation without pulling on the repair and clear the cavity for the retained framing to dry.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Melissa: protect the repaired connection during removal",
+        "text": "The plumber confirms the repair and any remaining access restrictions. We identify the pipe route through the wet insulation before pulling material from the opening. A loose fitting or unsupported line needs the plumber’s attention rather than being used as an anchor for debris removal."
+      },
+      {
+        "title": "Release wet insulation in manageable sections",
+        "text": "Specified saturated or damaged batts are cut or separated under controlled handling so a long piece does not drag across the fitting. Loose fibers and wet facing are collected from the sill and pipe penetrations. The removal continues to the supported wet boundary rather than stopping at the plumber’s cutout."
+      },
+      {
+        "title": "Dry the cavity with the pipe visible",
+        "text": "Reachable water is recovered and retained wood receives moisture checks and directed drying. Remaining insulation that blocks the wet back face gets an explicit access decision. The repaired connection remains available for its service check before new insulation and board close the cavity."
+      }
+    ],
+    "estimate": "Pipe arrangement, insulation type, wet facing and opening size affect cleanup. Share the plumber’s repair photograph and any sections already emptied.",
+    "checklist": [
+      "Identify the repaired fitting and wall opening.",
+      "Describe wet insulation still around the line.",
+      "Share leak duration and plumbing restrictions."
+    ]
+  },
+  "appliance-leak-cleanup/melissa": {
+    "intro": "Appliance leak cleanup in Melissa can involve wet lint and dust beneath a laundry appliance after a connection leaks. We will collect the water and remove the matted debris so it does not hide the floor condition or remain against the appliance base.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Melissa: arrange equipment movement before reaching underneath",
+        "text": "The appliance provider addresses electrical conditions, connections and any gas or vent restrictions. An appliance is not tilted onto a wet or weakened floor for access. The approved movement exposes the debris without dragging it through the room."
+      },
+      {
+        "title": "Lift wet lint mats before detail pickup",
+        "text": "Reachable water is recovered and saturated lint is gathered into containment rather than brushed into the appliance openings. Remaining loose particles are collected with equipment suited to their condition. The revealed floor perimeter is inspected for wet backing or softened wall finish requiring removal."
+      },
+      {
+        "title": "Dry the footprint and preserve service access",
+        "text": "Suitable retained building surfaces receive cleaning and drying checks before the machine returns. Internal lint, vent cleaning and equipment condition remain with the service provider. Collection beneath the cabinet does not establish that an affected motor or exhaust path is ready for use."
+      }
+    ],
+    "estimate": "Wet debris quantity, connections, movement clearance and floor construction affect cleanup. Share the appliance type and service findings.",
+    "checklist": [
+      "Describe wet lint beneath the appliance.",
+      "Identify leak and connection repair status.",
+      "Note movement and vent-service restrictions."
+    ]
+  },
+  "storm-water-damage-cleanup/melissa": {
+    "intro": "Storm water damage cleanup in Melissa can involve rain-soaked vertical blind slats hanging against a wet window return. We will separate the movable slats from the wall cleanup and inspect their weighted lower pockets before they are rehung.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Melissa: release slats with their connectors protected",
+        "text": "Exterior entry is controlled while the blind construction and attachment are reviewed. Accepted removable slats are supported as clips and lower connecting chains are released. Brittle clips or fabric that tears at the hanger receive a repair decision rather than forced removal."
+      },
+      {
+        "title": "Collect water from the lower pockets and wall edge",
+        "text": "Wet slats are laid out on a protected receiving surface without stacking damp faces together. Accessible weights and pocket contacts are inspected; suitable components receive compatible cleaning, while affected absorbent inserts or damaged fabric may need replacement. Water at the sill and floor is collected and wet wall lining evaluated separately."
+      },
+      {
+        "title": "Return only serviceable and appropriately dried parts",
+        "text": "Accepted slats remain supported during the specified drying method so they are not stretched by their weights. The installer checks hanger condition and the lower connectors before refitting. The exposed wall return must finish its cleanup and drying before the blind conceals it again."
+      }
+    ],
+    "estimate": "Slat material, weighted pockets, clips and the wet wall boundary determine recovery. Share product information and rain-entry findings.",
+    "checklist": [
+      "Identify fabric or rigid vertical slats.",
+      "Describe wet lower pockets and damaged clips.",
+      "Share exterior source-repair status."
+    ]
+  },
+  "structural-drying-services/melissa": {
+    "intro": "Structural drying services in Melissa can require removing settled wet cellulose from the bottom of a wall cavity before retained framing responds to drying. We will inspect the packed insulation rather than aim air only through the empty space above it.",
+    "sections": [
+      {
+        "title": "Structural drying services in Melissa: locate the wet insulation accumulation",
+        "text": "Source correction and moisture checks establish which cavities are involved. An existing opening may reveal an empty upper area while dense wet fill remains against the bottom plate. Necessary material evaluation precedes disturbance, and utilities are identified before access expands."
+      },
+      {
+        "title": "Remove the obstructing fill with controlled collection",
+        "text": "Specified unsuitable insulation is collected using a method appropriate to its moisture and consistency. Compacted clumps at corners and beneath wiring receive separate attention so loose upper fill is not mistaken for complete removal. The exposed plate and framing can then receive directed air movement and dehumidification."
+      },
+      {
+        "title": "Measure the revealed wood before replacement insulation",
+        "text": "Readings at the formerly packed lower cavity are compared over time with the retained construction. Continued wetting or damaged timber needs another source or repair decision. The insulation installer restores the required fill after the material condition supports closure."
+      }
+    ],
+    "estimate": "Fill type, compaction, utility access and the number of wet cavities determine the work. Share photographs of existing openings and prior readings.",
+    "checklist": [
+      "Identify loose-fill wall insulation if known.",
+      "Describe settled wet material at the wall base.",
+      "Share leak repair and drying history."
+    ]
+  },
+  "floor-water-damage-cleanup/melissa": {
+    "intro": "Floor water damage cleanup in Melissa can include a powdery mineral deposit that returns at stone-floor joints as moisture evaporates. We will collect identified surface salts and investigate continuing moisture before another wet cleaning or sealer hides the recurring condition.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Melissa: identify the recurring joint deposit",
+        "text": "The stone specialist evaluates the deposit, floor product and water history before treatment. Loose mineral salts are distinguished from grout breaking apart or a damaged polish. Moisture checks include the joints and accessible supporting layers, because a dry-looking tile face may not represent the bed beneath it."
+      },
+      {
+        "title": "Collect dry salts without dissolving them across the floor",
+        "text": "For an identified loose salt deposit, compatible dry brushing and controlled collection remove the powder from reachable joints and tile edges. Routine wet mopping can dissolve salts and spread them to another drying edge, so it is not used as the first removal step. Any further finish cleaning follows the stone specialist’s compatibility trial, with introduced liquid recovered rather than left to evaporate in place."
+      },
+      {
+        "title": "Recheck the joints before sealing or repointing",
+        "text": "The cleared joints remain available for repeat observation and moisture review. Renewed powder prompts investigation of continuing water movement rather than another coat of sealer. Loose tile or crumbling joint material receives its own repair decision, and the installer sets the preparation and moisture requirements for any replacement grout or finish."
+      }
+    ],
+    "estimate": "Deposit identification, joint condition, accessible substrate and recurrence affect the work. Share photographs showing whether powder returns after earlier cleaning.",
+    "checklist": [
+      "Describe powder returning at the same joints.",
+      "Identify the stone and earlier sealers or cleaners.",
+      "Share leak repair and substrate-moisture findings."
+    ]
+  },
+  "ceiling-water-damage-cleanup/melissa": {
+    "intro": "Ceiling water damage cleanup in Melissa can reveal two drywall sheets fastened directly against each other, with wet paper held at their contact. We will evaluate that compressed interface because room airflow cannot reach it simply by removing a light fixture or opening the room below.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Melissa: confirm the layered ceiling before cutting",
+        "text": "Electrical conditions and the source are addressed before opening. Existing edges establish whether the sheets touch or whether a separate ceiling void exists, as well as their fastening and combined wet weight. Required evaluation of older finishes precedes disturbance, and the room below receives debris protection."
+      },
+      {
+        "title": "Separate wet sheets without dropping both layers",
+        "text": "Approved removal supports the lower sheet while attachments are released. Bonded wet paper may tear away with it, leaving gypsum and facing against the upper sheet that require a further removal decision. We do not force wedges between sagging sheets to create a drying gap. An upper layer that has softened or lost its facing is removed in its own supported stage."
+      },
+      {
+        "title": "Leave sound receiving material for reconstruction",
+        "text": "Exposed framing receives necessary cleaning and monitored drying after unsuitable board and insulation leave. Any upper sheet proposed for retention must have a serviceable exposed face and an achievable drying arrangement. The repair provider restores the specified layered assembly only after those findings are resolved; a fresh lower sheet must not conceal failed paper or wet gypsum."
+      }
+    ],
+    "estimate": "Layer contact, paper adhesion, fastening and combined board weight affect removal. Share existing edge photographs showing whether the sheets touch.",
+    "checklist": [
+      "Describe visible ceiling layers and sagging.",
+      "Identify nearby fixtures.",
+      "Share the leak repair and prior ceiling work."
+    ]
+  },
+  "bathroom-mold-removal/melissa": {
+    "intro": "Bathroom mold removal in Melissa can involve a vanity end panel whose decorative skin has lifted from an affected absorbent core at the tile edge. We will distinguish a cleanable finish from material hidden within the failed bond.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Melissa: inspect the panel edge without peeling it indiscriminately",
+        "text": "The provider uses the assessment and an existing loose edge to identify the panel construction. Cabinet support and plumbing clearance determine whether that end is decorative or part of the load-bearing box. The installer establishes any necessary support before removal."
+      },
+      {
+        "title": "Remove failed core and attached facing together",
+        "text": "Specified unsuitable composite material is contained as it is released, keeping attached decorative skin with the discarded section where practical. Loose fibers at the tile contact are collected before the exposed receiving surface is physically cleaned. A thin new cover over the original swollen core would leave the affected layer in place."
+      },
+      {
+        "title": "Retain finishes only where the bond remains serviceable",
+        "text": "Suitable exposed material receives the prescribed cleaning and drying review. The cabinet provider evaluates sound remaining edges for replacement attachment after moisture correction and applicable independent evaluation. An intact-looking outer skin is not a reason to reuse an affected core."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Panel function, bond failure, tile contact and cabinet support shape the treatment. Share assessment photographs of the lifted edge.",
+    "checklist": [
+      "Identify loose veneer or laminate at the panel base.",
+      "Describe whether the panel supports the cabinet.",
+      "Share the assessment and moisture correction."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/melissa": {
+    "intro": "Kitchen cabinet mold removal in Melissa can involve growth on drawer runners beneath a sink cabinet, including deposits trapped in overlapping slide sections. We will separate hardware recovery from treatment of the drawer and cabinet surfaces.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Melissa: establish whether the runners can be released",
+        "text": "The provider reviews the assessed components and the slide manufacturer’s release arrangement. The drawer is supported before removal so its weight does not tear the runner from the cabinet. Plumbing and retained attachment points remain protected."
+      },
+      {
+        "title": "Reach the sliding contacts or replace unsuitable hardware",
+        "text": "Accepted removable runners are handled within the work controls so deposits do not scatter as sections move. Reachable metal receives compatible physical cleaning, while inaccessible contaminated bearing tracks or absorbent mounting pads may require replacement. Cleaning liquid is not forced into a closed lubricated mechanism to make its exterior appear clean."
+      },
+      {
+        "title": "Treat the mounting faces before refitting storage",
+        "text": "Suitable exposed drawer and cabinet faces receive prescribed treatment; affected porous components are removed as scoped. The installer restores accepted hardware after drying and required independent review, following product requirements for fastening and operation. Drawer movement is checked separately from the remediation result."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Slide construction, bearing access and affected mounting surfaces determine retention. Provide product details and the assessed hardware locations.",
+    "checklist": [
+      "Identify removable runners or closed slide mechanisms.",
+      "Describe affected drawer and cabinet contacts.",
+      "Share assessment and leak-repair findings."
+    ]
+  },
+  "mold-remediation-after-water-damage/melissa": {
+    "intro": "Mold remediation after water damage in Melissa can involve affected drywall paper left stuck to a concrete floor after wet board has collapsed or been removed. We will collect those remnants and treat the exposed slab before another floor finish covers the area.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Melissa: locate the paper remaining after demolition",
+        "text": "The assessment and water history define which remnants and adjacent materials enter the work. A slab that looks mostly bare may still carry thin facing beneath dried gypsum. Required material evaluations are resolved before disturbing unknown adhesive or old flooring found nearby."
+      },
+      {
+        "title": "Release adhered remnants under collection controls",
+        "text": "Loose pieces are contained first, followed by a compatible method for lifting the specified paper and gypsum from the concrete. Any controlled moistening includes pickup of the resulting residue instead of spreading a thin film across the slab. Suitable exposed concrete then receives the prescribed physical cleaning."
+      },
+      {
+        "title": "Review the receiving surface before new covering",
+        "text": "The provider checks edges and shallow depressions for remaining paper, with inaccessible remnants assigned further removal. Slab moisture and the original water source are evaluated separately from deposit removal. Flooring preparation follows completed treatment and applicable independent review."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Remnant adhesion, slab texture, earlier demolition and adjacent floor products affect labor. Share assessment and photographs taken after board removal.",
+    "checklist": [
+      "Identify paper or gypsum stuck to the floor.",
+      "Describe previous removal and water exposure.",
+      "Share the assessment and proposed flooring."
+    ]
+  },
+  "mold-removal-behind-drywall/melissa": {
+    "intro": "Mold removal behind drywall in Melissa can require releasing a shelf cleat that crosses the assessed wall opening. We will arrange unloading and supported removal before cutting the board, leaving the concealed fastening strip available for treatment.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Melissa: unload the shelf before releasing its wall support",
+        "text": "The provider checks the shelf construction and attachment with the installer. Contents and accepted removable shelves leave first, exposing cleat fasteners that may have been hidden along the top. The cleat is not cut loose while it still carries shelving or an attached cabinet."
+      },
+      {
+        "title": "Expose the strip beneath the cleat",
+        "text": "After necessary material evaluations, the approved support is released under the work controls. Included affected drywall trapped behind it is removed along with loose paper around the fastener holes. Suitable revealed timber and the accepted cleat’s reverse receive separate physical cleaning; an affected porous cleat that cannot be recovered is discarded as scoped."
+      },
+      {
+        "title": "Rebuild the support on the completed wall",
+        "text": "The installer determines sound fastening positions and any replacement support after source correction, drying and applicable independent evaluation. The original holes are not reused automatically where the receiving material has been removed or weakened. Shelf loading resumes only after its attachment is restored, separately from the remediation result."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Cleat length, concealed fasteners, shelf loading and assessed wall extent determine access. Share photographs showing how the shelves meet the wall.",
+    "checklist": [
+      "Identify continuous shelf-support strips.",
+      "Describe shelves or cabinets carried by the cleat.",
+      "Share assessment and moisture-source findings."
+    ]
+  },
+  "kitchen-fire-cleanup/melissa": {
+    "intro": "Kitchen fire cleanup in Melissa can involve soot inside the recessed underside of a wall-mounted range hood’s removable light cover. We will separate cleaning of the cover and exposed finish from electrical and internal hood service.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Melissa: have the hood released for safe access",
+        "text": "The appropriate equipment provider establishes electrical isolation and which trim or lens may be removed. Heat-cracked glass or distorted plastic is handled as a replacement item. Cleaning access does not authorize opening wiring compartments or disturbing the duct connection."
+      },
+      {
+        "title": "Collect deposits from the lens seat and trim",
+        "text": "Loose residue is captured before a compatible method is tested on accepted cover surfaces. Greasy soot at the lip is lifted with controlled application and pickup so liquid does not run into the lamp socket. The reverse of a removable cover receives its own cleaning rather than only polishing the room-facing side."
+      },
+      {
+        "title": "Refit accepted parts after the service decision",
+        "text": "Cleaned components are dried and inspected for retained residue or damaged finish. The equipment provider evaluates the lamp fittings, heat effects and operating condition before reassembly and use. Deposits beyond the released cover opening remain part of the separately defined hood-service scope."
+      }
+    ],
+    "estimate": "Cover material, attachment, grease deposits and heat damage determine recovery. Share the hood model and service findings.",
+    "checklist": [
+      "Identify the hood light cover and material.",
+      "Describe soot behind the cover or heat distortion.",
+      "Share electrical and appliance-service status."
+    ]
+  },
+  "smoke-damage-cleanup/melissa": {
+    "intro": "Smoke damage cleanup in Melissa can involve soot on ceiling-fan blades whose upper coating and raw edges tolerate different cleaning contact. We will remove deposits without bending the blades or carrying residue into the motor.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Melissa: support each blade during access",
+        "text": "Electrical isolation and fixture stability are established before handling. The fan is kept stationary while the provider determines whether in-place cleaning gives safe reach or the fixture specialist should release the blades. Thin composite blades are supported close to the work rather than pressed down from their tips."
+      },
+      {
+        "title": "Collect soot across the upper face and edge",
+        "text": "Loose deposits are captured over protected room surfaces before a limited finish trial. Accepted coated faces receive compatible cleaning with controlled moisture, while porous edges receive a separate recovery decision. Repeated wet wiping can damage a blade even if the broad face appears sealed."
+      },
+      {
+        "title": "Keep component condition separate from residue removal",
+        "text": "Warped, swollen or heat-damaged blades go to the fixture provider for replacement evaluation. Blade brackets and reachable surfaces are checked for remaining deposits before accepted components return. The equipment provider handles internal motor contamination and operation; ceiling cleaning is scoped to its own finish."
+      }
+    ],
+    "estimate": "Blade material, upper-face access, ceiling height and fixture condition determine handling. Share the fan model and any prior wiping or wetting.",
+    "checklist": [
+      "Identify blade material if known.",
+      "Describe soot on upper faces and raw edges.",
+      "Share fixture-service restrictions."
+    ]
+  },
+  "toilet-overflow-cleanup/melissa": {
+    "intro": "Toilet overflow cleanup in Melissa can involve wastewater entering the recessed edge of a removable floor access cover. We will recover liquid from the recess and inspect the cover’s reverse without allowing the opening to spread contamination into another space.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Melissa: identify what lies beneath the cover",
+        "text": "The plumber addresses the overflow source while the crew establishes the cover’s purpose, fastening and safe lifting method. A lid over a service void is not treated like a loose floor tile. The contact boundary includes the rim and any water already below it."
+      },
+      {
+        "title": "Recover the recess before releasing the lid",
+        "text": "Accessible wastewater is collected first, with pickup ready at the edge during approved lifting. Contacted absorbent gasket or backing material receives a disposal decision. Suitable retained lid and rim surfaces are physically cleaned before the applicable label-directed disinfection step."
+      },
+      {
+        "title": "Evaluate the exposed void and restore the closure",
+        "text": "Reachable contamination below the lid is assessed for its own collection and material-removal work. A concealed area that cannot be reached needs additional access rather than a clean cover placed over it. Drying and any required service inspection precede replacement seals and secure refitting."
+      }
+    ],
+    "estimate": "Cover weight, seal construction, void access and wastewater below the rim affect cleanup. Share safe photographs and plumbing findings.",
+    "checklist": [
+      "Identify the floor access cover and its purpose.",
+      "Describe wastewater at or below the rim.",
+      "Share overflow source and repair status."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/melissa": {
+    "intro": "AC leak water damage cleanup in Melissa can involve a wet filter frame inside a return opening after condensate escapes nearby. We will coordinate removal of the affected filter with the HVAC provider and clean the revealed building edge without treating the filter change as complete water-damage recovery.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Melissa: have the HVAC provider control the air path",
+        "text": "The equipment provider corrects the condensate fault and establishes operating restrictions before the opening is accessed. Filter size, retention and water contact are identified. A wet disposable filter is handled under the agreed replacement decision rather than left in place during building drying."
+      },
+      {
+        "title": "Collect water and softened frame remnants",
+        "text": "The released filter is supported to keep its weakened cardboard edge from falling into the opening. Reachable liquid and loose remnants are collected from the retaining ledge. Wet drywall or absorbent backing around the opening receives a removal boundary, while internal equipment and duct deposits stay in the HVAC service scope."
+      },
+      {
+        "title": "Dry the receiving edge before a new filter is fitted",
+        "text": "Suitable exposed building material receives cleaning and moisture checks. Bent retainers or a damaged opening need repair so the replacement does not conceal wet scraps or fit incorrectly. The HVAC provider restores the specified filter and determines return to service after its equipment checks."
+      }
+    ],
+    "estimate": "Filter location, retaining detail, wet frame strength and adjoining board condition shape access. Share HVAC findings and the filter arrangement.",
+    "checklist": [
+      "Identify the wet filter and return opening.",
+      "Describe softened cardboard or wet wall edges.",
+      "Share condensate-source correction and operating restrictions."
+    ]
+  },
+  "crawl-space-water-removal/melissa": {
+    "intro": "Crawl space water removal in Melissa can use an accessible foundation vent to reach a nearby pool when the collection hose can be positioned and observed from outside. We will establish that limited reach before choosing the setup and arrange another access method for water beyond it.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Melissa: assess the vent as a temporary equipment opening",
+        "text": "Utilities, water condition and the receiving route are evaluated before the vent is disturbed. The building provider determines whether the grille or screen can be released without damaging masonry or a required assembly. The opening is not enlarged by cutting its lintel or surrounding support."
+      },
+      {
+        "title": "Position a visible pickup and collect without dragging the hose blind",
+        "text": "An appropriate extraction tool is guided to the reachable low point with its location kept observable. Hose protection at the opening prevents abrasion against sharp masonry or metal edges. Collection is checked at the pool, and the tool is repositioned only where the operator can confirm what it contacts. A hose disappearing behind a footing does not establish access to the water beyond it."
+      },
+      {
+        "title": "Recover retained hose water before closing the vent",
+        "text": "At completion, liquid remaining in the collection line is handled through the equipment’s supported recovery procedure before the hose is withdrawn. The vent opening and nearby ground are checked for spilled water or debris. The installer restores the grille and screen, while further underside inspection, drying and source correction remain separately defined."
+      }
+    ],
+    "estimate": "Vent attachment, direct pickup visibility, pool distance and hose routing determine whether this access is useful. Share safe exterior photographs and existing crawl-space inspection findings.",
+    "checklist": [
+      "Identify the accessible foundation vent.",
+      "Describe the visible pool and obstructions beyond it.",
+      "Share water-source, utility and inspection information."
+    ]
+  },
+  "attic-mold-remediation/melissa": {
+    "intro": "Attic mold remediation in Melissa can involve deposits lodged along shallow checks in solid roof timber. We will arrange collection from those recesses as well as the broad face, with the cleaning depth limited by the wood’s condition and actual tool access.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Melissa: examine the grain before selecting the cleaning contact",
+        "text": "The provider reviews the assessed timber from supported access and checks for loose splinters along each included recess. Soft wood, movement or a deep structural split needs a building professional’s decision. A shallow surface check can be treated only where the method reaches its sides without widening the opening."
+      },
+      {
+        "title": "Work along the recess with collection at the release point",
+        "text": "Loose deposits are collected first so they are not packed into the check by the next pass. A compatible detail tool works along the grain while controlled particle collection captures released material at the mouth. The provider changes tool size or working direction where raised fibers snag, rather than forcing a broad pad across the split. Cleaning liquid is not poured into a recess as a substitute for physical access."
+      },
+      {
+        "title": "Inspect the cleaned recess and the surfaces below it",
+        "text": "The recess is examined from a useful angle to distinguish remaining material from a shadow or darkened wood. An assessed depth still holding deposits receives further treatment or a recovery decision before the timber is reported complete. Fallen particles are collected from the protected receiving area, and moisture correction, drying and required independent evaluation remain prerequisites to concealment."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Recess width, raised grain, timber soundness and overhead reach affect detail cleaning. Share assessment photographs that show both the timber face and the checks.",
+    "checklist": [
+      "Identify the assessed checks and surrounding timber.",
+      "Share inspection findings about loose fibers or soft wood.",
+      "Provide moisture-source and access information."
+    ]
+  },
+  "crawl-space-mold-remediation/melissa": {
+    "intro": "Crawl space mold remediation in Melissa can include deposits inside a timber bore after an electrician withdraws the cable that occupied it. We will arrange physical cleaning of the exposed passage and examine its full reachable depth before the cable returns.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Melissa: prepare the emptied passage for cleaning",
+        "text": "The assessment identifies the included timber, and the electrical provider handles isolation and permitted cable withdrawal. The partner checks the exposed bore for trapped insulation fibers, damaged wood and remaining obstructions. Loose fibers are collected at both ends before a cleaning tool enters, so an initial pass does not push a plug of debris farther into the hole."
+      },
+      {
+        "title": "Work around the curved interior with controlled collection",
+        "text": "A compatible detail brush or other specified tool is selected to contact the wood inside the existing diameter. The provider works from the accessible ends, collecting released particles at the receiving mouth and changing the approach to reach the upper and lower interior surfaces. The work removes deposits from the wood rather than cutting a larger passage with a drill. Splintering or a depth that the method cannot reach stops that approach and prompts a different material-recovery decision."
+      },
+      {
+        "title": "Examine the passage while both ends remain open",
+        "text": "Lighting and direct inspection from the available ends help reveal fibers or deposits left against the curved surface. The partner distinguishes a length reached by the tool from a dark interior that was never available to the tool, with further treatment assigned where needed. Remaining moisture and any required independent review are resolved while the hole is empty. The electrician then evaluates cable protection and restores the circuit, keeping its operating checks separate from the timber-cleaning result."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Bore diameter, joist thickness, remaining fibers and permitted cable withdrawal determine access. Share the assessment and the electrician’s findings before any connection is disturbed.",
+    "checklist": [
+      "Identify the assessed bores and timber thickness if known.",
+      "Share electrical access and cable-restoration requirements.",
+      "Provide moisture-source correction and assessment photographs."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/melissa": {
+    "intro": "Mold contaminated contents cleaning in Melissa can involve coated wire baskets with deposits at welded crossings and beneath removable shelf liners. We will evaluate the coating and junctions before choosing cleaning or replacement.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Melissa: remove the liner and inspect the wire coating",
+        "text": "The provider separates the liner under the handling controls and determines whether it is recoverable or unsuitable porous material. Wire intersections, cut ends and broken coating receive close inspection. Rust beneath a lifting coating changes the recovery decision even where the outer wires still look smooth."
+      },
+      {
+        "title": "Reach both sides of each included crossing",
+        "text": "Accepted baskets are supported and turned so physical cleaning reaches the undersides of the welded junctions. A small compatible tool and controlled collection address deposits caught between adjacent wires. Peeling coatings or narrow contacts that cannot be adequately treated receive a repair, specialist or disposal decision rather than a heavier surface application."
+      },
+      {
+        "title": "Dry junctions before replacing any liner",
+        "text": "Remaining cleaning moisture is collected from reachable crossings and accepted baskets are appropriately dried. The provider checks the underside while it is still visible. Clean liners and a dry receiving shelf are used only after the basket and its storage moisture problem have been addressed."
+      },
+      {
+        "title": "Provider and independent evaluation",
+        "text": "Go Green’s own Texas Mold Remediation Contractor license remains pending. Before license-required work begins, we will verify the partner’s applicable contractor and company credentials, identify the performing provider and confirm its scope. Independent assessment and any required clearance are separate services."
+      }
+    ],
+    "estimate": "Wire spacing, coating stability, liner material and corrosion affect recovery. Share underside photographs and storage history.",
+    "checklist": [
+      "Identify coated wire and removable liners.",
+      "Describe lifting coating or rusty crossings.",
+      "Share assessment and damp-storage findings."
+    ]
+  },
+  "fire-damaged-debris-removal/melissa": {
+    "intro": "Fire damaged debris removal in Melissa can involve a burned freestanding cabinet whose drawers still hold property and whose thin back no longer braces the frame. We will unload and support the assembly before taking it apart for disposal.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Melissa: remove the stored load before weakening the frame",
+        "text": "Released access and the authorized disposal boundary are confirmed first. Retained belongings are separated from debris, with damaged drawers supported from beneath during removal. A drawer that cannot be safely pulled receives a controlled access plan instead of being yanked through a weakened face frame."
+      },
+      {
+        "title": "Brace the remaining box for sectional dismantling",
+        "text": "Temporary support keeps approved cabinet sections from folding as the top or back is released. Attachments are worked in a sequence suited to the actual construction. Sharp fasteners and fragile charred edges are contained with each section so the carrying route is not littered with falling fragments."
+      },
+      {
+        "title": "Collect the footprint after the large pieces leave",
+        "text": "Loose debris beneath the former cabinet is recovered before separate soot cleaning and floor assessment. Parts identified for retention remain grouped away from the waste load. Replacement cabinetry and repairs to the building are based on the exposed condition after removal."
+      }
+    ],
+    "estimate": "Cabinet stability, loaded drawers, attachments and the carrying route determine handling. Share disposal approval and any contents that must be saved.",
+    "checklist": [
+      "Identify drawers that still contain property.",
+      "Describe loose backs or unstable cabinet sides.",
+      "List stairs and narrow carrying points."
+    ]
+  },
+  "fire-damaged-contents-cleaning/melissa": {
+    "intro": "Fire damaged contents cleaning in Melissa can involve a tabletop radio whose fabric speaker grille holds soot over a delicate speaker cone. We will establish whether the cover can be treated separately before cleaning can push residue into the speaker.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Melissa: have the electronics provider determine cover access",
+        "text": "The radio remains disconnected while the specialist evaluates heat and water exposure. A removable grille assembly differs from fabric bonded directly to the cabinet. Electrical access and any internal disassembly stay with the equipment provider, with fragile or valuable pieces referred for appropriate conservation."
+      },
+      {
+        "title": "Treat an accepted detached cover with support",
+        "text": "A recoverable grille is supported so light particle collection does not stretch its cloth or press it into the cone. The frame and fabric receive separate compatibility decisions, and weakened fabric or deeply affected bonded layers may require replacement. The cabinet’s accepted exterior is cleaned with controlled pickup that keeps liquid out of openings."
+      },
+      {
+        "title": "Return the cover after both treatment paths are resolved",
+        "text": "The cover is dried as appropriate and checked for remaining deposits before it is refitted. An unresolved interior soot load or damaged speaker remains an electronics-service task even if the cabinet looks improved. Operating release follows that provider’s findings, separate from exterior cleaning."
+      }
+    ],
+    "estimate": "Grille attachment, fabric strength, heat exposure and specialist access affect recovery. Share the model and any known earlier repairs.",
+    "checklist": [
+      "Identify cloth or rigid speaker covers.",
+      "Describe soot behind the grille and water exposure.",
+      "Share electronics inspection findings."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/melissa": {
+    "intro": "Fire extinguisher residue cleanup in Melissa can involve discharge lodged beneath the dividers of an adjustable drawer organizer. We will identify the agent and expose the divider slots so replacing utensils does not conceal remaining deposits.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Melissa: empty the organizer without tipping powder into the drawer",
+        "text": "Agent information and material compatibility guide the method. Contents receive their own food-contact or disposal decisions before the organizer is moved. For suitable dry residue, accessible loose deposits are collected while the tray remains supported and level."
+      },
+      {
+        "title": "Release removable dividers and detail the slots",
+        "text": "Accepted removable pieces are lifted over the protected work surface. Compatible tools collect deposits from slot ends, overlapping tabs and the tray underside before any permitted damp cleaning. Glued partitions or cracked absorbent inserts that cannot be adequately cleaned receive a replacement decision."
+      },
+      {
+        "title": "Inspect the tray and drawer as separate surfaces",
+        "text": "The drawer base is cleaned and checked after the tray leaves. Accepted organizer parts are appropriately dried before reassembly, with slots inspected while they remain open. Food-contact use of the tray and stored items follows the agent and material guidance rather than appearance alone."
+      }
+    ],
+    "estimate": "Agent type, divider attachment, slot depth and tray material affect recovery. Share the extinguisher label and organizer construction.",
+    "checklist": [
+      "Identify removable dividers and concealed slots.",
+      "Provide the discharge agent information.",
+      "Describe utensils or food-contact items stored there."
+    ]
+  },
+  "emergency-board-up-after-fire/melissa": {
+    "intro": "Emergency board up after fire in Melissa can involve a broken window beneath a deep exterior awning that prevents a full panel from being positioned from outside. We will establish a supported installation route before fitting the temporary cover.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Melissa: measure both the opening and the route into position",
+        "text": "Site release, glazing hazards and required exits are resolved first. The installer checks the gap beneath the awning and interior access to sound attachment material. The awning is evaluated as an obstruction, not assumed to be a platform or fastening support."
+      },
+      {
+        "title": "Fit supported sections where one sheet cannot pass",
+        "text": "If the opening requires a divided temporary cover, its panel joints receive an appropriate supported attachment rather than an unsupported edge-to-edge meeting. Each section is secured to the identified sound receiving construction. The sequence preserves safe working access until the final section is attached."
+      },
+      {
+        "title": "Check concealed upper edges and the panel joint",
+        "text": "The installer verifies fastening and coverage at the top and joined edges before the opening is released from the work area. Any unreachable edge calls for revised access. Permanent glazing, awning repairs and occupancy decisions remain separately assigned."
+      }
+    ],
+    "estimate": "Awning clearance, opening size, interior reach and receiving-frame condition determine the panel layout. Share safe views showing the entire obstruction.",
+    "checklist": [
+      "Identify the awning and available clearance.",
+      "Describe access from inside the room.",
+      "Share site-release and required-exit restrictions."
+    ]
+  },
+  "crawl-space-sewage-cleanup/melissa": {
+    "intro": "Crawl space sewage cleanup in Melissa can involve wastewater carried into absorbent debris left on the crawl-space ground, including wood scraps and discarded insulation. We will collect the spill and remove contacted loose waste before cleaning retained building surfaces.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Melissa: distinguish waste from supports and utilities",
+        "text": "The plumbing source and safe entry conditions are established first. Loose offcuts and discarded batts are identified separately from shims, blocking and attached insulation. A piece beneath a bearing point is not pulled out merely because it resembles construction debris."
+      },
+      {
+        "title": "Recover liquid and package contaminated loose material",
+        "text": "Reachable wastewater is extracted with collection maintained as wet piles are separated. Unsuitable absorbent debris is supported and contained rather than dragged through cleared ground. The newly uncovered surface is checked for further liquid or affected ground material that needs its own removal boundary."
+      },
+      {
+        "title": "Clean retained surfaces after the waste leaves",
+        "text": "Suitable contacted hard surfaces receive physical soil removal before the specified disinfection. Reachable framing is evaluated for contamination and drying, with damaged or unsuitable attached insulation handled under its defined scope. Replacement ground cover follows the underlying cleanup instead of covering contaminated scraps."
+      }
+    ],
+    "estimate": "Debris quantity, material saturation, crawl clearance and the exposed ground condition affect labor. Share plumbing findings and existing inspection photographs.",
+    "checklist": [
+      "Identify loose scraps or discarded insulation.",
+      "Describe wastewater spread and source repair.",
+      "Share support and utility restrictions."
+    ]
+  }
+}

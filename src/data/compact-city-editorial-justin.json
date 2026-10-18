@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/justin": {
+    "intro": "Emergency water extraction in Justin can slow down when fibers and loose debris collect inside an extractor\u2019s inline filter while water remains on the floor. We will check the recovery path, remove accumulated material and restore effective pickup before continuing the extraction. A running vacuum motor alone does not show how much water is being recovered.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Justin: establish a suitable debris collection path",
+        "text": "The crew identifies the water source, loose material and equipment restrictions before selecting a wet-recovery setup. Large or unsuitable objects are collected separately; an inline filter is used only for material accepted by that system. The tool, filter housing and recovery unit remain accessible along a protected hose route, with an approved destination for liquid and collected waste."
+      },
+      {
+        "title": "Restore airflow through the filter without bypassing it",
+        "text": "Where a supported bag-filter system is selected, the crew stops collection to inspect a loaded bag, its seating and the housing seal. Accumulated debris is contained, the bag is cleaned or replaced as specified, and a torn bag or failed seal is corrected before reassembly. Removing the bag to obtain stronger suction would send its retained debris into the recovery system. The crew checks renewed pickup at the tool after the housing is closed."
+      },
+      {
+        "title": "Finish floor recovery and account for the retained debris",
+        "text": "Filter solids and equipment rinse water are collected for the accepted disposal route. This filtration protects the recovery process; it does not disinfect the water or authorize discharge into a storm drain. After accessible liquid is recovered, wet carpet, cushion and concealed floor layers receive their own retention, opening and drying decisions. Persistent poor pickup after filter service requires another equipment check rather than an assumption that the room is dry."
+      }
+    ],
+    "estimate": "Water condition, debris load, filter servicing and access to covered floor layers affect the extraction scope. Equipment filtration, waste handling and subsequent building drying are distinct parts of the response.",
+    "checklist": [
+      "Describe the water source and visible loose material.",
+      "Report whether pickup weakened while standing water remained.",
+      "Identify affected floor coverings and any extraction already attempted."
+    ]
+  },
+  "burst-pipe-cleanup/justin": {
+    "intro": "Burst pipe cleanup in Justin can accompany a plumber\u2019s external repair clamp on a pipe with an eligible localized split or hole. That repair surrounds the damaged pipe instead of replacing it with a new joint. We will recover released water and keep the exposed area available for the plumber\u2019s leak check before drying and wall repair proceed.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Justin: separate pipe eligibility from the wet-material boundary",
+        "text": "The plumber controls the supply and determines whether the pipe material, outside diameter, damage length and service conditions suit a listed repair clamp. A separated pipe or damaged joint is not automatically eligible for this method. Meanwhile, restoration collects reachable water and checks the wall base, cabinet or floor along the actual release path; the clamp\u2019s length does not define the water-damage boundary."
+      },
+      {
+        "title": "Seat the clamp gasket over the eligible damaged section",
+        "text": "The plumber prepares the pipe surface, marks the damage location and positions the clamp so its gasket covers the accepted repair area. Debris beneath the gasket or a folded gasket edge can prevent proper contact. The specified tightening sequence brings the clamp around the pipe evenly, using the manufacturer\u2019s torque requirements. A repair clamp does not serve as a coupling between disconnected pipe ends."
+      },
+      {
+        "title": "Complete the leak check while restoration access remains open",
+        "text": "The plumbing provider performs the required pressure or leak check and resolves any continuing release. Restoration contains specified unsuitable wet porous material, cleans suitable retained surfaces and monitors their drying. If further pipe replacement is needed, the remaining opening is coordinated before new board or cabinet panels conceal access. A successful clamp test establishes the checked pipe repair, not the condition of wet material beyond it."
+      }
+    ],
+    "estimate": "Pipe eligibility, access around its circumference and the extent of released water affect sequencing. Clamp selection, installation and testing are plumbing work; extraction, material drying and reconstruction are separately scoped.",
+    "checklist": [
+      "Share the plumber\u2019s pipe identification and repair proposal.",
+      "Describe where released water traveled and which layers are exposed.",
+      "Identify any pressure-test result or remaining pipe-access requirement."
+    ]
+  },
+  "appliance-leak-cleanup/justin": {
+    "intro": "Appliance leak cleanup in Justin can involve a front-loading washer that has leaked at its lower service opening while water remains inside the tub. Opening the large pump-filter cap can release that remaining water onto a floor already being dried. We will coordinate controlled appliance draining with recovery of the existing spill before filter service or washer movement proceeds.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Justin: separate the floor spill from water still in the washer",
+        "text": "The appliance provider identifies the model and whether its residual-water hose is available and intact. Required power isolation and cooling of hot wash water precede service. Restoration collects reachable floor water and protects the work area while the provider prepares a container arrangement for the water still inside; an empty-looking floor does not make the appliance ready to open."
+      },
+      {
+        "title": "Drain through the supported residual-water hose before releasing the filter",
+        "text": "For a washer with this arrangement, the service provider directs its small drain hose into suitable collection containers and lets the retained water drain before removing the larger filter. The hose remains controlled and protected from kinking or slipping back inside the machine. The provider then removes obstructing lint or objects and cleans the accepted filter and opening under the model instructions. A damaged hose, cap or filter seat receives a repair decision rather than being forced closed."
+      },
+      {
+        "title": "Reassemble the service opening and reach the wetted footprint",
+        "text": "The appliance provider reinstalls the filter and hose cap and performs the appropriate leak and drain checks. Any authorized machine movement exposes the floor footprint for collection and material evaluation. Contacted porous trim or failed underlayment receives a removal decision, while suitable retained surfaces are physically cleaned and monitored through drying. Appliance operation and completion of the floor work are checked separately before the washer is returned to position."
+      }
+    ],
+    "estimate": "Retained tub water, service-hose condition, washer movement and wet floor layers determine the sequence. Appliance draining and filter repair are assigned to the service provider; building cleanup, drying and replacement finishes are separately described.",
+    "checklist": [
+      "Identify the washer model and whether water remains in its tub.",
+      "Describe leakage at the lower service cover and any recent filter cleaning.",
+      "Share appliance-service findings and the floor materials reached by water."
+    ]
+  },
+  "storm-water-damage-cleanup/justin": {
+    "intro": "Storm water damage cleanup in Justin can involve a wall where damaged vinyl siding must be released to reach rain-wetted material behind it. Closing the loose panel does not establish the condition of the wall beneath. We will coordinate controlled siding removal with treatment of the exposed building layers and the exterior provider\u2019s repair.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Justin: open the interlocked panel without tearing adjacent courses",
+        "text": "After safe exterior access is established, the siding provider uses the appropriate unlocking tool to release the course above the damaged panel. Its fasteners can then be removed and the affected piece withdrawn without simply pulling through the interlock. The opening exposes the water-resistive barrier and supporting wall for evaluation; vinyl siding itself is not that barrier."
+      },
+      {
+        "title": "Treat the exposed wall before a replacement panel conceals it",
+        "text": "The envelope provider evaluates the underlying barrier, flashing and damaged sheathing and establishes the required repair. Restoration removes specified unsuitable wet layers through the authorized access and cleans and dries suitable retained material. An interior stain may correspond to a longer concealed wet path, so observations from the exterior opening and the room side are compared before either side is closed."
+      },
+      {
+        "title": "Re-engage the siding while allowing its required movement",
+        "text": "Once the underlying work is ready, the siding provider installs the compatible replacement panel and relocks the upper course along its length. Fasteners are positioned in the specified slots with the required clearance so the panel can expand and contract; driving them tight against the hem can restrain that movement. Reinstalled siding, corrected water-control layers and dried interior materials retain separate completion checks."
+      }
+    ],
+    "estimate": "Panel interlock condition, exterior access and the wall layers exposed affect the scope. Siding and envelope repair are assigned separately from interior extraction, cleaning, drying and finish replacement.",
+    "checklist": [
+      "Describe damaged or detached siding without climbing to inspect it.",
+      "Share exterior-provider findings and temporary protection already installed.",
+      "Identify corresponding interior stains, wet trim or existing wall openings."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/justin": {
+    "intro": "AC leak water damage cleanup in Justin may follow an overflowing condensate pan even though a float cutoff is installed. A stuck float or incorrectly positioned switch can fail to stop cooling before water escapes. We will coordinate HVAC correction with recovery of water from the ceiling, platform or floor.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Justin: inspect the overflow cutoff",
+        "text": "The HVAC provider isolates power and examines the installed switch, float and fitting for debris, restricted movement or damage. The provider also diagnoses the drain fault that caused water to rise. Servicing an overflow control does not clear a blocked drain or repair a leaking pan."
+      },
+      {
+        "title": "Restore free float movement and the specified mounting position",
+        "text": "For a serviceable assembly, the HVAC provider removes the accessible switch cap and cleans the float, stem and fitting under its instructions. The float must move freely without interference from connected pipe. The provider corrects the mounting position or replaces unsuitable components and verifies the electrical connection for that equipment; the cutoff is not bypassed to keep cooling running."
+      },
+      {
+        "title": "Test shutdown before another pan overflow",
+        "text": "The provider performs the manufacturer\u2019s functional checks. On a system requiring both checks, lifting the float verifies shutdown, while a controlled water-level test confirms that the mounted switch trips before the pan spills. Restoration extracts escaped water, removes specified unsuitable wet layers and dries suitable retained construction; successful switch operation does not establish that those materials are dry."
+      }
+    ],
+    "estimate": "Installed control type, access, drain condition and affected building layers determine scope. HVAC diagnosis, switch service and operating tests are separately assigned from water extraction and material drying.",
+    "checklist": [
+      "Report whether cooling continued while water overflowed.",
+      "Provide the equipment model and any prior cutoff or drain work.",
+      "Identify wet ceiling, platform, insulation or floor areas."
+    ]
+  },
+  "bathroom-mold-removal/justin": {
+    "intro": "Bathroom mold removal in Justin can include moisture-source correction when dust has accumulated inside a bathroom exhaust fan and its blower needs service. Cleaning the visible grille alone leaves the internal assembly untouched. We will coordinate fan service with treatment of affected ceiling or wall materials.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Justin: distinguish fan service from surface treatment",
+        "text": "The ventilation specialist identifies the fan model and examines the grille, housing and blower after isolating power. Debris loading, damaged components and a disconnected exhaust route require different corrections. The remediation provider separately establishes which bathroom materials need removal or physical cleaning under the authorized plan."
+      },
+      {
+        "title": "Remove accumulated dust and repair the supported blower assembly",
+        "text": "The specialist uses the manufacturer\u2019s access method to remove the grille and, where supported, release the blower assembly. A vacuum with a dusting brush collects deposits inside the housing. Damaged housing or electrical receptacles require repair before reassembly; unusual bearing noise can require the exact replacement motor and impeller rather than oiling a permanently lubricated motor."
+      },
+      {
+        "title": "Secure the assembly and complete the material treatment",
+        "text": "Replacement parts must match the existing housing. The specialist fully seats the specified retaining tabs or fasteners, reinstalls the grille and checks operation and the outdoor exhaust route. Separately, remediation removes specified unsuitable porous layers and cleans suitable retained surfaces; drying and any independent evaluation precede refinishing."
+      }
+    ],
+    "estimate": "Fan compatibility, housing condition and affected bathroom layers determine the work; Electrical or ventilation repair is separately assigned from remediation. Go Green Restoration TX Inc\u2019s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner only after that provider\u2019s credentials and scope are confirmed; the provider and work scope are identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Describe fan noise, weak exhaust and previous cleaning.",
+      "Provide the fan model if available without opening the equipment.",
+      "Share assessment findings and affected ceiling or wall locations."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/justin": {
+    "intro": "Kitchen cabinet mold removal in Justin may follow a leaking undermount sink whose support has loosened or deteriorated. Renewing the rim seal cannot carry a sink that has lost its required support. We will coordinate treatment of affected cabinet material with the installer\u2019s support and resealing work.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Justin: expose the support condition",
+        "text": "The plumber and sink or countertop installer determine how the basin is supported and whether movement has opened the rim joint. They plan any disconnection and removal needed to reach damaged supports without leaving the basin hanging from its seal. The remediation provider identifies affected cabinet layers before new supports conceal them."
+      },
+      {
+        "title": "Rebuild the approved support before resealing the rim",
+        "text": "After specified material treatment and cabinet repair, the installer restores the support required by the sink manufacturer. Where a secured wood frame is specified, it must carry the basin level while leaving clearance for the bowl and faucet connections. The installer cleans the mating rim and countertop surfaces, applies the specified sealant and reinstalls the counter or sink in the required sequence; swollen cabinet board is not reused as a sound attachment base."
+      },
+      {
+        "title": "Check the restored sink and the treated cabinet separately",
+        "text": "The plumber reconnects fixtures and checks for leaks after the required sealant conditions are met. Remediation includes removal of specified unsuitable porous panels and physical cleaning of suitable retained surfaces, with drying and applicable independent evaluation before closure. A stable basin and sealed rim resolve a different part of the job from the cabinet\u2019s treatment."
+      }
+    ],
+    "estimate": "Sink design, counter access, support damage and affected cabinet layers determine scope; Plumbing, support reconstruction and remediation are separately assigned. Go Green Restoration TX Inc\u2019s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner only after that provider\u2019s credentials and scope are confirmed; the provider and work scope are identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Describe sink movement and leakage along the rim.",
+      "Share the sink model and installer\u2019s support findings.",
+      "Identify damaged cabinet rails, side panels or floor panels."
+    ]
+  },
+  "mold-remediation-after-water-damage/justin": {
+    "intro": "Mold remediation after water damage in Justin may follow condensate leakage near a condensing appliance whose neutralizer has restricted flow. The heating provider must establish the actual escape point before treating a white deposit as the cause. Where the supported neutralizer is restricted by mineral precipitate, servicing its media restores a different function from drying the surrounding wall.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Justin: distinguish the drain components",
+        "text": "The heating provider checks the appliance drain, trap, neutralizer and downstream destination to establish the repair scope. The remediation assessment separately defines affected wallboard, insulation and retained framing. A dry appliance exterior does not resolve moisture inside the adjacent building layers, and the neutralizer is not bypassed as a substitute for its required service."
+      },
+      {
+        "title": "Remove deposits from the accepted neutralizer media",
+        "text": "For a supported removable-jar neutralizer serving an aluminum-heat-exchanger boiler, the manufacturer identifies salt coating on the media as a possible flow restriction. With the appliance made ready for service, the qualified provider removes the jar, rinses the media to remove that coating and reinstalls the jar as instructed. Media replacement follows the exact unit\u2019s condition, pH and service requirements; rinsing cannot renew exhausted neutralizing capacity. The provider checks free drainage and the required outlet pH after service, preserving the appliance\u2019s trap and other drain safeguards."
+      },
+      {
+        "title": "Finish physical building treatment before reconstruction",
+        "text": "Under the remediation controls, specified unsuitable porous layers are removed and suitable retained surfaces are physically cleaned, with deposits and waste collected. Retained materials are dried and the source repair remains available for its required checks. Applicable independent evaluation and reconstruction follow their separate requirements; successful neutralizer service does not establish completion inside the wall."
+      }
+    ],
+    "estimate": "Drain-service findings, assessed cavity layers and access determine the scope; heating-system work, reconstruction and independent evaluation are separate. Go Green Restoration TX Inc\u2019s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner only after that provider\u2019s credentials and scope are confirmed; the provider and work scope are identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Provide the appliance and neutralizer identification.",
+      "Share the heating provider\u2019s confirmed leakage and restriction findings.",
+      "Identify opened wall areas and available remediation assessment."
+    ]
+  },
+  "mold-removal-behind-drywall/justin": {
+    "intro": "Mold removal behind drywall in Justin can coincide with replacement of a leaking bathtub waste-and-overflow assembly. Water escaping behind the overflow opening may wet the adjoining wall even when the tub drain appears sound. We will coordinate cavity treatment with a plumber\u2019s repair and testing of the actual overflow connection.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Justin: expose the leaking tub connection",
+        "text": "Assessment defines the affected wallboard, insulation and retained framing. The plumber distinguishes the overflow seal from the drain shoe and connected waste pipe before selecting a compatible repair assembly. Tub-wall thickness and access behind it affect the installation; faceplate appearance alone does not identify the sealing system."
+      },
+      {
+        "title": "Compress the supported overflow gasket at the tub wall",
+        "text": "For an eligible threaded-collar waste-and-overflow system, the plumber positions its specified gasket on the overflow elbow, brings the elbow through the tub opening and tightens the matching lock nut. That assembly compresses the gasket against the tub; the decorative faceplate is fitted afterward. Replacement pipe connections and cure requirements follow the actual kit. Covering the visible trim with caulk does not rebuild a displaced gasket behind the tub."
+      },
+      {
+        "title": "Test above the overflow opening before the wall closes",
+        "text": "Using the system\u2019s prescribed test plugs and procedure, the plumber tests the connections with water above the overflow inlet, then removes the plugs and completes the trim. The remediation provider separately removes specified unsuitable porous layers, physically cleans suitable retained surfaces and collects loosened deposits under the work controls. Drying and applicable independent evaluation precede cavity closure; a low tub-water test does not exercise the overflow seal."
+      }
+    ],
+    "estimate": "Utility location, opening authorization, material findings and project controls determine access and labor; trade isolation and repair are separately assigned. Go Green Restoration TX Inc\u2019s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner only after that provider\u2019s credentials and scope are confirmed; the provider and work scope are identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share the assessment and the plumber\u2019s identified leak location.",
+      "Provide the tub and waste-and-overflow system details if known.",
+      "Keep the repair opening available for plumbing tests and cavity treatment."
+    ]
+  },
+  "attic-mold-remediation/justin": {
+    "intro": "Attic mold remediation in Justin may follow rain entering around a plumbing vent pipe where the rubber flashing seal has deteriorated. If the flashing base remains sound, a compatible replacement rain collar may provide the prescribed secondary seal. We will coordinate that roofing decision with treatment of affected attic wood and insulation.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Justin: identify the failed vent-pipe detail",
+        "text": "The roofer checks the pipe, rubber seal, flashing base and adjoining roof covering to locate the actual entry path. A split pipe seal differs from failed flashing laps or damaged roof decking. The remediation provider separately evaluates affected attic materials and establishes controlled access and treatment from the assessment findings."
+      },
+      {
+        "title": "Seat a compatible rain collar without collapsing its seal",
+        "text": "Where the existing flashing is eligible for this repair, the roofer selects the collar for the actual pipe size. Under the selected system\u2019s instructions, compatible exterior-rated silicone joins the old collar\u2019s top to the replacement\u2019s underside. The replacement slides down the pipe and is pressed into contact without collapsing the seal around it. A collar cannot repair a failed flashing base or substitute for roof-covering repairs."
+      },
+      {
+        "title": "Treat the attic materials reached by the leak",
+        "text": "The roofing provider completes its prescribed repair check, while remediation removes specified unsuitable porous insulation or board and physically cleans suitable retained wood under the work controls. Retained material dries before replacement insulation or finishes conceal it. Independent assessment and applicable clearance remain separate from the roofer\u2019s leak check."
+      }
+    ],
+    "estimate": "Pipe access, flashing condition and the affected attic materials determine scope; Roofing repair and insulation replacement are separately assigned from remediation. Go Green Restoration TX Inc\u2019s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner only after that provider\u2019s credentials and scope are confirmed; the provider and work scope are identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share the roofer\u2019s findings on the pipe seal and flashing base.",
+      "Identify affected attic wood or insulation from existing observations.",
+      "Describe prior collar replacements or roof-sealant work."
+    ]
+  },
+  "crawl-space-mold-remediation/justin": {
+    "intro": "Crawl space mold remediation in Justin can require correcting a clothes-dryer exhaust that releases moisture beneath the floor. Reconnecting it to another loose hose does not establish a supported route outdoors. We will coordinate physical treatment of affected building materials with the qualified provider\u2019s reconstruction of the exhaust path.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Justin: identify the exhaust route and affected materials",
+        "text": "The mechanical provider identifies the dryer type, disconnected or unsuitable duct and intended exterior termination. Assessment separately establishes affected insulation, framing and subfloor under the required entry and work controls. The exhaust plan follows the appliance instructions and applicable requirements, including route length, support and the exterior outlet."
+      },
+      {
+        "title": "Build a smooth, supported duct without lint-catching fasteners",
+        "text": "The installer replaces unsuitable sections with approved smooth metal exhaust duct, orienting joints with airflow and supporting the route without sags. Required connections use the specified clamps or foil tape rather than screws projecting into the passage. An approved hooded backdraft damper terminates the route outdoors without a lint-catching screen, and the wall penetration receives its required weather detail. The dryer connection is fitted without crushing or excessive looping behind the appliance."
+      },
+      {
+        "title": "Complete the exhaust checks and treat the crawl-space materials",
+        "text": "The qualified provider checks the completed exhaust path and required appliance operation before use resumes. The remediation provider removes specified unsuitable porous material and physically cleans suitable retained surfaces, collecting loosened deposits under the work controls. Source correction, retained-material drying and applicable independent evaluation remain separate findings before insulation or other finishes return."
+      }
+    ],
+    "estimate": "Exhaust routing, crawl-space access and assessed material condition determine the scope; qualified duct work and appliance service are separately assigned. Go Green Restoration TX Inc\u2019s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner only after that provider\u2019s credentials and scope are confirmed; the provider and work scope are identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share the dryer model and known exhaust-route problem.",
+      "Identify the exterior outlet and access restrictions.",
+      "Provide assessment findings for insulation, framing and subfloor."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/justin": {
+    "intro": "Mold contaminated contents cleaning in Justin may include a trombone stored in a damp, affected case. An instrument specialist must distinguish accessible metal tubing from cork, padding and case lining before deciding whether recovery is appropriate. Cleaning the bell exterior cannot reach deposits inside a removable slide.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Justin: separate the instrument and case",
+        "text": "The instrument specialist evaluates exposure, finish condition, corrosion and the model\u2019s disassembly limits alongside the contamination-treatment provider. Affected porous lining and accessories receive their own treatment or replacement decisions. The instrument stays out of use while those findings are unresolved; ordinary maintenance instructions alone do not establish that a contaminated instrument is ready to play."
+      },
+      {
+        "title": "Brush the accepted slide passage and remove the wash residue",
+        "text": "Where the specialist accepts the slide for wet cleaning, its model-approved flexible cleaner reaches inside the detached tubing with the prescribed brass-soap solution. For a compatible pull-through cleaner, the guide passes out the other end and alternating pulls bring the brushes against the included inner surfaces. The specialist rinses away released soil and soap, dries the tubing and applies the correct slide lubricant. A stuck guide is withdrawn rather than forced, and a slide-only cleaner is not pushed into an unsupported main-body passage."
+      },
+      {
+        "title": "Resolve internal treatment before the cleaned instrument returns",
+        "text": "The specialist checks slide movement, remaining deposits and any corrosion or component damage requiring further service. Mouthpiece treatment and any internal area beyond the accepted cleaning reach remain explicit parts of that provider\u2019s decision. A replacement case or cleaned exterior cannot substitute for the included internal work, and the receiving storage area must have its moisture problem corrected."
+      }
+    ],
+    "estimate": "Instrument construction, contamination findings and internal access determine recovery; instrument service, case replacement and building remediation are separate scopes. Go Green Restoration TX Inc\u2019s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner only after that provider\u2019s credentials and scope are confirmed; the provider and work scope are identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Provide the instrument model and describe its damp-storage history.",
+      "Identify the affected case lining and accessories without playing the instrument.",
+      "Share the instrument specialist\u2019s findings and proposed internal treatment."
+    ]
+  },
+  "crawl-space-water-removal/justin": {
+    "intro": "Crawl space water removal in Justin may involve a sump pump that hums while the water level stays high. Trapped air can prevent a compatible pump from moving water when its required air-relief opening is missing or obstructed. We will coordinate pump service with recovery of water remaining beneath the floor.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Justin: check the stalled pumping condition",
+        "text": "The pump specialist isolates electrical power and identifies the model, discharge arrangement and required vent provision. A humming motor alone does not establish an air lock: a restricted impeller, blocked discharge or another equipment fault also needs evaluation. Restoration establishes safe access and an alternate collection method where needed while the installed pump remains unavailable."
+      },
+      {
+        "title": "Restore the specified air-relief path",
+        "text": "For a pump installation that requires a discharge-pipe vent below the check valve, the specialist checks whether that opening is present and clear. The model instructions govern its size and position inside the basin, below the cover. An absent or blocked opening receives the supported correction; workers do not drill an arbitrary hole into another pump design or close an intended vent because it releases some water."
+      },
+      {
+        "title": "Confirm transfer and recover isolated pools",
+        "text": "After reassembly, the specialist verifies that the pump moves water through the accepted discharge route. Restoration collects reachable pools outside the basin, removes specified unsuitable wet insulation or debris, and addresses suitable retained wood with cleaning and drying. Persistent high water after vent service requires further diagnosis; pump operation does not establish that the surrounding subfloor is dry."
+      }
+    ],
+    "estimate": "Pump model, vent access, discharge condition and water distribution determine scope. Pump repair and electrical work are separately assigned from standing-water recovery and building-material drying.",
+    "checklist": [
+      "Describe whether the pump hums without lowering the water level.",
+      "Share the model and any recent pump or discharge changes.",
+      "Provide existing crawl-space observations without entering standing water."
+    ]
+  },
+  "crawl-space-sewage-cleanup/justin": {
+    "intro": "Crawl space sewage cleanup in Justin can follow leakage where a smaller drain pipe enters an existing cast-iron hub. For an eligible hub connection, a correctly sized compression donut seals between the pipe and the hub\u2019s inside surface. We will coordinate that plumbing repair with recovery of wastewater and treatment of contacted crawl-space materials.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Justin: identify the receiving hub",
+        "text": "The plumber controls flow, supports the drain and checks the hub for cracks, deposits and unsuitable dimensions. Hub size and pipe outside diameter determine gasket selection; a service-weight and extra-heavy cast-iron hub may need different seals. Restoration establishes safe access and collects reachable wastewater and solids before the repair area is concealed."
+      },
+      {
+        "title": "Seat the selected compression gasket within the hub",
+        "text": "The plumber cleans the receiving bell and follows the selected gasket\u2019s installation method. For a thick-wall donut specified for driven installation, the pipe is first inserted partway through the ring, its outside receives the approved soap solution, and the assembly is driven evenly into the hub with the specified wedge method until seated. This procedure is not applied to a different gasket design; a loose fit requires corrected sizing rather than added exterior caulk."
+      },
+      {
+        "title": "Test the connection and finish the contaminated-material work",
+        "text": "The plumber tests the joint before concealment and confirms the required pipe support. Restoration contains unsuitable sewage-contacted insulation or other porous material for removal, physically cleans suitable retained surfaces and completes appropriate disinfection and drying. Contaminated ground or inaccessible underside contacts receive their own treatment decisions; a sealed pipe does not complete the crawl-space cleanup."
+      }
+    ],
+    "estimate": "Hub condition, fitting dimensions, support access and wastewater distribution determine scope. Drain repair, structural support and any contaminated-ground work are separately assigned from surface cleanup.",
+    "checklist": [
+      "Share pipe and hub measurements or the plumber\u2019s fitting identification.",
+      "Describe continuing wastewater release and isolation status.",
+      "Identify contacted insulation, ground cover and wood from existing observations."
+    ]
+  },
+  "toilet-overflow-cleanup/justin": {
+    "intro": "Toilet overflow cleanup in Justin can include a toilet whose tank keeps feeding the bowl because the flapper cannot close. A drain obstruction and a tank-release fault can coexist. We will coordinate plumbing correction of both conditions with collection and treatment of the overflow in the room.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Justin: stop continuing flow before repair",
+        "text": "The plumber isolates the water and distinguishes drain restriction from a flapper held off its seat, a damaged seal or a fill-valve problem. Restoration collects reachable wastewater and solids through the agreed waste route while the fixture remains unavailable. Repeated flushing is not used to investigate a bowl that still cannot drain."
+      },
+      {
+        "title": "Restore flapper contact and the operating chain",
+        "text": "For a serviceable flapper arrangement, the plumber removes deposits from its mating seat and fits the correct replacement when the flexible seal is worn. Chain length must let the flap close fully without loose links falling into the opening; a chain kept taut can hold an otherwise sound flap open. A cracked or warped valve seat needs valve replacement, and a tower-style flush system requires its own matched seal rather than an improvised flapper."
+      },
+      {
+        "title": "Check closure and treat the overflow footprint",
+        "text": "After the drain is ready for testing, the plumber checks a controlled flush and tank refill for proper closure and continued leakage. Separately, unsuitable wastewater-contacted porous layers are contained for removal. Suitable retained hard surfaces receive physical cleaning followed by appropriate label-directed disinfection, with material drying and floor repair completed as needed."
+      }
+    ],
+    "estimate": "The drain condition, tank mechanism and wastewater-contacted layers determine scope. Tank service and drain correction remain plumbing work; neither replaces cleanup of the room.",
+    "checklist": [
+      "Report whether tank water continued feeding the bowl.",
+      "Share the plumber\u2019s findings on the drain and flush mechanism.",
+      "Identify overflow-contacted flooring, trim and adjacent rooms."
+    ]
+  },
+  "fire-damaged-debris-removal/justin": {
+    "intro": "Fire damaged debris removal in Justin can include separating boards selected for recovery from wood assigned to disposal. Exposed nails can prevent those boards from being handled or stacked for further evaluation. Where their condition permits, controlled de-nailing removes the fasteners while keeping ejected points out of the work route.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Justin: select pieces before de-nailing",
+        "text": "The responsible repair provider determines which released boards may be evaluated for recovery; charred, split or contaminated wood is not accepted merely because it can be lifted. Approved removal and transfer preserve the building\u2019s remaining support and contain loose fire debris. De-nailing takes place at a separate supported station after the pieces have been released, rather than by driving fasteners out of an installed load-bearing connection."
+      },
+      {
+        "title": "Drive exposed points back through the supported board",
+        "text": "For an eligible pneumatic de-nailing operation, the trained operator selects the driver and nose arrangement for the fastener and board thickness. The nose receives the exposed nail point, aligns it and drives the fastener back through the wood into a confined, impact-absorbing collection area. Rigid work support and controlled discharge keep the ejected nails from crossing another worker\u2019s path. Tool adjustments, air supply and jam release follow its instructions rather than forcing a stuck driver or increasing pressure to compensate."
+      },
+      {
+        "title": "Collect fasteners and retain the wood\u2019s separate disposition",
+        "text": "The crew collects expelled nails and remaining sharp fragments, then checks the board for fasteners still embedded or broken off. Nail-free appearance does not establish structural capacity, cleanliness or suitability for machining. Any proposed reuse follows the repair provider\u2019s condition and treatment decisions, while rejected wood and collected metal follow their assigned waste routes."
+      }
+    ],
+    "estimate": "Board condition, fastener type and a suitable controlled work station determine whether de-nailing is worthwhile. Structural evaluation, contamination treatment and any reuse specification are separate from debris handling.",
+    "checklist": [
+      "Identify boards proposed for recovery and the repair provider\u2019s disposition.",
+      "Describe exposed nails, splitting and fire or water contact.",
+      "Share removal restrictions and available space for supported handling."
+    ]
+  },
+  "fire-damaged-contents-cleaning/justin": {
+    "intro": "Fire damaged contents cleaning in Justin may involve veneered furniture also wetted during firefighting. A lifted veneer can remain loose after soot removal because the original adhesive has weakened. We will coordinate cleaning and stabilization with a furniture conservator before any accepted veneer is bonded back to its base.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Justin: evaluate the veneer and underlying wood",
+        "text": "The contents provider and conservator distinguish soot, moisture damage, failed adhesive and heat-related loss. Suitable deposits receive a finish-compatible collection and cleaning method, while loose veneer stays supported during handling. Charred wood, distorted substrate or a damaged coating may rule out a local rebonding repair even when the decorative sheet survives."
+      },
+      {
+        "title": "Renew an accepted hide-glue bond beneath the lifted veneer",
+        "text": "For a piece whose original adhesive and condition suit this conservation method, the conservator softens and removes failed glue through controlled access beneath the lifted area. Fresh hot hide glue is introduced with fine tools in small sections before its short working time expires. This treatment is selected for the actual adhesive and finish; a wetting or heating procedure is not applied indiscriminately to every veneered object."
+      },
+      {
+        "title": "Clamp through a release layer without bonding the protective support",
+        "text": "A compatible release film separates the repaired face from a rigid pressure-spreading support while clamps hold the veneer in contact with its base. The conservator arranges pressure for the piece\u2019s contours and checks the set bond before removing support and completing finish work. Adhesive repair does not remove untreated soot, reverse heat damage or establish that the whole item is ready for return."
+      }
+    ],
+    "estimate": "Veneer stability, original adhesive, substrate condition and clamping access determine recovery options. Conservation repair and finish restoration are separately scoped from soot cleaning, drying and storage.",
+    "checklist": [
+      "Identify loose veneer and any detached pieces without pulling them away.",
+      "Describe heat exposure and firefighting-water contact.",
+      "Share known age, previous repairs and furniture finish information."
+    ]
+  },
+  "smoke-damage-cleanup/justin": {
+    "intro": "Smoke damage cleanup in Justin may accompany repair of failed glazing putty in an otherwise repairable wooden window. Where a window specialist must remove the pane, its covered edge and the wood recess become accessible for cleaning. We will coordinate that work with proper glass bedding and retention before the sash returns.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Justin: distinguish soot from failed glazing",
+        "text": "The window provider evaluates the glass, wooden sash, putty and coatings before disassembly. Heat-damaged glass or unsound wood can require replacement rather than this repair. Existing coatings and other material hazards determine preparation controls. A sound pane is handled and identified for its original opening; deposits on the exposed room face do not define the condition beneath failed putty."
+      },
+      {
+        "title": "Release the pane and rebuild its bed in the wood recess",
+        "text": "For an accepted traditional wood sash, the specialist removes failed putty and glazing points without damaging the recess, then lifts and supports the pane for compatible residue collection and cleaning of the glass and exposed wood. The prepared wood receives the specified primer and a continuous bed of glazing putty. The pane is pressed into that bed, secured with glazing points and finished with a beveled face of putty at the edge. A bead over old loose putty does not create the same supported assembly."
+      },
+      {
+        "title": "Finish the repaired sash after the glazing material is ready",
+        "text": "Finishing follows the selected glazing product\u2019s curing and coating instructions before the repaired sash is returned to service. The window provider checks operation and the completed repair. Cleanup of nearby wall finishes and other smoke deposits remains separately defined, and any remaining staining or damaged coating receives its own finish decision."
+      }
+    ],
+    "estimate": "Sash condition, glass salvageability, coating controls and glazing-product requirements determine this repair. Window work, broader smoke cleanup and any replacement glass are separately scoped.",
+    "checklist": [
+      "Identify the affected wooden windows and any loose or missing glazing putty.",
+      "Share window-service findings and known coating history.",
+      "Describe broken panes, warped wood and prior cleaning products."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/justin": {
+    "intro": "Fire extinguisher residue cleanup in Justin can leave two jobs after a dry-chemical discharge: collecting powder from the room and restoring the used extinguisher for service. Chemical lodged in its hose or nozzle requires equipment work by a qualified fire-protection provider. Cleaning the outside and reading the pressure gauge cannot establish a clear discharge passage.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Justin: separate room deposits from equipment service",
+        "text": "We identify the extinguisher agent and affected finishes before collecting loose room residue with suitable equipment and testing compatible surface cleaning. Fire damage, contamination inside appliances and damaged porous materials receive separate treatment decisions. The used extinguisher goes to a qualified service provider; a partially discharged unit needs service even when its gauge appears usable."
+      },
+      {
+        "title": "Remove and clear the discharge assembly",
+        "text": "Following the exact model\u2019s service instructions and required depressurization, the equipment provider removes the nozzle or hose assembly. They inspect the hose, coupling threads and nozzle for damage, clear the detached passage with air as specified by the manufacturer, and replace damaged components with approved parts. The clear, sound assembly is reinstalled as part of the required service. This bench procedure does not authorize blowing settled powder around the building."
+      },
+      {
+        "title": "Complete equipment service and recover the room residue",
+        "text": "A cleared nozzle alone does not return a discharged extinguisher to service; the provider completes the required recharge and other applicable maintenance. Room cleanup continues through collection of residue, compatible cleaning and removal of cleaning waste. We distinguish a cleanable deposit from finish damage or equipment corrosion needing repair, and keep fire-protection service separate from building restoration."
+      }
+    ],
+    "estimate": "The agent, spread of residue and affected materials determine room cleanup. Extinguisher hose or nozzle replacement, recharge and required testing are separately scoped with the qualified equipment provider.",
+    "checklist": [
+      "Keep the extinguisher label available so its agent and model can be identified.",
+      "Report partial discharge, damaged hose or nozzle, and any equipment already serviced.",
+      "Identify powder inside appliances and any cleaning products already applied."
+    ]
+  },
+  "kitchen-fire-cleanup/justin": {
+    "intro": "Kitchen fire cleanup in Justin may include burned-on cooking residue on a glass-ceramic cooktop that an appliance provider accepts for cleaning. A deposit on sound glass and a cracked or pitted cooking surface need different decisions. We will coordinate the eligible surface treatment while keeping fire-damaged appliance evaluation separate from cleaning the kitchen.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Justin: establish whether the cooking surface is salvageable",
+        "text": "The appliance provider checks the model and reported fire exposure before cleaning begins. Cracks, pitting, damaged controls or suspected internal damage go to service or replacement evaluation. Loose soot elsewhere in the kitchen and extinguisher deposits are identified separately; an ordinary cooked-food cleaning method does not establish compatibility with an unknown suppression agent."
+      },
+      {
+        "title": "Lift eligible burned-on residue from the glass",
+        "text": "On an accepted cool glass surface, the provider follows the model\u2019s approved cooktop-cream and cleaning-pad method. Where its instructions permit a razor scraper for heavier deposits, the blade works at the prescribed shallow angle with a small amount of cream kept on the residue. Loosened material and cleaner are removed before the surface is finished. This controlled lift differs from using an abrasive pad or attempting to grind out a pit in the glass."
+      },
+      {
+        "title": "Keep surface results separate from appliance readiness",
+        "text": "Remaining indentation, fused material or discoloration receives a service decision rather than progressively harsher scraping. The appliance provider determines any repair and return-to-use requirements. We separately collect kitchen soot and debris, clean suitable retained finishes using tested compatible methods, and address suppression-water contact before damaged wall or cabinet finishes are rebuilt."
+      }
+    ],
+    "estimate": "Cooktop condition and model-specific cleaning limits determine whether surface treatment is feasible. Appliance repair or replacement, hood service, cabinet work and broader fire restoration are separately scoped.",
+    "checklist": [
+      "Provide the appliance model and describe the fire exposure.",
+      "Identify cracks, pits or hardened deposits without operating the appliance.",
+      "List extinguisher agents and cleaning products already used."
+    ]
+  },
+  "emergency-board-up-after-fire/justin": {
+    "intro": "Emergency board up after fire in Justin may use an accepted removable metal-panel system with a top header track and a lower studded angle. The upper edge seats inside the track while lower hardware retains each panel, allowing planned removal without repeatedly fastening through the panel face. We will coordinate that temporary closure only where the opening and system are suitable.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Justin: accept the opening and mounting system",
+        "text": "Site release, loose-glass control and structural findings precede installation. The temporary-work provider checks the receiving material, track attachment, panel dimensions and the specific system\u2019s permitted arrangement. Existing tracks are not assumed usable after heat exposure, and no closure blocks a required exit or the agreed crew access."
+      },
+      {
+        "title": "Seat panel tops and secure the overlapping lower edges",
+        "text": "For the supported header-and-stud arrangement, the installer slides each metal panel\u2019s top into the header, brings its lower openings over the matching studs and installs the required wing nuts. Adjacent panels overlap in the system\u2019s prescribed order and all required hardware is tightened. The full opening is completed before the crew moves on, with the mounting rails carrying the assembly through their accepted attachments. A panel resting against the track without its lower retention is unfinished."
+      },
+      {
+        "title": "Maintain protection and plan the panel release",
+        "text": "The provider checks the fitted assembly and separately resolves any weather-sealing detail needed at the damaged opening. Panel retention alone does not establish a watertight enclosure or release the building for occupancy. Later removal supports each panel while its lower hardware is released and the upper edge is withdrawn from the track, preserving the planned access and replacement sequence."
+      }
+    ],
+    "estimate": "Opening condition, approved rail attachments and panel fit determine whether this temporary system is suitable. Additional weather protection, structural work and permanent glazing remain separate.",
+    "checklist": [
+      "Share site-release findings and the proposed panel-system details.",
+      "Identify required exits and authorized crew access.",
+      "Describe existing track condition and permanent-repair timing."
+    ]
+  },
+  "floor-water-damage-cleanup/justin": {
+    "intro": "Floor water damage cleanup in Justin may require opening a carpet seam to reach wet cushion or flooring beneath it. When the retained carpet is suitable for reuse, the later repair needs a sound backing bond rather than a strip of tape across the pile. We will coordinate the exposed-floor work with the carpet installer\u2019s reseaming method.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Justin: complete the work beneath the seam",
+        "text": "Water source, exposure and backing condition determine whether the carpet can remain. Accessible water is recovered, unsuitable cushion or other affected layers are removed, and suitable retained flooring receives cleaning and monitored drying. Delaminated backing or unsuitable contamination can rule out reseaming even if the carpet face still looks usable."
+      },
+      {
+        "title": "Bond accepted backing to the specified seaming tape",
+        "text": "For a compatible hot-melt repair, the installer prepares and seals the cut edges, centers the approved adhesive tape below them and works over a firm, flat seaming surface. The seaming device melts the tape adhesive so it bonds to the backing. Temperature, heat shielding and a suitable seam roller follow the carpet and tape instructions; excess heat or an unsuitable spiked roller can damage the repair."
+      },
+      {
+        "title": "Let the seam set before resetting the floor covering",
+        "text": "The installer uses a suitable nonmetal seam weight where required; metal can trap heat and moisture. Edges meet without an overlap or open gap, and the seam is allowed to set before the accepted carpet is tensioned and secured. A repaired seam may remain visible. Returning carpet follows the underlying floor\u2019s readiness, not just completion of the adhesive bond."
+      }
+    ],
+    "estimate": "Carpet construction, backing condition, available seam allowance and the affected floor layers determine recovery. Carpet repair and resetting are separately scoped from extraction, drying and replacement cushion.",
+    "checklist": [
+      "Identify the seam or edge opened during cleanup.",
+      "Share carpet product information and any backing separation.",
+      "Provide the exposed-floor drying findings and cushion disposition."
+    ]
+  },
+  "ceiling-water-damage-cleanup/justin": {
+    "intro": "Ceiling water damage cleanup in Justin can leave a localized opening whose replacement drywall needs support at the cut edges. Where the ceiling assembly permits repair clips, those metal pieces connect the patch to sound retained board. We will coordinate that repair after removing unsuitable wet material and drying the retained ceiling components.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Justin: establish a sound repair edge",
+        "text": "The source and overhead stability are resolved before controlled removal. Reachable water and debris are collected, specified unsuitable board or insulation is removed, and retained framing receives cleaning and drying. The installer checks panel thickness, edge strength and the ceiling\u2019s required assembly details before selecting a clip-supported patch; softened or crumbling board cannot provide the receiving edge."
+      },
+      {
+        "title": "Fasten the patch to the selected repair clips",
+        "text": "For an eligible repair, the installer fits clips over the retained board edge and secures them through that board into the clip perforations. A measured replacement panel receives separate screws into the same clips on the opposite side of the joint. The exposed positioning tabs are then removed as instructed. The arrangement supports the joint mechanically instead of relying on a thick layer of compound to hold a loose patch."
+      },
+      {
+        "title": "Finish the supported joints after the cavity is ready",
+        "text": "Specified joint tape and compound bridge the patch perimeter, with coats allowed to harden before further finishing. The installer confirms compatibility with the actual ceiling, including any required fire-resistance detail, rather than treating a general repair-kit label as approval for every assembly. Texture and paint follow the finished repair; renewed staining or movement requires investigation of the source or support."
+      }
+    ],
+    "estimate": "Opening size, retained edge condition, panel thickness and ceiling assembly determine the repair method. Clip-supported patching and finish matching are separate from extraction, drying and any structural work.",
+    "checklist": [
+      "Share the leak repair and ceiling access findings.",
+      "Identify panel layers and any known rated ceiling assembly.",
+      "Describe the opening and remaining damaged edges without disturbing overhead material."
+    ]
+  },
+  "structural-drying-services/justin": {
+    "intro": "Structural drying services in Justin can lose effectiveness when a dehumidifier\u2019s removable air-to-air heat exchange block becomes loaded with dust. That internal part needs its own inspection even after the intake filter is changed. We will arrange supported equipment service while checking the wet building materials that still need drying.",
+    "sections": [
+      {
+        "title": "Structural drying services in Justin: inspect the internal air passages",
+        "text": "The equipment provider isolates power and follows the model\u2019s access procedure to reach the removable block. Its condition is considered alongside the filter, operating conditions and material-moisture trend. A dirty component is a service finding, not proof that it is the only reason a wall or floor remains wet."
+      },
+      {
+        "title": "Clear the block and restore its sealing edges",
+        "text": "On a unit permitting this service, the provider removes the block to a controlled service area and clears its channels with the specified compressed-air method without damaging them. Released dust is kept out of the drying room. Sensitive sensors stay protected from impact and cleaning liquid. Reinstallation preserves the block\u2019s original orientation and seats its surrounding sealing strips without folds or gaps; an incorrectly seated block is not corrected by merely closing the outer cover."
+      },
+      {
+        "title": "Resume drying and check the retained assembly",
+        "text": "After the unit is reassembled and checked, the drying arrangement directs air toward suitable exposed wet materials and removes the moisture released into the room. Repeat measurements at the affected building locations guide further adjustment or closure. A clean heat exchange block does not resolve inaccessible wet layers, continuing leakage or material that requires removal instead of drying."
+      }
+    ],
+    "estimate": "Equipment condition, service access and the response of retained building materials determine the work. Internal repairs beyond supported maintenance belong to the authorized equipment-service provider.",
+    "checklist": [
+      "Share drying-equipment models and recent maintenance.",
+      "Identify materials whose readings have stopped improving.",
+      "Describe continuing leaks or still-covered wet layers."
+    ]
+  }
+}

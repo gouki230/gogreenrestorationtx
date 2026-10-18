@@ -1,0 +1,554 @@
+{
+  "emergency-water-extraction/kemp": {
+    "intro": "Emergency water extraction in Kemp can slow when an extractor draws air around a damaged recovery-tank lid seal. The motor may run while useful suction at the floor tool falls. We will correct the supported collection setup or change equipment before continuing recovery.",
+    "sections": [
+      {
+        "title": "Emergency water extraction in Kemp: distinguish a seal leak from a full tank",
+        "text": "The operator checks the recovery system under its instructions, including the lid seating, gasket and receiving capacity. A damaged sealing surface requires a different correction from an ordinary tank-emptying cycle. Equipment is stopped and isolated before the lid assembly receives service."
+      },
+      {
+        "title": "Replace the failed gasket on an eligible lid",
+        "text": "Where the manufacturer provides a replacement procedure, the old gasket and adhesive residue are removed from the receiving channel. The specified replacement is seated with the required bonding material, and that material is allowed to set before the lid returns. An improvised patch over a torn gasket is not assumed to restore the seal; another suitable extractor can handle ongoing collection during repair."
+      },
+      {
+        "title": "Verify pickup at the floor tool",
+        "text": "The operator checks the restored collection path and resumes compatible passes over the wet floor. Recovered water follows the accepted disposal route. Covered floor layers and wall edges still receive their own inspection and drying decisions after visible liquid is removed."
+      }
+    ],
+    "estimate": "Water condition, lid assembly, equipment suitability and the affected floor area determine recovery needs; equipment repair does not establish that retained building layers are dry.",
+    "checklist": [
+      "Describe the water source and affected floor materials.",
+      "Share any interrupted extraction or equipment fault.",
+      "Identify covered edges still holding water."
+    ]
+  },
+  "burst-pipe-cleanup/kemp": {
+    "intro": "Burst pipe cleanup in Kemp can accompany replacement of a damaged steel water-line section using a compatible grooved coupling. The housing keys engage grooves in the replacement pipe ends while a separate gasket seals the connection. We will collect the released water and keep restoration access coordinated with the qualified piping provider’s assembly and testing.",
+    "sections": [
+      {
+        "title": "Burst pipe cleanup in Kemp: identify the supported replacement joint",
+        "text": "The piping provider isolates and drains the line, supports the remaining pipe and confirms the replacement material, groove dimensions and coupling system. The prepared sealing surfaces must be free of debris and damage that would defeat the gasket. Released water receives separate extraction, with unsuitable wet wall or floor layers identified along its actual path."
+      },
+      {
+        "title": "Engage the coupling keys in the prepared pipe grooves",
+        "text": "For the identified QuickVic system, the provider applies the specified compatible lubricant to the gasket lips and inserts both prepared ends to the gasket’s center stop. The housing keys must align with and fully enter the pipe grooves. Those keys provide the mechanical engagement; merely compressing a rubber sleeve around plain pipe does not reproduce this joint."
+      },
+      {
+        "title": "Complete the housing closure before testing and enclosure",
+        "text": "The provider alternates tightening between sides until the specified bolt-pad contact and offset conditions are achieved. A visible gap or incorrect engagement receives correction before the system is placed in service. Following the required piping checks, restoration completes retained-material cleaning and monitored drying before reconstruction conceals the opening."
+      }
+    ],
+    "estimate": "Pipe dimensions, coupling eligibility and access for complete housing engagement affect the repair sequence. Piping assembly and testing remain separately assigned from extraction, material removal and drying.",
+    "checklist": [
+      "Share the piping provider’s proposed coupling and pipe specifications.",
+      "Identify the accessible repair opening and released-water route.",
+      "Keep the joint available for required inspection and testing."
+    ]
+  },
+  "appliance-leak-cleanup/kemp": {
+    "intro": "Appliance leak cleanup in Kemp may follow a blocked refrigerator defrost drain, with water or ice on the freezer floor and liquid escaping onto the kitchen floor. We will recover the spill while appliance service checks the drain route to the collection pan.",
+    "sections": [
+      {
+        "title": "Appliance leak cleanup in Kemp: trace water from the freezer drain to the collection pan",
+        "text": "The appliance provider checks the model, drain opening and route into the pan. A frozen opening, debris blockage, displaced tube or cracked pan can produce similar puddles, so the observed water path matters before parts are changed."
+      },
+      {
+        "title": "Clear the drain without damaging the liner",
+        "text": "The appliance technician obtains the access required for the identified model and clears or repairs the drain by its supported service procedure. Some bottom-freezer models require disassembly to reach this tube. Water must again reach the intended pan before the appliance is reset; thawing visible ice alone does not establish an open drain."
+      },
+      {
+        "title": "Dry the appliance footprint before resetting it",
+        "text": "After the leak source is checked, the appliance is moved only as authorized and the exposed floor and adjacent cabinet edges are inspected. Water beneath a refrigerator can travel beyond the visible puddle, so floor readings and material condition guide drying or removal."
+      }
+    ],
+    "estimate": "Drain access, confirmed defrost-water path, appliance movement and floor construction affect scope. Appliance service and drying beneath the refrigerator are separate steps.",
+    "checklist": [
+      "Provide refrigerator make and model if available.",
+      "Describe whether water appears during defrost or normal use.",
+      "Identify flooring exposed when the appliance is moved."
+    ]
+  },
+  "storm-water-damage-cleanup/kemp": {
+    "intro": "Storm water damage cleanup in Kemp can follow rain entering through a deep failed sealant joint at a window perimeter. A bead stuck to three sides may tear instead of accommodating movement. We will coordinate interior water recovery with a qualified installer’s correction of the joint backing.",
+    "sections": [
+      {
+        "title": "Storm water damage cleanup in Kemp: expose the actual perimeter joint",
+        "text": "The installer determines whether this joint is intended to be sealed and checks the adjoining flashing and drainage openings first. Failed sealant is removed from the included joint so its sides and depth can be evaluated. Sealing a designed drainage outlet would create a different water problem."
+      },
+      {
+        "title": "Control the depth and the surfaces receiving sealant",
+        "text": "Where the selected system calls for it, a compatible backer rod is seated with a blunt tool to the specified depth. It supports the new sealant and prevents attachment to the back of the joint, leaving the two side faces to receive the bond. Clean, prepared side faces and the specified sealant geometry allow the joint to move; filling the entire deep gap with sealant does not create the same detail."
+      },
+      {
+        "title": "Complete the interior water work before replacing trim",
+        "text": "We recover accessible water and inspect the wet wall return and floor edge. Unsuitable wet layers receive controlled removal and retained materials are measured through drying. The installer’s joint check remains separate from these interior findings before finishes cover the opening."
+      }
+    ],
+    "estimate": "Joint geometry, substrate condition, flashing connections and interior water travel determine the work; exterior joint repair and building drying are separately assigned.",
+    "checklist": [
+      "Share where rain first appeared inside the opening.",
+      "Identify past sealant repairs and the window system if known.",
+      "Describe opened trim and wet wall or floor layers."
+    ]
+  },
+  "ac-leak-water-damage-cleanup/kemp": {
+    "intro": "AC leak water damage cleanup in Kemp can be needed when a frozen evaporator coil thaws and releases water around the air handler. Continuing to run cooling does not correct the cause of the ice. We will collect the escaped water while an HVAC provider diagnoses the freezing.",
+    "sections": [
+      {
+        "title": "AC leak water damage cleanup in Kemp: allow a controlled thaw",
+        "text": "The HVAC provider shuts down cooling and follows the equipment’s thawing procedure before inspecting the coil. Ice is not chipped from the fins or removed with an improvised heat source. We check the platform and adjoining finishes for meltwater already outside the intended collection path."
+      },
+      {
+        "title": "Correct the cause before restarting cooling",
+        "text": "A restricted filter or airflow path and a refrigerant fault require different repairs. The HVAC provider restores the supported airflow or undertakes the necessary refrigeration service, then checks the system under its operating procedure. A coil that has become ice-free during shutdown has not thereby been repaired."
+      },
+      {
+        "title": "Dry the reached construction after meltwater collection",
+        "text": "Water released during thawing is included in recovery rather than overlooked as a second puddle. Damaged porous platform or lining material is evaluated for removal, while suitable retained construction is dried and checked. HVAC restart and readiness to close the wet building assembly are separate decisions."
+      }
+    ],
+    "estimate": "Ice extent, drainage during thawing, HVAC findings and the wet platform or ceiling determine scope; refrigerant service and equipment repair remain with the qualified HVAC provider.",
+    "checklist": [
+      "Share photographs of the ice before thawing if available.",
+      "Identify the air-handler model and recent airflow changes.",
+      "Describe water at the platform, wall or ceiling below."
+    ]
+  },
+  "bathroom-mold-removal/kemp": {
+    "intro": "Bathroom mold removal in Kemp can accompany repair of a shower valve that leaks at its cartridge and keeps adjoining trim damp. The source needs a plumber’s diagnosis before a replacement part is selected. We will coordinate affected-material treatment with the confirmed valve repair.",
+    "sections": [
+      {
+        "title": "Bathroom mold removal in Kemp: identify the valve and the affected material",
+        "text": "The assessment follows the moisture beyond the visible trim and identifies the included wall materials. The plumber confirms the cartridge model and distinguishes a stem leak from a failed pipe joint or water entering around the escutcheon. Different faults cannot be corrected by swapping the same cartridge."
+      },
+      {
+        "title": "Release and reseat the supported cartridge assembly",
+        "text": "For an eligible clip-retained cartridge system, the plumber isolates the water, releases the handle and required trim, and removes the retaining clip before withdrawing the cartridge. The matching replacement is seated and oriented under the manufacturer’s instructions so the clip can fully engage. Forced extraction against a retained clip or an incompletely seated replacement can damage the valve."
+      },
+      {
+        "title": "Treat the wet enclosure independently of the valve",
+        "text": "The plumbing provider tests leakage and operation before trim returns. The remediation provider contains specified unsuitable porous material for removal and physically cleans suitable retained surfaces under the required controls. Drying and any applicable independent evaluation precede rebuilding the affected wall."
+      }
+    ],
+    "estimate": "Valve identification, access and the affected wall layers determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Identify the shower valve or share existing service records.",
+      "Describe whether leakage occurs at the handle or behind trim.",
+      "Provide assessment findings and any exposed cavity photographs."
+    ]
+  },
+  "kitchen-cabinet-mold-removal/kemp": {
+    "intro": "Kitchen cabinet mold removal in Kemp can leave a retained door needing repair at worn hinge screw holes before it is rehung. That repair is considered only after the receiving material is accepted as clean, dry and sound. We will keep the cabinet treatment separate from the installer’s supported hardware repair.",
+    "sections": [
+      {
+        "title": "Kitchen cabinet mold removal in Kemp: resolve material condition before the hinge repair",
+        "text": "The remediation provider identifies affected cabinet layers, removes specified unsuitable porous material and physically cleans suitable retained surfaces while collecting the released deposits. Source correction and drying precede hardware reinstatement. Crumbling, swollen or otherwise unsound material is not retained simply because a new fastener can be inserted."
+      },
+      {
+        "title": "Restore eligible hinge screw engagement with matching dowels",
+        "text": "For a compatible European hinge and a sound receiving door, the installer can use a supported hinge-dowel repair kit. Its matched plastic inserts fit the specified prepared holes, and the kit’s screws secure the hinge into those inserts. The repair restores screw purchase at the hinge attachment; the installer checks hole dimensions, panel thickness and fit before choosing it."
+      },
+      {
+        "title": "Check attachment and door movement before returning contents",
+        "text": "The installer verifies that the hinge is secure and the door moves without pulling its attachment loose. A split edge or inadequate surrounding material requires a different repair or replacement decision. Applicable independent assessment or clearance remains separate from both remediation and cabinet repair; successful door movement does not establish that concealed cabinet backing was treated."
+      }
+    ],
+    "estimate": "Retained-panel condition, hinge compatibility and the assessed material scope determine the work. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share source-repair and cabinet assessment findings.",
+      "Identify the hinge and the condition of its receiving panel.",
+      "Describe earlier removal, treatment and any loose door attachment."
+    ]
+  },
+  "mold-remediation-after-water-damage/kemp": {
+    "intro": "Mold remediation after water damage in Kemp may follow leakage at a washing-machine inlet hose whose sealing washer is missing or damaged. The threaded coupling holds the connection together, while the washer forms its intended seal. We will coordinate the material treatment with correction of that connection.",
+    "sections": [
+      {
+        "title": "Mold remediation after water damage in Kemp: distinguish the hose seal from other leaks",
+        "text": "The service provider checks the faucet and appliance ends after isolating the water. A cracked hose, damaged thread or leaking appliance inlet requires its own repair. The remediation assessment follows water at the wall base and below the appliance rather than limiting treatment to the connector location."
+      },
+      {
+        "title": "Restore the matching washer and hose connection",
+        "text": "For a compatible hose assembly, the provider confirms a sound washer is correctly seated at each required end before reconnecting it under the manufacturer’s tightening instructions. The hose is routed without kinking and checked during water admission. Adding tape to the coupling threads does not replace the face washer or repair a damaged hose."
+      },
+      {
+        "title": "Treat the construction the recurring seepage reached",
+        "text": "The remediation provider removes specified unsuitable porous wall or floor material and physically cleans suitable retained surfaces under the work controls. Measurements follow the retained layers through drying. The machine returns to position after the source and included building work have their separate checks."
+      }
+    ],
+    "estimate": "Hose-end condition, appliance access and affected building layers determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share appliance and hose identification if available.",
+      "Describe which hose end leaked and earlier tightening attempts.",
+      "Provide assessment findings and the floor layers already exposed."
+    ]
+  },
+  "mold-removal-behind-drywall/kemp": {
+    "intro": "Mold removal behind drywall in Kemp can follow leakage at a preformed shower base where a compression drain gasket seals around the drainpipe. A bead around the visible strainer cannot restore that internal seal. We will coordinate cavity treatment with a plumber’s inspection of the actual drain assembly.",
+    "sections": [
+      {
+        "title": "Mold removal behind drywall in Kemp: identify the shower-drain assembly",
+        "text": "The plumber confirms whether the installation uses a no-caulk compression drain and whether the base and pipe remain sound. The remediation assessment establishes the affected wallboard, insulation and framing reached through authorized access. A cracked shower base or misaligned pipe may require more than gasket replacement."
+      },
+      {
+        "title": "Compress the specified gasket around the pipe",
+        "text": "For an eligible no-caulk drain, the plumber positions the correct rubber gasket between the drain body and pipe, then uses the matching compression ring and tool to seat it under the product instructions. The base-to-drain flange has its own sealing and locking arrangement. Neither interface is reconstructed by coating the finished strainer with caulk."
+      },
+      {
+        "title": "Check the drain before the wall cavity closes",
+        "text": "The plumber performs the appropriate water check with the repair still accessible. Separately, the remediation provider contains unsuitable porous layers for removal and cleans suitable retained construction. Drying and applicable independent evaluation remain prerequisites to replacing the wall finish."
+      }
+    ],
+    "estimate": "Drain identity, pipe alignment, access and assessed material condition determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share the shower-base and drain identification if known.",
+      "Describe water appearing during shower use or draining.",
+      "Provide assessment information and the location of existing access."
+    ]
+  },
+  "attic-mold-remediation/kemp": {
+    "intro": "Attic mold remediation in Kemp can accompany correction of roof leakage at exposed nails driven through shingle faces. Covering those heads with another dab of caulk may leave a failed roofing detail in place. We will coordinate the assessed attic treatment with a roofer’s permanent repair decision.",
+    "sections": [
+      {
+        "title": "Attic mold remediation in Kemp: confirm the roof entry point",
+        "text": "The roofer identifies exposed fasteners and the actual shingle system, then checks whether water is entering at those locations. The remediation assessment independently identifies affected insulation, decking and framing below. A nail seen in the attic is not by itself proof of a roof defect."
+      },
+      {
+        "title": "Replace face-nailed shingles where the roofing system requires it",
+        "text": "For the identified GAF condition, the manufacturer’s remedy is removal and replacement of shingles containing exposed nails. The roofer restores the fastening arrangement under the current shingle instructions. A surface patch of roof cement or caulk is not presented as that permanent repair; surrounding flashing and damaged decking retain their own repair decisions."
+      },
+      {
+        "title": "Complete the attic material work before reinstatement",
+        "text": "The remediation provider contains specified unsuitable porous material for removal and physically cleans suitable retained construction under the required controls. The repaired water entry and retained-material drying are checked separately. Insulation or enclosure returns after the relevant treatment and independent evaluation requirements are resolved."
+      }
+    ],
+    "estimate": "Roof identification, confirmed entry locations and assessed attic materials determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share roofer findings and the shingle product if known.",
+      "Describe recurring wetting and earlier nail-head patches.",
+      "Provide attic assessment and moisture observations."
+    ]
+  },
+  "crawl-space-mold-remediation/kemp": {
+    "intro": "Crawl space mold remediation in Kemp may accompany repair of an existing cast-iron hub joint sealed with lead and oakum. That assembly differs from a rubber coupling secured by external bands. We will coordinate treatment of the affected crawl-space materials with the plumber’s supported repair method.",
+    "sections": [
+      {
+        "title": "Crawl space mold remediation in Kemp: evaluate the existing hub joint",
+        "text": "The plumber identifies the joint construction, pipe support and condition after controlling flow. A cracked hub or unsuitable receiving surface may require replacement rather than rebuilding the seal. The remediation assessment defines the liner, insulation and framing reached by the leak."
+      },
+      {
+        "title": "Rebuild an eligible caulked joint under specialist controls",
+        "text": "Where the responsible plumber determines that this method is appropriate, prepared dry hub and spigot surfaces receive packed oakum and the specified lead seal. Once cooled, the lead is worked with caulking tools to consolidate the joint. This is qualified plumbing work with lead-handling and hot-work controls, not a restoration crew’s surface sealant patch or a general recommendation to retain every old joint."
+      },
+      {
+        "title": "Test the source and treat the affected construction",
+        "text": "The plumber completes the required leak test before normal flow resumes. The remediation provider removes specified unsuitable porous layers and physically cleans suitable retained construction under the work controls. Drying, source correction and applicable independent evaluation precede replacing insulation or closing access."
+      }
+    ],
+    "estimate": "Hub condition, safe trade access and the assessed material boundary determine scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share the plumber’s identification of the hub joint.",
+      "Describe ongoing leakage and pipe-support concerns.",
+      "Provide assessment findings for the contacted crawl-space materials."
+    ]
+  },
+  "mold-contaminated-contents-cleaning/kemp": {
+    "intro": "Mold contaminated contents cleaning in Kemp may include a historic cased photograph whose image lies on a delicate metal plate. Household wiping can permanently change that surface. We will arrange photographic-conservation review before the object is opened or treated.",
+    "sections": [
+      {
+        "title": "Mold contaminated contents cleaning in Kemp: identify the photographic process",
+        "text": "A conservator distinguishes a daguerreotype from a print, glass negative or another cased image. The case, cover glass and image plate have different handling needs. Treatment is conditional on that specialist accepting the item and establishing appropriate contamination controls."
+      },
+      {
+        "title": "Reduce a confirmed deposit with microscopic control",
+        "text": "For an accepted bare daguerreotype plate, a conservation method can use a brush reduced to one or two hairs to work locally on the deposit under magnification. Loosened debris receives controlled removal within the specialist’s workspace. This minute contact differs from wiping the whole reflective image with a cloth, polishing it or washing it as household metal."
+      },
+      {
+        "title": "Protect the treated plate without promising image restoration",
+        "text": "The conservator determines whether further treatment, enclosure work or preservation imaging is appropriate. Existing staining, corrosion and image loss may remain after deposit reduction. Case treatment and suitable storage are addressed separately before the object returns to a room whose moisture problem has been resolved."
+      }
+    ],
+    "estimate": "Photographic process, plate stability, case condition and specialist acceptance determine the possible recovery scope. Go Green Restoration TX Inc’s Texas Mold Remediation Contractor license is pending. License-required work is referred to an appropriately licensed partner after credentials and scope are confirmed, with the provider identified before work begins. Independent assessment and applicable clearance are separate services.",
+    "checklist": [
+      "Share an overview photograph without opening the case.",
+      "Describe damp storage and earlier attempted cleaning.",
+      "Identify unique family images and existing conservation records."
+    ]
+  },
+  "crawl-space-water-removal/kemp": {
+    "intro": "Crawl space water removal in Kemp can be interrupted when an eligible utility pump has damaged flexible impeller blades. Cleaning the inlet does not replace torn or missing parts of that rotor. We will arrange a suitable alternate recovery method while the equipment provider evaluates the pump and its permitted use.",
+    "sections": [
+      {
+        "title": "Crawl space water removal in Kemp: identify the rotor fault before further operation",
+        "text": "The qualified provider checks the pump model, water compatibility and actual loss of delivery. Dry running, excessive pressure and incompatible liquids can damage a flexible impeller, so fitting another rotor without addressing the cause can repeat the failure. Power is isolated and retained liquid controlled before the pump is opened."
+      },
+      {
+        "title": "Replace the damaged flexible impeller under the model procedure",
+        "text": "For the identified Jabsco Utility Puppy design, the provider removes the end cover and withdraws the impeller to inspect its blade tips, sides and hub. A cracked, torn or incomplete rotor receives the matching replacement. The specified lubricant is applied to the impeller and bore; the hub flat aligns with the shaft flat, and the rotor enters with the prescribed twisting motion."
+      },
+      {
+        "title": "Reassemble and verify transfer before resuming collection",
+        "text": "The end-cover seal is renewed as specified, and the cover and connections are secured before the supported startup check. The provider verifies delivery and resolves leakage or continued poor performance. Restoration collects remaining accessible pools, removes unsuitable wet material and dries retained construction; a repaired pump does not establish the condition of the subfloor or insulation."
+      }
+    ],
+    "estimate": "Pump eligibility, rotor condition, replacement access and the alternate recovery setup determine the sequence. Equipment service and permanent drainage repair are separate from water removal and building-material treatment.",
+    "checklist": [
+      "Share the pump model and reported loss of delivery.",
+      "Identify the water source and any known contaminants.",
+      "Describe accessible remaining water without entering the crawl space."
+    ]
+  },
+  "crawl-space-sewage-cleanup/kemp": {
+    "intro": "Crawl space sewage cleanup in Kemp may need coordination with a drain repair that requires a water test at an accessible cleanout. Releasing test water abruptly can rewet the work area. We will keep the restoration boundary clear while the plumber controls filling and drain-down.",
+    "sections": [
+      {
+        "title": "Crawl space sewage cleanup in Kemp: separate wastewater recovery from pipe testing",
+        "text": "The restoration crew collects the original wastewater and solids through the agreed handling route and contains unsuitable contaminated porous material for removal. The plumber identifies the repaired system, cleanout and test arrangement. A test device is not installed as an improvised permanent backup barrier."
+      },
+      {
+        "title": "Use the supported test-and-drain mechanism",
+        "text": "Where an eligible mechanical cleanout test plug is selected, the plumber uses its identified test and drain positions under the product’s pressure and fitting limits. The drain position permits controlled release while the assembly remains seated, rather than removing a loaded plug into the crawl space. Device selection, restraint, testing and pressure release remain plumbing work."
+      },
+      {
+        "title": "Complete cleaning after the plumbing work is released",
+        "text": "Suitable retained hard surfaces receive physical soil removal and appropriate label-directed disinfection. Any additional wetting during repair or testing is included in recovery and drying. The plumber removes temporary test equipment and restores the system separately from the crawl-space cleanup result."
+      }
+    ],
+    "estimate": "Sewage contact, cleanout access, the plumbing test arrangement and receiving route determine the sequence; pipe testing and permanent drain repair are separately assigned.",
+    "checklist": [
+      "Share the plumber’s repair and test plan.",
+      "Identify the original sewage-contacted materials.",
+      "Describe access and the proposed test-water receiving route."
+    ]
+  },
+  "toilet-overflow-cleanup/kemp": {
+    "intro": "Toilet overflow cleanup in Kemp includes identifying whether the reported overflow actually came from a leaking tank-to-bowl joint during flushing. That release has a different repair from a backed-up bowl. We will recover the escaped water while a plumber identifies the failed seal.",
+    "sections": [
+      {
+        "title": "Toilet overflow cleanup in Kemp: distinguish the release paths",
+        "text": "The plumber checks the tank-to-bowl gasket, tank bolts and supply connection under controlled conditions. The cleanup scope uses the actual water source and contacts, including whether bowl contents crossed the floor. A puddle beside the toilet does not establish that the drain backed up."
+      },
+      {
+        "title": "Replace the supported tank gasket assembly",
+        "text": "For an eligible two-piece toilet, the plumber isolates and empties the tank, supports it during removal and installs the matching gasket and specified bolt seals. The tank is refitted evenly under the fixture instructions without excessive force on the porcelain. A one-piece fixture or cracked tank requires a different repair."
+      },
+      {
+        "title": "Test flushing and restore the contacted floor",
+        "text": "The plumber checks the reassembled tank while filling and flushing. We collect accessible water and address the affected floor and wall edge according to the release, removing unsuitable porous material where required. Retained layers receive drying checks before the wet perimeter is concealed."
+      }
+    ],
+    "estimate": "Release source, fixture design, gasket fit and floor construction determine scope; plumbing repair and wastewater treatment are separately assigned.",
+    "checklist": [
+      "Describe whether water appeared during filling or flushing.",
+      "Share fixture identification and the plumber’s findings.",
+      "Identify any bowl contents and adjacent porous finishes reached."
+    ]
+  },
+  "fire-damaged-debris-removal/kemp": {
+    "intro": "Fire damaged debris removal in Kemp can include intact mercury-containing lamps that must survive handling without breaking into ordinary debris. We will separate these items before bulk loading and coordinate an accepted lamp-management route.",
+    "sections": [
+      {
+        "title": "Fire damaged debris removal in Kemp: identify intact and damaged lamps separately",
+        "text": "After utility and site release, the responsible handler checks product information and observed condition. A tube that remains whole is handled differently from released glass and powder. Unknown or heat-damaged components stay outside ordinary compaction until their handling requirements are established."
+      },
+      {
+        "title": "Contain the lamps without creating new breakage",
+        "text": "Accepted intact lamps are placed in compatible, structurally sound closed packaging that protects them during movement. Damaged lamps and released fragments require packaging that prevents escape of their contents and the applicable cleanup process. A long loose tube laid across a mixed rubble load is not protected by the fact that it was unbroken at pickup."
+      },
+      {
+        "title": "Remove the remaining released debris",
+        "text": "The handler follows the receiving facility’s applicable labeling and acceptance requirements. General fire debris is collected within the released boundary after segregated items are controlled. Lamp removal does not authorize reuse of the fixture or establish structural safety in the surrounding ceiling."
+      }
+    ],
+    "estimate": "Lamp identification, breakage, access and receiving-facility requirements determine handling; electrical evaluation and hazardous-material cleanup are separately assigned.",
+    "checklist": [
+      "Identify lamp labels or fixture information if available.",
+      "Describe broken tubes or prior debris compaction.",
+      "Share utility and site-release restrictions."
+    ]
+  },
+  "fire-damaged-contents-cleaning/kemp": {
+    "intro": "Fire damaged contents cleaning in Kemp may include robust glazed ceramics that can tolerate carefully supported washing after specialist review of soot and heat damage. Fragile decoration or old repairs can rule that method out. We will separate accepted washing from conservation and food-use decisions.",
+    "sections": [
+      {
+        "title": "Fire damaged contents cleaning in Kemp: examine the object before immersion",
+        "text": "The evaluator checks cracks, glaze, applied decoration and earlier repairs after fire exposure. Unglazed or soft ceramics and unstable glass require a conservator. An object that did not burn can still have heat damage, so apparent hardness is not acceptance for washing."
+      },
+      {
+        "title": "Wash an accepted piece over a padded support",
+        "text": "For a sound item accepted for this method, loose surface dirt is removed gently before washing in lukewarm water with a small amount of mild dish soap. A lined basin cushions the object, and both hands support its body rather than lifting by a handle or spout. Harsh dishwashing, bleach and acid are not used to force a remaining stain out of the glaze."
+      },
+      {
+        "title": "Dry and return according to the actual condition",
+        "text": "Excess water is removed gently and the piece air-dries before protective packing. Remaining stains, chips or repair needs are reported to the owner. Conservation and suitability for food contact remain separate decisions; clean appearance cannot establish that a fire-exposed object is safe for dining."
+      }
+    ],
+    "estimate": "Glaze stability, heat exposure, existing repairs and item value determine cleaning eligibility; conservation and functional reuse are separately reviewed.",
+    "checklist": [
+      "Identify ceramic or glass objects and fragile decoration.",
+      "Describe heat, smoke and firefighting-water exposure.",
+      "Flag old repairs and items intended for food use."
+    ]
+  },
+  "smoke-damage-cleanup/kemp": {
+    "intro": "Smoke damage cleanup in Kemp may include a legacy floppy disk with deposits inside its protective jacket. Wiping the outside will not reach the magnetic surface. We will arrange data-recovery review before anyone puts contaminated media into a drive.",
+    "sections": [
+      {
+        "title": "Smoke damage cleanup in Kemp: assess the magnetic carrier",
+        "text": "The specialist identifies the format and distinguishes residue from heat deformation, scratches or coating failure. The value of the stored information and any existing readable copy guide whether treatment is attempted. A sealed hard drive is a different device and is not opened using a floppy-disk method."
+      },
+      {
+        "title": "Release the jacket for supported surface treatment",
+        "text": "For an accepted diskette, the specialist opens the protective jacket without dragging its edges across the magnetic surface. Loose deposits and remaining oily contamination receive the compatible brush or controlled cloth method established for that carrier. This is specialist magnetic-media work; the radial wiping method used on optical discs is not substituted by appearance."
+      },
+      {
+        "title": "Dry and rehouse before a supported recovery attempt",
+        "text": "The diskette is fully dried and placed in an appropriate clean jacket where the original is damaged or contaminated. The specialist determines whether and how to read or copy it. Cleaning cannot reconstruct erased information or a heat-damaged magnetic layer, and building smoke removal remains a separate scope."
+      }
+    ],
+    "estimate": "Media format, heat damage, coating stability and specialist acceptance determine whether recovery can be attempted; no file-recovery outcome is promised.",
+    "checklist": [
+      "Identify disk formats and unique stored information.",
+      "Describe heat, smoke and water exposure.",
+      "Provide known backup copies and earlier playback attempts."
+    ]
+  },
+  "fire-extinguisher-residue-cleanup/kemp": {
+    "intro": "Fire extinguisher residue cleanup in Kemp can require electrical service when powder reaches a plated bus connection inside switchgear. Room cleaning does not establish whether that equipment is recoverable. We will separate building-surface collection from any manufacturer-supported electrical restoration.",
+    "sections": [
+      {
+        "title": "Fire extinguisher residue cleanup in Kemp: establish equipment eligibility first",
+        "text": "A qualified electrical provider isolates and verifies the equipment safe for work, identifies the agent and heat exposure, and consults the equipment manufacturer. A normal maintenance instruction does not authorize reuse after a fire or chemical discharge. Replacement remains necessary wherever the responsible evaluation rejects cleaning."
+      },
+      {
+        "title": "Preserve the plating on an accepted connection",
+        "text": "If the manufacturer accepts the component and procedure, the electrical provider exposes the included mating surfaces and removes deposits by the approved method. For supported plated bus joints, abrasives are avoided and cleaned surfaces are protected from handling contamination. The specified hardware and torque restore the connection pressure during reassembly; polishing away the plated layer would change the contact being restored."
+      },
+      {
+        "title": "Keep electrical testing separate from room cleanup",
+        "text": "The electrical provider completes required inspections and tests before an operating decision. We separately collect reachable room deposits using the confirmed agent’s compatible process and handle affected porous finishes by condition. A clean cabinet front cannot stand in for the internal joint or insulation result."
+      }
+    ],
+    "estimate": "Agent, heat exposure, equipment type and manufacturer acceptance determine whether electrical recovery is possible; electrical service and building cleanup are separately assigned.",
+    "checklist": [
+      "Share the discharged-agent label and equipment identity.",
+      "Provide the electrical provider’s isolation and recovery findings.",
+      "Describe powder outside the equipment enclosure."
+    ]
+  },
+  "kitchen-fire-cleanup/kemp": {
+    "intro": "Kitchen fire cleanup in Kemp can include a recoverable oven extension rack whose tracks remain gritty or difficult to move after residue treatment. An appliance provider must first decide whether heat and contamination allow that component to remain. We will coordinate the room cleanup with the accepted rack’s cleaning and lubrication procedure.",
+    "sections": [
+      {
+        "title": "Kitchen fire cleanup in Kemp: establish whether the rack can be retained",
+        "text": "The appliance provider checks the oven and rack for heat damage, distortion and contamination before choosing cleaning or replacement. Routine rack-care guidance does not establish fire-damaged equipment as safe to use. Kitchen surfaces receive their own soot and grease removal, with unsuitable affected porous materials removed as scoped."
+      },
+      {
+        "title": "Clear the extension tracks and restore their specified lubricant",
+        "text": "For an eligible GE extension rack, the provider removes the rack and collects debris from its side tracks. The specified graphite lubricant is applied at the track locations in the model’s care procedure, then the rack is moved through its travel to distribute it. Lubricant does not replace deposit removal, and cooking oil on the sliding tracks is not substituted for the prescribed product."
+      },
+      {
+        "title": "Check travel and complete the appliance decision",
+        "text": "The provider checks that the rack moves properly and remains supported in its prescribed position. Binding or damaged parts require further correction or replacement rather than forced movement. The appliance’s return to service remains separate from removal of room residue, treatment of nearby contents and drying of firefighting water."
+      }
+    ],
+    "estimate": "Appliance eligibility, rack design and the extent of room deposits determine the work. Specialist appliance evaluation and repair are separately assigned; cleaning or lubricating a rack does not clear the oven for operation.",
+    "checklist": [
+      "Provide the oven model and appliance damage findings.",
+      "Identify whether the rack extends on tracks or is a plain shelf.",
+      "Describe room deposits and any firefighting water."
+    ]
+  },
+  "emergency-board-up-after-fire/kemp": {
+    "intro": "Emergency board up after fire in Kemp may need a temporary access door for authorized entry while other openings stay secured. Repeatedly removing a nailed panel is not the only arrangement for an eligible vacant building. We will coordinate a lockable door with the released structure and access requirements.",
+    "sections": [
+      {
+        "title": "Emergency board up after fire in Kemp: select an approved access opening",
+        "text": "After fire and structural release, the installer confirms a sound receiving frame and the site’s entry restrictions. Required exits and any occupancy conditions govern the choice. A vacant-building closure detail is not automatically suitable for an occupied property."
+      },
+      {
+        "title": "Fit a solid temporary door and through-bolted hasp",
+        "text": "Where this arrangement is approved, the installer fits a suitable solid-core wood or steel door without glazing. The hasp is bolted through the door, and its frame-side connection uses the specified fasteners into sound material. A small surface screw in burned trim cannot provide the intended attachment."
+      },
+      {
+        "title": "Check operation before handing over access",
+        "text": "The door, hinges and lock are checked through opening and closing, with sharp debris controlled and required access retained. The remaining openings have their own secure closure. Temporary protection does not repair fire-damaged framing or establish a permanent weather, fire or security rating."
+      }
+    ],
+    "estimate": "Released frame condition, access requirements and the approved temporary-door detail determine scope; permanent door replacement is separately assessed.",
+    "checklist": [
+      "Share the site-release and occupancy restrictions.",
+      "Identify the authorized access opening and frame condition.",
+      "Describe required exits and utility access."
+    ]
+  },
+  "floor-water-damage-cleanup/kemp": {
+    "intro": "Floor water damage cleanup in Kemp may leave a small area of intact but loose tile after the water source and wet substrate have been addressed. On an eligible dry assembly, an installer may consider injection rebonding instead of lifting every piece. We will keep that repair decision separate from the cleanup and drying result.",
+    "sections": [
+      {
+        "title": "Floor water damage cleanup in Kemp: decide whether injection is eligible",
+        "text": "The installer checks tile stability, grout openings and the receiving base after restoration. Continued moisture, contaminated material requiring removal, broken tile or an unsound substrate can rule out injection. Adhesive does not serve as a drying method or a substitute for access to affected backing."
+      },
+      {
+        "title": "Deliver compatible repair adhesive into the accessible void",
+        "text": "For the selected eligible system, the installer drills controlled openings through grout without penetrating concealed services or waterproofing. Dust is removed from those openings and the specified adhesive is injected into the void by the product procedure. The flow is observed at adjacent openings; a bead on top of the joint cannot rebond the underside."
+      },
+      {
+        "title": "Allow the repair to cure before closing the injection points",
+        "text": "Loading, cleanup and cure follow the chosen product requirements before grout repairs and traffic resume. The installer checks the repaired tiles and explains any remaining movement or unresolved base condition. This local bond repair does not establish the condition of an uninspected wet area elsewhere."
+      }
+    ],
+    "estimate": "Tile integrity, confirmed substrate readiness, concealed-service restrictions and adhesive eligibility determine whether a local injection repair is appropriate.",
+    "checklist": [
+      "Share tile and substrate details and completed drying records.",
+      "Identify cracks, loose pieces and remaining moisture concerns.",
+      "Describe underfloor heating or waterproofing beneath the proposed repair."
+    ]
+  },
+  "ceiling-water-damage-cleanup/kemp": {
+    "intro": "Ceiling water damage cleanup in Kemp can require replacing an interlocking tile held on an Easy Up track rather than patching gypsum board. Removing its center and releasing its edges preserves access to the retaining clip. We will coordinate the wet-cavity work with an installer who has identified that ceiling system.",
+    "sections": [
+      {
+        "title": "Ceiling water damage cleanup in Kemp: confirm attachment before cutting",
+        "text": "The installer identifies the tile and track system after electrical and overhead hazards are resolved. Unsuitable wet material above the tile is included in the restoration scope, and suspect older materials receive appropriate evaluation before disturbance. A clip-mounted tile is not pulled downward as though it were a loose lay-in panel."
+      },
+      {
+        "title": "Release the failed tile and reposition its clip",
+        "text": "For the identified system, the installer cuts out the damaged tile’s center and moves the remaining sections inward to disengage them. The exposed clip is released, reversed and repositioned under the manufacturer’s replacement detail. This sequence opens the bay while limiting force on neighboring tile faces."
+      },
+      {
+        "title": "Fit the replacement after the open assembly is ready",
+        "text": "After source correction, included cleaning and drying, the installer prepares the replacement tile’s edges and engages it with the prescribed clip arrangement. Replacement condition and room acclimation must meet the product requirements. The tile’s finished face does not establish that inaccessible insulation beyond the repair bay is dry."
+      }
+    ],
+    "estimate": "Tile identification, track condition, overhead access and the wet-cavity scope determine work; replacement matching and source repair remain separate.",
+    "checklist": [
+      "Share the tile pattern and any product identification.",
+      "Describe the leak and material visible above the opening.",
+      "Identify nearby fixtures and areas still inaccessible."
+    ]
+  },
+  "structural-drying-services/kemp": {
+    "intro": "Structural drying services in Kemp can lose useful airflow when flexible ducting collapses at an equipment inlet. Duct suitable for blowing air outward may not remain open when air is pulled through it. We will correct the air path and compare the retained materials’ response.",
+    "sections": [
+      {
+        "title": "Structural drying services in Kemp: identify the direction of airflow",
+        "text": "The provider checks the equipment’s permitted duct connections, diameter and length. A flattened inlet run is distinguished from a blocked filter or a wet assembly that needs different access. Material readings remain part of the review rather than using fan noise as evidence of delivery."
+      },
+      {
+        "title": "Use ducting that withstands the inlet pressure",
+        "text": "Where the equipment permits inlet ducting, the provider selects a supported duct designed to resist collapse under negative pressure and secures its connections. Outlet-only layflat material is not substituted into that suction path. Bends and obstructions are corrected within the equipment’s ducting limits rather than compensated for by an unsupported fan setting."
+      },
+      {
+        "title": "Confirm airflow and continue material drying",
+        "text": "The corrected arrangement is checked for an open air path during operation. Retained wall, floor or framing layers continue to receive consistent moisture observations, with additional access or removal considered where supported. Restoring the duct shape establishes equipment delivery, not completion of structural drying."
+      }
+    ],
+    "estimate": "Equipment connections, duct pressure direction, routing and wet-material response determine the arrangement; permanent HVAC alterations are separately assigned.",
+    "checklist": [
+      "Share equipment models and duct connection locations.",
+      "Describe collapsed sections or obstructed routing.",
+      "Provide material readings and the wet assembly being dried."
+    ]
+  }
+}
