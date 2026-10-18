@@ -27,5 +27,6 @@
   },
   "desktop": "Neylandville extraction screenshot reviewed; image loaded, readable heading and CTAs.",
   "remainingCompactUnverified": 1488,
-  "publication": "awaiting deployment/live verification"
+  "publication": "published_live_verified",
+  "liveVerification": "docs/seo/oct18-release-live-verification.json"
 }

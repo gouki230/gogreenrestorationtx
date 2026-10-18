@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-04",
-  "status": "creation_paused_oct18_subset_release_in_progress",
+  "status": "creation_paused_verified_subset_published",
   "automationId": "complete-go-green-dfw-city-expansion",
   "scope": {
     "cities": 206,
@@ -11,11 +11,10 @@
   "verifiedCompactPassed": 3456,
   "verifiedCompactRemaining": 1488,
   "qualityRule": "At least60% normalized rendered five-word phrase uniqueness, plus separate editorial usefulness review. No city swapping, spinning, invented evidence or metric exclusions to force passing.",
-  "publication": "October18 user explicitly authorized1320 additional reviewed pages. Production checks passed; deployment/live verification pending. Creation remains paused.",
+  "publication": "6752 city expansion pages published and live verified, including1320 newly authorized on October18. Remaining1488 compact targets are unverified and excluded. Creation and automations remain paused until user resumes.",
   "activeAssignments": [],
   "nextSteps": [
-    "Verify October18 release live.",
-    "Keep creation and recurring automations paused until user resumes."
+    "Await explicit user instruction before resuming creation."
   ],
   "cities": [
     {
@@ -2799,14 +2798,16 @@
   "releaseManifest": "src/data/expansion-release-manifest.json",
   "release": {
     "status": "published_live_verified",
-    "commit": "f6e29c9",
-    "deployedAtUTC": "2026-10-06T21:51:27.138307+00:00",
-    "verifiedCityPagesPublished": 5432,
-    "corePages": 1044,
-    "compactPages": 2328,
+    "commit": "1f41fce",
+    "deploymentId": "3fffb388-8e4d-4b8c-a1c8-dffab961c215",
+    "deployedAtUTC": "2026-10-18T23:19:57.759417+00:00",
+    "verifiedCityPagesPublished": 6752,
+    "corePages": 1236,
+    "compactPages": 3456,
     "commercialCityPages": 2060,
-    "report": "docs/seo/verified-subset-release-report.md",
-    "liveVerification": "docs/seo/release-live-verification.json"
+    "newlyPublished": 1320,
+    "report": "docs/seo/oct18-release-report.md",
+    "liveVerification": "docs/seo/oct18-release-live-verification.json"
   },
   "resumedAtUTC": "2026-10-13T21:41:01.371296+00:00",
   "verificationTooling": {
